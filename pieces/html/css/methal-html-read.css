@@ -1,0 +1,28 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat|Open+Sans);
+@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700";
+
+*{
+  font-family: "Open Sans", sans-serif;
+}
+
+
+.ocr_page,#dramatis-personae,#play-metadata, body{
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+body p{
+  margin-left: 1%;
+}
+
+ul,li{
+  list-style-type:none;
+}
+
+.stage{
+  font-style: italic;
+}
+
+.speaker{
+  font-weight: bold;
+}

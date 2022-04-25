@@ -1,92 +1,34 @@
-# analyse_emotion
+corpus-methal-all
+-----------------
+
+- Sources pour stages TAL et théâtre alsacien
+- Les sources étaient originalement dans plusieurs dépôts dépendamment de leur origine et elles ont été collectées ici pour faciliter la manipulation
+
+## Contenu
+
+Chaque dossier contient les ressources suivantes :
+- **pieces**
+	- **html** : Pièces pour lesquelles l'OCR a été corrigé à la main par une personne, mais pour lesquelles aucun document TEI n'a été publié (des fichiers TEI existent, dans le dossier *tei2* décrit ci-dessous, mais ils n'ont pas encore été publiés)
+	- **tei** : les pièces encodées en TEI qui ont été publiées sur [GitLab](https://git.unistra.fr/methal/methal-sources) Unistra et sur [Nakala](https://nakala.fr/collection/10.34847/nkl.feb4r8j9). La source première est une numérisation en mode image de ressources sur [Numistral](https://www.numistral.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=false&collapsing=true&version=1.2&query=(colnum%20adj%20%22BNUStr058%22)&suggest=10&keywords=), pour lesquelles nous avons effectué l'OCR, sa correction et l'encodage TEI
+	- **tei-lustig** : pièces en TEI dont la source est des documents sur [Wikisource](https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2), en format wiki-markup. Il s'agit des œuvres complètes d'August Lustig. Elles ont été transformées en TEI par script lors d'un stage en 2021
+	- **tei2** : pièces en TEI pas encore publiées par le projet. Utilisables sachant que :
+	  - Il y a eu moins de validation que pour les pièces publiées
+	  - Il y aura donc plus d'erreurs que dans ces dernières
+	  - Il manque de gérer les traits d'union en fin de ligne (donne un pourcentage de mots mal découpés)
+- **autres**
+	- **db** : Base de données sqlite pour Django, pour l'application sur https://methal.eu/ui/ Pas certain si ça peut être utile pour ce projet
+	- **md** : Export du classeur en ligne qui contient les métadonnées
+	- **personography** : personographie en TEI pour les pièces du corpus pour lesquelles les personnages ont été transcrits. Pas certain si utile pour le projet
+
+- **code**
+	- Code d'analyse du corps par @hyang1 ainsi que des résultats d'analyse et corpus reformaté par lui (p. ex. des dataframes avec le contenu du corpus et avec les métadonnées déjà intégrées)
+	- Contenu de ce dossier et sous-dossiers sont encore à documenter
 
 
+## Métadonnées pour les pièces
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.huma-num.fr/methal/analyse_emotion.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://gitlab.huma-num.fr/methal/analyse_emotion/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+- Ce [classeur](https://docs.google.com/spreadsheets/d/1_xUK1uP209UCjJ9agqr_Zik65u08A8rOAVo53PTtj8Y/edit#gid=731925022) google docs contient les infos originales
+	- Si pas accès, svp demander l'ajout avec son adresse gmail à pruizf
+		- En attendant, le dossier [autres/md](./autres/md) contient un export récent du classeur
+	- La colonne `shortName` de l'onglet `pieces` correspond aux noms de fichiers utilisés dans les différents dossiers de ce dépôt. Pour les documents où l'ID de la pièce n'est pas mentionné (c.à.d. les HTML et les tei-lustig), cette colonne devrait servir à obtenir les métadonnées pour le document en croisant avec le nom du fichier. Autrement, avec l'ID de la pièce on peut croiser avec la colonne `id` de l'onglet `pieces`
+	- C'est à partir de ce classeur que la BD Django est générée. Des scripts créent des "fixtures" pour import dans la BD

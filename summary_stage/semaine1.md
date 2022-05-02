@@ -1,5 +1,4 @@
 ## Semaine 1
-personal token: glpat-RyyEgf6G5LHSjh7cVQs_
 
 #### 1. bib abdaoui 2017
 *objectif:*

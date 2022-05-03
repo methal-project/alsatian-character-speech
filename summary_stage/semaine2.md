@@ -28,4 +28,11 @@ If really quickly: python script to extract corpus
 	```
 	- lire le fichier texte et recherches les mots dans le dictionnaire, sauvegarder les mots-clés trouvés dans une variable *keywords*
 3. calculer le score pour chaque bloc
-4. conclusion et catégorisation par les différents sentiments.
+	- calculer la somme des coefficients de chaque emotion selon les mots-clés, et trouver le coefficient le plus grand pour VAD et emotions de base.
+4. comparer les résultats de deux fichiers.
+	- la polarité des emotions sont ressemblants entre les deux textes.
+	- les différences sont dû à la procédure de parcourir les mots-clés.
+		- valence est souvent confondue avec dominance
+		- certains mots-clés ont été parcouru dans un texte, mais pas dans l'autre. *"fête"*
+		- *"Guete Morje"* sont parcouru comme deux mots qui ont des emotions positives, pourtant, *"Bonjour"* c'est un seule mots positive, les différences comme ça affectent le calcul d'emotions
+		- mélange de français dans le texte Alsacien *"Dictionnaire"* etc. 

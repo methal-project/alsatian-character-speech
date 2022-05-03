@@ -1,15 +1,29 @@
 import pandas as pd
+import re
 
-f_in = "fr_hmr.txt"         # fichier d'entrée
-f_out = "try_fr.txt"           # fichier de sortie
-f_csv = "ELAL_all.tsv"      # fichier lexicon d'emotions
+f_in = "al_hmr.txt"         # fichier d'entrée
+f_out = "try_als.txt"           # fichier de sortie
+f_csv = "ELAL_all.tsv"      # fichier lexicon d'émotions
 emotion_list = [
     "valence", "arousal", "dominance", "anger", "anticipation"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust"
 ]
+regex = "[,|.| |?|!|\n]"
+# liste d'émotions
+
 '''
 Quand il y a des cas avec ";", par exemple comme "claque;applaudir",
 alors on ajoute des nouveux lignes pour chaque mots separe par ';'.
+
+entrée: 
+    csv: fichier csv (type chaîne de caractères)
+sortie: 
+    dic: un dictionnaire (type dict)
+objectif: 
+    sauvegarder dans un dictionnaire les données necessaires 
+dans le fichier csv. le dictionnaire contient les mots français
+et leurs coefficients d'émotions
+
 '''
 def make_dic_fr(csv):
     col_list = [
@@ -31,7 +45,16 @@ def make_dic_fr(csv):
             dic[words] = source.loc[index,"valence":"trust"].values.tolist()
         index += 1
     return dic
+'''
+entrée: 
+    csv: fichier csv (type chaîne de caractères)
+sortie: 
+    dic: un dictionnaire (type dict)
+objectif: 
+    faire la même chose que make_fic_fr(), mais sans traiter
+les celulles avec ";" 
 
+'''
 def make_dic_fr_simple(csv):
     col_list = [
     "fr", "valence", "arousal", "dominance", "anger", "anticipation"
@@ -46,6 +69,16 @@ def make_dic_fr_simple(csv):
         index += 1
     return dic
 
+'''
+entrée: 
+    csv: fichier csv (type chaîne de caractères)
+sortie: 
+    dic: un dictionnaire (type dict)
+objectif: 
+    sauvegarder dans un dictionnaire les données necessaires 
+dans le fichier csv. le dictionnaire contient les mots Alsaciens
+et leurs coefficients d'émotions
+'''
 def make_dic_als(csv):
     col_list = [
     "als", "valence", "arousal", "dominance", "anger", "anticipation"
@@ -67,14 +100,34 @@ def make_dic_als(csv):
         index += 1
     return dic
 
-
+'''
+entrée: 
+    dic: un dictionnaire (type dict)
+    phrase: phrase où on cherché de mots-clés. (type chaîne de caractère)
+sortie: 
+    keywords: tous les mots-clés avec coefficients d'émotion (type dict)
+objectif: 
+    rechercher les mots-clés dans la phrase donnée selon le dictionnaire,
+et sauvegarder les résultats dans un dictionnaire "keywords"
+'''
 def grab_keywords(dic, phrase):
-    words = phrase.split(" ")
+    words = re.split(regex, phrase)
     keywords = {}
     for word in words:
         if (word not in keywords.keys() and word in dic.keys()):
             keywords[word] = dic[word]
     return keywords
+
+'''
+entrée:     
+    keywords: tous les mots-clés avec coefficients d'émotion (type dict)
+sortie: 
+    emotion: un dictionnaire qui contient tous les coefficients
+finales des emotions. (type dict)
+objectif: 
+    calculer la somme des coefficients de chaque emotion selon les mots-clés.
+et trouver le coefficient le plus grand pour VAD et emotions de base.
+'''
 
 def emotion_calculate(keyword):
     emotion = {
@@ -118,7 +171,7 @@ block = ""
 keyword = {}
 keywords = {}
 emotion = {}
-dic = make_dic_fr(f_csv)
+dic = make_dic_als(f_csv)
 
 
 try:
@@ -132,10 +185,10 @@ try:
                     fout.write(block)
                     # resultats des mots-cles:
                     fout.write("\nMots-clés: \n\t")
-                    for emo in emotion_list:
+                    for emo in emotion_list: # écrire chaque titre d'émotion
                         fout.write (emo + "\t")
                     fout.write("\n\n")
-                    for key in keyword.keys():
+                    for key in keyword.keys(): # écrire chaque mots-clés et leurs coefficients
                         fout.write(key + "\t")
                         for score in keyword[key]:
                             fout.write(str(format(score, ".3f")) + "\t")

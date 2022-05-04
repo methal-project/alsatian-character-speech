@@ -177,9 +177,15 @@ dic = make_dic_als(f_csv)
 try:
     with open(f_in, "r", encoding="utf-8") as fin:
         with open(f_out, "w", encoding="utf-8") as fout:
-            for line in fin:
+            fin_info = fin.readlines()
+            file_len = len(fin_info)
+            count_line = 0
+            for line in fin_info:
+                count_line += 1
                 line = line.strip()
-                if (count == size):
+                if (count // size or count_line >= file_len):
+                    if (count_line >= file_len):
+                        block += line
                     keyword = grab_keywords(dic,block)
                     keywords.update(keyword) # variable pour sauvegarder tous les mots trouve
                     fout.write(block)

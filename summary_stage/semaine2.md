@@ -7,6 +7,7 @@ tasks:
 If really quickly: python script to extract corpus
 
 #### étapes pour analyser le texte
+*fichier lexicon_analyse/outils.py*
 
 1. la division
 	le texte est divisé en blocs, séparé par 5 phrases une bloc
@@ -36,3 +37,9 @@ If really quickly: python script to extract corpus
 		- certains mots-clés ont été parcouru dans un texte, mais pas dans l'autre. *"fête"*
 		- *"Guete Morje"* sont parcouru comme deux mots qui ont des emotions positives, pourtant, *"Bonjour"* c'est un seule mots positive, les différences comme ça affectent le calcul d'emotions
 		- mélange de français dans le texte Alsacien *"Dictionnaire"* etc. 
+
+#### Bugs
+
+- mots avec un comma après ne peuvent pas être parcouru ( par exemple, *Vater,*, *Ritter!*) **Fixé**
+- les dernière lignes du fichier n'ont pas été parcouru **Fixé**
+- affichage des mots-clés

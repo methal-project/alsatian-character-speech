@@ -2,6 +2,7 @@ import csv
 import pandas as pd
 import spacy as sp
 
+
 nlp_fr = sp.load("fr_core_news_sm") # pour tokeniser textes en francais
 block_flag = "fin_de_block"
 
@@ -227,7 +228,7 @@ def emotion_calculate(keyword):
 
 # -------------------------------------------- fonctions qui gerent la sortie des analyses -------------------------
 
-def make_csv_french_words(id_block, keyword, fout, emo_title_list, header_flag):
+def make_csv_words(id_block, keyword, fout, emo_title_list, header_flag):
     dic_line = {}
     word_list = ["Id_block","Mots"] + emo_title_list
     writer = csv.DictWriter(fout, fieldnames = word_list)
@@ -239,22 +240,12 @@ def make_csv_french_words(id_block, keyword, fout, emo_title_list, header_flag):
         for i in range(len(emo_title_list)):
             dic_line[emo_title_list[i]] = keyword[mot][i]
         writer.writerows([dic_line])
-    
 
-
-
-def make_csv_emotion_moyen_block(id, dic_emotion, fout):
-    dic_line = {}
-    dic_line["index_block"] = id
-    emo_list = ["index_block"]
-    for emo in list(dic_emotion.keys())[:-2]:
-        dic_line[emo] = format(dic_emotion[emo], ".3f")
-        emo_list.append(emo)
-    writer = csv.DictWriter(fout, fieldnames = emo_list)
-    if (id == 1):
-        writer.writeheader()
-    if(dic_line):
-        writer.writerows([dic_line])
+def make_csv_moyen(mots_csv_in, moyen_csv_out):
+    df = pd.read_csv(mots_csv_in, sep=",")
+    df = df.groupby("Id_block")[["valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", 
+    "sadness", "surprise", "trust", "anticipation"]].mean()
+    df.to_csv(moyen_csv_out)
 
 
 # ------------------------------ Les fonctions puet-etre inutile -------------------------------
@@ -282,4 +273,18 @@ def make_dic_fr_simple(csv):
         dic[key] = source.loc[index,"valence":"trust"].values.tolist()
         index += 1
     return dic
+
+
+def make_csv_emotion_moyen_block(id, dic_emotion, fout):
+    dic_line = {}
+    dic_line["index_block"] = id
+    emo_list = ["index_block"]
+    for emo in list(dic_emotion.keys())[:-2]:
+        dic_line[emo] = format(dic_emotion[emo], ".3f")
+        emo_list.append(emo)
+    writer = csv.DictWriter(fout, fieldnames = emo_list)
+    if (id == 1):
+        writer.writeheader()
+    if(dic_line):
+        writer.writerows([dic_line])
 '''

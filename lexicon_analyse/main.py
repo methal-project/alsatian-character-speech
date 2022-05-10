@@ -2,6 +2,7 @@ import re
 import outils as ot
 import statistiques as stat
 import alsatian_tokeniser as at
+import numpy as np
 
 f_in_fr = "source_files/fr_hmr.txt"
 f_in_als = "source_files/al_hmr.txt"         # fichier d'entrée
@@ -12,7 +13,8 @@ f_vad = "source_files/French-fr-NRC-VAD-Lexicon.tsv"    # fichier lexicon d'émo
 f_token_fr = "token_fr.txt"             # fichier text apres tokenisation
 
 f_out = "out_files/spacy_elal_fr.txt"           # fichier de sortie
-mots_fr = "out_files/mots_fr_FEEL.csv"       # fichier csv qui contient les mots cles trouve et leurs coeffs
+mots_fr_feel = "out_files/mots_fr_FEEL.csv"       # fichier csv qui contient les mots cles trouve et leurs coeffs
+mots_fr_elal = "out_files/mots_fr_ELAL.csv"
 mots_als = "out_files/mots_als_ELAL.csv"
 moyen_fr = "out_files/moyenne_fr_FEEL.csv"
 moyen_als = "out_files/moyenne_als_ELAL.csv"
@@ -28,15 +30,16 @@ block_flag = ot.block_flag
 
 # Make text
 
-def make_text(dic_all_words):
+def make_text(f_in, dic_all_words):
     count = 0
     size = 5
     block = ""
     keyword = {}
     emotion = {}
+    df_text_block = []
 
     try:
-        with open(f_in_fr, "r", encoding="utf-8") as fin:
+        with open(f_in, "r", encoding="utf-8") as fin:
             with open(f_out, "w", encoding="utf-8") as fout:                 
                 fin_info = fin.readlines()
                 file_len = len(fin_info)
@@ -53,6 +56,7 @@ def make_text(dic_all_words):
                         fout.write("Index block: " + str(count_id) + "\n")
                         count_id += 1
                         fout.write(block)
+                        df_text_block.append(block)
                         # resultats des mots-cles:
                         fout.write("\nMots-clés: \n\t")
                         for emo in emotion_list: # écrire chaque titre d'émotion
@@ -82,6 +86,7 @@ def make_text(dic_all_words):
                         count += 1
     except OSError as err :
         print("Une erreur",err)
+    return df_text_block
 
 
 # make csv file mots
@@ -89,7 +94,7 @@ def make_text(dic_all_words):
 
 def make_csv_fr(dic_all_words):
     with open(f_token_fr, "r", encoding="utf-8") as fin_token:
-        with open(mots_fr, "w", encoding="utf-8") as mots_fr_out:
+        with open(mots_fr_elal, "w", encoding="utf-8") as mots_fr_out:
             words = []
             block = ""
             header_flag = True
@@ -160,12 +165,14 @@ dic = ot.make_dic_als(f_elal) # dic utilise pour mots alsaciens
 # faire les fichiers csv qui contient les mots-cles
 make_csv_als(dic,size=5)
 make_csv_fr(dic_all_words)
+make_csv_fr(dic_elal)
 
 # faire les fichiers csv qui contient les moyennes des emotions par block
 ot.make_csv_moyen(mots_fr, moyen_fr)
 ot.make_csv_moyen(mots_als, moyen_als)
-'''
 
+
+# --------------------- correlation des fichiers ----------------------------------------
 cor_als_fr = stat.correlation_df(moyen_als, moyen_fr).to_dict()
 with open(pk, "w", encoding="utf-8") as pk_out:
     writer = ot.csv.DictWriter(pk_out, fieldnames = ["Id_block"] + emotion_list)
@@ -174,3 +181,27 @@ with open(pk, "w", encoding="utf-8") as pk_out:
     title.writerow(["Correlation d'emotions fr_FEEL als_ELAL"])
     writer.writeheader()
     writer.writerows([cor_als_fr])
+'''
+
+df_elal_fr = ot.pd.read_csv(mots_fr_elal, usecols=['Id_block', 'Mots'])
+df_feel_fr = ot.pd.read_csv(mots_fr_feel, usecols= ['Id_block', 'Mots'])
+df_elal_als = ot.pd.read_csv(mots_als, usecols=['Id_block', 'Mots'])
+
+same_words_df = df_elal_fr.merge(df_feel_fr, how = "inner", on=["Id_block","Mots"])
+diff_words_df = ot.pd.concat([same_words_df, df_feel_fr]).drop_duplicates(keep=False)
+
+# obtenir les textes et les sauvegarder dans dataframe
+text_block = make_text(f_in_fr,{})
+text_block_fr_df = ot.pd.DataFrame({"Id_block_text_fr":range(len(text_block)), "Text_fr":text_block})
+text_block = make_text(f_in_als,{})
+text_block_als_df = ot.pd.DataFrame({"Id_block_text_als":range(len(text_block)), "Text_als":text_block})
+
+# renommer les colonnes pour mieux construre le fichier csv
+same_words_df = same_words_df.rename(columns={"Mots":"Mots_en_commun", "Id_block":"Id_block_Mots_en_commun"})
+diff_words_df = diff_words_df.rename(columns={"Mots":"Mots_dans_nrc_pas_dans_elal", "Id_block":"Id_block_Mots_differents"})
+df_elal_als = df_elal_als.rename(columns={"Mots":"Mots_en_alsacien", "Id_block":"Id_block_Mots_als"})
+
+pk_df = ot.pd.concat([same_words_df, diff_words_df, df_elal_als, text_block_fr_df, text_block_als_df], axis=1)
+
+pk_df.to_csv("out_files/compare_mots_elal_nrc.csv")
+#print(text_block_df.head(10))

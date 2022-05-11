@@ -8,7 +8,19 @@ block_flag = "fin_de_block"
 
 # ------------------------------------ fonctions pour faire dictionnaire ------------------------------------
 
-def dic_csv_feel(csv_feel):
+'''
+entrée: 
+    csv_feel: fichier csv (type chaîne de caractères)
+sortie: 
+    dic: un dictionnaire (type dict)
+objectif: 
+    sauvegarder dans un dictionnaire les données necessaires 
+dans le fichier csv (NRC).  le dictionnaire contient les mots français
+et leurs coefficients d'émotions (6 emotions de base)
+
+'''
+
+def make_dic_feel(csv_feel):
     col_feel = ["word", "anger", "disgust", "fear", "joy", "sadness", "surprise"]
 
     # lire le fichier: 
@@ -22,7 +34,18 @@ def dic_csv_feel(csv_feel):
         index += 1
     return dic
 
-def dic_csv_vad(csv_vad):
+'''
+entrée: 
+    csv_vad: fichier csv (type chaîne de caractères)
+sortie: 
+    dic: un dictionnaire (type dict)
+objectif: 
+    sauvegarder dans un dictionnaire les données necessaires 
+dans le fichier csv (NRC). le dictionnaire contient les mots français
+et leurs coefficients d'émotions (dimensions VAD)
+
+'''
+def make_dic_vad(csv_vad):
     col_vad = ["French-fr","Valence", "Arousal", "Dominance"]
 
     # lire le fichier: 
@@ -49,7 +72,7 @@ dans le fichier csv. le dictionnaire contient les mots français
 et leurs coefficients d'émotions
 
 '''
-def make_dic_fr(csv):
+def make_dic_elal(csv):
     col_list = [
     "fr", "valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
@@ -100,6 +123,20 @@ def make_dic_als(csv):
         index += 1
     return dic
 
+
+'''
+entrée: 
+    dic_elal: dict (sortie de la fonction make_dic_elal)
+    dic_feel: dict (sortie de la fonction make_dic_feel)
+    dic_vad:  dict (sortie de la fonction make_dic_vad)
+sortie: 
+    super_hybird_dic: dict qui contient tous les mots en common de 3 dictionnaires
+    all_words_dic: dict qui contient tous les mots en common de feel et vad et aussi les mots dans elal
+objectif: 
+    merge les trois dictionnaires et obtenir 2 nouveaux dictionnaires
+    qui contient les mots en commun et les mots totals
+
+'''
 def merge_dic_fr(dic_elal, dic_feel, dic_vad):
     hybrid_dic = {}
     found = False
@@ -125,6 +162,10 @@ def merge_dic_fr(dic_elal, dic_feel, dic_vad):
 
 # ----------------------------------------- fonctions pour la tokenization -------------------------------------------
 
+'''
+faire la tokenisation d'une phrase et écrire les tokens dans un fichier.
+les tokens sont séparé par ";"
+'''
 def fr_token(phrase, fd, block_flag):
     doc = nlp_fr(phrase)
     for token in doc:
@@ -227,7 +268,17 @@ def emotion_calculate(keyword):
     return emotion
 
 # -------------------------------------------- fonctions qui gerent la sortie des analyses -------------------------
-
+'''
+entrée: 
+    id_block:   int     index du bloc
+    keyword:    dict    mots-clés trouvés
+    fout:       file_descripter fichier de sortie
+    emo_title_list: list    titre de chaque colonne dans fichier csv
+    header_flag: bool   utilisé pour vérifier si on doit écrire le titre de colonne ou pas
+sortie: 
+objectif: 
+    faire un fichier csv de tous les mots-clés trouvés
+'''
 def make_csv_words(id_block, keyword, fout, emo_title_list, header_flag):
     dic_line = {}
     word_list = ["Id_block","Mots"] + emo_title_list
@@ -241,6 +292,14 @@ def make_csv_words(id_block, keyword, fout, emo_title_list, header_flag):
             dic_line[emo_title_list[i]] = keyword[mot][i]
         writer.writerows([dic_line])
 
+'''
+entrée: 
+    mots_csv_in:    nom du fichier csv qui contient les mots-cles
+    moyen_csv_out:  nom du fichier csv de la sortie
+sortie: 
+objectif: 
+    faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
+'''
 def make_csv_moyen(mots_csv_in, moyen_csv_out):
     df = pd.read_csv(mots_csv_in, sep=",")
     df = df.groupby("Id_block")[["valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", 

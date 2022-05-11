@@ -2,7 +2,6 @@ import re
 import outils as ot
 import statistiques as stat
 import alsatian_tokeniser as at
-import numpy as np
 
 f_in_fr = "source_files/fr_hmr.txt"
 f_in_als = "source_files/al_hmr.txt"         # fichier d'entrée
@@ -12,7 +11,7 @@ f_vad = "source_files/French-fr-NRC-VAD-Lexicon.tsv"    # fichier lexicon d'émo
 
 f_token_fr = "token_fr.txt"             # fichier text apres tokenisation
 
-f_out = "out_files/spacy_elal_fr.txt"           # fichier de sortie
+f_out_fr = "out_files/spacy_elal_fr.txt"           # fichier de sortie
 mots_fr_feel = "out_files/mots_fr_FEEL.csv"       # fichier csv qui contient les mots cles trouve et leurs coeffs
 mots_fr_elal = "out_files/mots_fr_ELAL.csv"
 mots_als = "out_files/mots_als_ELAL.csv"
@@ -30,7 +29,7 @@ block_flag = ot.block_flag
 
 # Make text
 
-def make_text(f_in, dic_all_words):
+def make_text(f_out, f_in, dic_all_words):
     count = 0
     size = 5
     block = ""
@@ -153,9 +152,9 @@ ot.make_tokenfile_fr(f_in, f_token_fr, size)
 
 # creer les dictionnaires pour obtenir les mots cles
 
-dic_elal = ot.make_dic_fr(f_elal)
-dic_feel = ot.dic_csv_feel(f_feel)
-dic_vad = ot.dic_csv_vad(f_vad)
+dic_elal = ot.make_dic_elal(f_elal)
+dic_feel = ot.make_dic_feel(f_feel)
+dic_vad = ot.make_dic_vad(f_vad)
 
 dic_list = ot.merge_dic_fr(dic_elal, dic_feel, dic_vad)
 dic_all_words = dic_list[1] # dictionnaire utilise pour mots francais
@@ -183,6 +182,9 @@ with open(pk, "w", encoding="utf-8") as pk_out:
     writer.writerows([cor_als_fr])
 '''
 
+# --------------------- comparer lexicon elal et nrc --------------------------------
+
+'''
 df_elal_fr = ot.pd.read_csv(mots_fr_elal, usecols=['Id_block', 'Mots'])
 df_feel_fr = ot.pd.read_csv(mots_fr_feel, usecols= ['Id_block', 'Mots'])
 df_elal_als = ot.pd.read_csv(mots_als, usecols=['Id_block', 'Mots'])
@@ -205,3 +207,4 @@ pk_df = ot.pd.concat([same_words_df, diff_words_df, df_elal_als, text_block_fr_d
 
 pk_df.to_csv("out_files/compare_mots_elal_nrc.csv")
 #print(text_block_df.head(10))
+# '''

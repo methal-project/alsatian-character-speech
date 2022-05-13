@@ -17,7 +17,8 @@ mots_fr_elal = "out_files/mots_fr_ELAL.csv"
 mots_als = "out_files/mots_als_ELAL.csv"
 moyen_fr = "out_files/moyenne_fr_FEEL.csv"
 moyen_als = "out_files/moyenne_als_ELAL.csv"
-pk = "out_files/pk.csv"
+compare_cor = "out_files/compare_cor_fr_als.csv"
+compare_moyen = "out_files/compare_moyen_fr_als.csv"
 
 emotion_list = [
     "valence", "arousal", "dominance", "anger"
@@ -130,8 +131,6 @@ def make_csv_als(dic,size):
                     ret = at.RegExpTokeniser()
                     phrase = (ret.tokenise(block)).get_contents()
                     tokens = re.split(regex, phrase)
-                    if(header_flag):
-                        print(tokens)
                     keyword = ot.grab_keywords(dic, tokens)
                     ot.make_csv_words(id_block, keyword, fout, emotion_list, header_flag)
                     header_flag = False
@@ -145,13 +144,13 @@ def make_csv_als(dic,size):
 
 # ---------------------- main operations --------------------
 
-'''
+
 # obtenir le fichier de tokenization des mots francais
 
-ot.make_tokenfile_fr(f_in, f_token_fr, size)
+#ot.make_tokenfile_fr(f_in, f_token_fr, size)
 
 # creer les dictionnaires pour obtenir les mots cles
-
+'''
 dic_elal = ot.make_dic_elal(f_elal)
 dic_feel = ot.make_dic_feel(f_feel)
 dic_vad = ot.make_dic_vad(f_vad)
@@ -159,20 +158,21 @@ dic_vad = ot.make_dic_vad(f_vad)
 dic_list = ot.merge_dic_fr(dic_elal, dic_feel, dic_vad)
 dic_all_words = dic_list[1] # dictionnaire utilise pour mots francais
 dic_triple_merged = dic_list[0]
-dic = ot.make_dic_als(f_elal) # dic utilise pour mots alsaciens
+#dic = ot.make_dic_als(f_elal) # dic utilise pour mots alsaciens
 
 # faire les fichiers csv qui contient les mots-cles
-make_csv_als(dic,size=5)
+#make_csv_als(dic,size=5)
 make_csv_fr(dic_all_words)
 make_csv_fr(dic_elal)
 
 # faire les fichiers csv qui contient les moyennes des emotions par block
-ot.make_csv_moyen(mots_fr, moyen_fr)
+ot.make_csv_moyen(mots_fr_feel, moyen_fr)
 ot.make_csv_moyen(mots_als, moyen_als)
-
+'''
 
 # --------------------- correlation des fichiers ----------------------------------------
-cor_als_fr = stat.correlation_df(moyen_als, moyen_fr).to_dict()
+stat.correlation_df(moyen_als, moyen_fr, compare_moyen, compare_cor)
+'''
 with open(pk, "w", encoding="utf-8") as pk_out:
     writer = ot.csv.DictWriter(pk_out, fieldnames = ["Id_block"] + emotion_list)
 

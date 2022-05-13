@@ -30,7 +30,7 @@ def make_dic_feel(csv_feel):
     dic = {}
     
     for key in source_feel["word"]:
-        dic[key] = source_feel.loc[index,"anger":"surprise"].values.tolist()
+        dic[key] = source_feel.reindex(col_feel, axis="columns").loc[index,"anger":"surprise"].values.tolist()
         index += 1
     return dic
 
@@ -53,7 +53,7 @@ def make_dic_vad(csv_vad):
     index = 0
     dic = {}
     for key in source_vad["French-fr"]:
-        dic[key] = source_vad.loc[index,"Valence":"Dominance"].values.tolist()
+        dic[key] = source_vad.reindex(col_vad, axis="columns").loc[index,"Valence":"Dominance"].values.tolist()
         index += 1
     return dic
 
@@ -83,12 +83,12 @@ def make_dic_elal(csv):
     for words in source["fr"]:
         if (str(words) != "0" and ";" in words): # cas avec ; dans la liste des mots
             try_list = words.split(";")
-            copy = source.loc[index,"valence":"trust"].values.tolist()
+            copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
             for key in try_list:
                 if (key not in dic):
                     dic[key] = copy
         else: # cas normale (un seul mots dans la cellule)
-            dic[words] = source.loc[index,"valence":"trust"].values.tolist()
+            dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
         index += 1
     return dic
 
@@ -114,12 +114,12 @@ def make_dic_als(csv):
     for words in source["als"]:
         if (str(words) != "0" and ";" in words): # cas avec ; dans la liste des mots
             try_list = words.split(";")
-            copy = source.loc[index,"valence":"trust"].values.tolist()
+            copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
             for key in try_list:
                 if (key not in dic):
                     dic[key] = copy
         else: # cas normale (un seul mots dans la cellule)
-            dic[words] = source.loc[index,"valence":"trust"].values.tolist()
+            dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
         index += 1
     return dic
 

@@ -1,7 +1,12 @@
 #### tasks
 - fix the bug (inversed columns) in files like mots_als_ELAL.csv etc.
 - recalculate correlations
-- re-produce the coefficients of FEEL according to NRC_intensif
+- re-produce the coefficients of FEEL according to NRC_intensif, get heating maps
+	Feel_fr VS Elal_als
+	Feel_NRC_fr VS Elal_als
+	Feel_fr VS Elal_als_fr (mots en français parcourus)
+	Feel_NRC_fr VS Elal_als_fr (mots en français parcourus)
+
 - check library: https://github.com/Priya22/EmotionDynamics
 - read essai: https://seafile.unistra.fr/smart-link/b950c501-f30b-41c1-9add-4037152502a8/
 
@@ -35,8 +40,11 @@
 ```
 - FEEL on binaire mais ELAL non
 - les mots-clés parcourus sont différents
+- certains mots français sont dans le texte Alsacien
 
 #### merge de NRC-intensif et FEEL
 1. calculer coefficients moyennes dans chaque catégorie
-2. Si dans NRC, coef >= moyenne, alors dans FEEL, coef devient 1
-3. convertir elal_als en binaire?
+2. Si dans NRC, coef >= moyenne, alors dans FEEL, coef devient 1, sinon, garde les coeffs de FEEL
+3. comparer correlation avec celle de FEEL pure
+	correlation de FEEL+NRC-intensif est un peu plus haut que celle de FEEL pure
+

@@ -1,10 +1,17 @@
 import csv
 import pandas as pd
 import spacy as sp
-
+import alsatian_tokeniser as at
+import re
 
 nlp_fr = sp.load("fr_core_news_sm") # pour tokeniser textes en francais
 block_flag = "fin_de_block"
+column_order = {"anger":3, "disgust":4, "fear":5, "joy":6, "sadness":7, "surprise":8, "trust":9, "anticipation":10}
+emotion_list = [
+    "valence", "arousal", "dominance", "anger"
+    , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
+]
+regex = "[,|.| |?|!|\n]"
 
 # ------------------------------------ fonctions pour faire dictionnaire ------------------------------------
 
@@ -159,6 +166,22 @@ def merge_dic_fr(dic_elal, dic_feel, dic_vad):
             found = False
     return [super_hybrid_dic, all_words_dic]
             
+def NRC_intensif_to_FEEL(all_words_dic, nrc_intensif_file, nrc_intensif_moyen):
+    with open(nrc_intensif_file, "r", encoding="utf-8") as fd_nrc:
+        for line in fd_nrc:
+            line = line.strip()
+            list_line = line.split("\t")
+            key = list_line[1]
+            emotion = list_line[2]
+            score = list_line[3]
+            if (key in all_words_dic):
+                if (float(score) >= nrc_intensif_moyen[emotion]):
+                    all_words_dic[key][column_order[emotion]] = 1
+
+
+        return all_words_dic
+
+
 
 # ----------------------------------------- fonctions pour la tokenization -------------------------------------------
 
@@ -267,6 +290,12 @@ def emotion_calculate(keyword):
     emotion.update({"vad_max":[vad, str(format(vad_max, ".3f"))], "emo_base_max":[emo, str(format(emo_base_max, ".3f"))]})
     return emotion
 
+def calculate_moyenne_nrc_intensif(nrc_intensif_file):
+    df = pd.read_csv(nrc_intensif_file, sep="\t", usecols=["French-fr", "emotion", "emotion-intensity-score"])
+    moyen = df.groupby("emotion")["emotion-intensity-score"].mean()
+    moyen = moyen.to_dict()
+    return moyen
+
 # -------------------------------------------- fonctions qui gerent la sortie des analyses -------------------------
 '''
 entrée: 
@@ -305,6 +334,116 @@ def make_csv_moyen(mots_csv_in, moyen_csv_out):
     df = df.groupby("Id_block")[["valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", 
     "sadness", "surprise", "trust", "anticipation"]].mean()
     df.to_csv(moyen_csv_out)
+
+
+def make_csv_fr(dic_all_words,f_token_fr, out_file):
+    with open(f_token_fr, "r", encoding="utf-8") as fin_token:
+        with open(out_file, "w", encoding="utf-8") as mots_fr_out:
+            words = []
+            block = ""
+            header_flag = True
+            id_block = 0
+            for line in fin_token:
+                line = line.strip()
+                if (block_flag not in line):
+                    block += line 
+                else:
+                    words = block.split(";")
+                    keyword = grab_keywords(dic_all_words, words)
+                    make_csv_words(id_block,keyword, mots_fr_out, emotion_list, header_flag)
+                    header_flag = False
+                    block = ""
+                    id_block += 1
+
+def make_csv_als(dic,size, f_in_als, out_file):
+    keyword = {}
+    block = ""
+    with open(f_in_als, "r", encoding="utf-8") as fin:
+        with open(out_file, "w", encoding="utf-8") as fout:
+            fin_info = fin.readlines()
+            file_len = len(fin_info)
+            count_line = 0 # pour verifier si on est a la fin du fichier
+            count = 0 # pour faire la block
+            id_block = 0
+            header_flag = True
+            for line in fin_info:
+                line = line.strip()
+                if (count // size or count_line >= file_len):
+                    if (count_line >= file_len):
+                        block += line
+                    ret = at.RegExpTokeniser()
+                    phrase = (ret.tokenise(block)).get_contents()
+                    tokens = re.split(regex, phrase)
+                    keyword = grab_keywords(dic, tokens)
+                    make_csv_words(id_block, keyword, fout, emotion_list, header_flag)
+                    header_flag = False
+                    count = 0
+                    block = ""
+                    id_block += 1
+                else:
+                    block += line + "\n"
+                    count += 1
+                count_line += 1
+
+# ------------------------------ fonctions qui faire fichiers de textes ------------------------
+
+def make_text(f_in, f_out, dic_all_words):
+    count = 0
+    size = 5
+    block = ""
+    keyword = {}
+    emotion = {}
+    df_text_block = []
+
+    try:
+        with open(f_in, "r", encoding="utf-8") as fin:
+            with open(f_out, "w", encoding="utf-8") as fout:                 
+                fin_info = fin.readlines()
+                file_len = len(fin_info)
+                count_line = 0
+                count_id = 0
+                for line in fin_info:
+                    count_line += 1
+                    line = line.strip()
+                    if (count // size or count_line >= file_len):
+                        if (count_line >= file_len):
+                            block += line
+                        words = fr_token_dict(block)
+                        keyword = grab_keywords(dic_all_words,words)
+                        fout.write("Index block: " + str(count_id) + "\n")
+                        count_id += 1
+                        fout.write(block)
+                        df_text_block.append(block)
+                        # resultats des mots-cles:
+                        fout.write("\nMots-clés: \n\t")
+                        for emo in emotion_list: # écrire chaque titre d'émotion
+                            fout.write (emo + "\t")
+                        fout.write("\n\n")
+                        for key in keyword.keys(): # écrire chaque mots-clés et leurs coefficients
+                            fout.write(key + "\t")
+                            for score in keyword[key]:
+                                fout.write(str(format(score, ".3f")) + "\t")
+                            fout.write("\n")
+                        # calculation des emotions:
+                        fout.write("\nconclusions: \n")
+                        emotion = emotion_calculate(keyword)
+
+                        fout.write("Moyenne: \n")
+                        for emo in emotion.keys():
+                            fout.write(emo + ": " + str(emotion[emo]) + "\t")
+
+                        fout.write("\nvad: " + emotion["vad_max"][0] + ", " + emotion["vad_max"][1] +
+                        "\nemotion base: " + emotion["emo_base_max"][0] + ", " + emotion["emo_base_max"][1] + "\n\n\n")
+
+                        fout.write("----------------------------------------------------------------------------------------------------------------\n")
+                        block = ""
+                        count = 0
+                    else:
+                        block += line + "\n"
+                        count += 1
+    except OSError as err :
+        print("Une erreur",err)
+    return df_text_block
 
 
 # ------------------------------ Les fonctions puet-etre inutile -------------------------------

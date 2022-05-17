@@ -4,8 +4,6 @@
 - re-produce the coefficients of FEEL according to NRC_intensif, get heating maps
 	Feel_fr VS Elal_als
 	Feel_NRC_fr VS Elal_als
-	Feel_fr VS Elal_als_fr (mots en français parcourus)
-	Feel_NRC_fr VS Elal_als_fr (mots en français parcourus)
 
 - check library: https://github.com/Priya22/EmotionDynamics
 - read essai: https://seafile.unistra.fr/smart-link/b950c501-f30b-41c1-9add-4037152502a8/
@@ -48,3 +46,24 @@
 3. comparer correlation avec celle de FEEL pure
 	correlation de FEEL+NRC-intensif est un peu plus haut que celle de FEEL pure
 
+#### ted librairie
+texte de sample réussi, mais avec des bugs dans numpy
+
+```shell
+
+PS D:\university\研一下期\analyse_emotion\emotion_dynamics> python3 avgEmoValues.py --dataPath sample.csv --lexPath NRC-VAD-Lexico
+n.csv --lexNames valence dominance --savePath sample_outputs
+C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-pa
+ckages\numpy\core\fromnumeric.py:3440: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-pa
+ckages\numpy\core\_methods.py:189: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-pa
+ckages\numpy\core\fromnumeric.py:3440: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-pa
+ckages\numpy\core\_methods.py:189: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+
+```

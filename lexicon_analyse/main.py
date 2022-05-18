@@ -43,16 +43,17 @@ block_flag = ot.block_flag
 
 # ---------------------- main operations --------------------
 
-'''
+
 # obtenir le fichier de tokenization des mots francais
 
 #ot.make_tokenfile_fr(f_in, f_token_fr, size)
 
 # creer les dictionnaires pour obtenir les mots cles
-
+dic_vad = ot.make_dic_vad(f_vad)
+'''
 dic_elal = ot.make_dic_elal(f_elal)
 dic_feel = ot.make_dic_feel(f_feel)
-dic_vad = ot.make_dic_vad(f_vad)
+
 
 dic_list = ot.merge_dic_fr(dic_elal, dic_feel, dic_vad)
 dic_all_words = dic_list[1] # dictionnaire utilise pour mots francais
@@ -100,4 +101,4 @@ pk_df.to_csv("out_files/compare_mots_cles_elal_nrc.csv")
 #print(text_block_df.head(10))
 
 '''
-stat.correlation_df(moyen_als, moyen_fr_intensif, compare_moyen_FEEL_intensif, compare_cor_FEEL_intensif)
+#stat.correlation_df(moyen_als, moyen_fr_intensif, compare_moyen_FEEL_intensif, compare_cor_FEEL_intensif)

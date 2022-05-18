@@ -15,19 +15,18 @@ regex = "[,|.| |?|!|\n]"
 
 # ------------------------------------ fonctions pour faire dictionnaire ------------------------------------
 
-'''
-entrée: 
-    csv_feel: fichier csv (type chaîne de caractères)
-sortie: 
-    dic: un dictionnaire (type dict)
-objectif: 
-    sauvegarder dans un dictionnaire les données necessaires 
-dans le fichier csv (NRC).  le dictionnaire contient les mots français
-et leurs coefficients d'émotions (6 emotions de base)
-
-'''
 
 def make_dic_feel(csv_feel):
+    '''
+    Faire un dictionnaire de FEEL.
+
+    Parameters:
+        csv_feel (string): fichier csv
+
+    Returns:
+        dic (dict): un dictionnaire qui contient les mots français
+        et leurs coefficients d'émotions (6 emotions de base)
+    '''
     col_feel = ["word", "anger", "disgust", "fear", "joy", "sadness", "surprise"]
 
     # lire le fichier: 
@@ -41,45 +40,45 @@ def make_dic_feel(csv_feel):
         index += 1
     return dic
 
-'''
-entrée: 
-    csv_vad: fichier csv (type chaîne de caractères)
-sortie: 
-    dic: un dictionnaire (type dict)
-objectif: 
-    sauvegarder dans un dictionnaire les données necessaires 
-dans le fichier csv (NRC). le dictionnaire contient les mots français
-et leurs coefficients d'émotions (dimensions VAD)
 
-'''
 def make_dic_vad(csv_vad):
+    '''
+    Faire un dictionnaire de NRC-VAD.
+
+    Parameters:
+        csv_vad (string): fichier csv
+
+    Returns:
+        dic (dict): un dictionnaire qui contient les mots français
+        et leurs coefficients d'émotions (dimensions VAD)
+    '''
     col_vad = ["French-fr","Valence", "Arousal", "Dominance"]
 
     # lire le fichier: 
     source_vad = pd.read_csv(csv_vad, sep="\t", usecols=col_vad)
+    source_vad = source_vad.reindex(col_vad, axis="columns")
+    ed_source = source_vad.rename(columns={"French-fr":"word","Valence":"valence", "Arousal":"arousal", "Dominance":"dominance"})
+    ed_source.to_csv("../emotion_dynamics_essaie/NRC-VAD-fr-lexicon.csv", float_format="%.3f")
+    
     index = 0
     dic = {}
     for key in source_vad["French-fr"]:
-        dic[key] = source_vad.reindex(col_vad, axis="columns").loc[index,"Valence":"Dominance"].values.tolist()
+        dic[key] = source_vad.loc[index,"Valence":"Dominance"].values.tolist()
         index += 1
     return dic
 
 
-'''
-Quand il y a des cas avec ";", par exemple comme "claque;applaudir",
-alors on ajoute des nouveux lignes pour chaque mots separe par ';'.
-
-entrée: 
-    csv: fichier csv (type chaîne de caractères)
-sortie: 
-    dic: un dictionnaire (type dict)
-objectif: 
-    sauvegarder dans un dictionnaire les données necessaires 
-dans le fichier csv. le dictionnaire contient les mots français
-et leurs coefficients d'émotions
-
-'''
 def make_dic_elal(csv):
+    '''
+    Faire un dictionnaire de ELAL fr.
+
+    Parameters:
+        csv (string): fichier csv
+
+    Returns:
+        dic (dict): un dictionnaire qui contient les mots français
+        et leurs coefficients d'émotions
+    '''
     col_list = [
     "fr", "valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
@@ -99,17 +98,17 @@ def make_dic_elal(csv):
         index += 1
     return dic
 
-'''
-entrée: 
-    csv: fichier csv (type chaîne de caractères)
-sortie: 
-    dic: un dictionnaire (type dict)
-objectif: 
-    sauvegarder dans un dictionnaire les données necessaires 
-dans le fichier csv. le dictionnaire contient les mots Alsaciens
-et leurs coefficients d'émotions
-'''
 def make_dic_als(csv):
+    '''
+    Faire un dictionnaire de ELAL alsacien.
+
+    Parameters:
+        csv (string): fichier csv
+
+    Returns:
+        dic (dict): un dictionnaire qui contient les mots alsacien
+        et leurs coefficients d'émotions
+    '''
     col_list = [
     "als", "valence", "arousal", "dominance", "anger"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
@@ -145,6 +144,19 @@ objectif:
 
 '''
 def merge_dic_fr(dic_elal, dic_feel, dic_vad):
+    '''
+    Merge les trois dictionnaires et obtenir 2 nouveaux dictionnaires
+    qui contient les mots en commun et les mots totals
+
+    Parameters:
+        dic_elal (dict) : sortie de la fonction make_dic_elal
+        dic_feel (dict) : sortie de la fonction make_dic_feel
+        dic_vad  (dict) : sortie de la fonction make_dic_vad
+
+    Returns:
+        super_hybird_dic (dict): contient tous les mots en common de 3 dictionnaires
+        all_words_dic (dict): contient tous les mots en common de feel et vad et aussi les mots dans elal
+    '''
     hybrid_dic = {}
     found = False
     # merge d'abord vad avec fell

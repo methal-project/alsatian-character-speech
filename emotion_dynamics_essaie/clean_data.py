@@ -26,7 +26,7 @@ def tokenize_tweet(tweetText):
     return " ".join(twokenize.tokenizeRawTweetText(tweetText))
 
 def get_urls(tokenizedTweet):
-    urls = re.findall("http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+", tweet)
+    urls = re.findall("http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+", tokenizedTweet)
     if len(urls) == 0:
         return False
     return True

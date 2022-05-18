@@ -51,7 +51,7 @@ texte de sample réussi, mais avec des bugs dans numpy
 
 ```shell
 
-PS D:\university\研一下期\analyse_emotion\emotion_dynamics> python3 avgEmoValues.py --dataPath sample.csv --lexPath NRC-VAD-Lexico
+python3 avgEmoValues.py --dataPath sample.csv --lexPath NRC-VAD-Lexico
 n.csv --lexNames valence dominance --savePath sample_outputs
 C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-pa
 ckages\numpy\core\fromnumeric.py:3440: RuntimeWarning: Mean of empty slice.
@@ -66,4 +66,5 @@ C:\Users\mocki\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2
 ckages\numpy\core\_methods.py:189: RuntimeWarning: invalid value encountered in double_scalars
   ret = ret.dtype.type(ret / rcount)
 
+texte de sample_fr réussi sans erreurs
 ```

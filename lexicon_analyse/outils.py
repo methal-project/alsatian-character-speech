@@ -11,6 +11,8 @@ emotion_list = [
     "valence", "arousal", "dominance", "anger"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
 ]
+emotion_list_bi = ["valence", "arousal", "dominance", "anger"
+    , "disgust", "fear", "joy", "sadness", "surprise"]
 regex = "[,|.| |?|!|\n]"
 
 # ------------------------------------ fonctions pour faire dictionnaire ------------------------------------
@@ -57,7 +59,7 @@ def make_dic_vad(csv_vad):
     # lire le fichier: 
     source_vad = pd.read_csv(csv_vad, sep="\t", usecols=col_vad)
     source_vad = source_vad.reindex(col_vad, axis="columns")
-    ed_source = source_vad.rename(columns={"French-fr":"word","Valence":"valence", "Arousal":"arousal", "Dominance":"dominance"})
+    ed_source = source_vad.rename(columns={"French-fr":"word"})
     ed_source.to_csv("../emotion_dynamics_essaie/NRC-VAD-fr-lexicon.csv", float_format="%.3f")
     
     index = 0
@@ -68,7 +70,7 @@ def make_dic_vad(csv_vad):
     return dic
 
 
-def make_dic_elal(csv):
+def make_dic_elal(csv, binary):
     '''
     Faire un dictionnaire de ELAL fr.
 
@@ -82,23 +84,44 @@ def make_dic_elal(csv):
     col_list = [
     "fr", "valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
-    source = pd.read_csv(csv, sep="\t", usecols=col_list)
+    col_list_bi = [
+    "fr", "valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", "sadness", "surprise"]
+    if (binary):
+        source = pd.read_csv(csv, sep="\t", usecols=col_list_bi)
+    else:
+        source = pd.read_csv(csv, sep="\t", usecols=col_list)
     source = source.fillna(0)
     index = 0
     dic = {}
     for words in source["fr"]:
         if (str(words) != "0" and ";" in words): # cas avec ; dans la liste des mots
             try_list = words.split(";")
-            copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
+            if (binary):
+                copy = source.reindex(col_list, axis="columns").loc[index,"valence":"surprise"].values.tolist()
+                for i in range(3,len(copy)):
+                    if copy[i] >= 0.5:
+                        copy[i] = 1
+                    else:
+                        copy[i] = 0
+            else:
+                copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
             for key in try_list:
                 if (key not in dic):
                     dic[key] = copy
         else: # cas normale (un seul mots dans la cellule)
-            dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
+            if (binary):
+                dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"surprise"].values.tolist()
+                for i in range(3,len(copy)):
+                    if copy[i] >= 0.5:
+                        copy[i] = 1
+                    else:
+                        copy[i] = 0
+            else:
+                dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
         index += 1
     return dic
 
-def make_dic_als(csv):
+def make_dic_als(csv, binary):
     '''
     Faire un dictionnaire de ELAL alsacien.
 
@@ -113,70 +136,96 @@ def make_dic_als(csv):
     "als", "valence", "arousal", "dominance", "anger"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
-    source = pd.read_csv(csv, sep="\t", usecols=col_list)
+    col_list_bi = [
+    "als", "valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", "sadness", "surprise"]
+    if (binary):
+        source = pd.read_csv(csv, sep="\t", usecols=col_list_bi)
+    else:
+        source = pd.read_csv(csv, sep="\t", usecols=col_list)
     source = source.fillna(0)
     index = 0
     dic = {}
     for words in source["als"]:
         if (str(words) != "0" and ";" in words): # cas avec ; dans la liste des mots
             try_list = words.split(";")
-            copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
+            if (binary):
+                copy = source.reindex(col_list, axis="columns").loc[index,"valence":"surprise"].values.tolist()
+                for i in range(3,len(copy)):
+                    if copy[i] >= 0.5:
+                        copy[i] = 1
+                    else:
+                        copy[i] = 0
+            else:
+                copy = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
             for key in try_list:
                 if (key not in dic):
                     dic[key] = copy
         else: # cas normale (un seul mots dans la cellule)
-            dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
+            if (binary):
+                dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"surprise"].values.tolist()
+                for i in range(3,len(copy)):
+                    if copy[i] >= 0.5:
+                        copy[i] = 1
+                    else:
+                        copy[i] = 0
+            else:
+                dic[words] = source.reindex(col_list, axis="columns").loc[index,"valence":"anticipation"].values.tolist()
         index += 1
     return dic
 
-
-'''
-entrée: 
-    dic_elal: dict (sortie de la fonction make_dic_elal)
-    dic_feel: dict (sortie de la fonction make_dic_feel)
-    dic_vad:  dict (sortie de la fonction make_dic_vad)
-sortie: 
-    super_hybird_dic: dict qui contient tous les mots en common de 3 dictionnaires
-    all_words_dic: dict qui contient tous les mots en common de feel et vad et aussi les mots dans elal
-objectif: 
-    merge les trois dictionnaires et obtenir 2 nouveaux dictionnaires
-    qui contient les mots en commun et les mots totals
-
-'''
-def merge_dic_fr(dic_elal, dic_feel, dic_vad):
+def make_dic_nrc_intensif(lexicon_intensif, binary):
     '''
-    Merge les trois dictionnaires et obtenir 2 nouveaux dictionnaires
-    qui contient les mots en commun et les mots totals
+    Faire un dictionnaire de nrc fr.
 
     Parameters:
-        dic_elal (dict) : sortie de la fonction make_dic_elal
-        dic_feel (dict) : sortie de la fonction make_dic_feel
-        dic_vad  (dict) : sortie de la fonction make_dic_vad
+        lexicon_intensif (string): lexicon de nrc intensif
+        binary (bool): verifier si binariser les coeffs ou pas
+        nrc_intensif_moyen (dict): les moyennes des coeffs des emotions
 
     Returns:
-        super_hybird_dic (dict): contient tous les mots en common de 3 dictionnaires
-        all_words_dic (dict): contient tous les mots en common de feel et vad et aussi les mots dans elal
-    '''
+        dic (dict): un dictionnaire qui contient les mots français
+        et leurs coefficients d'émotions
+    '''    
+    dic = {}
+    if (binary):
+        nrc_intensif_moyen = calculate_moyenne_nrc_intensif(lexicon_intensif)
+    with open(lexicon_intensif, "r", encoding="utf-8") as lexicon:
+        for line in lexicon:
+            line = line.strip()
+            list_line = line.split("\t")
+            key = list_line[1]
+            emotion = list_line[2]
+            score = list_line[3]
+            if (key != "French-fr"):
+                score = float(score)
+                if(binary): # S'il faut binariser le NRC:   
+                    emotion_li = [0,0,0,0,0,0]
+                    if (emotion == "trust" or emotion == "anticipation"):
+                        continue
+                    if (score >= nrc_intensif_moyen[emotion]):
+                        score = 1
+                    else:
+                        score = 0
+                if (key not in dic):
+                    emotion_li = [0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]
+                    emo_index = column_order[emotion] - 3
+                    emotion_li[emo_index] = score
+                    dic[key] = emotion_li
+                else:
+                    emo_index = column_order[emotion] - 3
+                    if (dic[key][emo_index] == 0):
+                        dic[key][emo_index] = score
+    return dic
+
+def merge_vad(dic_vad, dic):
     hybrid_dic = {}
-    found = False
-    # merge d'abord vad avec fell
-    for feel_key in dic_feel.keys():
+    for emo_key in dic.keys():
         for vad_key in dic_vad.keys():
-            if (feel_key == vad_key):
-                hybrid_dic[feel_key] = dic_vad[vad_key] + dic_feel[feel_key]
-    super_hybrid_dic = {}
-    all_words_dic = {}
-    for key in hybrid_dic.keys():
-        for elal_key in dic_elal.keys():
-            if (key == elal_key and found == False):
-                super_hybrid_dic[key] = hybrid_dic[key] + dic_elal[elal_key][-2:]
-                all_words_dic[key] = hybrid_dic[key] + dic_elal[elal_key][-2:]
-                found = True
-        if (found == False):
-            all_words_dic[key] = hybrid_dic[key] + [0.0,0.0] # Si mots non trouve dans elal_key, alors coefs manquants = 0
-        else:
-            found = False
-    return [super_hybrid_dic, all_words_dic]
+            if (emo_key == vad_key):
+                hybrid_dic[emo_key] = dic_vad[vad_key] + dic[emo_key]
+    return hybrid_dic
+
+
             
 def NRC_intensif_to_FEEL(all_words_dic, nrc_intensif_file, nrc_intensif_moyen):
     with open(nrc_intensif_file, "r", encoding="utf-8") as fd_nrc:
@@ -186,7 +235,7 @@ def NRC_intensif_to_FEEL(all_words_dic, nrc_intensif_file, nrc_intensif_moyen):
             key = list_line[1]
             emotion = list_line[2]
             score = list_line[3]
-            if (key in all_words_dic):
+            if (key != "French-fr"):
                 if (float(score) >= nrc_intensif_moyen[emotion]):
                     all_words_dic[key][column_order[emotion]] = 1
 
@@ -341,14 +390,16 @@ sortie:
 objectif: 
     faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
 '''
-def make_csv_moyen(mots_csv_in, moyen_csv_out):
+def make_csv_moyen(mots_csv_in, moyen_csv_out,binary):
     df = pd.read_csv(mots_csv_in, sep=",")
-    df = df.groupby("Id_block")[["valence", "arousal", "dominance", "anger", "disgust", "fear", "joy", 
-    "sadness", "surprise", "trust", "anticipation"]].mean()
+    if (binary):
+        df = df.groupby("Id_block")[emotion_list_bi].mean()
+    else:
+        df = df.groupby("Id_block")[emotion_list].mean()
     df.to_csv(moyen_csv_out)
 
 
-def make_csv_fr(dic_all_words,f_token_fr, out_file):
+def make_csv_fr(dic_all_words,f_token_fr, out_file, binary):
     with open(f_token_fr, "r", encoding="utf-8") as fin_token:
         with open(out_file, "w", encoding="utf-8") as mots_fr_out:
             words = []
@@ -362,12 +413,15 @@ def make_csv_fr(dic_all_words,f_token_fr, out_file):
                 else:
                     words = block.split(";")
                     keyword = grab_keywords(dic_all_words, words)
-                    make_csv_words(id_block,keyword, mots_fr_out, emotion_list, header_flag)
+                    if (binary):
+                        make_csv_words(id_block,keyword, mots_fr_out, emotion_list_bi, header_flag)
+                    else:
+                        make_csv_words(id_block,keyword, mots_fr_out, emotion_list, header_flag)
                     header_flag = False
                     block = ""
                     id_block += 1
 
-def make_csv_als(dic,size, f_in_als, out_file):
+def make_csv_als(dic,size, f_in_als, out_file, binary):
     keyword = {}
     block = ""
     with open(f_in_als, "r", encoding="utf-8") as fin:
@@ -387,7 +441,10 @@ def make_csv_als(dic,size, f_in_als, out_file):
                     phrase = (ret.tokenise(block)).get_contents()
                     tokens = re.split(regex, phrase)
                     keyword = grab_keywords(dic, tokens)
-                    make_csv_words(id_block, keyword, fout, emotion_list, header_flag)
+                    if (binary):
+                        make_csv_words(id_block,keyword, fout, emotion_list_bi, header_flag)
+                    else:
+                        make_csv_words(id_block,keyword, fout, emotion_list, header_flag)
                     header_flag = False
                     count = 0
                     block = ""
@@ -497,4 +554,39 @@ def make_csv_emotion_moyen_block(id, dic_emotion, fout):
         writer.writeheader()
     if(dic_line):
         writer.writerows([dic_line])
+
+def merge_dic_fr(dic_elal, dic_feel, dic_vad):
+    
+    Merge les trois dictionnaires et obtenir 2 nouveaux dictionnaires
+    qui contient les mots en commun et les mots totals
+
+    Parameters:
+        dic_elal (dict) : sortie de la fonction make_dic_elal
+        dic_feel (dict) : sortie de la fonction make_dic_feel
+        dic_vad  (dict) : sortie de la fonction make_dic_vad
+
+    Returns:
+        super_hybird_dic (dict): contient tous les mots en common de 3 dictionnaires
+        all_words_dic (dict): contient tous les mots en common de feel et vad et aussi les mots dans elal
+    
+    hybrid_dic = {}
+    found = False
+    # merge d'abord vad avec fell
+    for feel_key in dic_feel.keys():
+        for vad_key in dic_vad.keys():
+            if (feel_key == vad_key):
+                hybrid_dic[feel_key] = dic_vad[vad_key] + dic_feel[feel_key]
+    super_hybrid_dic = {}
+    all_words_dic = {}
+    for key in hybrid_dic.keys():
+        for elal_key in dic_elal.keys():
+            if (key == elal_key and found == False):
+                super_hybrid_dic[key] = hybrid_dic[key] + dic_elal[elal_key][-2:]
+                all_words_dic[key] = hybrid_dic[key] + dic_elal[elal_key][-2:]
+                found = True
+        if (found == False):
+            all_words_dic[key] = hybrid_dic[key] + [0.0,0.0] # Si mots non trouve dans elal_key, alors coefs manquants = 0
+        else:
+            found = False
+    return [super_hybrid_dic, all_words_dic]
 '''

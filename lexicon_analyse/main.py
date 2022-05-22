@@ -49,7 +49,19 @@ block_flag = ot.block_flag
 #ot.make_tokenfile_fr(f_in, f_token_fr, size)
 
 # creer les dictionnaires pour obtenir les mots cles
-dic_vad = ot.make_dic_vad(f_vad)
+
+dic_intensif_bi = ot.make_dic_nrc_intensif(nrc_intensif_file, True)
+dic_elal_bi = ot.make_dic_als(f_elal,True)
+#dic_vad = ot.make_dic_vad(f_vad)
+
+#dic_feel = ot.merge_vad(dic_vad, dic_feel)
+#dic_elal_bi = ot.merge_vad(dic_vad, dic_intensif_bi)
+ot.make_csv_als(dic_elal_bi, 5, f_in_als,"out_files/mots_als_bi.csv", True)
+#ot.make_csv_fr(dic_feel, f_token_fr, "out_files/mots_fr_FEEL.csv", True)
+#ot.make_csv_moyen("out_files/mots_fr_FEEL.csv","out_files/moyenne_fr_FEEL.csv", True)
+ot.make_csv_moyen("out_files/mots_als_bi.csv", "out_files/moyenne_als_bi.csv", True)
+stat.correlation_df("out_files/moyenne_als_bi.csv", "out_files/moyenne_fr_FEEL.csv", "cor_als_fr_FEEL/als_compare_moyenne_ELAL_FEEL.csv", "cor_als_fr_FEEL/als_cor_ELAL_FEEL.csv")
+
 '''
 dic_elal = ot.make_dic_elal(f_elal)
 dic_feel = ot.make_dic_feel(f_feel)

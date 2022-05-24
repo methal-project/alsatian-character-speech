@@ -76,7 +76,7 @@ def make_dic_elal(csv, binary):
 
     Parameters:
         csv (string): fichier csv
-
+        binary (bool): verifier si binairiser les coefficients
     Returns:
         dic (dict): un dictionnaire qui contient les mots français
         et leurs coefficients d'émotions
@@ -127,7 +127,7 @@ def make_dic_als(csv, binary):
 
     Parameters:
         csv (string): fichier csv
-
+        binary (bool): verifier si binairiser les coefficients
     Returns:
         dic (dict): un dictionnaire qui contient les mots alsacien
         et leurs coefficients d'émotions
@@ -179,7 +179,7 @@ def make_dic_nrc_intensif(lexicon_intensif, binary):
 
     Parameters:
         lexicon_intensif (string): lexicon de nrc intensif
-        binary (bool): verifier si binariser les coeffs ou pas
+        binary (bool): verifier si binairiser les coeffs ou pas
         nrc_intensif_moyen (dict): les moyennes des coeffs des emotions
 
     Returns:
@@ -218,6 +218,17 @@ def make_dic_nrc_intensif(lexicon_intensif, binary):
     return dic
 
 def merge_vad(dic_vad, dic):
+    '''
+    Ajouter les coefficients de vad au dictionnaire.
+
+    Parameters:
+        dic_vad (dict): dictionnaire de vad
+        dic (dict): dictionnaire des emotions (FEEL ou NRC)
+
+    Returns:
+        hybrid_dic (dict): un dictionnaire qui contient les mots français
+        et leurs coefficients
+    '''
     hybrid_dic = {}
     for emo_key in dic.keys():
         for vad_key in dic_vad.keys():
@@ -284,35 +295,24 @@ def make_tokenfile_fr(f_in, f_out, size):
                     block += line + "\n"
                     count += 1
 
-'''
-entrée: 
-    dic: un dictionnaire (type dict)
-    phrase: phrase où on cherché de mots-clés. (type chaîne de caractère)
-sortie: 
-    keywords: tous les mots-clés avec coefficients d'émotion (type dict)
-objectif: 
-    rechercher les mots-clés dans la phrase donnée selon le dictionnaire,
-et sauvegarder les résultats dans un dictionnaire "keywords"
-'''
 def grab_keywords(dic, words):
+    '''
+    rechercher les mots-clés dans la phrase donnée selon le dictionnaire,
+        et sauvegarder les résultats dans un dictionnaire "keywords"
+
+    Parameters:
+        dic (dict): un dictionnaire du lexicon
+        words (string): phrase où on cherche de mots-clés
+
+    Returns:
+        keywords (dict): tous les mots-clés avec coefficients d'émotion
+    '''
     keywords = {}
     for word in words:
         if (word not in keywords.keys() and word in dic.keys()):
             keywords[word] = dic[word]
     return keywords
 
-
-
-'''
-entrée:     
-    keywords: tous les mots-clés avec coefficients d'émotion (type dict)
-sortie: 
-    emotion: un dictionnaire qui contient tous les coefficients
-finales des emotions. (type dict)
-objectif: 
-    calculer la somme des coefficients de chaque emotion selon les mots-clés.
-et trouver le coefficient le plus grand pour VAD et emotions de base.
-'''
 
 # --------------------------------------- fonctions de la calculation des emotions --------------------------------------
 
@@ -358,18 +358,21 @@ def calculate_moyenne_nrc_intensif(nrc_intensif_file):
     return moyen
 
 # -------------------------------------------- fonctions qui gerent la sortie des analyses -------------------------
-'''
-entrée: 
-    id_block:   int     index du bloc
-    keyword:    dict    mots-clés trouvés
-    fout:       file_descripter fichier de sortie
-    emo_title_list: list    titre de chaque colonne dans fichier csv
-    header_flag: bool   utilisé pour vérifier si on doit écrire le titre de colonne ou pas
-sortie: 
-objectif: 
-    faire un fichier csv de tous les mots-clés trouvés
-'''
+
 def make_csv_words(id_block, keyword, fout, emo_title_list, header_flag):
+    '''
+    faire un fichier csv de tous les mots-clés trouvés
+
+    Parameters:
+        id_block:   int     index du bloc
+        keyword:    dict    mots-clés trouvés
+        fout:       file_descripter fichier de sortie
+        emo_title_list: list    titre de chaque colonne dans fichier csv
+        header_flag: bool   utilisé pour vérifier si on doit écrire le titre de colonne ou pas
+
+    Returns:
+        None
+    '''
     dic_line = {}
     word_list = ["Id_block","Mots"] + emo_title_list
     writer = csv.DictWriter(fout, fieldnames = word_list)
@@ -382,15 +385,18 @@ def make_csv_words(id_block, keyword, fout, emo_title_list, header_flag):
             dic_line[emo_title_list[i]] = keyword[mot][i]
         writer.writerows([dic_line])
 
-'''
-entrée: 
-    mots_csv_in:    nom du fichier csv qui contient les mots-cles
-    moyen_csv_out:  nom du fichier csv de la sortie
-sortie: 
-objectif: 
-    faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
-'''
+
 def make_csv_moyen(mots_csv_in, moyen_csv_out,binary):
+    '''
+    faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
+
+    Parameters:
+        mots_csv_in:    nom du fichier csv qui contient les mots-cles
+        moyen_csv_out:  nom du fichier csv de la sortie
+
+    Returns:
+        None
+    '''
     df = pd.read_csv(mots_csv_in, sep=",")
     if (binary):
         df = df.groupby("Id_block")[emotion_list_bi].mean()
@@ -400,6 +406,18 @@ def make_csv_moyen(mots_csv_in, moyen_csv_out,binary):
 
 
 def make_csv_fr(dic_all_words,f_token_fr, out_file, binary):
+    '''
+    faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
+
+    Parameters:
+        dic_all_words (dict): dictionnaire lexicon
+        f_token_fr (string): nom du fichier de texte tokenisé
+        out_file (string): fichier csv qui contient les mots-clés et coeffs
+        binary (bool): vérifier s'il faut binairiser les coeffs
+
+    Returns:
+        None
+    '''
     with open(f_token_fr, "r", encoding="utf-8") as fin_token:
         with open(out_file, "w", encoding="utf-8") as mots_fr_out:
             words = []
@@ -422,6 +440,18 @@ def make_csv_fr(dic_all_words,f_token_fr, out_file, binary):
                     id_block += 1
 
 def make_csv_als(dic,size, f_in_als, out_file, binary):
+    '''
+    faire un fichier csv qui affiche toutes les moyennes d'emotions de chaque bloc
+
+    Parameters:
+        dic (dict): dictionnaire lexicon
+        f_in_als (string): nom du fichier de texte Alsacien
+        out_file (string): fichier csv qui contient les mots-clés et coeffs
+        binary (bool): vérifier s'il faut binairiser les coeffs
+
+    Returns:
+        None
+    '''
     keyword = {}
     block = ""
     with open(f_in_als, "r", encoding="utf-8") as fin:

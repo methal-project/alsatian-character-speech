@@ -1,6 +1,7 @@
 import os, re, csv, json, sys, string
 import numpy as np
 import pandas as pd
+import spacy as sp
 from collections import defaultdict, Counter
 
 import gzip
@@ -12,6 +13,7 @@ from argparse import ArgumentParser
 import logging
 
 tqdm.pandas()
+nlp_fr = sp.load("fr_core_news_sm")
 
 parser = ArgumentParser()
 parser.add_argument('--dataPath', help='path to CSV data file with texts')
@@ -41,16 +43,20 @@ def get_alpha(token):
 
 
 def get_vals(twt, lexdf):
-    tt = twt.lower().split(" ")
-    at = [w for w in tt if w.isalpha()]
+    tt = nlp_fr(twt.lower())
+    li_tt = []
+    for token in tt:
+        li_tt.append(token.text)
+    #tt = twt.lower().split(" ") # maybe use spacy to tokenize here
+    at = [w for w in li_tt if w.isalpha()] # compter num de tokens
 
-    pw = [x for x in tt if x in lexdf.index]
+    pw = [x for x in li_tt if x in lexdf.index]
     pv = [lexdf.loc[w]['val'] for w in pw]
 
     numTokens = len(at)
     numLexTokens = len(pw)
     
-    avgLexVal = np.mean(pv)  #nan for 0 tokens
+    avgLexVal = np.mean(pv)  # nan for 0 tokens
 
     return [numTokens, numLexTokens, avgLexVal]
 
@@ -58,7 +64,7 @@ def get_vals(twt, lexdf):
 def process_df(df, lexdf):
     logging.info("Number of rows: " + str(len(df)))
 
-    resrows = [get_vals(x, lexdf) for x in df['text']]
+    resrows = [get_vals(x, lexdf) for x in df['text']] # tokenisation
     resrows = [x + y for x,y in zip(df.values.tolist(), resrows)]
 
     resdf = pd.DataFrame(resrows, columns=df.columns.tolist() + ['numTokens', 'numLexTokens', 'avgLexVal'])

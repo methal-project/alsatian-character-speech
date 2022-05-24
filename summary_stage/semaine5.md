@@ -8,4 +8,14 @@
         - elal_als vs elal_fr decimal 8 emos check
         - elal_als vs nrc_fr  decimal 8 emos check
         - elal_als vs feel_fr binary  6 emos check
-2. treat sliced text
+2. Ajouter les commentaires pour les fonctions dans outils.py
+
+3. treat sliced text
+
+    pourquoi nombre de tokens n'est pas vrai?
+    ```python
+    text.isalpha(), il reconnaît que les mots composés par pure lettres
+
+    python3 avgEmoValues.py --dataPath sample_fr.csv --lexPath NRC-VAD-fr-lexicon.csv --lexNames Valence Dominance Arousal --savePath sample_outputs
+    ```
+    fixed

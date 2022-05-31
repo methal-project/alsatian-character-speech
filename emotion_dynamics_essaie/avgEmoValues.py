@@ -11,6 +11,7 @@ from tqdm import tqdm
 import pickle as pkl
 from argparse import ArgumentParser
 import logging
+import alsatian_tokeniser as als_t
 
 tqdm.pandas()
 nlp_fr = sp.load("fr_core_news_sm")
@@ -43,14 +44,14 @@ def get_alpha(token):
 
 
 def get_vals(twt, lexdf):
-    tt = nlp_fr(twt.lower())
-    li_tt = []
-    for token in tt:
-        li_tt.append(token.text)
+    ret = als_t.RegExpTokeniser()
+    phrase = (ret.tokenise(twt.lower())).get_contents()
+    tt = re.split("[,|.| |?|!|\n]", phrase)
+    
     #tt = twt.lower().split(" ") # maybe use spacy to tokenize here
-    at = [w for w in li_tt if w.isalpha()] # compter num de tokens
+    at = [w for w in tt if w.isalpha()] # compter num de tokens
 
-    pw = [x for x in li_tt if x in lexdf.index]
+    pw = [x for x in tt if x in lexdf.index]
     pv = [lexdf.loc[w]['val'] for w in pw]
 
     numTokens = len(at)

@@ -50,6 +50,7 @@ block_flag = ot.block_flag
 
 # creer les dictionnaires pour obtenir les mots cles
 
+'''
 dic_intensif = ot.make_dic_nrc_intensif(nrc_intensif_file, False)
 dic_elal = ot.make_dic_als(f_elal,False)
 dic_vad = ot.make_dic_vad(f_vad)
@@ -62,7 +63,6 @@ ot.make_csv_moyen("out_files/mots_fr_NRC.csv","out_files/moyenne_fr_NRC.csv", Fa
 ot.make_csv_moyen("out_files/mots_als_ELAL.csv", "out_files/moyenne_als_ELAL.csv", False)
 stat.correlation_df("out_files/moyenne_als_ELAL.csv", "out_files/moyenne_fr_NRC.csv", "cor_als_fr_NRC/als_compare_moyenne_NRC.csv", "cor_als_fr_NRC/als_cor_NRC.csv")
 
-'''
 dic_elal = ot.make_dic_elal(f_elal)
 dic_feel = ot.make_dic_feel(f_feel)
 
@@ -113,4 +113,18 @@ pk_df.to_csv("out_files/compare_mots_cles_elal_nrc.csv")
 #print(text_block_df.head(10))
 
 '''
-#stat.correlation_df(moyen_als, moyen_fr_intensif, compare_moyen_FEEL_intensif, compare_cor_FEEL_intensif)
+
+# make lexicon for ted
+'''
+dic_elal = ot.make_dic_als(f_elal,False)
+dic_line = {}
+word_list = ["word"] + ot.emotion_list
+with open("ELAL-als-lexicon.csv", "w", encoding="utf-8") as fout:
+    writer = ot.csv.DictWriter(fout, fieldnames = word_list)
+    writer.writeheader()
+    for mot in dic_elal.keys():
+        dic_line["word"] = mot
+        for i in range(len(ot.emotion_list)):
+            dic_line[ot.emotion_list[i]] = dic_elal[mot][i]
+        writer.writerows([dic_line])
+'''

@@ -8,6 +8,13 @@
         - elal_als vs elal_fr decimal 8 emos check
         - elal_als vs nrc_fr  decimal 8 emos check
         - elal_als vs feel_fr binary  6 emos check
+
+    La Correlation entre elal_fr et nrc_fr est le plus haut dans groupe de "fr"
+
+    Dans groupe de "als", la correlation entre elal_fr et elal_als est le plus haut.
+
+    Le resultat me semble raisonable.
+
 2. Ajouter les commentaires pour les fonctions dans outils.py
 
 3. treat sliced text

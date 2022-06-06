@@ -1,0 +1,849 @@
+drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Was beliebt, — ah Sapristi, d'r Alphonsel isch's ! Wart Knedes, ich will dr d'Lytt so verschrecke
+            !
+",19,3,0.367,0.15789473684210525
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Dü kleiner Saperlot ! — Hesch de schun widder eins?
+",10,1,0.47,0.1
+comedy,Alphonsel,M,,,"Alphonsel:
+Ja, do isch's.
+",5,1,0.7279999999999999,0.2
+comedy,Alphonsel,M,,,"Alphonsel:
+Ich, ich kenn' ne guet.
+",6,1,0.6777168752498955,0.16666666666666666
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+So — dü kennsch ne guet?
+",7,1,0.6777168752498955,0.14285714285714285
+comedy,Alphonsel,M,,,"Alphonsel:
+Heijo, bring ich nit allewyl sinni Briefle do here? — un d'rno hawi ne schun oft uff d'r Rennbahn
+            fahre sehn.
+",23,3,0.18233333333333335,0.13043478260869565
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Jo, dü hesch erecht, hein, der kann's ? E épatanter Typ. De Kilometer macht 'r in ere Minüt un 53
+            3/4 Sekunde, départ lancé.
+",25,1,0.0,0.04
+comedy,Alphonsel,M,,,"Alphonsel:
+Ja, ich weiß, diß letscht hett 'r sogar emol e Weltrecord um e Viertelsekund verbessert. Isch's
+            nit so, Mamsell Colette ?
+",22,1,0.7279999999999999,0.045454545454545456
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Doch, dü kleiner Hosselottl. Fahrsch dü au schun Velo, daß de dich so interessirsch?
+",15,1,0.47,0.06666666666666667
+comedy,Alphonsel,M,,,"Alphonsel:
+A noch, wisse Sie, ich helf als im Herr Blotzmeier driwwe d'Velo uffbumbe un schmiere, un do lehnt
+            'r m'r als eine vun sinne alte Kärich. Sie sotte emol sehn, wie ich schun loszeij.
+",36,5,0.012199999999999999,0.1388888888888889
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Ha ha ha, do wursch dü halt au am e schöne Daa e Champion oder e Recordman genn. Was witt denn
+            wäre ?
+",23,4,0.34843197714194785,0.17391304347826086
+comedy,Alphonsel,M,,,"Alphonsel:
+Sie hann's grad geroothe, — Rennfahrer wurr i, sunsch nix.
+",12,2,0.0,0.16666666666666666
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Voyons, was schriebt m'r min Shatz? 
+            
+",7,1,0.712,0.14285714285714285
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Ja, do isch gueter Roth dier. I mueß jo mit d'r Madam furt uff Allerheilige. Herrschaft, diß isch
+            m'r jezt e Stoß! Saa-m, es geht nit, un daß i mit d'r Madam furt mueß. Mit dere dumme Partie uff
+            Allerheilige !
+",41,8,0.37696460940623694,0.1951219512195122
+comedy,Alphonsel,M,,,"Alphonsel:
+Guet Mamsell, — Adje.
+",5,2,0.3388584376249478,0.4
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Wart, säh, do hesch for e Wecke. 
+            
+",8,1,0.0,0.125
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Au revoir, Alphonsel — un e schön's Kumpliment, vergiß's nit!
+",13,1,0.7527279085677913,0.07692307692307693
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Grad isch d'Madam kumme, vor e paar Minüte.
+",10,3,0.0,0.3
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+In ihrem Zimmer, sie düet e paar anderi Hosse an, denn d'andere sinn denne Morje.....
+",17,1,0.0,0.058823529411764705
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Ja, d'andere han e Schade gelitte. Madame a ramassée une pelle, mais une pelle! — Nein, sehn die
+            Hosse üs. — E so langer Schlenzer. 
+            
+",27,6,0.12133333333333331,0.2222222222222222
+comedy,Contre,M,,,"Contre:
+Isch d'Madam g'falle ? Sie wurd sich doch nit weh gedohn hann?
+",13,3,0.005333333333333333,0.23076923076923078
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+O nein Herr, seije Sie nurre getroscht, d'Madam hett's hüsse, wenn sie fallt, duet sie sich 
+            
+",19,2,0.0,0.10526315789473684
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Pour sür, s'isch ere fascht nix g'schehn. Elle a une veine bleue.
+",14,1,0.0,0.07142857142857142
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+S'isch nix dran. Ein pedale isch e bissel faussiert g'sinn, awer d'r Herr Blotzmeier hett's
+            unterwäij's reparirt. Jetzt fehlt ere nur noh e bissel Luft.
+",29,2,0.0,0.06896551724137931
+comedy,Contre,M,,,"Contre:
+Kein Luft? Was saat Sie jeht diß erersch. Hett sie eng? Do isch sie amend doch krank. Ich mueß
+            schnell noch e-re lueije. 
+            
+",24,3,0.0,0.125
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Halte Sie, halte Sie, s'isch jo nur d'r Maschin, wo Luft fehlt, — do hawi d'Luftspritz schun
+            gerischt.
+",21,4,0.0,0.19047619047619047
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+D'Madam hett g'saat, Sie solle ne nurr ellein trinke, sie hett ne schun denne Morje früeij uff'm
+            Fuchsebuckel genumme, entre deux enlevages! —
+",26,4,0.13675,0.15384615384615385
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Oui Monsieur, un petit emballage, un i bin in-e-ere Minüt un fünf Sekunde widder do, — grad wie
+            d'r Tortino. 
+            
+",21,1,0.0,0.047619047619047616
+comedy,Contre,M,,,"Contre:
+D'r Tortino? — e-n-emballage? — Die wurd m'r noch verrukt. O mit dere nundebuckels Stramplereij. 
+            
+",18,1,0.0,0.05555555555555555
+comedy,Colette,F,lady’s_maid,lower_class,"Colette
+(ist mit rüsten fertig):
+Voilà Monsieur, do isch Ihr café! Awer jetzt mueß i s'Rad g'schwind butze, d'Madam wurd glich eryn
+            kumme for's abzehole, sie will widder furt, un ich bin au noch nit gerischt.
+",41,4,0.07867370688275245,0.0975609756097561
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Za do käm ich schön an. In d'r Küche könnte jo Fettflecke od'r Wasserspriber drankumme, un im
+            Gang, do sinn Debbi mit Näjel angemacht, on pourrait crever un pneu. Nein d'Madam lyd's nit.
+",36,2,0.37636395428389563,0.05555555555555555
+comedy,Contre,M,,,"Contre:
+Hm, 's wundert mi ball, daß sie diß Möwel nit im Salon oder im Schloofzimmer butze loßt. 
+            
+",18,2,0.1573474137655049,0.1111111111111111
+comedy,Juliette,F,,,"Juliette
+(rechts herein):
+Isch min Rad widder propper ? — Sie brücht jo e-n-Ewigkeit dezue! — Ah, bonjour Jean. 
+            
+",22,1,0.0,0.045454545454545456
+comedy,Contre,M,,,"Contre:
+Bonjour Madame, bisch de schun widder g'stisselt un g'spoort? Wo geht denn d'Reif' schun widder
+            anne? Kummsch jo kümm heim, un jezt witt schun widder loß? I mein, de könntsch jetzt d'heim bliewe.
+            For denne Morje wär's genue. Tu te fatigues trop, et puis — i hab erfahre, daß de e Burzelbaum
+            g'schlaaue hesch. Tu n'as pas mal?
+",63,4,0.0,0.06349206349206349
+comedy,Juliette,F,,,"Juliette:
+Ach, fangsch de schun widder an? Non, je n'ai rien, sunsch dät i jo d'heime bliewe. Mais, haw' ich
+            d'r nit die Wuch g'saat, daß m'r hitt in's Badisch niewer welle, uff Allerheilige. Dü hesch jo
+            versproche mit em Zuck nochzekumme. Un jetzt saasch, que je devrai rester là?
+",53,3,0.32066666666666666,0.05660377358490566
+comedy,Contre,M,,,"Contre:
+Ma chère, diß hawi wohl g'saat, mais enfin, tu sais, diß ewig geräddels, ce n'est pas du tout mon
+            goût, je n'aime pas ga. M'r könnte jo au sunsch ienes anne gehn.
+",35,3,0.33213506744097593,0.08571428571428572
+comedy,Juliette,F,,,"Juliette:
+Oui, je sais, daß dü mir die Fraid nit gunsch. So sinn'r alli, ihr Männer. Wenn e 
+            
+",18,2,0.6548788640121137,0.1111111111111111
+comedy,Contre,M,,,"Contre:
+Bon, voilà que ça recommence. — So hawi 's nit gemeint! Unn wenn i ebs d'rgeije hätt? — Dü bisch
+            jo kein Minüt meh d'heim. Un d'rno, weisch, moi qui ne suis pas avec, — dü fahrsch allewyl mit andere
+            Lytt.
+",45,1,0.0,0.022222222222222223
+comedy,Juliette,F,,,"Juliette:
+Mit andere Lytt? mit minnere Mamme, mit dinnere Schweschter, mit'm Colette, voilà tout. Un diß
+            heisch dü mit andere Lytt?
+",22,1,0.4119999999999999,0.045454545454545456
+comedy,Contre,M,,,"Contre:
+Ma chère, dü hesch einer vergesse, — d'r Herr Blotzmeier !
+",11,2,0.0,0.18181818181818182
+comedy,Contre,M,,,"Contre:
+Ach, der zählt nit, — awer bi mir zählt der, un starik. I hab ne uff d'r Latt, denne
+            durichgebloßte Ex-Stüdent, d'Madame kann 'r s'Velofahre lehre. Ha, ha, zell isch nit so schwer als e
+            Exame mache. Weisch, for Räder zue verkaufe, hett 'r au kenn siwwe Semeschter stüdiere brüche. Der
+            ish jo Schuld an dem große Uewel. Der hett d'r jo diß Rad uffgebebbt. Weisch, daß der grad gejenüewer
+            von uns e Velolade hett anfange müen, diß due i em nie vergesse. Un wo de hesch g'sehn, daß ball meh
+            Wybslytt wie Herre sinni Pratike sinn, hesch dü halt au so e Rad müen hann. Un jetzt 
+            
+",111,12,0.08075,0.10810810810810811
+comedy,Contre,M,,,"Contre:
+Moi, non Madame, vun dem isch kein Redd. Awer ich find, daß sich diß nit allewyl schickt. Immer
+            mit dem Blotzmeier do, — meinsch, daß d'Lytt nix do drüwer ze saaue hann, — die wäre sich nit
+            sümme.
+",40,4,0.0,0.1
+comedy,Juliette,F,,,"Juliette:
+Was d'Eytt drüwer fauue, je me demande quoi, — do leij ich fein Werth druff.
+",17,1,0.6844936977745569,0.058823529411764705
+comedy,Contre,M,,,"Contre:
+Ich au nit, awer doch mueß m'r mit dem reche. D'böse Miller erfinde, was sie nit wisse, un s'isch
+            m'r schun e Manichs an d'Ohre kumme, wo.....
+",31,2,0.0,0.06451612903225806
+comedy,Juliette,F,,,"Juliette:
+Ah, ah, i glaub dü spionirsch mi üs, oder soll diß verlicht heiße, daß i nimmi Velo fahre derf,
+            od'r soll, — wäje de Lytt ?
+",26,2,0.2369335631118962,0.07692307692307693
+comedy,Contre,M,,,"Contre:
+Dü hesch verlicht erecht, — doch verbiete — nein, diß will i d'r jo grad nit. Awer weisch, entre
+            nous, une femme sur un vélo, — oh! diß isch nit allewyl g'fitzt, awer gar nit. Ce n'est pas gracieux
+            du tout.
+",43,4,0.13675,0.09302325581395349
+comedy,Contre,M,,,"Contre:
+So, meinsch, eh bien, hör, ich hab doch schun ebbs netters g'sehn, as e frauezimmer, wo uff e re
+            Maschin drowe fitzt, un druff loos strampelt wie e Scheereschliffer, un Hoffe an hett, wie d'r erscht
+            bescht Säckträjer! Wenn 'r euch nurre sehr däte, s'dät verlicht e manchi schneller widder erunter
+            springe als sie nuff kumme isch.
+",59,8,0.3280474001140068,0.13559322033898305
+comedy,Juliette,F,,,"Juliette:
+Ich weiß absolument nit, was dü do dran üszesetze hesch. Soll e Frau nit au d'nämliche Blessiere
+            hann, als wie d'r Mann. Mueß sie denn nurre ihri ganz Exischtenz in d'r Küche am Wasserstein, od'r in
+            ihre vier Müüre, wo ihri Menasch drinne steht, zuebringe. Im Herre Knöpf annäije, Schueh wichse,
+            d'Kinder.....
+",55,4,0.3302539203904717,0.07272727272727272
+comedy,Juliette,F,,,"Juliette:
+Ich — ja — nein.
+",6,1,0.7279999999999999,0.16666666666666666
+comedy,Juliette,F,,,"Juliette:
+Ja un wurum solle m'r nit Velo fahre ?
+",9,1,0.7279999999999999,0.1111111111111111
+comedy,Juliette,F,,,"Juliette:
+Esthétique! Ah, dü bisch esthétique, ça c'est du nouveau. Eh bien, was findsch dü do
+            non-esthétique dran? I bin wunderfitzi.
+",21,2,0.2728393618750922,0.09523809523809523
+comedy,Contre,M,,,"Contre:
+Bref, e Monstrum, quoi! Ulli Lytt hann ere nochgelueijt, un hann sich geringelt. Un no hett sie e
+            Buckel gemacht, wie e Katz wenn's dundert, — dü siehsch diß Bild vun do? E-n-andermol sieht m'r
+            widder e Maueri, e Stede, e Besestiel, wo d'Kleider annere rumflattere, wie d'Lumpe an-ere
+            Spatzeschaich. Extremitäte wie Sandschiffle an de Shwewelhölzle, autrement dit — Bein!
+",66,3,0.0,0.045454545454545456
+comedy,Contre,M,,,"Contre:
+A bah — s'isch d'Wohrheit. Wo sieht m'r alti, jungi, kurzi, dinni G'schteller, un mit em e chic
+            gemutzt, daß m'r ne par pitié gern e Sü gäbt, — wohri Prachtexemplar for in e Wachsfigürehitt, —
+            Abtheilung für Velowomen.
+",42,5,0.3448,0.11904761904761904
+comedy,Contre,M,,,"Contre:
+Ich bin noch nit ferti. Un die alli fahre drufflos, jeschte un strampfe, han G'fichter, roth wie e
+            fochter Krebs, un schwitze, daß ne s'Wasser in Bächle üwer d'Backe na lauft. D'Hoor henke ne in
+            d'Aue, vun denne schöne, fünschtliche Locke, wo stundelang geringelt un gebrennt wäre, kein Spür meh,
+            un sehn üs grad wie e-n-alti Ziginere, 
+            
+",64,6,0.12545465142796522,0.09375
+comedy,Juliette,F,,,"Juliette:
+Hör Jean, wenn de m'r nix andersch ze sauue hesch als wie diß! — Dü bisch awer for unsereins awer
+            nit im Geringschte galant. — Der Herr Blotzmeier isch in denne Stücke doch viel galanter uns
+            gejenüwer, i mueß 's g'stehn un sauue.
+",44,1,0.0,0.022727272727272728
+comedy,Juliette,F,,,"Juliette:
+Jean! — A moi — ah non, c'est trop fort! Do bisch de awer uff 'm Holzwäij. — Diß hawi jo noch gar
+            nit gemerkt. Er isch artli, zevorkommend, zell isch wohr, arri artli — awer meh nit. Ah non, diß dät
+            i ihm nit erlauwe, do dät 'r nit ung'strooft durichschlupfe, — do kennt 'r mi awer noch nit.
+",61,3,0.2916666666666667,0.04918032786885246
+comedy,Juliette,F,,,"Juliette:
+I hab d'r jo vori schun g'saat, dü bisch schallü. Arms Männel — je mueß i di jo au noh tröesch'e.
+            Tu me fais de la peine! Na, will dü awer saasch, dü hesch Aue — do will i d'r nur sauue, daß 'r
+            d'ganz Zytt hinter dinnere Schweschter her isch.
+",53,2,0.197,0.03773584905660377
+comedy,Juliette,F,,,"Juliette:
+Un wenn de so gueti Aue hettsch, wie de meinsch, ze mueschte schun g'sehn han, daß er d'ganz Zitt
+            mit dinnere Schweschter redd, un e-re gewalti hoffiert ?
+",29,4,0.44367921881247385,0.13793103448275862
+comedy,Contre,M,,,"Contre:
+Od'r sie ihm! Mit minnere Schweschter, la bonne farce, die isch jo zehn Johr älter als wie er!
+            Geh' mach m'r fen Plän, ich weiß, was ich weiß. Diß alles isch e excuse, — so g'scheit bin i au.
+",40,4,0.0,0.1
+comedy,Juliette,F,,,"Juliette:
+Ach, mais, diß isch nit üwel. Glaubt der dumm Mann, daß ich -! Mon cher Jean, tu me connais bien,
+            tu sais comme je t'aime. Dü hesch ken Recht, nurre de geringschte soupçon ze hann an mir, bin ich nit
+            dinni lieb, klein Frau? —
+",46,5,0.4565999999999999,0.10869565217391304
+comedy,Contre,M,,,"Contre:
+Gewiß, gewiß — i tröj d'r jo! Awer der schnied dir e cour numéro Pfiff, un zell isch au wohr. Dü
+            bisch jo e Muschterwywele, wärsch noch e viel größers, — wenn de nit Velo fahre dätsch! Awer d'Lytt,
+            lueij d'Lytt, i möcht absolument nit vor denne, un vor'm Blotzmeier als Simpel passiere. Ich sich
+            hell, un wenn's ze bunt kommt, no guetnacht.
+",68,7,0.314,0.10294117647058823
+comedy,Juliette,F,,,"Juliette:
+Allons, allons Jean, calmier dich, un redd dich doch nit in d'Hitz nin, ça ne vaut pas la
+            peine.
+",21,1,0.53,0.047619047619047616
+comedy,Contre,M,,,"Contre:
+Hesch erecht, — s'isch wohr, i hab e Röijes wie e Hüß ! Tiens lueij, i weiß gar nit ebb ich noch
+            mit euch fahre soll od'r nit?
+",29,2,0.4435,0.06896551724137931
+comedy,Juliette,F,,,"Juliette:
+Diß derfsh nit mache, denn dü hesch m'r's versproche. D'Mamme un's Ursule wäre jetzt glich kumme
+            vor uns abzehole. s'Colette fahrt au mit, i hab's-m versproche. Diß arm Maidel hett schun vier Wuche
+            kenne Sundaa meh g'hett.
+",44,6,0.207,0.13636363636363635
+comedy,Contre,M,,,"Contre:
+Do hawi am meischte Fraid dran, daß diß au fahrt. —
+",12,1,0.8717577280242275,0.08333333333333333
+comedy,Juliette,F,,,"Juliette:
+Wer weiß, s'wurd am End nimmi lang düüre, ze sitsch dü au uff so e-re Maschin.
+",18,2,0.2735,0.1111111111111111
+comedy,Colette,F,lady’s_maid,lower_class,"Colette
+(kommt als Velocipedistin angezogen, Hosen):
+D'r Herr Blotzmeier isch drunte un fröijt ob Sie gerischt sinn?
+",19,2,0.0,0.10526315789473684
+comedy,Contre,M,,,"Contre
+(bei Seite):
+Wenn'r nur bi de Kannibale wär, der Geck!
+",13,1,0.0,0.07692307692307693
+comedy,Juliette,F,,,"Juliette:
+Ah, très bien, — er soll eruf kumme. 
+            
+",9,1,0.0,0.1111111111111111
+comedy,Juliette,F,,,"Juliette :
+Kumme Sie nurre eryn, — nemme Sie Platz dort uff zellem Faudell.
+",13,2,0.2735,0.15384615384615385
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Wie geht's Inne, Herr Contre, wie steht's Befinde. Immer munter, wohl schunn e Spaziergang gemacht
+            ?
+",18,5,0.19379999999999997,0.2777777777777778
+comedy,Contre,M,,,"Contre:
+s'geht so, merci, — un bi Inne — au? So isch recht, nemme Sie doch Platz. 
+            
+",18,1,0.0,0.05555555555555555
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Fraid mich sehr, gnädigi Madam, Sie so frisch ze sehn. Hoffentlich hann Sie sich vun Ihrem Sturz
+            von denne Morje erholt? Denne Schreck, es isch m'r in min ganzes Ich ning'fahre, als ich Sie stürze
+            hab sehn. Awer min Kumpliment, Sie sinn fürchterli schnell widder uff de Bein g'sinn, nur die
+            Hauptsach', ohne Shade ze nemme, diß nenn' ich e Glück, e fawelhaft's Glück.
+",66,17,0.14318008069195073,0.25757575757575757
+comedy,Juliette,F,,,"Juliette:
+Jo, i hab chance g'hett, i hab awer au denne Bachstein, wo mitte uff d'r Stroß geläije isch,
+            erersch g'sehn wo i schunn dran bin g'finn. M'r meint grad, so Sache sinn expreß gemacht.
+",35,4,0.13675,0.11428571428571428
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Gewiß, sehr möijli. Die Lytt in d'r Umgejed sinn unverschämt genue, so ebbs ze duen, ich hab schon
+            so ähnlichs erlebt. Do wäre Stein, Scherwe, gebrocheni Flasche, Näjel uff d'Stroß geworfe, nur um uns
+            Radler ze-n-ärjere, un ze schade. Awer ich sieh Gnädigi schun widder frischi Toilette gemacht. Die
+            Hosse stehn Inne reizend. Einfach großartig.
+",59,14,0.15014463199524522,0.23728813559322035
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Ja, gewiß, Sie hann entschiede recht, d'Dame hann üwerhaupt immer recht. — Awer d'gnädig Madam
+            verstehn dieselbe ze trauue, oh ganz entschiede, wie kenn Anderi ! Sie sinn großartig.
+",31,8,0.2425,0.25806451612903225
+comedy,Juliette,F,,,"Juliette:
+Wie Sie meine.
+",4,1,0.0,0.25
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+O doch, ich wiederhol, Frau Contre, Sie sinn entzükend als Radlerin, als Huldigerin vum edle
+            Radsport. Sie sinn e Göttin uff'm Rad.
+",24,1,0.547,0.041666666666666664
+comedy,Juliette,F,,,"Juliette:
+I mein, Sie üwertriewe awer doch e bissel mit Ihre Kumplemente. Ich bin angedohn, wie alli Andere
+            au. Do find i nix abartigs dran.
+",25,2,0.0,0.08
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Ja, awer Sie hann e chic, Madam, e chic, e ganz abartiger chic..... großartig!
+",15,7,0.4982857142857143,0.4666666666666667
+comedy,Juliette,F,,,"Juliette
+(bei Seite):
+Allez, der kummt gar nimm vun simm chic erab! — Sie sinn zue galant.
+",19,1,0.516,0.05263157894736842
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Ich wett döuisig geje eins, daß sämmtliche Stroßburjer Radfahrerinne Sie düen beniede. Un Ihri
+            Haltung uff'm Rad — graziös, anmüthi, delicat — oh — — — —
+",29,3,0.18233333333333335,0.10344827586206896
+comedy,Juliette,F,,,"Juliette
+(bei Seite):
+Min Mann hett recht! — 
+            
+",10,2,0.21899999999999994,0.2
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Wenn ich als so newe Inne radel, do dräje sich nit ellein d'Räder unter minne Füeß, 
+            
+",18,4,0.0,0.2222222222222222
+comedy,Juliette,F,,,"Juliette:
+Jetzt isch awwer genue, — Herr Blotzmeier Sie fawle.
+",10,1,0.0,0.1
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Uff Ehr, Madame, s'isch min Ernscht, min ganzer Ernscht. Ich bin kenn Babbler, diß wisse Sie jo
+            selbscht, i saa nurr was wohr isch. Oh, wie gern dät ich noch viel meh sauwe. —
+",36,7,0.3027548943652185,0.19444444444444445
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Sehn Sie, Madame Contre — 
+            
+",6,2,0.0,0.3333333333333333
+comedy,Juliette,F,,,"Juliette:
+Ah parfait, c'est charmant, daß 'r jeht do sinn. Jett kenne m'r uffpacke, wie 's Colette angedohn
+            isch. 
+            
+",19,1,0.7344767394061382,0.05263157894736842
+comedy,Mme. Trett,F,,,"Mme. Trett:
+Wie geht's, ma fille. — Isch wohr bisch dü g'falle? M'r sieht d'r jo gar nix an. Hesch d'r nit weh
+            gemacht.
+",25,5,0.0688,0.2
+comedy,Mme. Trett,F,,,"Mme. Trett :
+Grad wo i d'Gaß eryn g'fahre bin, isch s'Ursule vun d'r ander Sytt kumme, et nous voila, Wo isch
+            d'r Herr Blotzmeier?
+",26,4,0.0,0.15384615384615385
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(hervortretend):
+Entschuldige Sie, ihr Dame, i bin schun e gewissi Zitt do.
+",15,2,0.0,0.13333333333333333
+comedy,Mme. Trett,F,,,"Mme. Trett:
+Un ich au nit. — Das stecke Sie au do hinte.
+",13,1,0.0,0.07692307692307693
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Ich, ich hab d' Begrüßung nit störe wölle.
+",9,1,0.5,0.1111111111111111
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Sehr shmeichelhaft, Mademoiselle. — 
+            
+",5,2,0.288,0.4
+comedy,Ursule,F,,,"Ursule:
+Ja un wie geht's, cher Monsieur, ich hab Sie jo schun lang nimm g'sehn?
+",16,2,0.36399999999999993,0.125
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Oh, ich bitt Sie — zitter vorgescht.
+",8,1,0.0,0.125
+comedy,Mme. Trett,F,,,"Mme Trett:
+Wo isch d'r Jean, — wo steckt 'r? Isch 'r als noch nit bekehrt. Wie schön wär's jetzt, wenn 'r au
+            mit radle dät! Nit wohr ?
+",29,4,0.2701819771419478,0.13793103448275862
+comedy,Mme. Trett,F,,,"Mme. Trett:
+C'est incroyable, cet homme. Hett 'r widder üwer uns losgezöije, hein ?
+",13,1,0.0,0.07692307692307693
+comedy,Juliette,F,,,"Juliette:
+Na i saa dir, Mamme, diß hättsch höre sotte. I hab, diß heißt, mir hann griet, s'isch kein gueter
+            Mumpfel meh an uns gebliewe.
+",26,2,0.5448584376249477,0.07692307692307693
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+D'r Herr Contre isch unbegrifflich. Er isch geje de Furtschritt. Er isch nit modern, nein gar nit,
+            ha, ha, ha, unglaublich.
+",22,4,0.09925,0.18181818181818182
+comedy,Juliette,F,,,"Juliette:
+Maman, hesch schun diß neij blouse gsehn, wo i m'r uff de nächste Sundaa selbscht fawrizier.
+",17,1,0.547,0.058823529411764705
+comedy,Mme. Trett,F,,,"Mme. Trett:
+Non, ma fille.
+",5,1,0.0,0.2
+comedy,Juliette,F,,,"Juliette:
+Oh, charmant, i hab e Surah entdeckt, so hesch noch keiner g'sehn. Kumm in d'ander Stub, i zaij
+            dir's. 
+            
+",22,3,0.24482557980204608,0.13636363636363635
+comedy,Ursule,F,,,"Ursule:
+Herr Blotzmeier, Sie han m'r ewe üs'm Herze g'sproche, Sie hann ganz erecht, min Brueder isch
+            altfränkisch, ich bin ganz von Ihrer Meinung, genn Sie m'r d'Hand.
+",30,7,0.1907142857142857,0.23333333333333334
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+S'isch nit derwerth, Fräulein.- 
+            
+",7,1,0.0,0.14285714285714285
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+S'wurd g'fährli! 
+            
+",8,1,0.0,0.125
+comedy,Ursule,F,,,"Ursule:
+Do mueß d'Lieb üwerhand nemme! Finde Sie nit au, Herr Blotzmeier. Ich kann m'r emol gar nit
+            andersch inbilde. Un sehn Sie, minner zuekünftig Mann, ja der mueß au Velo fahre. Sehn Sie, so wie
+            Sie's könne, so wär's m'r am liebschte. So einer dät m'r am beschte g'falle.
+",53,9,0.27888888888888885,0.16981132075471697
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Awer, ich bitt Sie, Mamsell ! Ich kann — — —
+",11,1,0.0,0.09090909090909091
+comedy,Ursule,F,,,"Ursule:
+O doch, Sie könne's famos, épatant Ich glaub nit, daß noch einer hie isch, wo so eleganti Curve
+            fahrt un so g'schickt eine zwische de 
+            
+",27,4,0.2509667815559481,0.14814814814814814
+comedy,Ursule,F,,,"Ursule
+(eifrig):
+Nit derwerth, par exemple, oh doch! Un wo Sie mi derno sescht am Arm g'hebbt han, do hawi mi so
+            sicher g'funde, daß i d'Aue zuegemacht hab, un hab mich ganz Inne üwerlosse, mit 'm Gedanke, daß Sie
+            mich schun sicher üs dere böse Affär zeije wäre.
+",52,6,0.27611039025038026,0.11538461538461539
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+So g'fährli isch's jo nit g'sinn. 
+            
+",8,1,0.0,0.125
+comedy,Ursule,F,,,"Ursule:
+Min ganz Lewe wurr i do dran denke, der Moment wurd m'r unvergeßli sinn, un ich bin Inne ewi
+            dankbar.
+",21,5,0.4901787748910616,0.23809523809523808
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+I schwitz Bluet! — 
+            
+",9,2,0.0,0.2222222222222222
+comedy,Ursule,F,,,"Ursule:
+Nein, nein, diß erlaub ich ne nit ze sauue, un sehn Sie, ich hab Inne noch gar nit erecht 
+            
+",20,1,0.0,0.05
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Awer — Mademoiselle — Fräulein — ihri Händ ? Ah, Sie wölle m'r d'Händ genn. Jo guet, un so wär
+            jetzt die G'schicht erledigt.
+",25,3,0.2259056250832985,0.12
+comedy,Ursule,F,,,"Ursule:
+Merci, liewer, gueter, einziger Mann. 
+            
+",6,3,0.6504089948717579,0.5
+comedy,Contre,M,,,"Contre
+(für sich):
+Tiens, mais — do versteh i au nix weh. 
+            
+",14,1,0.016,0.07142857142857142
+comedy,Mme. Trett,F,,,"Mme. Trett
+(kommt mit Juliette zurück):
+Nous voilà. Eh bien, ma fille, jetz mein i awer, daß 's Zytt wär uffzepacke, sunsch isch uff
+            einmol din Mann mit d'r Isebahn vor uns dort, wenn 'r au später aß mir furtfahrt.
+",42,5,0.3061357447500369,0.11904761904761904
+comedy,Juliette,F,,,"Juliette:
+C'est vrai, Maman, mit sinn gerischt, — na un ihr?
+",11,1,0.0,0.09090909090909091
+comedy,Colette,F,lady’s_maid,lower_class,"Colette
+(kommt herein in Pluderhosen u. s. w.):
+Madame, i kann d'Partie nit mitmache.
+",17,2,0.0,0.11764705882352941
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Madame, minner vorderscht pneu isch leer geloffe, un halt kein Luft meh, — i hab allewäj denne
+            Morje wo i zuem Metzjer g'fahre bin, e Nauel uffg'hebt.
+",28,5,0.0,0.17857142857142858
+comedy,Juliette,F,,,"Juliette:
+Ja, dü liewer Gott — was mache, mir könne jetzt nimm länger warte, — do mueß Sie jetzt halt
+            d'heime bliewe?
+",23,6,0.35141835156089635,0.2608695652173913
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+s'macht nix, Madame. — 
+            
+",6,2,0.0,0.3333333333333333
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Ja, Madam.
+",3,2,0.36399999999999993,0.6666666666666666
+comedy,Ursule,F,,,"Ursule:
+Lewesretter, genn Sie mir de Arm bis nab?
+",9,2,0.0,0.2222222222222222
+comedy,Juliette,F,,,"Juliette:
+Wenn min Mann kummt, saat Sie ihm, wurum daß Sie nit mitkann. 
+            
+",13,2,0.21899999999999994,0.15384615384615385
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+(hinausrufend):
+Adje, bon voyage. All Heil! S'isch Zytt, daß sie los sinn, d'r Tortino mueß alle-n-Auesblik
+            kumme.
+",23,4,0.24217511929046745,0.17391304347826086
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Grad sinn sie do d'Thür nüs.
+",8,1,0.0,0.125
+comedy,Contre,M,,,"Contre:
+Bon, — tiens, sans me dire adieu? Do hett's allewäj widder emol pressiert. Wenn nur d'r Gügück die
+            partie... ja, un Sie, was macht Sie denn au derno noch do, in Ihre Hosse ?
+",35,3,0.24266666666666661,0.08571428571428572
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Wo i angedohn bin g'finn, hawi g'fehn, daß min pneu e Loch hett, i kann nit mit, s'flide hätt ze
+            lang uffg'halte. D'Madam hett g'saat, daß ich's ne üsrichte soll.
+",34,2,0.0,0.058823529411764705
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Guet, Herr. 
+            
+",3,2,0.3388584376249478,0.6666666666666666
+comedy,Alphonsel,M,,,"Alphonsel
+(kommt durch die Küche):
+Do bin i schun widder, Mamsell Colette — i bin d'klein Stäij eruff.
+",21,1,0.47,0.047619047619047616
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Comment, dü bisch's — ja was isch denn jetzt schun widder los ?
+",14,2,0.6688502385809348,0.14285714285714285
+comedy,Alphonsel,M,,,"Alphonsel:
+Gar nix! — E schöner Grueß vum Herr Tortino, un es isch'm arri Leid — — —
+",19,4,0.25468197714194785,0.21052631578947367
+comedy,Alphonsel,M,,,"Alphonsel:
+— — — daß 'r nit kumme kann, grad hett 'r e Depesch griet, wäje-m-e neje engagement, s'sinn großi
+            course in Sicht.
+",24,3,0.0,0.125
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Ja hätt'r nit e Sprung kumme könne!
+",8,2,0.36399999999999993,0.25
+comedy,Alphonsel,M,,,"Alphonsel :
+Nein er hett g'saat, daß 'r kümm d'r Zytt hett an d'Isebahn ze gehn. Do hett 'r m'r noch e kleins
+            Lädel genn, wo er selbscht het welle bringe, er hett g'saat i soll's ne genn.
+",39,2,0.0,0.05128205128205128
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Merci Kind. — Ah, diß isch awer nett, e broche, e kleins Velo! — Ja d'r Tortino hett goût, er weiß
+            was schön isch un er denkt au allewyl an mi. Er isch zue artli, e g'fitzter Typ.
+",39,5,0.4877487180259356,0.1282051282051282
+comedy,Alphonsel,M,,,"Alphonsel :
+Sie han erecht, Mamsell Colette — er hett m'r sogar e halwer Marik Trinkgeld genn.
+",16,1,0.0,0.0625
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Glückspilz, kleiner. Sä, do hesch noh e halwer.
+",9,1,0.47,0.1111111111111111
+comedy,Alphonsel,M,,,"Alphonsel
+(freudig):
+Zwei halwi macht e Ganzer, so hamm'rs in d'r Schuel gelehrt. Nit Mamsell Colette?
+",18,3,0.27266666666666667,0.16666666666666666
+comedy,Alphonsel,M,,,"Alphonsel:
+Ja, er hett m'r noch ebs g'faat, awer — — — —
+",13,1,0.7279999999999999,0.07692307692307693
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Voyons, Monsieur Alphonse, e so großer Bue, fascht e Mann !
+",11,1,0.4379999999999999,0.09090909090909091
+comedy,Alphonsel,M,,,"Alphonsel:
+Er hett m'r e Shmutz genn un hett — — g'saat — — — —
+",16,2,0.305,0.125
+comedy,Alphonsel,M,,,"Alphonsel:
+Jo, er hett gemeint, i soll ne Inne an simm Platz genn.
+",13,1,0.0,0.07692307692307693
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Ah, ah, epatanter Typ, d'r Tortino, — e famosi Idee. Sunsch nix — un do machsch dü so G'schäfte?
+            Allons komm her un gib m'r ne.
+",27,2,0.0,0.07407407407407407
+comedy,Alphonsel,M,,,"Alphonsel
+(zögernd):
+Ja macht diß nix, i hab gemeint — — —
+",14,2,0.36399999999999993,0.14285714285714285
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Ulle, i sich schunn, s'geht nit andersch. — Do hesch noch e große Nickel — here mit dem
+            Shmutz.
+",21,1,0.61,0.047619047619047616
+comedy,Colette,F,lady’s_maid,lower_class,"Colette
+(weich):
+Merci lieb's Alphonsel, — dü machsch doch wenigschtens dinni Commissione so guet m'r kann. Komm
+            jetzt griesch au noh einer vun mir, hytt hesch alles im doppelte G'schirr.
+",33,4,0.5250644597040558,0.12121212121212122
+comedy,Alphonsel,M,,,"Alphonsel:
+Ja Mamsell, hytt griej i alles zwei Mol. Zwei halwi Marik hawi kriejt un zwei Shmitz. E fuerichter
+            Daa, — denne schriw-i in de Kalender. Jetzt will i awer gehn, sunsch wurr i g'scholte, daß i so lang
+            furtblie — un do rauchts als.
+",45,4,0.33449999999999996,0.08888888888888889
+comedy,Colette,F,lady’s_maid,lower_class,"Colette :
+Wurum nit gar. Hesch Angscht, griesch denn als noch Schläij, so e großer Bue?
+",15,2,0.0,0.13333333333333333
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Jo nein, au guet, wurum denn als ?
+",8,1,0.6777168752498955,0.125
+comedy,Alphonsel,M,,,"Alphonsel:
+Ja d'r Babbe meint glich widder, i bin Velo g'fahre, un er will's nit hann, — er saat als, ich
+            brech' m'r noch emol de Hals, er kann 's uewerhaupt nit verbutze.
+",34,4,0.18199999999999997,0.11764705882352941
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Tiens, der isch grad wie minner Herr, — un wer weiß, ob die wo drüwer schelte nit au emol
+            fahre?
+",21,3,0.0,0.14285714285714285
+comedy,Alphonsel,M,,,"Afphonsel:
+Diß isch sicher, Mamsell, do wott i fascht wette! 
+            
+",10,1,0.422,0.1
+comedy,Alphonsel,M,,,"Alphonsel:
+Was isch denn Mamsell Colette, wie sehn Sie üß, isch's nit g'hier? Ich riß üss, adje Mamsell
+            Colette, 
+            
+",20,2,0.0,0.1
+comedy,Colette,F,lady’s_maid,lower_class,"Colette
+(an der Thür, hinaussprechend):
+Awer Madam, awer Madam! —
+",12,2,0.0,0.16666666666666666
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Madame, um's Gotteswille, was isch g'schehn ?
+",8,1,0.0,0.125
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Ja mir han hitt kein Glück, mir sinn Alli g'stürzt, Alli,
+",12,2,0.36399999999999993,0.16666666666666666
+comedy,Mme. Trett,F,,,"Mme. Trett:
+Minner Arm, — er ish üssenand! Oh, uh, ah!
+",11,2,0.0,0.18181818181818182
+comedy,Ursule,F,,,"Ursule:
+Un min Bake brennt wie Fiehr! Mini Zähn lottle m'r im Müül erum. Colette, springt Sie so schnell
+            als Sie kann zuem Dokter, d'Madam hett amend de Fueß gebroche.
+",31,5,0.0,0.16129032258064516
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+Jesses nein, isch diß e G'schicht, i lauf was i kann. 
+            
+",12,1,0.594,0.08333333333333333
+comedy,Kütscher,M,,,"Kütscher:
+Heh, wo soll i denn die kapütene Velo anne keije, i hab' sie drunte im Gang.
+",17,1,0.0,0.058823529411764705
+comedy,Juliette,F,,,"Juliette:
+Lonn Sie, — oh, mon pied, — lonn Sie nur dorte.
+",12,2,0.0,0.16666666666666666
+comedy,Kütscher,M,,,"Kütscher :
+Jo s'isch doch nur noch e Hüffe alt's Ise. Disch ish ebbs for in's Mischtfässel. — Adje.
+",21,1,0.0,0.047619047619047616
+comedy,Mme. Trett,F,,,"Mme. Trett :
+Warte Kütscher. — Ma fille, i geh, i fahr direkt in d'Langstrooß zue mimm masseur.
+",18,2,0.0,0.1111111111111111
+comedy,Ursule,F,,,"Ursule:
+I fahr au mit, direkt zuem Abbedeeker, un hol m'r e Hebbpflaschter, au bin i so drecket.
+",18,2,0.258,0.1111111111111111
+comedy,Juliette,F,,,"Juliette:
+S'isch nit nöthi. Geh nurr nüwwer in minn Zimmer, do findsch was de brüchsch im toilette drinne.
+            Gehn — au! — gehn — soignez-vous.
+",26,1,0.0,0.038461538461538464
+comedy,Mme. Trett,F,,,"Mme. Trett :
+Ja liebs Kind, do mueß i di jo ellein lonn.
+",12,5,0.24340313631237737,0.4166666666666667
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Ach wenn Sie's erlauwe, — so wurr i bi d'r Madame Contre bliewe, bis d'r Dokter kummt.
+",19,2,0.0,0.10526315789473684
+comedy,Ursule,F,,,"Ursule:
+Sie sinn e ritterlicher, liewer Mensch. — Juliette i geh nüwwer.
+",12,1,0.8355101093653782,0.08333333333333333
+comedy,Mme. Trett,F,,,"Mme. Trett :
+I geh au. Ma fille, schicksch uns glich nouvelle, wie's geht, gell, wenn d'r Dokter do isch
+            g'sinn.
+",21,2,0.0,0.09523809523809523
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Mme. Trett, Ursule:
+Au revoir. 
+            
+",5,1,0.0,0.2
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+Ellein ! — 
+            
+",7,1,0.0,0.14285714285714285
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+I hab Sie noch warne welle. Un d'r Germania sin Sie mit Ihrem Rad d'rvun g'schosse, wie wenn Sie
+            Fleijel hätte. Sie sin g'fahre wie e-n-Engel, awer zue schnell.
+",33,3,0.19799999999999998,0.09090909090909091
+comedy,Juliette,F,,,"Juliette:
+I wär jo durichkumme, awer en même temps isch uns uff minnere Sytt die Kütsch 
+            
+",16,1,0.547,0.0625
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Ja, d'rno sinn Sie an's Kärichel angerennt, un mir wo dicht hinte noch kumme sinn, sinn üwer Sie
+            nüsg'flöije. Nein, so e Böije in d'r Luft, hawi noch keiner gemacht. Ich häb sicher kein Hütt meh an
+            de Kneij.
+",42,5,0.22999999999999998,0.11904761904761904
+comedy,Juliette,F,,,"Juliette:
+Ich, Sie armer Mann — was, ja wurum hann Sie denn diß noch nit g'saat? gehn Sie doch un lonn Sie
+            sich verbinde.
+",24,5,0.23319999999999994,0.20833333333333334
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Awer ich bitt Sie. 
+            
+",5,1,0.0,0.2
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Awer Frau Contre, Ihr Mann kann do nix dergeje saue. Wenn 'r Sie so Iiede sieht, er wurd doch nit
+            so roh sinn.
+",24,2,0.21899999999999994,0.08333333333333333
+comedy,Juliette,F,,,"Juliette:
+Ja meine Sie — er wo's nit sehn kann, daß i — oh min Füeßel — es sticht, es sticht! Wenn i nurr
+            erersch denne Schueh üshätt. Diß wurd bös gehn.
+",33,4,0.18199999999999997,0.12121212121212122
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Es sticht, Madame, es sticht — ja mir sticht's au in's Herz nin, wenn i an Ihri 
+            
+",20,3,0.425,0.15
+comedy,Juliette,F,,,"Juliette :
+S'isch wohr, wäje mir, i kann's jetzt doch fascht nimm üshalte.
+",14,1,0.328,0.07142857142857142
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Ich bin üwerglückli. 
+            
+",4,1,0.909,0.25
+comedy,Juliette,F,,,"Juliette:
+Au — mache Sie jetzt kein Plän.
+",8,1,0.0,0.125
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Hab i ne weh gedohn, — nurre vum blose anfasse? Sehn Sie, i benied Ihre Mann.
+",17,5,0.09079999999999998,0.29411764705882354
+comedy,Juliette,F,,,"Juliette:
+Ja wurum denn?
+",4,1,0.7279999999999999,0.25
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Gewiß, er isch ze beniede, so e schöns Frauchen ze hann. Wie kann 'r nurr so sinn, geje-n-e so
+            schön's Wywele.
+",25,3,0.25090930285593044,0.12
+comedy,Juliette,F,,,"Juliette
+(bei Seite):
+Ah, ah, — wart nur ! 
+            
+",10,1,0.0,0.1
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Sie verstehn mi nit? Wurum verbiet er Inne ze radle. Kammer im e so e göttliche G'schöpf etwas
+            abschlaa, do mueß m'r e Stein in 
+            
+",26,5,0.10996250622562627,0.19230769230769232
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier :
+Hann Sie so weh? Arm's Kind.
+",8,3,0.16833856052062898,0.375
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier:
+Nur noch ein Wort, schöni Madam, nurr e klein's Wörtel möcht i 'ne saue.
+",16,4,0.3056819771419478,0.25
+comedy,Juliette,F,,,"Juliette
+(bei Seite):
+I friej Angscht! — 
+            
+",9,1,0.0,0.1111111111111111
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+D'r Deifel! — Oh weh! 
+            
+",10,2,0.008,0.2
+comedy,Ursule,F,,,"Ursule:
+Ah, mon Dieu! — D'r Herr Blotzmeier uff de Kneij vor'm Juliette. — Was soll 
+            
+",17,2,0.2735,0.11764705882352941
+comedy,Juliette,F,,,"Juliette
+(bei Seite):
+Jetzt will i mi räche. — 
+            
+",11,1,0.0,0.09090909090909091
+comedy,Juliette,F,,,"Juliette:
+Eh bien, denk emol was e surprise, — e Surprise, wo dich angeht. D'r Herr Blotzmeier hett m'r grad
+            ewe sinni Lieb — zue dir g'ftande un hett bi mir uff de Kneij um dinni Hand ang'halte.
+",38,5,0.3903357447500369,0.13157894736842105
+comedy,Juliette,F,,,"Juliette:
+Ich hab ihm versproche ze helfe, un hab'm g'saat, daß 'r hoffe kann.
+",15,3,0.26333333333333336,0.2
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(starr, bei Seite):
+Was, — ich! — 
+            
+",10,1,0.0,0.1
+comedy,Ursule,F,,,"Ursule
+(freudig):
+Ja, s'isch wohr, er saat ja. Ah, mon Dieu, isch's möjli, — diß Glück? Oh oui, i hab's gewüeßt, ich
+            hab's g'spiert, daß 'r mi gern hett.
+",35,7,0.44985714285714284,0.2
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+Himmel hilf! — 
+            
+",8,1,0.7749592089664813,0.125
+comedy,Ursule,F,,,"Ursule:
+Was, Fräulein, do gitts kein Fräulein meh. 
+            
+",8,2,0.0,0.25
+comedy,Juliette,F,,,"Juliette
+(ebenso, aber fest):
+Sie müehn, — diß sinn Sie mir schuldi.
+",14,2,0.4301342850114889,0.14285714285714285
+comedy,Ursule,F,,,"Ursule:
+Oh, quel bonheur, in bin ganz verzwirwelt im Kopf.
+",10,1,0.394,0.1
+comedy,Juliette,F,,,"Juliette
+(zu ihm):
+Noch e Wort, un i saa Alles mim Mann.
+",14,2,0.21899999999999994,0.14285714285714285
+comedy,Blotzmeier,M,bicycle_store_owner,upper_middle_class,"Blotzmeier
+(bei Seite):
+Oh weh, — oh weh! — 
+            
+",11,2,0.016,0.18181818181818182
+comedy,Ursule,F,,,"Ursule:
+Was denn, Schätz'l? Oh, ich weiß schunn, was dü mir sauwe witt. Tu m'aimes, i weiß es jo schun
+            lang. Hättsh m'rs jo au selwer sauwe könne, — i hätt au glich acceptiert. Oh, was e Glück, — komm in
+            minni Ärm dü Herzkäfer, un gib m'r e Schmutz! 
+            
+",50,4,0.1525,0.08
+comedy,Contre,M,,,"Contre:
+Mais oui, i hab's Colette do vorne in d'r Gaß angetroffe, i weiß Alles! Oh, mais, dü hesch jo noch
+            de Schue an. Attends, i helf d'r ne üßzeije. 
+            
+",31,1,0.0,0.03225806451612903
+comedy,Contre,M,,,"Contre
+(zu Juliette):
+Eh bien, ma femme, was haltsch de jetzt vum Velofahre. Fahrsch später widder ohne dinne Mann?
+",21,2,0.49183936187509214,0.09523809523809523
+comedy,Contre,M,,,"Contre:
+A la bonne heure, un ich hab widder minni klein Frau, min lieb Wywele.
+",15,2,0.6644999999999999,0.13333333333333333
+comedy,Colette,F,lady’s_maid,lower_class,"Colette:
+D'r Herr Dokter isch im salon.
+",7,3,0.0,0.42857142857142855
+comedy,Contre,M,,,"Contre :
+D'r Dokter, hm, — führt Sie ne glich eryn.
+",10,1,0.0,0.1

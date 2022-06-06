@@ -35,3 +35,11 @@
 
     Il y a <emph> dans <persName>, donc faut encore parcourir les enfants de <persName>
 ```
+Pour parcourir les informations des personnages,
+Dans repetoires tei-lustig et tei2, le <idno type="methal" xml:id="mtl-001"/> n'existe pas,
+cela pose un probleme quand il y a meme noms et prenoms dans differentes pieces de theatre.
+
+#### ted analyse:
+```shell
+python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/bastian-dr-hans-im-schnokeloch.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath bastian-dr-hans-im-schnokeloch
+```

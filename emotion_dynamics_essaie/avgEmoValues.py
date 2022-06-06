@@ -46,10 +46,10 @@ def get_alpha(token):
 def get_vals(twt, lexdf):
     ret = als_t.RegExpTokeniser()
     phrase = (ret.tokenise(twt.lower())).get_contents()
-    tt = re.split("[,|.| |?|!|\n]", phrase)
+    tt = re.split("[,|.| |?|!|\n|\"|…|;|:]", phrase)
     
     #tt = twt.lower().split(" ") # maybe use spacy to tokenize here
-    at = [w for w in tt if w.isalpha()] # compter num de tokens
+    at = [w for w in tt if w != ""] # compter num de tokens
 
     pw = [x for x in tt if x in lexdf.index]
     pv = [lexdf.loc[w]['val'] for w in pw]

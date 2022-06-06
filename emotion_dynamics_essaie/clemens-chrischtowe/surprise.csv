@@ -1,0 +1,513 @@
+drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+
+          
+",1,1,0.0,1.0
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Grossbabbe, ich bin glich erin wie’s finschter isch worre. Ich hab Angscht dr Hanstrapp kummt.
+",17,3,0.0,0.17647058823529413
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Dü wäisch ass d’Hütt füer de Grossbabbe isch.
+",10,1,0.0,0.1
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Gib’s em numme wann-r se garn hett — Awer der Bohnekaffe schmeckt so guet, diss esch doch kenn
+          Ersatz meh, diss schmeckt ganz andersch ass wie der Wiedegrund.
+",30,4,0.0,0.13333333333333333
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Näin, näin Buwele — der isch fuer morje. Wäisch morje-n-isch Wihnachte un do hett uns d’Mamme als äu
+          Kueche gebache.
+",24,4,0.0,0.16666666666666666
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Mäinsch kummt hitt Owe äu s’Chrischtkindel zue uns ? Ich hab alle Nacht gebatt ass-es mir ebs
+          Schöens bringe soll.
+",21,1,0.0,0.047619047619047616
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Na, wenn dü brav gebatt hesch no bringt’s dir äu ebs Natt’s — Was wottsch am Liebschte vum
+          Chrischtkindel ?
+",22,5,0.0,0.22727272727272727
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Am liebschte wott ich, ass d’Mamme widder kumme dätt — un no e Farwelad — un no sott dr Babbe kumme.
+          Wann’s numme boll kumme duet — ich hab kenn Angscht vor-em Hanstrapp. 
+          
+",36,7,0.0,0.19444444444444445
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Was isch dann widder — was isch dann widder ?
+",10,1,0.0,0.1
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Äi sie ruefe mr alli e Üwername. Dr Schuelmäischter hett mi gfröjt wie „der Ofen“ häisst — no hawi
+          gsäit „Furneau“ 
+          
+",26,1,0.0,0.038461538461538464
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Un dü bisch dracket ! 
+          
+",5,1,0.0,0.2
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Awer Xaverel kannsch denn dü nitt folje un brav sinn. Jetz machsch dim Schweschterle widder Arwäit
+          un ass muess schun alles alläin mache, zitter ass d’Mamme dot isch — dü sottsch dich schäme e so böeser
+          Bue ze sinn. Duesch a so dinn Verspracha halte, wie de dr Mamme uf-em Dotsbett gann hesch ? Hesch ere
+          nitt versproche allewill brav ze sinn un im Marikel an d’Hand ze gehn. Un wann de an de Babbe dänke
+          dätsch, wie mr schun vier Johr nix meh vum wisse, ze sottsch di schäme — wär wäis ob-r noch am
+          Läwe-n-isch.
+",101,15,0.0,0.1485148514851485
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Do sitz an dine Platz, dir fählt dr Babbe, dass de gezöje dätsch wäre. 
+          
+",15,2,0.3635,0.13333333333333333
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Dät mich dr Babbe äu zeje — Ja mäinsch kummt-er jetz boll?
+",13,3,0.0,0.23076923076923078
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Dr Kaffe isch jo gar nitt süess — denne will ich nitt — 
+          
+",14,1,0.203,0.07142857142857142
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Dü hesch Zucker genuej, ich mues spare dran. Dü verdiensch üewerhäubt kenn Zucker, dü Räiwer.
+",16,1,0.0,0.0625
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Mildebibb noch emol! Witt jetz stille sinn un de Kaffe drinke, dü ungarschticher Bue, dü! Grad
+          säisch dü witt brav sinn un jetz fangsch schun widder an —
+",29,4,0.0,0.13793103448275862
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Wenn de Hanstrapp kummt, der wurd di fitze mi dere lange Ruet. Ich bin brav ich hab kenn Angscht
+          vor-em 
+          
+",21,3,0.0,0.14285714285714285
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Entrez !
+",2,1,0.0,0.5
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Guete-n-Owe biesamme’! 
+          
+",5,2,0.0,0.4
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Merci äu Spähnelänz, ihr danke doch als äu noch an uns, ich bin froh no brüch ich nitt in de Wald
+          üewer d’Fierdäy.
+",25,2,0.0,0.08
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Joo, ich due allewäj im Voltz-Märtel sini Familie vergasse, ar isch äu e gueter Kärl un hett mir
+          viel Gfalle gedoon.
+",22,4,0.0,0.18181818181818182
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Näin, näin, Mäidel, ich hab schun e Schnäpsel gepackt. Awer ich will mich e bissel wärme un e bissel
+          babble mit-em Grossvater.
+",23,3,0.0,0.13043478260869565
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Dü besch doch e gueter Kärl, dü luejsch als doch noch uns do hüsse, in unserem Misere.
+",18,2,0.0,0.1111111111111111
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+As wurd jetz besser kumme, die Zitte sinn erum. Mer hann doch widder satt ze asse un Wissbrot hann
+          mr äu. Morje bring i e Budäll Roter, wäisch, bim e guete Gläsel Win vergisst mr alles Misère. Jetz sott
+          noch dr Voltz kumme no war Massel. Ich kanns nitt gläuwe, ass-r nimi läwe sell, ihr wäre sähn, ar steht
+          am e schöene Döj do in dr Stubb. Dr Stäinpeterseppel isch gescht äu üss Rüssland kumme, ganz
+          unverhofft.
+",78,13,0.03969230769230769,0.16666666666666666
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+E Glüeck war’s jo, wann’s eso kam — awer war wäiss, wär wäiss. Zitter vier Johr hann mr kenn
+          Stärweswöertele meh vum g’höert. Alli Brief wie mr gschriewe hann, sinn zeruck kumme, mr hann-em nitt
+          kenne schriewe, ass ’s Marie, sini Fräu, krank esch, un wie’s gstorwe isch, hann mr-em kenn Nochricht
+          kenne gann. Wie m’r uns anegewend’t hann, isch Bschäid zeruckkumme : Seit dem 24. August 1914 vermisst
+          — — ja — ja! 
+          
+",77,9,0.1381111111111111,0.11688311688311688
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Na, wann’s awer häisst „vermisst — isch’s als noch kenn Bewies, ass-r nimi läbt, un ihr derfe d’
+          Hoffnung nitt uffgänn. Am End bringt ne gar ’s Chrischtkindel mit, ejere Babbe, diss war awer e
+          Chrischtowe. — Mäinsch Schorschel, wann dr Babbe hinnicht käm, do datsch lache, hä ?
+",52,7,0.26368872316573216,0.1346153846153846
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Awer sicher, awer wie sieht dann e Babbe üss ?
+",10,2,0.0,0.2
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Ah, jasoo — dü kennsch jo dine Babbe gar nitt, dü bisch noch kenn zwäj Johr alt gewann, wie se ne
+          g’holt hann d’ Prejse — un ar isch so ungarn furt von Fräu un Kind.
+",37,2,0.0,0.05405405405405406
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Ich wäiss-es noch, wie er furt isch, ar hett uns alli gschmutzt un hett gsäit zue dr Mamme : Marie,
+          hiel nitt, ich kumm ball widder. Ar isch awer noch nitt kumme.
+",32,3,0.0,0.09375
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Waje mir, ich hab ganz Häimweh denoch, im Babbe sini Schmier gspiert mr doch äu. 
+          
+",16,4,0.03525,0.25
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Do müess mr noch lache zue allem Misère — un wie wurd’s uns noch gehn ? 
+          
+",17,2,0.1144105310800626,0.11764705882352941
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Grossbabbe, mir bliewe bienander, ich will gare schaffe.
+",9,2,0.0,0.2222222222222222
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+As sell numme äiner kumme, ich bring ne nüss ! 
+          
+",10,1,0.0,0.1
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+As isch alles racht — wann numme emol e Brief oder e Nochricht vum kam — nurre e Zäiche, ass-r labt,
+          sunsch sinn mr verlore. Die arme King düre mich, wäje mir hätt’s jo kenn so Wärt, ich läb doch nimmi
+          lang.
+",44,6,0.0,0.13636363636363635
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Grossbabbe, dü sollsch noch nitt stärwe, dü sollsch noch lang bie uns bliewe, gar jetz, wie d’
+          Franzose do sinn.
+",21,2,0.0,0.09523809523809523
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Dü derfsch nitt starwe Grossbabbe, wie de starbsch, bin i böes mit dr.
+",14,2,0.0,0.14285714285714285
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+Ihr wisse wie’s häisst: „Wann d’Not am gröeschte isch, isch Gottes Hilf am nächschte“ Un ihr wäre
+          sähne, ar hilft äu bie ejch. Ihr derfe nitt glich ’s Ärigscht danke. Wann halt d’ Mamme noch do wär,
+          war’s halt viel besser — die vermaledäit Gripp hett viel Mansche ’s Läwe koscht. 
+          
+",57,9,0.033,0.15789473684210525
+weihnachtsmärchen,alli,UNKNOWN,,,"Alli:
+Guet Nacht, Spähnelänz.
+",4,1,0.0,0.25
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Un äu merci füer’s Holz, un ’s Chrischtkindel sell ejch äu ebs schöen’s bringe.
+",17,1,0.0,0.058823529411764705
+weihnachtsmärchen,Spähnelänz,MALE,,,"Spähnelänz:
+As sell mr numme e Päckel Düwak bringe, diss isch mr liewer wie alles, ass i kenn Keschteblätter un
+          wäiss dr Deifel was füer Mischt räuche muess. — Guet Nacht! 
+          
+",31,4,0.121,0.12903225806451613
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Ich will de Disch abrümme, un no sitze mr zuem Grossbabbe, un ar verzehlt uns no e schöen’s
+          Gschichtel, gall Grossbabbe ?
+",23,3,0.0,0.13043478260869565
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Aijo, ihr Quälgeischter, ass-r zefridde sinn. 
+          
+",7,2,0.0,0.2857142857142857
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Die Mühle geht langsam, das Rad geht schnell — —
+",11,1,0.469,0.09090909090909091
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Xaverel, witt de ruejh sinn! 
+          
+",6,2,0.0,0.3333333333333333
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Autsch — autsch — ich bin brav, Schweschterle, halt jetz — autsch, es langt — gisch mr dr Räscht
+          e-n-ander Mol !
+",24,2,0.0,0.08333333333333333
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+So, un jetz do hare gsasse uf de Schämel un nimm gemückst. 
+          
+",13,1,0.0,0.07692307692307693
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Grossbabbe, ich kann äu schun eb’s natt’s ufsäue, höer emol Grossbabbe :
+„Bin e kläiner Stumpe,
+Steckt mr in de Lumpe,
+Dr Lumpe isch ze kläin,
+Mr steckt ne in e Stein ;
+Dr Stäin isch ze kalt,
+Mr steckt ne in e Wald,
+Dr Wald isch ze finschter,
+Mr steckt ne ins Münschter,
+’s Münschter isch ze hoch,
+Mr steckt ne in e Rohr,
+’s Rohr isch ze äng,
+Mr steckt ne in d’ Budäll,
+d’ Budäll läuft üss,
+D’r Stumpe blitzt erüss.“
+",87,9,0.066,0.10344827586206896
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Stille bisch — diss isch ganz ebs schöen’s Schorschel ! Ar isch numme schallü, will ar nix kann.
+",19,4,0.0,0.21052631578947367
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Glich — e Momant noch, ich bin so rüch im Hals. 
+          
+",12,1,0.0,0.08333333333333333
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+
+          
+As isch emol gewänn,
+E Stackel un e Spähn.
+As isch emol gsinn.....
+",14,1,0.0,0.07142857142857142
+weihnachtsmärchen,group,sex_unknown,job_unknown,social_class_unknown,"Alli drej:
+Jooo, Grossbabbe, nitt eso — —
+",8,1,0.0,0.125
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Wann dü nitt miesli stille bisch —
+",8,1,0.0,0.125
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+
+          
+D’ arm Philome hett versproche, alles wohl üsszerichte, un no isch’s Katzemiesel gstorwe. Sie hett’s
+          im Garte, grad vor ihrem Fanschter begrawe un isch glich ane gange un hett e Stächschar genumme un hett
+          anfange unterem Holderbäum ze dälwe un ze sähne, obs Katzemiesel d’ Wohret gsäit hett. Sie hett
+          tatsächli äu e grosser Hüffe Gold un Silwer gfunde, awer biem Anblick vun dam viele Gold isch äu glich
+          d’ Habsucht un dr Giz in ihr Härz ingezöje, un sie hett ihr Verspreche vergässe, wie se im Katzemiesel
+          gemacht hett un hett alles füer sich gepalte. Sie hett’s im Commode inbschlosse un hett dem blinde Mann
+          nix devun gann vun dam viele Gold un Silwer.
+Uf-em Grab vum Katzemiesel isch e Quätschelbäum gewachse, d’ Philome isch als alle Öwe unter dene
+          Quätschelbäum gsässe, un emol, wie er ganz voll Quatschle isch g’hänkt, hett se alli Fräid ghett,
+          ass-se so viel Quätschle bekummt, isch’s grad gsinn, ass wann se e häimlichs Rüsche in de Äscht höere
+          dat un wie e Stimm säit :
+War von sinem Üewerfluss
+Un Richtum vollem Säje
+E armer Blinder darwe losst,
+Dam bringt’s kenn Glüeck, ar hett Verdruss.
+Do isch d’ Philome bläich worre wie e Suppedaller, sie isch in d’ Stubb nin, hett’s Commode
+          ufgerisse un da — ihr Schatz isch nimmi do gewann, alles Gold un Silwer futsch. Do isch se bedrüebt un
+          voll Kummer un Anleje unter de Quätschelbäum gsässe un hett gejommert: „O ich armi Fräu, worum bin ich
+          so harthärzi un gizich gewänn. Von was sell ich armi, alti Fräu jetz läwe, jetz muess i vor Hunger
+          stärwe.“
+Do hett’s widder anfange ze rüsche in de Äscht, e paar Quätschle sinn erab kejt un die Stimm hett
+          gsäit: Äimol noch soll dr gholfe ware, hebb die Quätschle uf, sie sinn von pürem Gold, die sinn dine,
+          awer ’s erscht arm Kind wie zue dr kummt, dem
+          
+Vor Scham un Ärjer, ass se widder e Dummhäit gemacht hett, isch se nüss geloffe in de Hoft un hett
+          sich uf d’ Bank unter de Quätschlebäum gsetzt, un wie se nuff lüejt, ob kenn goldichi Quätschle meh
+          drowe hänke, ze sieht se e schöener Vöjel drowe sitze mit-ere Goldkron uf-em Kopf, un dar hett no
+          gsunge :
+„Dü hesch nitt ghöert uf gueti Wort,
+Drum isch din Gold un Richtum furt.“
+„O dü liewer Vöjel“, hett d’ Philome gejommert, „datsch mr nurre noch emol halfe, ich will garn
+          alles mache, was de mr säisch un nie widder gizich ware.“
+Do hett der Vöjel e Fader keje lonn, die hett so geglänzt, ass dr Philome d’ Aue weh gedon hann, un
+          wie se geluejt hett, isch se vun pürem Gold gsinn. Dr Vöjel hett awer gsäit: „Nimm die Fäder un steck
+          se in de Bodde, do wie ’s Katzemiesel begrawe lejt, no wurd üewer Nacht e Bluemestock wachse, wie ganz
+          von Gold isch, un do briechsch jede Owe e Blatt ab un dü wursch rich un glüeckli ware, nurre vergiss im
+          Glück d’ Arme nitt.“
+Do drüwer hett d’ Philome e grossi Fräid ghett un in ihrem Härze isch awer glich widder d’ Habsucht
+          un dr Giz kumme un sie hett sich in Gedanke
+          
+",545,73,0.05000224414882786,0.13394495412844037
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Diss esch e natti Gschicht gewann — dare „Fillemej“ gschied’s ganz eracht, ass se verbrännt
+          isch.
+",20,3,0.0,0.15
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+So köennt ich schun nitt sinn, ich dat de letschte Mumpfel häre gänn. 
+          
+",14,1,0.0,0.07142857142857142
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+
+          
+",1,1,0.0,1.0
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Er stupft mich! — Wart dr Hanstrapp muess die fitze.
+",11,1,0.148,0.09090909090909091
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Xaverel, losch dene Bue gehn ! Noch e Wort, no muesch ins Bett.
+",13,1,0.0,0.07692307692307693
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Entrez! 
+          
+",2,1,0.0,0.5
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Awer Nissmeier, jetz mitte im Winter wotte ihr uns nüss stelle ? Bedänke doch, was diss füer uns
+          wär, warte doch noch e bissel, hann noch e weni Geduld, mr hoffe alle Döj druff, ass dr Voltz widder
+          kummt, no wurd’r jo alles bezahle,
+",44,4,0.037,0.09090909090909091
+weihnachtsmärchen,Nissmeier,MALE,,,"Nissmeier:
+Ja, mit Versprechunge kann isch awer nitt inkaafe, un ob de Voltz kummt, diss isch e anderi
+          Fröj.
+",19,3,0.073,0.15789473684210525
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Awer sicher kummt-r.
+",4,1,0.0,0.25
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Na, awer gedulde ejch doch noch. Ihr hann jo ze läwe un sinn jetz nitt grad angewiese uf die paar
+          hundert Livres. Ihr sinn doch e richer Mann. —
+",30,5,0.0,0.16666666666666666
+weihnachtsmärchen,Nissmeier,MALE,,,"Nissmeier:
+Was heisst e richer Mann ? Du reste, ich müess au lueje, ass ich durichkumm, isch hab nix eweck ze
+          schmisse un wenn de Voltz als weniger geblosse hätt, wär’s Baräckel längscht bezahlt.
+",34,1,0.0,0.029411764705882353
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+Was säit dar ? Unsere Babbe hett geblose ! 
+          
+",8,2,0.0,0.25
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Soo — diss isch dr Dank von dere Sort Litt, ass mr 5 Johr lang sini Knoche ze Märik getraue hett un
+          sie sinn d’häime hinterem warme Offe ghuckt. ’s isch guet Nissmeier — Ihr bekumme ejer Gald,
+          
+",40,7,0.06585714285714286,0.175
+weihnachtsmärchen,Nissmeier,MALE,,,"Nissmeier:
+Non, monsieur Voltz, ’s isch nitt so böes gemaant gewäse — Ich tröj eich jo — ihr brüche nitt glich
+          morje ze kumme. — Ich waas jo, ihr sinn e braver rechtschaffener Mann — isch hab numme welle lueje, was
+          d’ Familie macht, wie’s geht dene Kinder, ich bin nurre froh, ass isch nix Böeses üewer ejch gsaat hab.
+          — Adje, un amesiere-n-ejch guet! 
+          
+",68,12,0.0,0.17647058823529413
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Kinder — Vater — Gott-lowe-dank d’häime ! —
+",9,2,0.0,0.2222222222222222
+weihnachtsmärchen,group,sex_unknown,job_unknown,social_class_unknown,"Marikel un Xavier:
+Babbe, liewer Babbe — jetz bliesch awer do, gall ?
+",12,3,0.0,0.25
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Wie isch d’ Mamme ? Ruefe d’ Mamme, saue de Babbe isch do! 
+          
+",13,3,0.0,0.23076923076923078
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Ja, wie gemahnt mich diss ? Wie isch d’ Mamme? 
+          
+",10,2,0.0,0.2
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Unseri Mamme isch nitt do — sie isch gstorwe !
+",10,2,0.0,0.2
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Martin — verzwiefel nitt, ass isch jo hart, was dich getroffe hett — awer luej, dü muesch’s ze
+          üewerwinde sueche, dü muesch jetz starik sin ! — Ja, ’s Marie hett müen starwe, d’ Gripp hett’s
+          mitgenumme, wie noch so viel — awer do hesch dini Kinder, unschuldichi Tröepfle, wie mit Schmarze uf de
+          Babbe gewart hann un de Glauwe nitt verlore hann, ass de widder kummsch, un ihrer Glauwe hett se nitt
+          im Stich gelonn, dü bisch widderkumme. — Diss isch doch au e Droscht füer di un soll dr Kraft gann äu
+          diss ze üewerwinde — — un am Schicksal kenne mr nix ändere, ass hett so selle sinn.
+",113,19,0.027578947368421054,0.168141592920354
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Schorschel, diss isch jetz dr Babbe — wie de als gebatt hesch ass-r ball kumme sell.
+",17,4,0.0,0.23529411764705882
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Babbe, hesch kenn Hunger — ich hab e Kueche gebache füer morje, awer mr asse ne jetz.
+",18,3,0.0,0.16666666666666666
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Loss numme, Kind, ich hab gueti Sache mitgebrocht, Asse un Trinke. 
+          
+",12,3,0.10938794095481143,0.25
+weihnachtsmärchen,Schorschel,MALE,,,"Schorschel:
+Uuh — Schocola ! Babbe, gab mr e Stüekkel 
+          
+",9,2,0.0,0.2222222222222222
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Babbe, worum hesch dann so lang nix von dr höere lonn ? Vier Iohr lang ohne e Zäiche vun dr.
+",20,5,0.06563276457288686,0.25
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Ja, Martin, mr hann in Angscht um dich gelabt. Dü hesch allewäj viel ze verzehle.
+",16,3,0.0,0.1875
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Ich möecht am liebschte nim dran dänke, gschweje devun redde. Am 24. August 1914 bin ich an dr
+          Oschtfront biem e Vormarsch nitt witt vun Allenstein gfange genumme worre. Bis noch Sibirien
+          
+",33,2,0.0,0.06060606060606061
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossvater:
+Diss war im Jacques sinner Bue. Wie geht’s em dann in Amerika ?
+",14,1,0.0,0.07142857142857142
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Ar hat e grossi Holzhandlung un verdient viel Gald, ar isch e gemachter Mann. Ar hett mr Gald gann,
+          e so viel, ass ich kann säue, mr sinn so gstellt, ass mr e äjes Hiesel un e sorjeloses Läwe hann. Ar
+          hett äu gemacht, ass ich jetz schun d’häime bin, ich hab üewer Frankrich kenne räise, in Lyon haw i die
+          Kleider bekumme, un mit-em erschte Transport bin i abgfahre ins Elsass. Ich war erscht morje kumme, es
+          fahrt hinnicht kenn Bähnel meh, awer ich hab de Wäj nitt gschejt un bin üwer de Barri rüewer geloffe,
+          ich hab doch am Chrischtowe d’häime welle sinn bie minere Familie.
+",111,14,0.04742857142857143,0.12612612612612611
+weihnachtsmärchen,group,sex_unknown,job_unknown,social_class_unknown,"Marikel un Xavier:
+Gott-lowe-dank, ass mr die widder hann, dü bisch widder bie uns, jetz isch alles vergasse.
+",18,1,0.0,0.05555555555555555
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Numme d’Mamme sott noch do sinn.
+",8,1,0.0,0.125
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Die isch im Himmel und fräit sich jetz mit uns, ass dr Babbe widder do isch.
+",17,4,0.16025,0.23529411764705882
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Xaverel, lang emol de Kuffer, ich hab ejch ebs mitgebrocht üss Rüssland. E Halstuech fürs Marikel, e
+          Pelzkapp füer de Xaverel un e Mutze füer de Schorschele. 
+          
+",28,1,0.0,0.03571428571428571
+weihnachtsmärchen,Dr Grossbabbe,MALE,,,"Grossbabbe:
+Martin, siehsch, wo so viel Lieb isch, do isch äu e Glüeck.
+",13,3,0.17200000000000001,0.23076923076923078
+weihnachtsmärchen,Voltz Martin,MALE,,,"Voltz:
+Noch d’ Mamme — noch war min Glüeck vollkomme. 
+          
+",10,2,0.258,0.2
+weihnachtsmärchen,Marikel,FEMALE,,,"Marikel:
+Kumm Schorschel, ich will dr ’s Müll abbutze, sunsch bekummts jo Angscht. 
+          
+",13,3,0.057333333333333326,0.23076923076923078
+weihnachtsmärchen,’s Chrischtkindel,UNKNOWN,,,"Chrischtkindel:
+Ehre sei Gott in der Höhe und Friede den Menschen, die eines guten Willens sind.
+",16,5,0.0,0.3125
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Millionesternschnüppe ! — Jetz emol do häre un gsunge „O Tannenbaum“. — Ja, do fehlt jo einer, wo
+          stackt dann der ? Aha, der hett e böeses Gewisse, der hett Angscht vor-em Hanstrapp. 
+          
+",34,4,0.18175,0.11764705882352941
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Un ihr zwei, sinn ihr brav, oder müen ihr äu Wichs hann ?
+",13,1,0.0,0.07692307692307693
+weihnachtsmärchen,’s Chrischtkindel,UNKNOWN,,,"Chrischtkindel:
+Halt — liewer Hanstrapp. Ich bitt füer die Kinder, sie hann in dene vier Johr genuej liede müen un
+          hann kenn Mamme meh. —
+",25,5,0.0,0.2
+weihnachtsmärchen,group,sex_unknown,job_unknown,social_class_unknown,"Alli drej Kinder:
+Liebs Chrischtkindel, mr welle allewill brav un folgsam sinn.
+",12,4,0.0,0.3333333333333333
+weihnachtsmärchen,alli,UNKNOWN,,,"Alli
+(singe:)
+„O Tannenbaum, o Tannenbaum, wie grün sind deine Blätter“ usw.
+",16,2,0.0,0.125
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Guet so gsinn. Do häre, jetz gitts Äpfel un Nusse un nitt züe knapp, Millionesternschnüppe ! 
+          
+",16,2,0.0,0.125
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Dü ? Zej emol, angfange — wann’s nix isch no rauchts 
+          
+",12,1,0.0,0.08333333333333333
+weihnachtsmärchen,Xaverel,MALE,,,"Xaverel:
+(saat uf :)
+
+            
+De brave Kinder ihri Zitt,
+Ruckt nähter als dezü.
+Dr Chrischtdaa isch jetz gar nim witt,
+Do gitt’s Pläsir genuej.
+’s Chrischtkindel kummt,
+Isch diss e Läwe.
+Was wurd’s do füer Presantle gäwe.
+Sie höere in Gedanke schun
+Sin Glöeckel silwerhäll,
+Mr säit sie draime gar devun,
+Der geht gewiss nitt fahl.
+Na, nurr Geduld, nim lang soll’s wäre,
+’s Chrischtkind wurd ejch brachti b’schäre.
+Do gitt’s füer Mäidle Küechegschirr
+Un Puppe, natt un fin.
+Mit Lockehoor, mr meint jo schier,
+Dass sie natirlich sinn.
+Zuem koche Äpfel, Bonbons, Tarte,
+Füer ihre Puppe uffzewarte.
+Füer Büewe gitt’s e Stäckepferd,
+E Trumm un e Trumbeet,
+E Flint un gar au noch e Schwärt,
+Soldate gar ze natt.
+Do kenne se als exerziere
+Un mitnander blinde Schlachte füere.
+Diss war füer die, wo brav als sinn,
+De Eltere folje schöen,
+Wo d’ Lehrer niemols strofe müen
+Un gärn in d’ Schuel au gehn.
+Füer d’ Böese, wie stets brumme
+Wurd mit dr Ruet dr Hanstrapp kumme.
+Drum liewi Kinder uffgebasst
+Un seje brav un guet,
+Dr Hanstrapp hett noch niemols gspasst,
+Er hett e dicki Ruet.
+I mein, er wurd im Eck dort sitze
+Füer böese Kinder scharf ze fitze.
+",208,42,0.05078571428571429,0.20192307692307693
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Guet gemacht — do hesch’s Härz un sej vun jetz ab brav, sunsch butterts, wänn i widder kumm.
+",20,5,0.0,0.25
+weihnachtsmärchen,’s Chrischtkindel,UNKNOWN,,,"Chrischtkindel:
+Awer der Klein do muess au e Lebkuechehärz hann.
+",10,1,0.0,0.1
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Diss isch kläin, awer fein! do hesch e Härz.
+",10,2,0.2225,0.2
+weihnachtsmärchen,’s Chrischtkindel,UNKNOWN,,,"Chrischtkindel:
+Diss isch lieb vun dir un au im Maidel muesch e Härz gänn 
+          
+",14,4,0.0,0.2857142857142857
+weihnachtsmärchen,Dr Hanstrapp,MALE,,,"Hanstrapp:
+Do wurr ich alli Härzer los, Millionesternschnüppe, un mr hann noch meh Kinder ze bschäre.
+",16,3,0.159,0.1875
+weihnachtsmärchen,’s Chrischtkindel,UNKNOWN,,,"Chrischtkindel:
+Ihr liewi Kinder, ich hab gsähn ass ihr alli brav sinn, un de brave Kinder duet’s Chrischtkindel
+          allewill helfe un biestehn. Denn durch diss ass ihr zuem Chrischtkindel immer gebett hänn,
+          
+",33,8,0.0,0.24242424242424243

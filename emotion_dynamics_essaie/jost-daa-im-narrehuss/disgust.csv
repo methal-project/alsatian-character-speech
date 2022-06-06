@@ -1,0 +1,786 @@
+drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(vun rächts):
+Wenn ich mich nitt drumbier, ze muess’s Narrehüss do in d’r Gejed sinn !
+",19,1,0.0,0.05263157894736842
+comedy (farce),E Passant,M,,,"PASSANT:
+Nein, leider nitt ! 
+",4,1,0.5546096777056602,0.25
+comedy (farce),E Passant,M,,,"PASSANT
+(kummt wichtig zeruck):
+Monsieur, meine Sie am End ’s Narrehüss ?
+",13,3,0.0,0.23076923076923078
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Gewiss, diss suech ich jo!
+",6,1,0.0,0.16666666666666666
+comedy (farce),E Passant,M,,,"PASSANT:
+Ja, wo diss isch, weiss ich nämlich au nitt! 
+",10,1,0.0,0.1
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(wietig):
+Awer zyttig sinn Sie, fur’s ball ze wisse ! Na, ich wurr’s schun finde ! No will ich awer im Monsieur Nervich, wo Dokter drinne-n-isch, schun de Marsch bloose ! 
+",35,5,0.27429231934620535,0.14285714285714285
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(luejt am Hüss nuff):
+Ah, do owe huckt jo e Papegei, wo schynnt’s in ebber furtg’flöje-n-ich ! E zü scheens Dierele ! 
+",26,1,0.0,0.038461538461538464
+comedy (farce),D’Stimm vum e Papegei,U,,,"PAPEGEI
+(lacht):
+Lorele will Kueche !
+",7,1,0.0,0.14285714285714285
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+E gelehrig’s Dierele ! Ich muess’s unbedingt fange, denn diss arm Vieh kummt jo in d’r Frejheit um! 
+",20,3,0.0,0.15
+comedy (farce),D’Stimm vum e Papegei,U,,,"PAPEGEI:
+Lorele, kumm ! 
+",3,1,0.0,0.3333333333333333
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+’s wär direkt e Verbreche, so e schlöj’s Dierele umkumme ze lonn ! 
+",14,3,0.21993629973226195,0.21428571428571427
+comedy (farce),E’n Arweiter,M,labourer,lower_class,"ARWEITER:
+Heiliché, haw ich e Durscht! 
+",6,1,0.0,0.16666666666666666
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Dem Vöjel kann ich lang ebbs vormache ! Ah, do lejt jo e Leiter ! Jetzt bekumm ich denne Babbelfritz doch. 
+",20,3,0.0,0.15
+comedy (farce),E Gauner,M,conman,lower_class,"GAUNER
+(kummt vorsichtig g’schliche unn nemmt de Huet unn de Stock vum Brummer):
+M’r saat jo, ’s Geld lejt uff d’r Strooss ! Zwanzig Fränkle bekumm ich allewyll noch fur die paar Brocke ! 
+",34,6,0.0,0.17647058823529413
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Lorele, ze kumm doch — baddabing ! d’Leiter isch ze kurz ! 
+",12,2,0.0,0.16666666666666666
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(sieht d’Leiter):
+Was Dejfels, ich glabb gar, do rysst einer vun unsere Verruckte üss ! 
+",19,2,0.0,0.10526315789473684
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Pscht ! Stille! Ich habb e Vöjel !
+",7,1,0.0,0.14285714285714285
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+(meh fur sich unn lacht)
+Denne hann d’anderen-au ! 
+",13,1,0.0,0.07692307692307693
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+’s isch sicher einer üss Indie ! Awer ze briehle Sie doch nitt so! Sie verscheiche mir’ne jo schunscht !
+",19,3,0.0,0.15789473684210525
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Pscht! Wenn’r furtfliejt, ze-n-isch’s Ihri Schuld!
+",10,1,0.0,0.1
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Kenne Sie guet klettere ?
+",5,1,0.0,0.2
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Diss isch nitt neetig! Awer e längeri Leiter miehn mir hann ! Wenn ’r in dere Zytt numme nitt furtfliejt !
+",20,1,0.0,0.05
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(lacht):
+Der sitzt fescht fur syn Läbdesdaa! Wie heisse Sie eijetlich ?
+",15,3,0.0,0.2
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Worum? Hann Sie sich viellycht mir schun vorg’stellt ?
+",9,1,0.0,0.1111111111111111
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Numme nitt uffreje, liewer Frind ! Üss wellere Abteilung sinn Sie, odder hann Sie Separat-Pension?
+",16,2,0.0,0.125
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Was? Üssgebroche ? Wer ? Ich ? Fur was halte Sie mich denn ?
+",11,1,0.281,0.09090909090909091
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Halte? Diss sieht m’r au so! Also los unn kein langi Plän gemacht ! 
+",15,5,0.05620000000000001,0.3333333333333333
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(iwerdem verzwyfelt, iwerlütt):
+Hilf! M’r will e Verbreche-n-an mir begehn ! Hilf ! 
+",16,1,0.2909478065133729,0.0625
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(in Huet unn Mantel ; uffgerejt vun rächts):
+Dü liewer Gott, myn Papegei, myn lieb’s Lorele, isch mir furtg’flöje ! 
+",22,4,0.0,0.18181818181818182
+comedy (farce),D’Stimm vum e Papegei,U,,,"PAPEGEI:
+’s Lorele will liewer Zucker !
+",6,1,0.0,0.16666666666666666
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Herrjeh, diss isch jo d’Stimm vun mym Papegei ! Wo isch’r denn ? Ah, do owe-n-uff’m Dach ! 
+",20,1,0.0,0.05
+comedy (farce),D’Stimm vum e Papegei,U,,,"PAPEGEI
+(lacht):
+Was b’sinne-n-Ihr Ejch, Ihr Männer ?
+",11,2,0.0,0.18181818181818182
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Er will nitt ! Ich muess partout uff’s Dach vun dem Hüss ! No kann ich myn Lorele sälwer fange
+",20,3,0.0,0.15
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(als wietiger):
+Was fallt Ihnne yn, mich do in e Narrehüss ynzesperre ! Ich bin doch nitt verruckt !
+",20,2,0.0,0.1
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Ich bin e Bekannter vum Dokter Nervich !
+",8,2,0.0,0.25
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(nemmt e Stuehl unn geht mit im 1. Wärter ze Lyeb):
+Wenn Sie meine, ass ich verruckt bin, ze sinn Sie verruckt !
+",25,3,0.0,0.12
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Jetzt wurd’r rabiat! Na, e gueti Kaltwasserdüsch macht’ne schun zahm ! 
+",12,1,0.0,0.08333333333333333
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(iwerdem):
+Lonn mich doch gehn ! Hilf ! ’s isch jo numme d’r Vöjel dran schuld !
+",17,2,0.1659044495983929,0.11764705882352941
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Grad waje dem ! 
+",5,1,0.0,0.2
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Was isch denn do fur e Krach ?
+",8,1,0.0,0.125
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Ich habb grad e Verruckter yng’fange, wo hett welle üssrysse, Herr Dokter ! Ich habb’ne-n-einschtwylle dort nyng’sperrt !
+",20,5,0.0376,0.25
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Ich weiss’s ! Grad isch mir g’saat worre, ass in d’r Abteilung II vum Professer Zawlich einer fählt ! D’r Herr Professer kummt awer erscht denne-n-Oowe widder — na, m’r b’halte no halt denne Patient so lang by uns!
+",41,7,0.067,0.17073170731707318
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Wurd gemacht, Monsieur Nervich !
+",6,1,0.0,0.16666666666666666
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Ja, Herr Dokter ! 
+",5,3,0.06266666666666666,0.6
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+`s wundert mich doch, ass ich als noch kein Antwort habb vum Octavie syn Babbe ! Ich glabb awer, ass diss e guet’s Zeiche-n-isch, denn was lang währt, wurd endlich guet! Ah, schier hätt ich’s vergesse, ass’s Octavie mir jo denne Middaa e Visit will mache! 
+",51,6,0.020833333333333332,0.11764705882352941
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+Was beliebt, Herr Dokter ?
+",6,3,0.06266666666666666,0.5
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Jean, denne Middaa kummt myni fiancée ! Wenn ich nitt grad do sott sinn, ze exküsiere Sie mich by’re, unn wenn s’e-n-ebbs will, ze hann Sie’re ze folje wie mir !
+",33,1,0.0,0.030303030303030304
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+Wurd gemacht, Herr Dokter! 
+",6,3,0.06266666666666666,0.5
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Unn jetzt will ich in myne Kranke noch e Visit mache. 
+",12,1,0.642609353840704,0.08333333333333333
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+D’r Herr Dokter hett g’schellt !
+",7,2,0.094,0.2857142857142857
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Horiche Sie, Léon : ’s kummt glych e Mamsell, wo mit mir redde will; ich habb awer kein Luscht dezue. Bref, wenn s’e kummt, ze gänn Sie’re so richtig ze verstehn, ass s’e mir g’stohle kann wäre, so ass s’e’s Widderkumme vergesst.
+",46,3,0.0,0.06521739130434782
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Herr Dokter, verlonn Sie sich ganz uff mich ! 
+",10,5,0.10465073066080186,0.5
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+So, unn jetzt g’schwind an d’Arweit! 
+",8,1,0.0,0.125
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Diss isch mir noch e scheeni Uffsicht fur e Narre-Hüss ! Kein Seel haw ich g’sähn, unn ich muess doch myn lieb’s Lorele widder hann! 
+",26,3,0.0,0.11538461538461539
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+(fur sich)
+Wie isch denn die do ryngewitscht? Diss isch ohne Zwyefel im Herr Dokter syni fiancée ! Heiliché, muess die e Hüffe Geld hann, ass sich d’r Herr Dokter in diss alt Kaliwer vergafft hett !
+",39,5,0.0752,0.1282051282051282
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(drähjt sich erum):
+Ah, do isch jo endlich ebber.
+",12,1,0.125,0.08333333333333333
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+Mademoiselle, Sie exküsiere, d’r Herr Dokter macht grad Visit !
+",11,4,0.047,0.36363636363636365
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Diss isch mir egal! Ich will uff’s Dach steje !
+",11,1,0.0,0.09090909090909091
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER
+(fur sich):
+Im Herr Dokter ? 
+",9,2,0.094,0.2222222222222222
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+0, ’s isch e scheener Vöjel!
+",7,1,0.0,0.14285714285714285
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+(fur sich)
+Sicher hett s’e de Herr Dokter mit’re andere verwitscht! Na, ich kann’s ihm nitt in iwel nemme !
+",25,4,0.1918261788776517,0.16
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Unn er hett allewyl so scheen babble kenne!
+",9,2,0.0,0.2222222222222222
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER
+(fur sich):
+E Wunder, wenn s’e viel Glüwes hett !
+",14,2,0.0,0.14285714285714285
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Er isch mir als uff d’Achsel g’huckt...
+",9,1,0.0,0.1111111111111111
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER
+(fur sich):
+Als besser, als wenn s’e d’r Herr Dokter uff’s Müll hätt g’schmutzt !
+",20,4,0.047,0.2
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Ich habb’m awer ze viel Frejheite gelonn, unn so isch’s kumme, ass’r mir durich d’Lumpe isch !
+",20,2,0.0,0.1
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER
+(fur sich):
+D’r Herr Dokter hett gewisst, was’r macht !
+",13,3,0.06266666666666666,0.23076923076923078
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Awer ich bekumm’ne widder! Ich weiss, wo’r isch! Hann Sie alli Schlissel vum Hüss ?
+",15,1,0.0,0.06666666666666667
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Na, ze kumme Sie mit mir!
+",7,1,0.0,0.14285714285714285
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER
+(fur sich):
+In Gott’s Namme denn ! Ich muess’re folje — d’r Herr Dokter hett’s jo g’saat ! 
+",22,3,0.06266666666666666,0.13636363636363635
+comedy (farce),Narr,M,,,"NARR
+(in Anstaltsmantel, macht vorsichtig d’Dier uff, kummt no eryng’stirmt unn hüpst im Zimmer unn uff de Stiehl unn uff’m Schryebdisch erum):
+Tahitata ! Ich bin frej — ich bin’ne üssgerisse! Ich bin nitt verruckt, awer alli andere sinn gebiekt — sogar d’r Herr Professer ! — Tahitata ! Do hänge Kleider — die zej ich an unn no kann ich unscheniert vun do verschwinde ! 
+",66,12,0.06516666666666666,0.18181818181818182
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(fur sich):
+Do isch schynnt’s Visit kumme !
+",11,1,0.0,0.09090909090909091
+comedy (farce),Narr,M,,,"NARR:
+(steht uff)
+Myn Namme-n-isch Brummer !
+",10,2,0.297,0.2
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Dokter Nervich ! Fraid mich, Sie kenne ze lehre ! 
+",9,3,0.0,0.3333333333333333
+comedy (farce),Narr,M,,,"NARR:
+Sie hann mir g’schriwe ... 
+",5,1,0.594,0.2
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Gewiss, Monsieur Brummer, unn ich hoff, ass Sie mir kenn Absaa bringe !
+",13,1,0.0,0.07692307692307693
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Wenn ich numme schun drüsse wär! 
+",11,1,0.594,0.09090909090909091
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Awer ganz unn gar nitt.
+",6,1,0.0,0.16666666666666666
+comedy (farce),Narr,M,,,"NARR
+(vergesst sich):
+Tahitata !
+",6,1,0.594,0.16666666666666666
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH.:
+Wie meine Sie !
+",4,1,0.0,0.25
+comedy (farce),Narr,M,,,"NARR:
+Ich? Ich habb nix g’saat! — Also guet, Sie solle myni Dochter hann !
+",14,3,0.19799999999999998,0.21428571428571427
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(umarmt’ne):
+Merci, liewer Schwejerbabbe !
+",7,1,0.0,0.14285714285714285
+comedy (farce),Narr,M,,,"NARR:
+Schun guet! D’r Kinni vun Siam kann sich diss leischte !
+",11,3,0.19799999999999998,0.2727272727272727
+comedy (farce),Narr,M,,,"NARR:
+Ich? O, gar nix!
+",5,1,0.594,0.2
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(mit Brief):
+Do isch d’Poscht, Herr Dokter!
+",12,2,0.094,0.16666666666666666
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+’s isch guet ! Ich mecht awer nimmi g’steert sinn — d’r Monsieur Brummer, myn zuekinftiger Schwejerbabbe-n-isch by mir! 
+",21,1,0.0,0.047619047619047616
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+’s isch rächt, Herr Dokter ! 
+",7,3,0.06266666666666666,0.42857142857142855
+comedy (farce),Narr,M,,,"NARR:
+Unn wie wär’s jetzt, myn Liewer ? Hann Sie nix fur mit anzestosse an so’me Fraidedaa, wo ich die Säj los bin ?
+",24,3,0.19799999999999998,0.125
+comedy (farce),Narr,M,,,"NARR
+(vergelschtert fur sich):
+Schier hätt ich mich verschnappt ! Ich habb d’G’fangeschaft gemeint! 
+",16,2,0.297,0.125
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Ah so! Ze will ich g’schwind e guet’s Fläschel b’stelle gehn ! 
+",13,1,0.0,0.07692307692307693
+comedy (farce),Narr,M,,,"NARR:
+Tahitata! Denne Narr bin ich los! Jetzt wurd’s Zytt, ass sich d’r Kinni vun Siam üss’m Staub macht! 
+",21,4,0.297,0.19047619047619047
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Vun mym Papegei isch kein Spür ze sähn ! Awer finde muess ich’ne !
+",13,1,0.562,0.07692307692307693
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(gepressiert unn ohne-n-uff d’Euphrosine ze-n-achte):
+Pardon, Monsieur Brummer, wisse Sie, wo d’r Herr Dokter isch ? Ich brüch e Rezept vun’m.
+",30,4,0.047,0.13333333333333333
+comedy (farce),Narr,M,,,"NARR:
+Er isch grad dort nüss! 
+",6,2,0.297,0.3333333333333333
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(fur sich):
+Haw ich rächt g’heert ? 
+",9,1,0.0,0.1111111111111111
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Was will denn diss Muschter vun mir ? 
+",12,1,0.594,0.08333333333333333
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Wie mich diss fraid ! Ich bin nämlich d’ Mamsell Euphrosine Bendélé ! Mir hann uns doch denne Oowe welle perseenlich kenne lehre, fur iwer unseri Hyroot ze redde !
+",28,2,0.0,0.07142857142857142
+comedy (farce),Narr,M,,,"NARR:
+(fur sich)
+Tahitata! So verruckt bin ich jetzt doch nitt ! 
+",13,2,0.297,0.15384615384615385
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Ich bin au ganz verruckt üss lütter Lieb ! Ich kann’s kümm verwarte !
+",14,4,0.13875,0.2857142857142857
+comedy (farce),Narr,M,,,"NARR:
+’s isch jo nimm lang bis denne-n-Oowe !
+",10,2,0.297,0.2
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Ze will ich mich so lang noch beherrsche ! Zuedem haw ich noch Arweit in dem Hüss. Also, au revoir, myn Liewer !
+",22,4,0.0,0.18181818181818182
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Nein, d’r Kinni vun Siam geht nitt in d’Sklaverej !
+",15,2,0.7030000000000001,0.13333333333333333
+comedy (farce),Narr,M,,,"NARR:
+Tahitata ! Ich bin s’e los! Unn ich geh jetzt au los! 
+",13,3,0.19799999999999998,0.23076923076923078
+comedy (farce),Narr,M,,,"NARR:
+(fur sich)
+E Heilich, ich bin verlore !
+",10,3,0.3463333333333333,0.3
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Herr Dokter, ich bin d’r nej Wärter !
+",9,2,0.094,0.2222222222222222
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Tahitata! D’r Thron vun Siam isch gerett ! 
+",12,1,0.594,0.08333333333333333
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Diss will ich meine, Herr Dokter !
+",8,3,0.06266666666666666,0.375
+comedy (farce),Narr,M,,,"NARR:
+Lonn Sie sich uff nix yn, was’r au saat !
+",10,4,0.23145222479919644,0.4
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+So, liewer Schwejerbabbe, d’r Wyn kummt glych!
+",8,1,0.0,0.125
+comedy (farce),Narr,M,,,"NARR
+(zuem Wärter):
+Diss isch’r !
+",7,1,0.594,0.14285714285714285
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(zuem Wärter):
+Wer sinn Sie? Ich habb Sie noch nitt g’sähn, zydder ass ich do hinne Dokter bin !
+",21,1,0.0,0.047619047619047616
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(zuem Narr):
+Denne soll’s nitt hann! 
+",11,1,0.594,0.09090909090909091
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Was soll diss heisse ? Ich glabb, Sie sinn verruckt !
+",10,2,0.0,0.2
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+E Verruckter luejt alli G’scheite fur verruckt an! — Allez-hopp, Männel, als do nyn g’spaziert 
+",17,4,0.0,0.23529411764705882
+comedy (farce),Narr,M,,,"NARR
+(zuem Nervich):
+’s isch guet fur Ihri G’sundheit !
+",11,3,0.19799999999999998,0.2727272727272727
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Ich habb jo g’saat, ass’r pathologisch isch ! Ihr sinn alli zwei meschugge !
+",13,1,0.594,0.07692307692307693
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(zuem Narr):
+Ich will’s kurz mache, Herr Dokter! 
+",13,3,0.26066666666666666,0.23076923076923078
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Was, Herr Dokter ! Ich bin dohinne d’r Dokter !
+",9,3,0.06266666666666666,0.3333333333333333
+comedy (farce),Narr,M,,,"NARR
+(hälft au):
+Tahitata ! Diss kenne Sie de Gummiwänd do hinne verzehle !
+",14,1,0.594,0.07142857142857142
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Jesses, im Octavie syn Babbe-n-isch wohrhaftig verruckt worre ! — Hilf! E Revolt im Narrehüss !
+",17,6,0.0,0.35294117647058826
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(gitt im Nervich e Stoss, so ass’r in d’Cabine nynfliejt, schlaat d’Dier zue unn schliesst ab):
+So, der wär uffg’hebbt !
+",26,1,0.375,0.038461538461538464
+comedy (farce),Narr,M,,,"NARR:
+(fur sich)
+Uun jetzt nix als wie ab ! 
+",11,1,0.594,0.09090909090909091
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Ich soll im Herr Dokter doch noch denne Patient vorfiehre, wo üss d’r Abteilung II üssgerisse-n-isch !
+",20,2,0.094,0.1
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Tahitata! Diss wär jo no ich! Denne muess ich kenne lehre ! 
+",16,2,0.297,0.125
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(wietig):
+Endlich! Ich bin nass bis unter d’Hütt ! Sinn Sie d’r Dokter Nervich ?
+",17,4,0.14961539918275663,0.23529411764705882
+comedy (farce),Narr,M,,,"NARR:
+Allerdings, Monsieur. ...
+",3,1,0.594,0.3333333333333333
+comedy (farce),Narr,M,,,"NARR
+(für sich):
+Jesses, der Schwejeres vum Dokter! 
+",10,3,0.19799999999999998,0.3
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Sie kumme mir grad g’schliche! Ich hätt’ne jo myni Dochter sowieso nitt gänn ; nooch dere Behandlung awer bekumme Sie s’e erscht erächt nitt! 
+",25,5,0.0,0.2
+comedy (farce),Narr,M,,,"NARR:
+Ich gibb Ihnne myn Wort, ass ich nix defur kann !
+",11,2,0.297,0.18181818181818182
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Do isch e Gaunerej im Spiel! Wyll Sie sich hann denke kenne, ass ich geje d’Hyroot bin, hann Sie mich einfach dohinne welle verschwinde mache! Unn myn Geld hätte Sie no au g’hett!
+",35,5,0.0,0.14285714285714285
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Der isch gar nitt so verruckt ! So isch’s schun gemacht worre. 
+",17,3,0.19799999999999998,0.17647058823529413
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Im Läwe nie!
+",4,1,0.0,0.25
+comedy (farce),Narr,M,,,"NARR:
+No kumme Sie nimmi üss dem Hüss erüss. 
+",9,3,0.19799999999999998,0.3333333333333333
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+No geh ich uff d’ Polizej unn ....
+",8,1,0.0,0.125
+comedy (farce),Narr,M,,,"NARR:
+Awer ohne myne Wille nitt ! — Wärter, fiehre Sie’ne widder ab ! 
+",12,2,0.297,0.16666666666666666
+comedy (farce),Narr,M,,,"NARR:
+Na, wie steht’s ?
+",5,1,0.594,0.2
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Was blyet mir iwrig! Nemme Sie myntwäje myni Dochter !
+",10,1,0.0,0.1
+comedy (farce),Narr,M,,,"NARR:
+No gänn Sie mir’s grad do schriftlich !
+",9,3,0.19799999999999998,0.3333333333333333
+comedy (farce),Narr,M,,,"NARR
+(leijt’s uff de Schryebdisch):
+Merci, cher beau-père ! D’r Wärter b’sorjt Ihnne Ihri Kleider ! 
+",17,2,0.297,0.11764705882352941
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(zuem Brummer):
+Ich will sähn, ass ich Ihri Kleider find ! 
+",14,1,0.562,0.07142857142857142
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(gebroche):
+Isch denn so ebbs in unserer Zytt noch mejlich! Na, wenn ich üss dem Narrehüss, drüsse bin, ze will ich’s dem nowle Fitzer schun zeije !
+",30,2,0.0,0.06666666666666667
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(fur sich):
+’s isch doch guet, ass unsereiner uff so Fäll vorg’sähn isch unn ich de Schlissel by mir habb g’hett ! 
+",24,3,0.0,0.125
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+(vergelschtert fur sich)
+Grosser Gott, do brächt jo e Verruckter üss !
+",14,2,0.0,0.14285714285714285
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+(fur sich)
+D’Verruckte muess m’r zart behandle! 
+",11,3,0.21866666666666665,0.2727272727272727
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+(fur sich)
+Diss isch e ganz hoffnungsloser Fall! 
+",11,3,0.10218287376183753,0.2727272727272727
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER,:
+(fur sich)
+’s isch doch trürich, wemm’r so komplett verruckt isch ! 
+",14,3,0.13799999999999998,0.21428571428571427
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Ich verbitt mir diss ! Sie sinn verruckt unn nitt ich ! Ich loss’ne glych e Kaltwasserdüsch gänn ! 
+",17,2,0.0,0.11764705882352941
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Wer do de Verstand nitt verliert, hett keine meh ze verliere !
+",12,2,0.2225,0.16666666666666666
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Do hinne geht’s jo hytt zue wie im e Narrehüss!
+",12,1,0.0,0.08333333333333333
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(packt de Nervich, nemmt’m de Schlissel ab unn stosst’ne an d’Cabine):
+So, de Schlissel haw ich ! Diss isch jo e ganz G’fährlicher !
+",28,2,0.0,0.07142857142857142
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Ich saa’s Ejch jetzt im Ernscht: Ich bin d’r Dokter Nervich ! Der dort awer isch verruckt!
+",18,3,0.0,0.16666666666666666
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(hett’ne-n-in d’r Cabine unn macht zue):
+So Kräfte kann numme-n-e Verruckter hann ! 
+",20,3,0.0,0.15
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Hoffetlich losst ’r mich nitt lang ellein, denn do hinne wurd m’r noch g’schosse !
+",15,3,0.09899999999999999,0.2
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(zeijt uff de Brummer):
+Der isch jo nimmi yng’sperrt ? Ich habb doch gemeint, ich habb d’ Dier guet zuegemacht ! Als widder nyn mit’m! 
+",28,3,0.17049504499990895,0.10714285714285714
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER,
+(wycht zeruck):
+Ich bitt Sie, ich bin doch d’r Monsieur Brummer !
+",14,1,0.0,0.07142857142857142
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+(lacht)
+Denne kenn ich besser !
+",9,1,0.0,0.1111111111111111
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Ich bin doch d’r Schwejervadder vum Dokter Nervich !
+",9,1,0.0,0.1111111111111111
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(fur sich):
+Der Kaib hett in d’r Cabine alles mitang’heert, was vorig do hüsse gebabbelt isch worre. Als widder nyn mit’m! 
+",26,1,0.4009257649423394,0.038461538461538464
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(als letscht’s Wort):
+Diss isch widder e nejer Streich vun mym süfere Herr Dochtermann !
+",18,3,0.06266666666666666,0.16666666666666666
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Hoffnungsloser Verfolgungswahnsinn !
+",4,1,0.3065486212855126,0.25
+comedy (farce),Oktavie,F,,,"OKTAVIE:
+Ah, endlich losst sich emool ebber blicke! 
+",8,2,0.0625,0.25
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(fur sich):
+Halt, diss isch gewiss diss Bibbel, wo ich an d’Luft soll spediere ! 
+",19,2,0.449,0.10526315789473684
+comedy (farce),Oktavie,F,,,"OKTAVIE:
+Was soll diss heisse ? Ich bin doch syni fiancée !
+",10,1,0.0,0.1
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(lacht boshaft):
+Jo, die Fianciererej kennt m’r! Do hett d’r Herr Dokter ganz anderi Lytt an de Händ ! 
+",22,5,0.16918888668537332,0.22727272727272727
+comedy (farce),Oktavie,F,,,"OKTAVIE
+(hyllt schier):
+Was fallt Ihnne-n-yn, fur eso mit mir ze verfahre ?
+",16,1,0.0,0.0625
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Ei, im Uffdraa vum Herr Dokter !
+",8,2,0.094,0.25
+comedy (farce),Oktavie,F,,,"OKTAVIE
+(hyllt):
+Isch’s mejlich, ass d’r Paul eso gemein kann sinn! O, ich arm’s Maidel !
+",19,3,0.4453333333333333,0.15789473684210525
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Arm ? Diss isch’s jo grad! D’r Herr Dokter hett e rychi fiancée, wenn s’e zwar au üss’m Middelalter stammt! Er hett awer ganz rächt, denn Minz isch hytt Trumpf! Sie wisse also, wo Sie dran sinn! 
+",41,7,0.026857142857142857,0.17073170731707318
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(ohne’s Oktavie ze sähn):
+Iwerall haw ich jetzt g’suecht — ich kann’ne nierigs finde! Unn deby hängt doch myn ganz Härz an’m!
+",27,3,0.18733333333333335,0.1111111111111111
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(wie vorig):
+Er kann so lieb sinn!
+",10,1,0.0,0.1
+comedy (farce),Oktavie,F,,,"OKTAVIE
+(fur sich):
+Kein Zwyefel, diss isch mym beese Paul syni rych Partie !
+",15,1,0.5912214893934986,0.06666666666666667
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(wie vorig):
+E Stickele Zucker fresst’r fur syn Läwe gern!
+",13,2,0.0,0.15384615384615385
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(wie vorig):
+Kein Mensch weiss’ne so guet ze streichle als wie ich !
+",15,1,0.0,0.06666666666666667
+comedy (farce),Oktavie,F,,,"OKTAVIE
+(trätt wietig vor ; lütt):
+Doch! Ich ! 
+",9,2,0.23673079836551325,0.2222222222222222
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Sie? Wie kumme Sie iwerhaupt dezue, fur mir diss ze saawe ?
+",12,1,0.0,0.08333333333333333
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(uffgerejt):
+Do heert sich d’Weltg’schicht in acht Bänd uff! 
+",13,3,0.0,0.23076923076923078
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Er koscht awer myn Geld!
+",6,1,0.0,0.16666666666666666
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Nein, ich, Sie frechi Person ! Ich weiss’ne ze fange !
+",10,2,0.0,0.2
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Aha, diss Bibbel hett sich myni Predicht schynnt’s doch ze Härze genumme unn isch ab !
+",18,2,0.3085,0.1111111111111111
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Leon, wo isch denn d’r Monsieur Brummer ? Er isch doch grad noch do g’sinn !
+",16,1,0.0,0.0625
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Er wurd mit’m Herr Dokter furt sinn.
+",10,2,0.094,0.2
+comedy (farce),group,sex_unknown,job_unknown,social_class_unknown,"1. unn 2. WÄRTER:
+Was isch denn do los ! 
+",9,1,0.0,0.1111111111111111
+comedy (farce),Narr,M,,,"NARR
+(fur sich):
+Tahitata ! Revolütion in Siam !
+",9,2,0.297,0.2222222222222222
+comedy (farce),E Blejele,M,policeman,lower_class,"BLEJELE:
+Wenn ich mich nitt drumpier, ze muess Ejch der Monsieur durch de Räps gange sinn ! Er isch grad ewe ganz stichem durch’s Dor gewitscht !
+",26,2,0.0,0.07692307692307693
+comedy (farce),group,sex_unknown,job_unknown,social_class_unknown,"1. unn 3. WÄRTER
+(schlaawe d’Händ iwer’m Kopf z’samme; zuem. Blejele):
+Jesses, Schutzmann, do hann Ihr ebbs Scheen’s ang’stellt ! Diss isch jo . . .
+",28,3,0.0,0.10714285714285714
+comedy (farce),2. Wärter,M,custodian_(asylum),lower_class,"2. WÄRTER:
+... d’r Herr Dokter Nervich !
+",6,2,0.094,0.3333333333333333
+comedy (farce),E Blejele,M,policeman,lower_class,"BLEJELE
+(vergelschtert):
+Do bekumm ich widder e scheener Schnaps vun owe-n-erabb ! 
+",15,2,0.0,0.13333333333333333
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Ei, d’r Herr Dokter Nervich nadierlich ! Unn wer saasch dü, ass diss isch ?
+",15,2,0.094,0.13333333333333333
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Ei, nadierlich d’r Schwejervadder vum Herr Dokter!
+",9,2,0.094,0.2222222222222222
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Unn d’r Dokter Nervich au! 
+",7,1,0.0,0.14285714285714285
+comedy (farce),Narr,M,,,"NARR:
+Ei, d’r Schwejeres nadierlich vum Herr Dokter !
+",8,3,0.26066666666666666,0.375
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Bin ich denn uff’s Mool sälwer iwerg’schnappt! 
+",10,1,0.0,0.1
+comedy (farce),Narr,M,,,"NARR:
+Ei, d’r Dokter Nervich nadierlich !
+",6,2,0.297,0.3333333333333333
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(rennt erum):
+Jetzt steht mir d’r Verstand still! D’r Herr Dokter unn syner Schwejerbabbe kenne doch nitt in ein unn d’r nämlich Person stecke !
+",28,4,0.047,0.14285714285714285
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER:
+Am End isch der Mann do gar keiner vun beide !
+",12,1,0.0,0.08333333333333333
+comedy (farce),Narr,M,,,"NARR
+(zue beide wie vorig d’r 1. unn d’r 3. Wärter):
+Siehsch de’s !
+",16,1,0.594,0.0625
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(kratzt sich hinter de-n-Ohre):
+Mildebickel, haw ich am End e Bock g’schosse ? 
+",18,2,0.0,0.1111111111111111
+comedy (farce),3. Wärter,M,custodian_(asylum),lower_class,"3. WÄRTER
+(grad so):
+Mon Dieu, mir lauft’s yskalt iwer de Buckel! 
+",15,2,0.0,0.13333333333333333
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER
+(fur sich):
+D’r Herr Dokter !
+",9,2,0.094,0.2222222222222222
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(zuem Narr unn macht’m e Füscht):
+Sie impertinenter Mensch! Was fallt Ihnne yn, mich ynsperre ze lonn ! 
+",21,3,0.3086029663989286,0.14285714285714285
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(grad so zuem Narr):
+Sie Erbschlycher ! Was unterstehn Sie sich, mich in e Narrehüss ze stecke! 
+",19,3,0.19799999999999998,0.15789473684210525
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(wie vorig):
+Ihri Dochter kenne Sie b’halte ! Ich will kein Schwejervadder, wo e Klapps hett!
+",18,1,0.0,0.05555555555555555
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(wie vorig):
+Unn Ihnne soll ich myni Dochter gänn ? Nein, e Narr kummt mir nitt ins Hüss !
+",20,4,0.1485,0.2
+comedy (farce),Narr,M,,,"NARR
+(langsam):
+Tahitata ! Ze will ich Ejch ebb’s ander’s saawe: Wyll der 
+",16,1,0.594,0.0625
+comedy (farce),group,sex_unknown,job_unknown,social_class_unknown,"BRUMMER unn NERVICH
+(zeije-n-uff de Narr; glychzyttig):
+Ich hahb’s jo g’saat, ass’r verruckt isch !
+",19,3,0.19799999999999998,0.15789473684210525
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(uffgerejt):
+Nein, die jung Gans geht mir jetzt doch ze wytt! 
+",14,2,0.0,0.14285714285714285
+comedy (farce),Narr,M,,,"NARR
+(wycht zeruck, fur sich):
+Gott behietmich ! 
+",9,2,0.297,0.2222222222222222
+comedy (farce),1. Wärter,M,custodian_(asylum),lower_class,"1. WÄRTER:
+Der hett uns schynnt’s kein lätzi Farce g’spielt !
+",11,2,0.49618831826647025,0.18181818181818182
+comedy (farce),Narr,M,,,"NARR:
+Unn so e’n-Artist soll no e Muck im Hirn hann! Tahitata !
+",13,1,0.594,0.07692307692307693
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Mir steht d’r Verstand stille !
+",6,2,0.0,0.3333333333333333
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(uffgerejt):
+Ja, wer isch denn no eijetlich d’r Dokter Nervich ?
+",13,3,0.0,0.23076923076923078
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(grad so):
+Diss bin ich, Monsieur ! Wer isch no awer myner richtig Schwejerbabbe ?
+",16,2,0.0,0.125
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Ich heiss Brummer ! Awer myner Dochtermann sinn Sie waje dem noch lang nitt !
+",14,2,0.0,0.14285714285714285
+comedy (farce),Narr,M,,,"NARR
+(lacht lütt):
+Tahitata! Dort isch’s schriftlich ! 
+",10,3,0.19799999999999998,0.3
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER:
+Jesses, ich habb’s jo dem Narr schriftlich gänn !
+",10,3,0.19799999999999998,0.3
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(wo’s Schryewes geläse hett, zuem Brummer):
+Welle mir’s no nitt au deby lonn, liewer Herr Brummer ?
+",21,3,0.17326963306559526,0.14285714285714285
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(unentschlosse):
+Nein, mir isch zue arich mitg’spielt worre!
+",11,1,0.0,0.09090909090909091
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Monsieur Brummer, was Kinder unn Narre welle, isch d’Stimm vum Himmel! Also...
+",14,3,0.19799999999999998,0.21428571428571427
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH
+(umarmt de Brummer):
+Liewer Schwejerbabbe, ich bin numme-n-ins Oktavie verruckt, schunscht awer ganz normal!
+",19,3,0.0,0.15789473684210525
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+... Euphrosine Bendélé heiss ich !
+",5,1,0.0,0.2
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+Ja, unn ich bin do fur myne Goldschatz ze sueche, wo...
+",12,2,0.0,0.16666666666666666
+comedy (farce),Oktavie,F,,,"OKTAVIE
+(stirmt uff de Nervich los):
+Nein, der Goldschatz do isch myne! Gell, Paul, ’s isch wohr ?
+",19,3,0.0,0.15789473684210525
+comedy (farce),Nervich Paul,M,doctor,upper_class,"NERVICH:
+Gewiss, lieb’s Kind ! Dyn Babbe isch d’accord mit mir !
+",12,3,0.0,0.25
+comedy (farce),Oktavie,F,,,"OKTAVIE:
+Gott sej Dank ! 
+",4,2,0.0,0.5
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE:
+D’r Herr Dokter? Ich habb doch myne Papegej gemeint, wo mir furtg’flöje isch !
+",14,2,0.094,0.14285714285714285
+comedy (farce),Oktavie,F,,,"OKTAVIE:
+No isch jo alles guet ! 
+",6,1,0.0,0.16666666666666666
+comedy (farce),Brummer,M,rentier,upper_class,"BRUMMER
+(zuer Euphrosine):
+Was, der Unglieksvöjel isch Ihnne? In dem Fall will ich Ihnne gern bis an myne Dood sueche hälfe — 
+",24,4,0.0,0.16666666666666666
+comedy (farce),Euphrosine Bendélé,F,,,"EUPHROSINE
+(fallt’m um de Hals):
+Nein, jetzt loss ich’ne flieje, wo’r anne will, denn d’r scheenscht Papegei isch nix geje-n-e lieb’s Babbele !
+",28,3,0.1106029663989286,0.10714285714285714

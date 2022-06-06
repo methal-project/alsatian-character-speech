@@ -1,0 +1,994 @@
+drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
+comedy,Lissel,F,,,"Lissel:
+voilà, loon 's Uch gschmecke, Andrees 
+            
+",7,2,0.0,0.2857142857142857
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(wehrt leicht ab)
+— 's räicht, Lissel, 's räicht! — Wäisch, so genäuej nimmt's Uenseräiner doch juscht nit grood am
+            e Feschtdäuej! — 
+            
+",27,3,0.0,0.1111111111111111
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Vive la France! — Lissel, ich könnt grood hyle vor lütter Fräid!
+",13,3,0.18500000000000003,0.23076923076923078
+comedy,Lissel,F,,,"Lissel:
+Ich kann's guet v'rstehn, Andrees.
+",7,2,0.0,0.2857142857142857
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Nee, Mäide, dies v'rstehsch Dü juschtemand lang nit so wie Uenseräiner. Do mueß m'r anno 71 d'rbie
+            sin gewahn un mueß gsahne höön, wie d'Franzose ze Strooßburri nüsgezöije sin — — — 
+            
+",35,3,0.0,0.08571428571428572
+comedy,Lissel,F,,,"Lissel:
+Kalmiere-n-Uch, Andrees. D'Franzose sin jo jetz wied'r do.
+",12,1,0.0,0.08333333333333333
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Gott sej Dank, Lissel, Gott sej Dank! 
+            
+",8,5,0.0,0.625
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(blitzt wieder rasch in die Höhe und salutiert stramm)
+Guete-n-Owe Harr Brandmäischter!
+",17,2,0.0,0.11764705882352941
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(jovial)
+— Guete-n-Owe Andrees. — Au schun do?
+",13,3,0.0,0.23076923076923078
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert)
+— Ja, Harr Brandmäischter.
+",8,2,0.0,0.25
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Raacht so, Andrees, raacht so. — Setze-n-Uch numme. — Aha, un öijeri nöj Dienschtkapp höön'r äu
+            schun uff?
+",21,4,0.0,0.19047619047619047
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert)
+— M'r sin jo jetz franzeesch, Harr Brandmäischter.
+",12,1,0.0,0.08333333333333333
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(lächelnd.)
+— Raacht so, Andrees, raacht so.
+",10,4,0.0,0.4
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(hinter dem Bierausschank.)
+— Uff dane Momant het'r schun lang gewoort. Galte, Andrees?
+",16,4,0.0,0.25
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Jo wajer.
+",3,1,0.0,0.3333333333333333
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Aw'r mit ere Engelsgeduld, galte, Andrees?
+",7,2,0.0,0.2857142857142857
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— In de letschte Johre nimmi, Harr Brandmäischter, denn do hawi d'Stung nimmi v'rwoorte könne,
+            Harr Brandmäischter — — — —
+",26,1,0.0,0.038461538461538464
+comedy,Lissel,F,,,"Lissel:
+(drückt Andrees auf die Bank nieder.)
+— Bliewe doch emol sitze, Andrees, m'r sin jo jetz franzeesch!
+",20,3,0.015666666666666666,0.15
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Zall mäin ich doch äu. Dar prejßisch Mode mueß emol v'rschwinde.
+",12,2,0.0,0.16666666666666666
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Raacht so! — M'r het dies prejßische Kasarne-Trarifari ingfiehre muehn un het halt no so
+            gezwungener Wies mitgemaacht, aw'r jetz heert's wied'r uff! — Lissel, schenk im Andrees noch e
+            Glaasel ing.
+",34,5,0.05620000000000001,0.14705882352941177
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(hinter dem Bierausschank ; lachend.)
+— Aw'r Andrees!
+",10,2,0.0,0.2
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Ich maach jo e franzeescher Salü! — Het m'r nit lang genuej druff woorte muehn?! — Siewenevierzig
+            Johr, ihr Manner, siewenevierzig Johr!
+",23,4,0.0,0.17391304347826086
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Na, no loon'm die Plasier.
+",7,2,0.0,0.2857142857142857
+comedy,Lissel,F,,,"Lissel:
+Trinke doch jetz emol laar, Andrees.
+",7,2,0.2225,0.2857142857142857
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— oui, mademoiselle!
+",7,1,0.0,0.14285714285714285
+comedy,Lissel,F,,,"Lissel:
+Loon m'r die Däubhäite ewack, un trinke.
+",8,1,0.0,0.125
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Däubhäite?! — Do v'rstehn ihr Wybslytt halt nix devun.
+",10,2,0.1405,0.2
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Jaaa, wisse-n-'r, inger ünsere Bumbié sin e poor dringer — — —
+",15,2,0.0,0.13333333333333333
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Un wann se-n-e Appetit höön wie d'Drescher — — — — sie asse üns nit zem Löönd nüs.
+",22,1,0.0,0.045454545454545456
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Sankt-Barwere-Äier! — Üs lüter Plasier, daß d'Franzose do sin! — Gsündhäit! — 
+            
+",14,4,0.0,0.2857142857142857
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+'s war m'r aw'r äu nit erraacht, wann's an ebs fahle daat. — Un goor hyt an mim Ebredäuej. —
+            Sainte-Barbe könne m'r jo jetz wied'r alle Johr fiere, gottsejdank, aw'r — — — e finfezwanzigjahrigs
+            Dienschtjübiläum, dies kummt numme äinmol im Lawe.
+",45,2,0.0,0.044444444444444446
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ho zall!
+",3,1,0.0,0.3333333333333333
+comedy,Lissel,F,,,"Lissel:
+Mir zähle noch uff e fuffzigjahrigs.
+",7,2,0.0,0.2857142857142857
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— M'r kann's nit wisse, Harr Brandmäischter.
+",12,1,0.0,0.08333333333333333
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(etwas geschmeichelt.)
+— Wann d'r Kopf äu wott, so lang halte 's aw'r d'Füeß nit üs. — Un züdam, d'Junge üssem Dörfel
+            wäre äu älter —
+",31,4,0.07025,0.12903225806451613
+comedy,Lissel,F,,,"Lissel:
+Un welle äu emol ebs wäre in d'r Gemäin.
+",10,1,0.719,0.1
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+M'r welle's aw'r nit hoffe, daß Uch d'Junge iewwer de Kopf nüs woose! — Un züdam: Brandmäischter
+            kann doch nit grood Jeder spiele.
+",26,4,0.0,0.15384615384615385
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Un wann'r noch so guet franzeesch kann.
+",8,1,0.0,0.125
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+As isch nit eso äinfach, ihr liewi Lytt! — Jaja.
+",11,3,0.0,0.2727272727272727
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Naja, so lang wie's noch geht, v'rsahn m'r ünsere Dienscht jo wyttersch. Wann's emol nimmi geht,
+            d'rnoo heere m'r vunaase uff. — Lissel schenk im Andrees noch e Glaasel ing.
+",34,3,0.0,0.08823529411764706
+comedy,Lissel,F,,,"Lissel:
+Trinke laar, Andrees.
+",4,2,0.2225,0.5
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(schmunzelnd.)
+— Noch emol? — 's isch jo schun lang laar.
+",14,3,0.14833333333333334,0.21428571428571427
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+""Ebs"" schun, ja, aw'r nimmi viel, bin ken junger Hottel meh, dies mueß m'r bedenke.
+",16,2,0.0,0.125
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— Exküse, Harr Brandmäischter, ich hab oochtezwanzig Johr meh uffem Buckel aß wie Ihr, aw'r
+            wajezam, wann's ans trinke geht, d'rnoo stell ich miene Mann so stolz wie d'r ältscht Bumbié, un
+            fröij im Däifel ebs nooch'm Alter! — Luschti laawe un saali starwe! — Gesündhäit! — 
+            
+",54,12,0.05245238590680454,0.2222222222222222
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Schorsch, Daniel, Lissel:
+Gsündhäit Andrees!
+",5,2,0.0,0.4
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(schaut auf seine Uhr.)
+— Jetz mueß ich aw'r maache, daß ich wied'r ze mim Offizierchorps zeruck kumm, sunsch gitt's noch
+            Stampeneje!
+",26,2,0.0,0.07692307692307693
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Wieviel fremdi Offizier sin dann kumme?
+",7,2,0.0,0.2857142857142857
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(stolz.)
+— Im Göönze: zwäijedrißig.!
+",8,1,0.0,0.125
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— Sackerwalt!
+",6,1,0.0,0.16666666666666666
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(lachend.)
+— Äij jo, aw'r — — bie dane wie jischt 'num läufe zich ich nit hott erum! — V'rstehn'r?!
+",23,1,0.0,0.043478260869565216
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert.)
+— Respakt d'rvor! — Sackerwalt! — Gsündhäit! 
+            
+",12,3,0.0,0.25
+comedy,Lissel,F,,,"Lissel:
+Trinke-n-'r noch e Glaasel, Andrees?
+",8,1,0.0,0.125
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Numme nit ze blitzi, sunsch wur ich hitzi! — Hähähä!
+",11,1,0.0,0.09090909090909091
+comedy,Lissel,F,,,"Lissel:
+Jaja, d'v Andrees v'rträät's. 
+            
+",7,1,0.0,0.14285714285714285
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Was trinksch denn fer e Tröpfel, Andrees?
+",8,2,0.0,0.25
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+""Langsamer Salbschtmord.""
+",3,2,0.0,0.6666666666666666
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Aw'r Andrees, dies v'rträäsch Dü jo goor nit!
+",9,1,0.0,0.1111111111111111
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(schmunzelnd.)
+— Ich wäiß's, Daniel, ich wäiß's. — Aw'r, uff ünser Fescht anne — — — Gsündhäit, Harr
+            Brandmäischter! — 
+            
+",25,4,0.0,0.16
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Wann's Uch numme gschmeckt, Andrees.
+",7,1,0.0,0.14285714285714285
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(wischt sich den Schnurrbart ab.)
+— Hähähähähä!
+",10,1,0.0,0.1
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Dü hattsch aw'r Trawere trinke sotte, Andrees. — Jine bisch gewohnt vun Kingsbäine oon, aw'r dene
+            do v'rträuejsch doch nit. —
+",22,1,0.0,0.045454545454545456
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Ho zall!
+",3,2,0.0,0.6666666666666666
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ich wäiß's! — Maach m'r numme ken Sätz!
+",10,1,0.156,0.1
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(salutiert etwas schwankend.)
+— Göönz mini Mäinung, Harr Brandmäischter!
+",12,2,0.0,0.16666666666666666
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(klopft ihm auf die Schulter.)
+— Andrees, mir bliewe biem Kirschewasser.
+",14,1,0.0,0.07142857142857142
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(wie oben.)
+— Un wann d'halb Gurjel druff geht, Harr Brandmäischter.
+",15,1,0.0,0.06666666666666667
+comedy,Lissel,F,,,"Lissel:
+(lachend.)
+— Dies kann jo guet wäre.
+",10,2,0.0,0.2
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(lachend.)
+— Jojo!
+",6,1,0.0,0.16666666666666666
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Laache nit. — Lissel, schenk ing!
+",7,2,0.0,0.2857142857142857
+comedy,Lissel,F,,,"Lissel:
+Trinke doch zerscht laar!
+",5,1,0.445,0.2
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Ah 's isch noch ebs drinne? — Öha! — Hou-rupp! 
+            
+",11,1,0.0,0.09090909090909091
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(lachend.)
+— Ar het e gueter Zugg, d'r Andrees.
+",12,3,0.0,0.25
+comedy,Lissel,F,,,"Lissel:
+(lachend.)
+— Dies sell mir nix sin!
+",10,1,0.0,0.1
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Setze-n-Uch aw'r jetz nahder geje d'r Dhüer zü, Andrees.
+",12,2,0.0,0.16666666666666666
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Waje was dies?
+",4,1,0.0,0.25
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(lallend)
+— Ah zallewaj? — 's fellt m'r aw'r goor nit ing. — ""Hier bin ich, un hier bläibe ich!"" het d'r
+            Samegüschtel uff d'r Hohkinnisburri in's Adraßbuech geschriewe. — Un mir sin aw'r noch kürranter aß
+            wie Iir, gall Lissel?!
+",45,2,0.0,0.044444444444444446
+comedy,Lissel,F,,,"Lissel:
+(lachend.)
+— Hoffetli sin mir dies!
+",9,1,0.0,0.1111111111111111
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Zall will ich mäine!
+",5,2,0.0,0.4
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Wäisch, Daniel, daß ich's nit v'rgiß: m'r höön um e gueti Trinkkraft zügenumme. D'r Stawalters
+            Philipp het sich wied'r in d'Kumpenie uffnahme loon.
+",26,3,0.0,0.11538461538461539
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(schlägt mit der Faust auf den Tisch.)
+— Iewri bliewe derf nix! — Hupp! — Sackerwalt! — Hupp!
+",21,1,0.0,0.047619047619047616
+comedy,Lissel,F,,,"Lissel:
+(schaut zur Mitteltür hinaus.)
+— E stockfinschteri Noocht. — Un still isch's im Dörfel!
+",18,1,0.0,0.05555555555555555
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(lallend.)
+— — Hupp! — — Woorte numme — — — as — — as kummt schun noch ööndersch! — — Hupp! — — Gsündhäit! — 
+            
+",29,3,0.0,0.10344827586206896
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Sackerwalt! Jetz mueß ich aw'r gehn! — Also, Daniel, d'r Koschtepunkt spielt ken Roll. — 's isch
+            Sainte-Barbe! — Un züdam min Ehredäuej! — Un owwedrin sin m'r franzeesch! — Diesmol derfe e poor
+            Krüttstickle druffgehn! — Numme, daß käin Mann vun d'r Kumpenie ebs ze reklemiere het! — Nit emol d'r
+            Stawalters Philipp.
+",55,1,0.0,0.01818181818181818
+comedy,Lissel,F,,,"Lissel:
+(entsetzt.)
+— Oh, oh, oh! — D'r Andrees — —
+",13,2,0.3125,0.15384615384615385
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(die Tür suchend.)
+— Gsündhäit! — Hupp!
+",10,2,0.0,0.2
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Maach'm hurtli d'Dhüer uff, Lissel! — Hopp, räij Dich!
+",12,1,0.0,0.08333333333333333
+comedy,Lissel,F,,,"Lissel:
+(ängstlich)
+— Wann 'r m'r aw'r — — — ?!
+",12,1,0.0,0.08333333333333333
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Ich — — ich — — ich brüch niemes! — Hupp! Ich ich kann — 
+            
+",16,1,0.0,0.0625
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Hawich's nit gsäit wie's kumme wurd?! — Ich kenn mini Lytt! — Lissel, stell die Schnapsflasch
+            ewack, un schließ m'r 's Likörkeenschterle göönz zu. — 
+            
+",28,2,0.0,0.07142857142857142
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Bier derfe mini Bumbié trinke, was in se ning geht. — Numme de V'rstöönd sell sich kener
+            vrsüffe.
+",19,2,0.0,0.10526315789473684
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Mir isch's häuptsachli waje de fremde Harre Offizier, wie hynt Owe noch Alli do hare kumme! — Un
+            äu waje minere Fräu!
+",24,4,0.047,0.16666666666666666
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Aw'r salbschtv'rstandli! — Do daat sich d'Theres dhäime nit hewwe loon. — D'erscht franzeesch
+            Sainte-Barbe! Un min finfezwanzigjahrigs Dienschtjübiläum! — Ah ihr mäine?!
+",26,2,0.0,0.07692307692307693
+comedy,Lissel,F,,,"Lissel:
+Aw'r sicher! — Un wann äiner od'r d'r öönder nit kunterbiere will — — — — — 
+            
+",18,1,0.0,0.05555555555555555
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(lachend.)
+— Na, sowyt wurd's doch hoffetli nit kumme?
+",13,2,0.0,0.15384615384615385
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Sie ware jetz am Dessert sin. Uff dies hawich v'rzicht. Vum Gschlacks bin ich ken Friend. Großi
+            Mumpfle, die sin bie mir d'Häuptsach! — Also, wann d'r schwarz Kaffi getrunke isch, d'rnoo kumm ich
+            mit d'r Theres hare. — 
+            
+",42,4,0.0,0.09523809523809523
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ja un d'Harre Offizier?
+",6,3,0.06266666666666666,0.5
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Die kumme Alli mitnöönd hare, mit Müsik.
+",8,2,0.0,0.25
+comedy,Lissel,F,,,"Lissel:
+Ja, hingenooch wied'r, wann do d'r göönz Marikt v'rloffe-n-isch.
+",12,1,0.0,0.08333333333333333
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Oha! — Wann mir kumme, fangt d'r Marikt erscht raacht oon! Bedenke's doch: d'erscht franzeesch
+            Sainte-Barbe, un d'rzü min finfezwanzigjahrig Dienschtjübiläum!
+",25,2,0.0,0.08
+comedy,Theres,F,,,"Theres:
+Ja, wie räucht's dann do hinne?!
+",8,1,0.0,0.125
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(will sie tätscheln.)
+— Ja, Theres, ja.
+",10,2,0.0,0.2
+comedy,Theres,F,,,"Theres:
+(verweisend.)
+— Wyt vum Gschütz gitt alti Saldote! — Un iewerhäupt, los jetz! — Marsch! — en route!
+",21,2,0.0,0.09523809523809523
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Ja, Theres, ja. — Kum, min Harzkaferle! — 
+            
+",9,2,0.0,0.2222222222222222
+comedy,Lissel,F,,,"Lissel:
+(schaut zur Mitteltür hinaus.)
+— Aw'r finschter isch's drüsse, wie im e Sack.
+",17,1,0.414,0.058823529411764705
+comedy,Lissel,F,,,"Lissel:
+Jo, m'r sin warzi lang genuej im Dunkle gedappt iewwer de Kriej!
+",13,3,0.13799999999999998,0.23076923076923078
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Vor lütter Sainte-Barbe denke ünseri Harre Genieköpf im Gemäinerooth an nix Gschieds meh.
+",14,2,0.37150000000000005,0.14285714285714285
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Petrol? — 's Elektrisch mueß hare! — Mir könne's üns läischte! — 's Gald d'rzü höön uns
+            d'Stadtlytt gebroocht.
+",23,3,0.0,0.13043478260869565
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(atemlos.)
+— Driewwe uff d'r Strooß — — mittle im diefschte Drack drinne — — — lejt d'r Noochtwaachter!
+",22,4,0.1722191174832873,0.18181818181818182
+comedy,Lissel,F,,,"Lissel:
+Oh Schrecke!
+",3,1,0.0,0.3333333333333333
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Äij jo, zall schun. — Hilf aw'r z'erscht, daß m'r 'ne uff d'Bäin stelle könne.
+",17,3,0.0,0.17647058823529413
+comedy,Lissel,F,,,"Lissel:
+(lachend.)
+Ich hab m'r's inggebildt, daß's eso kumme wurd.
+",14,2,0.0,0.14285714285714285
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Allons, kumm jetzt ich mueß häim!
+",7,1,0.0,0.14285714285714285
+comedy,Theres,F,,,"Theres:
+(erscheint ebenfalls unter der Tür.)
+— Ja, wurd's jetz bööl, od'r welle m'r do iewer Noocht bliewe?
+",21,2,0.0,0.09523809523809523
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Kumm doch, Daniel.
+",4,1,0.0,0.25
+comedy,Lissel,F,,,"Lissel:
+Philipp! — Hesch ken gröeßeri Viehhäit könne maache?!
+",9,1,0.164,0.1111111111111111
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(grinsend.)
+— Wann d'Kutte nit im Waj warde gewahn, no hatt's besser geklatscht.
+",18,1,0.0,0.05555555555555555
+comedy,Lissel,F,,,"Lissel:
+Stiermaaßi genuej d'rzü wärdsch halt allewiel noch fer ebs eso ze maache.
+",14,2,0.1405,0.14285714285714285
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(grinsend.)
+— Ja, mäinsch viellicht, daß Ünseräiner durch de Kriej fiener wär worre?
+",16,3,0.0,0.1875
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Lissel, beläidig ünser Bumbié-Chorps nit!
+",6,1,0.422,0.16666666666666666
+comedy,Lissel,F,,,"Lissel:
+Wärdsch ewack gebliewe vun ene! — Mit Dir läje se sich warzi wenni Ehr ing!
+",16,1,0.0,0.0625
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(weist grinsend seine gespreitzte Hand vor.)
+— Lissel, wo die anne batscht, do woost ken Groos meh! — 
+            
+",21,1,0.4319127573496895,0.047619047619047616
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Was isch los?! — Gück D'r emol dies Discheck oon! — Ain Sträich mit d'r Füscht druff, un am Bodde
+            lejt's — — — grood wie ewackrasiert! — Seh ich?! — 
+            
+",33,1,0.0,0.030303030303030304
+comedy,Lissel,F,,,"Lissel:
+(erschreckt.)
+— Ingersteh Dich jo nit!
+",9,1,0.0,0.1111111111111111
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Ich woort uff d'Ööndere.
+",6,1,0.0,0.16666666666666666
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(roh auflachend.)
+— Drüsse lejt'r im Drack!
+",10,2,0.6458084890426208,0.2
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Nee ar lejt nit! — D'r Brandmäischter un d'Theres höön 'ne mit häim genumme. — Soviel Oonstand het
+            ünser Vorstand.
+",22,1,0.0,0.045454545454545456
+comedy,Lissel,F,,,"Lissel:
+(schadenfroh.)
+— Ja, wartsch aw'r noch e weng, bis Alli do sin.
+",15,2,0.2735,0.13333333333333333
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Ho, hol — Numme nit eso kürios, Lissel, un maach wied'r emol e öönders Gsicht. — 
+            
+",17,3,0.0,0.17647058823529413
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Hyt isch fer uns Bumbié e Fyrdi, un sogar e doppelter. — Do kenn ich ken Dienscht.
+",18,1,0.0,0.05555555555555555
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Fyrdi hin, Fyrdi har — Dienscht od'r ken Dienscht — Kummando isch Kummando un bliet Kummando. —
+            V'rstange?! — Dies isch emol mini Mainung!
+",25,2,0.0,0.08
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Äij jo, zall schun.
+",5,1,0.0,0.2
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ja, aw'r Dü muesch bie jedere Gelajehäit ebs extras maache.
+",11,1,0.0,0.09090909090909091
+comedy,Lissel,F,,,"Lissel:
+(mit einem finstern Blick.)
+— Ja, öönderi Lytt vun hinge iewerfalle un grüen un blöij häueje.
+",19,4,0.0585,0.21052631578947367
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(roh auflachend.)
+— Nit geroote! — Aw'r do mit dare Füscht 's Eck vun dare Dischplatt ewackschmattere, in äim
+            Sträich — — — sahn'r, dies isch ebs extras!
+",31,1,0.6027405081520923,0.03225806451612903
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(zielt mit der Faust gegen die Tischplatte.)
+— 's eilt um fünf Franke! — cing Francs pour la exécution! — hein?! — Mit äim Sträich! — Het wer
+            het!
+",32,2,0.0,0.0625
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Frisch gewöijt, isch halb gewunne, wer nit setzt, kann nix bekumme! — Also: Fünf Fränkle! — Het
+            niemes Kürasch? — Wer setzt d'rgeje?
+",25,3,0.0,0.12
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(faßt Philipp beim Genick und schleudert ihn in eine Ecke der Gaststube.)
+— Hesch jetz Ruehj od'r nit, Gäuckelhirn, iewerzwarchs?!
+",23,1,0.0,0.043478260869565216
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Loß 'ne leje, dane Narr!
+",6,2,0.5406566228910096,0.3333333333333333
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(erbebt sich mühsam vom Boden.)
+— Un dies Discheck mueß hyt doch noch droon gläuwe! — V'rloon Uch druff!
+",22,1,0.0,0.045454545454545456
+comedy,Lissel,F,,,"Lissel:
+(eilt freudig erregt an die Mitteltür und reißt dieselbe auf.)
+— D'Bumbié kumme! — D'Bumbié kumme!
+",21,7,0.0,0.3333333333333333
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Loß m'r die Dhüer zü! — Hesch noch nie ken Bumbié gsahne?
+",13,1,0.0,0.07692307692307693
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Na, no maach nit eso v'rruckt. — 
+            
+",8,1,0.0,0.125
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(nun etwas kleinlaut)
+— Un ich geh do nüs, wo ich ering bin kumme. Hinge nüs, un mit de Ööndere noochhare vorne ering. —
+            Lissel, gall, bisch so guet un v'rrootsch niemes nix devun, daß ich schun emol do bin gewahn. — Gall,
+            Lissel? — Löij, e jeder Mensch het sini Fahler, un ich bin äu e fahlerhafter Mensch — — — —
+",66,4,0.19721311309507567,0.06060606060606061
+comedy,Lissel,F,,,"Lissel:
+Danz mit's Däifels Grooßel, no rannsch äu ken Häiligi um! — 
+            
+",13,2,0.0,0.15384615384615385
+comedy,Lissel,F,,,"Lissel:
+Halt!! — — Halt!! — Halt!! — 's derf niemes ering!
+",12,3,0.281,0.25
+comedy,buureburscht,M,,,"Die Burschen:
+Oho! — Zall müeßt sin?!
+",7,1,0.0,0.14285714285714285
+comedy,Lissel,F,,,"Lissel:
+'s Wurtshüs isch hynt Owe resarviert fer d'Bumbié. — Numme wied'r nüs! — Enööndernooch! — Hopp,
+            bedenke Uch numme nit lang. — D'Harre Offizier kumme äu noch! — Numme wied'r los!
+",34,6,0.03133333333333333,0.17647058823529413
+comedy,buuremaidle,F,,,"Die Mädchen:
+(zu den Burschen.)
+— Kumme, mir gehn!
+",11,1,0.0,0.09090909090909091
+comedy,buuremaidle,F,,,"Die Mädchen:
+(lachend.)
+— Un dogebliewe wurd jetz. — Grood zeläid!
+",13,1,0.0,0.07692307692307693
+comedy,Ein Bursche,M,,,"Ein Bursche:
+Mir könne äu Sainte-Barbe fiehre, so stolz wie d'Bumbié.
+",12,3,0.0,0.25
+comedy,buureburscht,M,,,"Die Burschen:
+Kumme, ihr Mäide! 
+            
+",5,2,0.0,0.4
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(lachend.)
+— Jo wajer!
+",10,1,0.0,0.1
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Kompagnie — halt! — entrer! — remplacer! — commencer! — arriver! — fouler à coups de piéd!
+",18,1,0.281,0.05555555555555555
+comedy,Lissel,F,,,"Lissel:
+(geschäftig)
+— Nahme Platz, ihr Harre! — Setze-n-Uch. — Un rucke e weng zamme, daß d'Harre Offizier noochhare
+            äu noch Platz finge. — Halte, halte! — Dar Platz do vorne mueß frej bliewe fer de Harr Brandmäischter
+            un d'Fräu Brandmäischtere!
+",47,7,0.134,0.14893617021276595
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(spitz)
+— Do hätt m'r aw'r äu zwäi Fauteuil anne stelle könne.
+",15,2,0.285,0.13333333333333333
+comedy,Lissel,F,,,"Lissel:
+Na jetzt ware numme nit schun wied'r gifti. — Ich mueß jo äu maache, was ich ghäiße wur. —
+            Sitze-n-'r jetz bööl Alli?!
+",26,1,0.6708903400195724,0.038461538461538464
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Jetz warde m'r Alli bienöönd, bis uff dane v'rlottelte Stawalters-Philipp.
+",11,2,0.0,0.18181818181818182
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+So?! — Ja, wo stackt dann dar Allerwaltslottel wied'r?
+",10,1,0.0,0.1
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+(erstaunt.)
+— Wo kummsch dann Dü jetz uff eesmols haregschliche?
+",13,1,0.0,0.07692307692307693
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(lacht roh auf und schlägt sich auf das Knie.)
+— Hahaha! — Jetz wurd's Däuej! — Höön'r mich drowwe am Spritzehüs nit gsahne?
+",27,2,0.3013702540760462,0.07407407407407407
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Biem Apall uff kene Fall
+",6,2,0.0,0.3333333333333333
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Aw'r glich druff bin ich kumme. — Isch''s imstöönd nit so, Herr Korperal? 
+            
+",15,2,0.094,0.13333333333333333
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Grood wie m'r ewack marschiert sin, isch'r noochzeranne kumme. Zall isch wohr.
+",13,3,0.0,0.23076923076923078
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(gelassen.)
+— Jaja. — Aw'r Dir will ich eens säueje, Michel, un's öönder äu glich: ich will hynt Owe ken
+            zwäitsmol meh so oongschnäuzt ware do hinne, sunscht schmiß ich Uch de göönze Battel wied'r vor
+            d'Füeß! — Mir sin jetz franzeesch, wann'r 's je noch nit wisse, v'rstange?!
+",54,1,0.0,0.018518518518518517
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Guete-n-Owe bienöönd.
+",5,1,0.0,0.2
+comedy,Lissel,F,,,"Lissel:
+Numme emol de Hahne uff un d'Gleeser gfillt. An mir sell's nit fahle.
+",16,2,0.0,0.125
+comedy,Lissel,F,,,"Lissel:
+Dü muesch halt wied'r d'r Erscht sin, wie's Mül uffrißt.
+",12,2,0.1405,0.16666666666666666
+comedy,bumbie,U,,,"D'Bumbié:
+Bravo! — Bravo!
+",5,1,0.0,0.2
+comedy,Lissel,F,,,"Lissel:
+Drej Kiwwel voll Grümbeeresalot.
+",5,1,0.5673875393184389,0.2
+comedy,bumbie,U,,,"D'Bumbié:
+Bravo!
+",3,1,0.0,0.3333333333333333
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Zwäi Meter fuffzig Brootwurscht uff de Mann.
+",8,2,0.0,0.25
+comedy,bumbie,U,,,"D'Bumbié:
+Bravo!
+",3,1,0.0,0.3333333333333333
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+E Säichkaschte voll, mit Respakt ze malde.
+",8,2,0.28369376965921944,0.25
+comedy,bumbie,U,,,"D'Bumbié:
+Bravo!
+",3,1,0.0,0.3333333333333333
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(sein Glas hochschwingend.)
+— Kamerade! — Gsündhäit!
+",10,2,0.0,0.2
+comedy,bumbie,U,,,"D'Bumbié:
+Gsündhäit! 
+            
+",3,2,0.0,0.6666666666666666
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Kamerade! — Sahn'r dies Discheck do? — 
+            
+",8,1,0.0,0.125
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Wrinke m'r äins, ihr Manner!
+",6,1,0.0,0.16666666666666666
+comedy,buureburscht,M,,,"Ein Bauernbursche:
+Unseri Bumbié selle lawe!
+",6,2,0.0,0.3333333333333333
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+'s erscht Glas hatte m'r äijetli uff's Wohl vun ünserem Brandmäischter laartrinke selle.
+",15,2,0.0,0.13333333333333333
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Kamerade! — Fünfezwanzig Johr steht hyt ünser Brandmäischter uff siem schware Poschte. — 
+            
+",14,3,0.0,0.21428571428571427
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(schreit dazwischen.)
+— Was Raacht isch, mueß Raacht bliewe! — Pardon, Harr Spritzemäischter, ich mueß Dir in Dini Red
+            ning falle, aw'r — — — was Raacht isch, mueß Raacht bliewe!
+",34,5,0.0,0.14705882352941177
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Ich bin jo noch nit ferti — Kamerade! — Ünser Harr Brandmaischter loßt sich hynt Owe wied'r e
+            schwar's Stick Gald koschte — — —
+",27,3,0.0,0.1111111111111111
+comedy,bumbie,U,,,"D'Bumbié:
+Bravo! — Vive!
+",5,1,0.0,0.2
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Ja, Velde, ich bin doch am redde.
+",8,1,0.0,0.125
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Dies isch e ordinäri Inbüssion!
+",6,1,0.7190000000000001,0.16666666666666666
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+In-sub-or-di-na-tion! säit m'r d'rzü, wann m'r latinisch babble will. Wann m'r aw'r do nit kabawel
+            genuej isch d'rzü, d'rnoo halt m'r scheen sin däub Mül un trinkt sin Bier.
+",33,4,0.07025,0.12121212121212122
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+(vor Wut schäumend.)
+— No isch's ewwe e Inbüsordination vor v'rsammelter Mannschaft! — Un geje so ebs proteschtier
+            ich!
+",23,4,0.11836539918275663,0.17391304347826086
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Gsündhäit!
+",2,1,0.0,0.5
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ruehji, ruehji! — Fange doch nit schun so an!
+",10,3,0.0,0.3
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(singen.)
+— Nür äinmal blüht, wenn's niemand sieht, nür äinmal im Leben die Liebe!
+",21,3,0.0,0.14285714285714285
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+(wütend.)
+— Ja, wo bliet dann do noch d'Majorität?!
+",13,2,0.23673079836551325,0.15384615384615385
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(dreht sich auf dem Absatz herum.)
+— Do mueß jo e Gückelhahn laache! — Lissel, räich Bier eriewwer!
+",21,1,0.0,0.047619047619047616
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Die Mädchen:
+Gsündhäit!
+",3,1,0.0,0.3333333333333333
+comedy,bumbie,U,,,"D'Bumbié:
+Gsündhäit!
+",3,2,0.0,0.6666666666666666
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Kamerade!
+",2,1,0.0,0.5
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Mir fiere hyt Sainte-Barbe un zeglich 's Jübiläum vun ünserem Harr Brandmäischter.
+",13,1,0.0,0.07692307692307693
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Kamerade! Mir sin v'rgnüejt bienöönd, mir, ja. — Aw'r — — — wo sin ünseri Harre Offizier?! —
+            Hinne?! — 
+            
+",21,4,0.047,0.19047619047619047
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(lachend.)
+— Jetz wäiß ich's. — 
+            
+",10,1,0.0,0.1
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Ruehji!
+",2,1,0.0,0.5
+comedy,Lissel,F,,,"Lissel:
+M'r daats aw'r bööl mäine.
+",6,1,0.0,0.16666666666666666
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Lissel, ich hab Durscht.
+",5,1,0.0,0.2
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Ich fröij noch emol: wo sin ünseri Harre Offizier?!
+",10,3,0.06266666666666666,0.3
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Velde, jetz nimm ich Dir's Wort!
+",8,1,0.0,0.125
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+E Drack kannsch Dü mir nahme, v'rstange?!
+",8,1,0.6888764699331492,0.125
+comedy,bumbie,U,,,"D'Bumbié:
+'s isch Sainte-Barbe!
+",5,1,0.0,0.2
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(singen.)
+— Schön isch die Jü-ügend, sie kommt nicht mehr!
+",16,3,0.0,0.1875
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+D'Glycerin mueß hoch ghalte ware!
+",7,1,0.0,0.14285714285714285
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Jetz loon doch emol die ewige Stupfereje ewack!
+",9,2,0.0,0.2222222222222222
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Silence! — Ünser Harr Brandmäischter sell lawe!
+",8,1,0.0,0.125
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Wann noochhare ünseri Offizier kumme, Michel, no will ich hoffe, daß Dü mine Standpunkt
+            v'rtrittsch — — —
+",19,4,0.0,0.21052631578947367
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Bisch jetz bööl emol still?!
+",6,1,0.0,0.16666666666666666
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Noch lang nit!
+",4,1,0.0,0.25
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Fer mich hesch Dü ken Abfüehrmittel!
+",7,1,0.641,0.14285714285714285
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Wenn's jetz ken Ruehj gitt, no bloos ich d'Lampe üs! — E Starnsapeprmant nochemol!
+",17,3,0.11200000000000003,0.17647058823529413
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(klopft ihm lächelnd auf die Schulter.)
+— So wyt geht d'Narrhäit noch nit bie Dir, Daniel. —
+",21,1,0.0,0.047619047619047616
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(singend.)
+— O Süsanne, wie isch das Leben doch so schön! — O Süsanna, wie isch das Leben schön!
+",25,4,0.0,0.16
+comedy,Lissel,F,,,"Lissel:
+(haut Michel, welcher sie in die Wange kneifen will, auf die Finger.)
+— Michel, dies könne-n-'r dhäime bie Öijere Fräu maache! — Aw'r mich loon'r in Ruehj! — Ich säe's
+            Uch!
+",37,1,0.0,0.02702702702702703
+comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(singen.) — Röslein, Röslein, Röslein rot! Röslein auf der Heiden!
+",16,2,0.0,0.125
+comedy,chorus,U,,,"Chorus:
+(wiederholend.)
+— Röslein, Röslein, Röslein rot! Röslein auf der Heide !
+",13,1,0.0,0.07692307692307693
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+à la bonheur! — Do geht's jo schun raacht luschdi zü!
+",13,2,0.0,0.15384615384615385
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Kamerade! — Ünser Harr Brandmäischter un d'Fräu Brandmäischtere selle lawe!
+",12,2,0.0,0.16666666666666666
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(pustend.)
+— Deraschiere Uch numme nit. Numme luschti druff los.
+",13,3,0.0,0.23076923076923078
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+Dies isch äu mini Mäinung. — Harr Brandmäischter, betraachte die Füscht, un betraachte dies
+            Discheck. — Äin Sträich vun mir vun owwera — — — — —
+",28,3,0.0,0.10714285714285714
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Warm isch's do hinne, Theres, grießerli warm.
+",9,2,0.0,0.2222222222222222
+comedy,Theres,F,,,"Theres:
+Hawich D'r's nit allewiel gsäit, Dü sellsch nit zeviel trinke? — Un no dar Kanztistriewelwyn, dar
+            hatt ewack sotte bliewe.
+",22,1,0.0,0.045454545454545456
+comedy,Theres,F,,,"Theres:
+Na, viellicht äu zwäi, aw'r höchschtens drej.
+",8,1,0.0,0.125
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+Ja, ohni d'r Rascht!
+",5,1,0.0,0.2
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(pustend.)
+— Ich kriej bööl ken Luft meh.
+",11,1,0.0,0.09090909090909091
+comedy,Theres,F,,,"Theres:
+Maach de Kräueje uff un d'Knepf am Frack. 
+            
+",10,1,0.0,0.1
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Michel, entweder säesch jetzt was ze säueje isch, od'r ich fang oon. — Aw'r no wurd ken Blatt
+            vor's Mül genumme.
+",23,2,0.0,0.08695652173913043
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Sej zefridde, Velde, ich träe's schun vor.
+",9,1,0.0,0.1111111111111111
+comedy,Theres,F,,,"Theres:
+Als noch? — Lissel, maach irjes uff un loß frischi Luft ering. — 
+            
+",14,2,0.0,0.14285714285714285
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Trinke ihr Harrschafte äu Bier?
+",6,1,0.0,0.16666666666666666
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Aha! — Andli!
+",4,1,0.125,0.25
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Hochv'rehrti Fräu Brandmäischtere un Jübilarin! — Liewi Kamerade! — As isch hyt e großer Däuej fer
+            üns Alli zamme —
+",21,3,0.0,0.14285714285714285
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+D'Offizier! — D'Offizier!
+",6,2,0.0,0.3333333333333333
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Un dorum selle ünseri Harre Offizier, un vor allem ünserer Harr Jübilar lawe! — vive!
+",16,3,0.06266666666666666,0.1875
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(knirschend.)
+— Na wart numme!
+",8,1,0.0,0.125
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(kläglich.)
+— Theres, mir wurd's schlaacht! Ich mueß an d'Luft!
+",15,2,0.29561231751978484,0.13333333333333333
+comedy,Theres,F,,,"Theres:
+Zerscht muesch noch e Red halte. — 's isch Dini Pflicht.
+",12,1,0.281,0.08333333333333333
+comedy,Theres,F,,,"Theres:
+Riß Dich zamme.
+",4,1,0.0,0.25
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(seufzend.)
+— Na, ich will's prowiere. — Kamerade! — Was wohr isch, kann m'r säueje. — Fünfezwanzig Johr sin
+            ken Kläinigkäit — — un — — un — — ich kann Jedem säueje — daß — — daß — — ihr Manner, nahme m'r's nit
+            iewel — — as — — as — as wurd m'r unpaßli!
+",62,4,0.14482617887765167,0.06451612903225806
+comedy,Lissel,F,,,"Lissel:
+(besorgt.)
+— Steht's schlimm, Harr Brandmäischter?
+",10,2,0.1365,0.2
+comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(abwehrend.)
+— Loon mich nüs — — loon mich nüs. — 
+            
+",14,2,0.0,0.14285714285714285
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Wann'r halt Bier getrunke hatt, wie Ünseräiner — — —
+",11,1,0.281,0.09090909090909091
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Silence! — D'Fräu Brandmäischtere het's Wort!
+",9,1,0.0,0.1111111111111111
+comedy,Theres,F,,,"Theres:
+Ihr Manner! — Vun jehar hawich mich fer ünseri Fäierwehr intressiert, un um alli
+            BumbiéAngelajehäite oongenumme.
+",17,1,0.0,0.058823529411764705
+comedy,Theres,F,,,"Theres:
+(schlägt sich auf die Brust.)
+— Fünfezwanzig Johr stehn mir uff ünserem Poschte.
+",16,1,0.0,0.0625
+comedy,Theres,F,,,"Theres:
+(trocknet sich nervös die Stirne.)
+— Mit Stolz un Fräid, trotz Gift un Näid, höön mir ünser Amt gewissehaft bekläidt.
+",23,6,0.10453768648306028,0.2608695652173913
+comedy,Theres,F,,,"Theres:
+(trocknet sich nervös die Stirn.)
+— Un war het bie d'r Parad mit d'r beschte, gröschte un vornahmschte Spritz kunkeriere kenne? — 
+            
+",25,3,0.05466666666666667,0.12
+comedy,Theres,F,,,"Theres:
+Un d'Harre Offizier vun ünserer Kumpenie —
+",9,2,0.094,0.2222222222222222
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(dazwischen schreiend.)
+— Ja?! — Wo sin se, ünseri Harre Offizier?! — Wo sin se?!
+",18,4,0.13378472100180233,0.2222222222222222
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+Velde, jetz isch's awr genuej! — Bie dr nachschte V'rsammlung stell ich de Anträuej — —
+",18,2,0.0,0.1111111111111111
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(beschwichtigend.)
+— Stille, stille, stille!
+",8,3,0.0,0.375
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+In d'r nachschte V'rsammlung haltsch Dü Din Mül, v'rstange?!
+",10,2,0.0,0.2
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+Bliewe doch ruehji jetz.
+",5,1,0.0,0.2
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Bild D'r numme nit ze viel ing uff Dine Spritzemäischter! — Fräu Brandmäischtere, ich hätt jetz
+            gare emol Ööntwort uff die Fröij, wo ünseri Harre Offizier sin?!
+",28,5,0.0376,0.17857142857142858
+comedy,Theres,F,,,"Theres:
+(trocknet sich nervös die Stirn.)
+— Sie kumme noch — — — sie kumme — — un d'Müsik kummt äu noch — — Alli, Alli kumme se! — — —
+            Harrjesses — — dar Kanztistriewelwyn — — — ooooh! — — — jetz wurd's mir wajer äu noch unpaßli! — — —
+            ooooh! — — oooh! ooooooh !
+",62,5,0.0,0.08064516129032258
+comedy,Lissel,F,,,"Lissel:
+(springt rasch hinzu.)
+— kumme, Fräu Brandmäischtere, ich geh mit Uch. — 
+            
+",15,1,0.0,0.06666666666666667
+comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+D'Rachnung zahlsch, un wann se noch so gsalze wurd!
+",11,1,0.0,0.09090909090909091
+comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(stolz)
+— Mir zahle se! — Numme ken Angscht!
+",12,3,0.0,0.25
+comedy,alle,U,,,"Alle:
+(freudig)
+— D'Offizier kumme! — D'Offizier kumme!
+",12,5,0.0,0.4166666666666667
+comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+(zu Velde.)
+— Aha jetz?! — Bisch jetz zefridde?! — 
+            
+",13,1,0.0,0.07692307692307693
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Hähähä — — — ihr Manner — — hähähä — — — ihr — — — hupp — — — ihr selle, exküsiere — — — hähähä —
+            — — hupp — — — ünseri Harrer Offizier — — — —
+",42,3,0.0,0.07142857142857142
+comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Oha?! — Was isch mit ünsere Harre Offizier?! — — — — Kumme se?!
+",15,3,0.06266666666666666,0.2
+comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+Nee — — — — sie könne nit kumme — — — hähähä — — — sie sin — — — sie sin Alli voll wie d'Affe! — —
+            — hupp! — — hähähä!
+",36,3,0.18912917977281296,0.08333333333333333

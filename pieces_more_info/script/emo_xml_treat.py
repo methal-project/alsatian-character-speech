@@ -78,7 +78,7 @@ def add_person_info(root, piece_id):
                 persname = kid.find("{http://www.tei-c.org/ns/1.0}persName")
                 persname = persname.text.split(" ")
                 if (len(persname) > 1):
-                    persname = persname[1]
+                    persname = persname[0][0] + " " + persname[1] # Herr Miaou -> H Miaou
                 else:
                     persname = persname[0]
                 job = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='occupation']")
@@ -98,9 +98,16 @@ def add_person_info(root, piece_id):
 def merge_dic(dic, dic_person):
     for key in dic.keys():
         for key_p in dic_person.keys():
-            if (key in dic_person[key_p]["name"]):
-                dic_person[key_p]["job"] = dic[key][0]
-                dic_person[key_p]["social_class"] = dic[key][1]
+            key1 = key.split(" ")
+            realname = dic_person[key_p]["name"].split(" ")
+            if (len(key1) > 1 and len(realname) > 1):
+                if (key1[0] in realname[0] and key1[1] in realname[1]):
+                    dic_person[key_p]["job"] = dic[key][0]
+                    dic_person[key_p]["social_class"] = dic[key][1]
+            else:
+                if (key in dic_person[key_p]["name"]):
+                    dic_person[key_p]["job"] = dic[key][0]
+                    dic_person[key_p]["social_class"] = dic[key][1]
     return dic_person
 
 def get_speaker_text(root, dic_person):
@@ -133,6 +140,8 @@ def get_speaker_text(root, dic_person):
             for subkids in kids:
                 if (subkids.text):
                     text += subkids.text + "\n"
+                else:
+                    text += ""
             list_sp_text.append(text)
             text = ""
             list_piece.append(list_sp_text)

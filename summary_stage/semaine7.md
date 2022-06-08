@@ -13,12 +13,12 @@
 
 #### bugs
 ```shell
-    bastian-hofnarr-heidideldum.xml
-    stoskopf-dr-hoflieferant.xml
-    stoskopf-ins-ropfers-apothek.xml
-    hart-dr-poetisch-oscar.xml
-    greber-sainte-cecile.xml
-    bastian-hofnarr-heidideldum.xml
+    bastian-hofnarr-heidideldum.xml tale
+    stoskopf-dr-hoflieferant.xml comedy
+    stoskopf-ins-ropfers-apothek.xml comedy
+    hart-dr-poetisch-oscar.xml comedy
+    greber-sainte-cecile.xml comedy
+    bastian-hofnarr-heidideldum.xml tale
     
     #Il n'y a pas de tag "term" pour indiquer le type de la piece
 ```

@@ -1,61 +1,116 @@
 drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (kunnt hinte-n-ine mit Mannerkleider uf em Arm,
                         wo-n-er uf e Stüehl legt)
                     
 's schlofe noch alle z'sàmme-n-im Hüs... 's hat mi nieme
                         g'sàh do ane ku... 
-",36,5,0.1266,0.1388888888888889
-unknown,OSCAR,M,,,"Oscar
+(er klopft an d'Thüre rechts)
+",44,5,0.1266,0.11363636363636363
+unknown,OSCAR,M,,,"
+          
+Oscar
 (kunnt ine als Jumpfre-n-aglegt)
 Do bin i... 's isch güet, ass es emol Tag isch!... ich
                         ha nitt känne schlofe ich bi nur im Fauteuil dert
                         e wenig idirmelt gsi...
                     
 ",35,1,0.0,0.02857142857142857
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Dü machsch mr jetz emol schöne Sache... wie ka me nur
                         wege me-n-eifàltige Ball sich eso üssetze!
                     
 ",20,1,0.555,0.05
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Dü bisch halt noch allewil dr gliche wie frieiher als im
                         Lycée z'Befert... Dü traüsch Dich nitt z'mücke
                         hasch allewil Angst, bisch schich un ärger as e
                         Jumpfre, un sogar e wenig frumm... isch's nitt eso?...
                     
 ",40,6,0.15817189258702213,0.15
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Un Dü bisch allewil...
+
+          
 ",5,1,0.0,0.2
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Ich bi halt allewil o noch dr gliche und wird o nie
                         changiere.
                     
 
             
-",14,2,0.0,0.14285714285714285
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"(Mitnander)
+G'sang
+(Follichon)
+Fir was denn uf dr Erde do
+Ne trürig Lewe fiehre;
+So lang as 's End nitt kunnt dervo,
+So will ich profetiere ...
+",41,10,0.0844,0.24390243902439024
+unknown,EMIL,M,,,"
+          
+Emil.
 
             
-",3,1,0.0,0.3333333333333333
-unknown,EMIL,M,,,"Emil.
+Un doch isch eitel nur
+'s Vergniege-n-uf dr Welt!
+",12,1,0.0,0.08333333333333333
+unknown,OSCAR,M,,,"
+          
+Oscar.
 
             
+Ich ha mi Freid derdur
+Wil's 's Lewe mir erhellt!
+",12,3,0.3256666666666667,0.25
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+(Mitnander)
+
+            
+Nur emol isch d'Jugend z' g'niesse,
+Wer se losst veriwer geh,
+Thüet's als bol nochher verdriesse,
+Wenn vom Alter kämme d'Weh!
+",27,4,0.123,0.14814814814814814
+unknown,EMIL,M,,,"
+          
+Emil.
+
+            
+Wer z'viel do thüet d'Jugend g'niesse
+Un ihr nitt ka widersteh,
+Dà thüet's bol nochher verdriesse,
+Wenn vom Alter kämme d'Weh!
 Mit allem dem bin ich nitt iwel verstünt gsi, wo Dü mir
                         gestert z'Nacht spot im versteckte an dr Lade
                         klopft hasch, als Jumpfre-n-aglegt, fir welle do iwer
                         Nacht z'bliwe ...
                     
-",35,4,0.096460327961777,0.11428571428571428
-unknown,OSCAR,M,,,"Oscar.
+",60,7,0.125405901692444,0.11666666666666667
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Was witt halt... ich ha nitt anderscht känne... züe wem
                         ha-n-i solle geh as züe me güete Frind?...
                         hingege hätt ich durchüs nitt welle, ass mich ebber
                         anders sieht do as Dü...
                     
+
+          
 ",35,5,0.0,0.14285714285714285
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Drum ha-n-ich Dich o nitt lang üsg'frogt... un ha Dich
                         glich in das abg'legene Zimmer versteckt, wo
                         schier nie nieme-n-ane kunnt... awer 's isch mr jetz
@@ -63,10 +118,14 @@ Drum ha-n-ich Dich o nitt lang üsg'frogt... un ha Dich
                         ag'stellt?... red' emol! ...
                     
 ",40,3,0.0,0.075
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 De siehsch, ich bi uf em Maskeball gsi...
 ",9,1,0.0,0.1111111111111111
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Mi Vater hat mir's streng verbote g'ha... isch jetz das
                         nitt tyrannisch!... un im Lenele si Vater hat's
                         em o verbote g'ha... awer mir sin doch gange... 's
@@ -77,12 +136,16 @@ Mi Vater hat mir's streng verbote g'ha... isch jetz das
                         awer erkennt hat er mich halt doch...
                     
 ",79,12,0.05275,0.1518987341772152
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Was fir e Scandal!... awer das alles sàit mr jetz doch
                         nitt, worum ass De do ane ku bisch...
                     
 ",20,2,0.3165,0.1
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
                         awer wenn ich jetz driwer nodenk, isch's
                         viellicht besser, ass es eso gange-n-isch... mi Vater
@@ -92,52 +155,98 @@ Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
                         voriwer isch...
                     
 ",58,8,0.22695001537084852,0.13793103448275862
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Was fir e-n-Abgrund fir d'Unschuld, eso-n-e Ball!...
+
+          
 ",13,4,0.0,0.3076923076923077
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Oh, loss mi doch geh!... was weisch doch Dü, wo noch nie
                         g'liebt hasch, wie amüsant as das isch!...
                     
 ",20,1,0.703,0.05
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Ich, wo no ch nie g'liebt ha!... ich denk jo nur an
                         das!...
                     
 ",18,1,0.0,0.05555555555555555
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Mit allem dem müess ich jetz süeche, ne Üsred z'erfinde
                         fir mi Vater... das wird e G'schwàtz gà, denn De
                         kennsch d'Lit!... 's grüst mr nitt iwel fir heim...
                     
 
             
-",32,6,0.16666666666666666,0.1875
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Mitnander.
+G'sang
+Dü weisch wie d'Schwàtzerei
+Mit em zim bum bum 
+(bis)
+Ne jede Narrethei,
+Un isch se noch so dumm,
+Dur d'Stadt als bringt so g'schwind
+",62,8,0.172875,0.12903225806451613
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Mitnander.
 
             
-",1,1,0.0,1.0
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Mitnander
+As wie dr Wind,
+So g'schwind as wie dr Wind.
+",11,1,0.0,0.09090909090909091
+unknown,OSCAR,M,,,"
+          
 
             
-",1,1,0.0,1.0
-unknown,EMIL,M,,,"Emil.
+Wie wird's erst losgeh hit
+Mit em zim bum bum, 
+(bis)
+Wo-n-ich g'macht ha dà Schritt!
+Do blibt g'wiss nieme stumm,
+Me macht noch mehr derzüe
+",31,2,0.0,0.06451612903225806
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Mitnander
+
+            
+Un doch wàr's g'nüe,
+Un doch wàr's scho gnnüe!
+",12,1,0.0,0.08333333333333333
+unknown,EMIL,M,,,"
+          
+Emil.
 Das isch wohr... was witt jetz mache?...
 ",8,1,0.0,0.125
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 A propos... isch Di Schwester no nitt z'ruck ku üs dr
                         Pension.
                     
+
+          
 ",14,2,0.3165,0.14285714285714285
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Eh, ich ha denkt, ich kännt viellicht in mim Vater sage,
                         ich seig mit eüch uf dr Ball... ich heb nitt
                         anderscht känne... ich heb Di Schwester miesse druf
                         fiehre...
                     
 ",31,6,0.10544583612415692,0.1935483870967742
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Merci... das wàr du reste e schlechte-n-Üsred... denn
                         d'Wohret erfahrt er jo doch allewil... un züedem
                         kunnt mi Schwester erst in e paar Tàg... un züe glicher
@@ -146,7 +255,9 @@ Merci... das wàr du reste e schlechte-n-Üsred... denn
                         später wohrschinlig ins Kloster wird geh...
                     
 ",54,8,0.15317855543318126,0.14814814814814814
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 So müess ich halt ebbes anders süeche... verroth mi awer
                         nur nitt!... was wott Di frumme un strenge
                         Müetter züe dem sage... obschon se mich nitt persönlig
@@ -154,87 +265,139 @@ So müess ich halt ebbes anders süeche... verroth mi awer
                         sàh do...
                     
 ",40,4,0.1465,0.1
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich will mi mögligs mache... einstwile kasch Di
                         changiere... ich ha Dir dert vo mine Kleider brocht,
                         ass
                         De doch ufs wenigst nitt eso müesch heim geh...
                     
 ",28,1,0.0,0.03571428571428571
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Lüeg, ass De mr ebbes z'esse bikunnsch... ich ha
                         Hunger...
                     
 ",12,1,0.0,0.08333333333333333
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Güet... ich will Dr gli geh ebbes b'sorge... doch still,
                         ich hör glaüb rede...
                     
+
+          
 ",15,3,0.1429113671979507,0.2
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (àngstlig).
 's isch d'Stimm vo mim Vater... 
-",11,1,0.0,0.09090909090909091
-unknown,OSCAR,M,,,"Oscar.
+(er geht geh lose an dr
+                        Thüre hinte)
+",21,1,0.0,0.047619047619047616
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Nur nitt glich eso verschrocke, suncht thüesch is
                         verrothe... mach dr gliche as thàtsch e Büech süeche in
                         dàre Bibliothek...
                     
 ",21,2,0.5349388254971619,0.09523809523809523
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (kunnt z'erst hinte-n-ine)
 Enfin, ich bi-n-emol derfir... un 's blibt derbi!...
 ",20,2,0.0,0.1
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Un ich sag Dir, 's hat kei Sinn... das Zimmer isch
                         z'abg'lege un unkummod!...
                     
 ",17,2,0.0,0.11764705882352941
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Im Gegetheil!... das wird ere grad geh, die Einsamkeit
                         un die Bibliothek...
-",14,4,0.0,0.2857142857142857
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(se kehrt sich um un sieht dr
+                        Emil)
+
+          
+",24,4,0.0,0.16666666666666666
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Was dr Kückücks tribsch denn jetz Dü do hinte?..
 ",11,2,0.0,0.18181818181818182
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich bi grad ku... ich süech e Büech...
 ",9,3,0.40633333333333327,0.3333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (züem Emil)
 Kumm emol do ane... 
-",10,3,0.211,0.3
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(züem Herr Schimmel)
+",15,5,0.1266,0.3333333333333333
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Enfin, wenn Dü se durchüs do witt logiere, so thüe's un
                         loss mich in Rüeh!... 
-",18,4,0.17575,0.2222222222222222
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(er gsht an
+                            d'Bioliothek).
+",25,4,0.17575,0.16
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 D'G'sellschaftere vo Dinere Schwester, wo jetz ku
                         wird... findsch jetz Dü nitt o, ass se ganz güet wird
                         si do?...
                     
 ",23,5,0.1266,0.21739130434782608
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Wenn soll se denn eigentlig ku, die G'sellschaftere?
 ",9,1,0.633,0.1111111111111111
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ich erwart se in drei oder vier Tàg...
 ",10,3,0.23647614782181672,0.3
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Derno isch's güet... 
-",9,2,0.0,0.2222222222222222
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(lüt)
+",12,3,0.0,0.25
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Do hörsch jetz... nur Dü bisch's allewil, wo in allem
                         Opposition macht!
                     
 ",15,5,0.0,0.3333333333333333
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Isch's e Wunder? mit Dine sunderbare-n-Idee, wo Dü
                         allewil hasch!
                     
+
+          
 ",15,4,0.0,0.26666666666666666
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Was fir sunderbare-n-Idee?... thüe-u-ich ebbe nitt
                         recht, wenn ich in minere Tochter e G'sellschaftere
                         gib, wo im Kloster uferzoge worde-n-isch un wo also
@@ -242,19 +405,41 @@ Was fir sunderbare-n-Idee?... thüe-u-ich ebbe nitt
                     
 
             
-",32,5,0.0,0.15625
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+G'sang
+(Kaiser Franz)
+Vor dr Welt un ihre G'fohre
+Süech ich z'b'schitze jetz mi Kind,
+Denn me-n-isch als gli verlore,
+Bol hat eim dr böse Find!
+Drum ha-n-ich, fir das z'erlange,
+D'Jumpfer Faste kumme lo,
+",76,16,0.2153125,0.21052631578947367
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Madame Schimmel.
 
               
-",2,2,0.0,1.0
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Herr Schimmel un Emil.
+Denn eso wird mi Verlange
+In Erfillung geh derno!
+}(bis)
+",15,3,0.21253256255515038,0.2
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Herr Schimmel un Emil.
 
               
-",4,2,0.0,0.5
-unknown,EMIL,M,,,"Emil.
+Denn eso wird ihr' verlange
+In Erfillung geh derno!
+}(bis)
+",17,3,0.21253256255515038,0.17647058823529413
+unknown,EMIL,M,,,"
+          
+Emil.
 Mi Mame hat ganz Recht!
 ",6,3,0.13533333333333333,0.5
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich find nur, Dü gehsch in dàne Sache allewil e wenig
                         z'wit... Dü thüesch se-n-iwertriwe... as wie im
                         Emil do thüesch o allewil dr Kopf verdreihe... me müess
@@ -263,30 +448,45 @@ Ich find nur, Dü gehsch in dàne Sache allewil e wenig
                         mi Pflicht, dergege z'schaffe...
                     
 ",59,8,0.0,0.13559322033898305
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Awer Vater... wenn's mir jetz eso g'fallt... wenn das mi
                         einziger Wunsch isch!...
-",15,2,0.3188007450142392,0.13333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(er geht ungeduldig
+                        umenander)
+",21,3,0.40786716334282613,0.14285714285714285
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Natirlig!... b'schaü ne nur emol a... 's steht jo uf sim
                         G'sicht g'schriwe... d'Unschuld selbst... er hat
                         jo-n-emol im Lycée miesse fir 's Portrait vom e Heilige
                         posiere, wo fir d'Kirche destiniert gsi isch...
                     
 ",40,8,0.048875,0.2
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Das isch jetz alles recht... awer ich sag emol eso
                         viel... e junger Mensch isch g'macht, fir z'hirothe un
                         in dr Societät z'lewe...
                     
 ",27,7,0.1372857142857143,0.25925925925925924
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Eh bien, ich süech em e Fraü...
 ",9,4,0.3046687541862354,0.4444444444444444
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich ha se scho gfùnde!
-",7,2,0.0,0.2857142857142857
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(lüt)
+",10,3,0.0,0.3
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 D'Jumpfer Faste?... d'Tochter vo minre alte Frindin, wo
                         uf Befert isch geh wohne?... ich ha dr beste
                         B'richt iwer se... un derno sin se grad o nitt in de
@@ -294,32 +494,44 @@ D'Jumpfer Faste?... d'Tochter vo minre alte Frindin, wo
                         d'Müetter, ass se ka d'Tochter unterbringe...
                     
 ",51,10,0.0,0.19607843137254902
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich mein, ich sieh se scho: allewil schwarz ag'legt ganz
                         eifach, un dr Blick am Bode... De hasch mir's
                         scho g'sàit... awer persönlig kennsch se nitt...
                     
 ",29,8,0.0,0.27586206896551724
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ich will se scho examiniere, wenn se kunnt, un
                         üsfroge... De weisch, ich bi nitt so dumm... ich will
                         jetz
                         gli do ne wenig Ordnung mache...
                     
 ",28,3,0.0,0.10714285714285714
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Wotte mr jetz nitt z'erst geh z'Morge-n-esse, Mame?...
                         wenn se-n-erst in vier Tàg akunnt, so hasch jo
                         noch lang dr Zit...
                     
 ",28,4,0.36473902225045096,0.14285714285714285
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 's isch wohr... gang Dü geh Di Kaffee b'sorge, Fraü...
                         denn De weisch wohl... 's Kafte heitert Dich als e
                         wenig uf un git Dr viellicht andere-n-Idee!...
                     
+
+          
 ",31,6,0.06383333333333334,0.1935483870967742
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Was mine-n-Idee abelange, changiere se nie... awer
                         nitdestoweniger will ich geh lüege, eb d'Magd alles
                         g'ristet hat ... denn 's isch wohr, 's isch mr niene
@@ -327,36 +539,74 @@ Was mine-n-Idee abelange, changiere se nie... awer
                     
 
             
-",40,6,0.0,0.15
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+G'sang
+(O Strassburg)
+Mi Kaffee 
+(bis)
+Müess ich vor allem ha
+Am Morge, 
+(bis)
+Fir mich z'erhole dra;
+",65,9,0.10221734322242264,0.13846153846153847
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Madame Schimmel.
 
               
-",2,2,0.0,1.0
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Herr Schimmel un Emil.
+Isch 's Kaffee als güet g'lunge,
+So stärkt's mir wieder d'Zunge
+Un git Kraft in dr Lunge,
+Ass ich güet schwàtze ka!
+",26,5,0.0,0.19230769230769232
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Herr Schimmel un Emil.
 
               
-",4,2,0.0,0.5
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+Isch 's Kaffee als güet g'lunge,
+So stärkt's ihr' wieder d'Zunge
+Un git Kraft in dr Lunge,
+Ass sie güet schwàtze ka!
+",28,5,0.0,0.17857142857142858
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Endlig isch se jetz emol furt!
 ",8,2,0.0,0.25
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Wenn doch nur jetz dr Pape-n-o ging
 ",14,1,0.0,0.07142857142857142
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Emil, kumm los jetz... sitz do ane... wil mr grad allei
                         sin, will ich Dir e G'heimniss avertraüe...
                     
 ",20,8,0.22562500000000002,0.4
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 E G'heimniss!
 ",3,1,0.0,0.3333333333333333
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich bin eso ziemlig sicher, nitt wohr, ass Dü bis dohi
                         noch kei Vorzug g'ha hasch fir e Jumpfre ...
                     
 ",21,6,0.06899999999999999,0.2857142857142857
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,EMIL,M,,,"
+          
+Emil.
+Ich... ich denks nitt...
+(fir sich)
+",9,1,0.0,0.1111111111111111
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Desto besser... uf die Art geht das Ding ganz allei...
                         ich ha ewe mit minre Schwester e Plan g'macht...
                         mr hàn mitnander fir Di Glick g'sorgt... sie, wo
@@ -364,10 +614,14 @@ Desto besser... uf die Art geht das Ding ganz allei...
                         z'finde.
                     
 ",42,12,0.047499999999999994,0.2857142857142857
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ne Fraü fir mich !...
 ",5,1,0.0,0.2
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Un g'wiss e güete... 's isch schint's e prächtige
                         Person, hat e lustiger Charakter, isch aber grundehrlig
                         derbi... d'Lit sage... De weisch, d'Lit sage-n-allewil
@@ -377,109 +631,162 @@ Un g'wiss e güete... 's isch schint's e prächtige
                         voilà tout, un will Dich mit Freide hirothe.
                     
 ",65,11,0.09319438423701958,0.16923076923076924
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich weiss awer nitt, eb d'Mame-n-eso d'nàchste beste
                         wird ufnàh...
                     
 ",15,1,0.406,0.06666666666666667
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich ha scho dra denkt... drum hà mr e Mittel g'süecht
                         fir se do ine z'bringe... un hàn's g'funde...
+
+          
 ",23,4,0.0,0.17391304347826086
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Awer ich kenn se jo gar nitt, die Jumpfer Tülipa!
 ",11,1,0.0,0.09090909090909091
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich o nitt... awer wie g'sàit, mi Schwester ka se nitt
                         genüeg riehme... b'schaü, do isch dr Brief, wo se
                         mir noch driwer g'schriwe hat gestert
-",28,2,0.0,0.07142857142857142
-unknown,EMIL,M,,,"Emil.
+(er süecht en)
+",33,2,0.0,0.06060606060606061
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich glaüb Dr scho, Pape... awer...
 ",7,1,0.4287341015938521,0.14285714285714285
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Un Dü hasch recht... das isch e ganz güete Partie fir
                         Dich... Dü müesch e Fraü ha, wo Dich e wenig
                         ufheitert un andere-n-Idee git, un die Jumpfer Tülipa
                         wird das g'wiss z'weg bringe.
                     
 ",39,8,0.0,0.20512820512820512
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Niemols!
 ",6,1,0.0,0.16666666666666666
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Also gehsch Dü's i un witt mr kei Hindernisse in dr Weg
                         lege?... wenn se Dr g'fallt, so wà mr das Ding
                         derno scho arrangiere mit dr G'sellschaftere...
                     
 ",31,4,0.0,0.12903225806451613
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Los Pape... das geht nitt... Dü kennsch jo mi Abneigung
                         gege d'Hiroth.
                     
 ",14,3,0.21866666666666668,0.21428571428571427
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Emil!... das isch nitt natürell... Dü verstecksch mir
                         ebbes.
                     
+
+          
 ",11,2,0.0,0.18181818181818182
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Was sage!...
-",7,1,0.0,0.14285714285714285
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(me hört e Glocke lüte)
+",14,1,0.0,0.07142857142857142
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 's lütet am Hofthor d'vorne... wer mag uns jetz
                         scho-n-eso frieih e Visite mache?...
                     
 ",19,2,0.0,0.10526315789473684
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (kunnt hinte-n-ine ku z'laüfe)
 Do isch se!... do isch se... ich ha se scho vo Witem
                         g'sàh ku un ha denkt, ich will Eüch preveniere!
                     
 ",32,5,0.36260000000000003,0.15625
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Wer denn... wer isch do?
 ",7,2,0.0,0.2857142857142857
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 D'Jumpfer Faste... 's ka nieme-n-anders si... 's Kleid
                         un d'Haltung, alles isch wie mir se-n-ihre Müetter
                         b'schriwe hat...
                     
 ",26,5,0.0,0.19230769230769232
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (lislig züem Emil)
 's isch d'Jumpfer Tülipa! ich hoff, Dü wirsch vernünftig
                         si!
                     
 ",18,4,0.164,0.2222222222222222
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Güet, ich mach mi dervo!...
-",10,2,0.0,0.2
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(er laüft hinte-n-üse)
+",17,2,0.0,0.11764705882352941
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Eh bien... was soll das bedite... worum laüft er jetz
                         eso furt?...
                     
 ",14,4,0.2851687541862354,0.2857142857142857
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Worum... weiss ich's!... er isch doch züe arg schich fir
                         e junger Mensch!
                     
+
+          
 ",16,4,0.125,0.25
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ich will hoffe, Mann, ass Dü die Jumpfere güet empfange
                         wirsch!...
                     
 ",13,7,0.1852857142857143,0.5384615384615384
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Dü brüchsch kei Angst z'ha... ich verlang jo nitt mehr
                         as se güet z'empfange.
                     
 ",18,6,0.3015996146109085,0.3333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (kunnt hinte-n-ine, se hat schier allewil d'Aüge
                         niederg'schlage)
                     
@@ -491,60 +798,84 @@ Me hat mr g'sàit, ich seig recht do... bi dr Madame
                         vergelte wird, was Sie Güet's an mir thien...
                     
 ",74,15,0.04373333333333333,0.20270270270270271
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Willkumme, willkumme, mi güete Jumpfer Faste... ich bi
                         enchantiert, ass Se jetz bi-n-is isch... doch
                         ha-n-ich Se-n-erst in e paar Tage-n-erwartet?...
                     
 ",31,7,0.09232061020886755,0.22580645161290322
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 's isch wohr... ich ha viellicht z'viel pressiert...
                         awer 's isch gsi, wie wenn mich e-n-unsichtbare
                         Macht furttriwe hätt, fir do ane z'ku... un ich wird
                         jetz glicklig si, wenn Se mich b'halte wànn.
                     
 ",40,7,0.09042857142857143,0.175
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (ribt si d'Hànd, fir sich)
 Se spielt ihre Rolle ganz güet, d'Jumpfer Tülipa...
 ",19,6,0.0,0.3157894736842105
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Sie wird jetz wohrschinlig mied si ab dr Reis'... mr
                         wànn jetz gli sorge, ass Sie sich dervo erhole ka.
                     
 ",22,5,0.0984,0.22727272727272727
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Sie glaübt nitt, was uns Ihre-n-Akunft fir e Plaisier
                         macht!
                     
 ",14,5,0.0,0.35714285714285715
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Dr Herr Schimmel, mi Mann, wo-n-ich Ihre vorstell!
 ",12,5,0.0,0.4166666666666667
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Se schlat d'Aüge nieder... se-n-isch magnifique!
 ",15,4,0.0,0.26666666666666666
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Ich find, dà Herr hat e gar frecher Blick!
 ",15,6,0.0,0.4
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Un wie geht's denn allewil in minere-n-alte Frindin?
 ",13,4,0.0,0.3076923076923077
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Mi Müetter isch gottlob g'sund und wohl.
 ",9,3,0.12766666666666668,0.3333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Un do will Se denn, Jumpfer Faste, wirklig später ins
                         Kloster geh?
                     
 ",14,4,0.0,0.2857142857142857
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Mi Müetter hat mir g'rothe, ich soll noch recht driwer
                         nodenke... drum hat se mich fir e Zitlang in
                         d'Welt üseg'schickt, fir z'lüege-n-eb ich nitt
@@ -554,55 +885,79 @@ Mi Müetter hat mir g'rothe, ich soll noch recht driwer
                         Freide-n-in d'Einsamkeit z'ruck gang...
                     
 ",61,11,0.10518181818181818,0.18032786885245902
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (lislig züer Jumpfer Faste)
 Sie spielt Ihre Rolle ganz merkwürdig güet!...
 ",15,5,0.0,0.3333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Was will denn eigentlig dà Mann mit mir!
 ",14,3,0.0,0.21428571428571427
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Vo allem dem wà mr später noch rede... d'Haüptsach isch
                         jetz, ass Sie üsrüeht vo dr Reis'... mi Tochter
                         kunnt erst in e paar Tàg... einstwile-n-isch das Ihre
                         Wohnung... dert isch's Schlofzimmer... un 
+
+          
 ",39,4,0.0,0.10256410256410256
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ihr' Suhn... hàn Sie ne Suhn?...
 ",8,1,0.0,0.125
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Unser Emil, jo... hat Sie's nitt g'wisst?... ich will
                         ne-n-Ihre derno glich presentiere, nitt wohr?...
                     
 ",20,3,0.0,0.15
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (lislig züer Jumpfer Faste)
 Thàt Se nur «jo» sage.
 ",15,3,0.0,0.2
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Nei, nei, Madame Schimmel... un wenn ich das g'wisst
                         hätt, so wàr ich gar nie iwer Ihre Schwelle ku!
                     
 ",21,4,0.15825,0.19047619047619047
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Un worum denn das?
 ",6,2,0.0,0.3333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Dr Mann isch unser Verdàrwe-n-uf dr Welt... un ich
                         schwache Kreatür will wache Tag und Nacht, ass mich
                         d'Versüechung nitt iwerwältige thüet!
                     
 ",27,5,0.0,0.18518518518518517
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Das isch güet g'funde... se-n-isch famos schlaü.
 ",15,4,0.0,0.26666666666666666
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Fir d'Wohret z'sage, Jumpfer Faste, thüet Sie das Ding
                         jetz glaüb doch e wenig iwertriwe... awer das sin
                         Ihre Sache .. vor allem wà mr jetz geh z'Morge-n-esse,
@@ -611,52 +966,91 @@ Fir d'Wohret z'sage, Jumpfer Faste, thüet Sie das Ding
                     
 ",54,8,0.12071127382445698,0.14814814814814814
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Sie wird mir erlaüwe, nitt an das Bankett z'sitze!
 ",12,1,0.0,0.08333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Hat Sie viellicht kei Hunger?
 ",7,4,0.0,0.5714285714285714
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Im Gegetheil... ich bi as wie 's Volk Israël in dr
                         Wieschte, vor ebb ene 's Brod vom Himmel owe-n-awe 
+
+          
 ",24,2,0.0,0.08333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Wie Se will Sie liebt halt d'Einsamkeit... 's hat Jeder
                         sine-a-Idee ich will glich Ordre gà, ass me Sie
                         serviert...
                     
 ",23,5,0.0828,0.21739130434782608
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 C'est ça!...
-",4,2,0.0,0.5
+(lislig züer Jumpfer Faste)
+",10,3,0.0,0.3
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich bi charmant!...
 ",5,2,0.2775,0.4
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Au revoir, also .... Jumpfer Faste... thàt Se sich's
                         jetz bequem mache.
                     
 
             
-",14,4,0.0,0.2857142857142857
+G'sang
+(Auf den Alpen)
+Ungeniert ka Sie do wohne,
+Niene hätt Sie's jo so güet.
+",32,6,0.06383333333333334,0.1875
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 
             
-",2,1,0.0,0.5
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+Mag dr Himmel Sie belohne,
+Fir was Sie an mir jetz thüet.
+",14,3,0.0,0.21428571428571427
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Madame Schimmel.
 
               
-",2,2,0.0,1.0
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+Wenn dr Herr Sie will bekehre,
+Müesst Se-n-als nitt uf ne höre,
+Denn nit Güet's thàt er Se lehre,
+Er hat d'Tugend nitt im Blüet.
+",31,8,0.0,0.25806451612903225
+unknown,Herr SCHIMMEL,M,,,"
+            
+Herr Schimmel.
 
               
-",2,2,0.0,1.0
+Die ka eim 's Verstelle lehre!
+Soviel as ich jetz thüe höre,
+Wott ich selwer schiergar schwöre,
+Ass sie's nitt üs List nur thüet.
+",27,3,0.0,0.1111111111111111
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (allei)
 Se wànn mich bekehre!... so isch se jetz, die Welt; küm
                         bin ich in das unreine Babylon ku, so thüet sich
@@ -684,33 +1078,53 @@ Se wànn mich bekehre!... so isch se jetz, die Welt; küm
                         mich uf die Art in Versüechung z'fiehre... awer nei
                         's isch e reine Liewe, wo nit weltligs an sich hat...
                        
-",251,44,0.14644634987434657,0.1752988047808765
-unknown,OSCAR,M,,,"Oscar
+(se zieht's üse)
+('s kunnt e Diener
+                        hinte-n-ine. bringt 's Esse un geht wieder üse)
+(se steckt 's Portrait i)
+(se süecht e Büech)
+",286,44,0.14644634987434657,0.15384615384615385
+unknown,OSCAR,M,,,"
+          
+Oscar
 (noch immer als Jumpfre, kunnt lislig züe sim Zimmer
                         üse)
                     
 Hat mich eigentlig dr Emil vergesse
-",19,1,0.0,0.05263157894736842
+(er sieht dr Tisch)
+(er
+                        sitzt dra)
+",30,1,0.0,0.03333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Nit as nur immer dr Voltaire... das werde wohrschinlig
                         in dem Herr Schimmel sine Biecher si!
                     
 ",22,4,0.0,0.18181818181818182
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (springt uf)
 Was!... 's isch ebber do!... jetz bin i verrothe!
-",14,1,0.0,0.07142857142857142
+(er
+                        sitzt wieder)
+",19,1,0.0,0.05263157894736842
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Tiens... ich bi schint's nimmig allei... was isch jetz
                         das fir e junge Person, wo sich züe mim Kaffee
                         setzt?...
                     
 ",27,5,0.1,0.18518518518518517
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (fir sich)
 Ah...das isch g'wiss d'Gsellschaftere, wo dr Emil g'sàit
                         hat... ich sieh's ere-n-a... wenn ich se thàt e
@@ -718,34 +1132,60 @@ Ah...das isch g'wiss d'Gsellschaftere, wo dr Emil g'sàit
                     
 ",29,1,0.0,0.034482758620689655
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Isch Sie viellicht o noch e Tochter üs em Hüs... dr
                         zweite wiblige Sprosse vo de Schimmel?...
                     
 ",19,5,0.0,0.2631578947368421
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (steht uf un kunnt fire)
 O nei, Jumpfer...
 ",11,2,0.0,0.18181818181818182
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich heiss Faste.
+
+          
 ",5,2,0.0,0.4
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 O nei, Jumpfer Faste... ich bi nur e Cüsine...
-",10,1,0.0,0.1
+(fir
+                        sich)
+(lüt)
+",17,3,0.0,0.17647058823529413
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Ihre Kaffee!...
-",8,2,0.0,0.25
+(lüt)
+",11,3,0.0,0.2727272727272727
+unknown,OSCAR,M,,,"
+          
+Oscar.
+Ah, Sie wohnt do...
+(fir sich)
+",9,1,0.0,0.1111111111111111
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Se isch wohrschinlig in Ihrer Tante ku ne Visite
                         mache?...
                     
 ",12,2,0.3165,0.16666666666666666
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (setzt si an Tisch; d' Jumpfer Faste macht em
                         vis-àvis; beide fange-n-a z'esse)
                     
@@ -757,40 +1197,61 @@ Im Gegetheil... mi Oncle un Tante wisse gar nitt, ass
                     
 ",66,5,0.1032,0.07575757575757576
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich versprich's Ere...
-",6,2,0.0,0.3333333333333333
-unknown,OSCAR,M,,,"Oscar.
+(fir sich)
+",10,3,0.0,0.3
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Eh bien, so müesst Se wisse, ass ich d'vergangene Nacht
                         uf em Maskeball gsi bi...
                     
 ",17,2,0.31633750837247077,0.11764705882352941
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh!...
 ",3,1,0.0,0.3333333333333333
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Un ass ich dert e junger Mensch atrofte ha, wo mich gern
                         hat...
                     
+
+          
 ",14,2,0.4415,0.14285714285714285
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh!... oh!...
-",4,1,0.0,0.25
-unknown,OSCAR,M,,,"Oscar.
+(se hebt d'Hand vor d'Aüge)
+",13,1,0.0,0.07692307692307693
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Un derno hat's mi Vater erfahre un hat mich welle
                         hole... un wil er mir's verbote g'ha hat, so bin ich
                         halt furtg'loffe do ane un traü jetz nimmig heim...
                     
 ",33,5,0.1032,0.15151515151515152
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Ne Ummeziegere!
-",8,2,0.0,0.25
+(se steht uf; lüt)
+",14,4,0.0,0.2857142857142857
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh!... ich bedür Se wider mi Wille!... Sie, noch so
                         jung, hat sich scho lo verfiehre vo me junge
                         Mensch!... Oh, mi Tochter! wer wird Sie vom Abgrund
@@ -798,16 +1259,22 @@ Oh!... ich bedür Se wider mi Wille!... Sie, noch so
                     
 ",32,8,0.298875,0.25
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Gar nieme?...
 ",4,1,0.0,0.25
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Dr Emil... noch e junger Mensch, wo Sie ka in
                         Versüechung fiehre!
                     
 ",14,3,0.16666666666666666,0.21428571428571427
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Do isch jetz kei G'fohr... awer ich ha Angst vor
                         sine-n-Eltre... vor dr Müetter b'sunders... denn eso
                         coquettisch as se-n-als gsi isch in dr Jugend, eso
@@ -815,162 +1282,286 @@ Do isch jetz kei G'fohr... awer ich ha Angst vor
                     
 ",37,5,0.20460000000000003,0.13513513513513514
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Wo Se noch mehr Angst müess ha, das isch vor de
                         Mànner... in dàne, o mi Tochter, müesst Se-n-üswiche,
                         wo
                         se ka, denn die sin 's Verderwe vo uns arme Kreatüre!
                     
+
+          
 ",35,6,0.08850000000000001,0.17142857142857143
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (fir sich)
 Das isch jetz emol ag'nehm az'höre!
 ",11,1,0.0,0.09090909090909091
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh, wenn ich Se doch nur kännt uf dr rechte Weg
                         z'ruckbringe,
                     
 
             
+G'sang
+(t'en souviens tu Marie)
+So jung un scho so stark
+Fir 's Böse, 's isch doch arg!
+O Schwester, hör uf mich,
+Bekehre will ich Dich.
+(se nimmt em d'Hand)
+Viel Freid will ich dra ha,
+Wenn ich Dich rette ka
+Noch üs dem Netz, wo do
+Dir d'Liewe spannt eso.
 (Se losst d'Hand fahre, fir sich)
 ich weiss nitt, was ich empfind bi dàre Person!... 's
                         isch as wie wenn d'Angst un Freid mitnander
                         thàte-n-in mi Herz izieh!...
                     
-",49,9,0.059000000000000004,0.1836734693877551
-unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+",107,18,0.13961152249236994,0.16822429906542055
+unknown,OSCAR,M,,,"
+          
+Oscar.
 
             
+Ich mach dr erste Schritt,
+Verspreche thüe-n-ich hit,
+Ass nie kei Mann me ka
+Mi Herz mir mache z'schla!
+",23,4,0.0,0.17391304347826086
+unknown,"Jumpfer FASTE
+                    ",F,,,"
+          
+Jumpfer Faste.
+
+            
+Isch das jetz wirklig wohr,
+Siehsch Dü se-n-i, die G'fohr?
+Entsage thüesch dàr Lust?
+So kumm denn an mi Brust!
 (Se umarmt 'n, stosst 'n awer glich wiederz'ruck,
                         fir sich)
                     
 wieder die gliche-n-Empfindung... ich weiss gar nitt,
                         was ich denke soll!
                     
-",27,3,0.0,0.1111111111111111
-unknown,OSCAR,M,,,"Oscar.
+
+          
+",49,7,0.09042857142857143,0.14285714285714285
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Awer hingege, nitt wohr, zähl ich druf, ass Sie in nieme
                         nit sàit vo mir, so lang as ich do bi?
-",22,3,0.0,0.13636363636363635
+(er will
+                        ere d'Hand nàh)
+",30,3,0.0,0.1
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Retro, retro!... riehrt Se mich nimmig a!... ich weiss
                         nitt, was ich ha... do steckt ebbes derhinter!
                     
 ",19,1,0.0,0.05263157894736842
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (ufg'regt)
 Ich will nit meh wisse, wenn ich Ere sag! verlosst mich,
                         's wird 's Beste si...
                     
 ",21,1,0.0,0.047619047619047616
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Sie müess nitt bös werde, Jumpfer Faste... ich gang...
                         awer ich ha-n-Ihre Verspreche... Sie derf nit
                         sage...
                     
 ",20,3,0.0,0.15
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Ich zittter ganz, ohne z'wisse worum...
-",13,3,0.0,0.23076923076923078
-unknown,OSCAR,M,,,"Oscar.
+(lüt)
+",16,4,0.0,0.25
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Merci, Jumpfer Faste... Sie isch charmant...
-",7,2,0.2775,0.2857142857142857
+(fir sich)
+(er geht üse rechts)
+",17,3,0.18500000000000003,0.17647058823529413
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Die Aüge! un wie se das g'sàit hat « Sie isch charmant
                         », grad as wie dr andere, dr Herr Schimmel,
-",23,5,0.11100000000000002,0.21739130434782608
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+
+          
+(dr Herr Schimmel kunnt
+                        hinte-n-ine)
+",32,7,0.07928571428571429,0.21875
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (kunnt fire)
 Sie isch allei! .. desto besser .. mi Fraü isch
                         b'schàftigt, mr hàn nit z'riskiere... awer fir sicherer
                         z'si, kännt Se viellicht sàlle Thüre züegschpliesse
-",31,7,0.08142857142857142,0.22580645161290322
+(er
+                        zeigt uf d'Thüre hinte)
+",39,8,0.07125,0.20512820512820512
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Züegschpliesse!
 ",3,1,0.0,0.3333333333333333
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Eh jo... fir ass uns nieme störe ka...
 ",10,4,0.15816875418623538,0.4
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Was wird jetz uf mich warte!
-",12,4,0.17735711086636255,0.3333333333333333
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(se geht
+                        gehzüegschpliesse)
+",17,4,0.17735711086636255,0.23529411764705882
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 
             
-",2,2,0.0,1.0
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+'s isch bis dohi
+Jetz pràchtig gsi,
+G'wiss, ich ha Freid do dra,
+Sie müess dr Sterne ha!
+Mi Fraü merkt nit,
+Mir hàn dr Zit.
+Binander z'si, mir Zwei,
+Do ganz allei.
+",36,8,0.123125,0.2222222222222222
+unknown,Herr SCHIMMEL,M,,,"
+            
+Herr Schimmel.
 
               
-",2,2,0.0,1.0
+Mi Fraü trumpiere,
+Das wà mr prawiere!
+'s müess schnell marschiere,
+Denn schwinde thüet d'Zit!
+",18,5,0.1032,0.2777777777777778
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+            
+Jumpfer Faste.
 
               
-",2,1,0.0,0.5
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+Si Fraü trumpiere,
+Das will er prawiere!
+Fir mich z'verfiehre,
+Verliert er si Zit!
+",17,5,0.2408,0.29411764705882354
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Se schint e wenig schich z'si, die Jumpfer Tülipa... un
                         doch, wi mir mi Schwester g'sàit hat... enfin,
                         als züekünftiger Schwiegervater müess ich
                         ihre-n-Avances mache...
-",34,4,0.0,0.11764705882352941
+(lüt)
+(er sitzt ufs
+                        Kanapee)
+",43,5,0.0,0.11627906976744186
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich bi g'wiss nitt mied, Herr Schimmel!
 ",9,4,0.0,0.4444444444444444
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Eh, kàm Se doch nur, mr hàn nur e-n-Aügesblick Zit un
                         känne nitt lang Zeremonie mache!...
                     
 ",20,6,0.19144583612415692,0.3
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Nei, nei... ich will Ene respectvoll, awer ufrecht
                         züelose, wenn Sie mir ebbes z'sage hàn...
                     
 ",18,1,0.0,0.05555555555555555
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 's handelt sich jetz nitt um Respect... sitzt Se jetz do
                         ane oder Se macht mi bös!...
                     
 ",19,5,0.0876,0.2631578947368421
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Alle Heilige solle mir bisteh!
-",7,3,0.13033333333333333,0.42857142857142855
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(se sitzt ganz ans
+                        undere-n-End vom Kanapee)
+",18,4,0.09775,0.2222222222222222
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Besser züe mr, besser züe mr... mach ich Ihre denn Angst
                        
-",13,3,0.17700000000000002,0.23076923076923078
+(er macht se züe si z'rucke)
+",22,4,0.13275,0.18181818181818182
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 O Gott, o Gott!...
 ",6,3,0.32266666666666666,0.5
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich weiss nitt... awer wie me mir g'sàit hat, sott Sie
                         ganz anderscht si... me hat mir e Person
                         annonciert, e wenig original, 's isch wohr... awer mit
                         eme fröhlige Charakter... sogar e klei wenig
                         lichtsinnig!
                     
+
+          
 ",38,7,0.0,0.18421052631578946
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 D'Welt isch halt verdorwe... ich verzeih ere, wenn se 's
                         Schlechte gege mich redet!
                     
 ",17,5,0.0782,0.29411764705882354
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Voyons... thàt Se sich jetz doch nimmig verstelle!...
                         Sie traüt sich viellicht nitt z'zeige vor mir ganz
                         wie Se-n-isch... awer Sie hat' Unrecht... ich weiss jo
@@ -979,102 +1570,142 @@ Voyons... thàt Se sich jetz doch nimmig verstelle!...
                     
 ",43,6,0.14716666666666667,0.13953488372093023
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Dà Mann isch dr böse Geist selbst!
 ",13,5,0.0,0.38461538461538464
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Also, thàt Se jetz dà Larifari absite lo... Sie denkt
                         wohl, ass mir uns z'erst e wenig versteh mien, we
                         mr mi Fraü wànn trumpiere mitnander.
                     
 ",29,6,0.18099999999999997,0.20689655172413793
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ihre Fraü trumpiere!
 ",5,2,0.0,0.4
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Oh, 's isch nitt difficil... awer doch, mit ihre-n-Idee,
                         wo se hat, werde mr Mieih ha, fir ihre-n-unsere
                         Liewesg'schichte mache z'acceptiere!
                     
 ",28,3,0.0,0.10714285714285714
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Worum bin ich nitt mit Taübheit g'schlage!
 ",13,2,0.0,0.15384615384615385
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Awer Sie brücht kei Angst z'ha... ich will mi Wille scho
                         duresetze... un ich will nitt rüehe, bis ich
                         Ihre Wunsch erfillt ha!
                     
 ",26,5,0.3447202980056957,0.19230769230769232
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Mi Zunge-n-isch as wie g'lähmt!
 ",13,2,0.0,0.15384615384615385
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Eh bien... was hat Se denn... ich verstand Se wirklig
                         nitt... e-n-andere-n-an Ihrem Platz hatt mich scho
                         lang um dr Hals gnu, fir sich z'bedanke!
                     
 ",32,7,0.09038214524927736,0.21875
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Dr Abscheü macht mich z'verstumme!
 ",12,3,0.0,0.25
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 So thàt Se denn emol rede!
 ",8,2,0.0,0.25
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (steht uf)
 Jà, ich will rede, Sie verbrecherischer Mensch ass Sie
                         sin!... un mi Stimm soll ertöne as wie d'Trumpete
                         am jüngste G'richt!...
                     
 ",28,3,0.0,0.10714285714285714
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (steht uf)
 Was thüet Se mir jetz do verzähle, was soll das
                         bedite?...
                     
 ",17,4,0.127,0.23529411764705882
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich will rede-n-un will Ihre-n-ehrlose Plàn in alle Lit
                         offebare!...
                     
 ",16,1,0.0,0.0625
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (geht gege se)
 Décidément... ich glaüb wirklig, Sie verliert dr Kopf!
                     
 ",15,5,0.08574682031877043,0.3333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Riehre Se mich nitt a!... thien Se mich nitt mit Ihrem
                         giftige-n-Oden beftecke...
                     
 ",17,1,0.0,0.058823529411764705
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Nur g'mach... nur nitt so hitzig... 's müess do ne
                         Missverstàndniss si wohrschinlig... isch Sie denn
                         nitt...
                     
 ",19,3,0.0,0.15789473684210525
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Nei, ich bi nitt was Sie meine, Sie unverschàmter
                         Mensch, ass Sie sin... ich verwünsch Se in alle
                         Ewigkeit... dr Bode soll unter Ihre Fiesse verdärre un
                         d'Pest soll iwer Sie ku, ass Sie dr Schrecke um
                         sich her verbreite!
-",43,6,0.18100000000000002,0.13953488372093023
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(se g'schpliesst uf un laüft
+                        hinte-n-üse)
+
+          
+",53,7,0.15514285714285717,0.1320754716981132
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Hat me jetz scho-n-emol eso ebbes g'sàh!... isch die
                         g'schittelt?... am End isch's gar d'rechte Jumpfer
                         Faste... uf jedefall isch's die nitt, wo mir mi
@@ -1082,7 +1713,9 @@ Hat me jetz scho-n-emol eso ebbes g'sàh!... isch die
                         alles verderwe!
                     
 ",42,6,0.0,0.14285714285714285
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (kunnt hinte-n-ine, ohne si Vater z'sàh)
 Was fir e Züefall!... sie, wo-n-ich scho so lang im
                         Stille-n-abete ha, isch do... in unsrem Hüs!... ich
@@ -1090,98 +1723,176 @@ Was fir e Züefall!... sie, wo-n-ich scho so lang im
                         tiens, mi Vater!
                     
 ",47,7,0.0,0.14893617021276595
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ah, Dü bisch's, Emil... thüesch Dü mich süeche?
 ",11,3,0.19533333333333333,0.2727272727272727
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 's isch o kei Wunder... grad ha-n-ich mit dàre Person
                         g'redt un müess jetz leider glaüwe, ass es
                         d'Jumpfer Tülipa gar nitt isch!...
                     
 ",28,6,0.0,0.21428571428571427
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Un ich bi ganz sicher, ass es se nitt isch!
 ",11,2,0.0,0.18181818181818182
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Wieso das?...
 ",4,2,0.0,0.5
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Se-n-isch grad vorig nàwe mr dure-n-im Garre, ohne mich
                         z'sàh, denn ich ha mich uf d'Site g'macht, un do
                         ha-n-i se ganz güet erkennt!
                     
 ",33,5,0.0,0.15151515151515152
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Erkennt?... was witt mit dem sage?
 ",8,2,0.0,0.25
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Jetz ha-n-ich mich verrothe!...
-",11,1,0.0,0.09090909090909091
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+(lüt)
+",14,2,0.0,0.14285714285714285
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Was isch jetz das wieder fir e G'heimniss?... g'schwind
                         üse mit!... Dü sollsch in Dine-n-Elt're nit
                         verstecke!
                     
 ",21,4,0.0,0.19047619047619047
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Eh bien... 's isch gsi züer Zit, wo-n-ich noch z'Befert
                         im Lycée gsi bi... dert ha-n-ich se-n-ais g'sàh
                         mit de-n-andere-n-Elèves in dr Kirche.
                     
 
             
-",35,2,0.5743375083724708,0.05714285714285714
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+G'sang
+(Loreley.)
+Ich weiss nitt, was ich Dir soll sage,
+'s isch so unschuidig gsi,
+Dena 's stammt noch her vo sàlle Tage,
+Wo-n-ich Student gsi bi;
+Gar vielmol ha-n-ich sie bewundert,
+Ihr' Andacht hat mich g'riehrt,
+",78,4,0.3829187541862354,0.05128205128205128
+unknown,EMIL,M,,,"
+            
+Emil.
 
               
-",2,2,0.0,1.0
-unknown,EMIL,M,,,"Emil.
+Ich hätt se jetz kennt unter Hundert
+Un hätt mich nitt trumpiert!
+",13,1,0.0,0.07692307692307693
+unknown,Herr SCHIMMEL,M,,,"
+            
+Herr Schimmel.
+
+              
+Ich bi jo wahrhaft ganz verwundert,
+Ich ha mich halt trumpiert!
+",13,5,0.0,0.38461538461538464
+unknown,EMIL,M,,,"
+          
+Emil.
+
+            
+Derno wàr's also d'wirklige Jumpfer Faste, wo mr
+                            erst später erwartet hàn!... Emil, ich verbiet Dir
+                            se-n-az'lüege oder mit ere z'rede... ich zähl druf,
+                            ass Dü mir folge thüesch!
+                        
+",35,5,0.2464488542924146,0.14285714285714285
+unknown,EMIL,M,,,"
+          
+Emil.
 Wenn Dü's halt durchüs ha witt... awer...
 ",9,1,0.0,0.1111111111111111
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ich will lüege, ass ich se-n-eso bol as möglig üs em Hüs
                         schaffe ka!
                     
+
+          
 ",18,3,0.0,0.16666666666666666
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Wie eher wie liewer... ich will mit Dinere Müetter rede
                         un will hoffe-n-ass se trotz ihre-n-Idee... doch
                         ich hör se glaüb ku... do isch se... desto besser...
                     
 ",33,6,0.38465096351586503,0.18181818181818182
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Mi Müetter o noch... jetz ka-n-i nitt mit em Oscar
                         rede!
                     
 ",18,1,0.0,0.05555555555555555
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (kunnt hinte-n-ine, zornig)
 's isch schàndlig... 's isch himmelschreiend!... oh! ich
                         kenn mi nimmig vor Zorn!...
                     
 ",22,4,0.0,0.18181818181818182
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Was isch... was hasch wieder?...
 ",7,2,0.0,0.2857142857142857
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Was ich ha?... Dü brüchsch noch z'froge!... Di Complott
                         ha-n-ich entdeckt, ass Dü's nur weisch!... do
                         isch dr Brief, wo-n-ich uf Dim Secretär g'funde ha!...
                     
 ",33,4,0.0,0.12121212121212122
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Dr Brief vo minere Schwester! desto besser!...
 ",13,3,0.0,0.23076923076923078
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Emil, gang... loss uns allei...
 ",7,4,0.17575,0.5714285714285714
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich verlang nitt mehr...
-",5,1,0.6375976876654511,0.2
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(fir sich)
+(er macht
+                        dergliche-n-üse z'geh un schlicht derno, ohne-n-ass
+                        me's sieht, in d'Stuwe vom Oscar)
+",32,3,0.21253256255515038,0.09375
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
                         Schwester, wo-n-ich nitt lide ka, hàn ihr's derzüe
                         brocht, mir e falsche G'sellschaftere ins Hüs
@@ -1191,104 +1902,164 @@ Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
                         nei!... 's isch nitt erlaübt!...
                     
 ",53,9,0.0,0.16981132075471697
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Güet, ich will gli vo ihrem Irrthum profetiere...
-",14,5,0.0,0.35714285714285715
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(lüt)
+",17,6,0.0,0.35294117647058826
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Dü g'stehsch's also i!
 ",7,2,0.0,0.2857142857142857
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Natirlig... denn ich bi jo z'erst trumpiert worde... die
                         Person isch gar nitt, was me mir g'sàit hat...
                         un ihr' Betrage gege mich isch ere, b'sunders nitt
                         z'verzeihe!...
                     
 ",32,4,0.0,0.125
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Worum... was isch denn gsi?...
 ",7,2,0.0,0.2857142857142857
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Eh, vorig bin ich do züefällig allei bi-n-ere gsi... un
                         do hat se...
                     
 ",17,4,0.15816875418623538,0.23529411764705882
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Un do hat se... was hat se?...
 ",9,2,0.0,0.2222222222222222
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 D'Coquette g'spielt... ass se mir nitt e Declaration
                         g'macht hat, isch alles gsi...
                     
 ",16,3,0.0,0.1875
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Isch's möglig!...
+
+          
 ",5,2,0.0,0.4
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Wenn ich nitt eso standhaft gsi wàr... awer in dere
                         ha-n-ich's g'sàit.
                     
 ",17,3,0.0,0.17647058823529413
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Das isch jo jetz abscheülig! ich hoff, De wirsch se vor
                         d'Thüre stelle!...
                     
 ",16,4,0.164,0.25
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (fir sich)
 Ich ha's g'wunne!...
 ",10,3,0.0,0.3
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Doch, do isch se glaüb... se kunnt grad recht... ich
                         will emol mit ere rede!
                     
 ",17,5,0.08574682031877043,0.29411764705882354
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Aha... find ich Se-n-endlig, Madame Schimmel... ich ha
                         Se vergewes iwerall g'süecht...
                     
 ",16,4,0.0,0.25
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (unterbricht se)
 Ich ka nimmig schwige!... 's müess üse!... Jumpfer
                         Tülipa, Ihr' Betrage-n-isch schàndlig...
                     
 ",20,4,0.0,0.2
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 Jumpfer Tülipa?
 ",4,2,0.0,0.5
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 's isch nitt genüeg, ass Sie sich unter eme falsche Name
                         in mi Hüs g'schliche hat... awer Sie thüet sich
                         noch d'frechste Handlunge erlaüwe!
                     
 ",27,5,0.0,0.18518518518518517
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich süech vergewes Ihre Worte-n-üsz'lege!
 ",9,3,0.3593333333333333,0.3333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 's isch unnothig, ass Se sich langer verstellt!
 
             
-",10,4,0.0,0.4
+G'sang
+(O Tannenbaum)
+G'steht Sie's emol,
+Sie weisst gar wohl,
+Was ich mit dem will sage!
+",29,6,0.12766666666666668,0.20689655172413793
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 
             
-",2,1,0.0,0.5
+Ich weiss nitt, was die hàn mit mir,
+Se mache mich bol hinterfir;
+",15,1,0.0,0.06666666666666667
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+            
+Jumpfer Faste.
 
               
-",2,1,0.0,0.5
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Herr un Madame Schimmel.
+Ich kumm nitt drüs.
+Was in dem Hüs
+Ich alles müess ertrage!
+",14,3,0.211,0.21428571428571427
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Herr un Madame Schimmel.
 
               
-",4,3,0.0,0.75
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+Sie müess mr drüs,
+Denn in mim Hüs
+Ka-n-ich das nitt vertrage!
+",18,4,0.0,0.2222222222222222
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Jumpfer Tülipa, ich hätt Ere viellicht noch känne
                         verzeihe, ass Se ne falscher Name agnu hat... awer ass
                         Se noch mi Mann hat welle verfiehre, das isch doch e
@@ -1296,59 +2067,97 @@ Jumpfer Tülipa, ich hätt Ere viellicht noch känne
                     
 ",34,8,0.086,0.23529411764705882
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Thüet er mich aklage?... 's hat sunscht nit meh
                         g'fehlt...
-",12,1,0.0,0.08333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(decouragiert)
+",15,1,0.0,0.06666666666666667
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Sie ka wohl denke, ass Sie uf das hi nimmig do im Hüs ka
                         bliwe... ich gib Ere ne halb Stund, fir
                         ufz'packe!...
-",25,6,0.06383333333333334,0.24
+(Herr un Madame Schimmel gehn
+                        hinte-n-üse)
+",35,9,0.042555555555555555,0.2571428571428571
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (allei)
 Oh, se thàt mich vergewes z'ruckhalte!... mit Freide
                         will ich dà Ort verlo, wo alle Sünde sich uf-
-",25,5,0.0,0.2
-unknown,OSCAR,M,,,"Oscar
+
+          
+(se zieht 's Portrait
+                        üse)
+(se klopft
+                        an d'Thüre rechts)
+(se
+                        geht hintere, fir z'lose, eb nieme kunnt)
+",51,6,0.0,0.11764705882352941
+unknown,OSCAR,M,,,"
+          
+Oscar
 (in Mannerkleider, unter dr Thüre lislig züem
                         Emil)
                     
 Wart e-n-Aügesblick... Dü machsch Dich derno dervo,
                         wàhrend ass ich mit ere red'...
-",26,2,0.3547142217327251,0.07692307692307693
+(züer Jumpfer Faste)
+",31,3,0.23647614782181672,0.0967741935483871
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ne Herr!... ne Herr!... wer sin Sie?... wo kämme Sie
                         her?...
-",13,3,0.0,0.23076923076923078
-unknown,OSCAR,M,,,"Oscar.
+(se hebt d'Hànd vor 's G'sicht, fir ne nitt
+                        z'sah)
+",27,5,0.0,0.18518518518518517
+unknown,OSCAR,M,,,"
+          
+Oscar.
 B'schaüt se mich emol recht, Jumpfer Faste... Sie wird
                         mich derno glich wieder erkenne!
                     
 ",15,2,0.0,0.13333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Die Stimm isch mir bekannt...
-",7,2,0.0,0.2857142857142857
+(se macht langsam d'Hànd
+                        vom G'sicht)
+",16,4,0.0,0.25
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ne Herr!... e wirkliger Herr!... un si Hand isch in
                         minere Hand gsi!... un ich ha-n-em e Schmutz gà!...
                         Schand... Schand!... ewige Schand iwer mich!...
                     
 ",29,9,0.1648888888888889,0.3103448275862069
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Sie müess mr verzeihe... thàt Se mich ahöre...
 ",9,1,0.0,0.1111111111111111
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Kämme Se nitt züe mr... um kei Schritt... retro
                         Satanas!...
                     
 ",12,1,0.0,0.08333333333333333
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 's isch mr Leid... ich ha Se nitt welle beleidige... un
                         was ich Ihre vorher verzählt ha, isch wohr... nur
                         anstatt d'Jumpfre bin ich dr junge Mensch gsi, un bin
@@ -1357,59 +2166,89 @@ unknown,OSCAR,M,,,"Oscar.
                     
 ",45,6,0.08333333333333333,0.13333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 Was wird jetz eigentlig noch iwer mich ku in dem Hüs!...
                         's isch Zitt, ass ich mich uf der Weg mach...
                     
 ",27,7,0.16414285714285715,0.25925925925925924
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (kunnt vorsichtig hinte-n-üse)
 Ich müess jetz doch mache-n-ass ich furt kumm... dr Pape
                         süecht mich am End!...
-",24,2,0.5509999999999999,0.08333333333333333
-unknown,OSCAR,M,,,"Oscar.
+(er geht gege dr Thüre
+                        hinte)
+",32,3,0.3673333333333333,0.09375
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Also nit fir ungüet Jumpfer Faste... mir wànn als güete
                         Frind vonander geh...
                     
 ",14,4,0.0,0.2857142857142857
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (wo hinte g'lüegt hat)
 Herrje, d'Mame!...
-",10,1,0.406,0.1
+(er versteckt si hinter d'Vorhàng vom
+                        Fenster)
+
+          
+",20,2,0.203,0.1
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (züem Oscar)
 's kunnt ebber... gehn Se nur g'schwind wieder dert ine,
                         nitt ass me-n-uns sieht binander... ich thàt jo
                         sterwe vor Scham!
                     
 ",29,2,0.0,0.06896551724137931
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Ich zahl uf Ihre Verschwiegeheit!
-",6,2,0.0,0.3333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+(er verschwindet
+                        rechts)
+",11,3,0.0,0.2727272727272727
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (kunnt hinte-n-ine, zornig)
 Aha... er isch noch do!
 ",14,3,0.0,0.21428571428571427
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Verzeiht Se mr, ass ich no nitt furt bi... ich will mich
                         jetz grad uf dr Weg mache...
                     
 ",20,4,0.0,0.2
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ah so!... Sie wànn sich uf dr Weg mache!... 's handelt
                         sich jetz nimmig um das.
                     
 ",18,4,0.0,0.2222222222222222
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Was isch denn wieder... was mag Sie jetz in eso ne Zorn
                         bringe?...
                     
 ",15,2,0.0,0.13333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Un Sie froge noch! meine Se ebbe, ich kenn Sie nitt,
                         Herr Oscar?... vorher ha-n-ich mich trumpiert
                         g'ha... mi Mann hat mr g'stande, was an dr Sach isch
@@ -1418,12 +2257,16 @@ Un Sie froge noch! meine Se ebbe, ich kenn Sie nitt,
                     
 ",44,6,0.0,0.13636363636363635
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (fir sich)
 O das noch!... ha-n-ich denn no nitt g'nüe g'litte!...
                     
 ",17,2,0.0,0.11764705882352941
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ah so... Sie gehn uf dr Ball als Jumpfere-n-aglegt un
                         iwerrede ne junge Person, fir mit Ene z'ku, fir
                         se-n-eso z'compromittiere un glaüwe, Se derfe sich nur
@@ -1431,12 +2274,16 @@ Ah so... Sie gehn uf dr Ball als Jumpfere-n-aglegt un
                     
 ",39,8,0.141625,0.20512820512820512
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Hat Sie denn eigentlig g'schwore, mich ganz üs de Füege
                         z'bringe!
                     
 ",14,2,0.0,0.14285714285714285
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Wànn Sie's ebbe noch làigne?.. d'ganze Stadt redt
                         dervo... grad hat mir's d'Coiffeuse g'sàit... Ihr Vater
                         süecht se-n-iwerall un ebber, wo Sie kennt, hat Se jo
@@ -1445,27 +2292,55 @@ Wànn Sie's ebbe noch làigne?.. d'ganze Stadt redt
                     
 
             
-",43,6,0.0,0.13953488372093023
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+G'sang
+(partant pour la Syrie)
+'s blibt ewe nit verborge,
+'s kunnt alles wieder üs,
+Me hat Se g'sàh dà Morge
+Am Fenster do im Hüs;
+",71,9,0.10221734322242264,0.1267605633802817
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+            
+Madame Schimmel.
 
               
-",2,2,0.0,1.0
+Das isch e schöne G'schichte,
+Kei Büess isch z'härt derfir,
+Denn streng wird d'Welt Sie richte,
+Sie derfe's glaüwe mir!
+} bis
+",27,5,0.11100000000000002,0.18518518518518517
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+            
+Jumpfer Faste.
 
               
-",2,1,0.0,0.5
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+Das isch e schöne G'schichte,
+'s rüeht alles nur uf mir,
+Sie thien mich ganz vernichte,
+Ich wird noch hinterfir!
+} bis
+",24,4,0.13875,0.16666666666666666
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 G'wiss... das geht Ene jetz emol nitt dure!
 ",10,2,0.0,0.2
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich ha jetz satt an dàne Sache un will nit meh wisse...
                         ich will Gott danke, wenn ich emol üs dem Hüs
                         bi!
                     
+
+          
 ",25,5,0.0968,0.2
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Se gehn mir awer nitt eso do üse... Sie verdiene
                         g'stroft z'si.... ich ha ewe-n-o ne Tochter un bi also
                         interessiert, ass eso Verfiehrer wie Sie nitt leer
@@ -1474,197 +2349,318 @@ Se gehn mir awer nitt eso do üse... Sie verdiene
                     
 ",43,8,0.16112500000000002,0.18604651162790697
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Isch Sie denn ganz vo Sinne!... un will Se mich jetz
                         eigentlig vor aller Welt làcherlig mache!...
                     
 ",19,2,0.0,0.10526315789473684
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Einstwile g'schpliess ich Sie jetz i do!
 ",9,2,0.0,0.2222222222222222
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh nei!... thien Se das nitt!... liewer alles
                         ertrage!... thàt Sie mich binde!... macht Se was Se
                         will,
                         nur thàt Se mich nitt in dem Zimmer igschpliesse!
                     
 ",29,3,0.19672389316711267,0.10344827586206896
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ich los uf nit meh!...
-",7,4,0.164,0.5714285714285714
+(se geht hintere)
+",12,4,0.164,0.3333333333333333
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Dm alles, was Ere lieb isch, thàt Se das nitt!
-",12,2,0.3205,0.16666666666666666
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+(fir
+                        sich)
+",16,3,0.21366666666666667,0.1875
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Au revoir, Herr Oscar!
-",6,3,0.0,0.5
+(se geht hinte-n-üse un
+                        gschpliesst d'Thüre züe)
+",18,3,0.0,0.16666666666666666
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ig'sperrt mit dem junge Mensch, wo alles im Stand
                         isch!... ich, wo scho-n-eso Mieih ha, fir nitt in
                         Versüechung z'falle!
                     
 ",25,4,0.125,0.16
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Hat sich denn hit alles verschwore gege mich!...
-",10,2,0.0,0.2
+(se
+                        losst sich uf e Stüehl sinke)
+",19,3,0.0,0.15789473684210525
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ne Idee!... ich gschpliess ne-n-i un wirf dr Schlissel
                         züem Fenster üse, derno ha-n-ich nit
                         z'riskiere!...
-",23,2,0.285,0.08695652173913043
-unknown,EMIL,M,,,"Emil
+(se gschpliesst d'Thüre züe rechts,
+                        nimmt dr Schlissel, geht ans Fenster, wirft
+                        ne-n-üse-n-un sieht dr Emil)
+",46,2,0.285,0.043478260869565216
+unknown,EMIL,M,,,"
+          
+Emil
 (kunnt fire)
 Jumpfer Faste... ich wott... ich hätt...
 ",11,1,0.0,0.09090909090909091
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Herrgott, mi Heiliger!...
 ",5,2,0.1955,0.4
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Hat se mich ebbe-n-o scho bemerkt g'ha frieiher?
 ",15,1,0.0,0.06666666666666667
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Sag mir, unbekannt G'schäpf, kunnsch Dü üs em Himmel fir
                         mich z'rette... oder üs dr Häll fir mich
                         z'verfiehre!... soll ich Dich abete oder verwünsche!
                     
 ",29,5,0.1376,0.1724137931034483
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich weiss sicher nitt, Jumpfer Faste, wie Sie das
                         meint...
                     
+
+          
 ",11,2,0.0,0.18181818181818182
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Oh, ich erkenn Dich ganz güet... grad eso bisch mir als
                         im Traüm erschiene... awer nei, gang... Dü bisch
                         wohrschinlig as wie d'andere...
                     
 ",26,4,0.0,0.15384615384615385
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich bi dr Emil... dr Suhn üs em Hüs...
 ",10,1,0.0,0.1
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Was ha-n-i g'sàit... ganz eifach e Mensch... gehn Se,
                         ich will Se nitt sàh!...
                     
 ",18,3,0.0,0.16666666666666666
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Awer, Jumpfer Faste... wenn Sie wisse thàt, wie lang ass
                         ich Se scho gern ha...
                     
 ",16,3,0.12766666666666668,0.1875
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Was, er o?...
 ",5,1,0.0,0.2
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Nei, riefe Se nitt... 's isch jetz z'spot... ich ka's
                         nimmig länger üshalte... b'schaü das Bild, wo-n-i
                         scho-n-eso lang uf em Herz notrag
-",31,6,0.06430688530785134,0.1935483870967742
+(se zeigt em 's
+                        Portrait)
+",38,6,0.06430688530785134,0.15789473684210525
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 's hat mich bis dohi vor jeder andre Liewe b'schützt,
                         awer jetz ka-n-ich in sinre Macht nimmig
                         widersteh...
                     
 ",22,3,0.19672389316711267,0.13636363636363635
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Was... isch's möglig?... thàt Sie 's Kloster lo fahre
                         mir z'lieb!...
                     
 ",14,2,0.6719999999999999,0.14285714285714285
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich ha jetz g'nüeg kàmpft un g'stritte... un 's hat
                         alles nit g'nutzt... ich bin iwerwunde... ich gib Dir
                         mi Lewe, mi Seel un alles z'àmme.
                     
 
+          
+
             
-",29,3,0.15366666666666667,0.10344827586206896
+G'sang
+(Fremersberg)
+Ich ha jetz kàmpft scho lange Stunde,
+Doch d'Kraft hat mich verlo,
+Dr Böse hat mich iwerwunde
+Jetz uf dr Erde do.
+Doch wenn emol sich d'Höll ufthüet,
+So soll's mir fehle nitt an Müeth,
+Wenn Dü se theile thüesch mit mir
+Un ass ich bliwe ka bi Dir.
+",85,11,0.07672727272727274,0.12941176470588237
+unknown,EMIL,M,,,"
+          
+Emil.
+
+            
+Doch wenn emol sich d'Höll ufthüet,
+So soll's uns fehle nitt an Müeth,
+Wenn Sie se theile thüet mit mir
+Un ass ich bliwe ka bi Ihr.
+",30,3,0.0,0.1
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste
+                    ",F,,,"
+          
+Jumpfer Faste
 (zeigt uf d'Thüre hinte)
 Mr dràiht dr Schlissel um... 's kunnt ebber!
 ",17,2,0.0,0.11764705882352941
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (fir sich)
 Was wird dr Pape züe dem allem sage!
-",13,1,0.0,0.07692307692307693
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel
+(er steht hintere
+                        uf d'Site rechts)
+",22,2,0.0,0.09090909090909091
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel
 (kunnt hinte-n-ine)
 Mi güete Jumpfer Faste... wie bin ich eso ung'recht gsi
                         mit Ihre!... awer 's isch alles ans Liecht ku...
                         dr rechte Herr Oscar isch dert
-",33,7,0.09042857142857143,0.21212121212121213
+(se zeigt ufs Zimmer
+                        rechts)
+",40,7,0.09042857142857143,0.175
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Das alles macht mir jetz nit meh, Madame Schimmel, Sie
                         hätt sich nitt brüche z'derangiere wege mir...
                     
+
+          
 ",20,4,0.0,0.2
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Im Gegetheil... ich will's Ere süeche z'vergelte... denn
                         ich bi ne Munster, ass ich Sie soupçonniert
                         ha... awer Sie verzeiht mr, nitt wohr?...
                     
 ",27,5,0.1172,0.18518518518518517
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Wer verzeiht, dem wird verzeiht werde!
 ",8,1,0.0,0.125
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 A la bonne heure!... un in mim Mann o müesst Se
                         verzeihe... wo blibt er nur o
-",19,4,0.0,0.21052631578947367
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel
+(se kehrt si um un sieht
+                        dr
+                        Emil)
+",29,4,0.0,0.13793103448275862
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel
 (kunnt hinte-n-ine)
 Emil!... wo isch dr Emil!... ich süech ne jetz scho in
                         alle-n-Ecke!...
                     
 ",22,3,0.19533333333333333,0.13636363636363635
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Ich bi do gsi, Pape... bi dr Jumpfer Faste... d'Mame hat
                         is vorig ig'sperrt mitnander...
                     
 ",17,3,0.13533333333333333,0.17647058823529413
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Was bisch Dü do ku mache?... ich ha Dir's doch verbote
                         g'ha!
                     
 ",15,4,0.15825,0.26666666666666666
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Worum bisch derno nitt gange?...
 ",7,2,0.0,0.2857142857142857
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 Wil d'Jumpfer Faste dr Oscar ig'sperrt hat un dr
                         Schlissel züem Fenster üseg'worfe hat.
                     
 ",16,2,0.258,0.125
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Dr Himmel isch mi Zige, ass ich's üs ere güete-n-
                         Absicht g'macht ha!
                     
 ",17,3,0.0,0.17647058823529413
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Ah, dà Schlissel, wo-n-ich uf dr Kopf biku ha dunte im
                         Garte, isch vo do gsi... un wege dem isch dr Oscar
                         halt züem Fenster üse g'sprunge...
                     
 ",31,4,0.0,0.12903225806451613
-unknown,OSCAR,M,,,"Oscar
+unknown,OSCAR,M,,,"
+          
+Oscar
 (kunnt hinte-n-ine)
 Ich müess ku lüege, was do eigentlig vorgange-n-isch...
                         me hat mich ig'sperrt un derno ha-n-ich d'Jumpfer
@@ -1672,55 +2668,95 @@ Ich müess ku lüege, was do eigentlig vorgange-n-isch...
                         Emil...
                     
 ",40,3,0.211,0.075
-unknown,EMIL,M,,,"Emil.
+unknown,EMIL,M,,,"
+          
+Emil.
 De kasch o glich sage, ass se Schimpfworte vo minere
                         Müetter agnu hat, an Dim Platz, fir Dich nitt
                         z'verrothe!...
                     
 ",22,1,0.0,0.045454545454545456
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Das isch wohr... se hat ihre Verspreche g'halte
-",9,2,0.0,0.2222222222222222
+(züer
+                        Jumpfer Faste)
+",14,3,0.0,0.21428571428571427
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 O, ich ha jetz kei Angst meh vor Ene... ich kehr in
                         d'Welt z'ruck... ich g'spir, ass ich derfir g'macht
                         bi...
                     
 ",25,4,0.13275,0.16
-unknown,EMIL,M,,,"Emil
+unknown,EMIL,M,,,"
+          
+Emil
 (züe Herr un Madame Schimmel)
 Un wenn ihr uns d'Erlaübniss gàn, so hirothe mir
                         mitnander!
                     
+
+          
 ",19,4,0.0,0.21052631578947367
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Was, ihr wànn hirothe mitnander!
 ",7,3,0.0,0.42857142857142855
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"Madame Schimmel.
+unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+          
+Madame Schimmel.
 Ich bi jo ganz verstünt ob dàre Bekehrung!...
 ",10,3,0.0,0.3
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 Ich versprieh, Ihre Suhn glicklig z'mache; mir gehn
                         mitnander uf d'Bàll, ins Theater... ich will mich bis
                         iwer dr Kopf mittle-n-in d'Frei de vo dem Siècle werfe!
                     
 ",34,6,0.0,0.17647058823529413
-unknown,Herr SCHIMMEL,M,,,"Herr Schimmel.
+unknown,Herr SCHIMMEL,M,,,"
+          
+Herr Schimmel.
 Nur g'mach, Jumpfer Faste nur g'mach... 's isch mr
                         recht, ass Sie sich bekehrt... awér Sie müess jetz
                         nitt glich an d'andere Extremität welle!...
                     
 ",27,4,0.0,0.14814814814814814
-unknown,OSCAR,M,,,"Oscar.
+unknown,OSCAR,M,,,"
+          
+Oscar.
 Eh bien, Herr un Madame Schimmel... gàn Se-n-Ihre Sege
                         derzüe un mr wànn hoffe, ass in kurzer Zitt ne
                         ganze Heerd junge Schimmele do umelaüfe werde!...
                     
 ",29,8,0.28808437709311774,0.27586206896551724
 unknown,"Jumpfer FASTE
-                    ",F,,,"Jumpfer Faste.
+                    ",F,,,"
+          
+Jumpfer Faste.
 
             
-",2,1,0.0,0.5
+Jetz, wo-n-ich e Mann bekumm,
+Müess ich g'steh, 
+(bis)
+Ass ich nimmig wàr so dumm
+Un wott ins Kloster geh!
+",26,4,0.16025,0.15384615384615385
+unknown,alle,B,,,"
+          
+Alle.
+
+            
+D'Hiroth isch halt 's End vom Lied;
+Drum ihr Lit 
+(bis)
+Süeche-n-alle-n-eüre Hiet,
+Fir heimz'geh isch's Zit.
+",26,4,0.27549999999999997,0.15384615384615385

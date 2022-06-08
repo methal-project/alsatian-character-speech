@@ -137,9 +137,11 @@ def get_speaker_text(root, dic_person):
                 list_sp_text.append("sex_unknown")
                 list_sp_text.append("job_unknown")
                 list_sp_text.append("social_class_unknown")
-            for subkids in kids:
+            for subkids in kids.iter():
                 if (subkids.text):
                     text += subkids.text + "\n"
+                elif(kids.text):
+                    text += kids.text + "\n"
                 else:
                     text += ""
             list_sp_text.append(text)
@@ -158,6 +160,8 @@ def write_csv(list_piece, xml_out):
 
 if __name__ == "__main__":
     main()
+    
+
     
     
 

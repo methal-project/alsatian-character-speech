@@ -1,26 +1,27 @@
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/am-letzte-maskebal.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath am-letzte-maskebal
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/babette-mach-s-fenster-zue.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath babette-mach-s-fenster-zue
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/bi-de-wilde.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath bi-de-wilde
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/d-gsellschaftere.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath d-gsellschaftere
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/d-huslit-vo-dr-frau-suppedunke.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath d-huslit-vo-dr-frau-suppedunke
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/d-milhuser-in-paris.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath d-milhuser-in-paris
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/d-singstund.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath d-singstund
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/d-tante-domino.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath d-tante-domino
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/dr-astronom.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath dr-astronom
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/dr-chineserfranz.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath dr-chineserfranz
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/dr-fechtmeister.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath dr-fechtmeister
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/dr-hochzitstag.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath dr-hochzitstag
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/drei-schwarze-liebschafte.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath drei-schwarze-liebschafte
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/drizehne.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath drizehne
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/hans-dich-hats.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath hans-dich-hats
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/im-gretele-sine-kunstler.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath im-gretele-sine-kunstler
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/im-julie-si-gheimniss.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath im-julie-si-gheimniss
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/in-dr-falle.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath in-dr-falle
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/milhuser-bilder.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath milhuser-bilder
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/ne-hiroth-dur-d-extrapost.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath ne-hiroth-dur-d-extrapost
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/ne-jumpfre-wo-nitt-hirothe-will.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath ne-jumpfre-wo-nitt-hirothe-will
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/ne-scandal.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath ne-scandal
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/uf-bsuech-bi-dr-frau.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath uf-bsuech-bi-dr-frau
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/vor-un-no-dr-hochzit.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath vor-un-no-dr-hochzit
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/z-nacht-am-zehne.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath z-nacht-am-zehne
-python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/zwei-erfindunge.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath zwei-erfindunge
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/am-letzte-maskebal.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/babette-mach-s-fenster-zue.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/bi-de-wilde.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-gsellschaftere.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-huslit-vo-dr-frau-suppedunke.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-milhuser-in-paris.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-singstund.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-tante-domino.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-astronom.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-chineserfranz.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-fechtmeister.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-hochzitstag.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/drei-schwarze-liebschafte.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/drizehne.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/hans-dich-hats.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/im-gretele-sine-kunstler.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/im-julie-si-gheimniss.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/in-dr-falle.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/milhuser-bilder.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-hiroth-dur-d-extrapost.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-jumpfre-wo-nitt-hirothe-will.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-scandal.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/try.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/uf-bsuech-bi-dr-frau.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/vor-un-no-dr-hochzit.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/z-nacht-am-zehne.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/zwei-erfindunge.xml

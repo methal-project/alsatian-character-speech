@@ -1,252 +1,516 @@
-drama_type,speaker,sex,job,social_class,text
-unknown,Seppi,M,,,"
+,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+0,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (am Arm vom Franz; si sin beide vom Neüe benewelt)
                     
+
+          
 Dü... Franz... stell.. stell mi do an d'Müre
+
+          
 Un lüeg, wo mir wànn dure geh...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+1,comedy,Franz,M,,,,"
           
 Franz.
+
+          
 Los... Seppi... bisch z'bedü.. dü.. üre!
+
+          
 Kasch nimmig denn alleinig steh?...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+2,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Was, was verzählsch... De wirsch's nur meine;
+
+          
 Mi Ühre steht nitt... ich ha keine...
+
+          
 Du... Du...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+3,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (singt)
+
+          
 Ligsch mr im Sinn...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+4,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Nei Durscht
+
+          
 Ha-n-ich... das ha-n-i welle sage.
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+5,comedy,Franz,M,,,,"
           
 Franz.
+
+          
 Dü bisch mr noch e schöner Burscht...
+
+          
 Dü kasch sechs Liter küm vertrage!...
+
+          
 Do... stand do dra... ich... ich will sàh,
+
+          
 Eb uns will ebber z'trinke gà...
+
+          
 Gib.. gib acht... thüe kei Käpfle schnide!...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+6,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Loss mich nitt lang allei eso...
 
           
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+7,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (geht unter dr Boge)
+
+          
 Nei... heb Di siter an de Wide...
+
+          
 Aha... do isch e Keller scho!
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+8,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (fallt um)
+
+          
 Z'hilf, Franz!... ich ha ne Parterre g'numme
+
+          
 Un ha mi Ba.. mi Babegei
+
+          
 Ag'schla... ich.. ich glaüb, 's isch entzwei...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+9,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (vo witem)
+
+          
 Di Babegei!... die Red... die dumme...
+
+          
 Ne Aff hasch... un kei iwler glaüb!
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+10,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Mi Backebei... z'Hilf!!..
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+11,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (kunnt z'ruck)
+
+          
 Ah!... drum ewe...
+
+          
 Halt 's Mül... schrei nitt as .. wi taüb!
+
+          
 Kumm do, ass ich Dich ka ufhewe...
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+12,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann
+
+          
 (knnnt mit schnelle Schritte)
+
+          
 Wer schreit denn hier so wie ein Bär?
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+13,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (kunnt ku z'daüdle)
+
+          
 's isch kein vo uns, Herr.. Kummissär!...
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+14,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Still... schweigen Sie!...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+15,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (am Bode)
+
+          
 Dà isch noch g'lunge;
+
+          
 Er frogt und will kei Antwort ha...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+16,comedy,Franz,M,,,,"
           
 Franz.
+
+          
 Still... Seppi.... gib acht uf die Zunge...
+
+          
 's isch ha.. halt doch 's Güwerlema!
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+17,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 's isch 's Gü.. Gü... heisch em z'trinke doch...
+
+          
 's derf o fir u .. uns ebbes mache!...
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+18,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann
+
+          
 (züem Seppi)
+
+          
 Still!... reden Sie... wie ist die Sache?
+
+          
 Was machen Sie so spät hier noch?
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+19,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Ich wird mich miesse ge.. geniere,
+
+          
 Wenn.. wenn ich mich will amüsiere!...
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+20,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Na... stehn's mal auf, Sie Trunkenbold!
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+21,comedy,Franz,M,,,,"
           
 Franz.
+
+          
 Sag... Seppi... dà isch uns nitt hold...
+
+          
 Kumm... su.. sunscht git's noch Stempeneie...
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+22,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Sie haben jetzt ein Protokoll!
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+23,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (zornig)
+
+          
 Ne Procewàrwel!... mir!! jo wohl!!!...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+24,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (züem Schutzmann)
+
+          
 Herr Präsident!... Sie mien verzeihe,
+
+          
 Wenn ich nitt ufsteh ka allei...
+
+          
 Ich ha... ich jo... Sie thien's jo wisse,
+
+          
 Halt Rhumetisse in de Bei...
+
+          
 Hàn Sie mr viellicht nitt e Kisse!
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+25,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann
+
+          
 (züem Franz)
+
+          
 Wie heissen Sie?
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+26,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (züem Franz)
+
+          
 Lo.. lo..
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+27,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann
+
+          
 (züem Seppi)
+
+          
 Still, Sie!
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+28,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (fahrt furt)
+
+          
 Lo.. loss ne rede... 's kunnt mr i...
+
+          
 's isch finster... un er hat.. züem schriwe
+
+          
 Kei Fedre un kei G'schindetir...
 
           
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+29,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Was Kerl!...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+30,comedy,Franz,M,,,,"
           
 Franz.
+
+          
 Thien Sie kaltblietig bliwe,
+
+          
 Dr Seppi redt halt hinterfir,
+
+          
 's isch d'Nachtlu.. luft... Sie sàhn's jo wohl...
+
+          
 Zeig, Seppi... stand jetzt uf emol!
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+31,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Und geh'n Sie ruhig durch die Gassen,
+
+          
 Sonst werd ich Sie sogleich abfassen!...
+
+          
 Vorwärts... marsch!...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+32,comedy,Seppi,M,,,,"
           
 Seppi
+
+          
 (steht miehsam uf, unterstützt von Franz)
+
+          
 Ma.. marsch! isch gli g'sait... ich will's woge...
+
+          
 Ich mächt Se nur emol jetz froge,
+
+          
 Wo eigentlig dr Tramway steckt!...
+
+          
 Franz... lo.. los... hörsch ne niene ku?
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+33,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann.
+
+          
 Wo wohnen Sie?
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+34,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Im alte Spittel!
-"
-unknown,ne Schutzmann,M,policeman,,"
+
+        
+",lustig-z-nacht-am-zehne
+35,comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
           
 Schutzmann
+
+          
 (zeigt unter dr Boge)
+
+          
 Hier durch...
-"
-unknown,Franz,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+36,comedy,Franz,M,,,,"
           
 Franz
+
+          
 (züem Seppi)
+
+          
 Mr hàn dr Weg güet gnu...
-"
-unknown,Seppi,M,,,"
+
+        
+",lustig-z-nacht-am-zehne
+37,comedy,Seppi,M,,,,"
           
 Seppi.
+
+          
 Zeig... Franz... so heb mi denn, Dü Zittel!...
+
+          
 Herr Kummissär... Sie känne geh,
+
+          
 Mr brüche Se jetz nimmig meh!...
-"
+
+        
+",lustig-z-nacht-am-zehne

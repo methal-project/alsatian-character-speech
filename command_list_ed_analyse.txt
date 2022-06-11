@@ -24,3 +24,4 @@ python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/
 python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/vor-un-no-dr-hochzit.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath vor-un-no-dr-hochzit
 python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/z-nacht-am-zehne.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath z-nacht-am-zehne
 python3 avgEmoValues.py --dataPath ../pieces_more_info/treated_files/tei-lustig/zwei-erfindunge.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath zwei-erfindunge
+

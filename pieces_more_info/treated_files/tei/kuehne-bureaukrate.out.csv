@@ -1,240 +1,668 @@
-drama_type,speaker,sex,job,social_class,text
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+0,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (liest Zeitung)
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+1,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (rechnet eifrig.)
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+2,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 (starrt in die Luft und trämut ; das Schweigen dauert etwa eine Minute, fällt schliesslich
             Frei auf ; er beugt den Kopf leicht um den Aufsatz seines Pultes herum, gewahrt das Idyll, nimmt eine
             Zitronen- oder Orangenschale und wirft sie über das Pult Dindeschleckers hinweg, auf Frisch's
             Zeitung. Worauf er eifriges Schreiben markiert.)
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+3,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (fährt auf)
+
+            
 Ninevierzig noch emol ! Jetz stecke mr emol die Fisik uff, Babbe Dindeschlecker ! Nit emol riehwig
             sinne Zitung lase ka mr im Dienscht ! 
             
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+(nimmt die Schale und wirft sie über den Aufsatz Dindeschleckers hinweg, diesem gerade auf
+            seine Arbeit.)
+
+          
+",kuehne-bureaukrate
+4,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (gemütlich)
+
+            
 Allons, allons ! 
             
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+(wirft die Schale in den Papierkorb.)
+
+          
+",kuehne-bureaukrate
+5,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 (nimmt eine weitere Schale und wirft sie an die Zimmerdecke, derart, dass sie zurückfallend
             auf Dindeschleckers Arbeit fällt.)
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+6,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (gemütlich)
+
+            
 Allons, allons, Herr Frisch, wenn Sie's salwer nit verputze kenne, wurum warfe Sie mir so Dings a!
             
             
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+(wirft die Schale weg.)
+
+          
+",kuehne-bureaukrate
+7,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Was? Ich?
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+8,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Wer sunscht denn ?
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+9,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Am And gar ich, hm ?
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+10,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Egal wer ! Ich will minne Rüehj ha! Einer von Euich isch's sicher, wu so Fisik tribt ; wenn's jetz
             nit uffheert, pack i eifach dr eint un verhaui dr ander drmit, drno isch dr Richtig scho drbi, soviel
             weiss i drno wenigschtens.
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+11,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Dü verstehsch awer o gar kä Spass !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+12,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Spass hin, Spass har! Ich bin gwis e dummer Teuifel, awer alles wird eim emol z'güet - halt nei: E
             gueter Teuifel awer alles wird eim z'dumm mit dr Zit : Wenn i schaff, hann i nix drgege, wenn
             Dummheite g'macht ware, awer wenn i Zittung lies, drno mecht i minne Rüehj ha!
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+13,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (tritt ein)
+
+            
 Messieurs, jetz awer gmietlig, dr Alt müess glich kumme, ich mein, ich heer ne scho !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+14,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 ( im leichten Staubmantel, tritt ein, bleibt jedoch hinter der geöffneten Tür stehen. Im
             Tonfalle Linsespalter's :)
+
+            
 Bonjour Messieurs ! Tout le monde est là, personne ne manque ?
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+15,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (wirft schnell die Zeitung in den Papierkorb ; Hasepfeffer kichernd ab.)
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+16,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 Bonjour Monsieur Linsespalter !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+17,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (tritt lachend vollends herein)
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+18,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (durcheinander)
+
+            
 So ne Hanswurscht ! E so ne Kamel ! Alle Morge d'gliche Fisik im Schadel.
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+19,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (mit seiner wirklichen Stimme)
+
+            
 Un alle Morge falle Ihr prompt uff dr gliche Schwindel inne ! 
             
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+(auf seinen Platz deutend, im Tonfall Linsespalters)
+ C'est vraiment étonnant ! Toujours
+            quand je suis là, il n'est pas ici et quand je suis ici, il n'est pas là ! 
+            
+(die andern lachen)
+ C'est pourtant déjà 8 heures 40 !
+
+          
+",kuehne-bureaukrate
+20,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (tritt hastig ein)
+
+            
 Achtung, Ihr Herre! Jetz kummtr wirklig!
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+21,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (tritt schnell ein)
+
+            
 Bonjour, Messieurs ! Tout le monde est là, personne ne manque ?
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+22,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (während Fröhlich eiligst den Hut; an den Nagel hängt, sich auf den leeren Platz setzt und die
             Feder zur Hand nimmt)
+
+            
 Bonjour Monsieur Linsespalter !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+23,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (will in sein Zimmer gehen, stutzt)
+
+            
 Sie hann jo dr Mantel noch a, Monsieur Fröhlich? Sinn Sie jetzt erscht kumme ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+24,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Nei, nei, Monsieur Linsespalter, ich bin scho sitter am achte do! S'isch m'r numme e bizzi
             z'frisch gsi, do inne !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+25,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Was ? Im Jüli ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+26,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Doch, doch, s'isch so ! Lüege Se, ich schrieb jo scho'ne ganze Zit lang ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(er kritzelt schnell einige Buchstaben auf's Papier und zeigt es Linsespalter)
+ S'isch
+            jo noch nass, sahn Se ! 
+            
+(wischt mit der Hand darüber)
+
+          
+",kuehne-bureaukrate
+27,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (streng)
+
+            
 Ich weiss Bscheid! Sage Sie mir kurz un bindig, worum Sie hit scho widder 3/4 Stund z'spot sinn
             !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+28,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Après vous M. le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+29,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Reschpektiere Sie mi Grad !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+30,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Garn !
+
+            
 (einlenkend)
+
+            
 Awer sahn Sie, Monsieur Linsespalter, das mien Sie doch versteh kenne, dass mr sich emol
             vrschloft, bsundersch, wenn mr e so ne unriehwige Nacht g'ha hat wie ich! Minne Fraui hat hinicht e
             Kindbett g'ha!
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+31,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Scho widder ? Das hann Sie mir doch erscht vor 14 Tag vrzehlt bim gliche Anlass !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+32,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (trocken)
+
+            
 O, quant à cela ! Ich dank, das se noch mankmol eins wird ha ..... Vor 3 Wuche hat se sich erscht
             als Hewamm etabliert.
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+33,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Uff alle Fall därf das kä Grund si fir Sie, alle Tag z'spot z'ku ! Vous rattraperez le temps ... 
             
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+(ab nach links)
+
+          
+",kuehne-bureaukrate
+34,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Oui, Monsieur ! 
             
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+(leiser)
+... le 31 février !
+
+          
+",kuehne-bureaukrate
+35,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Ja, ja, die güete, alte Zitte. Zu minnre Zit, do isch's noch gmietliger gsi, do isch's noch
             gmietliger zuegange uff dr Administration ! Wu'n ich noch in Paris gsi bin, uff'm ministère des
             décorations, do sinn die Herre kumme un gange, wie se hann welle un kä Mensch hat e Starweswärtle
             drzüe gsait! Awer hit-ze-tags ! .....
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+36,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (aus seinem Bureau rufend)
+
+            
 Hasepfeffer !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+37,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (brummelt)
+
+            
 Küm isch'r do, scho fangt die Rennerei a !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+38,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Vrlangt wird doppelt so viel as friehjer .....
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+39,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 ..... Un g'schafft dr zehnte Teil drvu !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+40,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (dringender, immer aus seinem Bureau)
+
+            
 Hasepfeffer ! ! Ha-se-pfeffer ! ! !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+41,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Ha jo ! Ich kumm scho ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(will links ab)
+
+          
+",kuehne-bureaukrate
+42,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (erscheint unter seiner Tür wütend)
+
+            
 Hasepfeffer, wurum kumme Sie eigetlig nit glich, wenn i rief ?
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+43,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Awer Monsieur le Chef, ich kumm jo scho ! Wu'n ich noch in Paris uff'm ministère des décorations
             gsi bin, do....
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+44,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (kurz)
+
+            
 Ich kenn das ! .. Do isch's ewe gmietliger züegange! Awer bi uns geht's ewe nit gmietlig züe! Do
             gehl's sogar arg ungmietlig züe ! Merke Sie sich das !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+45,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Oui, Monsieur le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+46,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Wurum hann Sie eigetlig bi mir dr Bode nit g'wischt ?
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+47,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Hä ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+48,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Wurum Sie bi mir dr Bode nit gfajt hann ? — Un sage Sie nit « hä » zue ihrem Chef !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+49,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Oui, Monsieur le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+50,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Sofort namme Sie Base un Schüfel in d'Hand !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+51,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Oui, Monsieur le Chef .....
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+52,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 ... Verstehn Sie mich ! —
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+53,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Oui, Monsieur le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+54,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Un putze mir dr Bode uff !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+55,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Oui, Monsieur le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+56,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (aufgebracht)
+
+            
 Sage Sie nit immer « Oui, Monsieur le Chef! »
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+57,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Non, Monsieur le Chef !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+58,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 ..... un mache sie ringer Ihre Arbeit besser ! 
             
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+(ab)
+
+          
+",kuehne-bureaukrate
+59,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Non, Monsieur le Chef! ..... Eh... eh ... Oui Monsieur le Chef ! ..... Nundebibbl noch emol, isch
             das e Behandlung, wu m'r im e alte, im Dienscht graui gwordene Beamte z'Teil warde losst? ! Züe
             minnre Zit, wu'n ich noch in Paris gsi bin, am ministère des décorations .....
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+60,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (klopft ihm begütigend auf die Schultern)
+
+            
 Ja, ja, Hasepfeffer, do isch's noch gmietliger zuegange ! Zu minnre Zit ewefalls ! Ich bsinn mi
             noch ganz guet ! Sallemols, wu'n ich als junger Dachs in das bâtiment kumme bin, hat mich mi Chef ab
             d'Sitte gnumme un hat gsait : « Dindeschlecker, » hat'r gsait, sait'r, « merke Euich eins güet :
@@ -244,638 +672,1855 @@ Ja, ja, Hasepfeffer, do isch's noch gmietliger zuegange ! Zu minnre Zit ewefalls
             Vaterunser ! S'andre lehre-n-Ihr drno alles naweszue mit dr Zit! » Un eso, Hasepfeffer, isch's
             g'halte worde, ich ha alles andre no-z'no o kapiert un bin uff die Art e brüchbarer Beamter worde
             !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+61,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 So isch's, Herr Dindeschlecker ! Mir Alte, mir kenne ebbs vrzehle, awer do, die junge Litt, die
             meine, 's müess alles trapp-trapp gschah, die meine, unsereins hätt vier Hand un an jedre zeh Finger
             !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+62,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Un was nutzt's? Dr Amtsschimmel galoppiert doch nit schnaller ! Immer langsam vora .....
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+63,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 ..... So kummt m'r am wittschte ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(zieht hinter dem Ofen Schaufel und Besen hervor, die er jedoch sofort hinter seinem Rücken
+            versteckt, wie er hört, dass Linsespalter's Tür geht.)
+
+          
+",kuehne-bureaukrate
+64,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Hasepfeffer ! Wird's boll? Ich sieh scho, nachschtens müess i doch Ihre mise à la retraite
             beantrage, das isch kä Macherei mehr mit Ihne !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+65,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (indem er sich umwendet und gegen die Tür rechts geht, Besen und Schaufel aber so hält, dass
             Linsespalter sie nicht sieht)
+
+            
 Oui, oui, Monsieur le Chef, ich kumm glich, grad hann i gmerkt, dass i Base un Schüfel noch unte
             an dr Porte hann — ich kumm glich ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(rechts ab.)
+
+          
+",kuehne-bureaukrate
+66,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Monsieur Frisch, voilà encore une affaire que vous avez mal traitée! C'est pourtant un cas
             intéressant!
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+67,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Soll m'r denn dam alte Invalid d'augmentation vu sinnre Rante nit bewillige ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+68,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Mais bien sûr! Nadirlig soll mr's ihm bewillige, mais dans la forme prescrite, eso wie's
             d'Dienschtvorschrifte vorschriewe ! Namme Sie emol Ihre Dienschtvorschrifte mit heim z'nacht un
             stecke Sie d'Nas dri statt Dummheite z'mache ! Wu'n ich noch jung gsi bin wie Sie, wisse Sie, was ich
             do gmacht hann ?
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+69,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (ironisch)
+
+            
 Nei !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+70,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Uff eigne Koschte, mit minne erschte ersparte Sü hann i mr se alle agschafft ! Fir dass i se immer
             d'heim hann un se nit brüch uff's Bureau z'ruckbringe am e Morge ! Un am e Sunntig z'mittag, do isch
             gebiffelt worde, statt Schnackedanz im Kopf z'ha !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+71,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Ja, was isch denn do latz an dare ordre ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+72,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Was latz isch? Alles! Sie schriewe do ganz eifach, dass d'augmentation vu 75 uff 80 Franke im
             Monet bewilligt isch ! Mais ce n'est pas exact! Ce n'est pas exact ! Wisse Sie denn nit, was in dr
             Dienschtvorschrift 1279 § 715 bis Absatz 25 steht? Erscht isch d'jetzige Rante ganz z'striche un drno
             erscht d'neije z'beantrage.
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+73,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Wenn awer da Invalid in dr Zwischezit vrhungert, ich mein in dr Zit zwische dr Strichung un dr
             Neuibewilligung ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+74,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Ganz egal! D'Dienschtvorschrifte welle's eso ha un eso wird's gmacht !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+75,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Drno kummt's awer doch uff eins üsse !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+76,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Hann Sie sich um das z'bekimmere ? Um d'Dienschtvorschrifte hann Sie sich z'bekimmere, voilà tout!
             Un jetz kumme Sie emol mit m'r ! 
             
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+(im Abgehen)
+ as intéres sant, un cas vraiment intéressant, e enorm interessanter Fall !
+            
+            
+(mit Frisch links ab)
+
+          
+",kuehne-bureaukrate
+77,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (ironisch)
+
+            
 Hann'r 's g'heert, Babbe Dindeschlecker, was fir interessante Fall bi uns vorkumme, hann'r 's
             g'hert ?
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+78,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Ar isch, glauib, güet g'lünt, hit dr Chef ! Wohrschints isch'r mit'm linke Bei z'erscht uffgstande
             !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+79,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Wisse-n-Ihr awer o, Babbe Dindeschlecker, wels dr interessanteschte, m'r möcht sage, dr einzig
             interessante Fall isch in re Verwaltung ?
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+80,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Weller ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+81,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Ich will's Euich verrote, vu allei kumme Ihr doch nit druff! Das isch, wenn dr quatorze juillet
             uff e Fritig oder uff e Zischtig fallt !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+82,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 ... Ihr meine?...
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+83,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Denn drno wird vum Fritig uff dr Sunndig oder vum Sunndig uff dr Zischtig dr « pont » gmacht !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+84,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (lacht)
+
+            
 Was Ihr allewil fir Plan im Schadel hann ! Ihr sinn immer dr glich, Herr Fröhlich !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+85,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (kommt kopfschüttelnd aus Linsespalters Bureau)
+
+            
 Do lüeg emol einer da Kitt a! Ich ha gschriewe : « Je vous envoie », dr Herr Sous-Inspecteur
             schickt's zuruck, 's miesst heisse : « Je vous transmets. » Heiliger Bürokratius, erbarme di ! Isch
             denn das nit g'hoppst wie gsprun-ge : « je vous envoie » un « je vous transmets ! »
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+86,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (kommt schnaubend von rechts)
+
+            
 Messieurs, do unte isch e Obstkarre mit Orange ! Scheene guldegale, sechs Stick fir e Franke ! 
             
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+(geht in Linsespalters Zimmer, ab)
+ Fröhlich — Frei : Uh, Juhu ! Ju ! 
+            
+(eilen lärmend rechts ab.)
+
+          
+",kuehne-bureaukrate
+87,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (kopfschüttelnd)
+
+            
 Junge Lit, junge Lit! D'Jugend will üstowe, was will mr mache drgege ? Am beschte : Nix ! So lang
             as 's Asah vu dr Vrwaltung nit gschadigt wird, so lang ass noch Reschpakt do isch vor dr Owrigkeit,
             solle se ihre Freid un Luscht ha, so viel ass's uff mich akummt! 
             
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+(den andern nach, ab.)
+
+          
+",kuehne-bureaukrate
+88,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 So, jetz isch's changiert ! Jetz han i « transmets » gsetzt fir « envoie. » Jetz bin i gspannt,
             was dr Herr Inspecteur drzüe sait, dr Herr Sous-Inspecteur isch z'friedegstellt. Awer 1000 :1 will i
             wette, dass dr Herr Inspecteur noch emol e Anderung vornimmt ! 
             
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+(ebenfalls rechts ab.)
+
+          
+",kuehne-bureaukrate
+89,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (kommt aus Linsespalters Zimmer, geht zum Ofen und zieht dort einen Eimer hervor,
             kopfschüttelnd)
+
+            
 Dr Kalander hann i ihm vrgasse abz'risse, m'r wird halt schwach im Kopf im Alter! Awer das hätt'r
             schliesslig salwer merke solle, dass hit nimm Sundig isch ! 
             
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+(ab in Linsespalters Zimmer. Die Bühne bleibt einige Augenblicke leer, dann steckt Walfisch
+            den Kopf zur Tür rechts herein.)
+
+          
+",kuehne-bureaukrate
+90,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Nu, das heisst jetz à Vrwaltung ! Löb, wie wird dr ! Kei Mensch weit, kei Mensch breit ! A
             Stilleben, à Stilleben, à Maler könnt dran han seine Freid ! Grad wie an dr Poscht, grad wie an dr
             Bahn : 36 Schalter un uff 35 steht : « Fermé. » Nu komme Se halt herein, Herr Löb Walfisch — nei Löb
             Walfisch — selig ! 
             
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+(tritt ein)
+ S'isch halt à Vrwaltung, à Ad-mi-ni-stra-ti-on, was will mr meh! Bi mir im
+            Geschäft wär sowas nit vorkumme, trotzdem isch's Geschäftlich gegange pleite ! 
+            
+(geht an den ersten Tisch rechts, setzt sich und frägt ins Leere)
+ Nu, wer sinn Sie, was
+            welle Sie? 
+            
+(steht auf, stellt sich vor den Tisch hin und spricht zu diesem hin)
+ Nu, ich möcht halt
+            rede mit'm Monsieur le Chef de Bureau ! 
+            
+(setzt sich wieder wie vorhin)
+ Dr Herr Chef de Bureau isch no nit do ! 
+            
+(steht auf, wie oben)
+ Nu, wie heisst, ich kann warte ! 
+            
+(setzt sich wieder, etc. wie oben)
+ So, setze Sie sich derwilsch ! 
+            
+(steht auf etc. wie oben, mit höflicher Verbeugung gegen den leeren Platz)
+ Merci,
+            vielmols, Ihr Herre ! Das isch emol e heeflige Vrwaltung, so wird mr nit empfange iwerall ! 
+            
+(mit Verbeugung)
+ Ich bin so frech ! 
+            
+(setzt sich in der Nähe der Tür Linsespalters auf einen Stuhl, zieht ein Zeitungsblatt aus der
+            Tasche, entfaltet es bedachtsam und liest in ruhigem Tonfall)
+ « Statt besonderer Anzeige ! » «
+            Heute entriss uns der Tod unsern innigstgeliebten Löb Walfisch » 
+            
+(zum Publikum, auf sich deutend)
+ Das bin ich! .... « in der Blüte seiner Jahre, auf dem
+            Höhepunkt seines Schaf-fens..... 
+            
+(er lässt das Blatt sinken und wiederholt leise)
+ « in der Blüte seiner Jahre, auf dem
+            Höhepunkt seines Schaffens ! » ..... Isch das scheen, isch das scheen ! Grad hile kennt mr, grad
+            hile, so scheen isch's — wenn m'r 
+            
+(er spricht « wennémr)
+ da Schwindel nit hätt' gemacht salwer ins Blättle ! Awer was
+            will mr 
+            
+(willémr)
+ mache ? Was will mr mache ? Was will mr mache, wenn mr 
+            
+(wennémr)
+ hat gsteckt dem Mündel sei Geld in sei eiges Gschäftlich, wo 
+            
+das Gschäftelich hat gemächt pleite? Was wit mache, Löb Walfisch, jetzt wo dr Windmacher
+            isch gekomme heim — unverhofft — unerwarte — dod geglauibt un dod erklärt vor 3 Wuche -, wo dr
+            Windmacher isch gekomme heim, e Sportsgrösse, e ge'achter, grausser, amerikanischer Boxer, ä
+            Boxprofesser! Was willsch do mache, Löb Walfisch, sag, was kannsch do mache, wenn'r reklamiert sei
+            Geld ? Dei' eigne Todesannonce in 's Blättelich setze, still wie de Nacht iwer's Bächle schwimme un
+            schaue, wie de's witterscht tribsch ! 
+            
+(weiter lesend)
+ « Alle, die ihn kannten, werden unsern Schmerz zu würdigen wissen » 
+            
+(für sich)
+ am meischte dr Windmacher ! 
+            
+(lesend)
+ « Das Leichenbegängnis findet nicht hier statt. » 
+            
+(für sich)
+ Das vrsteht sich! 
+            
+(lesend)
+ « Blumenund Kranzspenden dankend verbeten. » 
+            
+(mit leisem Lachen)
+ Das hätt ich eigetlig nit solle setze ins Blättle, mr hätt gsah,
+            wer noch ahanglig isch an so me arme bankrotte Walfisch ! 
+            
+(Die Tür links wird aufgestossen und der fegende Hasepfeffer jagt Walfisch eine ganze Ladung
+            Staub auf Gesicht und Kleidung)
+ Au weih gschrie! Wos ä Untat, was ä Untat! Die ganz Wüste
+            Saharah jagt mir dr Herr uff d'Kleider !
+
+          
+",kuehne-bureaukrate
+91,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Ach, Pardon Monsieur, awer wie kumme Sie denn do inne, sage Se emol !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+92,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Nu, Herr Amtsvorstand, wie wir ich kumme si do inne ? Dur das Tirelich, wu sunscht ?
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+93,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 (mit Dindeschlecker und Fröhlich von rechts)
+
+            
 E wunderscheener Summermorge hit! Un mir arme Süschriewer, mir Unglickswirmer mien in da Stall
             hocke — acht Stunde lang, Tag fir Tag !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+94,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 S'isch unser Los, was welle-n-r ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+95,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Allez, Kinder, grine nit drwage ! Hit isch jo scho Mantig un iwer — iwer — iwer — iwer — iwer-morn
             scho widder Sunntig !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+96,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Ssst! Ssst! Ihr Herre! Dr Alt isch ferchterlig bees g'lünt hit !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+97,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (eintretend, hat die letzten Worte gehört ; eifrig)
+
+            
 Drno schitte nüumme Oel uffs Fir ! Hasepfeffer, bringe-n ihm schnall das Gsudels wieder zruck un
             sage'n'm, dr Herr Inspecteur isch nit d'accord mit'm Herr Sous-Inspecteur un losst sage, das war
             miserabel Franzeesch, s'miesst heisse: « Veuillez trouver ci-inclus ..... »
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+98,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Bon! Do vrplatzt'r vor Wuet, dr Alt!
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch:
+
+          
+",kuehne-bureaukrate
+99,comedy,Frisch,M,,,,"
+            
+Frisch:
+
+            
 Sage awer racht ditlig : « Miserawel ! »
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+100,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Très bien, 's wird bsorgt !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+101,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Un dr ganz Kitt soll neij gschriewe warde, — s' isch jetz scho zwei Mol radiert - nochhar direkt
             im Herr Inspecteur divisionnaire vorz'lege !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+102,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Bon! Bon!
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+103,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Was hann Sie welle, Monsieur ?
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+104,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Mit'm Chef rede will dr Herr !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+105,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Namme grad dr Herr mit inne !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+106,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (klopft kräftig an ; es erfolgt keine Antwort. Er klopft noch einmal und tritt dann
             energischen Schrittes ein. Er trägt ein Lederköfferchen in der Hand, welches er im Ver- lauf der
             folgenden Scène in der Nähe des Ofens absetzt.)
+
+            
 Bonjour Messieurs !
-"
-comedy,die_andern,M,,,"Die Andern :
+
+          
+",kuehne-bureaukrate
+107,comedy,die_andern,M,,,,"
+            
+Die Andern :
+
+            
 (antworten nicht ; alle schreiben eifrig. Einer knurrt eine unverständliche Antwort.)
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+108,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (lauter)
+
+            
 Bonjour Messieurs !
-"
-comedy,die_andern,M,,,"Die Andern :
+
+          
+",kuehne-bureaukrate
+109,comedy,die_andern,M,,,,"
+            
+Die Andern :
+
+            
 (schreiben ruhig weiter)
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+110,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (betrachtet sie eine Weile mit verschränkten Armen, dann tritt er heftig gegen den Ofenschirm
             ; schreit)
+
+            
 Bonjour Messieurs ! !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+111,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (voller Würde)
+
+            
 Sie brüche sich do nit eso uffz'fiehre, Sie solle wisse, wie m'r sich in re Vrwaltung gegeniwer
             benimmt !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+112,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Was welle Sie eigetlig ?
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+113,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Mi Namme isch Windmaker 
             
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+(spr. Ueindmeker)
+ Fred Windmaker, Professeur de Boxe in Michigan U. S. A. !
+
+          
+",kuehne-bureaukrate
+114,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Hahaha ! Nit schlacht! Sie sinn dr Windmacher Freddy üs Pfatzehüsse ?
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+115,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 So isch's ! Was isch do lacherligs drbi ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+116,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (lachend und mit abwehrender Gebärde)
+
+            
 Drno gehn Se numme glich widder uff Michigan U. S. A. Sie sinn dod!
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+117,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Was bin ich? Dod ?
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+118,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Sie sinn dod fir uns !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+119,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (stellt sich breitspurig vor Dindeschlecker hin)
+
+            
 Oho, ich bin dod !
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+120,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Vor 3 Wuche erscht sinn Sie fir dod erklärt worde !
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+121,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Drum gehn Se ringer glich widder, nit dass Se noch mit'm Staalsanwalt in Konflikt kumme !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+122,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Nit iwel ! Un drbi bin i fidel un munter wie ne Fisch im Wasser !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+123,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Gehn Se, Mann, gehn Se! Ich rot Ihne numme güet ! Gehn Se !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+124,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Wenn ich awer nit dod bin ? Was drno hm ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+125,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Fir uns sinn Se dod !
-"
-comedy,Frei,M,office_worker,lower_class,"Frei :
+
+          
+",kuehne-bureaukrate
+126,comedy,Frei,M,,,,"
+            
+Frei :
+
+            
 Müsdod !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+127,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Do steht's schwarz uff wiss in unsre Akte ! Vor 6 Monet scho hat m'r Sie in de hiesige Zittungen
             uffgebotte ; worum hann Sie sich nit g'malde, wenn Se noch am Lawe sinn ?
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+128,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Was Sie sich ibilde! Glauiwe Sie villicht, ich lies driwe in Amerika Euire Kasblättle ? Awer,
             schliesslig, — was gehn mich Euire Bürokratefisik a! Me voilà gsund un lawandig ! Mir-a kenne Ihr
             Euich danke, ich seig widder ufferstande !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+129,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Fir uns sinn un bliwe Sie dod !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+130,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (drohend)
+
+            
 Herr! 
             
-"
-comedy,alle,M,,,"Alle :
+(krempelt die Aermel auf und packt Dindeschlecker am Kragen)
+ Herr ! Noch ei Wort un Sie
+            bekumme eine g'langt — von're Dodehand — dass Se noch 6 Wuche dra danke !
+
+          
+",kuehne-bureaukrate
+131,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (durcheinander)
+
+            
 Das isch Beamtebeleidigung — Körperverletzung — Drohung. — M'r verklage Sie !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+132,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Was isch das? Vrklage welle Ihr mich? Très bien! Z'erscht heisst's, ich seig dod un jetz welle Ihr
             dà dode Mann o noch vrklage ! Nit schlacht, nit iwel ! 
             
-"
-comedy,alle,M,,,"Alle :
+(einlen- kend)
+ Nei, Ihr Herre ! Spass apartig ! Ich ha o Vrstandnis fir Humor, awer was
+            mich do anefiehrt, das isch e hocharnschte Sach ! Mi Vrmöge will i widder, mi Eige- tum, wu ne
+            gwisser Walfisch, Löb Walfisch, vrwalte hat, un — wie'n ich erfahre hann - schlacht vrwalte, pour
+            ainsi dire : unterschlage hat ! Un jetz lehn Se mich zu Ihrem Chef inne, do isch dankwohl d'Tire ! 
+            
+(will links ab).
+
+          
+",kuehne-bureaukrate
+133,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (ihn zurückhaltend)
+
+            
 Grad isch e Herr drinne bim Chef ! Sie derfe jetz nit inne. — Warte Sie noch e Rung !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+134,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Bon! Ich bin kä Unmensch ! Ich kann warte — awer nit länger als 5 Minüte wart i! 
             
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+(Auf und ab)
+ Do drinn ka's e gsunder Mensch gar nit üshalte ; e Luft, e Luft —
+            s'reinschte Bazilleheim ! 
+            
+(will rechts ab ; bleibt an der Tür stehen, zieht aus einem Aktenschrank ein Bündel Akten
+            heraus, die, Staub aufwirbelnd, zu Boden fallen)
+ A propos, was hann'r denn do fir Gekrizels —
+            das Dings isch jo ganz fattig — stauiwig, vrschmiert un vrschimmelt !
+
+          
+",kuehne-bureaukrate
+135,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (aufgebracht)
+
+            
 Monsieur ! Das sinn Akte ! Lehn Se do d'Finger drvu !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+136,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (lachend)
+
+            
 Soo ! Akte ! Wisse Sie was, jeune homme de bonne famille ? Warfe Sie emol e Hand voll « Akte » in
             kochig Wasser, das git e prima Fleischsupp ! 
             
-"
-comedy,Frei,M,office_worker,lower_class,"Frei:
+(ab)
+
+          
+",kuehne-bureaukrate
+137,comedy,Frei,M,,,,"
+            
+Frei:
+
+            
 Monsieur, Ihre Koffer !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+138,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (zurückrufend)
+
+            
 Lehn Se ne numme steh', villicht hat'r Junge, bis i zruckkumm ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(Linsespalter kommt mit Walfisch aus seinem Bureau heraus.)
+
+          
+",kuehne-bureaukrate
+139,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 D'Vrwaltung nimmt jo harzlig, racht harzlig Ateil an dam schware Vrluscht, wu Sie dur dr Dod vu
             Ihrem .....
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+140,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 ...Cousin! ...
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+141,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 ... vu Ihrem Cousin Walfisch erlitte hann. Dr Vrwaltung kann jo viel — g'wisse Lit sage, kei Ding
             seig're unmeglig — awer alles ka se doch no nit un so isch's're leider nit gà, da arme Mann widder
             züem Lawe z'erwecke !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+142,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (während er sein Taschentuch zieht und dureh Gebärdenspiel Leid auszudrücken sucht ; für
             sich)
+
+            
 Nu, wenn de tätsch wisse !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+143,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Un drno wage dare Vrmögensvrwaltung vu Ihrem vrstorwene Cousin — wisse Sie, fir dane vrschollene
             —
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+144,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 — fir « dod » erklärte —
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+145,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Ja, fir dane « dod » erklärte Fred Windmacher, do wird Sie d'Vrwaltung emol bstelle - so in e paar
             Wuche — zur Abrachnung !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+146,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Non, non, non! Ich will nit! Ich will mitm Gschäftlich vom selige Walfisch nix hawe ze tüen ! Nix,
             gar nix !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+147,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 S'isch doch Ihre Cousin gsi !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+148,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Wie heisst « Cousin » ? Ich schlag se üs die Erbschaft, ich schlag se üs ! Wie heisst Cousin ? A
             cousin, wu mr nit hat gegriesst, wenn m'r 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(wennémr)
+ ne hat gsah! 
+            
+A cousin, wu m'r sich hat scheniert ze sage, mr isch in dr Verwandtschaft ! A cousin, wu
+            hat — mit eim Wort — gsteckt das Geld vum Windmacher in sei Gschäftelich, wo gegange isch pleite
+            !
+
+          
+",kuehne-bureaukrate
+149,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Was heer ich do ? Dr Walfisch hat im Windmacher si Vrmöge unterschlage ! 
             
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+(schreiend)
+ Das isch unerheert, das isch — do steht jo Zuchthüs druff !
+
+          
+",kuehne-bureaukrate
+150,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (ruhig)
+
+            
 Nu, Herr Linsepalter, was schreie Se denn eso mit mir? Bin ich dr Löb Walfisch oder bin ich nit dr
             Walfisch Löb ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+151,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Gwiss, gwiss ! Sie sinn ne nit, dr Löb Walfisch !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+152,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Nu also! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(triumphierend)
+ Wenn Sie's salwer sage, ich bin nit dr Walfisch Löb !
+
+          
+",kuehne-bureaukrate
+153,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Awer unerheert, schandlig, strofbar isch's doch !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+154,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Was welle Sie mache im e Dode ! M'r soll nix nochrede im e dode Mensch !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+155,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Gwiss, gwiss, z'mache isch nix meh ! Awer dr Staatsanwalt müess doch preweniert warde, ich will's
             glich bsorge! Au revoir, Monsieur ! 
             
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+(will ab in sein Zimmer, unter der Tür)
+ Monsieur Fröhlich !
+
+          
+",kuehne-bureaukrate
+156,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Herr Linsespalter ?
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+157,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Dr Herr Inspecteur divisionnaire will nit ha, dass mr schribt « Veuillez trouver ci-inclus » 's
             muess kurz un bindig heisse : « Je vous communique. » Andere Sie das Schriwe entsprachend ab, Sie
             wisse doch — ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+158,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Ja, ja, ich weiss, das wu m'r scho X-Mol umg'andert hann !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+159,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Un schriwe Sie iwerhaupit in Züekunft : « Je vous communique ». 
             
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+(ab.)
+
+          
+",kuehne-bureaukrate
+160,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Jetz, Walfisch, los ! Jetz schwimm iwers Bachle ! 
             
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+(gewahrt den Koffer Windmachers)
+ Au weih gschrie — sei Koffer! Das isch sei Koffer !
+            Jetz awer los !
+
+          
+",kuehne-bureaukrate
+161,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (öffnet die Tür ein wenig, steckt den Kopf durch den Spalt, zu Frisch)
+
+            
 Ich'r jetz allei, Euier Chef ?
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+162,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (leise)
+
+            
 Au weih! Au weih! Ar salwer ! 
             
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+(springt hinter den Ofenschirm, wo er — dem Publikum sichtbar, aber unsichtbar für Windmacher
+            — sich einen Trauerflor umbindet. Fröhlich, mit einem Schreiben in der Hand rechts ab.)
+
+          
+",kuehne-bureaukrate
+163,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 (zu Windmacher)
+
+            
 Ja, Monsieur, jetz isch'r do ! Gehn Se grad inne !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+164,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Bon ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(tritt ein, geht zur Tür links und klopft an.)
+
+          
+",kuehne-bureaukrate
+165,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (von drinnen, scharf)
+
+            
 Entrez sans frapper ! !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+166,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (trocken)
+
+            
 Merci fir d'Belehrung ! 
             
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+(tritt ein, ab).
+
+          
+",kuehne-bureaukrate
+167,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (leise)
+
+            
 Gott der Gerechte! Jetz hann i gelosse drinne dr Hüet! Was mache? Ohne Hüet kann i nit furt! Do
             fall i glich uff an dr Brucke !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+168,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (kommt aus Linsespalters Zimmer)
+
+            
 Ssst! Ssst! Herr Dindeschlecker !
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+169,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 Was gits ?
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+170,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 Dr Alt hat d'Antwort drinn uff Ihre Demande fir Ghaltsuffbesserung ! Ich ha se g'lase !
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+171,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (leise, während sie sich um Hasenfeffer arunpieren)
+
+            
 Was steht drin ? Wie heisst d'Antwort ?
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+172,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (leise)
+
+            
 Was fir glickliche Leit ! Allewil G'haltsuffbesserung, allewil Teuerungszuelag !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+173,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (geheimnisvoll)
+
+            
 S'steht drin. dass dr Vrwaltung leider kä Kredit mehr offe steh hat. fir in dam p. Dindeschlecker
             e Uffbesserung züekumme z'losse .....
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+174,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (enttäuscht)
+
+            
 Oh ! Oh!
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+175,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 ..... dass se awer, als Bewis vu Ihrem « Wohlwolle », im Personal geseniwer, bschlosse hat 
             
-"
-comedy,alle,M,,,"Alle :
+(zitierend)
+ « die von dem p. Dindeschlecker innegehabte Dienstwohnung, bisher zu 450
+            Francs veranschlagt, vom 1. 8. a. c. ab mit 900 Francs zu veranschlagen, was gewissermassen » — 's
+            steht so drinn, wortwörtlig — « was gewissermassen einer Erhöhung seiner Bezüre um 450 Francs
+            gleichkommt! »
+
+          
+",kuehne-bureaukrate
+176,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 (geben Zeichen ihrer grossen Enttäuschung)
-"
-comedy,Dindeschlecker,M,office_worker,lower_middle_class,"Dindeschlecker :
+
+          
+",kuehne-bureaukrate
+177,comedy,Dindeschlecker,M,,,,"
+            
+Dindeschlecker :
+
+            
 (erblassend)
+
+            
 O, Malheur ! Do bikumm ich jo gar nix, im Gegeteil : Ich müess noch 450 Franes mehr vrstire !
-"
-comedy,Frisch,M,office_worker,lower_class,"Frisch :
+
+          
+",kuehne-bureaukrate
+178,comedy,Frisch,M,,,,"
+            
+Frisch :
+
+            
 Was hann i gsait! Hätte Ihr numme das Gsüech nit gmacht, sallemols !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+179,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 So isch's! Ich hann Euich ewefalls abg'rote ! Ich kenn mi üs! Wu'n i noch in Paris gsi bin, am
             ministère des décorations — 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(eilt rechts ab, da Windmacher und Linsespalter aus des letzteren Zimmer heraustreten, beide
+            lebhaft gestikulierend und sprechend).
+
+          
+",kuehne-bureaukrate
+180,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Babberlababb ! Fir d'Vrwaltung sinn Sie — dod !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+181,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Awer Monsieur, ich stand doch vor Ihne, « en chair et en os »! Ich vrsicher Sie : Fred Windmacher
             üs Pfatzehüse, Professeur de Boxe in Michigan U. S. A.
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+182,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 So ka ne jeder kumme ! isch Ihre Todeserklärung !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+183,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Die mächt i gsah !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+184,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Pardon — die geht. Sie gar nix a!
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+185,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Se betrifft awer doch mich !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+186,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Das sinn unsre Sache, do driwer hat d'Vrwaltung « z'befinde » !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+187,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Ich bin doch nit dod !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+188,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (scharf)
+
+            
 Das müess d'Vrwaltung besser wisse als Sie!
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+189,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Jetz heert awer alles uff ! Jetz hann i gnüe ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(zieht den Rock aus, eilt an den Koffer, entnimmt ihm ein paar Boxhandschuhe und macht. sich
+            zum Boxen fertig.)
+
+          
+",kuehne-bureaukrate
+190,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (ängstlich schreiend)
+
+            
 Herr Frei, Herr Frisch ! Alarmiere Sie d'Polizei, ar wird aggressiv! Ar wird handgriflig ! Ich
             teleponier in dr Staatsanwaltschaft ! 
             
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+(in sein Zimmer, ab : er schliesst hörbar die Tür hinter sich zu, Frei und Frisch nach rechts
+            ab ; Dindeschlecker einige Male 
+            
+ängstlich um den sich fertig machenden Windmacher herumhüpfend, eilt, einem plötzlichen
+            Gedanken folgend, hinter den Ofenschirm, zu dem sich angswoll zusammendrückenden Walfisch. Beide
+            zittern.)
+
+          
+",kuehne-bureaukrate
+191,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 (mit derbem Lachen)
+
+            
 Ja, wu sinn se jetzt die Gselle ! Wu stacke se, unsre Bureaukrate ? Allons, Messieurs, uff dr «
             Ring » ! Alle mitenander, wennr welle! « Premier round ! »
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+192,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (in seinem Zimmer)
+
+            
 Ich mach Sie druff uffmerksam ! Das isch Bedrohung vu Beamte im Dienscht ! Dienscht- vorschrift
             273 e § 88, Absatz A, alinéa 2 ff. — Sie kumme ins Gfangnis, ich telefonier in dr Staatsanwaltschaft
             !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+193,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Quatsch, mi Liewer ! Ich bin jo dod! Sie wisse's jo besser als ich! Jetz muess i doch lüege, ob
             d'bewaffnete Macht boll aruckt ! 
             
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+(lachend rechts ab).
+
+          
+",kuehne-bureaukrate
+194,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (kommt mit Dindeschlecker hinter dem Ofen hervor. An der Tür links)
+
+            
 Monsieur, gann Sie mir mi Hüet, wenn's b'liebt! Sinn Se so güet, gann Sie mir mi Hüet ! 
             
-"
-comedy,Ein Inspecteur de la Sureté,M,policeman,upper_middle_class,"Der Inspecteur de la Sureté :
+(er horcht an der Tür links, wobei er öfters bittend « Monsieur » sagt.)
+
+          
+",kuehne-bureaukrate
+195,comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
 Ja, ja, mi liewer Windmacher, Dü mach'sch dr kä Begriff, wie mich das freit, e alter,
             Schüelkamerad widder az'traffe ! Voyons! Wit hasch's brocht, viel witerscht as ich! Bisch e grosser,
             geachteter Sportsmann worde, bi mir hats numme zuem bessre Schutzmann g'langt !
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+196,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 (dreht sich um, erbleicht)
-"
-comedy,Ein Inspecteur de la Sureté,M,policeman,upper_middle_class,"Der Inspecteur de la Sureté :
+
+          
+",kuehne-bureaukrate
+197,comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
 Was sieh ich do? Dr Löb Walfisch !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+198,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Wahrhaftig, ar isch's !
-"
-comedy,Ein Inspecteur de la Sureté,M,policeman,upper_middle_class,"Der Inspecteur de la Sureté :
+
+          
+",kuehne-bureaukrate
+199,comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
 (jüdelnd, aber freundlich)
+
+            
 Ja, kleiner Walfisch, ich ha g'meint, dü bisch gstorwe ! S'steht doch so scheen in dr Zitung :
             ..... « In der Blüte seiner Jahre, auf dem Höhepunkt seines Schaffens ! » .....
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+200,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Wenn's doch nur so war, wenn's doch nur so war!
-"
-comedy,Ein Inspecteur de la Sureté,M,policeman,upper_middle_class,"Der Inspecteur de la Sureté:
+
+          
+",kuehne-bureaukrate
+201,comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté:
+
+            
 Wie reimt sich denn das zamme, sag, Alterle ?
-"
-comedy,Löb Walfisch,M,law_advisor,upper_middle_class,"Löb Walfisch :
+
+          
+",kuehne-bureaukrate
+202,comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
 Nu, was soll ich sage ? Gar nit! 's wird 's beschte si!!
-"
-comedy,Ein Inspecteur de la Sureté,M,policeman,upper_middle_class,"Der Inspecteur de la Sureté :
+
+          
+",kuehne-bureaukrate
+203,comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
 Nu, weischte was, kleiner Walfisch, schwimm mit mr, saisch im Untersüechungsrichter, was ze sage
             isch ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(er nimmt den ganz Verzweifellen am Gelenk ; im Abgehen)
+ A tout à l'heure, mon ami ! A
+            tout à l'heure ! 
+            
+(mit Walfisch ab.)
+
+          
+",kuehne-bureaukrate
+204,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (öffnet zaghaft die Tür, tritt ein, Walfisch's Hut in den Händen)
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+205,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 Kumm inne, edle Akteseele, ich mach dr nix ! Grad hann se ne Doder zuem Lawe erweckt, villicht
             kumm o ich emol an d'Reih'! Einschtwile, au revoir — Sie Kaffer !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+206,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Oh ! Ich bin Chef !
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+207,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 « Chef » isch d'Mehrzahl vu « Schaf ! »
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+208,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Das isch Beleidigung, ich zeig Se a!
-"
-comedy,Fred Windmacher,M,,,"Fred Windmacher :
+
+          
+",kuehne-bureaukrate
+209,comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
 O racht, — Sie Kaffer ! 
             
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+(ab !)
+
+          
+",kuehne-bureaukrate
+210,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 (ihm nachrufend)
+
+            
 Wenn ich e Kaffer bin, drno sinn Sie e Owerkaffer, e Muschterkaffer ! He! Sie hann ebbs vrgasse ! 
             
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+(ihm den Koffer nachwerfend)
+ Do isch Ihre Muschterkoffer, Sie Muschterkaffer !
+
+          
+",kuehne-bureaukrate
+211,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 (eiligst von rechts herein)
+
+            
 Herr Linsespalter, Herr Linsespalter !
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+212,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Was gits, Herr Fröhlich, was bringe Sie ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+213,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 Dr Herr Inspecteur en Chef kocht vor Wüet. S'därf nit heisse : « je vous transmets », wie's dr
             Herr Sous-Inspecteur gsait hat, un nit « Veuillez trouver ci-inclus », wie's dr Herr Inspecteur hat
             welle ha, un o nit « je vous communique », wie dr Herr Inspecteur divisionnaire g'meint hat un nit «
             je vous adresse », wie's dr Herr Inspecteur principal adjoint a git un o nit: « Jai l'honneur de vous
             faire parvenir », wie's dr Herr Inspecteur principal salwer anegesetzt hat! Dr Herr Inspecteur en
             Chef will's anderscht ha!
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+214,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Wie will ar 's denn ha, dass me schribt ..... ?
-"
-comedy,alle,M,,,"Alle :
+
+          
+",kuehne-bureaukrate
+215,comedy,alle,M,,,,"
+            
+Alle :
+
+            
 Wie? Wie? Wie will'r 's ha?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+216,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 — dass me schribt: Je vous envoie ! »
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+217,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Ja, un was hann Sie denn z'erscht gschriwwe g'ha ?
-"
-comedy,Fröhlich,M,office_worker,lower_class,"Fröhlich :
+
+          
+",kuehne-bureaukrate
+218,comedy,Fröhlich,M,,,,"
+            
+Fröhlich :
+
+            
 « Je vous envoie ! »
-"
-comedy,Linsenspalter,M,office_manager,lower_middle_class,"Linsespalter :
+
+          
+",kuehne-bureaukrate
+219,comedy,Linsenspalter,M,,,,"
+            
+Linsespalter :
+
+            
 Drno hann mir's jo racht g'ha ! Sag i's nit immer: E Bürokrat trifft allewil dr Nagel uff dr Kopf
             !
-"
-comedy,Hasepfeffer,M,office_helper,lower_class,"Hasepfeffer :
+
+          
+",kuehne-bureaukrate
+220,comedy,Hasepfeffer,M,,,,"
+            
+Hasepfeffer :
+
+            
 (eintretend, breit)
+
+            
 Wurum denn ebbis eifach mache, wenn's kompliziert so scheen geht ? !
-"
+
+          
+",kuehne-bureaukrate

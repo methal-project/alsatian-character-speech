@@ -1,27 +1,81 @@
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/am-letzte-maskebal.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/babette-mach-s-fenster-zue.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/bi-de-wilde.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-gsellschaftere.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-huslit-vo-dr-frau-suppedunke.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-milhuser-in-paris.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-singstund.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/d-tante-domino.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-astronom.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-chineserfranz.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-fechtmeister.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/dr-hochzitstag.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/drei-schwarze-liebschafte.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/drizehne.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/hans-dich-hats.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/im-gretele-sine-kunstler.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/im-julie-si-gheimniss.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/in-dr-falle.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/milhuser-bilder.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-hiroth-dur-d-extrapost.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-jumpfre-wo-nitt-hirothe-will.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/ne-scandal.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/try.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/uf-bsuech-bi-dr-frau.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/vor-un-no-dr-hochzit.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/z-nacht-am-zehne.xml
-python3 pieces_more_info/script/emo_xml_treat.py tei-lustig/zwei-erfindunge.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig babette-mach-s-fenster-zue.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig bi-de-wilde.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig d-gsellschaftere.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig d-huslit-vo-dr-frau-suppedunke.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig d-milhuser-in-paris.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig d-singstund.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig d-tante-domino.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig dr-astronom.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig dr-chineserfranz.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig dr-fechtmeister.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig dr-hochzitstag.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig drei-schwarze-liebschafte.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig drizehne.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig hans-dich-hats.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig im-gretele-sine-kunstler.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig im-julie-si-gheimniss.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig in-dr-falle.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig milhuser-bilder.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig ne-hiroth-dur-d-extrapost.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig ne-jumpfre-wo-nitt-hirothe-will.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig ne-scandal.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig uf-bsuech-bi-dr-frau.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig vor-un-no-dr-hochzit.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig z-nacht-am-zehne.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig zwei-erfindunge.xml
+
+
+python3 pieces_more_info/script/emo_xml_treat.py tei arnold-der-pfingstmontag.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei bastian-dr-hans-im-schnokeloch.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei bastian-dr-maischter-hett-gewunne.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei bastian-e-sportschochzitt.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei bastian-hofnarr-heidideldum.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei clemens-a-latzi-visit.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei clemens-charlot.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei clemens-chrischtowe.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei clemens-gift.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei greber-d-jumpfer-prinzesse.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei greber-lucie.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei greber-sainte-cecile.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei hart-dr-poetisch-oscar.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei horsch-d-madam-fahrt-velo.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei jost-daa-im-narrehuss.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei jost-so-e-liederlicher-frack.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei kettner-uff-dr-hochzittsreis.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei kuehne-bureaukrate.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei riff-s-paradies.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei riff-sainte-barbe.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei schneegans-steckelburjer-universite-saaue.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei stoskopf-dr-herr-maire.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei stoskopf-dr-hoflieferant.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei stoskopf-ins-ropfers-apothek.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei weber-yo-yo.xml
+
+
+python3 pieces_more_info/script/emo_xml_treat.py tei2 bastian-s-gaischtert-im-huss.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 bastian-struwelpeter.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 clemens-d-brueder.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 clemens-dr-amerikaner.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 fuchs-heimlichi-lieb.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 greber-s-teschtament.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 gunther-dr-cousin-refractaire.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 hahn-jungi-madamme.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 horsch-neui-hosse.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 huck-a-gelungener-patient.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 jost-d-satisfaction.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 jost-dr-erscht-handel.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 jost-e-dienschtbott-wurd-gsuecht.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 kleisecker-dr-schnider-von-gambse.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 lasch-dr-babbler.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 riff-d-schloofere.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 riff-dr-hasestrickler.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 sengelin-d-mamsell-elis.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 stoskopf-e-diplomat.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 stoskopf-e-mordsaffar.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 stoskopf-wenn-d-fraue-wahle.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 wagner-die-greifensteiner.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 weber-am-wihnachtsowe-bym-e-kriejsblinde.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 weber-e-bissel-lieb.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 weber-wihnachtsstimme.xml
+python3 pieces_more_info/script/emo_xml_treat.py tei2 weigel-in-dr-awril-gschickt.xml

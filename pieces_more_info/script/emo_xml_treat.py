@@ -1,17 +1,23 @@
+'''
+python3 pieces_more_info/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
+
+'''
+
+
 import csv
 import xml.etree.ElementTree as ET
 import os, sys
+import pandas as pd
 
 dir_path = "./pieces_more_info/treated_files"
 xml_in = ""
-
 
 def main():
     
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
-    xml_in = "./pieces_more_info/" + sys.argv[1]
-    xml_out = dir_path + "/" + sys.argv[1][:-3] + "out.csv"
+    xml_in = "./pieces_more_info/" + sys.argv[1] + "/" + sys.argv[2]
+    xml_out = dir_path + "/" + sys.argv[1] + "/" + sys.argv[2][:-3] + "out.csv"
 
     file_personography = "./pieces_more_info/methal-personography.xml"
     tree_person = ET.parse(file_personography)
@@ -29,6 +35,19 @@ def main():
 
     list_piece = get_speaker_text(root, dic_person)
     write_csv(list_piece, xml_out)
+    short_name = sys.argv[2][:-4]
+    if ("lustig" in sys.argv[1]):
+        short_name = "lustig-" + short_name
+    df = pd.read_csv(xml_out, index_col = False)
+    df["short_name"] = short_name
+
+    info_df = pd.read_csv("./pieces_more_info/personnages-pieces.csv")
+    print(short_name)
+    genre = info_df.loc[short_name == info_df["shortName"]]
+
+    df["drama_type"] = genre["genre"].values[0]
+    df.to_csv(xml_out)
+
 
 def person_info(root):
     dic_person = {}
@@ -42,6 +61,7 @@ def person_info(root):
                 dic_line["name"] = id
                 dic_line["sex"] = sex
                 dic_line["job"] = ""
+                dic_line["job_category"] = ""
                 dic_line["social_class"] = ""
                 dic_person["#" + id] = dic_line
                 dic_line = {}
@@ -62,6 +82,7 @@ def person_info(root):
         dic_line["name"] = realname
         dic_line["sex"] = sex
         dic_line["job"] = ""
+        dic_line["job_category"] = ""
         dic_line["social_class"] = ""
         dic_person["#" + id] = dic_line
         dic_line = {}
@@ -82,16 +103,21 @@ def add_person_info(root, piece_id):
                 else:
                     persname = persname[0]
                 job = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='occupation']")
+                job_category = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='professional_category']")
                 social_class = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='social_class']")
-                dic[persname] = ["",""]
+                dic[persname] = ["","",""]
                 if (job):
                     job = job.find("{http://www.tei-c.org/ns/1.0}symbol")
                     job_title = job.attrib["value"]
                     dic[persname][0] = job_title
+                if (job_category):
+                    job_category = job_category.find("{http://www.tei-c.org/ns/1.0}symbol")
+                    cate_title = job_category.attrib["value"]
+                    dic[persname][1] = cate_title
                 if (social_class):
                     social_class =social_class.find("{http://www.tei-c.org/ns/1.0}symbol")
                     s_class = social_class.attrib["value"]
-                    dic[persname][1] = s_class
+                    dic[persname][2] = s_class
                 flag = False
     return dic
 
@@ -103,11 +129,17 @@ def merge_dic(dic, dic_person):
             if (len(key1) > 1 and len(realname) > 1):
                 if (key1[0] in realname[0] and key1[1] in realname[1]):
                     dic_person[key_p]["job"] = dic[key][0]
-                    dic_person[key_p]["social_class"] = dic[key][1]
+                    dic_person[key_p]["job_category"] = dic[key][1]
+                    dic_person[key_p]["social_class"] = dic[key][2]
             else:
                 if (key in dic_person[key_p]["name"]):
                     dic_person[key_p]["job"] = dic[key][0]
-                    dic_person[key_p]["social_class"] = dic[key][1]
+                    dic_person[key_p]["job_category"] = dic[key][1]
+                    dic_person[key_p]["social_class"] = dic[key][2]
+                else:
+                    dic_person[key_p]["job"] = ""
+                    dic_person[key_p]["job_category"] = ""
+                    dic_person[key_p]["social_class"] = ""
     return dic_person
 
 def get_speaker_text(root, dic_person):
@@ -130,18 +162,18 @@ def get_speaker_text(root, dic_person):
                 list_sp_text.append(dic_person[who]["name"])
                 list_sp_text.append(dic_person[who]["sex"])
                 list_sp_text.append(dic_person[who]["job"])
+                list_sp_text.append(dic_person[who]["job_category"])
                 list_sp_text.append(dic_person[who]["social_class"])
             else:
                 list_sp_text.append(piece_type)
                 list_sp_text.append("group")
                 list_sp_text.append("sex_unknown")
                 list_sp_text.append("job_unknown")
+                list_sp_text.append("job_category_unknown")
                 list_sp_text.append("social_class_unknown")
-            for subkids in kids.iter():
-                if (subkids.text):
-                    text += subkids.text + "\n"
-                elif(kids.text):
-                    text += kids.text + "\n"
+            for subkids in kids.itertext():
+                if (subkids):
+                    text += subkids + "\n"
                 else:
                     text += ""
             list_sp_text.append(text)
@@ -152,7 +184,7 @@ def get_speaker_text(root, dic_person):
     return list_piece
     
 def write_csv(list_piece, xml_out):
-    header = ["drama_type", "speaker", "sex", "job", "social_class","text"]
+    header = ["drama_type", "speaker", "sex", "job", "job_category", "social_class","text"]
     with open(xml_out, "w", encoding="utf-8") as out:
         writer = csv.writer(out)
         writer.writerow(header)
@@ -160,6 +192,7 @@ def write_csv(list_piece, xml_out):
 
 if __name__ == "__main__":
     main()
+    
     
 
     

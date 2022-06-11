@@ -1,7 +1,9 @@
-drama_type,speaker,sex,job,social_class,text
-unknown,Herr SCHARFMESSER,M,barber,,"
+,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+0,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 's isch doch efange züe arg, wie d'G'chàfte ne so
                         schlecht geh'n!... Wer hätt das glaübt vor ebbe-n-e
                         zeh' Johr? Ich, Meister Scharfmesser, wo doch vo jeher
@@ -13,90 +15,186 @@ Herr Scharfmesser.
 (er zeigt e
                         Collection englische Schlüssel, Zange un Häke, ein
                         grösser as dr ander)
-
-          
+, so wàr's doch dr Kückück, we me
+                        nitt e Zahn kännt üsebringe, un wenn er fufzig Wurzle
+                        hätt... Kurz, 's hat allewil nur g'heisse: der Herr
+                        Scharfmesser hinte, der Herr Scharfmesser vorne... ich
+                        ha nur z'laüfe g'ha, fir alle Lit kanne z'friede
+                        stelle, un jetz?... jetz sitz i mangmol halwe Tàg do,
+                        ohne ass sich e Mensch blicke losst!... Züem Glick
+                        ha-n-i g'erbt do no nitt lang... ziemlig! ich ha jetz
+                        im Sinn, mich z'ruck z'zieh un will süeche, mi Tochter
+                        mit eme güete Mann z'verhirothe... Wenn nur mi G'sell,
+                        dr Hans, e wenig Geld hätt un nitt eso eifach wàr, fir
+                        nitt z'sage Simpel... Doch still... do isch er glaüb...
+                        dasmol isch er flink gsi... i ha-n-en g'schickt geh dr
+                        Herr Pappedeckel rasiere im Kàiwegàssle 
+hinte un dr
+                        Herr Mülkorb im siess' Winkel 
 (züem Halls, wo hinte ine
                             kunnt rechts)
-"
-unknown,HANS,M,barber_apprentice,,"
+ bisch Dü's scho, Hans?... De hasch
+                        g'schwind fertig g'ha hit!...
+
+        
+",lustig-hans-dich-hats
+1,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 (packt sine Rasiermesser un e Sach üs un legt alles uf dr Tisch).
+
+          
 Isch's e Wunder, Meister!... Wo-n-i züem Herr
                         Pappedeckel ku bi un ha mine Messer üse g'nu, so hat er
                         sich höflig bedankt un hat g'sàit, er thàt sich jetz
                         selbscht rasiere bi dàne schlechte Zite...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+2,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Was ha-n-ich g'sàit, 's isch nimmig züem üshalte!... A
                         propos, Hans, De weisch, ass ich im Sinn ha, mich
                         z'ruck z'zieh!... das wàr jetz so ne G'schaftle fir
                         Dich... zeig, hasch kei alte Tante, wo De-n-emol erbsch
                         un wo Dr viellicht thàt 's Geld vorstrecke?
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+3,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 O, liewer Meister! wenn alle Misle z'Grund giengte, so
                         thàt ich nitt emol e Wàdele-n-erwe!
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+4,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Süech Dr e riche Fraü, anstatt im alte Bemol, im
                         Clavierstimmer, siner Tochter noz'laüfe, er will jo
                         ohnedem nit wisse vo Dr, so lang as D'nitt etabliert
                         bisch...
 
+          
+
             
 G'sang
+
+            
 (Wer will unter die Soldaten)
+
+            
 We me will Balwierer werde,
+
+            
 Müess me ha ne güete Lehr, 
 (bis)
+
+            
 Ass me heile ka die B'schwerde
+
+            
 Do in uns'rem Thrànemeer.
+
+            
 Instrumente müess me ha,
+
+            
 Ass me-n-operiere ka
+
+            
 Alles was sich presentiert
+
+            
 Un derf jo nitt si g'geniert.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-hans-dich-hats
+5,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 
             
 Denn verleide kännt eim sunscht
+
+            
 Gar glich unser schöne Kunst.
+
+            
 }bis mitnander
+
+          
+
+          
 (Dr Hans thüet siter e Sach ufrüme.)
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+6,comedy,Herr SCHARFMESSER,M,,,,"
           
 
             
 Hans, De hasch kei d'Zit z'verliere,
+
+            
 Schaff e riche Fraü Dir a, 
 (bis)
+
+            
 Wenn Dü's witt fir Dich prawiere,
+
+            
 So müesch ,gar viel Sache ha
+
+            
 Faux-cols, Seife fir dr Bart
+
+            
 Un Cravatte-n-aller Art,
+
+            
 O Pommade bis genüe,
+
+            
 Hànschig mien o noch derzüe
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-hans-dich-hats
+7,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 
             
 Un sogar fir wer gern lacht
+
+            
 Larve-n-an dr Fasenacht!
+
+            
 }bis mitnander
-"
-unknown,HANS,M,barber_apprentice,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+8,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Was wànn Se halt, Meister, ich weiss das alles, awer ich
                         ha halt 's Trinele gern, denn 's heisst o Trinele, wie
                         Ihre Tochter... O was hat die fir schöne Aüge... nitt
@@ -104,89 +202,169 @@ Was wànn Se halt, Meister, ich weiss das alles, awer ich
                         schöne Aüge... awer, 's Trinele erscht!... in's Herr
                         Ducommun's ihre Lumière électrique isch nur e Narr
                         drgege!...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+9,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Allons, allons, Hans, gib Achtung, ass De nitt emol
                         agehsch dra...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+10,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 O, ich versicher Sie, Meister
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+11,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Versicher Dü Dich, 's isch g'scheidter...
 (or zieht d'Uehre)
+ Scho zwei! ich ha in eim versproche, ne Zahn üsz'zieh am Zwei Dà wird blange!... ich will jetz g'schwind geh... b'sorg derwilst e Sach güet, Hans...
 (er geht hinte-n-üse rechts)
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+12,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (rieft em no)
+
+          
 Verlehn Sie sich uf mich, Meister!
 
           
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+13,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (allei)
+
+          
 Das isch jetz alles güet, awer mit dem allem bin ich
                         noch allewil nitt Millionär!... Oh, das Geld... nur
                         allewil Geld... ich wott jo keins verlange, kei Geld,
                         wenn ich nur mi Trinele hätt...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-hans-dich-hats
+14,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Gsang
+
+          
 (Du, Du liegst...)
 
+          
+
             
 Wenn ich soll glicklig werde,
+
+            
 Müess ich ihr' Liewe ha,
+
+            
 Nur sie ka do uf Erde
+
+            
 Mi Herz g'schwind mache schla.
+
+            
 Wenn ich soll glicklig werde,
+
+            
 Müess ich ihr' Liewe ha.
+
+          
+
+          
 
             
 Kei Stern, wo dert thüet schwewe,
+
+            
 Isch so schön, wie ihr' Blick,
+
+            
 Mi Herz fir 's ganze Lewe
+
+            
 Ihr' z'gà, das wàr mi Glick.
+
+            
 Kei Stern, wo dert thüet schwewe,
+
+            
 Isch schön as wie ihr' Blick.
+
+          
+
+          
 (Dr Herr Bemol kunnt hinte ine rechts)
+
+          
 Eh, tiens dr Meister Bemol, wie geht's, Schwiegervater,
                         was macht Ihr Töchterle ?...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+15,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
+
+          
 So lang as Dü nitt etabliert bisch, Hans, so isch nit
                         z'mache... un züedem, obschon mi Trinele nit hat, so
                         isch's doch e schöne Jumpfere, wo viellicht noch e
                         güete Parthie ka mache... Doch, '5 handelt sich jetz
                         nitt um das... ich soll ku in dr Jumpfer Scharfmesser
                         ihr Klavier stimme... isch se d'heim?
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+16,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich)
+
+          
 's weisst's gwiss Nieme besser as ich, ass 's Trinele ne
                         scheene Jumpfere isch...
 (züem Herr Bemol)
+ Setze Sie
+                        sich e wenig, Herr Bemol, ich will g'schwind geh
+                        lüege...
 (Er geht hinte-n-üse links).
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+17,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (allei)
+
+          
 Do geht's efange grossartig züe, siter ass die
                         Scharfmesser g'erbt hàn!... D'Tochter, die hat jetz e
                         Klavier un macht eim z'warte, we me's soll ku stimme...
@@ -201,81 +379,180 @@ Do geht's efange grossartig züe, siter ass die
                         anstatt miesse geh Klavier stimme!...
 (er nimmt
                         d'Bartschüssle un fangt a z'riehre drin)
+ Do miesst's
+                        anderscht geh bi mir...
+
+          
 
             
 Gsang
+
+            
 (O dü lieber Augustin)
+
+            
 Wenn ich so ne Gschàftle hätt,
+
+            
 Gschàftle hätt, 
 (bis)
+
+            
 Gàb ich gwiss e Mann, ich wett,
+
+            
 Gàb ich e Mann.
+
+            
 Bol thàt ich besser steh
+
+            
 Un do miesst's anderscht geh!
+
+            
 Wàr ich doch nur bis dohi
+
+            
 Balwierer gsi.
+
+          
+
+          
 
           
 
             
 Wenn sie nur ei Zahn üsziehn,
+
+            
 Zahn üsziehn, 
 (bis)
+
+            
 Hàn sie scho, was ich verdien,
+
+            
 Was ich verdien,
+
+            
 Wenn ich e Tag als schier
+
+            
 Do bi un stimm 's Klavier,
+
+            
 Das isch doch emol nitt recht,
+
+            
 Ich find das schlecht.
+
+          
+
+          
 
             
 D'Kunst wird eim haIt nie bezahlt,
+
+            
 Nie bezahlt,
 (bis)
+
+            
 Un das isch was mir nitt g'fallt,
+
+            
 Was mir nitt g'fallt.
+
+            
 Ich stimm bi alle Lit
+
+            
 's ganze Johr, d'ganze Zit!
+
+            
 Nur allei bi mir stimmt's nie,
+
+            
 Mag's noch so zieh!
+
+          
+
+          
 (Dr Herr Lindeblüescht kunnt hinte-n-ine, rechts)
+
+          
 Tiens, 's kunnt ebber
 (er stellt d'Bartschüssle gschwind ab).
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+18,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (fir sich)
+
+          
 Ah! will jetz dr Herr Scharfmesser grad allei isch, so
                         will i d'Glegeheit profetiere
 (züem Herr Bemol,wo-n-er
                         fir dr Herr Scharfmesser nimmt)
+ Ich will nitt lang
+                        hinte-n-umme fahre, Meister, will i grad 's Glick ha,
+                        Sie allei do az'treffe... ich müess Ihne g'steh, ass
+                        ich Ihre Tochter gern ha un ich kumm um ihre Hand ku
+                        froge.
 (fir sich)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+ Das isch e possiger Heiliger... ich
+                        ha mir ne ganz anderscht vorg'stellt as eso... me wott
+                        nitt meine, ass er eso viel g'erbt hat... enfin... 's
+                        isch doch allewil dr Vater...
+
+        
+",lustig-hans-dich-hats
+19,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (verwundert)
+
+          
 Mi Tochter?..... mi Trinele?..... weisst sie ebbes
                         dervo?.....
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+20,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Ihr Tochter selbst... Sie hat mir d'Erlaübniss gà, mit
                         Ihne z'rede bi dr erste G'legeheit, un wil sie sich
                         jetz grad presentiert....
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+21,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (fir sich)
+
+          
 Das isch sunderbar, ass er do ane kunnt, fir mit mr
                         z'rede.
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+22,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Ich begriff Ihre Verwunderung... ich kenn Ihre Tochter
                         no nitt lang, doch ha-n-i se glich fir e rechtschaffene
                         Person g'jügiert; un mine-n-Absichte sin rein... was
@@ -283,113 +560,231 @@ Ich begriff Ihre Verwunderung... ich kenn Ihre Tochter
                         Lindeblüescht, wie Sie wohl werde wisse... ich ha ne
                         schöne Fawrike, wo mir nit z'wünsche-n-iwrig losst...
 
+          
+
             
 G'sang
+
+            
 (Mère Michel)
+
+            
 Wie mi Fawrike, so git's keine wit un breit,
+
+            
 Die müess me sàh, die schafft, 's macht eim e rechte Freid.
+
+            
 Am Morge derf me nur dr Dampf als ine lo,
+
+            
 Un alles làuft wie g'schmiert als ganz allei derno.
 (bis)
+
+            
 Maschine ha-n-ich drin, ganz vo dr letzte lit,
+
+            
 Die mache-n-alles selbst, ich brüch schier keine Lit;
+
+            
 Un 's kunnt viel besser noch, denn 's geht jetz erstrecht a,
+
+            
 Bol git's Maschine jetz, wo gar kei Mensch brüchtdra. 
 (bis)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
-          
-Herr Bemol.
-Scho güet, scho güet...
-(fir sich)
-(lüt)
 
           
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
-          
-Herr Lindeblüescht.
-O merci, merci Meister... , wenn ka-n-i ku d'Antwort
-                        hole... Nitt wohr, sa glich as moglich ?
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+23,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
-Wenn Sie wànn, morn viellicht...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+          
+Scho güet, scho güet...
+(fir sich)
+ 's isch ihm schint's
+                        Ernst!... Das wàr kei so schlàchte Parthie... un ich,
+                        wo glaübt ha, mi Trinele seig in dr Hans vernarrt!...
+                        Wie me sich doch trumpiere ka!
+(lüt)
+ Wenn mi Trinele
+                        z'friede-n-isch... mir isch's scho recht... ich will
+                        nitt gege-n-ihr' Glick si... doch will i noch z'erst
+                        mit ere rede. Sie begriffe jo wohl...
+
+          
+
+        
+",lustig-hans-dich-hats
+24,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
+O merci, merci Meister... , wenn ka-n-i ku d'Antwort
+                        hole... Nitt wohr, sa glich as moglich ?
+
+        
+",lustig-hans-dich-hats
+25,comedy,Herr BEMOL,M,,,,"
+          
+Herr Bemol.
+
+          
+Wenn Sie wànn, morn viellicht...
+
+        
+",lustig-hans-dich-hats
+26,comedy,Herr LINDEBLÜESCHT,M,,,,"
+          
+Herr Lindeblüescht.
+
+          
 O mache Sie mich nitt eso lang z'warte, ne jede Sekunde
                         isch jetz fir mich e-n-Ewigkeit... wenn Sie wisste, wie
                         gern ass ich Ihr' Tochter ha!... Nitt wohr, ich ka hit
                         noch ku... in ere Stund?...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+27,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
+
+          
 Lehn Sie mir doch nur dr Zit, fir...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+28,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Allons, Meister, allons, 's isch e Wort... ich kumm in
                         ere Stund ku d'Antwort hole...
 (freidig)
+ ich bi jetz dr
+                        glickligste Mensch vo dr Welt !
 (er springt im Herr
                         Bemol an Hals un laüft derno dervo wie verruckt.)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+29,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (schaüt em no. Fir sich)
+
+          
 Was doch d'Liewe nitt macht!
+
+          
 
             
 G'sang
+
+            
 (Quand ces beaux pompiers)
+
+            
 So git's kei Krankhet meh,
+
+            
 Kei Mensch ka die versteh,
+
+            
 Denn wenn se kunnt ku schliche,
+
+            
 Ka Kein üswiche!
+
+            
 Uf eimol packt's eim a,
+
+            
 Narràchtig wird me dra,
+
+            
 Doch desto g'scheidter wird me bol,
+
+            
 Wenn d'Krankhet wicht emol.
+
+            
 Un fir das
+
+            
 Wachst kei Gras,
+
+            
 Alle Lit mien dure!
+
+            
 's isch ganz recht,
+
+            
 's wàr sunscht schlecht,
+
+            
 Ab gieng 's Menscheg'schlecht!
+
+            
+
+          
 
           
 Endlig kunnt doch jetz mi Trinele ab dr Gasse un git
                             erst noch e riche Dame derzüe!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+30,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (kunnt hinte ine links)
+
+          
 Nitt wohr, ich ha se lang mache z'warte, Meister
                         Bemol?... ich ha dr Meistere noch g'schwind ebbes
                         miesse helfe... Se sotte-n-erst in ere Stund,
                         anderthalwe ku, fir 's Klavier z'stimme. D'Jumpfer
                         Scharfmesser will noch z'erst e Lection nàmme...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+31,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
+
+          
 Desto besser...
 (fir sich)
+ Ich bi jetz pressiert fir
+                        heim z'ku, 's Trinele wird lose...
 (er geht gege dr
                         Thüre, kehrt sich dert un sàit)
+: Hans, Dich hat's!...
+                       
 (er geht hinte-n-üse rechts).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+32,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich, verwundert)
+
+          
 Hans, dich hat's?... ich weiss doch nit dervo... Was
                         soll das bedite?... ich glaüb dr Herr Bemol isch
                         maschuke?... Doch jetz wàr's glaüb bol Zit, ass ich
@@ -401,35 +796,69 @@ Hans, dich hat's?... ich weiss doch nit dervo... Was
                         d'Mèistere ka wohl e wenig hiete... un 's kunnt doch
                         Nieme-n-am e Màntig...
 (er geht hinte-n-üse rechts).
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+33,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
-(kunnt hinte ine links un lüegt umenander)
-Aha! me sieht wohl, ass es Màntig isch... se sin wieder
-                        aIle furt, dr Meister mit sammt em G'sell, geh 
 
           
+(kunnt hinte ine links un lüegt umenander)
+
+          
+Aha! me sieht wohl, ass es Màntig isch... se sin wieder
+                        aIle furt, dr Meister mit sammt em G'sell, geh 
+Schoppe
+                        nàh!... do gàn se-n-als noch züer Üsred, 's kàm doch
+                        Nieme-n-an dem Tag!... Ich glaüb's scho, d'Lit hàn
+                        Angst, se wisse wohl, ass in de Balwierer ihre Hand
+                        zittert am e Màntig, un dr Kopf o!... 's isch nur emol
+                        Ein ku an dàm Tag un hat si welle lo rasiere, un do hat
+                        mi Mann, wo grad par hasard d'heim gsi isch, ebbes
+                        anders verstande in sim Tirmel, ebbes, wo sich rimt mit
+                        rasiere un do hat er halt das Instrument fire g'holt,
+                        un wo dr Ander das g'sàh hat, so hat er si so g'schwind
+                        as möglig dervo g'macht un siter hà mr ne nimmig
+                        g'sàh... me möcht grad verspritze !... zieht me-n-eso
+                        d'Pratike-n-a!... Un do beklage sie sich noch, se hewe
+                        nit meh z'thüe! doch still, 's kunnt glaüb ebber?...
+                       
 (me klopft a)
+ Entrez!
 (d'Fraü Hagscheere kunnt hinte
                         ine redits)
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+ Eh! buschur Fraü Hagscheere, wie geht's
+                        allewil... ich ha Sie scho lang nimmig g'sàh...
+
+        
+",lustig-hans-dich-hats
+34,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 's geht güet, merci... un bi Ihre-n-o, wie-n-i g'hört
                         ha!... i ha denkt, i müess Ere doch ku grateliere uf's
                         Erb hi, wo Se g'macht hàn...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+35,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Ah! das isch schön vo Ihre, Fraü Hagscheere, sitzt Se ne
                         wenig.
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+36,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Nei, merçi Fraü Scharfmesser, i ka nitt Iang bliwe...
                         denkt Se nur, dà Morge bekumm i e Telegraph, wo-n-i an
                         nit Boses dànkt ha!... wenn i mr nitt scho vorgnu g'ha
@@ -437,18 +866,28 @@ Nei, merçi Fraü Scharfmesser, i ka nitt Iang bliwe...
                         in ere Stund ung'fàhr, mit em Basler Zug, bekumm i e
                         Visite... mi Schwester, wo-n-i scho lang nimmig g'sàh
                         ha...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+37,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
-So, so... wartet Se, ich will gli geh 's Kaffee rischte,
-                        denn i möcht Se nitt mit em Ieere Mage an dr 
 
           
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+So, so... wartet Se, ich will gli geh 's Kaffee rischte,
+                        denn i möcht Se nitt mit em Ieere Mage an dr 
+Isebahn lo
+                        geh... ich müess mi ewe selbst bediene hit mi Magd isch
+                        furt un d'andere kunnt erst morn... 's isch efange züe
+                        arg, was die fir Pretentione hàn...
+
+        
+",lustig-hans-dich-hats
+38,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Jo, un wànn als erst nitt emol alles mache, was me se
                         heisst... Wo mi Tochter letscht e Nourrice brücht hat,
                         so hat se welle d'Magd nàh derfir... jo, se hat denkt,
@@ -457,234 +896,410 @@ Jo, un wànn als erst nitt emol alles mache, was me se
                         se-n-isch üs em Platz gange derwege... 
 (Me klopft a.
                         D'Fraü Sàgmühle kunnt hinte-n-ine rechts).
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-hans-dich-hats
+39,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Fraü Scharfmesser un Fraü Hagscheere
+
+          
 (mitnander)
+
+          
 Eh buschur Fraü Sàgmühle... wie geht's?...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+40,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Was mache d'Rümetisse?...
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+41,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Merci, merci, 's geht güet, se sin e wenig dämmt hit...
                        
 (züer Fraü Scharfmesser)
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+ Ich kumm Ihre ku gratüliere...
+                        à propos... wisse Se d'Neüigkeit scho?...
+
+        
+",lustig-hans-dich-hats
+42,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Eh! nei... was isch, was isch?
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+43,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Wartet Se nur e-n-Aügesblick, Fraü Sàgmühle, i will nur
                         g'schwind geh 's Kaffee mache... Ich bin uf dr Stell
                         wieder do.... nàmme Se siter Platz,
 (Sie stellt Stiehl
                         ane un geht hinte, üse links).
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+44,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
+
+          
 (sitzt un packt ihre Strickete-n-üs)
+
+          
 Tiens, wo ha-n-i jetz mi Messstrumpf?... Wo isch jetz mi
                         Messstrumpf ane ku?... Dà ha-n-i jetz d'heim lige
                         lo!... un i ha jetz grad dr Làmpe fertig un sott 
+abnàh
+                        !... Das isch jetz fatal!... ich müess 'n halt derno
+                        alege fir z'lüege...
+
+        
+",lustig-hans-dich-hats
+45,comedy,Fraü HAGSCHEERE,F,,,,"
+          
+Fraü Hagscheere.
 
           
-"
-unknown,Fraü HAGSCHEERE,F,,,"
-          
-Fraü Hagscheere.
 Ich ha kei Arwet mitbrocht... i ha dànkt, wil doch nitt
                         lang ka bliwe, so isch's si nitt derwerth.
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+46,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
+
+          
 (verwundert)
+
+          
 .Ah! Sie blibt nitt do?...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+47,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Eh nei, mi Neveu, wo-n-i scho so lang nimmig g'sàh ha,
                         wird jetz bol aku...
 (Se nimmt e Prise)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+. Will Se-n-o ne
+                        Prise, Fraü Sàgmühle?...
+
+        
+",lustig-hans-dich-hats
+48,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Nei, merci, me brücht nitt noch express Dràck in d'Nase
                         z'stupfe, me hat scho g'nüe z'putze dra allewil!...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+49,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Wie Sie will... wenn i awer kei Arwet mitbrocht ha, so
                         ha-n-i doch mi Traümbiechle un mine Karte mitbrocht
 (se
                         packt alles üs).
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+50,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Sin se g'stàmpfelt, Ihre Karte, Fraü Hagscheere?
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+51,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Scht!... sage Se nit, ich ha's fir unnöthig g'funde...
                         's sin ganz alte Karte... me sàch dr Stàmpfel doch nitt
                         druf... ich ka mine Reüssite doch mache mit...
 (se lüegt ummenander)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+sage Se, Fraü Sàgmühle, das isch e Rüechene, die Fraü Scharfmesser, se isch jetz so rich uf eimol un nimmt nitt emol e Magd...
+
+        
+",lustig-hans-dich-hats
+52,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Un serviert eim in ere so ne abscheülige
                         Balwiererstuwe!...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+53,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Un i wett, se hat nitt emol keine Kuglipfle züem
                         Kaffee!...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+54,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
+
+          
 (kunnt ine mit eme Plateau mit Kaffee, Tasse, Zucker
                         un Weckle druf)
+
+          
 Do hà mr's jetz... 's isch g'schwind gange?...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+55,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
+
+          
 (züer Fraü Sàgmühle lislig)
+
+          
 Was ha-n-i g'sàit, se hat keine Kuglipfle...
 (lüt)
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+ Awer
+                        Fraü Scharfmesser! Sie isch doch gar so gietig, Se hätt
+                        jo kei so grosse G'schichte brüche z'mache
+                        wege-n-uns...
+
+        
+",lustig-hans-dich-hats
+56,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Lehn Se doch... kämme Se jetz ku Platz nàh...
 (se stellt
                         dr Tisch in d'Mittle un rischtet ne)
+ Se hat vorig
+                        vo-n-ere Neüigkeit g'red, Fraü Sàgmühle... üse mit
+                        jetz, derwilst ass i 's Kaffee ischànk...
 (züer Fraü
                         Hagscheere)
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+ hat Sie ne gern brün, Fraü Hagscheere?...
+
+        
+",lustig-hans-dich-hats
+57,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Jo, so ziemlig, Fraü Scharfmesser... so!... merci!...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+58,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Un Sie, Fraü Sàgmühle?...
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+59,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Ich ha liewer viel Milch... me sàit, 's erhaltet dr
                         Teint frisch... doch fir uf unser Neüigkeit z'ruck
                         z'ku... denke Se nur, d'Fraü Firklammere hirothet
                         wieder!...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+60,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Eh awer nei, 's wird nitt si!... do, nàmme Sie sich jetz
                         Zucker.
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+61,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Eh dü liewe Zit, was awer Sie nitt sàit!...
 (se nimmt
                         Zucker).
 
           
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+62,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Se isch jo so alt!...
 (se hebt in dr Fraü Sàgmühle dr
                         Zucker ane).
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+63,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Un eso' wiescht!... was mag das fir Ein si, wo die
                         nimmt?
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+64,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Still, 's kunnt ebber d'Stege-n-owe-n-awe, ich müess
                         wisse, wer das isch...
 (se springt an d'Thüre un macht
                         se ne wenig uf un lüegt üse, derwilst profetiere
                         d'Andere un thien no meh Zucker in ihr Kaffee)
+ 's isch
+                        dr Schüester dr Herr Pechvogel, er geht geh Blaüer
+                        mache... O die Mànner, die Mànner, se thien eim nur
+                        alles verbutze... dà Morge bi-n-i dowe gsi bi-n-em, fir
+                        ebbes z'zahle un do hat er si noch beklagt... « I möcht
+                        nur wisse », hat er gsàit, « was das fir e Krankhet
+                        isch, wo eim am Màntig in de Glieder umme surrt; vom
+                        grosse Zeche bis in d'Hoor ine thüet alles wussle, me,
+                        meint bigoscht, me seig e-n-Omeisehüfe, » ich glaüb's
+                        scho...
 (unterbricht si)
+ still, 's redt ebber dunte uf
+                        dr Stress', ich müess wisse, wer das isch
 (se laüft
                         an's Fenster)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+ 's isch nit, 's hat e Hund im e Kind in's
+                        Bei welle biss...
+
+        
+",lustig-hans-dich-hats
+65,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 O! die Hunde, 's isch efange ne wahrer Abscheü... me
                         sieht nit meh as Hunde in de Gasse!... Sott me jetz
                         lide, ass das Vieh ne so ummenander laüft... so hàn
                         iwerall d'Nase, z'ferderscht, me sott gar keine lide uf
                         dr Stross'!...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+66,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Awer Fraü Sàgmühle, Sie isch doch' züe arg exigeant...
                         ich mein doch, 's gàb noch andere un wichtigere
                         Verbesserunge z'mache-n-as die... wenn ich emol in dr
                         G'meinroth kàm.... Wott Se mr noch e Träpfle Kaffee
                         ischenke, Fraü Scharfmesser?...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+67,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 G'wiss, Fraü Hagscheere
 (se schankt i)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+ will Se o noch e
+                        Tässle, Fraü Sàgmühle?
+
+        
+",lustig-hans-dich-hats
+68,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Ich nàmtigt noch e wenig Milch... 's isch vo wege-n-em
                         Teint...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+69,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Still, 's kunnt ebber d'Stege-n-ufe... ich müess wisse,
                         wer das isch
 (se geht an d'Thüre un lüegt üse)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+ 's isch
+                        ebber, wo im Herr Pechvogel Schüeh bringt züem
+                        flicke... am e Màntig!... 's isch güet, ass er nitt
+                        d'heim isch, sunschst gàb's e-n- Unglick...
+
+        
+",lustig-hans-dich-hats
+70,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Un derno, Fraü Hagscheere, was gàb's derno, wenn Sie in
                         dr G'meinroth kàm?
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+71,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Was es gàb?... ich will's Ene sage was es gàb!... Nitt
                         wohr, mr hàn jetz e neüer Bassin? güet, worum thüet me
                         jetz dr alte in der Stadt nitt züewerfe un profetiert
@@ -694,125 +1309,225 @@ Was es gàb?... ich will's Ene sage was es gàb!... Nitt
                         ich wàr doch g'wiss schön uf eme Pferd.
 (Se nimmt e
                         graziose Stellung un macht d'écuyère no).
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+72,comedy,Fraü SCHARFMESSER,F,,,,"
           
 raü Scharfmesser.
+
+          
 Sie möcht i jetz o noch sàh dur e Reif springe, Fraü
                         Hagscheere?
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+73,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
+
+          
 Jà, worum nitt?... i ha scho dur andere Sache miesse
                         springe as dur e Reif un bi doch dure ku...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-hans-dich-hats
+74,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Fràü Sàgmühle.
+
+          
 Awer Fraü Hagscheere, wie ka Sie ne so ebbes
                         proposiere!... ich mein, me thàt doch besser, we me ne
 
-          
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+                        Kapelle thàt ane stelle
+
+        
+",lustig-hans-dich-hats
+75,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 (se rede alle drei mitnander)
+
+            
 anstatt e Cirque.. das isch o noch eso ne gottlose
                         Institution, wo me nit as Ärgerniss un Schand sieht
                         drin un wo d'Owrigkeit gar nitt lide sott!...
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+          
+",lustig-hans-dich-hats
+76,comedy,Fraü HAGSCHEERE,F,,,,"
             
 Fraü Hagscheere
+
+            
 (züe glicher Zit)
+
+            
 Jo doch ! e Kapelle! mr hàn jo scho ne paar Kapelle...
                         un nitt emol ei Cirque!... 's müess e Cirque ane, ich
                         thüe's nitt anderscht!...
 (D'Fraü Sàgmühle nimmt in dr
                         Fraü Hagscheere ihre Tasse un hebt's ere an's Mül, ass
                         se nimmig rede ka).
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+          
+",lustig-hans-dich-hats
+77,comedy,Fraü SCHARFMESSER,F,,,,"
             
 Fraü Scharfmesser
+
+            
 (züe glicher Zit)
+
+            
 Ich thàt eher votiere, fir e-n-Espèce Phare ane z'stelle
                         mit ere Lumière électrique, wo me kännt z'Nacht in alle
                         Gasse un Hiser zinde mit, fir z'lüege, was drin
                         vorgeht..
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+          
+",lustig-hans-dich-hats
+78,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
 
+          
+
             
 Ne Cirque müess ane ku,
+
+            
 Das han-n-i mir vorgnu,
+
+            
 Scho g'nüe Kapelle hat's
+
+            
 's wàr schad jo fir dr Platz,
+
+            
 Kei schönerer niene-n-as dà
+
+            
 Kännt me sàh!
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+79,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 
             
 Ne Phare wàr besser noch,
+
+            
 Das sieht e Jeder doch,
+
+            
 Wie-n-ich ne wünsche thüe,
+
+            
 Wàr's intressant genüe,
+
+            
 Do kännt me doch alles als sàh,
+
+            
 Was thàt g'schàh!
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+80,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
 
+          
+
             
 Am beste wird's doch si,
+
+            
 Me stellt d'Kapelle hi,
+
+            
 D'Welt isch verderbt genüe,
+
+            
 Fir was e Cirque derzüe?
+
+            
 Un züe heiter sàh isch o nit
+
+            
 Fir eüch Lit!
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+81,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Still!... 's macht ebber 's Fenster uf dert àne, ich
                         müess wisse, wer das isch!...
 (Se laüft an's Fenster un
                         lüegt üse, derwilst thüet d'Fräu Sàgmühle ne Weckle in
                         Sack stosse.)
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+82,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
+
+          
 (lüegt uf d'Uehre)
+
+          
 Herrje!... jetz ha-n-i awer d'höchste Zit, wenn i will
                         geh mi Brüeder abhole...
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+83,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Thàt Se doch noch e wenig warte, Fraü Hagscheere, ich
                         kumm derno o mit, dr Basler Zug hat viellicht Retard...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+84,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
+
+          
 (kunnt an Tisch z'ruck)
+
+          
 's isch dà Moler, wo dort àne si Zimmer hat... dà steht
                         efange-n-uf!... un denke, isch er nitt im Hem' an's
                         Fenster ku steh!...
 (D'Fraü Sàgmühle hebt d'Hànd vor 's
                         G'sicht.)
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+85,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Das sin noch vo dàne, wo am e Màntig d'Farwe nitt
                         känne-n-unterscheide... d'Fraü Firklammere ka si
                         rischte, denn 's isch o ne Moler, wo se hirothet... wie
@@ -820,23 +1535,35 @@ Das sin noch vo dàne, wo am e Màntig d'Farwe nitt
                         Stiehl, sàll weiss i... un vorne... was hat er doch
                         vorne?... was hat er doch vorne?... 's isch as wie...
                         Pàm... Pàm...
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+86,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Pàmselstiehl?...
 
           
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+87,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 C'est ça, Herr Pàmselstiehl!... i ha doch g'wisst, ass
                         es eso ebbes isch!
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+88,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Eh!... das isch jo grad dà, wo do àne wohnt!... Nu jo,
                         do ka si d'Fraü Firklammere rischte, dà wird ihre
                         d'Hoor üs de-n-Aüge striche, dà Herr Pàmselstiehl!...
@@ -849,164 +1576,314 @@ Eh!... das isch jo grad dà, wo do àne wohnt!... Nu jo,
                         dowe!... ich müess wisse, wer das isch
 (se geht an
                         d'Thure).
-"
-unknown,Fraü HAGSCHEERE,F,,,"
+
+        
+",lustig-hans-dich-hats
+89,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
+
+          
 (züer Fraü Sagmühle)
+
+          
 D'Fraü Scharfrnesser isch glaüb nur e wenig
                         wunderfitzig!... Jetz müess i awer doch geh, wenn i an
                         Isebahn will... kunt Se jetz mit, Fraü Sàgmühle?...
-"
-unknown,Fraü SAGMÜHLE,F,,,"
+
+        
+",lustig-hans-dich-hats
+90,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
+
+          
 Eh jo, i müess jetz doch o mache, ass i heim kumm...
 (se
                         packe-n-uf).
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+91,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Eh, was! wànn Se jetz scho heim?... Das isch jetz e
                         kurze Visite gsi... kämme Se ne-n-andermol wieder...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-hans-dich-hats
+92,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 D'Fraü Hagscheere un d'Fraü Sàgmühle.
 
+          
+
             
 Adie, mr wàrm jetz scheide,
+
+            
 Mr wànn jetz furt,
+
+            
 Wil's bi so G'legeheite
+
+            
 Gern spot als wurd.
+
+            
 Fraü Scharfmesser, lebt Se wohl,
+
+            
 Kàm Se züe-n-is o ne mol,
+
+            
 Lebt Se siter wohl. 
 (bis)
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+93,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
 
+          
+
             
 Adie, wànn Sie jetz scheide,
+
+            
 Wànn Sie jetz furt,
+
+            
 Wil's bi so G'legeheite
+
+            
 Gern spot als wurd!
+
+            
 Lewe Sie denn beide wohl,
+
+            
 Nàchstens kumm i o ne mol,
+
+            
 Lewe Sie denn wohl.
 (bis)
+
+          
+
+          
 (D'Fraü Hagscheere un d'Fraü Sàgmühle gehn hinte üse rechts.)
-"
-unknown,Fraü SCHARFMESSER,F,,,"
+
+        
+",lustig-hans-dich-hats
+94,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
+
+          
 Ich bi froh, ass se furt sin , .. mi Mann isch dowe, er
                         süecht mi... ich will jetz das Dings z'àmme
 (se zeigt
                         uf dr Tisch)
+ neweg rüme, denn er ka d'Visite nitt lide.
+                       
 (Se nimmt 's Plateau un geht hinte üse links.)
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+95,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (kunnt hinte ine rechts)
+
+          
 Do bi-n-i jetz wieder... i ha doch nitt lang g'macht?...
                         I ha küm dr Zit g'ha, sechs Schoppe z'Trinke un do
                         ha-n-i dr Meister g'sàh heim geh un do ha-n-i mi halt
                         gli üs em Staüb g'macht... Aha! ich ha Zit g'ha! do
                         isch er jo scho.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+96,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
+
+          
 (kunnt hinte ino links)
+
+          
 Hans, gang uf's G'meinhüs un frog, eb se Dr nitt wànn dr
                         Klàpperstei e wenig lehne... de sàisch, 's seig fir mi
                         Fraü... O! die Wibslit!... die Wibslit!...
 
           
 
+          
+
             
 G'sang
+
+            
 (Ohé! les petits agneaux)
+
+            
 Hans, wenn dr Klapperstei
+
+            
 Wieder thàt regiere,
+
+            
 So thàte glich mir zwei,
+
+            
 Anstatt d'Lit rasiere,
+
+            
 D'Klapperstei-Fawrikation
+
+            
 Uf dr Stell afange;
+
+            
 Hans, do wàr z'erlange
+
+            
 Gwiss e schöner Lohn.
+
+          
+
+          
 
             
 Denk, was es Lit jetz hat,
+
+            
 Wo sich nitt vertrage!
+
+            
 Un wo ihn so dur d'Stadt
+
+            
 Tàglig miesste trage!
+
+            
 's wàr an eim allei nimm g'nüe.
+
+            
 Taüsig miesst me mache!
+
+            
 Wàr das nitt züem lache?
+
+            
 Hans, was sàisch derzüe?
+
+          
+
+          
 Ne Klapperstei-Fawrike thàte mr afange, Hans, das
                             hat me doch no nitt hie un hitigstags miesst me
                             viel ha, wenn er wieder Mode wàr... ich garantier
                             Dr ass unser G'schàft nie thàt still steh.
                         
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+97,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich)
+
+          
 Allons, bon, dr Herr Scharfmesser hat wieder Mischbes
                         g'ha mit siner Fraü.
 (lüt)
+ Meister, sage Sie mr emol,
+                        was das sage will! ""Hans dich hat's!""
 (er imitiert dr
                         Herr Bemol).
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+98,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Bisch Dü eigentlig verruckt, Hans?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+99,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Ich nitt, awer wohrschinlig der Herr Bemol... grad isch
                         er do gsi, un das hat er mir züer Antwort gà, wo-n-ich
                         ihm g'sàit ha, er soll in ere Stund ku 's Klavier
                         stimme...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+100,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Si Fraü wird ne verruckt g'macht ha, Hans hiroth nitt...
                         glaüb mir, 's sin alle Mànner unglicklig...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+101,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Sie hàn güet z'rede, Meister... nitt wohr, Sie hàn e
                         Fraü?
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+102,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
+
+          
 (mit eme Sifzer)
+
+          
 Jo, Gottlob... Isch Nieme do gsi, Hans, hat mi Nieme
                         welle hole wàhrend ass ich furt gsi bi?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+103,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Nieme, Meister, as mi züekünftiger Schwiegervater... 's
                         nimmt mi nur Wunder, was er g'ha hat...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+104,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Kei Mensch!... do isch's als frieiher anderscht
                         gange!... un wo kunnt das her? ha-n-ich viellicht mine
                         Kunde nitt güet bedient?... i glaüb das nitt, dr
@@ -1017,31 +1894,55 @@ Kei Mensch!... do isch's als frieiher anderscht
                         laüfe-n-eher Wuche lang umme mit eso Backe
 (er imitiert
                         g'schwullene Backe)
-"
-unknown,HANS,M,barber_apprentice,,"
+. Losst Einer d'Hoor schnide, so
+                        müess me se-n-ihm fast üsrupfe, ass se nitt so schnell
+                        wieder nohwachse. Viel Ichn der Bart steh, fir ass sie
+                        sich nimm mien lo rasiere... isch jetz das e-n-Art,
+                        sich so fingerlange Hoor züem Mül üse lo wachse? denn
+                        das wachst alles züem Mül üse!... Vom Schràpfe-n-un vom
+                        z'Oderlo isch gar kei Red meh... Oh! wo isch die schone
+                        Zit, wo me d'Lit noch iwer dr Läffel balwiert hat?...
+
+        
+",lustig-hans-dich-hats
+105,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Me macht's jetz noch, Meister, awer uf e ganz andere
                         Manier!...
 
           
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+106,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Züem Unglick isch jetz o noch d'Konkürrenz eso gross...
                         kunnt nitt Ein sich ku etabliere, do grad àne an mir,
                         wo Sidezäpf feil hat!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+107,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Das isch jetz doch e wenig stark!.. glaübt denn emol ei
                         Mensch, ass in de Lit Side züem Kopf üse wachst?...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+108,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Ich o ha als Zäpf g'macht, awer rechte... doch jetz
                         geht's à nimm güet... Was ich als Hoor üsenander
                         g'macht ha!... Jetz thüe-n-i nur noch dann und wann
@@ -1049,58 +1950,94 @@ Ich o ha als Zäpf g'macht, awer rechte... doch jetz
                         wo-n-eso ne Haarkünstler witt si.. ich wett, Dü weisch
                         nitt emol, wie me ne Parricke heisst uf
                         Milhüserditsch?..
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+109,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Parricke, parbleu, ich weiss nitt anders?..
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+110,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Das kunnt vom franzesche Wort « Perruque », awer 's
                         ditsche... süech, Hans, süech . .. 's isch e Wort, wo
                         achtezwanzig Büechstawe hat... weisch's nitt?..
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+111,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Nei, Meister.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+112,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Eh bien, los recht, e Parricke heisst me uf ditsch:
                         «Kahlkopfverlegeheitsabhelfer.»
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+113,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Kahl.. was fir e-n-Abhelfer?..
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+114,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Kahl-kopf-ver-le-ge-heits-ab-hel-fer!
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+115,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Enfin, 's isch mr eithüen, was fir e-n-Abhelfer... Was
                         ich weiss, das isch, ass e Parricke e nützlig Ding
                         isch, wo do no nitt fang ln Eirn 's Lewe g'rettet
                         hat... Sie wisse doch g'wiss nitt wie, Meister... aha,
                         süeche Se, Meister, süeche Se...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+116,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 's kunnt mr jetz grad nitt i, awer i weiss, ass e
                         Parricke alles im Stand isch...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+117,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Eh bien, ich will's Ene verzehle, Meister... Sie wisse
                         da Amerikaner, wo do no nitt lang im Innere vo Afrika
                         umme g'reist isch? Dà hat schint's keine Hoor meh g'ha
@@ -1113,21 +2050,33 @@ Eh bien, ich will's Ene verzehle, Meister... Sie wisse
                         g'hebt, un do hat das die Wilde in eso ne Schrecke
                         versetzt, ass se-n-alle z'àmme mit Schreie dervo
                         g'loffe sin... Hein, Meister, was sage Se züe dem!...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+118,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Das isch e güete... Parricke gsi... A propos, Hans,
                         hasch Dü hit dr Herr Mülkorb rasiert?
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+119,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Jo Meister, wo-n-i vom Herr Pappedeckel ku bi..
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+120,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Das isch ewe noch Ein, wo mir getreü bliwe-n-isch.. 's
                         isch awer o mi ältster Frind, mir sin scho mitnander in
                         d'École primaire gange, züer Zit, wo dr Herr Bader noch
@@ -1137,131 +2086,261 @@ Das isch ewe noch Ein, wo mir getreü bliwe-n-isch.. 's
 
           
 
+          
+
             
 G'sang
+
+            
 (par la voix)
+
+            
 Hans, wer denkt nitt an d'Jugendjohre,
+
+            
 Gits denn e Zit, we schöner isch,
+
+            
 Fir mich geht se g'wiss nie verlore,
+
+            
 Noch steht se vor mim Geist so frisch.
+
+            
 Mitnander{
+
+            
 So lang ass mir thien làwe,
+
+            
 Soll sie noch um uns schwàwe,
+
+            
 Wàr sie nur wieder do,
+
+            
 Wie wàre mir so froh,
+
+            
 Wàr sie nur wieder do,
+
+            
 Was wàr das fir e Làwe.
-"
-unknown,HANS,M,barber_apprentice,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+121,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (en avant marchons)
+
+          
 
             
 Meister, so geht's halt,
+
+            
 Wird me noch so alt,
+
+            
 So vergisst me nit
+
+            
 Vo siner Jugendzit.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-hans-dich-hats
+122,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 's isch 's Friehjohr gsi vom Làwe,
+
+            
 Noch lang wird's eim umschwàwe.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+123,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Jà, Hans, das isch wohr... me-n-isch nie glickliger as
                         in de Kinderjohre, dr Herr Mülkorb un ich hàn's als
                         g'nosse... später si mr derno Müsikant gsi bim gliche
                         Regiment un mr hatte sogar mitnander in's Conservatoire
                         sotte ku...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+124,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich)
+
+          
 In das vo Burtzwiller.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+125,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Hein?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+126,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Nit, Meister, verzähle Se nur furt...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+127,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Un siter si mr allewil güete Frind gsi, mr spiele jetz
                         noch beide im Orchester... er spielt 's Trombone à
                         coulisse... kasch Dü 's Trombone à coulisse spiele,
                         Hans?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+128,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 's isch möglig, Meister, ich ha's halt noch nie
                         prawiert... ich ka's viellicht, ohne ass ich's weiss...
                         brücht me viel Blost?...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+129,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Alleweg mehr ass fir dr Dreiangel, Dü Schaüde.. awer
                         wenn Dü ebbes lehre witt, Hans, so lehr Dü liewer 's
                         Basson... das isch e schön Instrument!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+130,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Hat's nitt noch e-n-anderer Name?... me heisst's glaüb
                         dr...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+131,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Sag's nitt, Dü Bengel!...
+
+          
 
             
 G'sang
+
+            
 (Mirliton)
+
+            
 Me mag noch so verschànde
+
+            
 Si Name-n-un si Ehr,
+
+            
 Vo alle-n-Instrumente
+
+            
 G'fallt's mir nur immer mehr.
-Züe keim Andre bringt me-n-üse
-So ne wunderschöner Ton,
-Lehr Dü's, Hans, 's müess Dr nitt grüse
-Un los nitt uf Spott un Hohn.
-"
-unknown,HANS,M,barber_apprentice,,"
-          
-Hans
-(Herr Scharfmesser imitiert 's Basson un
-                        accompagniert ne)
 
             
 Züe keim Andre bringt me-n-üse
+
+            
+So ne wunderschöner Ton,
+
+            
+Lehr Dü's, Hans, 's müess Dr nitt grüse
+
+            
+Un los nitt uf Spott un Hohn.
+
+          
+
+        
+",lustig-hans-dich-hats
+132,comedy,HANS,M,,,,"
+          
+Hans
+
+          
+(Herr Scharfmesser imitiert 's Basson un
+                        accompagniert ne)
+
+          
+
+            
+Züe keim Andre bringt me-n-üse
+
+            
 Sa ne wunderbarer Ton,
+
+            
 Drum will ich's nitt, 's thàt mr grüse
+
+            
 Vor em Spott un Hohn.
+
+          
+
+          
 
           
 G'wiss, Meister, ich wott das nitt spiele in ere
                         Societät, ich thàt d'ganze Zit roth werde...
 (er nimmt
                         Rasiermesser fir's abz'zieh)
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+133,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Awer 's Trombone à coulisse, Hans, Dü weisch nitt, wie
                         das unag'nehm isch!... frog emol dr Herr Mülkorb! Ne
                         mol hà mr e Ball g'spielt un sin uf ere Espèce Laüwe
@@ -1273,10 +2352,14 @@ Awer 's Trombone à coulisse, Hans, Dü weisch nitt, wie
                         schön iwer's Loch g'hebt.. ass er se nimmig hat känne
                         z'ruck zieh... meinsch, das isch als ag'nehm mittle im
                         e Tanz!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+134,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Das isch noch nit, Meistër, ich ha noch ebbes bessers
                         g'sàh... ziehn Sie mir das Messer e wenig ab, ich
                         will's Ene verzehle. Diemol hat d'Fanfare e-n-Üsflug
@@ -1288,21 +2371,39 @@ Das isch noch nit, Meistër, ich ha noch ebbes bessers
                         wieder awe so wit as si Arm g'làngt hat
 (er imitiert
                         ne)
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+ un so furt. Unter andere Züeschaüer isch o sone
+                        rechter Büreknewel dert g'stande un hat idem Trombone e
+                        Zit lang mit b'sunderem Interesse züeglüegt... Uf eimol
+                        springt er uf ne züe un schreit: « Das wàr doch dr
+                        Teufel, we me das Ding nitt kännt do üsebringe, » un
+                        risst em si Coulisse unte üse, mittle in sim Solo!
+
+        
+",lustig-hans-dich-hats
+135,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Do siesch jetz, Hans!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+136,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 's isch eithüen, Meister, 's Basson gieng mr noch viel
                         weniger.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+137,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Prawier's emol... De kasch's viellicht, ohne ass De's
                         weisch... Doch mit allem dem vergiss ich, ass ich sott
                         im Herr Endschüeh sim Hund geh si Bei ischindle... er
@@ -1310,15 +2411,30 @@ Prawier's emol... De kasch's viellicht, ohne ass De's
                         z'mache-n-isch
 (er geht gege dr Thüre rechts, kunnt
                         awer glich wieder z'ruck)
-"
-unknown,HANS,M,barber_apprentice,,"
+. A propos, Hans, Dü weisch,
+                        die Badbittig, wo mr scho so lang im « Express » hàn,
+                        fir se z'verkaüfe? Eh bien, hit ha-n-i jetz endlig e
+                        Liebhawer g'funde... 's isch eso wit fertig g'macht, dr
+                        Pris un alles, nur ha-n-i g'sàit, me sol1 ku d'Antwort
+                        hole do, nitt ass se-n-ebbe mi Fraü o verkaüft hätt züe
+                        glicher Zit... verstehsch, Hans?
+
+        
+",lustig-hans-dich-hats
+138,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Jo, Meister.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+139,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Wenn ich ebbe nitt do bi, we me kunnt ku froge, so
                         sàisch nur, me kännt se ha... ich bi froh, wenn ich
                         se-n-emol abha... se-n-isch züe arg schwer un hat eso
@@ -1326,202 +2442,382 @@ Wenn ich ebbe nitt do bi, we me kunnt ku froge, so
                         jetz müess i geh mi Bei ischindle
 (er geht hinte-n-üse
                         links).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+140,comedy,HANS,M,,,,"
           
 Hans.
 
+          
+
             
 G'sang
+
+            
 ('s isch Hochzit uf mi arme Treü)
+
+            
 's git doch kei Handwerk, wie's Balwiere,
+
+            
 Me müess e wahrer Dokter si,
+
+            
 Fir ass ich's ka fir mich furtfiehre,
+
+            
 Müess ich noch schaffe brav druf hi.
 
-          
+            
+
+            
 Scho weiss i, wie me d'Zähn müess nàh,
+
+            
 Ka schràpfe-n-un Dampfbäder gà. 
 (bis)
+
+            
 Doch thüet me d'Lit in d'Hitz als triwe,
+
+            
 So müess me se o z'Oder lo,
+
+            
 Un müess noch, we me b'riehmt will bliwe,
+
+            
 Fir d'Aüge-n-als studiere-n-o;
+
+            
 Denn viel Lit hàn se-n-in de Schüeh,
+
+            
 Mit sàlle hà mr gar viel z'thüe! 
 (bis)
+
+          
+
+          
 Sogar Vögel müess me känne üsstopfe un de Lit Hoor mache z'wachse, wo se keine hàn, un wo se
                             hàn, müess me's ihne abrasiere... grad wie dr Hans im Schnokeloch!...
 (er schlat si an d'Stirne)
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+ dr Herr Bemol welle sage mit sim « Hans, dich hat's,» 's wird mr als uf eimol ganz bang!...
+
+        
+",lustig-hans-dich-hats
+141,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (kunnt hinte-n-ine rechts, züem Hans)
+
+          
 Sage mr, güeter Frind,
 (er lüegt ummenander)
-"
-unknown,HANS,M,barber_apprentice,,"
+ isch dr
+                        Herr Scharfmesser nitt do?
+
+        
+",lustig-hans-dich-hats
+142,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Jetz grad nitt... er isch geh im Herr Endschüeh ebbes
                         ischindle. - Was wàr Ihne g'fällig?...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+143,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Ich hätt ebbes mit em z'rede,
 (fir sich)
+ 's isch halt
+                        noch e wenig z'frieh, awer ich ha's nimmig känne
+                        üshalte...
+
+          
 
             
 G'sang
+
+            
 ('s kunnt e Vogel)
+
+            
 Bol laüf ich jetz umme,
+
+            
 Ne Stund wie verruckt,
+
+            
 Doch jetz bin i kumme,
+
+            
 Dohi hat's mi druckt.
+
+            
 Ich müess jetz doch wisse,
+
+            
 Isch's «nei» oder «jo,»
+
+            
 Ich ka uf mi G'wisse
+
+            
 Nimm lewe-n-eso!
 
           
 
           
+
+          
 (Züem Hans)
+Ich soll ewe ku ne Antwort hole.. Ich kumm halt derno wieder, wenn er d'heim isch... do isch mi Karte 
 (er git im Hans si Visitekarte).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+144,comedy,HANS,M,,,,"
           
 Hans
+
+          
 Ich ka Ihne selbst Üskunft gà, wenn Sie nitt gern noch
                         emol kämme... Dr Meister hat g'sàit, Sie kännte se
                         ha...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+145,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (verwundert)
+
+          
 Was, dr Herr Scharfmesser hat Eüch ebbes g'sàit
                         dervo?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+146,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Grad vor ebb er furt isch... er hat g'sàit, im Fall, ass
                         er nitt do seig, wenn Sie kämme ku froge, so soll ich
                         Ihne sage, Sie kännte se ha, wie eher, wie liewer...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+147,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Par exemple?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+148,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Er isch froh, wenn er se-n-emol ab hat!...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+149,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (fir sich)
+
+          
 Das isch jetz doch e wenig stark!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+150,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Er hat se-n-ewe nie ràcht kanne lide... se-n-isch halt e
                         wenig massiv... un derno, dr Meister sàit allewil, se
                         seig nitt güet formiert... ich find's nitt...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+151,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (rasend)
+
+          
 Ah, so, eh bien, merci... Das isch mr jetz emol e schöne
                         G'schichte!... un ich, wo... enfin, 's isch güet, ass
                         ich's weiss!...
 (er nimmt si Hüet un si Stock un laüft
                         dervo wie verruckt).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+152,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (rieft em no)
+
+          
 Me ka se-n-E schicke, wenn Sie pressiert sin...
 (fir
                         sich)
+ Das isch jetz noch e possiger Heiliger... ich 
 
-          
+                        will jetz glich e Porte-faix schicke mit, denn ich
+                        glaüb, ass in Dem e Bad nitt iwel thàt thüe?... Isch
+                        denn alles verruckt hit?... Züem Glick hat er si
+                        Adresse do g'lo
 (er nimmt d'Adresskarte un geht
                         hinte-n-üse links).
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+153,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (kunnt hinte ine rechts, ganz verstört un bleich.
                         Fir sich)
+
+          
 Er isch nimmig ku... un doch isch's jetz scho mehr ass e
                         Stund... Un ich, wo scho iwerall verzählt ha, ass mi
                         Trinele ne Millionär hirothet!... Züem Unglick weisst
                         mi Tochter nitt emol, wer's mag gsi si, denn 's hàn
                         ihre ewe scho ne paar 's hirote versproche...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+154,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (kunnt hinte ine links)
+
+          
 So, jetz isch se abg'reist... Tiens, dr Herr Bemol!
 (fir
                         sich)
+ dà lüegt wiescht dri... décidément er isch krank,
+                        dà Mann,
 (lüt)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+ wie gehts Meister Bemol?... Se schine mr
+                        hit nitt ganz wohl!... oder fehlt ebbe im Trinele ebbes?...
+
+        
+",lustig-hans-dich-hats
+155,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (fir sich, ohne uf dr Hans Achtung z'ga)
+
+          
 Er kunnt viellicht noch... er ka jo noch ku... er isch
                         viellicht ufg'halte worde... ich will glaüb glich
                         wieder heim geh...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+156,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich)
+
+          
 Wenn's e Dokter isch vo Staffelfelde, wo-n-er erwartet,
                         so bebriff ich, ass er ungeduldig isch...
 (lüt)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+ Voyons,
+                        Herr Bemol!
+
+        
+",lustig-hans-dich-hats
+157,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
+
+          
 Hein!...
 (schlat sich an d'Stirne)
+ Jà so, ich soll jo 's
+                        Klavier stimme
 (züem Hans)
-"
-unknown,HANS,M,barber_apprentice,,"
+ Ka-n-i glich afange? ..
+
+        
+",lustig-hans-dich-hats
+158,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich)
+
+          
 Ah! er kunnt wieder züe si...
 (lüt)
+ Wenn Sie wànn... 's
+                        Klavier isch dert
 (er zeigt d'Türe uf dr Site links un
                         süecht ne ine z'schiewe).
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+159,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (fir sich)
+
+          
 Ich will mi glich an d'Arwet mache, ass i glich wieder
                         ka geh... ich ha du reste im Trinele g'sàit, es soll mr
                         ne do ane schicke, wenn er mit mir selbst noch rede
                         will...
 (er geht ine. Hans lehnt d'Türe-n-a).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+160,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Ich bi froh, ass ich ne ab ha!.. 's isch mr
                         efange-n-Angst worde... wenn ich gieng geh ne Dokter
                         hole?.. Was steckt denn eigentlig in dr Luft?... d'Lit
@@ -1529,296 +2825,566 @@ Ich bi froh, ass ich ne ab ha!.. 's isch mr
                         hat sich scho so sunderbar ufg'fiehrt.. wenn's nur nitt
                         o noch an mich kunnt!...
 
+          
+
             
 G'sang
+
+            
 (Mit dem Pfeil)
+
+            
 Was soll das bedite?
+
+            
 Ich glaüb wirklig 's spuckt,
+
+            
 Wo me hi tüet schrite,
+
+            
 Sin d'Lit hit verruckt!
+
+            
 's tüet mir nur halwer g'falle,
+
+            
 Ich mag sàh, wer ich will,
+
+            
 So isch's mr,hàn se-n-Alle
+
+            
 E Sprosse glaüw-i z'viel.
+
+          
+
+          
 
             
 Tüet das d'Luft verbreite,
+
+            
 Oder wo kunnt's her?
+
+            
 Ich möcht's ewe meide,
+
+            
 Wenn's z'vermeide wàr.
+
+            
 Ich möcht mi Kopf noch b'halte,
+
+            
 Ich brüch ne, mi Verstand,
+
+            
 Fir ass ich ka erhalte
+
+            
 Im Trinele si Hand.
 
           
-"
-unknown,PETER,M,piano_tuner_apprentice,,"
+
+          
+
+        
+",lustig-hans-dich-hats
+161,comedy,PETER,M,,,,"
           
 Peter
+
+          
 (kunnt hinte-n-ine rechts, züem Hans)
+
+          
 Ne schön Cumpliment vo mim Herr un er möcht gern
                         d'Antwort wisse...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+162,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Was fir e-n-Antwort?
-"
-unknown,PETER,M,piano_tuner_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+163,comedy,PETER,M,,,,"
           
 Peter.
+
+          
 Ich weiss nitt mehr... er hat g'sàit, Ihr wisste's
                         scho...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+164,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (kunnt üs dr Nàwesstuwe ku stürze. Züem Hans)
+
+          
 Ah! endlig!... do isch's em denn doch Ernst gsi!... Sage
                         nur in Eürem Herr, mr seige z'friede... ich kännt ihm
                         halt nitt noch e-n-Eh'stir derzüe gà... awer er wird
                         sàh, ass ihn dà Schritt g'wiss nie reie wird...
-"
-unknown,PETER,M,piano_tuner_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+165,comedy,PETER,M,,,,"
           
 Peter
+
+          
 (fir sich)
+
+          
 Das isch e possige Cummission
 (lüt)
+ ich will's üsrichte
+                       
 (er geht hinte-n-üse rechts).
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+166,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (geht wieder in's Nàweszimmer, unter dr Thüre kehrt
                         si mu, züem Hans)
+
+          
 Hans, Dich hat's !
 (er geht ine).
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+167,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (hebt dr Kopf)
+
+          
 Do kumm i nimmig drüs!...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+168,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (kunnt mit schnelle Schritte hinte ine rechts. Züem
                         Hans zornig)
+
+          
 Sin Ihr eigentlig vo Sinne, güeter Frind, ass Ihr mir e
                         Badbittig schicke... das isch e schlechter Spass vo
                         Eüch, ass Ihr's nur wisse...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+169,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Sie sin jo ku froge drum!
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+170,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Das isch jetz wieder emol güet!... ich kumm ku froge um
                         d'Hand vom Herr Scharfmesser siner Tochter un me
                         schickt mr e Badbittig!... Ihr hàn dr Verstand verlore,
                         's ka nitt anderscht si!...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+171,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (fir sich).
+
+          
 Ich glaüb's efange selbst, wenn's eso furt geht.
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+172,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
+
+          
 (kunnt hinte-n-ine links)
+
+          
 Was isch, was git's... was isch das fir e Làrme?..
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+173,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 's isch dà Herr, Meister, wo Sie ihm Ihre Badbittig
                         verkaüft hàn... er pretantiert jetz, er heb um Ihre
                         Tochter g'frogt un nitt um Ihre Badbittig...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+174,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
+
+          
 (b'schaüt dr Herr Lindeblüescht).
+
+          
 Ich glaüb, De bisch g'schittelt, Hans, ich kenn jo dà
                         Herr gar nitt.
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+175,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (fir sich)
+
+          
 Dr Meister?... was soll das sage?
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+176,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (verzwifelt)
+
+          
 Enfin, ich weiss nitt, was in dem Hüs vorgeht!... uf
                         jedefall blib ich nimmig do... ich künd uf, Meister, 's
                         isch mir nitt z'wohl!...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+177,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (kunnt zornig üse. Züem Herr Scharfmesser)
+
+          
 Sie mien ihm
 (er zeigt uf dr Herr Lindeblüescht)
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+ Ihre
+                        Tochter nitt gà!... er hat mr mine hit o scho
+                        g'heische..
+
+        
+",lustig-hans-dich-hats
+178,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (züem Herr Bemol)
+
+          
 Ah, do isch jetz endlig dr Herr Scharfmesser. Voyons,
                         wànn Se mir jetz expliziere...
 
           
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+179,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
+
+          
 Ich dr Herr Scharfmesser?
 (fir sich)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ Ah! jetz wird's mr
+                        klar.. er hat mich fir dr Herr Scharfmesser gnu.. Adie
+                        mi schöner Traüm!..
+
+        
+",lustig-hans-dich-hats
+180,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Scharfmeser
+
+          
 (züem Herr Lindeblüescht)
+
+          
 Ah ça,... güeter Frind wànn Sie eigentlig mi Badbittig
                         oder mi Tochter?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+181,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Das isch kei Balwiererstuwe meh, das isch e
                         Narrehüs!...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+182,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Das isch doch jetz iwer's Bohnelied!... wer isch jetz
                         eigentlig do Herr un Meister im Hüs?...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+183,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Ich.
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+184,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 (ditet uf dr Herr Scharfmesser).
+
+          
 Dà do!
 (mit Verachtung)
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+ Er kennt nitt emol dr Herr
+                        Scharfrnesser!...
+
+        
+",lustig-hans-dich-hats
+185,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
+
+          
 (zeigt uf dr Herr Bemol)
+
+          
 Un dà Herr dert?
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+186,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Das isch dr Herr Bemol, unser Klavierstimmer...
+
+          
 (Herr Lindeblüescht bricht in e lüt G'làchter üs;
                         Herr Scharfmesser un Hans lüege ne verwundert a.)
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+187,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (züem Herr Scharfmesser)
+
+          
 Ich sieh scho, ich müess Ihne das Ding expliziere... mr
                         hàn is alle trumpiert... Wil ich dà Morge do g'warte
                         ha, fir z'wisse, eb ich 's Klavier ka stimme, so isch
                         dr Herr Lindeblüescht ku, un wil er glaübt hat, ich
                         seig dr Herr Scharfmesser, so hat er mir mi Trinele
                         g'heische... Dr Rest isch licht z'errothe...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+188,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Verzeihe Se mr, Herr Scharfmesser, ass ich mich eso
                         trumpiert ha... derft ich Sie viellicht jetz doch um
                         d'Hand vo Ihrer Tochter bitte?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+189,comedy,HANS,M,,,,"
           
 Hans.
+
+          
 Un ich, wo ufkünde ha!... jetz kumm i nitt an
                         d'Hochzit...
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+190,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 (züem Herr Lindeblüescht).
+
+          
 Obschon ich Sie nitt persönlig kenn', so isch mir doch
                         Ihre Familie nitt unbekannt, un wenn Sie güete Absichte
                         hàn un mi Tochter z'friede-n-isch...
-"
-unknown,Herr BEMOL,M,piano_tuner,,"
+
+        
+",lustig-hans-dich-hats
+191,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
+
+          
 (züem Herr Lindeblüescht)
+
+          
 Jà, un mi Trinele, wo Sie jetz Schuld sin, ass si
                         Repütation verlore-n-nisch?...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+192,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (klàglig)
+
+          
 Bin ich denn nitt do, Herr Bemol?... Ich will se jo gern
                         finde, die Repütation, un z'ruckgà... denn 's mag geh,
                         wie's will, so verloss ich 's Trinele nitt!...
-"
-unknown,Herr LINDEBLÜESCHT,M,,,"
+
+        
+",lustig-hans-dich-hats
+193,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
+
+          
 Eh bien... wil ich denn schuldig bi, so will ich, fir's
                         z'vergüete, im Herr Scharfrnesser si G'schàft abkaüfe
                         fir dr Hans, mit dr Cundition, ass er d'Jumpfer Bemol
                         hirothet...
-"
-unknown,HANS,M,barber_apprentice,,"
+
+        
+",lustig-hans-dich-hats
+194,comedy,HANS,M,,,,"
           
 Hans
+
+          
 (züem Herr Bemol)
+
+          
 So Cunditione ka me scho anàh... was sage Sie derzüe,
                         Herr Schwiegervater
 (se gàn enander d'Hand).
-"
-unknown,Herr SCHARFMESSER,M,barber,,"
+
+        
+",lustig-hans-dich-hats
+195,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
+
+          
 Bravo!... un do mache mir beide Hochzite mitnander!...
+
+          
 
           
 
             
 G'sang
+
+            
 (zim bum rataplan)
+
+            
 Uf d'Hochzit hi
+
+            
 Wà mir Eüch jetz ilade,
+
+            
 's müess lustig si,
+
+            
 Wenn Viel sin, ka's nit schade.
+
+            
 Drum rischte d'Bei
+
+            
 Un b'stell Müsikante,
+
+            
 Denn drei allei
+
+            
 Wà mir ha, Gross un Klei',
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-hans-dich-hats
+196,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Zim hum rataplan,
+
+            
 Müsikante wà mr ha,
+
+            
 Zim hum rataplan,
+
+            
 Müsik wà mr ha.
-"
+
+          
+
+        
+",lustig-hans-dich-hats

@@ -1,105 +1,195 @@
-drama_type,speaker,sex,job,social_class,text
-unknown,EMIL,M,,,"
+,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+0,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (kunnt hinte-n-ine mit Mannerkleider uf em Arm,
                         wo-n-er uf e Stüehl legt)
                     
+
+          
 's schlofe noch alle z'sàmme-n-im Hüs... 's hat mi nieme
                         g'sàh do ane ku... 
 (er klopft an d'Thüre rechts)
-"
-unknown,OSCAR,M,,,"
+
+                        Oscar!... he, Oscar!... schlofsch noch?... ich bi's...
+                        mach uf... ich bi allei!...
+                    
+
+        
+",lustig-d-gsellschaftere
+1,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (kunnt ine als Jumpfre-n-aglegt)
+
+          
 Do bin i... 's isch güet, ass es emol Tag isch!... ich
                         ha nitt känne schlofe ich bi nur im Fauteuil dert
                         e wenig idirmelt gsi...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+2,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Dü machsch mr jetz emol schöne Sache... wie ka me nur
                         wege me-n-eifàltige Ball sich eso üssetze!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+3,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Dü bisch halt noch allewil dr gliche wie frieiher als im
                         Lycée z'Befert... Dü traüsch Dich nitt z'mücke
                         hasch allewil Angst, bisch schich un ärger as e
                         Jumpfre, un sogar e wenig frumm... isch's nitt eso?...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+4,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Un Dü bisch allewil...
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+5,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Ich bi halt allewil o noch dr gliche und wird o nie
                         changiere.
                     
 
+          
+
             
 G'sang
+
+            
 (Follichon)
+
+            
 Fir was denn uf dr Erde do
+
+            
 Ne trürig Lewe fiehre;
+
+            
 So lang as 's End nitt kunnt dervo,
+
+            
 So will ich profetiere ...
-"
-unknown,EMIL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+6,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 
             
 Un doch isch eitel nur
+
+            
 's Vergniege-n-uf dr Welt!
-"
-unknown,OSCAR,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+7,comedy,OSCAR,M,,,,"
           
 Oscar.
 
+          
+
             
 Ich ha mi Freid derdur
+
+            
 Wil's 's Lewe mir erhellt!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+8,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 (Mitnander)
 
+          
+
             
 Nur emol isch d'Jugend z' g'niesse,
+
+            
 Wer se losst veriwer geh,
+
+            
 Thüet's als bol nochher verdriesse,
+
+            
 Wenn vom Alter kämme d'Weh!
-"
-unknown,EMIL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+9,comedy,EMIL,M,,,,"
           
 Emil.
 
+          
+
             
 Wer z'viel do thüet d'Jugend g'niesse
+
+            
 Un ihr nitt ka widersteh,
+
+            
 Dà thüet's bol nochher verdriesse,
+
+            
 Wenn vom Alter kämme d'Weh!
+
+          
+
+          
 Mit allem dem bin ich nitt iwel verstünt gsi, wo Dü mir
                         gestert z'Nacht spot im versteckte an dr Lade
                         klopft hasch, als Jumpfre-n-aglegt, fir welle do iwer
                         Nacht z'bliwe ...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+10,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Was witt halt... ich ha nitt anderscht känne... züe wem
                         ha-n-i solle geh as züe me güete Frind?...
                         hingege hätt ich durchüs nitt welle, ass mich ebber
@@ -107,32 +197,48 @@ Was witt halt... ich ha nitt anderscht känne... züe wem
                     
 
           
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+11,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Drum ha-n-ich Dich o nitt lang üsg'frogt... un ha Dich
                         glich in das abg'legene Zimmer versteckt, wo
                         schier nie nieme-n-ane kunnt... awer 's isch mr jetz
                         doch nitt recht... was hasch eigentlig
                         ag'stellt?... red' emol! ...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+12,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 De siehsch, ich bi uf em Maskeball gsi...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+13,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Das ha-n-i g'merkt... awer was Dr widerfahre-n-isch
                         mächt i wisse...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+14,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Mi Vater hat mir's streng verbote g'ha... isch jetz das
                         nitt tyrannisch!... un im Lenele si Vater hat's
                         em o verbote g'ha... awer mir sin doch gange... 's
@@ -142,17 +248,25 @@ Mi Vater hat mir's streng verbote g'ha... isch jetz das
                         gsi... ich ha mich noch känne g'schwind dervo mache...
                         awer erkennt hat er mich halt doch...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+15,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Was fir e Scandal!... awer das alles sàit mr jetz doch
                         nitt, worum ass De do ane ku bisch...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+16,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
                         awer wenn ich jetz driwer nodenk, isch's
                         viellicht besser, ass es eso gange-n-isch... mi Vater
@@ -161,104 +275,184 @@ Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
                         blib ich jetz liewer do, bis ass dr ärgste Sturm
                         voriwer isch...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+17,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Was fir e-n-Abgrund fir d'Unschuld, eso-n-e Ball!...
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+18,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Oh, loss mi doch geh!... was weisch doch Dü, wo noch nie
                         g'liebt hasch, wie amüsant as das isch!...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+19,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Ich, wo no ch nie g'liebt ha!... ich denk jo nur an
                         das!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+20,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Mit allem dem müess ich jetz süeche, ne Üsred z'erfinde
                         fir mi Vater... das wird e G'schwàtz gà, denn De
                         kennsch d'Lit!... 's grüst mr nitt iwel fir heim...
                     
 
+          
+
             
 G'sang
+
+            
 Dü weisch wie d'Schwàtzerei
+
+            
 Mit em zim bum bum 
 (bis)
+
+            
 Ne jede Narrethei,
+
+            
 Un isch se noch so dumm,
+
+            
 Dur d'Stadt als bringt so g'schwind
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+21,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 As wie dr Wind,
+
+            
 So g'schwind as wie dr Wind.
-"
-unknown,OSCAR,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+22,comedy,OSCAR,M,,,,"
           
 
             
 Wie wird's erst losgeh hit
+
+            
 Mit em zim bum bum, 
 (bis)
+
+            
 Wo-n-ich g'macht ha dà Schritt!
+
+            
 Do blibt g'wiss nieme stumm,
+
+            
 Me macht noch mehr derzüe
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+23,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander
 
+          
+
             
 Un doch wàr's g'nüe,
+
+            
 Un doch wàr's scho gnnüe!
-"
-unknown,EMIL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+24,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Das isch wohr... was witt jetz mache?...
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+25,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 A propos... isch Di Schwester no nitt z'ruck ku üs dr
                         Pension.
                     
 
           
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+26,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Worum, was hat mi Schwester do derbi z'mache?...
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+27,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Eh, ich ha denkt, ich kännt viellicht in mim Vater sage,
                         ich seig mit eüch uf dr Ball... ich heb nitt
                         anderscht känne... ich heb Di Schwester miesse druf
                         fiehre...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+28,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Merci... das wàr du reste e schlechte-n-Üsred... denn
                         d'Wohret erfahrt er jo doch allewil... un züedem
                         kunnt mi Schwester erst in e paar Tàg... un züe glicher
@@ -266,228 +460,402 @@ Merci... das wàr du reste e schlechte-n-Üsred... denn
                         ne g'wisse Jumpfer Faste... ne gar frumme Person, wo
                         später wohrschinlig ins Kloster wird geh...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+29,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 So müess ich halt ebbes anders süeche... verroth mi awer
                         nur nitt!... was wott Di frumme un strenge
                         Müetter züe dem sage... obschon se mich nitt persönlig
                         kennt, so wott ich doch nitt, ass se mich thàt
                         sàh do...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+30,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich will mi mögligs mache... einstwile kasch Di
                         changiere... ich ha Dir dert vo mine Kleider brocht,
                         ass
                         De doch ufs wenigst nitt eso müesch heim geh...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+31,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Un sunscht hasch mir nit brocht?...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+32,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Brüchsch noch ebbes?
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+33,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Lüeg, ass De mr ebbes z'esse bikunnsch... ich ha
                         Hunger...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+34,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Güet... ich will Dr gli geh ebbes b'sorge... doch still,
                         ich hör glaüb rede...
                     
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+35,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Jà... 's kunnt ebber!
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+36,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (àngstlig).
+
+          
 's isch d'Stimm vo mim Vater... 
 (er geht geh lose an dr
                         Thüre hinte)
-"
-unknown,OSCAR,M,,,"
+ mi Müetter isch mit em... was wànn
+                        se jetz do ku mache, sie, wo schier nie do hintere
+                        kämme?...
+                    
+
+        
+",lustig-d-gsellschaftere
+37,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Nur nitt glich eso verschrocke, suncht thüesch is
                         verrothe... mach dr gliche as thàtsch e Büech süeche in
                         dàre Bibliothek...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+38,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Liege un mich verstelle! De siehsch, in was ass De mich
                         üssetze thüesch!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+39,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Ich gang jetz wieder dert ine... vergiss 's Morgenesse
                         nitt... ich will siter nodenke, was
                         z'mache-n-isch... 
 (er geht üse rechts un nimmt
                         d'Männerkleider mit).
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+                    
+
+        
+",lustig-d-gsellschaftere
+40,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (kunnt z'erst hinte-n-ine)
+
+          
 Enfin, ich bi-n-emol derfir... un 's blibt derbi!...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+41,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Un ich sag Dir, 's hat kei Sinn... das Zimmer isch
                         z'abg'lege un unkummod!...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+42,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Im Gegetheil!... das wird ere grad geh, die Einsamkeit
                         un die Bibliothek...
 (se kehrt sich um un sieht dr
                         Emil)
+ tiens, Dü bisch do, Emil!...
+                    
 
           
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+43,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Was dr Kückücks tribsch denn jetz Dü do hinte?..
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+44,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich bi grad ku... ich süech e Büech...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+45,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (züem Emil)
+
+          
 Kumm emol do ane... 
 (züem Herr Schimmel)
-"
-unknown,Herr SCHIMMEL,M,,,"
+ ich bi sicher,
+                        ass er er o vo minere Opinion isch!...
+                    
+
+        
+",lustig-d-gsellschaftere
+46,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Enfin, wenn Dü se durchüs do witt logiere, so thüe's un
                         loss mich in Rüeh!... 
 (er gsht an
                             d'Bioliothek).
-"
-unknown,EMIL,M,,,"
+
+                    
+
+        
+",lustig-d-gsellschaftere
+47,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wer soll denn do logiere?
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+48,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 D'G'sellschaftere vo Dinere Schwester, wo jetz ku
                         wird... findsch jetz Dü nitt o, ass se ganz güet wird
                         si do?...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+49,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wenn soll se denn eigentlig ku, die G'sellschaftere?
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+50,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ich erwart se in drei oder vier Tàg...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+51,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Derno isch's güet... 
 (lüt)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ mir isch's scho recht.. ich
+                        weiss nit dergege z'sage...
+                    
+
+        
+",lustig-d-gsellschaftere
+52,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Do hörsch jetz... nur Dü bisch's allewil, wo in allem
                         Opposition macht!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+53,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Isch's e Wunder? mit Dine sunderbare-n-Idee, wo Dü
                         allewil hasch!
                     
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+54,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Was fir sunderbare-n-Idee?... thüe-u-ich ebbe nitt
                         recht, wenn ich in minere Tochter e G'sellschaftere
                         gib, wo im Kloster uferzoge worde-n-isch un wo also
                         alle Tugende b'sitzt?
                     
 
+          
+
             
 G'sang
+
+            
 (Kaiser Franz)
+
+            
 Vor dr Welt un ihre G'fohre
+
+            
 Süech ich z'b'schitze jetz mi Kind,
+
+            
 Denn me-n-isch als gli verlore,
+
+            
 Bol hat eim dr böse Find!
+
+            
 Drum ha-n-ich, fir das z'erlange,
+
+            
 D'Jumpfer Faste kumme lo,
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+55,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
 
+            
+
               
 Denn eso wird mi Verlange
+
+              
 In Erfillung geh derno!
+
+              
 }(bis)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+56,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Herr Schimmel un Emil.
 
+            
+
               
 Denn eso wird ihr' verlange
+
+              
 In Erfillung geh derno!
+
+              
 }(bis)
-"
-unknown,EMIL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+57,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Mi Mame hat ganz Recht!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+58,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich find nur, Dü gehsch in dàne Sache allewil e wenig
                         z'wit... Dü thüesch se-n-iwertriwe... as wie im
                         Emil do thüesch o allewil dr Kopf verdreihe... me müess
@@ -495,181 +863,310 @@ Ich find nur, Dü gehsch in dàne Sache allewil e wenig
                         d'Hiroth verachte... das isch wider d'Natür, un 's isch
                         mi Pflicht, dergege z'schaffe...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+59,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Awer Vater... wenn's mir jetz eso g'fallt... wenn das mi
                         einziger Wunsch isch!...
 (er geht ungeduldig
                         umenander)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+60,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Natirlig!... b'schaü ne nur emol a... 's steht jo uf sim
                         G'sicht g'schriwe... d'Unschuld selbst... er hat
                         jo-n-emol im Lycée miesse fir 's Portrait vom e Heilige
                         posiere, wo fir d'Kirche destiniert gsi isch...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+61,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Das isch jetz alles recht... awer ich sag emol eso
                         viel... e junger Mensch isch g'macht, fir z'hirothe un
                         in dr Societät z'lewe...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+62,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Eh bien, ich süech em e Fraü...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+63,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich ha se scho gfùnde!
 (lüt)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ was unser Tochter abelangt,
+                        so mie mir Achtung gà, nitt ass ebbe die
+                        G'sellschaftere ne Iwerspannte oder gar e
+                        Schinheilige-n-isch...
+                    
+
+        
+",lustig-d-gsellschaftere
+64,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 D'Jumpfer Faste?... d'Tochter vo minre alte Frindin, wo
                         uf Befert isch geh wohne?... ich ha dr beste
                         B'richt iwer se... un derno sin se grad o nitt in de
                         beste-n-Umstànde, un do isch's e Glick fir
                         d'Müetter, ass se ka d'Tochter unterbringe...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+65,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich mein, ich sieh se scho: allewil schwarz ag'legt ganz
                         eifach, un dr Blick am Bode... De hasch mir's
                         scho g'sàit... awer persönlig kennsch se nitt...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+66,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ich will se scho examiniere, wenn se kunnt, un
                         üsfroge... De weisch, ich bi nitt so dumm... ich will
                         jetz
                         gli do ne wenig Ordnung mache...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+67,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wotte mr jetz nitt z'erst geh z'Morge-n-esse, Mame?...
                         wenn se-n-erst in vier Tàg akunnt, so hasch jo
                         noch lang dr Zit...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+68,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 's isch wohr... gang Dü geh Di Kaffee b'sorge, Fraü...
                         denn De weisch wohl... 's Kafte heitert Dich als e
                         wenig uf un git Dr viellicht andere-n-Idee!...
                     
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+69,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Was mine-n-Idee abelange, changiere se nie... awer
                         nitdestoweniger will ich geh lüege, eb d'Magd alles
                         g'ristet hat ... denn 's isch wohr, 's isch mr niene
                         recht, so lang as ich 's Kaffee nitt trunke ha ...
                     
 
+          
+
             
 G'sang
+
+            
 (O Strassburg)
+
+            
 Mi Kaffee 
 (bis)
+
+            
 Müess ich vor allem ha
+
+            
 Am Morge, 
 (bis)
+
+            
 Fir mich z'erhole dra;
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+70,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
 
-              
-Isch 's Kaffee als güet g'lunge,
-So stärkt's mir wieder d'Zunge
-Un git Kraft in dr Lunge,
-Ass ich güet schwàtze ka!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
             
-Herr Schimmel un Emil.
 
               
 Isch 's Kaffee als güet g'lunge,
-So stärkt's ihr' wieder d'Zunge
+
+              
+So stärkt's mir wieder d'Zunge
+
+              
 Un git Kraft in dr Lunge,
+
+              
+Ass ich güet schwàtze ka!
+
+            
+
+          
+",lustig-d-gsellschaftere
+71,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Herr Schimmel un Emil.
+
+            
+
+              
+Isch 's Kaffee als güet g'lunge,
+
+              
+So stärkt's ihr' wieder d'Zunge
+
+              
+Un git Kraft in dr Lunge,
+
+              
 Ass sie güet schwàtze ka!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+72,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Endlig isch se jetz emol furt!
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+73,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Wenn doch nur jetz dr Pape-n-o ging
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+74,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Emil, kumm los jetz... sitz do ane... wil mr grad allei
                         sin, will ich Dir e G'heimniss avertraüe...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+75,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 E G'heimniss!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+76,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich bin eso ziemlig sicher, nitt wohr, ass Dü bis dohi
                         noch kei Vorzug g'ha hasch fir e Jumpfre ...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+77,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich... ich denks nitt...
 (fir sich)
-"
-unknown,Herr SCHIMMEL,M,,,"
+ scho wieder e Lug!
+                    
+
+        
+",lustig-d-gsellschaftere
+78,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Desto besser... uf die Art geht das Ding ganz allei...
                         ich ha ewe mit minre Schwester e Plan g'macht...
                         mr hàn mitnander fir Di Glick g'sorgt... sie, wo
                         d'ganze Stadt kennt, hat sich chàrgiert Dir e Fraü
                         z'finde.
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+79,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ne Fraü fir mich !...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+80,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Un g'wiss e güete... 's isch schint's e prächtige
                         Person, hat e lustiger Charakter, isch aber grundehrlig
                         derbi... d'Lit sage... De weisch, d'Lit sage-n-allewil
@@ -678,166 +1175,277 @@ Un g'wiss e güete... 's isch schint's e prächtige
                         im versteckte... se-n-isch e wenig original,
                         voilà tout, un will Dich mit Freide hirothe.
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+81,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich weiss awer nitt, eb d'Mame-n-eso d'nàchste beste
                         wird ufnàh...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+82,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich ha scho dra denkt... drum hà mr e Mittel g'süecht
                         fir se do ine z'bringe... un hàn's g'funde...
 
-          
-"
-unknown,EMIL,M,,,"
+                        anstatt d'G'sellschaftere, wo mir erwarte, schickt mi
+                        Schwester die Jumpfer Tülipa jetz hit scho, fir
+                        ass Dü se einstwile siehsch... ich ha-n-ere lo
+                        abefehle, se soll sich schwarz alege un sich e wenig
+                        schich stelle, fir ass d'Mame nit merkt.
+                    
+
+        
+",lustig-d-gsellschaftere
+83,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Awer ich kenn se jo gar nitt, die Jumpfer Tülipa!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+84,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich o nitt... awer wie g'sàit, mi Schwester ka se nitt
                         genüeg riehme... b'schaü, do isch dr Brief, wo se
                         mir noch driwer g'schriwe hat gestert
 (er süecht en)
-"
-unknown,EMIL,M,,,"
+
+                        tiens, ich ha-n-en nitt... ich wird ne uf mim
+                        Secretaire ha lo liege...
+                    
+
+        
+",lustig-d-gsellschaftere
+85,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich glaüb Dr scho, Pape... awer...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+86,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Un Dü hasch recht... das isch e ganz güete Partie fir
                         Dich... Dü müesch e Fraü ha, wo Dich e wenig
                         ufheitert un andere-n-Idee git, un die Jumpfer Tülipa
                         wird das g'wiss z'weg bringe.
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+87,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Niemols!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+88,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Also gehsch Dü's i un witt mr kei Hindernisse in dr Weg
                         lege?... wenn se Dr g'fallt, so wà mr das Ding
                         derno scho arrangiere mit dr G'sellschaftere...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+89,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Los Pape... das geht nitt... Dü kennsch jo mi Abneigung
                         gege d'Hiroth.
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+90,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Emil!... das isch nitt natürell... Dü verstecksch mir
                         ebbes.
                     
 
           
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+91,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Was sage!...
 (me hört e Glocke lüte)
-"
-unknown,Herr SCHIMMEL,M,,,"
+.
+
+        
+",lustig-d-gsellschaftere
+92,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 's lütet am Hofthor d'vorne... wer mag uns jetz
                         scho-n-eso frieih e Visite mache?...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+93,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (kunnt hinte-n-ine ku z'laüfe)
+
+          
 Do isch se!... do isch se... ich ha se scho vo Witem
                         g'sàh ku un ha denkt, ich will Eüch preveniere!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+94,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Wer denn... wer isch do?
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+95,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 D'Jumpfer Faste... 's ka nieme-n-anders si... 's Kleid
                         un d'Haltung, alles isch wie mir se-n-ihre Müetter
                         b'schriwe hat...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+96,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (lislig züem Emil)
+
+          
 's isch d'Jumpfer Tülipa! ich hoff, Dü wirsch vernünftig
                         si!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+97,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Güet, ich mach mi dervo!...
 (er laüft hinte-n-üse)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+.
+
+        
+",lustig-d-gsellschaftere
+98,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Eh bien... was soll das bedite... worum laüft er jetz
                         eso furt?...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+99,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Worum... weiss ich's!... er isch doch züe arg schich fir
                         e junger Mensch!
                     
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+100,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ich will hoffe, Mann, ass Dü die Jumpfere güet empfange
                         wirsch!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+101,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Dü brüchsch kei Angst z'ha... ich verlang jo nitt mehr
                         as se güet z'empfange.
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+102,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (kunnt hinte-n-ine, se hat schier allewil d'Aüge
                         niederg'schlage)
                     
+
+          
 Me hat mr g'sàit, ich seig recht do... bi dr Madame
                         Schimmel, nitt wohr... ich bi d Jumpfer Faste, wo sie
                         so g'fàllig wànn si un in Ihre Hüs ufnàmme... mi Herz
@@ -845,85 +1453,139 @@ Me hat mr g'sàit, ich seig recht do... bi dr Madame
                         Herze z'harmoniere... ich hoff, ass dr Himmel Ihne
                         vergelte wird, was Sie Güet's an mir thien...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+103,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Willkumme, willkumme, mi güete Jumpfer Faste... ich bi
                         enchantiert, ass Se jetz bi-n-is isch... doch
                         ha-n-ich Se-n-erst in e paar Tage-n-erwartet?...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+104,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 's isch wohr... ich ha viellicht z'viel pressiert...
                         awer 's isch gsi, wie wenn mich e-n-unsichtbare
                         Macht furttriwe hätt, fir do ane z'ku... un ich wird
                         jetz glicklig si, wenn Se mich b'halte wànn.
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+105,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (ribt si d'Hànd, fir sich)
+
+          
 Se spielt ihre Rolle ganz güet, d'Jumpfer Tülipa...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+106,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Sie wird jetz wohrschinlig mied si ab dr Reis'... mr
                         wànn jetz gli sorge, ass Sie sich dervo erhole ka.
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+107,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Sie glaübt nitt, was uns Ihre-n-Akunft fir e Plaisier
                         macht!
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+108,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Dr Herr Schimmel, mi Mann, wo-n-ich Ihre vorstell!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+109,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Se schlat d'Aüge nieder... se-n-isch magnifique!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+110,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Ich find, dà Herr hat e gar frecher Blick!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+111,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Un wie geht's denn allewil in minere-n-alte Frindin?
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+112,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Mi Müetter isch gottlob g'sund und wohl.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+113,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Un do will Se denn, Jumpfer Faste, wirklig später ins
                         Kloster geh?
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+114,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Mi Müetter hat mir g'rothe, ich soll noch recht driwer
                         nodenke... drum hat se mich fir e Zitlang in
                         d'Welt üseg'schickt, fir z'lüege-n-eb ich nitt
@@ -932,174 +1594,311 @@ Mi Müetter hat mir g'rothe, ich soll noch recht driwer
                         die Zit ohne Mieih iwersteh wird un ass ich derno mit
                         Freide-n-in d'Einsamkeit z'ruck gang...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+115,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (lislig züer Jumpfer Faste)
+
+          
 Sie spielt Ihre Rolle ganz merkwürdig güet!...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+116,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Was will denn eigentlig dà Mann mit mir!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+117,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Vo allem dem wà mr später noch rede... d'Haüptsach isch
                         jetz, ass Sie üsrüeht vo dr Reis'... mi Tochter
                         kunnt erst in e paar Tàg... einstwile-n-isch das Ihre
                         Wohnung... dert isch's Schlofzimmer... un 
+ wenn Se
+                        viellicht will üsgeh, so wird sich mi Suhn e Freid
+                        mache, Sie z'begleite...
+                    
 
-          
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+        
+",lustig-d-gsellschaftere
+118,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ihr' Suhn... hàn Sie ne Suhn?...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+119,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Unser Emil, jo... hat Sie's nitt g'wisst?... ich will
                         ne-n-Ihre derno glich presentiere, nitt wohr?...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+120,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (lislig züer Jumpfer Faste)
+
+          
 Thàt Se nur «jo» sage.
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+121,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Nei, nei, Madame Schimmel... un wenn ich das g'wisst
                         hätt, so wàr ich gar nie iwer Ihre Schwelle ku!
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+122,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Un worum denn das?
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+123,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Dr Mann isch unser Verdàrwe-n-uf dr Welt... un ich
                         schwache Kreatür will wache Tag und Nacht, ass mich
                         d'Versüechung nitt iwerwältige thüet!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+124,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Das isch güet g'funde... se-n-isch famos schlaü.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+125,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Fir d'Wohret z'sage, Jumpfer Faste, thüet Sie das Ding
                         jetz glaüb doch e wenig iwertriwe... awer das sin
                         Ihre Sache .. vor allem wà mr jetz geh z'Morge-n-esse,
                         Sie isst mit uns... mirhàn immer e-n-excellente
                         Kuche mit Wi vo-n-alle Sorte bis uf dr Champagner...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+126,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
-Sie wird mir erlaüwe, nitt an das Bankett z'sitze!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
-          
-Madame Schimmel.
-Hat Sie viellicht kei Hunger?
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
-          
-Jumpfer Faste.
-Im Gegetheil... ich bi as wie 's Volk Israël in dr
-                        Wieschte, vor ebb ene 's Brod vom Himmel owe-n-awe 
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+Sie wird mir erlaüwe, nitt an das Bankett z'sitze!
+
+        
+",lustig-d-gsellschaftere
+127,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
+Hat Sie viellicht kei Hunger?
+
+        
+",lustig-d-gsellschaftere
+128,comedy,"Jumpfer FASTE
+                    ",F,,,,"
+          
+Jumpfer Faste.
+
+          
+Im Gegetheil... ich bi as wie 's Volk Israël in dr
+                        Wieschte, vor ebb ene 's Brod vom Himmel owe-n-awe 
+ ku
+                        isch... awer dà Champagner!... nei... ich hätt Angst
+                        mich z'vergesse... 's isch mr liewer, wenn Sie mir
+                        do nur eifach gà losst, fir d'Natür z'befriedige.
+                    
+
+        
+",lustig-d-gsellschaftere
+129,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Madame Schimmel.
+
+          
 Wie Se will Sie liebt halt d'Einsamkeit... 's hat Jeder
                         sine-a-Idee ich will glich Ordre gà, ass me Sie
                         serviert...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+130,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 C'est ça!...
 (lislig züer Jumpfer Faste)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ Sie isch
+                        charmant!... wartet Se-n-nf mich... ich kumm derno,
+                        wenn uns mi Fraü nitt derangiere ka...
+                    
+
+        
+",lustig-d-gsellschaftere
+131,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich bi charmant!...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+132,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Au revoir, also .... Jumpfer Faste... thàt Se sich's
                         jetz bequem mache.
                     
 
+          
+
             
 G'sang
+
+            
 (Auf den Alpen)
+
+            
 Ungeniert ka Sie do wohne,
+
+            
 Niene hätt Sie's jo so güet.
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+133,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
 
+          
+
             
 Mag dr Himmel Sie belohne,
+
+            
 Fir was Sie an mir jetz thüet.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+134,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
 
+            
+
               
 Wenn dr Herr Sie will bekehre,
+
+              
 Müesst Se-n-als nitt uf ne höre,
+
+              
 Denn nit Güet's thàt er Se lehre,
+
+              
 Er hat d'Tugend nitt im Blüet.
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+135,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
 
+            
+
               
 Die ka eim 's Verstelle lehre!
+
+              
 Soviel as ich jetz thüe höre,
+
+              
 Wott ich selwer schiergar schwöre,
+
+              
 Ass sie's nitt üs List nur thüet.
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+136,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (allei)
+
+          
 Se wànn mich bekehre!... so isch se jetz, die Welt; küm
                         bin ich in das unreine Babylon ku, so thüet sich
                         scho dr Abgrund unter mine Fiess uf... bim erste
@@ -1127,227 +1926,396 @@ Se wànn mich bekehre!... so isch se jetz, die Welt; küm
                         's isch e reine Liewe, wo nit weltligs an sich hat...
                        
 (se zieht's üse)
+ das Bild isch's Band, wo mich an
+                        e andere Heimeth bindet!
 ('s kunnt e Diener
                         hinte-n-ine. bringt 's Esse un geht wieder üse)
+ Wer
+                        kunnt?...
 (se steckt 's Portrait i)
+ ah... 's isch 's
+                        Morgenesse... awer vorher will ich noch e güet
+                        Büech üssüeche dert, denn d'geistige Nahrung derf nitt
+                        vergesse si
 (se süecht e Büech)
-"
-unknown,OSCAR,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+137,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (noch immer als Jumpfre, kunnt lislig züe sim Zimmer
                         üse)
                     
+
+          
 Hat mich eigentlig dr Emil vergesse
 (er sieht dr Tisch)
+
+                        aha, nei... dr Tisch isch jo g'ristet...
 (er
                         sitzt dra)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ er hat mr schint's nitt känne riefe... ich
+                        ha recht g'ha, ass ich bi ku lüege...
+                    
+
+        
+",lustig-d-gsellschaftere
+138,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Nit as nur immer dr Voltaire... das werde wohrschinlig
                         in dem Herr Schimmel sine Biecher si!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+139,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (springt uf)
+
+          
 Was!... 's isch ebber do!... jetz bin i verrothe!
 (er
                         sitzt wieder)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+140,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Tiens... ich bi schint's nimmig allei... was isch jetz
                         das fir e junge Person, wo sich züe mim Kaffee
                         setzt?...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+141,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (fir sich)
+
+          
 Ah...das isch g'wiss d'Gsellschaftere, wo dr Emil g'sàit
                         hat... ich sieh's ere-n-a... wenn ich se thàt e
                         wenig intriguiere?...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+142,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Isch Sie viellicht o noch e Tochter üs em Hüs... dr
                         zweite wiblige Sprosse vo de Schimmel?...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+143,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (steht uf un kunnt fire)
+
+          
 O nei, Jumpfer...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+144,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich heiss Faste.
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+145,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 O nei, Jumpfer Faste... ich bi nur e Cüsine...
 (fir
                         sich)
+ 's isch se... ich ha's wohl g'merkt
 (lüt)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ derft
+                        ich Sie viellicht ilade, mi Kaffee mit mir z'theile?...
+                    
+
+        
+",lustig-d-gsellschaftere
+146,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Ihre Kaffee!...
 (lüt)
-"
-unknown,OSCAR,M,,,"
+ Ich sag nitt nei... awer wie
+                        kunnt's, ass Sie jetz do isch?... D'Madame Schimmel
+                        hat mir doch g'sàit, ich kännt ganz allei wohne do
+                        hinte...
+                    
+
+        
+",lustig-d-gsellschaftere
+147,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Ah, Sie wohnt do...
 (fir sich)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ wenn das isch, so wird
+                        ich ere miesse mi G'heimniss avertraüe... awer nitt
+                        's ganze!
+                    
+
+        
+",lustig-d-gsellschaftere
+148,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Se isch wohrschinlig in Ihrer Tante ku ne Visite
                         mache?...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+149,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (setzt si an Tisch; d' Jumpfer Faste macht em
                         vis-àvis; beide fange-n-a z'esse)
                     
+
+          
 Im Gegetheil... mi Oncle un Tante wisse gar nitt, ass
                         ich do bi... un wil Se jetz eso viel weisst vo mim
                         G'heimniss, so will ich Ihre dr Rest noch sage... awer
                         verspricht Se mir z'erst, ass Sie in nieme
                         verrothe will, was Sie höre wird...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+150,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich versprich's Ere...
 (fir sich)
-"
-unknown,OSCAR,M,,,"
+ was wird ich wieder
+                        miesse höre!...
+                    
+
+        
+",lustig-d-gsellschaftere
+151,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Eh bien, so müesst Se wisse, ass ich d'vergangene Nacht
                         uf em Maskeball gsi bi...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+152,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh!...
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+153,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Un ass ich dert e junger Mensch atrofte ha, wo mich gern
                         hat...
                     
 
           
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+154,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh!... oh!...
 (se hebt d'Hand vor d'Aüge)
-"
-unknown,OSCAR,M,,,"
+ un derno...
+                    
+
+        
+",lustig-d-gsellschaftere
+155,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Un derno hat's mi Vater erfahre un hat mich welle
                         hole... un wil er mir's verbote g'ha hat, so bin ich
                         halt furtg'loffe do ane un traü jetz nimmig heim...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+156,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Ne Ummeziegere!
 (se steht uf; lüt)
-"
-unknown,OSCAR,M,,,"
+ wenn ich das g'wisst
+                        hätt, so wàr ich nitt mit Ihre an dr gliche Tisch
+                        g'sesse:
+                    
+
+        
+",lustig-d-gsellschaftere
+157,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Thàt Se mich nur ahöre!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+158,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh!... ich bedür Se wider mi Wille!... Sie, noch so
                         jung, hat sich scho lo verfiehre vo me junge
                         Mensch!... Oh, mi Tochter! wer wird Sie vom Abgrund
                         z'ruckhalte!?
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+159,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Un wege dem weisst jetz nieme-n-ass ich do bi..
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+160,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Gar nieme?...
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+161,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Üsg'numme dr Emil, mi Cüsin...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+162,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Dr Emil... noch e junger Mensch, wo Sie ka in
                         Versüechung fiehre!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+163,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Do isch jetz kei G'fohr... awer ich ha Angst vor
                         sine-n-Eltre... vor dr Müetter b'sunders... denn eso
                         coquettisch as se-n-als gsi isch in dr Jugend, eso
                         streng isch se jetz im Alter!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+164,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Wo Se noch mehr Angst müess ha, das isch vor de
                         Mànner... in dàne, o mi Tochter, müesst Se-n-üswiche,
                         wo
@@ -1355,261 +2323,493 @@ Wo Se noch mehr Angst müess ha, das isch vor de
                     
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+165,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (fir sich)
+
+          
 Das isch jetz emol ag'nehm az'höre!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+166,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh, wenn ich Se doch nur kännt uf dr rechte Weg
                         z'ruckbringe,
                     
 
+          
+
             
 G'sang
+
+            
 (t'en souviens tu Marie)
+
+            
 So jung un scho so stark
+
+            
 Fir 's Böse, 's isch doch arg!
+
+            
 O Schwester, hör uf mich,
+
+            
 Bekehre will ich Dich.
+
+            
 (se nimmt em d'Hand)
+
+            
 Viel Freid will ich dra ha,
+
+            
 Wenn ich Dich rette ka
+
+            
 Noch üs dem Netz, wo do
+
+            
 Dir d'Liewe spannt eso.
+
+          
+
+          
 (Se losst d'Hand fahre, fir sich)
+
+          
 ich weiss nitt, was ich empfind bi dàre Person!... 's
                         isch as wie wenn d'Angst un Freid mitnander
                         thàte-n-in mi Herz izieh!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+167,comedy,OSCAR,M,,,,"
           
 Oscar.
 
+          
+
             
 Ich mach dr erste Schritt,
+
+            
 Verspreche thüe-n-ich hit,
+
+            
 Ass nie kei Mann me ka
+
+            
 Mi Herz mir mache z'schla!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+168,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
 
+          
+
             
 Isch das jetz wirklig wohr,
+
+            
 Siehsch Dü se-n-i, die G'fohr?
+
+            
 Entsage thüesch dàr Lust?
+
+            
 So kumm denn an mi Brust!
+
+          
+
+          
 (Se umarmt 'n, stosst 'n awer glich wiederz'ruck,
                         fir sich)
                     
+
+          
 wieder die gliche-n-Empfindung... ich weiss gar nitt,
                         was ich denke soll!
                     
 
           
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+169,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Awer hingege, nitt wohr, zähl ich druf, ass Sie in nieme
                         nit sàit vo mir, so lang as ich do bi?
 (er will
                         ere d'Hand nàh)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+170,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Retro, retro!... riehrt Se mich nimmig a!... ich weiss
                         nitt, was ich ha... do steckt ebbes derhinter!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+171,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Sie refüsiert?...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+172,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (ufg'regt)
+
+          
 Ich will nit meh wisse, wenn ich Ere sag! verlosst mich,
                         's wird 's Beste si...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+173,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Sie müess nitt bös werde, Jumpfer Faste... ich gang...
                         awer ich ha-n-Ihre Verspreche... Sie derf nit
                         sage...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+174,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
-(fir sich)
-Ich zittter ganz, ohne z'wisse worum...
-(lüt)
-"
-unknown,OSCAR,M,,,"
-          
-Oscar.
-Merci, Jumpfer Faste... Sie isch charmant...
-(fir sich)
-(er geht üse rechts)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
-          
-Jumpfer Faste.
-Die Aüge! un wie se das g'sàit hat « Sie isch charmant
-                        », grad as wie dr andere, dr Herr Schimmel,
 
           
+(fir sich)
+
+          
+Ich zittter ganz, ohne z'wisse worum...
+(lüt)
+ ich ha nur
+                        ei Wort... Sie ka zähle druf, ich sag nit, awer
+                        geht Se...
+                    
+
+        
+",lustig-d-gsellschaftere
+175,comedy,OSCAR,M,,,,"
+          
+Oscar.
+
+          
+Merci, Jumpfer Faste... Sie isch charmant...
+(fir sich)
+
+                        s' Beste wird si, ich changier mi un mach jetz,
+                        ass i furt kumm
+(er geht üse rechts)
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+176,comedy,"Jumpfer FASTE
+                    ",F,,,,"
+          
+Jumpfer Faste.
+
+          
+Die Aüge! un wie se das g'sàit hat « Sie isch charmant
+                        », grad as wie dr andere, dr Herr Schimmel,
+ ich
+                        g'spir dr böse Find in alle-n-Ecke un ka nitt g'nüeg
+                        Achtung gà, ass ich mich nitt umstrike loss ..
+                        doch, wer hör i do ..
 (dr Herr Schimmel kunnt
                         hinte-n-ine)
-"
-unknown,Herr SCHIMMEL,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+177,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (kunnt fire)
+
+          
 Sie isch allei! .. desto besser .. mi Fraü isch
                         b'schàftigt, mr hàn nit z'riskiere... awer fir sicherer
                         z'si, kännt Se viellicht sàlle Thüre züegschpliesse
 (er
                         zeigt uf d'Thüre hinte)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+178,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Züegschpliesse!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+179,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Eh jo... fir ass uns nieme störe ka...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+180,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Was wird jetz uf mich warte!
 (se geht
                         gehzüegschpliesse)
-"
-unknown,Herr SCHIMMEL,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+181,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 
             
 's isch bis dohi
+
+            
 Jetz pràchtig gsi,
+
+            
 G'wiss, ich ha Freid do dra,
+
+            
 Sie müess dr Sterne ha!
+
+            
 Mi Fraü merkt nit,
+
+            
 Mir hàn dr Zit.
+
+            
 Binander z'si, mir Zwei,
+
+            
 Do ganz allei.
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+182,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
 
+            
+
               
 Mi Fraü trumpiere,
+
+              
 Das wà mr prawiere!
+
+              
 's müess schnell marschiere,
+
+              
 Denn schwinde thüet d'Zit!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+183,comedy,"Jumpfer FASTE
+                    ",F,,,,"
             
 Jumpfer Faste.
 
+            
+
               
 Si Fraü trumpiere,
+
+              
 Das will er prawiere!
+
+              
 Fir mich z'verfiehre,
+
+              
 Verliert er si Zit!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+184,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Se schint e wenig schich z'si, die Jumpfer Tülipa... un
                         doch, wi mir mi Schwester g'sàit hat... enfin,
                         als züekünftiger Schwiegervater müess ich
                         ihre-n-Avances mache...
 (lüt)
+ kàm Se jetz emol do ku
+                        nàwe mi
+                        sitze, ass mir schwàtze känne...
 (er sitzt ufs
                         Kanapee)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+185,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich bi g'wiss nitt mied, Herr Schimmel!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+186,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Eh, kàm Se doch nur, mr hàn nur e-n-Aügesblick Zit un
                         känne nitt lang Zeremonie mache!...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+187,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Nei, nei... ich will Ene respectvoll, awer ufrecht
                         züelose, wenn Sie mir ebbes z'sage hàn...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+188,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 's handelt sich jetz nitt um Respect... sitzt Se jetz do
                         ane oder Se macht mi bös!...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+189,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Alle Heilige solle mir bisteh!
 (se sitzt ganz ans
                         undere-n-End vom Kanapee)
-"
-unknown,Herr SCHIMMEL,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+190,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Besser züe mr, besser züe mr... mach ich Ihre denn Angst
                        
 (er macht se züe si z'rucke)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+191,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 O Gott, o Gott!...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+192,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich weiss nitt... awer wie me mir g'sàit hat, sott Sie
                         ganz anderscht si... me hat mir e Person
                         annonciert, e wenig original, 's isch wohr... awer mit
@@ -1618,149 +2818,239 @@ Ich weiss nitt... awer wie me mir g'sàit hat, sott Sie
                     
 
           
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+193,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 D'Welt isch halt verdorwe... ich verzeih ere, wenn se 's
                         Schlechte gege mich redet!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+194,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Voyons... thàt Se sich jetz doch nimmig verstelle!...
                         Sie traüt sich viellicht nitt z'zeige vor mir ganz
                         wie Se-n-isch... awer Sie hat' Unrecht... ich weiss jo
                         wohl, ass me-n-ei Aüg müess züemache mit de junge
                         Lit.
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+195,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Dà Mann isch dr böse Geist selbst!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+196,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Also, thàt Se jetz dà Larifari absite lo... Sie denkt
                         wohl, ass mir uns z'erst e wenig versteh mien, we
                         mr mi Fraü wànn trumpiere mitnander.
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+197,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ihre Fraü trumpiere!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+198,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Oh, 's isch nitt difficil... awer doch, mit ihre-n-Idee,
                         wo se hat, werde mr Mieih ha, fir ihre-n-unsere
                         Liewesg'schichte mache z'acceptiere!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+199,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Worum bin ich nitt mit Taübheit g'schlage!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+200,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Awer Sie brücht kei Angst z'ha... ich will mi Wille scho
                         duresetze... un ich will nitt rüehe, bis ich
                         Ihre Wunsch erfillt ha!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+201,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Mi Zunge-n-isch as wie g'lähmt!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+202,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Eh bien... was hat Se denn... ich verstand Se wirklig
                         nitt... e-n-andere-n-an Ihrem Platz hatt mich scho
                         lang um dr Hals gnu, fir sich z'bedanke!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+203,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Dr Abscheü macht mich z'verstumme!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+204,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 So thàt Se denn emol rede!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+205,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (steht uf)
+
+          
 Jà, ich will rede, Sie verbrecherischer Mensch ass Sie
                         sin!... un mi Stimm soll ertöne as wie d'Trumpete
                         am jüngste G'richt!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+206,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (steht uf)
+
+          
 Was thüet Se mir jetz do verzähle, was soll das
                         bedite?...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+207,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich will rede-n-un will Ihre-n-ehrlose Plàn in alle Lit
                         offebare!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+208,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (geht gege se)
+
+          
 Décidément... ich glaüb wirklig, Sie verliert dr Kopf!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+209,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Riehre Se mich nitt a!... thien Se mich nitt mit Ihrem
                         giftige-n-Oden beftecke...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+210,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Nur g'mach... nur nitt so hitzig... 's müess do ne
                         Missverstàndniss si wohrschinlig... isch Sie denn
                         nitt...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+211,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Nei, ich bi nitt was Sie meine, Sie unverschàmter
                         Mensch, ass Sie sin... ich verwünsch Se in alle
                         Ewigkeit... dr Bode soll unter Ihre Fiesse verdärre un
@@ -1768,122 +3058,217 @@ Nei, ich bi nitt was Sie meine, Sie unverschàmter
                         sich her verbreite!
 (se g'schpliesst uf un laüft
                         hinte-n-üse)
+.
+                    
 
           
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+212,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Hat me jetz scho-n-emol eso ebbes g'sàh!... isch die
                         g'schittelt?... am End isch's gar d'rechte Jumpfer
                         Faste... uf jedefall isch's die nitt, wo mir mi
                         Schwester hätt sotte schicke... das thüet jetz wieder
                         alles verderwe!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+213,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (kunnt hinte-n-ine, ohne si Vater z'sàh)
+
+          
 Was fir e Züefall!... sie, wo-n-ich scho so lang im
                         Stille-n-abete ha, isch do... in unsrem Hüs!... ich
                         müess das im Oscar avertraüe un en um Roth froge...
                         tiens, mi Vater!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+214,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ah, Dü bisch's, Emil... thüesch Dü mich süeche?
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+215,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Was isch Dr?... De schinsch mr eso verstört z'si?...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+216,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 's isch o kei Wunder... grad ha-n-ich mit dàre Person
                         g'redt un müess jetz leider glaüwe, ass es
                         d'Jumpfer Tülipa gar nitt isch!...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+217,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Un ich bi ganz sicher, ass es se nitt isch!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+218,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Wieso das?...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+219,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Se-n-isch grad vorig nàwe mr dure-n-im Garre, ohne mich
                         z'sàh, denn ich ha mich uf d'Site g'macht, un do
                         ha-n-i se ganz güet erkennt!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+220,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Erkennt?... was witt mit dem sage?
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+221,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Jetz ha-n-ich mich verrothe!...
 (lüt)
-"
-unknown,Herr SCHIMMEL,M,,,"
+ los, Vater, ich
+                        mag Dir das nitt sage!
+                    
+
+        
+",lustig-d-gsellschaftere
+222,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Was isch jetz das wieder fir e G'heimniss?... g'schwind
                         üse mit!... Dü sollsch in Dine-n-Elt're nit
                         verstecke!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+223,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Eh bien... 's isch gsi züer Zit, wo-n-ich noch z'Befert
                         im Lycée gsi bi... dert ha-n-ich se-n-ais g'sàh
                         mit de-n-andere-n-Elèves in dr Kirche.
                     
 
+          
+
             
 G'sang
+
+            
 (Loreley.)
+
+            
 Ich weiss nitt, was ich Dir soll sage,
+
+            
 's isch so unschuidig gsi,
+
+            
 Dena 's stammt noch her vo sàlle Tage,
+
+            
 Wo-n-ich Student gsi bi;
+
+            
 Gar vielmol ha-n-ich sie bewundert,
+
+            
 Ihr' Andacht hat mich g'riehrt,
-"
-unknown,EMIL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+224,comedy,EMIL,M,,,,"
             
 Emil.
+
+            
 
               
 Ich hätt se jetz kennt unter Hundert
+
+              
 Un hätt mich nitt trumpiert!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+225,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
 
+            
+
               
 Ich bi jo wahrhaft ganz verwundert,
+
+              
 Ich ha mich halt trumpiert!
-"
-unknown,EMIL,M,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+226,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 
             
 Derno wàr's also d'wirklige Jumpfer Faste, wo mr
@@ -1891,86 +3276,146 @@ Derno wàr's also d'wirklige Jumpfer Faste, wo mr
                             se-n-az'lüege oder mit ere z'rede... ich zähl druf,
                             ass Dü mir folge thüesch!
                         
-"
-unknown,EMIL,M,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+227,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wenn Dü's halt durchüs ha witt... awer...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+228,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ich will lüege, ass ich se-n-eso bol as möglig üs em Hüs
                         schaffe ka!
                     
 
           
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+229,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Dü witt se furtschicke?...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+230,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Wie eher wie liewer... ich will mit Dinere Müetter rede
                         un will hoffe-n-ass se trotz ihre-n-Idee... doch
                         ich hör se glaüb ku... do isch se... desto besser...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+231,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Mi Müetter o noch... jetz ka-n-i nitt mit em Oscar
                         rede!
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+232,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (kunnt hinte-n-ine, zornig)
+
+          
 's isch schàndlig... 's isch himmelschreiend!... oh! ich
                         kenn mi nimmig vor Zorn!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+233,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Was isch... was hasch wieder?...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+234,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Was ich ha?... Dü brüchsch noch z'froge!... Di Complott
                         ha-n-ich entdeckt, ass Dü's nur weisch!... do
                         isch dr Brief, wo-n-ich uf Dim Secretär g'funde ha!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+235,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Dr Brief vo minere Schwester! desto besser!...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+236,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Emil, gang... loss uns allei...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+237,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich verlang nitt mehr...
 (fir sich)
+ wenn's viellieht
+                        gieng!... ich will's prawiere...
 (er macht
                         dergliche-n-üse z'geh un schlicht derno, ohne-n-ass
                         me's sieht, in d'Stuwe vom Oscar)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+238,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
                         Schwester, wo-n-ich nitt lide ka, hàn ihr's derzüe
                         brocht, mir e falsche G'sellschaftere ins Hüs
@@ -1979,396 +3424,678 @@ Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
                         ne lichtsinnige Person... un wo sich verstelle ka!...
                         nei!... 's isch nitt erlaübt!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+239,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Güet, ich will gli vo ihrem Irrthum profetiere...
 (lüt)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+                        was witt halt... wenn ich's g'macht ha, so isch's
+                        nur in ere ganz güete-n-Absicht gsi...
+                    
+
+        
+",lustig-d-gsellschaftere
+240,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Dü g'stehsch's also i!
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+241,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Natirlig... denn ich bi jo z'erst trumpiert worde... die
                         Person isch gar nitt, was me mir g'sàit hat...
                         un ihr' Betrage gege mich isch ere, b'sunders nitt
                         z'verzeihe!...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+242,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Worum... was isch denn gsi?...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+243,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Eh, vorig bin ich do züefällig allei bi-n-ere gsi... un
                         do hat se...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+244,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Un do hat se... was hat se?...
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+245,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 D'Coquette g'spielt... ass se mir nitt e Declaration
                         g'macht hat, isch alles gsi...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+246,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Isch's möglig!...
 
           
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+247,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Wenn ich nitt eso standhaft gsi wàr... awer in dere
                         ha-n-ich's g'sàit.
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+248,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Das isch jo jetz abscheülig! ich hoff, De wirsch se vor
                         d'Thüre stelle!...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+249,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (fir sich)
+
+          
 Ich ha's g'wunne!...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+250,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Doch, do isch se glaüb... se kunnt grad recht... ich
                         will emol mit ere rede!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+251,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Aha... find ich Se-n-endlig, Madame Schimmel... ich ha
                         Se vergewes iwerall g'süecht...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+252,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (unterbricht se)
+
+          
 Ich ka nimmig schwige!... 's müess üse!... Jumpfer
                         Tülipa, Ihr' Betrage-n-isch schàndlig...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+253,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 Jumpfer Tülipa?
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+254,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 's isch nitt genüeg, ass Sie sich unter eme falsche Name
                         in mi Hüs g'schliche hat... awer Sie thüet sich
                         noch d'frechste Handlunge erlaüwe!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+255,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich süech vergewes Ihre Worte-n-üsz'lege!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+256,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 's isch unnothig, ass Se sich langer verstellt!
+
+          
 
             
 G'sang
+
+            
 (O Tannenbaum)
+
+            
 G'steht Sie's emol,
+
+            
 Sie weisst gar wohl,
+
+            
 Was ich mit dem will sage!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+257,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 
             
 Ich weiss nitt, was die hàn mit mir,
+
+            
 Se mache mich bol hinterfir;
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+258,comedy,"Jumpfer FASTE
+                    ",F,,,,"
             
 Jumpfer Faste.
 
+            
+
               
 Ich kumm nitt drüs.
+
+              
 Was in dem Hüs
+
+              
 Ich alles müess ertrage!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+259,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Herr un Madame Schimmel.
 
+            
+
               
 Sie müess mr drüs,
+
+              
 Denn in mim Hüs
+
+              
 Ka-n-ich das nitt vertrage!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+260,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Jumpfer Tülipa, ich hätt Ere viellicht noch känne
                         verzeihe, ass Se ne falscher Name agnu hat... awer ass
                         Se noch mi Mann hat welle verfiehre, das isch doch e
                         wenig z'bunt!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+261,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Thüet er mich aklage?... 's hat sunscht nit meh
                         g'fehlt...
 (decouragiert)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ ich mag Ene gar kei Antwort
+                        meh
+                        gà!
+                    
+
+        
+",lustig-d-gsellschaftere
+262,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Sie ka wohl denke, ass Sie uf das hi nimmig do im Hüs ka
                         bliwe... ich gib Ere ne halb Stund, fir
                         ufz'packe!...
 (Herr un Madame Schimmel gehn
                         hinte-n-üse)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+263,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
-(allei)
-Oh, se thàt mich vergewes z'ruckhalte!... mit Freide
-                        will ich dà Ort verlo, wo alle Sünde sich uf-
 
           
+(allei)
+
+          
+Oh, se thàt mich vergewes z'ruckhalte!... mit Freide
+                        will ich dà Ort verlo, wo alle Sünde sich uf-
+halte
+                        thien... se stelle mich üse... 's macht nit, denn ich
+                        bi Meister worde-n-iwer die, wo mich ins Verdàrwe
+                        hàn welle brlnge... ne g'heimnissvolle Macht hat mich
+                        unterstützt in dem Kampf
 (se zieht 's Portrait
                         üse)
+ un jetz wà mr denn wieder z'ruck geh, züe dàne, wo
+                        in dr G'rechtigkeit lewe!... awer vorher will
+                        ich in dàre junge Person dert noch e güeter Roth
+                        ertheile un will se warne vor em Abgrund!...
 (se klopft
                         an d'Thüre rechts)
+ kàm Se ne wenig... ich ha noch ebbes
+                        mit Ere z'rede... do isch se... se kunnt...
 (se
                         geht hintere, fir z'lose, eb nieme kunnt)
-"
-unknown,OSCAR,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+264,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (in Mannerkleider, unter dr Thüre lislig züem
                         Emil)
                     
+
+          
 Wart e-n-Aügesblick... Dü machsch Dich derno dervo,
                         wàhrend ass ich mit ere red'...
 (züer Jumpfer Faste)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+                        Sie hat mr g'rüefe... do bin i...
+                    
+
+        
+",lustig-d-gsellschaftere
+265,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ne Herr!... ne Herr!... wer sin Sie?... wo kämme Sie
                         her?...
 (se hebt d'Hànd vor 's G'sicht, fir ne nitt
                         z'sah)
-"
-unknown,OSCAR,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+266,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 B'schaüt se mich emol recht, Jumpfer Faste... Sie wird
                         mich derno glich wieder erkenne!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+267,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Die Stimm isch mir bekannt...
 (se macht langsam d'Hànd
                         vom G'sicht)
-"
-unknown,OSCAR,M,,,"
+ Isch's möglig! Sie isch's, in
+                        Mànnerkleider!... was kunnt Ihre jetz i, sich eso
+                        z'verkleide?...
+                    
+
+        
+",lustig-d-gsellschaftere
+268,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Sie trumpiert sich... jetz bin ich nimmig verkleidet...
                         vorher bin ich's gsi!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+269,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ne Herr!... e wirkliger Herr!... un si Hand isch in
                         minere Hand gsi!... un ich ha-n-em e Schmutz gà!...
                         Schand... Schand!... ewige Schand iwer mich!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+270,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Sie müess mr verzeihe... thàt Se mich ahöre...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+271,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Kämme Se nitt züe mr... um kei Schritt... retro
                         Satanas!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+272,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 's isch mr Leid... ich ha Se nitt welle beleidige... un
                         was ich Ihre vorher verzählt ha, isch wohr... nur
                         anstatt d'Jumpfre bin ich dr junge Mensch gsi, un bin
                         en noch... ich ha mich jetz halt doch decidiert
                         fir heim z'geh...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+273,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 Was wird jetz eigentlig noch iwer mich ku in dem Hüs!...
                         's isch Zitt, ass ich mich uf der Weg mach...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+274,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (kunnt vorsichtig hinte-n-üse)
+
+          
 Ich müess jetz doch mache-n-ass ich furt kumm... dr Pape
                         süecht mich am End!...
 (er geht gege dr Thüre
                         hinte)
-"
-unknown,OSCAR,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+275,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Also nit fir ungüet Jumpfer Faste... mir wànn als güete
                         Frind vonander geh...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+276,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (wo hinte g'lüegt hat)
+
+          
 Herrje, d'Mame!...
 (er versteckt si hinter d'Vorhàng vom
                         Fenster)
+.
+                    
 
           
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+277,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (züem Oscar)
+
+          
 's kunnt ebber... gehn Se nur g'schwind wieder dert ine,
                         nitt ass me-n-uns sieht binander... ich thàt jo
                         sterwe vor Scham!
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+278,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Ich zahl uf Ihre Verschwiegeheit!
 (er verschwindet
                         rechts)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+279,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (kunnt hinte-n-ine, zornig)
+
+          
 Aha... er isch noch do!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+280,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Verzeiht Se mr, ass ich no nitt furt bi... ich will mich
                         jetz grad uf dr Weg mache...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+281,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ah so!... Sie wànn sich uf dr Weg mache!... 's handelt
                         sich jetz nimmig um das.
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+282,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Was isch denn wieder... was mag Sie jetz in eso ne Zorn
                         bringe?...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+283,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Un Sie froge noch! meine Se ebbe, ich kenn Sie nitt,
                         Herr Oscar?... vorher ha-n-ich mich trumpiert
                         g'ha... mi Mann hat mr g'stande, was an dr Sach isch
                         mit dr Jumpfer Tülipa... awer jetz weiss ich
                         endlig, wer Sie sin?
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+284,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (fir sich)
+
+          
 O das noch!... ha-n-ich denn no nitt g'nüe g'litte!...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+285,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ah so... Sie gehn uf dr Ball als Jumpfere-n-aglegt un
                         iwerrede ne junge Person, fir mit Ene z'ku, fir
                         se-n-eso z'compromittiere un glaüwe, Se derfe sich nur
                         eso verstecke bi uns!
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+286,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Hat Sie denn eigentlig g'schwore, mich ganz üs de Füege
                         z'bringe!
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+287,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Wànn Sie's ebbe noch làigne?.. d'ganze Stadt redt
                         dervo... grad hat mir's d'Coiffeuse g'sàit... Ihr Vater
                         süecht se-n-iwerall un ebber, wo Sie kennt, hat Se jo
@@ -2376,260 +4103,444 @@ Wànn Sie's ebbe noch làigne?.. d'ganze Stadt redt
                         dert...
                     
 
+          
+
             
 G'sang
+
+            
 (partant pour la Syrie)
+
+            
 's blibt ewe nit verborge,
+
+            
 's kunnt alles wieder üs,
+
+            
 Me hat Se g'sàh dà Morge
+
+            
 Am Fenster do im Hüs;
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+288,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
 
+            
+
               
 Das isch e schöne G'schichte,
+
+              
 Kei Büess isch z'härt derfir,
+
+              
 Denn streng wird d'Welt Sie richte,
+
+              
 Sie derfe's glaüwe mir!
+
+              
 } bis
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+289,comedy,"Jumpfer FASTE
+                    ",F,,,,"
             
 Jumpfer Faste.
 
+            
+
               
 Das isch e schöne G'schichte,
+
+              
 's rüeht alles nur uf mir,
+
+              
 Sie thien mich ganz vernichte,
+
+              
 Ich wird noch hinterfir!
+
+              
 } bis
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-d-gsellschaftere
+290,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 G'wiss... das geht Ene jetz emol nitt dure!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+291,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich ha jetz satt an dàne Sache un will nit meh wisse...
                         ich will Gott danke, wenn ich emol üs dem Hüs
                         bi!
                     
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+292,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Se gehn mir awer nitt eso do üse... Sie verdiene
                         g'stroft z'si.... ich ha ewe-n-o ne Tochter un bi also
                         interessiert, ass eso Verfiehrer wie Sie nitt leer
                         üsgehn... Ihr' Vater isch preveniert, er wird Se ku
                         hole...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+293,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Isch Sie denn ganz vo Sinne!... un will Se mich jetz
                         eigentlig vor aller Welt làcherlig mache!...
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+294,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Einstwile g'schpliess ich Sie jetz i do!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+295,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh nei!... thien Se das nitt!... liewer alles
                         ertrage!... thàt Sie mich binde!... macht Se was Se
                         will,
                         nur thàt Se mich nitt in dem Zimmer igschpliesse!
                     
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+296,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ich los uf nit meh!...
 (se geht hintere)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+
+        
+",lustig-d-gsellschaftere
+297,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Dm alles, was Ere lieb isch, thàt Se das nitt!
 (fir
                         sich)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ z'erst wànn se mich üsestelle... jetz sperre se
+                        mich i!...
+                    
+
+        
+",lustig-d-gsellschaftere
+298,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Au revoir, Herr Oscar!
 (se geht hinte-n-üse un
                         gschpliesst d'Thüre züe)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+299,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ig'sperrt mit dem junge Mensch, wo alles im Stand
                         isch!... ich, wo scho-n-eso Mieih ha, fir nitt in
                         Versüechung z'falle!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+300,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (schaüt fire)
+
+          
 Ig'sperrt mit ere!... wenn das dr Pape wisse thàt!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+301,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Hat sich denn hit alles verschwore gege mich!...
 (se
                         losst sich uf e Stüehl sinke)
-"
-unknown,EMIL,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+302,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (schaüt fire)
+
+          
 Oh, wenn ich 'thàt traüe mit ere z'rede!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+303,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ne Idee!... ich gschpliess ne-n-i un wirf dr Schlissel
                         züem Fenster üse, derno ha-n-ich nit
                         z'riskiere!...
 (se gschpliesst d'Thüre züe rechts,
                         nimmt dr Schlissel, geht ans Fenster, wirft
                         ne-n-üse-n-un sieht dr Emil)
-"
-unknown,EMIL,M,,,"
+ ne Herr!... scho wieder e
+                        Herr!... dr böse Find hat se glaüb alle z'àmme
+                        gege mich g'schickt.
+                    
+
+        
+",lustig-d-gsellschaftere
+304,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (kunnt fire)
+
+          
 Jumpfer Faste... ich wott... ich hätt...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+305,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Herrgott, mi Heiliger!...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+306,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Hat se mich ebbe-n-o scho bemerkt g'ha frieiher?
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+307,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Sag mir, unbekannt G'schäpf, kunnsch Dü üs em Himmel fir
                         mich z'rette... oder üs dr Häll fir mich
                         z'verfiehre!... soll ich Dich abete oder verwünsche!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+308,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich weiss sicher nitt, Jumpfer Faste, wie Sie das
                         meint...
                     
 
           
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+309,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Oh, ich erkenn Dich ganz güet... grad eso bisch mir als
                         im Traüm erschiene... awer nei, gang... Dü bisch
                         wohrschinlig as wie d'andere...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+310,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich bi dr Emil... dr Suhn üs em Hüs...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+311,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Was ha-n-i g'sàit... ganz eifach e Mensch... gehn Se,
                         ich will Se nitt sàh!...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+312,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Awer, Jumpfer Faste... wenn Sie wisse thàt, wie lang ass
                         ich Se scho gern ha...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+313,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Was, er o?...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+314,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wenn Se-n-awer meint, so will ich riefe dert am Fenster,
                         ass me-n-is ufmacht...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+315,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Nei, riefe Se nitt... 's isch jetz z'spot... ich ka's
                         nimmig länger üshalte... b'schaü das Bild, wo-n-i
                         scho-n-eso lang uf em Herz notrag
 (se zeigt em 's
                         Portrait)
-"
-unknown,EMIL,M,,,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+316,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Mi Portrait!
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+317,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 's hat mich bis dohi vor jeder andre Liewe b'schützt,
                         awer jetz ka-n-ich in sinre Macht nimmig
                         widersteh...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+318,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Was... isch's möglig?... thàt Sie 's Kloster lo fahre
                         mir z'lieb!...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+319,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich ha jetz g'nüeg kàmpft un g'stritte... un 's hat
                         alles nit g'nutzt... ich bin iwerwunde... ich gib Dir
                         mi Lewe, mi Seel un alles z'àmme.
@@ -2637,240 +4548,424 @@ Ich ha jetz g'nüeg kàmpft un g'stritte... un 's hat
 
           
 
+          
+
             
 G'sang
+
+            
 (Fremersberg)
+
+            
 Ich ha jetz kàmpft scho lange Stunde,
+
+            
 Doch d'Kraft hat mich verlo,
+
+            
 Dr Böse hat mich iwerwunde
+
+            
 Jetz uf dr Erde do.
-Doch wenn emol sich d'Höll ufthüet,
-So soll's mir fehle nitt an Müeth,
-Wenn Dü se theile thüesch mit mir
-Un ass ich bliwe ka bi Dir.
-"
-unknown,EMIL,M,,,"
-          
-Emil.
 
             
 Doch wenn emol sich d'Höll ufthüet,
+
+            
+So soll's mir fehle nitt an Müeth,
+
+            
+Wenn Dü se theile thüesch mit mir
+
+            
+Un ass ich bliwe ka bi Dir.
+
+          
+
+        
+",lustig-d-gsellschaftere
+320,comedy,EMIL,M,,,,"
+          
+Emil.
+
+          
+
+            
+Doch wenn emol sich d'Höll ufthüet,
+
+            
 So soll's uns fehle nitt an Müeth,
+
+            
 Wenn Sie se theile thüet mit mir
+
+            
 Un ass ich bliwe ka bi Ihr.
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+321,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste
+
+          
 (zeigt uf d'Thüre hinte)
+
+          
 Mr dràiht dr Schlissel um... 's kunnt ebber!
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+322,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (fir sich)
+
+          
 Was wird dr Pape züe dem allem sage!
 (er steht hintere
                         uf d'Site rechts)
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+.
+                    
+
+        
+",lustig-d-gsellschaftere
+323,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
+
+          
 (kunnt hinte-n-ine)
+
+          
 Mi güete Jumpfer Faste... wie bin ich eso ung'recht gsi
                         mit Ihre!... awer 's isch alles ans Liecht ku...
                         dr rechte Herr Oscar isch dert
 (se zeigt ufs Zimmer
                         rechts)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ züem Fenster üseg'sprunge, grad wo si Vater
+                        ku isch... 's isch alles arrangiert... er hirothet 's
+                        Lenele.
+                    
+
+        
+",lustig-d-gsellschaftere
+324,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Das alles macht mir jetz nit meh, Madame Schimmel, Sie
                         hätt sich nitt brüche z'derangiere wege mir...
                     
 
           
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+325,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Im Gegetheil... ich will's Ere süeche z'vergelte... denn
                         ich bi ne Munster, ass ich Sie soupçonniert
                         ha... awer Sie verzeiht mr, nitt wohr?...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+326,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Wer verzeiht, dem wird verzeiht werde!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+327,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 A la bonne heure!... un in mim Mann o müesst Se
                         verzeihe... wo blibt er nur o
 (se kehrt si um un sieht
                         dr
                         Emil)
-"
-unknown,Herr SCHIMMEL,M,,,"
+ dr Emil!... was machsch denn Dü do?...
+                    
+
+        
+",lustig-d-gsellschaftere
+328,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
+
+          
 (kunnt hinte-n-ine)
+
+          
 Emil!... wo isch dr Emil!... ich süech ne jetz scho in
                         alle-n-Ecke!...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+329,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich bi do gsi, Pape... bi dr Jumpfer Faste... d'Mame hat
                         is vorig ig'sperrt mitnander...
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+330,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Was bisch Dü do ku mache?... ich ha Dir's doch verbote
                         g'ha!
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+331,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Ich ha welle züem Oscar geh!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+332,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Worum bisch derno nitt gange?...
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+333,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 Wil d'Jumpfer Faste dr Oscar ig'sperrt hat un dr
                         Schlissel züem Fenster üseg'worfe hat.
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+334,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Dr Himmel isch mi Zige, ass ich's üs ere güete-n-
                         Absicht g'macht ha!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+335,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Ah, dà Schlissel, wo-n-ich uf dr Kopf biku ha dunte im
                         Garte, isch vo do gsi... un wege dem isch dr Oscar
                         halt züem Fenster üse g'sprunge...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+336,comedy,OSCAR,M,,,,"
           
 Oscar
+
+          
 (kunnt hinte-n-ine)
+
+          
 Ich müess ku lüege, was do eigentlig vorgange-n-isch...
                         me hat mich ig'sperrt un derno ha-n-ich d'Jumpfer
                         Faste lüt höre rede un e-n-Art Deklaration mache im
                         Emil...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+337,comedy,EMIL,M,,,,"
           
 Emil.
+
+          
 De kasch o glich sage, ass se Schimpfworte vo minere
                         Müetter agnu hat, an Dim Platz, fir Dich nitt
                         z'verrothe!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+338,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Das isch wohr... se hat ihre Verspreche g'halte
 (züer
                         Jumpfer Faste)
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+ do isch mi Hand, Jumpfer Faste...
+                        wenn Sie will ischla, isch's e Zeiche, ass Sie mir
+                        nimmig zürnt...
+                    
+
+        
+",lustig-d-gsellschaftere
+339,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 O, ich ha jetz kei Angst meh vor Ene... ich kehr in
                         d'Welt z'ruck... ich g'spir, ass ich derfir g'macht
                         bi...
                     
-"
-unknown,EMIL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+340,comedy,EMIL,M,,,,"
           
 Emil
+
+          
 (züe Herr un Madame Schimmel)
+
+          
 Un wenn ihr uns d'Erlaübniss gàn, so hirothe mir
                         mitnander!
                     
 
           
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+341,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Was, ihr wànn hirothe mitnander!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-d-gsellschaftere
+342,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
+
+          
 Ich bi jo ganz verstünt ob dàre Bekehrung!...
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+343,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
+
+          
 Ich versprieh, Ihre Suhn glicklig z'mache; mir gehn
                         mitnander uf d'Bàll, ins Theater... ich will mich bis
                         iwer dr Kopf mittle-n-in d'Frei de vo dem Siècle werfe!
                     
-"
-unknown,Herr SCHIMMEL,M,,,"
+
+        
+",lustig-d-gsellschaftere
+344,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
+
+          
 Nur g'mach, Jumpfer Faste nur g'mach... 's isch mr
                         recht, ass Sie sich bekehrt... awér Sie müess jetz
                         nitt glich an d'andere Extremität welle!...
                     
-"
-unknown,OSCAR,M,,,"
+
+        
+",lustig-d-gsellschaftere
+345,comedy,OSCAR,M,,,,"
           
 Oscar.
+
+          
 Eh bien, Herr un Madame Schimmel... gàn Se-n-Ihre Sege
                         derzüe un mr wànn hoffe, ass in kurzer Zitt ne
                         ganze Heerd junge Schimmele do umelaüfe werde!...
                     
-"
-unknown,"Jumpfer FASTE
-                    ",F,,,"
+
+        
+",lustig-d-gsellschaftere
+346,comedy,"Jumpfer FASTE
+                    ",F,,,,"
           
 Jumpfer Faste.
 
+          
+
             
 Jetz, wo-n-ich e Mann bekumm,
+
+            
 Müess ich g'steh, 
 (bis)
+
+            
 Ass ich nimmig wàr so dumm
+
+            
 Un wott ins Kloster geh!
-"
-unknown,alle,B,,,"
+
+          
+
+        
+",lustig-d-gsellschaftere
+347,comedy,alle,B,,,,"
           
 Alle.
 
+          
+
             
 D'Hiroth isch halt 's End vom Lied;
+
+            
 Drum ihr Lit 
 (bis)
+
+            
 Süeche-n-alle-n-eüre Hiet,
+
+            
 Fir heimz'geh isch's Zit.
-"
+
+          
+
+        
+",lustig-d-gsellschaftere

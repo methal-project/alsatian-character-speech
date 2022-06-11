@@ -1,8 +1,12 @@
-drama_type,speaker,sex,job,social_class,text
-unknown,LISETTLE,F,,,"
+,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+0,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (git sich z'schaffe-n-im Lade)
+
+            
 's glaübt mr awer jetz doch g'wiss kei Mensch, wie
                             iwel dra
                             as ich bi!... vo drei Liebhawer weiss ich jetz
@@ -29,79 +33,161 @@ Lisettle
                             z'finde-n-unter dr
                             Zahl...
 
+            
+
               
 G'sang
+
+              
 (Schweizerbua)
+
+              
 Bin ich nitt iwel dra,
+
+              
 So drei Liebhawer z'ha?
+
+              
 Ich weiss nitt weller nàh,
+
+              
 Was wird drüs g'schàh?
 
-            
+              
+
+              
 Ein isch mir jetz scho z'alt,
+
+              
 Doch er wàr rich g'nüeg halt;
+
+              
 O nitt arm isch dr Zweit,
+
+              
 Doch wiescht, züem Leid!
+
+            
+
+            
 
               
 Wenn dr Dritt' richer wàr,
+
+              
 Kàms mir nitt vor so schwer,
+
+              
 Das miesst mi Mànnle si,
+
+              
 Denk ich mithi.
+
+              
 Wenn's no mim Kopf thàt geh,
+
+              
 Thàt mir g'wiss d'Wahl nitt weh,
+
+              
 Denn ich nàhm, wàr ich frei,
+
+              
 Glich alle drei!
-"
-unknown,Herr SPATZLE,M,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+1,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (kunnt hinte-n-ine)
+
+            
 Eh, güete-n-Owe Jumpfer Schnitz... ich ha g'sàh im
                             Duregeh,
                             ass Sie-n-allei im Lade-n-isch... un do ha-n-i nitt
                             anderscht känne, ich ha miesse-n-ine ku...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+2,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (fir sich)
+
+            
 Allewil uf d'letschte Mode... wenn er nur schöner
                             wàr...
 (züem Herr Spàtzls)
-"
-unknown,Herr SPATZLE,M,,,"
+ Sie werde fir e Grosche
+                            Bàredràck
+                            welle, wie alle Tag, nitt wohr, Herr Spàtzle?...
+                            Sie mien e
+                            famoser Hüeschte ha... denn er dürt jetz scho
+                            ziemlig
+                            lang... nimmt er denn allewil no nitt ab?
+
+          
+",lustig-vor-un-no-dr-hochzit
+3,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Nie, Jumpfer Schnitz... So lang ass Sie Sieselsaft
                             z'verkaüfe hat!
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+4,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Wenn nur dr Herr Mües, unser erster Commis, nitt
                             emol derzüe
                             kunnt, wenn Sie do sin... denn er isch 
+ne Find...
+                            er isch
+                            jaloux, er will mr glaüb dr Hof mache un obschon
+                            Sie nur
+                            kämme ku Sieselsaft kaüfe...
 
-            
-"
-unknown,Herr SPATZLE,M,,,"
+          
+",lustig-vor-un-no-dr-hochzit
+5,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Oh Jumpfer Lisette!... Sie weisst ganz güet, ass es
                             mir nitt
                             isch um dr Bàredràck, wenn ich do ane kumm... Sie
                             wird 'n
                             doch ebbe mir nitt vorzieh?...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+6,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Wer, dr Bàredràck?
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+7,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Eh nei, dr Commis... er hat ganz Recht, wenn er
                             jaloux
                             isch... denn 's hat Sie kei Mensch liewer as ich...
@@ -117,97 +203,196 @@ Eh nei, dr Commis... er hat ganz Recht, wenn er
                             ne Lade am Sirop bliwe klàwe un drin züe-n-ere
                             dirre
                             Zwàtschke werde!...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+8,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (fir sich)
+
+            
 Er hat Recht... wenn er nur schöner wàr!...
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+9,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Mitnander.
 
             
+
+            
 Ich will mine junge Johre,
+
+              
 Das ha-n-ich scho vielmol g'schwore,
+
+              
 Nitt im Lade do verliere
+
+              
 Zwische Sirop, Mehl un Schmalz;
+
+              
 's Wàge geht mr nitt,
+
+              
 Ich spir's ganz güet hit,
+
+              
 All' die dumme Waar'
+
+              
 Hass ich, das isch klar;
+
+              
 Ich wott liewer geh spaziere
+
+              
 Un uf d'Bàll geh tanze-n-als!
 
             
-"
-unknown,Herr SPATZLE,M,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+10,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
 
+            
+
               
 Fir Ihre Johre
+
+              
 Wàr d'Zit verlore,
+
+              
 Do so z'serviere
+
+              
 Sirop un Schmalz;
+
+              
 Das geht nitt,
+
+              
 Sie sieht's hit,
+
+              
 Sie hasst d'Waar,
+
+              
 Das isch klar;
+
+              
 G'wiss, geh spaziere
+
+              
 Wàr besser als!
+
+            
+
+            
 Oh Lisettle!
 (er will se-n-umarme, sie stosst en
                             z'ruck).
-"
-unknown,LISETTLE,F,,,"
+
+                            Sie stosst mich z'ruck, Lisettle... un 's isch mr
+                            doch
+                            g'wiss Ernst... wenn ich bis dohi no nitt g'frogt
+                            ha um
+                            Ihre Hand bi Ihrem Vater, so isch's jo nur, wil Sie
+                            mir
+                            allewil g'sàit hat, ich soll noch warte awer wenn
+                            Sie will,
+                            so gang ich gli jetz uf dr Stell'...
+
+          
+",lustig-vor-un-no-dr-hochzit
+11,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Nei... jetz nitt... dr Pape-n-isch glaüb iwel
                             z'Müeth hit
                             z'Owe...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+12,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Das sàit Sie mr jetz scho Monete lang!
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+13,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (fir sich)
+
+            
 Ich müess mi doch emol entschliesse fir Ein oder dr
                             And're
                            
 (lüt)
+ still, 's kunnt ebber
 (se lüegt am Fenster).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+14,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Eh bien, ich mach mich dervo... awer nitt wohr, Sie
                             verspricht mr...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+15,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (unterbricht ne)
+
+            
 Se känne jetz nitt üse... 's isch dr Commis... er
                             kunnt üs
                             em Bureau dert àne... Sie thàte-n-em grad in d'Hànd
                             laüfe...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+16,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Eh bien... ich kaüf fir e Grosche Meertriwel... das
                             isch jo
                             ganz natürell...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+17,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Nei, nei... Sie wisse-n-ass er Sie hasst... ich wott
                             nitt,
                             ass er Sie thàt atreffe do... 's gàb am End
@@ -215,101 +400,198 @@ Nei, nei... Sie wisse-n-ass er Sie hasst... ich wott
                             do... verstecke Sie sich do drin
 (se zeigt uf dr
                             Mehlschrank).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+18,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Ich, do dri?... mit mim neüe Kleid!
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+19,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (lipft dr Deckel)
+
+            
 's isch dr Mehlschrank, awer er isch leer in dem
                             Moment...
                             Sie hàn ganz güet Platz drin...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+20,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Awer mi Kleid!...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+21,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Ich bitt Se drum, Herr Spàtzle... wenn Sie mich gern
                             hàn ,
                             so schlupfe Se dri... denn wenn Sie dr Herr Mües
                             thàt sàh
                             do...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+22,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Awer nitt lang, nitt wohr?...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+23,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Nur e-n-Aügesblick... wie-n-er wieder üse geht, so
                             mache Se
                             sich natirlig dervo...
 (se druckt en awe, macht dr
                             Deckel
                             züe un springt üse rechts).
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+24,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
+
+            
 (zornig)
+
+            
 Also mir, im erste Commis, wo so z'age 's ganze
                             G'schàft
                             tüet b'sorge, mir refusiert me d'Tochter üs
+ em
+                            Hüs... grad
+                            ha-n-ich um ihre Hand g'frogt un bin abg'wiese
+                            worde, un
+                            das unter em Vorwand, wil er, dr Vater, scho ne
+                            Choix
+                            g'macht hat fir si Tochter... er wird schön aku mit
+                            sim
+                            Choix!... wie vielmol hat mr d'Jumpfer Schnitz scho
+                            g'sàit,
+                            ass se ne nitt will, dà alte Kracher!... ich ha
+                            viellicht e
+                            wenig z'viel pressiert mit em froge... d'Jumpfer
+                            Lisette
+                            hat mr allewil g'sàit, ich soll noch warte... awer
+                            ich
+                            ha-n-Angst g'ha, ich wird abg'streckt vo dem Herr
+                            Spàtzle,
+                            wo-n-afange-n-allewil do ummeflattert...
 
-            
-"
-unknown,Herr SPATZLE,M,,,"
+          
+",lustig-vor-un-no-dr-hochzit
+25,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (lipft dr Deckel)
+
+            
 Dem g'schieht's jetz emol Recht!
 (er
                             verschwindet).
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+26,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
+
+            
 (lüegt z'ruck)
+
+            
 Hein... ich ha g'meint, ich hör rede... was soll ich
                             jetz
                             afange, wenn dr Herr Schnitz e Madame will
                             mache-n-üs
                             sinere Tochter?
 
+            
+
               
 G'sang
+
+              
 (Savetier et Financier)
+
+              
 Er thüet mir se refüsiere,
+
+              
 Isch das nitt e wahre Schand!
+
+              
 Ich, wo 's ganze G'schàft thüe fiehre,
+
+              
 Bi nitt güet g'nüe fir ihr' Hand;
+
+              
 Ich bi halt kei Fawrikant!
+
+              
 Was thüet denn dà Kràmer meine,
+
+              
 Glaübt er, 's git sunscht niene keine?
+
+              
 Das steht ihm jetz o gar schlecht,
+
+              
 Ass er thüet verachte d'Kleine...
-"
-unknown,Herr SPATZLE,M,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+27,comedy,Herr SPATZLE,M,,,,"
             
 Hërr Spàtzle
+
+            
 (lipft dr Deckel un singt fertig)
+
+            
 Dir g'schieht's recht!
 (er verschwindet).
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+28,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
+
+            
 (lüegt hintere)
+
+            
 Hein... dasmol ha-n-i jetz glaübt, ich hör singe...
                             's isch
                             e Fawrikant, wo-n-er g'chosiert hat fir si Tochter,
@@ -317,58 +599,122 @@ Hein... dasmol ha-n-i jetz glaübt, ich hör singe...
                             awer glaüb meh Rhumetisse-n-ass Geld... un doch
                             thüet er ne
                             schier abete... 's vergeht kei Tag 
-
-            
+ wo-n-er em nitt
+                            ebbes
+                            schickt... do isch scho wieder e Hafe voll frischer
+                            Hunig
+                            g'rischtet fir ne, wo-n-em derno dr Knecht bringe
+                            müess...
+                            awer wart, ich will dir dr Hunig istriche
+                            dasmol!... ich ha
+                            ne-n-Idee!... ich will e Hafe voll brüne
+                            Schmierseife
+                            rischte un will ne an dr Platz vom Hunig stelle...
+                            dà wird
+                            speie... ha ha ha... das git e güeter Spass!... ich
+                            will mi
+                            gli an d'Arwet mache
 (er geht hinte-n-üse).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+29,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (lipft dr Deckel)
+
+            
 Endlig!... ich ha g'meint, er will nimmig üsegeh!
                            
 (er geht
                             üs dr Kiste)
+ vo dem ha-n-i jetz scho nit meh
+                            z'riskiere...
+                            dà isch abdankt worde... un dr Andere bikunnt,
+                            wie-n-i
+                            g'hört ha, Schmierseife-n-anstatt Hunig... ich
+                            glaüb, ass
+                            ihm eso ne Flade d'Hirothsgedanke vertriwe wird...
+                            awer
+                            einstwile mach ich mich jetz dervo...
 (er lüegt am
                             Fenster)
+
+                            güet... jetz kunnt dert dr Herr Schnitz selbst un
+                            dr
+                            Knecht... jetz ka-n-i nitt furt, ich müess halt
+                            wieder in
+                            mi Kiste...
 (er springt dri un macht dr Deckel
                             züe).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+30,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
-(züem Schambedis)
-Do...
-(er zeigt uf dr Mehlschrank)
 
             
+(züem Schambedis)
+
+            
+Do...
+(er zeigt uf dr Mehlschrank)
+ leere-n-Eüer Mehl
+                            do dri
+                            un trage derno dr Sack wieder z'ruck ins Ma- 
+gazin un
+                            noher
+                            nàmme-n-Ihr derno dà Hafe, wo do uf em Ladetisch
+                            steht un
+                            trage ne züem Herr Gas un sage ne schön Kumpliment
+                            vo mir,
+                            un do seig ebbes fir si Namestag
 (er geht gege dr
                             Thüre
                             rechts).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+31,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Jo Herr...
 (er macht dr Deckel uf un stellt dr Sack
                             uf dr
                             Rand).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+32,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (kehrt si um)
+
+            
 Gàn awer Achtung, 's isch Hunig drin... un
                             mache-n-ass Ihr
                             gli wieder do sin... nitt ass Ihr wieder
                             e-n-Ewigkeit
                             furtbliwe
 (er geht üse rechts).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+33,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (allei)
+
+            
 Ich sott nur allewil laüfe un g'schwind wieder do
                             si... ich
                             wird doch ebbe ne wenig derfe steh bliwe, wenn ich
@@ -380,75 +726,167 @@ Ich sott nur allewil laüfe un g'schwind wieder do
                             in dr
                             Kaste, stàibt en recht üs un macht dr Deckel züe).
 
+            
+
               
 G'sang
+
+              
 ('s isch Hochzit uf mi Treü)
+
+              
 Dr Schambedis müess alles mache
+
+              
 Er geht fir d'Kummissione-n-üs
+
+              
 Un müess dr Lade do bewache
+
+              
 Un erst nochhelfe dert im Hüs!
+
+              
 Un iweral züe glicher Zit
+
+              
 Sott er bediene-n-alle Lit. 
 (bis)
 
+            
+
+            
+
               
 Wenn ich thàt àndre mi Betrage,
+
+              
 So gàb's kei Trinkgeld niene meh,
+
+              
 Denn wenn ich ebbes gang geh trage,
+
+              
 So blib ich express als dert steh,
+
+              
 Dr Schambedis isch nitt so dumm,
+
+              
 Werm er das macht, weis er worum. 
 (bis)
 
-              
-Wird ebbes als im Hüs verbroche,
-Heisst's gli, dr Schambedis isch's gsi...
+            
 
             
+
+              
+Wird ebbes als im Hüs verbroche,
+
+              
+Heisst's gli, dr Schambedis isch's gsi...
+
+              
+
+              
 Doch kein hat's ihm ins G'sicht noch
                                 g'sproche,
+
+              
 Wil's Keiner g'sàh hat bis dohi,
+
+              
 Dr Schambedis isch wohl so g'scheidt,
+
+              
 Er rümt eweg, was er verheit! 
 (bis)
+
+            
+
+            
 Doch, ich will jetz geh mi Sack ins Magazin
                                 z'rucktrage-n-un mich e wenig abstàiwe, ass ich
                                 ka mi
                                 Honig geh abliefere 
 (er geht hinte-n-üse)
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+34,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (steht uf im Kaste, er isch ganz wiss vo owe bis
                             awe)
+
+            
 Jetz bin i schön,
 (er b'schaüt si)
+ ich traü jo nitt
+                            heim
+                            z'geh-n-eso!... wenn ich uf d'Gasse kàm, so thàte
+                            mir alle
+                            Kinder « Jee » schreie!... Hatt ich mich doch nur
+                            üs em
+                            Staüb g'macht vorig!... güet... jetz kunnt wieder
+                            ebber 's
+                            wird dr Ladediener si, wo d'Schmierseife bringt
 (er
                             verschwindet)
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+35,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
+
+            
 (kunnt hinte-n-ine mit eme ganz gliche Hafe wie
                             dà,
                             wo-n-nf ern Ladetisch steht)
+
+            
 So... do wàr jetz das Ding... dr ganz gliche Hafe un
                             mit
                             Schmierseife g'fillt
 (er stellt en uf dr Tisch un
                             nimmt dr
                             andere-n-eweg)
+ un dà do mit em Hunig stell ich
+                            einstwile do
+                            unter dr Ladetisch, bis ass ich furt gang, derno
+                            nimm ich
+                            ne mit...
 (er sitzt uf dr Mehlschrank un lacht)
+
+                            wird dà
+                            Kerle speie, wenn er in e Schmierseifeflade
+                            bisst!... ha ha
+                            ha!... wenn ich ne nur kännt sàh... ich will mich
+                            jetz
+                            glich geb alege, ass ich furt kumm
 (er springt awe)
+
+                            ich ha
+                            jetz genüe in dere Baracke!... vom dobliwe isch
+                            natirlig
+                            kei Red meh
 (er geht hinte-n-üse).
 
             
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+36,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (lipft dr Deckel)
+
+            
 Was soll ich nur afange!... müess ich eigentlig mi
                             Lewe-n-in
                             dem Kaste züebringe!... wenn nur 's Lisettle kàm,
@@ -458,11 +896,17 @@ Was soll ich nur afange!... müess ich eigentlig mi
                             furt... still... 's kunnt scho wieder ebber...
 (er
                             verschwindet).
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+37,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (kunnt ine rechts)
+
+            
 Tiens... isch nieme do?... ich ha g'meint, ich hör e
                             Pratik,
                             wo ebbes hole will... was macht denn dà Hafe do uf
@@ -473,47 +917,88 @@ Tiens... isch nieme do?... ich ha g'meint, ich hör e
 (se
                             nimmt ne un
                             stellt ne unter dr Ladetisch).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+38,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (steht uf in sim Kaste)
+
+            
 Oh Jumpfer Schnitz!...
 ('s Lisettle losst e Schrei
                             üs vor
                             Schrecke un laüft dervo rechts).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+39,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (rieft ere no)
+
+            
 Ich bi's... Jumpfer Lisettle! thàt Se doch nur nitt
                             verschrecke!...
 (fir sich)
+ so... jetz laüf mr
+                            no!... Die
+                            isch jetz scho lang wit... ich müess schint's nitt
+                            iwel
+                            wiescht züeg'richte si, ass sie mich nitt kennt
+                            hat...
 (er
                             zeigt uf d'Thüre hinte)
+ Scho wieder ebber...
 (er
                             verschwindet).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+40,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (kunnt hinte-n-ine)
+
+            
 Sa... jetz wà mir denn dà Hunig geh trage...
                             tiens... wo
                             isch er jetz, dà Hafe?... wo hàn se ne jetz
                             anetho?...
 (er
                             lüegt unter dr Ladetisoh)
-
-            
+ aha, do isch er jo...
+                            sogar noch
+                            zwe sin do... ich nimm halt dr nàchste beste... 's
+                            wird jo
+                            eithüen si... ich ha awer dà Hunig no nitt
+                            versüecht... ma
+                            foi, ich ha jetz 
+ nimmig dr Zit, ich versüech ne uf
+                            em
+                            Weg... dr Schambedis versüecht ewe ne Sach, vor ebb
+                            er sine
+                            Pratike serwiert mit...
 (er geht mit sim Hafe
                             hinte-n-üse).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+41,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (lipft dr Deckel)
+
+            
 Ich wird halt doch miesse woge, heim z'geh... 's
                             wird glaüb
                             scho ne wenig dunkel?... wenn ich recht g'schwind
@@ -523,12 +1008,18 @@ Ich wird halt doch miesse woge, heim z'geh... 's
                             still... 's kunnt scho wieder ebber!...
 (er
                             verschwindet).
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+42,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
+
+            
 (kunnt hinte-n-ine ku z'laüfe mit Hüet un Kittel
                             a)
+
+            
 Jetz g'schwind mi Hunig... ich ha dr Knecht g'sàh
                             furt geh
                             mit dr Schmierseife... ich mach mi jetz üs em
@@ -537,54 +1028,113 @@ Jetz g'schwind mi Hunig... ich ha dr Knecht g'sàh
                             hat dr and're Hafe gnu unter'm Ladetisch un isch
                             fire
                             gange).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+43,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (lipft e wenig dr Deckel)
+
+            
 Wenn ich mich nur o kännt drüs mache!
 (er
                             verschwindet).
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+44,comedy,Herr MÜES,M,,,,"
             
 Herr Mües.
+
+            
 Das git jetz grad e güete Régalade fir mich un mine
                             Kamerade...
 (er springt hinte-n-üse.
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+45,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (springt üs em Kaste)
+
+            
 Awer jetz halt ich's nimmig üs!... ich glaüb, ich
                             ka's woge
                             fir z'geh;
 (er lüegt am Fenster)
+ 's isch halt
+                            allewil noch
+                            e wenig z'heiter!...
+
+            
 
               
 G'sang
+
+              
 (Màidele putz di)
+
+              
 Wàr doch jetz hit nur Fasenacht!
+
+              
 Mi Costüm war druf hi scho g'macht!
+
+              
 Ich traü nitt üse z'geh-n-eso,
+
+              
 Üs Angst, mir laüfe d'Büewe no!
+
+            
+
+            
 
             
 
               
 Mich thüet d'Liewe
+
+              
 Nimmig schiewe
+
+              
 In e Kaste meh so g'schwind!
+
+              
 Ich ha g'funde
+
+              
 Hit dert unte,
+
+              
 's Mehl un d'Liewe mache blind!
+
+            
+
+            
 
               
 Wàr doch jetz hit nur Fasenacht!
+
+              
 Mi Costüm wàr druf hi scho g'macht!
+
+              
 Ich traü nitt üse z'geh-n-eso,
+
+              
 Üs Angst, mir laüfe d'Büewe no!
+
+            
+
+            
 Bàh!... ha-n-i's jetz eso lang üsg'halte, so
                                 ka-n-ich o
                                 noch warte, bis es gar finster isch... mi
@@ -593,39 +1143,74 @@ Bàh!... ha-n-i's jetz eso lang üsg'halte, so
                                 soll
                                 bewohne...
 (er lost)
+was ha-n-i g'sàit?... 's kunnt scho wieder ebber!... 
 (er springt in dr Kaste un macht dr Deckel züe).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+46,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (kunnt hinte-n-ine ku z'laüfe)
+
+            
 Lisettle!... Lisettle!...
 (fir sich)
+ jà, jà.. jetz
+                            steh mir
+                            schön!..
 (er macht d'Thüre-n-uf rechts)
-"
-unknown,LISETTLE,F,,,"
+ Lisettle,
+                            wo
+                            stàcksch?...
+
+          
+",lustig-vor-un-no-dr-hochzit
+47,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (voruse)
+
+            
 Was b'liebt, Pape?...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+48,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Was tribsch dert owe?... stehsch wieder vor em
                             Spiegel?...
                             kumm g'schwind!
 (er kunnt fire)
-"
-unknown,LISETTLE,F,,,"
+ dà Halunk!.. dà
+                            Spitzbüe!...
+
+          
+",lustig-vor-un-no-dr-hochzit
+49,comedy,LISETTLE,F,,,,"
             
 Lisettle
+
+            
 (kunnt ine rechts)
+
+            
 Was isch?... Was isch?... mit wem hasch's?..
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+50,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Mir sin im e schöne Dunkes!... ich ha im Herr Gas e
                             Hafe
                             voll Hunig g'schickt dur dr Knecht... un dr Herr
@@ -633,239 +1218,461 @@ Mir sin im e schöne Dunkes!... ich ha im Herr Gas e
                             Halunk, hat'm schint's e-n-andrer
                             Hafe-n-aneg'stellt mit
                             Schmierseife drin, fir uns un im 
+ Herr Gas e Spück
+                            z'spiele... er hat's im zweite Commis g'riehmt
+                            duss, vor
+                            ebb er furt isch... was meinsch, was wird dr Herr
+                            Gas
+                            sage... 's isch gar kei Red meh vo-n-ere Hiroth uf
+                            das
+                            hi... das isch mr jetz e schöne G'schichte...
+                            Schmierseife,
+                            anstatt Hunig!...
 
             
 
               
 G'sang
+
+              
 (Carnaval de Venise)
+
+              
 Er thüet uns nie verzeihe,
+
+              
 Das Ding isch halt nitt güet!
-"
-unknown,LISETTLE,F,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+51,comedy,LISETTLE,F,,,,"
             
 Lisettle.
 
+            
+
               
 Er soll's halt üsespeie,
+
+              
 Wenn's ihm' nitt g'schmecke thüet!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+52,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Mitnander.
 
+            
+
               
 D'Schmierseife bringt Dich/mich leider
+
+              
 Jetz um Di/mi Fawrikant;
+
+              
 Dü findsch/Ich find nitt bol e Zweiter,
+
+              
 Wo Dir/mir offriert si Hand!
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+53,comedy,Herr SCHNITZ,M,,,,"
             
 Er.
 
+            
+
               
 Er thüet uns nie verzeihe,
+
+              
 Das Ding isch halt nitt güet!
-"
-unknown,LISETTLE,F,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+54,comedy,LISETTLE,F,,,,"
             
 Sie.
 
+            
+
               
 Er soll's halt üsespeie,
+
+              
 Wenn's ihm nitt g'schmecke thüet!
+
+            
+
+            
 Un derno, was brüchsch Dü Dir bös Gebliet z'mache
                             derwege...
                             's isch 'm jo viellicht doch nitt recht Ernst gsi
                             mit dàre
                             Hiroth...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+55,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Awer ich verlier si Pratik jetz mit dem G'spass!...
                             d'beste,
                             wo-n-ich g'ha ha!...
 
             
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+56,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Worum hat awer dr Herr Mües das g'macht?
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+57,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Worum?... ah, Dü weisch's no nitt... ha-n-ich Dir's
                             denn no
                             nitt g'sàit?... wil er um Di Hand g'frogt hat un
                             ich nit ha
                             welle wisse dervo...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+58,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Awer, Pape... uf die Art verlier ich jo jetz zwe
                             Liebhawer
                             uf eimol... ich, wo embarrassiert gsi bi,
                             z'wähle... hi hi
                             hi...
 (se grint).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+59,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (steht uf im Kaste)
+
+            
 Un ich, Jumpfer Schnitz... bin ich denn nitt do!...
                            
 ('s
                             Lisettle losst e Schrei üs).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+60,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (verwundert)
+
+            
 Was dr Kückück's isch jetz das fir e Mehlwurm
                             do?...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+61,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (kunnt üse)
+
+            
 Schäut Se, in was fir eme Züestand as ich bi dur
                             Ihre Schuld
                             un was ich jetz g'litte ha fir Sie!..
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+62,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (züem Lisettle)
+
+            
 Ah çà was isch das fir einer?... wie kunnt jetz dà
                             do ane in
                             mi Mehlkaste?...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+63,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Eh... 's isch dr Herr Spàtzle, Pape... er kunnt Dich
                             ku um
                             mi Hand froge
 (se schiebt dr Herr Spàtzle
                             gege-n-ihrem
                             Vater; lislig)
+ allons, vorwàrts!
 (fir sich)
-"
-unknown,Herr SPATZLE,M,,,"
+ 's isch
+                            dr
+                            Letscht... ich derf mi nimmig lang b'sinne!
+
+          
+",lustig-vor-un-no-dr-hochzit
+64,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Eh jo, Herr Schnitz...ich kumm ku froge...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+65,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (züem Lisettle)
+
+            
 Un fir das isch er in dr Mehlschrank krobelt?...
                             bossige
                             Manier, fir ku ums Hirothe z'froge... enfin,
+ wenn
+                            Dü-n-en
+                            witt, so nimm 'n... mit em Andere isch jo doch nitt
+                            meh
+                            z'mache...
 
-            
-"
-unknown,LISETTLE,F,,,"
+          
+",lustig-vor-un-no-dr-hochzit
+66,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 O merci, Pape!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+67,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (kunnt hinte-n-ine un lacht, ass er schier nitt
                             züem
                             Othem kunnt)
+
+            
 Hi Hi Hi!... ha ha ha!... oh!...
 (er sitzt uf dr
                             Mehlschrank).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+68,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Was isch das fir e Manier, Schambedis, sich so
                             z'presentiere!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+69,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Verzeihe Se, Herr... awer wenn Sie wisse thàte... ha
                             ha
                             ha!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+70,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (ungeduldig)
+
+            
 Genüeg eso!... Ihr hàn da Hafe ane tràit, nitt wohr,
                             wo-n-ich Eüch g'sàit ha... natirlig... wenn's fir
                             mi
                             Schade-n-isch, so sin Ihr allewil flink, fir e Sach
                             üsz'richte...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+71,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (fir sich)
+
+            
 Güet... jetz isch's wieder nitt recht!...
 (lüt)
-"
-unknown,LISETTLE,F,,,"
+ Sie
+                            hàn jo
+                            g'sàit, ich soll mi dummle... ha ha ha... ich müess
+                            lache,
+                            eb ich will oder nitt!...
+
+          
+",lustig-vor-un-no-dr-hochzit
+72,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Was isch denn eso possig's g'schàh... üse mit
                             emol!
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+73,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Wo-n-i z'ruck ku bi vom Herr Gas un bi bim « Wisse
                             Lamm »
                             dure, so rieft mr dr Herr Mües, wo 
-
-            
+ dert mit e paar
+                            Kamerade
+                            gsi isch, eb ich nitt eins trinke will... dr
+                            Schambedis
+                            natirlig schlat nie keins ab... drum bin ich ine...
+                            un do
+                            sin se grad dra gsi, fir z'wette, wer am
+                            g'schwindste sechs
+                            Hunigflade verschlinge ka... se sin scho alle ne
+                            wenig
+                            atrunke gsi, un dr Herr Mües hat e glicher Hafe
+                            dert steh
+                            g'ha mit Hunig drin, wie dà wo-n-ich im Herr Gas
+                            brocht
+                            ha... un do hàn se halt im e Jede... hi hi hi...
+                            sechs
+                            Hunigflade g'rischtet... ha ha ha... un wo me drei
+                            zahlt
+                            hat... hi hi hi... wo me drei zählt hat... ha ha
+                            ha... hàn
+                            se-n-ag'fange un hàn's awer ewe-n-eso g'schwind
+                            wieder
+                            üseg'spaüe... hi hi hi... 's isch Schmierseife gsi,
+                            brüne... dr Herr Mües hat sich schint's trumpiert
+                            g'ha...
+                            ha ha ha... er hat Schmierseife gnu, anstatt
+                            Hunig... fir
+                            's Bouquet hàn se-n-im Zorn im Herr Mües dr Hafe
+                            z'unterst
+                            z'ewerst uf dr Kopf g'setzt... hi hi hi... Sie
+                            hatte ne nur
+                            sotte sàh... ha ha ha... hi hi hi...
 (alle lache).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+74,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Also hätt denn dr Herr Gas doch dr rechte Hafe mit
                             Hunig
                             biku?...
 (züem Herr Spàtzle)
-"
-unknown,Herr SPATZLE,M,,,"
+ do war unser Sach nit,
+                            junger
+                            Mensch... ich ha mi Tochter vo jeher im Herr Gas
+                            b'stimmt
+                            g'ha...
+
+          
+",lustig-vor-un-no-dr-hochzit
+75,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Sie werde doch nitt wege me Hunighafe ihr Wort, wo
                             Sie uns
                             gà hàn, wieder z'ruck nàh...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+76,comedy,LISETTLE,F,,,,"
             
 Lisettle.
+
+            
 Dr Herr Spàtzle hat Recht... 's isch z'spot Pape...
                             Dü hasch
                             is Di Wort gà!
 (fir sich)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+ ich will jetz liewer dà
+                            nàh, will
+                            ich ne ka ha... 's isch sicherer... ich kännt
+                            sunscht nàwe
+                            zwe Stiehl awe sitze.
+
+          
+",lustig-vor-un-no-dr-hochzit
+77,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (er zeigt uf dr Herr Spàtzle)
+
+            
 Ich möcht jetz nur wisse, was das fir e Held
                             isch...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+78,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Enfin, will ich «jo» g'sàit ha, so wà mir's lo
                             geh... was dr
                             Herr Mües abelangt, g'schieht's'm ganz Recht... do
@@ -873,30 +1680,56 @@ Enfin, will ich «jo» g'sàit ha, so wà mir's lo
                             jetz wieder emol sage, wer Andre ne Grüewe grabt,
                             fallt
                             selbst dri!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+79,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
 
             
+
+            
 Dr Schambedis hat's güet errothe,
+
+              
 Wo-n-er dr Hafe g'numme hat,
+
+              
 In Màngem wàr das nitt so g'rothe,
+
+              
 Er hätt d'Schmierseife tràit in d'Stadt.
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+80,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Mitnander.
 
+            
+
               
 Dr Schambedis versteht si Sach,
+
+              
 Er isch e Rehrle-n-in sim Fach. 
 (bis)
-"
-unknown,LISETTLE,F,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+81,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
+
+            
 (steht vor em Spiegel un legt dr neüe Hüet a)
+
+            
 Jà, ja... do ka me geh hirothe!... 's isch halt doch
                             nitt
                             ganz, was ich glaübt ha, d'Hiroth... küm isch's
@@ -906,23 +1739,54 @@ Jà, ja... do ka me geh hirothe!... 's isch halt doch
                             scho git's als màngmol e wenig Mischbes!... wir
                             verstehn is
                             ewe nitt allewil ganz 
+am beste, mi Mann un ich...
+                            er lüegt
+                            halt d'Hiroth vo sinere Site-n-a un ich màngmol
+                            ve-n-ere
+                            ganz andere.
 
             
 
               
 G'sang
+
+              
 (Wer will unter die Soldaten)
+
+              
 Fir was thüet me denn hirothe?
+
+              
 's isch fir in d'Visite z'geh 
 (bis)
+
+              
 Un sich z'richte no dr Mode,
+
+              
 Das thüet sich vo selbst versteh!
+
+              
 D'Fraü hat jo kei andre Freid
+
+              
 As geh spiegle-n-ihr neü Kleid
+
+              
 Un bim G'spràch am Kaffeetisch
+
+              
 Nur eso verstand ich d'Eh',
+
+              
 Anderscht wott ich nitt dri geh!
+
+              
 }bis
+
+            
+
+            
 Mi Mann hingege thàt mich gern d'heim
                                 igschpliesse... as
                                 wie wenn er nitt o in sine Lustbarkeite thàt
@@ -954,30 +1818,46 @@ Mi Mann hingege thàt mich gern d'heim
                                 wohr un isch e wenig jaloux... e wenig viel
                                 sogar...
                                 awer hat denn nitt Jedermann sine Fehler...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+82,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (kunnt ine rechts, er isch im Schlofrock un geht
                             am e
                             Stock)
+
+            
 Scho wieder g'ristet fir üsz'geh... allewil furt un
                             nie
                             d'heim!... wo witt jetz scho wieder ane springe?
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+83,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
+
+            
 (b'schaüt si im Spiegel, zieht d'Hànschig üs em
                             Sack un
                             legt se-n-a; züe glicher Zit hat se ne Briefie mit
                             üse
                             zoge, wo an Bode fallt ohne-n-ass sie's sahn)
+
+            
 Eh, ich gang in mi Fritig hit, Pape!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+84,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 So, so!... hit gehsch in Di Fritig... un gestert
                             bisch in
                             Dim Dunstig gsi... un Morn gehsch in Di Samstig...
@@ -993,53 +1873,115 @@ So, so!... hit gehsch in Di Fritig... un gestert
                             oder verdiene was er will, so müess es druf geh am
                             End!
 
+            
+
               
 G'sang
+
+              
 (Grad' aus dem Wirthshaus)
+
+              
 Anstatt eso z'Visite geh,
+
+              
 Thàtsch liewer flicke
+
+              
 Un Din're Hüshaltung vorsteh
+
+              
 Un als Strimpf stricke;
+
+              
 Was wird's eso noch gà do drüs,
+
+              
 Wenn das thüet düre?
+
+              
 Das bringt wahrhaft kei Glick ins Hüs,
+
+              
 's isch als bol üs!
-"
-unknown,LISETTLE,F,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+85,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 
               
 Das, Pape, das verstehsch Dü nitt,
+
+              
 In dr Visite
+
+              
 Lehrt me-n-o gar viel Sache hit
+
+              
 Vo alle Site!
-"
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+86,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Mitnander.
 
+            
+
               
 Ich gang jo nitt so vielmol üs,
+
+              
 's thüet nie lang düre,
+
+              
 Un ha-n-ich denn nitt Màgd im Hüs?
+
+              
 Ich derf scho drüs;
 
             
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+87,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
 
+            
+
               
 Was wird's eso noch gà do drüs.
+
+              
 Wenn das thüet düre?
+
+              
 Das bringt wahrhaft kei Glick ins Hüs,
+
+              
 's isch als bol üs!
-"
-unknown,LISETTLE,F,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+88,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Dü thüesch das Ding viel z'viel chargiere, Pape...
                             's isch
                             nitt eso g'fàhrlig, wie Dü machsch... ich ka doch
@@ -1055,80 +1997,125 @@ Dü thüesch das Ding viel z'viel chargiere, Pape...
                             gern
                             emol debarrassiert derno un mi Mann haltet o nitt
                             dra...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+89,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Ich will nit wisse vo dem... hätte-n-ihr ne selbst
                             iwernu...
                             's wàr besser gsi fir Dich un fir Di Mann... uf die
                             Art
                             hätte-n-ihr e B'schàftigung g'ha un anstatt Geld
                             z'depensiere hätte-n-ihr noch g'wunne derbi...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+90,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 De weisch jo awer, ass ich nie nit gsi bi fir in e
                             Lade!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+91,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Desto schlechter... wenn ihr jetz eso furtmache, so
                             sin ihr
                             am End noch emol froh driwer... drum will ich o
                             nitt, ass
                             er verkaüft wird!...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+92,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
+
+            
 (fir sich)
+
+            
 Un ich, wo glaübt ha, ich heb ne jetz scho ab!...
                            
 (lüt)
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+ awer
+                            Pape...
+
+          
+",lustig-vor-un-no-dr-hochzit
+93,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Nit... ich will nit wisse... so lang as ich leb wird
                             er nitt
                             verkaüft... un züedem wird Di Mann o nitt grad eso
                             z'friede
                             si...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+94,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 O fir das garantier ich Dir... wie vielmol hat er
                             mir nitt
                             g'sàit, ich soll mache, was ich will... ich soll ne
                             nur in
                             Rüeh lo mit!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+95,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 's isch eithüen... De hasch's jetz g'hört... ihr sin
                             lichtsinnige junge Lit un thien mir später
                             viellicht emol
                             danke derfir, ass ich's nitt g'litte ha...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+96,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Dü hasch halt allewil Dine schwarze-n-Idee, Pape,
                            
 (se lüegt
                             uf d'Ühre)
+ scho zwei!... jetz müess i awer geh...
+                            Adie
+                            Pape!
 (so git em e Schmutz uf d'Stirne un geht
                             hinte-n-üse.)
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+97,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (allei)
+
+            
 Ne so sin jetz also d'Hirothe hitigstags!... dr Mann
                             läuft
                             uf sinre Site ins Kaffee un in d'Bierhiser un
@@ -1153,25 +2140,50 @@ Ne so sin jetz also d'Hirothe hitigstags!... dr Mann
                             Exempel d'halwe Nacht schier nitt g'schlofe hàn un
                             vor Tag
                             ufg'stande sin fir d'Plaisier
+ z'ha, ne paar Äpfel
+                            un Nuss
+                            uf eme Teller in Empfang z'nàmme, wo-n-is 's
+                            Wiehnàchtskindle g'stirt g'ha hat... doch jetz hàn
+                            sich die
+                            Äpfel un die Nuss in ganze Bazer verwandelt, wo me
+                            de
+                            Kinder als git... un eso isch's in allem z'àmme...
+                            vo
+                            Jugend uf hàn se jetz alles scho, was me sich
+                            wünsche ka,
+                            un später, derno wisse se gar nimmig, was afange un
+                            bringe-n-eso d'làcherligste Sache-n-uf!...
 
-            
-"
-unknown,Herr SPATZLE,M,,,"
+          
+",lustig-vor-un-no-dr-hochzit
+98,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (kunnt hinte-n-ine).
+
+            
 Wo isch se, mi Frau?.. ich süech se jetz scho im
                             ganze
                             Hüs!... isch se denn scho wieder furt?...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+99,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Grad isch se-n-üsgange... im Aügesblick.
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+100,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Ich sieh se-n-efange ninmig vielmol d'heim, mi
                             Frau...
                             d'ganze Zit isch se-n-uf dr Reis', geht in
@@ -1183,19 +2195,33 @@ Ich sieh se-n-efange ninmig vielmol d'heim, mi
                             Briefle-n-am
                             Bode-n-un hebt's uf, ohne-n-ass er's z'erst
                             b'schaüt).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+101,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (fir sich)
+
+            
 Er hat Recht, awer ich derf's em doch nitt sage...
                            
 (lüt)
-"
-unknown,Herr SPATZLE,M,,,"
+ 's
+                            Lisettle-n-isch halt noch jung un...
+
+          
+",lustig-vor-un-no-dr-hochzit
+102,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (unterbricht ne)
+
+            
 Das isch alles güet... awer ich find, 's derft doch
                             e wenig
                             mehr ihalte... 's verschwendet efange z'viel...
@@ -1212,142 +2238,250 @@ Das isch alles güet... awer ich find, 's derft doch
 
             
 
+            
+
               
 G'sang
+
+              
 (nei nei, das thüet dr Peter nitt)
+
+              
 Me müess jo bol Millione ha,
+
+              
 Fir ass me d'Fraü erhalte ka!
+
+              
 Ihr G'staat kennt gar kei Grenze meh,
+
+              
 's müess alles jo-n-eso druf geh!
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+103,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 's Bierhüs, das kost' a viel Geld!
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+104,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 D'Fraü isch's Unglick uf dr Welt!
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+105,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Worum hàn Sie Eine g'nu?
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+106,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Leider ha-n-ich satt biku!
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+107,comedy,Herr SPATZLE,M,,,,"
               
 Herr Spàtzle.
+
+              
 
                 
 Me müess, etc...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+              
+
+            
+",lustig-vor-un-no-dr-hochzit
+108,comedy,Herr SCHNITZ,M,,,,"
               
 Herr Schnitz.
 
+              
+
                 
 Wenn Sie jetz satt bekämme dra,
+
+                
 So hàn Sie's jo so welle ha;
+
+                
 Die alle, wo prawiere d'Eh',
+
+                
 Die mien jetz halt do dure geh!
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+              
+
+            
+",lustig-vor-un-no-dr-hochzit
+109,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Sie mien em halt e wenig nogà... un züedem, Sie,
                             Herr
                             Tochtermann... sin Sie viellicht nitt o ne wenig
                             dra
                             d'Schuld?...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+110,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (zeigt zornig uf dr Brief)
+
+            
 Hein!... was isch das?... Ah so!... also bin ich dra
                             Schuld,
                             wenn sich Ihre Tochter schlecht uffiehrt!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+111,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (zornig)
+
+            
 Herr Spàtzle!...
 
             
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+112,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Ah, Sie glaüwe's erst nitt emol?... do b'schaüe
                             Se...
 (er
                             git im 's Briefle).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+113,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Was isch das?...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+114,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Lese Se... mi Fraü hat's wohrschinlig do verlore,
                             ebb se
                             furt isch.
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+115,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (liest)
+
+            
 « Hit z'Owe am Drei, im Ladestiwle, erwartet Sie Ihr
                             getreüer Jacques Mües. »
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+116,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Ne Rendez-vous, wie Sie sàhn, mit Ihrem eh'malige
                             Commis...
                             se hàn schint's enander no nitt vergesse!..
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+117,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 's Lisettle!... isch's mögli!... doch nei, 's ka
                             nitt si...
                            
 (er losst si uf o Stüehl sinke).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+118,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (geht hin un her)
+
+            
 Dà elende Herr Mües, wo dr Lade g'lehnt hat siter
                             ebbes
                             lit... wohrschinlig, ass sie den besser känne
                             z'àmme ku!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+119,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (steht uf)
+
+            
 Un ich sag Ene, 's ka nitt si!... ich kenn 's
                             Lisettle
                             besser as nur eso... un fir d'Gwissheit z'ha, will
                             ich mich
                             glich alege un geh nolüege!
 (er geht üse rechts).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+120,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (allei)
+
+            
 Bis er g'rischtet isch un dert ane kunnt isch d'Zit
                             scho
                             längst verbi... er laüft grad nimmig eso schnell,
@@ -1358,80 +2492,135 @@ Bis er g'rischtet isch un dert ane kunnt isch d'Zit
                             schick dr
                             Schambedis...
 (er geht an d'Thüre links un rieft)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+                            Schambedis!
+
+          
+",lustig-vor-un-no-dr-hochzit
+121,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Was b'liebt, Herr?...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+122,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Kämme g'schwind!
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+123,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (voruse)
+
+            
 Ich ka jetz grad nitt... ich müess 's Kind wagle,
                             sunscht
                             grint's!...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+124,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (fir sich)
+
+            
 Wenn halt d'Madame allewil furt geht, so macht's
                             natirlig
                             d'Kindsmagd o-n-eso... un do müess halt wie immer
                             dr
                             Schambedis ans Brett...
 (lüt züer Thüre-n-üse)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+                            lehn's
+                            grine-n-un kämme g'schwind... 's pressiert!...
+
+          
+",lustig-vor-un-no-dr-hochzit
+125,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (voruse)
+
+            
 Ich kumm gli, Herr... im Aügesblick... ich will nur
                             noch dà
                             Zulli z'àmmebinde!...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+126,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (fir sich)
+
+            
 Ich weiss wirklig nitt, wie's gieng, we mr dr
                             Schambedis
                             nitt hätte...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+127,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (kunnt me un zieht e Schnüer noch si, wo-n-er
                             regelmàssig dra zieht un wieder luck losst)
+
+            
 Do wàr ich jetz, Herr!...
 
             
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+128,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Was Kückücks isch das fir e Seil, wo-n-Ihr do
                             noziehn?...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+129,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Ich ha's an dr Wagle-n-ag'macht, ass ich wagle ka vo
                             do...
                             denn wie das Ding still steht, so grint 's Kind
 (er
                             wagelt
                             furt).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+130,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 's handelt sich jetz nitt um's Kind z'wagle... lose
                             jetz
                             recht, Schambedis, was ich Eüch sage will... gehn
@@ -1447,59 +2636,96 @@ Herr Spàtzle.
                             z'sàh, wenn's möglig isch, was drin vorgeht un
                             kämme mir's
                             derno Wort fir Wort ku sage...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+131,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Oho... Herr Spàtzle... o das noch?...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+132,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Schambedis, mache mir dà G'falle... 's geht um mi
                             Lewensglick... Ihr werde dert wohrschinlig mi Fraü
                             un dr
                             Herr Mües höre...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+133,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Aha... jetz merk ich scho, wo d'Katz im Hei
                             steckt... awer
                             wenn's nur wege dem isch, so känne Sie sicher si,
                             ass Ihre
                             Fraü unschuldig isch... se-n-isch viellicht e wenig
                             lichtsinnig, awer eso doch nitt.
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+134,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (ungeduldig)
+
+            
 Desto besser... awer gehn jetz...
 (er lüegt uf
                             d'Ühre)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+ 's
+                            isch noch zeh Minüte bis Drei... Ihr känne grad ane
+                            ku...
+
+          
+",lustig-vor-un-no-dr-hochzit
+135,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Güet ich gang, wenn's nur wàr, fir Sie
                             z'versichere...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+136,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (unterbricht ne)
+
+            
 Passe recht uf un b'sunders kämme gli wieder,
                             wie-n-Ihr
                             ebbes sichers wisse... ich will siter no-n-em Kind
                             lüege...
                            
 (er nimmt dr Schnüer un geht üse links).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+137,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (allei)
+
+            
 Ich sott eigentlig Valet de chambre si do, siter ass
                             ich
                             nimmig Knecht bi... awer wil d'Kindsmagd vielmol
@@ -1508,50 +2734,102 @@ Ich sott eigentlig Valet de chambre si do, siter ass
                             Kindsmagd... un
                             jetz sott ich noch sogar dr Spion mache!...
 
+            
+
               
 G'sang
+
+              
 (Ach ich bin so müde)
+
+              
 Thüet's eim nitt verleide
+
+              
 Bi so G'legeheite!
+
+              
 Ich bi jetz scho bis dohi
+
+              
 Knecht un Magd un Diener gsi
+
+              
 Un sott mit dr G'schichte
+
+              
 Jetz dr Herr noch b'richte,
+
+              
 Wie sich d'Madame d'Zit vertribt,
+
+              
 Wenn se z'lang üsblibt!
+
+            
+
+            
 Do geht's züe in dem Hüs!... do geht's züe!...
 (er springt hinte-n-üse)
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+138,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (kunnt links, er hat Papier, Fedre un Tinte in
                             einer
                             Rand un in dr andere ne Pistole, er legt alles uf
                             dr Tisch)
+
+            
 's Kind isch ig'schlofe jetz züem Glick!
 (er zeigt
                             uf dr
                             Tisch)
+ das isch jetz alles, was mir iwrig blibt...
+                            ne Brief
+                            z'schriwe, ass ich mir freiwillig 's Lewe gnu ha un
+                            derno...
 (er macht, wie wenn er sich erschiesse
                             thàt)
+
+                            isch's ferig... ich weiss eigentlig nitt emol,
+                            worum as ich
+                            warte soll... d'G'wissheit?... do isch se
 (er zeigt
                             uf's
                             Briefle, wo-n-er üs em Sack nimmt un uf dr Tisch
                             wirft)
-
-            
+ un
+                            eso ne Tortür isch nitt üsz'halte...
 (er nimmt
                             d'Pistole)
+
+                            awer 's Kind? ich U nglickligcr as ich bi!.. nei,
+                            nei!...
+                            no nitt... still, 's grint glaüb?... ich kumm, ich
+                            kumm!
+                           
 (er schiebt d'Pistole unter 's Papier)
+ Oh, das
+                            Lewe!...
 (er
                             verschwindet links).
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+139,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (kunnt ine rechts, er isch ag'legt fir
                             üsz'geh)
+
+            
 Jetz wà mr denn geh lüege, was das fir e
                             G'schichte-n-isch... dà elende Herr Mües!... er
                             wird
@@ -1563,125 +2841,250 @@ Jetz wà mr denn geh lüege, was das fir e
                             alle
                             beide!...
 (er geht hinte-n-üse).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+140,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (kunnt ine links)
+
+            
 's hat nur traümt, 's Kind...
 (er sitzt an dr Tisch,
                             dr Kopf
                             uf d'rechte Hand g'stützt)
-
-            
+ also, das isch jetz die
+                            Hiroth,
+                            wo-n-ich mir so viel Glick versproche ha dervo!..
+                            's isch
+                            si wohl dr Werth gsi, ass ich e halwer Tag im
+                            Mehlschrank
+                            grübbt bi un schier verstickt bi derwege! Oh, die
+                            Liewe!...
+                            die sieht halt nitt witer as d'Nase lang isch!...
+                            ich hätt
+                            jo sotte merke, ass 's Lisettle nur e lichtsinnige
+                            Person
+                            isch, wo an nit as am G'staat haltet un am
+                            Spazieregeh!...
+                            awer we me jung isch un verliebt, so sieht
+                            me-n-iwer das
+                            alles üse... un jetz, im letschte-n-Aügesblick,
+                            wenn ich mi
+                            G'wisse-
+n-untersüech, so find ich's o nitt ohne
+                            Fehler...
+                            ich hätt viellicht o sotte mehr d'heim bliwe...
+                            awer wer
+                            hat z'erst ag'fange, isch's mi Fraü gsi oder ich,
+                            wo si
+                            Plaisier z'erst voruse g'süecht hat? ich weiss es
+                            nitt...
+                            uf jedefall, wenn ich's noch emol z'thüe hatt, so
+                            thàt ich
+                            mich anderscht benàmme... mir hàn halt vo Afang a
+                            beide ne
+                            letzer Weg ig'schlage... ich sieh's jetz erst i,
+                            ass nur
+                            d'heim im e stille Lewe 's Glick vom Ehstand mag
+                            z'finde
+                            si!... awer jetz isch's z'spot!... un doch ha-n-i
+                            's
+                            Lisettle viellicht noch nie liewer g'ha as in dem
+                            Moment!...
 (er springt uf)
+ un dà Schambedis, wo
+                            nitt
+                            z'ruckkunnt
 (me hört ebber ku)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+ doch, do isch er
+                            glaüb!...
+                            uf ei Art wie-n-uf d'and're müess jetz die Folter
+                            e-n-End
+                            nàh!...
+
+          
+",lustig-vor-un-no-dr-hochzit
+141,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (kunnt hinte-n-ine)
+
+            
 Do bin i jetz scho wieder! ich ha nitt lang Zit
                             brücht
                             fir...
 (er dreiht embarrassiert si Kappa-n-in de
                             Hànd
                             umme).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+142,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Rede-n-ungeniert... ich bin uf alles g'fasst!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+143,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Fir z'wisse... ass ich...
 (er stockt).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+144,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (niederg'schlage)
+
+            
 Ass Ihr Eüch trumpiert hàn... nitt wohr?...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+145,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Leider ha-n-ich mich schint's trumpiert iwer
                             d'Madame...
                             jo... nitt wohr, no dem was ich g'hört ha... ich
                             sott's Ene
                             viellicht nitt sage...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+146,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (rasend)
+
+            
 Was hàn Ihr denn g'hört... so rede doch emol!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+147,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Also bin ich an die Thüre gange dert hinte, wo Sie
                             mir
                             g'sàit hàn, wo-n-awer e Last Kiste-n-un Dings dra
                             ufbigt
                             gsi isch, so dass ich nur einzeine Worte ha
+ känne
+                            vernàh...
+                            wo-n-i ku bi, hat grad dr Herr Mües g'redt un do
+                            ha-n-i
+                            g'hört vo «noch allewil gern ha... d'Madame kännt
+                            ne dr
+                            glickligste Mensch mache... »
 
-            
-"
-unknown,Herr SPATZLE,M,,,"
+          
+",lustig-vor-un-no-dr-hochzit
+148,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (ganz üsser sich)
+
+            
 Un... d'Madame?...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+149,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Se hat weniger stark g'redt... drum ha-n-i nitt viel
                             verstande... doch ha-n-i g'hört, ass se g'sàit hat,
                             se
                             wott's in ihrem Vater nitt z'Leid thüe... er soll
                             noch
                             gedulde...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+150,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Ah so!... also an dr Mann hat se nitt emol denkt...
                             dà
                             giltet scho nit me... 's isch nur dr Vater, wo se
                             noch
                             z'ruckhaltet...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+151,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Ich bi derno gli furt... denn ich ha-n-Angst g'ha,
                             ass me
                             mich ertappt un im Z'ruckku ha-n-ich dr Herr
                             Schnitz
                             atroffe, wo grad ane-n-isch...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+152,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 's isch güet... Ihr känne geh...
 (fir sich)
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+ ich
+                            weiss jetz
+                            scho, was ich z'mache ha!
+
+          
+",lustig-vor-un-no-dr-hochzit
+153,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Un doch ka-n-i's no nitt glaüwe!...
 (er geht üse
                             links).
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+154,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (allei)
+
+            
 Also isch's denn wohr!... mi Fräu isch mr untreü!...
                             eh
                             bien!... dà Aügesblick entscheidet... fir was eso
@@ -1689,73 +3092,132 @@ Also isch's denn wohr!... mi Fräu isch mr untreü!...
                             z'fiehre!...
 (er nimmt d'Pistole un hebt se-n-an
                             d'Stirne).
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+155,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
+
+            
 (kunnt hinte-n-ine ku z'stürze un schiebt em dr
                             Arm uf
                             d'Site)
+
+            
 Unglickliger!... was witt astelle!... grad hat mr dr
                             Pape
                             g'sàit, in was fir eme fatale-n-Irrthum ass De
                             bisch!...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+156,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (rasend)
+
+            
 Ah so... 's isch e-n-Irrthum!
 (er zeigt ufs Briefie)
+
+                            do
+                            isch's Briefle vom Herr Mües un dr Rest hat dr
+                            Schambedis
+                            g'hört an dr Thüre vom Ladestiwle... do hasch, was
+                            De
+                            verdiensch
 (er hebt ere d'Pistole vor's G'sicht).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+157,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (stürzt üs em Zimmer links un windet em
                             d'Pistole-n-üs
                             dr Hand)
+
+            
 Bscht!... Sie wecke jo 's Kind, wenn Se schiesse
                             do!...
 (se
                             lüege ne beide verstört a)
-"
-unknown,LISETTLE,F,,,"
+ ich ha's vorig grad
+                            drucke
+                            g'legt... 's müess es jo ebber b'sorge, das arme
+                            G'schöpf,
+                            wenn d'Kindsmagd spaziere geht mit ihrem Soldat!
+
+          
+",lustig-vor-un-no-dr-hochzit
+158,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
+
+            
 (fir sich)
+
+            
 Was fir e Lektion fir mich!...
 (lüt)
+ awer Isidor!
+                            hasch Dü
+                            eigentlig dr Verstand verlore?... was hat er denn
+                            g'hört,
+                            dr Schambedis?... er soll rede!...
 (dr Herr Spàtzle
                             losst
                             si uf e Stüehl sinke vor em Tisch un versteckt si
                             G'sicht
                             in de Hand).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+159,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (verlege)
+
+            
 Ich ha jo allewil g'sàit 's isch nitt wohr... awer
                             ich ha
                             halt miesse sage, was ich g'hört ha!
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+160,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Un was hàn Ihr denn g'hört... üse mit emol!...
 
             
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+161,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
+
+            
 Eh... vom gern ha... vom Lewensglick mache un eso
                             Dings...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+162,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Also isch's denn das?.. un ihr hàn beide nitt
                             g'merkt, ass
                             es wege-n-em Lade-n-isch, wo dr Herr Mües kaüfe
@@ -1766,12 +3228,20 @@ Also isch's denn das?.. un ihr hàn beide nitt
 (se nimmt e Papier üs em Sack
                             un
                             git's em).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+163,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (liest)
+
+            
 Madame Spàtzle!
+
+            
 Verzeiht Se mr, wenn ich wir erlaüb, Ihre
                             z'schriwe, awer
                             ich kännt e güete Parthie mache un mi Züekünftige
@@ -1782,12 +3252,20 @@ Verzeiht Se mr, wenn ich wir erlaüb, Ihre
                             das Ding in Richtigkeit mache; Sie weisst, ass ich
                             baar
                             üszahle thüe.
+
+            
 Ihr getreüer: Jacques Mües.
+
+            
 (Dr Herr Spatzle fangt a ufz'lüege)
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+164,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Uf das hi ha-n-ich em g'antwortet, ass ich mit em
                             Pape dervo
                             rede will, wo wohrschinlig nit dergege ha wird...
@@ -1810,44 +3288,70 @@ Uf das hi ha-n-ich em g'antwortet, ass ich mit em
                             hännt
                             derno si Züekünftige hirothe... das isch d'ganze
                             G'schichte.
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+165,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (züem Herr Spàtzle)
+
+            
 Ha-n-i nitt allewil g'sàit, ass es nitt wohr
                             isch!...
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+166,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (springt uf)
+
+            
 O Lisettle!... isch's möglig?... kumm verzeih mr,
                             ass ich
                             Dich eso unschuldigerwis aklagt ha!...
 (se
                             umarme-n-enander).
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+167,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (züer Madame Spàtzle)
+
+            
 Un mir Madame, ka Se mir o verzeille, ass ich eso
                             dumm Dings
                             g'schwàzt ha... ich ha halt nitt känne wisse...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+168,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 G'wiss, Schambedis, verzeih ich Eüch... denn Ihr hàn
                             mir jo
                             grad 's Lewe g'rettet un erst noch e Lektion gà,
                             wo-n-ich
                             eso bol nimmig vergesse wird!
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+169,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
+
+            
 Un ich o, Schambedis, verdank Eüch alles... wenn Ihr
                             nitt
                             gsi wàre... oh, ich derf nitt dra denke!... awer
@@ -1856,18 +3360,28 @@ Un ich o, Schambedis, verdank Eüch alles... wenn Ihr
                             frisch
                             Lewe-n-afange... wenn's jo nur wàr fir unser
                             Kind!...
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+170,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 G'wiss, liewer Mann... ich versprich Dir's un wird's
                             o wisse
                             z'halte!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+171,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
+
+            
 (freidig mit dr Pistole-n-in dr Hand)
+
+            
 Aha!... das heiss ich jetz emol g'redt... dr
                             Schambedis
                             hat's jetz doch derzüe brocht... 's isch schad, ass
@@ -1875,79 +3389,133 @@ Aha!... das heiss ich jetz emol g'redt... dr
                             Angst ha vor em Schiesse, sunscht thàt ich jetz
                             glich e
                             paar Schitz abfire vor lüter Freid!
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+172,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
+
+            
 (kunnt mit em Herr Mües hinte-n-ine)
+
+            
 Do bring ich dr Herr Mües, Herr Tochtermann, ass
                             er's Ihne
                             selbst bezige ka, ass Sie im Irrthum sin!
 
             
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+173,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 's isch alles scho arrangiert, Pape... un mir
                             verspreche Dir
                             noch owedri, ass mir jetz e ganz ander Lewe fiehre
                             wànn!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+174,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 A la bonne heure! un wenn das isch, so känne-n-ihr
                             im Herr
                             Mües dr Lade verkaüfe, wil's denn si Glick mache
                             soll.. ich
                             ha nit meh dergege.
-"
-unknown,Herr SPATZLE,M,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+175,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
+
+            
 (züem Herr Mües)
+
+            
 Awer mache Se nur Etiquettes uf d'Hunighàfe, Herr
                             Mües, nitt
                             ass Sie sich wieder emol trumpiere..
-"
-unknown,Herr MÜES,M,clerk,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+176,comedy,Herr MÜES,M,,,,"
             
 Herr Mües.
+
+            
 Un dr Mehlschrank will ich o lo absite mache, nitt
                             ass
                             wieder emol e-n-Unglick g'schieht... nitt wohr,
                             Herr
                             Spàtzle!...
-"
-unknown,Herr SCHNITZ,M,spice_merchant,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+177,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
+
+            
 Ah çà!... was macht denn dr Schambedis do mit sin're
                             Pistole?....
-"
-unknown,LISETTLE,F,,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+178,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
+
+            
 Dr Schambedis, Pape, hat uns beide vom Verderwe
                             g'rettet!...
-"
-unknown,SCHAMBEDIS,M,domestic_worker,,"
+
+          
+",lustig-vor-un-no-dr-hochzit
+179,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
 
             
+
+            
 Dr Schambedis müess alles mache,
+
+              
 Sogar noch leider in dr G'fohr
+
+              
 Müess er jetz iwer d'Herrschaft wache,
+
+              
 Wenn sie sich nàh will an de Hoor!
-"
-unknown,alle,B,,,"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit
+180,comedy,alle,B,,,,"
             
 Alle.
 
+            
+
               
 's isch güet, ass mir jetz sin am End,
+
+              
 Sunscht hätt er jo bol nimm g'nüeg Hànd! 
 (bis)
-"
+
+            
+
+          
+",lustig-vor-un-no-dr-hochzit

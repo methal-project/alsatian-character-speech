@@ -41,7 +41,8 @@ Dans bi-de-wilde.xml, les Speaker sont marque comme
 Sie, Er, au lieu de nom et prenom
 ```
 Pour parcourir les informations des personnages,
-Dans repetoires tei-lustig et tei2, le <idno type="methal" xml:id="mtl-001"/> n'existe pas,
+Dans repetoires tei-lustig et tei2, le ```
+<idno type="methal" xml:id="mtl-001"/>``` n'existe pas,
 cela pose un probleme quand il y a meme noms et prenoms dans differentes pieces de theatre.
 
 #### ted analyse:

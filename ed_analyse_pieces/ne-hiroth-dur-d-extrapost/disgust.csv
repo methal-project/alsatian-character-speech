@@ -1,9 +1,13 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,Herr REHRLE,M,journalist,,"
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (sitzt an sim Tisch, wo allerhand fir Zitunge
                         lige)
+
+          
 Was fir e Handwerk, dü liewe Zit!... was fir e
                         Handwerk!... alle Wuche-n-eso ne Kàsblättle miesse
                         z'schriwe im eso ne Nest, wie unser Städle-n-eins
@@ -15,42 +19,96 @@ Was fir e Handwerk, dü liewe Zit!... was fir e
                         Zitunge ihre-n-Artikel stehle, fir mine üsz'fille... 's
                         isch g'wiss kei Kilwe, ihr derfe's glaüwe.
 
+          
+
             
 G'sang
+
+            
 (Des Morgens in der Frühe)
+
+            
 Wenn ich müess mi Zitung schriwe,
+
+            
 Bin ich iwel dra, 
 (bis)
+
+            
 Ich thàt's liewer als lo bliwe,
+
+            
 Denn s' isch halt wie g'sàit
+
+            
 G'wiss kei Freid.
+
+            
 Denn s' isch hait wie g'sàit, 
 (bis)
+
+            
 Denn, wie g'sàit, 's isch g'wiss kei Freid.
+
+          
+
+          
 
             
 Wenn ich lieg, so thien d'Lit klage
+
+            
 Un doch derf i halt 
 (bis)
+
+            
 D'Wohret o nitt immer sage,
+
+            
 Sunscht isch's o nitt recht,
+
+            
 's gieng mr schlecht.
+
+            
 Sunscht isch's o nitt recht, 
 (bis)
+
+            
 's isch nitt recht, denn 's gieng mr schlecht !
+
+          
+
+          
 
           
 
             
 Drum heb ich mich an de Wide,
+
+            
 Ich nimm d'Scheere-n-als, 
 (bis)
+
+            
 Fir d'Artikel üse z'schnide
+
+            
 Üs de-n-Andre halt,
+
+            
 Was mir g'fallt.
+
+            
 Üs de-n-Andre halt, 
 (bis)
+
+            
 Üs de-n-Andre, was mir g'fallt!
+
+          
+
+          
 Un d'Annonce, wo am meiste itrage, die fehle mr o
                             allewil, die ka-n-i doch nitt üs andere Zitunge
                             nah... do ha-n-i jetz wieder e ganze halwe Site
@@ -62,492 +120,899 @@ Un d'Annonce, wo am meiste itrage, die fehle mr o
 (dr Toni kunnt ine)
 
           
-",340,43,0.09675653201435633,0.1264705882352941
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,340,43,0.09675653201435633,0.1264705882352941
+1,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Bin i do bim Herr Rehrle, wo d'Zitung «d'Extrapost»
                         scbribt?... ich mächt ewe-n-ebbes dri setze lo.
-",23,2,0.2599044495983929,0.08695652173913043
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,23,2,0.2599044495983929,0.08695652173913043
+2,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 's isch do, güeter Frind... setze Sie sich
 (er git ein e
                         Stühl. Fir sich)
-",19,4,0.047,0.21052631578947367
-unknown,TONI,M,farmer,,"
+ à la bonne heure, dà kunnt jetz grad
+                        recht.
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,28,6,0.03133333333333333,0.21428571428571427
+3,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Nitt wohr, Herr Rehrle, me ka jo ganz güet e
                         Hirothsatrag in d'Zitung setze lo?... 's isch jo jetz
                         Mode siter ebes Zit...
-",25,6,0.08663481653279763,0.24
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,25,6,0.08663481653279763,0.24
+4,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Natirlig, junger Mensch, natirlig... me hirothet jo jetz
                         schier nimmig anderscht.
-",13,3,0.06266666666666666,0.23076923076923078
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,13,3,0.06266666666666666,0.23076923076923078
+5,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Güet... ich bi éwe-n-in dem Fall... schaüe Se, ich müess
                         hirothe, ich ka nimmig warte... ich hätt gern e Fraü un
                         traü doch keine z'froge... wisse Se, ich bi ewe ne
                         wenig schich.
-",37,4,0.0,0.10810810810810811
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,37,4,0.0,0.10810810810810811
+6,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Eh bien, do kanne Se nit bessers mache, als das Ding in
                         «d'Extrapost» z'schriwe... ich will's Ene glich
                         ufsetze... ne Artikel vo-n-ere halwe Site, wie Sie noch
                         keiner g'sàh hàn...
-",39,2,0.094,0.05128205128205128
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,39,2,0.094,0.05128205128205128
+7,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Nei, nei... ich bitt Se drum... nur e ganz kleiner... in
                         e-n-Ecke, ung'fàhr eso viellicht: Ne junger Mensch, wo
                         Hüs, Hof, Schire, Stall, Kieh un Gàns hat, wünscht noch
                         e Fraü derzüe.
-",35,7,0.0,0.2
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,35,7,0.0,0.2
+8,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Was denke Se... das isch nitt genüe... wenn das Ding
                         packe soll, so mien Sie sich e wenig in d'Höche
                         lipfe... lehn Se mieh nur mache... ich will's Ene
                         ufsetze
 (er sitzt an dr Tisch un fangt a z'schriwe).
-",46,1,0.188,0.021739130434782608
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,46,1,0.188,0.021739130434782608
+9,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Awer nur nitt z'lang, denn sunscht kostet's gar viel.
-",12,1,0.0,0.08333333333333333
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
+10,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Nur kei Angst... mr wànn scho iwereins ku mitnander.
                        
 (fir sich)
-",15,5,0.0376,0.3333333333333333
-unknown,TONI,M,farmer,,"
+ 's müess mr mi halwe Site-n-üsfille,
+                        kostet's was es will!
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,28,5,0.0376,0.17857142857142858
+11,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (fir sich)
+
+          
 Wenn's awer nur ebbes nutzt, un ass sich mir glich ebber
                         atràit, derno will ich gern zahle...
 
+          
+
             
 G'sang
+
+            
 (Màidele........)
+
+            
 's kunnt mr jetz nitt druf a,
+
+            
 Wenn ich hirothe ka!
 
-          
+            
+
+            
 Wenn ich jetz nur g'schwind 
 (bis)
+
+            
 Dur Ihre-n-Artikel e Wiwele find,
+
+            
 Denn ich bi pressiert, 
 (bis)
+
+            
 Doch zahl i kei Rappe, wenn's nitt reüssiert.
-",69,6,0.09366666666666668,0.08695652173913043
-unknown,Herr REHRLE,M,journalist,,"
+
+          
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,69,6,0.09366666666666668,0.08695652173913043
+12,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (springt uf)
+
+          
 
             
 Do gang ich jetz nitt dra,
+
+            
 Ich müess mi Geld o ha!
-",18,3,0.06266666666666666,0.16666666666666666
-unknown,Herr REHRLE,M,journalist,,"
+
+          
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,18,3,0.06266666666666666,0.16666666666666666
+13,comedy,Herr REHRLE,M,,,,"
             
 
               
 Ich schrib nitt so g'schwind, 
 (bis)
+
+              
 Wenn ich mi Artikel nitt zahlt genüeg find.
+
+              
 Er isch so pressiert 
 (bis)
+
+              
 Un will doch nitt bleche, wenn's nitt reüssiert!
+
+              
 Do gang ich jetz nitt dra,
+
+              
 Ich müess mi Geld o ha!
-",44,2,0.281,0.045454545454545456
-unknown,TONI,M,farmer,,"
+
+            
+
+          
+",lustig-ne-hiroth-dur-d-extrapost,44,2,0.281,0.045454545454545456
+14,comedy,TONI,M,,,,"
             
 Toni.
+
+            
 
               
 Wenn ich jetz nur g'schwind 
 (bis)
+
+              
 Dur Ihre-n-Artikel e Wiwele find,
+
+              
 Denn ich bi pressiert, 
 (bis)
+
+              
 Doch zahl i kei Rappe, wenn's nitt reüssiert!
+
+              
 Doch kunnt's mir nitt druf a,
+
+              
 Wenn ich hirothe ka!
-",43,2,0.281,0.046511627906976744
-unknown,Herr REHRLE,M,journalist,,"
+
+            
+
+          
+",lustig-ne-hiroth-dur-d-extrapost,43,2,0.281,0.046511627906976744
+15,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Was meine Se denn eigentlig?... Das Ding müess doch
                         g'schriwe, g'setzt un druckt si... ich ha d'ganz gliche
                         Mieih, eb's packt oder nitt...
-",27,3,0.06266666666666666,0.1111111111111111
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,27,3,0.06266666666666666,0.1111111111111111
+16,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Eh bien, so wisse Se was... packts, so zahl i, un
                         packt's nitt, so zahl i nur d'Hälfte... ich ka doch
                         nitt mi Geld eso-n-eweg werfe, wennn i nit derfir
                         bikumm...
-",36,5,0.0,0.1388888888888889
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,36,5,0.0,0.1388888888888889
+17,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Enfin... 's isch mir eithüen... mr wànn hoffe-n-ass es
                         packt!
 (fir sich)
-",18,3,0.06266666666666666,0.16666666666666666
-unknown,Herr REHRLE,M,journalist,,"
+ wenn's nitt wàr wege miner leere
+                        Site...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,26,5,0.1266,0.19230769230769232
+19,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (nimmt si Papier)
+
+          
 Do isch's... lose Se jetz emol: Ne junger Mensch, stark
                         wie ne Leb, vo-n-ere güete Familie, mit eme ag'nehme
                         Charakter, schön g'wachse
 (dr Toni richtet sich stolz
                         uf un hüeschtet)
-",42,9,0.020888888888888887,0.21428571428571427
-unknown,TONI,M,farmer,,"
+ un was nitt z'verachte-n-isch,
+                        Eigethümer vo Hüs, Hof, Stallunge, Kieh, Gàns etc., un
+                        wo hofft das alles noch z'vermehre mit dr Hiroth,
+                        wünscht mit ere junge Person in dr Eh'stand z'trete, wo
+                        o ne bitzi ebbes hat... hein! isch das e-n-Artikele?...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,90,15,0.05053333333333333,0.16666666666666666
+20,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (bedenklig).
+
+          
 Ich find, 's isch e-n-Artikel! Das kunnt viel z'thir...
                         un 's isch z'lang... 's list's kei Mensch!
-",26,2,0.281,0.07692307692307693
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,26,2,0.281,0.07692307692307693
+21,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Mr drucke's mit recht grosse Büchstawe, ass es eim güet
                         in's Aüg fallt...
 (fir sich)
-",21,5,0.0376,0.23809523809523808
-unknown,TONI,M,farmer,,"
+ ich will ne scho
+                        verwitsche.
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,26,5,0.0376,0.19230769230769232
+22,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (angstlig)
+
+          
 Nei, nei... nitt mit grosse Büechstawe... 's wird eso
                         scho g'nüeg Platz inàh... wie hoch meine Se, ass es
                         kunnt ung'fàhr?...
-",25,2,0.0,0.08
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,25,2,0.0,0.08
+23,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 's kunnt nitt hoch... ich mach's ganz awe-n-an's End...
                         lehn Se mich nur mache... ich schick Ene derno
                         d'Note... Se werde sàh, ass Se nitt z'viel zahle, fir e
                         Fraü z'biku...
-",40,5,0.0376,0.125
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,40,5,0.0376,0.125
+24,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Also zähl i druf hit z'Owe kunnt's dri, nitt wohr, un
                         nitt züe arg gross ich will's nitt gross...
-",23,4,0.21595637867484474,0.17391304347826086
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,23,4,0.21595637867484474,0.17391304347826086
+25,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Güet, Güet...
+(fir sich)
+ isch er stättig, dà Mensch...
+                        's hätt mr grad mi halwe Site-n-üsgfillt!...
+
+          
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,22,5,0.0376,0.22727272727272727
+26,comedy,TONI,M,,,,"
+          
+Toni
+
+          
 (fir sich)
 
           
-",8,4,0.047,0.5
-unknown,TONI,M,farmer,,"
-          
-Toni
-(fir sich)
 Wenn's nur nitt vergewes isch!... oh! wie frei ich mich,
                         mi Züekünftige z'sàh!
 ('s Bàwele kunnt ine).
-",26,2,0.0,0.07692307692307693
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,26,2,0.0,0.07692307692307693
+27,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Herr Rehrle, ich mächt...
 (si sieht dr Toni, fir sich)
+
+                        tiens, ne junger Mensch... er isch nitt iwel...
 (se
                         red' mit em Herr Rehrle).
-",21,3,0.12533333333333332,0.14285714285714285
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,29,5,0.19106094310212135,0.1724137931034483
+28,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (fir sich)
+
+          
 Das wàr jetz eso ebbes!... wer weisst, eb se nitt o im
                         Sinn hat z'hirothe... oh, wenn ich thàt traüe frage...
                         ich will glaüb warte dunte, bis ass se furt isch un
                         will derno dr Herr Rehrle froge, was se hat welle...
                        
 (lüt)
+ also Herr Rehrle, hit z'Owe... Adies binander...
+                       
 (er geht üse).
-",56,5,0.0376,0.08928571428571429
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,64,7,0.053714285714285714,0.109375
+29,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (rieft em no)
+
+          
 Adie!
 (züem Bàwele)
+ also ne Hirothsatrag soll's si?...
+                       
 (er ribt si d'Hànd freidig, fir sich)
-",22,3,0.06266666666666666,0.13636363636363635
-unknown,BÀWELE,F,farmer,,"
+ grad fir se gar
+                        üsz'fille!
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,33,5,0.0376,0.15151515151515152
+30,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Ich ka awer uf Ihre Verschwiegeheit zähle, nitt wohr?
-",10,3,0.0,0.3
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,10,3,0.0,0.3
+31,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Verschwiege bis in's Grab!... wie miesst me das Ding
                         ung'fàhr ufsetze?...
-",14,2,0.094,0.14285714285714285
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,14,2,0.094,0.14285714285714285
+32,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Ich mein, me kännt's viellicht eso schriwe: Ne junge
                         Person, uf em Land uferzoge un wo b'sunders güet mit em
                         Vieh weisst umz'geh, süecht e Mann...
-",28,7,0.0,0.25
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,28,7,0.0,0.25
+33,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (fir sich)
+
+          
 Das isch nitt genüe... 's làngt nitt... ich müess es
                         süeche in d'Lange z'zieh;
 (lüt)
-",25,5,0.0376,0.2
-unknown,Herr REHRLE,M,journalist,,"
+ verzeiht Se, wàr das
+                        fir Sie?
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,31,6,0.03133333333333333,0.1935483870967742
+35,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (springt uf, fir sich)
+
+          
 E-n-Idee... dr Ander ka no nitt wit si... wenn ich em
                         Die thàt ahànke, fir sicher z'si, ass ich zahlt
                         wird?...
 (er lüegt züem Fenster üse)
-",39,5,0.0376,0.1282051282051282
-unknown,BÀWELE,F,farmer,,"
+ richtig, dert isch
+                        er noch... bst! güeter Frind... warte Se noch e wenig
+                        im Vorhüs, i ha noch ebbes mit Ene z'rede...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,62,9,0.020888888888888887,0.14516129032258066
+36,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (fir sich)
+
+          
 Was isch em... was hat er?
-",11,1,0.0,0.09090909090909091
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,11,1,0.0,0.09090909090909091
+37,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (sitzt wieder)
+
+          
 Also, hà mr g'sàit, e Jumpfere, wo mit em Rindvieh
                         weisst umz'geh, süecht e Mann...
-",21,3,0.06266666666666666,0.14285714285714285
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,21,3,0.06266666666666666,0.14285714285714285
+38,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 C'est çà... das geht alles uf ei Linie, nitt wohr? un do
                         wird's jo nitt so viel koste?
-",20,2,0.0,0.1
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,20,2,0.0,0.1
+39,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Was denkt Se... uf ei Linie! nitt emol uf zwei... un
                         derno mie mr o das Ding e wenig anderscht dràihe... 's
                         isch e wenig...
-",27,4,0.047,0.14814814814814814
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,27,4,0.047,0.14814814814814814
+40,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (unterbricht ne)
+
+          
 Z'kurz, nitt wohr?... Sie hätte gern e lange Litenei, wo
                         Ihne 's Journal üsfillt... 's isch ganz güet eso...
                         setze Sie's nur eso dri.
-",31,6,0.0,0.1935483870967742
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,31,6,0.0,0.1935483870967742
+41,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (fir sich)
+
+          
 Dà wo Die bikunnt, brücht o nitt sage «Gott strof mi!»
                        
 (lüt)
+ güet, güet... wenn Sie sich eso will drucke lo,
+                        mir isch's scho recht.
 
           
-",22,5,0.11579999999999999,0.22727272727272727
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,36,10,0.09108088991967858,0.2777777777777778
+42,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (fir sich)
+
+          
 Hein, was sàit er, ich will mich drucke lo?... wie meint
                         er das?
-",18,3,0.1106029663989286,0.16666666666666666
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,18,3,0.1106029663989286,0.16666666666666666
+43,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Mr sage-n-also :
 (er schribt)
-",10,1,0.188,0.1
-unknown,BÀWELE,F,farmer,,"
+ Ne junge Person, im Stall
+                        uferzoge...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,16,2,0.094,0.125
+44,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Was, im Stall!... uf em Land, ha-n-i g'sàit!
-",11,2,0.0,0.18181818181818182
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
+45,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 's kunnt uf's Gliche-n-üse... also uf em Land uferzoge
                         un wo « d'Viehzucht versteht, » wà mr do mache, 's isch
                         e wenig civilisierter, süecht sich z'verhirothe mit eme
                         Mann.
-",37,5,0.0376,0.13513513513513514
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,37,5,0.0376,0.13513513513513514
+46,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Natirlig mit eme Mann... das isch alles Üsfillete!...
                         mache Sie nur eifach « süecht e Mann » un dermit ferig.
 
+          
+
             
 G'sang
+
+            
 ('s kunnt e Vogel)
+
+            
 Wenn e Mann kunnt ku z'fliege
+
+            
 Un kneit hi vor mi Füess,
+
+            
 So will ich ne glich ziege,
+
+            
 Ass er mir folge müess.
-",52,7,0.0,0.1346153846153846
-unknown,BÀWELE,F,farmer,,"
+
+          
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,52,7,0.0,0.1346153846153846
+47,comedy,BÀWELE,F,farmer,agriculture,,"
             
 Bàwele.
 
+            
+
               
 Liewer Mann, will ich sage,
+
+              
 Wenn D' e Fraü witt in's Hüs,
+
+              
 So derfsch d'Hose nitt trage,
+
+              
 Zieg se liewer glich üs.
-",25,4,0.0,0.16
-unknown,Herr REHRLE,M,journalist,,"
+
+            
+
+          
+",lustig-ne-hiroth-dur-d-extrapost,25,4,0.0,0.16
+48,comedy,Herr REHRLE,M,,,,"
             
 Herr Rehrle
+
+            
 (fir sich).
+
+            
 
               
 Wohl sin's Artikel zwei,
+
+              
 Nur isch dr letschte z'klei,
+
+              
 Doch fir was ich vor ha,
+
+              
 Isch noch g'nüe dra.
-",27,4,0.047,0.14814814814814814
-unknown,Herr REHRLE,M,journalist,,"
+
+            
+
+          
+",lustig-ne-hiroth-dur-d-extrapost,27,4,0.047,0.14814814814814814
+49,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Sa, do wàr's denn jetz eso g'schriwe... wenn Sie's
                             viellicht noch will iwerlese 
 (er git ere im Toni si Artikel)
+ich will siter mit dem junge Mensch ferig mache 
 (er geht gege dr Thüre).
-",33,3,0.06266666666666666,0.09090909090909091
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,42,4,0.047,0.09523809523809523
+50,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (nimmt 's Papier, fir sich)
+
+          
 Ich bi jetz doch wunderfitzig, eb ich uf dà Artikel
                             hi ne Mann bikumm...
-",22,5,0.0,0.22727272727272727
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,22,5,0.0,0.22727272727272727
+51,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
+
+          
 (macht d'Thüre-n-uf)
+
+          
 Junger Mensch, kämme Se noch e wenig un iwerlese
                             Se-n-Ihre-n-Artikel, fir sicher z'si, ass nit fehlt
 (dr Toni kunnt ine, er git em im Bàwele si
                             Artikel)
-",43,7,0.026857142857142857,0.16279069767441862
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,43,7,0.026857142857142857,0.16279069767441862
+52,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (fangt a z'lese)
+
+          
 Ne junger Mensch... hein, was git er mir do
                             z'lese...
-",18,1,0.0,0.05555555555555555
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,18,1,0.0,0.05555555555555555
+53,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (fangt a z'lese)
+
+          
 Ne junge Person...
-",10,1,0.0,0.1
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,10,1,0.0,0.1
+54,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
+
+          
 (fahrt furt)
+
+          
 Stark wie ne Leb...
-",9,2,0.0,0.2222222222222222
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,9,2,0.0,0.2222222222222222
+55,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Uf em Land uferzoge...
-",5,2,0.0,0.4
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,5,2,0.0,0.4
+58,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Wott in dr Eh'stand trete...
-",6,1,0.0,0.16666666666666666
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,6,1,0.0,0.16666666666666666
+59,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Süecht e Mann...
 (se lüege enander a)
-",10,1,0.0,0.1
-unknown,BÀWELE,F,farmer,,"
+tiens, tiens!...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
+60,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Tiens, tiens!...
 (fir sich)
-",7,1,0.0,0.14285714285714285
-unknown,TONI,M,farmer,,"
+ me kännt's jo prawiere...
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
+61,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (geht verlege gege-n-em Bàwele)
+
+          
 Hm, hm... wenn Sie viellicht wott...
 
           
-",15,2,0.0,0.13333333333333333
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,15,2,0.0,0.13333333333333333
+62,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 Mache doch nitt soviel Stàmpenei-n-un Manöver, gàn
                             enander d'Hand un e Schmutz un dermit ferig...
                         
-",20,2,0.094,0.1
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,20,2,0.094,0.1
+63,comedy,TONI,M,,,,"
           
 Toni
+
+          
 (fallt im Bàwele um dr Hals)
+
+          
 Liewe Brüt!
-",11,1,0.0,0.09090909090909091
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,11,1,0.0,0.09090909090909091
+64,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Liewer Hochziter!
-",3,1,0.0,0.3333333333333333
-unknown,TONI,M,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,3,1,0.0,0.3333333333333333
+65,comedy,TONI,M,,,,"
           
 Toni.
+
+          
 Herr Rehrle, Sie brüche jetz mi Annonce nitt
                             z'drucke... 's isch unnöthig... ich ha jetz e Fraü.
-",19,2,0.094,0.10526315789473684
-unknown,BÀWELE,F,farmer,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,19,2,0.094,0.10526315789473684
+66,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
+
+          
 Un mine-n-o nitt... ich ha jetz e Mann.
-",11,2,0.0,0.18181818181818182
-unknown,Herr REHRLE,M,journalist,,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
+67,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
+
+          
 O sapristi... was ha-n-ich ag'stellt!... an das
                             ha-n-ich jo gar nitt denkt... un mi halwe Site, wo
                             leer isch... lose, gà mr uf's wenigst nur
@@ -555,18 +1020,38 @@ O sapristi... was ha-n-ich ag'stellt!... an das
                             z'verzähle... ich bi versichert, ass derno alle
                             junge Lit üs dr ganze Umgegend kämme ku Annonce
                             mache-n-in « d'Extrapost »...
-",60,8,0.079125,0.13333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,60,8,0.079125,0.13333333333333333
+68,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 (Mitnander)
 
+          
+
             
 's isch g'wiss 'e güete Mode,
+
+            
 Das müess me g'steh,
+
+            
 Dur « d'Extrapost » z'hirothe,
+
+            
 Denn schnell thüet's geh.
+
+            
 Will me küm sich drucke lo,
+
+            
 Steht o scho ne Fraü/Mann als so,
+
+            
 's geht ganz güet eso. 
 (bis)
-",48,8,0.041476112399598225,0.16666666666666666
+
+          
+
+        
+",lustig-ne-hiroth-dur-d-extrapost,48,8,0.041476112399598225,0.16666666666666666

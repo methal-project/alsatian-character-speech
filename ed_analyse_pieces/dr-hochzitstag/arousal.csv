@@ -1,172 +1,297 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,Herr GULD,M,pensioner,,"
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (kunnt hinte-n-ine hintersi un schint ebbes
                         z'bschaüe duss)
                     
+
+          
 Was fir e herrlige G'stalt!... was fir schöne-n-Aüge!
                        
 (er salütiert mit dr Hand)
-",32,4,0.5803401065283259,0.125
-unknown,Herr KALT,M,businessman,,"
+ Oh, wenn ich doch nur noch e
+                        wenig jünger war....
+                    
+
+        
+",lustig-dr-hochzitstag,42,5,0.5559614275442715,0.11904761904761904
+1,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (sitzt am Tisch; er kehrt si um un steht uf. Fir
                         sich)
                     
+
+          
 Aha... dr Herr Guld kunnt wieder ku lüege, eb er si Geld
                         no nitt bol bikunnt...
 (lüt)
-",35,8,0.49223767534503177,0.22857142857142856
-unknown,Herr GULD,M,pensioner,,"
+ Herr Guld, ich wünsch Ene
+                        ne güeter Morge!
+                    
+
+        
+",lustig-dr-hochzitstag,43,12,0.48112070286350606,0.27906976744186046
+2,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (kehrt si um)
+
+          
 Ah, Sie sin's, Herr Kalt... was macht d'G'sundheit...
                        
 (se gàn sich d'Hand)
-",24,5,0.4632797422693339,0.20833333333333334
-unknown,Herr KALT,M,businessman,,"
+ geht's allewil?...
+                    
+
+        
+",lustig-dr-hochzitstag,27,6,0.46825223655139303,0.2222222222222222
+3,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 D'G'sundheit gieng scho, Herr Guld... awer d'G'schàfte,
                         die wànn nitt recht geh...
                     
-",16,5,0.4210828967893412,0.3125
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,16,5,0.4210828967893412,0.3125
+4,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Bàh... 's himpelt e wenig in dem Moment, 's isch wohr,
                         awer 's wird sich scho wieder mache.
                     
 
           
-",20,2,0.41026168801988083,0.1
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,20,2,0.41026168801988083,0.1
+5,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich mag noch so nogeh un nolüege, 's hilft alles nit
                         meh!
                     
-",14,2,0.4304957751196486,0.14285714285714285
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
+6,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Wie schön as se doch g'wachse-n-isch!
-",14,3,0.5374985863962448,0.21428571428571427
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,14,3,0.5374985863962448,0.21428571428571427
+7,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 's macht mr g'wiss Mieih, Herr Guld... awer ich weiss
                         sicher nitt, wenn ass ich Ihne Ihr Geld wieder ka
                         z'ruckgà...
                     
-",24,6,0.4526777146494229,0.25
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,24,6,0.4526777146494229,0.25
+8,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Ich glaüb misegs, se hat mi vorig ag'làchelt im
                         Duregeh!
                     
-",16,3,0.49113916988984974,0.1875
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,16,3,0.49113916988984974,0.1875
+9,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (mit eme Sifzer)
+
+          
 Fünftaüsend Franke!
-",9,3,0.41599718341309905,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,9,3,0.41599718341309905,0.3333333333333333
+10,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich denk nitt emol dra, an das Geld... ich versichere Se
                        
 (fir sich)
-",17,4,0.5153665911372293,0.23529411764705882
-unknown,Herr KALT,M,businessman,,"
+ un ich glaüb, ass se brav isch un güet
+                        uferzoge!
+                    
+
+        
+",lustig-dr-hochzitstag,27,7,0.4666341344776814,0.25925925925925924
+11,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Fünftaüsend Franke, wo-n-ich Ihne schuldig bi un nimmig
                         z'ruck ka gà!...
                     
-",16,5,0.5094358498331748,0.3125
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,16,5,0.5094358498331748,0.3125
+12,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Küm achtzeh Johr... un denn e paar Aüge!...
-",14,2,0.5586500808666786,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,14,2,0.5586500808666786,0.14285714285714285
+13,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Fünftaüsend Franke!
-",4,2,0.4304957751196486,0.5
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
+14,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Lehn Se doch jetz das Geld emol in Rüeh!... ich heisch's
                         Ene jo nitt... sage Se mr emol, Herr Kalt, ich ha
                         grad's Frànzele g'sàh duss, Ihre liewe Tochter...
                         isch's allewil g'sund un alert?
                     
-",39,10,0.42217006626826487,0.2564102564102564
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,39,10,0.42217006626826487,0.2564102564102564
+15,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Im Frànzele geht's güet, merci...
 (fir sich)
-",12,4,0.5168222350695642,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+ we me
+                        denkt, ass alle Hoffnung verlore-n-isch!
+                    
+
+        
+",lustig-dr-hochzitstag,21,6,0.49879807042372554,0.2857142857142857
+16,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Sie hàn Chance, eso ne schöne Tochter z'ha, Herr Kalt!
                     
-",13,6,0.4734035075266672,0.46153846153846156
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,6,0.4734035075266672,0.46153846153846156
+17,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 's freit mich, Herr Guld, ass Sie se no Ihrem G'schmack
                         finde
 (fir sich)
-",18,6,0.573226058530185,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+ uf was soll me sich denn jetz stütze,
+                        wenn d'G'schàfte nimmig gehn!
+                    
+
+        
+",lustig-dr-hochzitstag,31,7,0.5543366215973015,0.22580645161290322
+18,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 's isch jetz nitt vo Ihre G'schàfte, wo-n-ich Ihne
                         red'... 's isch vo Ihrer Tochter... wie alt ka se jetz
                         si... achtzeh Johr ung'fàhr?...
                     
-",28,2,0.4340299575724922,0.07142857142857142
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,28,2,0.4340299575724922,0.07142857142857142
+19,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Sie hàn's grad errothe, Herr Guld.
-",9,4,0.41621959325487345,0.4444444444444444
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,9,4,0.41621959325487345,0.4444444444444444
+20,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Wisse Sie, ass sie sich macht efange, Ihre Tochter!...
                         un dà Litsch, wo-n-ich ihre g'schickt ha, geht ere ganz
                         pràchtig!
                     
-",24,6,0.5041149094869698,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,24,6,0.5041149094869698,0.25
+21,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich sag nitt 's Gegetheil!
-",7,2,0.4304957751196486,0.2857142857142857
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+22,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Sage Se, Herr Kalt, was hat se g'sàit, wo se ne biku
                         hat?
                     
-",15,3,0.4231423483493617,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,3,0.4231423483493617,0.2
+23,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 O, se hat nitt g'nüe känne sage, wie schön ass er
                         isch... un se will Ihne selbst noch danke derfir, denn
                         so jung as se-n-isch, so zeigt mi Tochter e G'fiehl, wo
@@ -175,46 +300,70 @@ O, se hat nitt g'nüe känne sage, wie schön ass er
                     
 
           
-",54,8,0.4624263247389354,0.14814814814814814
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,54,8,0.4624263247389354,0.14814814814814814
+24,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich's g'wiss wohr, Herr Kalt?... das macht mir jetz
                         Freid, was Sie mir do sage...
                     
-",18,6,0.4992999676889127,0.3333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,18,6,0.4992999676889127,0.3333333333333333
+25,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Awer sie hietet sich wohl, ebbes derve lo z'merke... 's
                         isch halt gar still un izoge, 's Frànzele.
                     
-",21,6,0.37714428265398325,0.2857142857142857
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,21,6,0.37714428265398325,0.2857142857142857
+26,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Oh, Ihre Tochter derf sich sàh lo... mi Fraü selig isch
                         lang nitt so schön gsi un isch viel stolzer derher
                         g'marschiert, ich garantier Ene derfir.
                     
-",28,8,0.48030482761404125,0.2857142857142857
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,28,8,0.48030482761404125,0.2857142857142857
+27,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Was wànn Se halt... 's Frànzele weisst ganz güet, ass es
                         d'grosse Dame nitt spiele ka!
                     
-",19,7,0.48259987339316746,0.3684210526315789
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,19,7,0.48259987339316746,0.3684210526315789
+28,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Wenn's keine-n-isch, kei Dame, so kännt's awer noch eine
                         werde, Herr Kalt... nitt wohr, do zwifle Sie nitt dra?
                     
-",25,5,0.430578376739213,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,25,5,0.430578376739213,0.2
+29,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Unter uns g'sàit, 's thàt's verdiene... 's git kei
                         treüer Herz und kei eifachere Person!... un erst
                         letschthi hat's mr noch g'sàit: « Ich ka nitt begriffe,
@@ -223,227 +372,394 @@ Unter uns g'sàit, 's thàt's verdiene... 's git kei
                         begniege mit dr Freid, derjenige z'liewe un glicklig
                         z'mache, wo mich fir si Fräu g'choisiert hätt. »
                     
-",73,12,0.5392758776845147,0.1643835616438356
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,73,12,0.5392758776845147,0.1643835616438356
+30,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Herr Kalt... lose Se... ich möcht Se fir e wichtige
                         Ag'legeheit um Roth froge... was thàte Sie derzüe sage,
                         wenn ich Lust hätt, fir wieder z'hirothe?
                     
-",29,7,0.5660994565825617,0.2413793103448276
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,29,7,0.5660994565825617,0.2413793103448276
+31,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (b'schaüt ne vo owe bis awe)
+
+          
 Was ich sage thàt?... Ich thàt sage, ass Sie ganz recht
                         hàn... Sie sin jo noch so frisch un g'sund as wie ne
                         Junger!
                     
-",34,7,0.46808342641093587,0.20588235294117646
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,34,7,0.46808342641093587,0.20588235294117646
+32,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (stellt si)
+
+          
 He, he... nitt wohr, me derf sich noch e wenig zeige...
                         eh bien, Herr Kalt... ich ha's décidément im Sinn, noch
                         emol z'woge!...
                     
 
+          
+
             
 G'sang
+
+            
 (j'arrive de Paris)
+
+            
 Ich find, 's isch niemols z'spot,
+
+            
 Fir z'schliesse ne Hiroth;
+
+            
 Ich bi jo g'sund un wohl,
+
+            
 Drum wog ich's noch emol!
+
+            
 Im erste mol ka Keiner d'Eh jügiere,
+
+            
 Me trifft als grad màngmol e schlechte Wahl;
+
+            
 Drum will ich's halt jetz noch e Tür prawiere,
+
+            
 Mi Herz isch jung, kennt nitt dr Johre Zahl!
+
+            
 Ich find, 's isch niemols z'spot,
+
+            
 Fir z'schliesse ne Hiroth ;
+
+            
 Ich bi jo g'sund un wohl,
+
+            
 Drum wog ich's noch emol!
-",120,24,0.5066372136096412,0.2
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,120,24,0.5066372136096412,0.2
+33,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Woge Se's, Herr Guld... woge Se's... ich begriff's ganz
                         güet, ass e Mann in Ihrem Stand gern e Fraü hätt un eso
                         ne paar kleine Guldi um sich umme...
                     
-",34,9,0.419462289970158,0.2647058823529412
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,34,9,0.419462289970158,0.2647058823529412
+34,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 D'Hiroth, mi güeter Frind, isch ewe-n-o nitt allewil dr
                         Himmel uf dr Erde... un mi Fraü selig hat mir nitt iwel
                         z'schaffe gà!
                     
-",29,9,0.4475493192174156,0.3103448275862069
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,29,9,0.4475493192174156,0.3103448275862069
+35,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Süeche Sie dasmol besser üs... nàmme Sie ne Fraü, wo
                         eifach isch un...
                     
-",15,4,0.39901668571313537,0.26666666666666666
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.39901668571313537,0.26666666666666666
+36,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Eh... mi Wahl isch scho troffe... un ich bi ganz sicher,
                         ass Sie mir werde Bifall schenke.
                     
-",19,5,0.4605121613123436,0.2631578947368421
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,19,5,0.4605121613123436,0.2631578947368421
+37,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Kenn ich die Person viellicht, wo's sich handelt drum?
                     
 
           
-",12,3,0.3970177927555371,0.25
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,12,3,0.3970177927555371,0.25
+38,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (lacht)
+
+          
 Jà, jà... Se kenne se...
-",10,2,0.627217747404394,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,10,2,0.627217747404394,0.2
+39,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Kenn ich se güet... ganz güet!
-",8,5,0.45638473385128336,0.625
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,8,5,0.45638473385128336,0.625
+40,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (lacht)
+
+          
 Ganz güet, Herr Kalt... ganz güet!
-",11,8,0.495303229606693,0.7272727272727273
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,8,0.495303229606693,0.7272727272727273
+41,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (stünt)
+
+          
 Wer dr Kückück's ka jetz das si?
-",13,2,0.4304957751196486,0.15384615384615385
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
+42,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Was... Sie finde's nitt?... ne eifache, junge schöne
                         Person vo achtzeh Johr...
                     
-",15,4,0.5427979694726965,0.26666666666666666
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.5427979694726965,0.26666666666666666
+43,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Aha... jetz ha-n-i's!... d'Nièce vo Ihrem Nochber, dr
                         Banquier?...
                     
-",15,3,0.4363305167464324,0.2
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,15,3,0.4363305167464324,0.2
+44,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Nei... nei!...
-",4,1,0.408435494808788,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,4,1,0.408435494808788,0.25
+45,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Nitt?... derno ka's halt nieme-n-anders si as...
-",12,4,0.42790832218367136,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,12,4,0.42790832218367136,0.3333333333333333
+46,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 As Ihre Tochter... Herr Kalt... merke Sie's denn nitt?
                     
-",12,4,0.4322628663460704,0.3333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,12,4,0.4322628663460704,0.3333333333333333
+47,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Mi Tochter!
-",4,3,0.44020532352516456,0.75
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,4,3,0.44020532352516456,0.75
+48,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Eh jo... 's Frànzele, wo-n-ich gern ha un wo mi Fraü
                         soll gà... mit Ihrer Iwilligung.
                     
-",20,5,0.45991084720324416,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,20,5,0.45991084720324416,0.25
+49,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Isch's, wil ich Ihne Geld schuldig bi, ass Sie mich e
                         wenig wànn ha, Herr Guld?
                     
-",19,6,0.42891383842471953,0.3157894736842105
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,19,6,0.42891383842471953,0.3157894736842105
+50,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich Sie hà?... was denke Se!... nei, nei, 's isch mr
                         ganz Ernst...
                     
-",15,2,0.41725108379856346,0.13333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,2,0.41725108379856346,0.13333333333333333
+51,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich bi awer arm, Herr Guld, un 's Frànzele isch mi
                         einzig Güet, wo-n-i ha!
                     
-",19,6,0.4106084350516768,0.3157894736842105
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,19,6,0.4106084350516768,0.3157894736842105
+52,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 's Frànzele wird glicklig... ich kleid's in Side un
                         Sammet... un fir az'fange schenk ich Ihne natirlig
                         alles, was Sie mir schuldig sin... do hàn Se
                         d'Quittung... ich ha se scho im vorüs rischte lo druf
                         hi!
                     
-",41,7,0.5537406456516135,0.17073170731707318
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,41,7,0.5537406456516135,0.17073170731707318
+53,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (nimmt se)
+
+          
 Allons... ich sieh scho, ass ich Ihne müess nogà...
-",15,2,0.4304957751196486,0.13333333333333333
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
+54,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (freidig)
+
+          
 Also isch's e-n-abg'machte Sach
 (er umarmt en)
-",17,1,0.408435494808788,0.058823529411764705
-unknown,Herr KALT,M,businessman,,"
+. Wenn
+                        thieu Se-n-is verlowe, Herr Schwiegervater?
+                    
+
+        
+",lustig-dr-hochzitstag,25,2,0.408435494808788,0.08
+55,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Lehn Se mr, mi liewer Herr Guld, ufs wenigst nur dr Zit,
                         mi Tochter vorz'bereite ufs Glick, wo se erwartet, Ihre
                         Fraü z'gà... das güete Kind losst sich das g'wiss nitt
                         träume... un ich ha Angst, ass d'Freid... Sie verstehn
                         jo...
                     
-",45,14,0.4796011473217137,0.3111111111111111
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,45,14,0.4796011473217137,0.3111111111111111
+56,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Güet... ich mach mich dervo, fir ass Sie dr Zit hàn, das
                         Ding iz'fàdle... ich kumm derno hit z'Owe wieder... au
                         revoir, Herr Schwiegervater!
                     
-",27,6,0.45923665814001113,0.2222222222222222
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,27,6,0.45923665814001113,0.2222222222222222
+57,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Au revoir, Herr Tochtermann!
 (dr Herr Guld geht
                         hinte-n-üse)
 
+                    
+
           
-",15,4,0.4194656349642183,0.26666666666666666
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.4194656349642183,0.26666666666666666
+58,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (allei)
+
+          
 Endlig hat er sich jetz emol expliziert, dà alte
                         Geldsack... 's hat Mieih koste... awer d'Haüptsach
                         isch, ass es packt hat... ich brüch jetz nur noch 's
@@ -451,131 +767,232 @@ Endlig hat er sich jetz emol expliziert, dà alte
                         ha!... denn er isch famos rich, dr Herr Guld...
                     
 
+          
+
             
 G'sang
+
+            
 (Vigneron)
+
+            
 Endlig isch er denn jetz dra!
+
+            
 G'wiss viel Mieih hat's awer koste,
+
+            
 Bis ich ihn so wit brocht ha;
+
+            
 Standhaft bin ich gsi am Poste!
+
+            
 Wenn ich g'ha ha viel Geduld,
+
+            
 Isch's gsi wege min're Schuld;
+
+            
 Un mi Tochter o
+
+            
 Mach ich rich eso,
+
+            
 Hi hi, ha ha, er isch jetz endlig dra!
+
+            
 Was fir e Freid 
 (bis)
+
+            
 Wird's gà-n-eso jetz uf die Art,
+
+            
 Wenn's Frànzele das Ding erfahrt;
+
+            
 Was fir e Freid 
 (bis)
+
+            
 Wird's gà bi dàre G'legeheit!
+
+          
+
+          
 Ich ka sage, ass ich als güeter Vater g'handelt ha
                         
 (er geht an d'Thüre links)
-",162,22,0.5041385519790581,0.13580246913580246
-unknown,Herr KALT,M,businessman,,"
+ Frànzele!... Frànzele!
+
+        
+",lustig-dr-hochzitstag,164,22,0.5041385519790581,0.13414634146341464
+59,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Kumm Kind... De kasch Di rischte, fir mir an dr Hals
                         z'springe... ich ha Dr e grosse Neüigkeit z'verkinde!
                     
-",23,6,0.5016064633645166,0.2608695652173913
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,23,6,0.5016064633645166,0.2608695652173913
+60,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Ich bi ganz g'rischtet, Pape... nur üse mit dr
                         Neüigkeit.
                     
-",11,1,0.426066672788339,0.09090909090909091
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,1,0.426066672788339,0.09090909090909091
+61,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Eh bien... so müesch denn z'erst wisse, ass ich mich
                         scho dà ganze Mittag mit Dim Glick b'schàftigt ha...
                     
-",22,5,0.47598067260499527,0.22727272727272727
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,22,5,0.47598067260499527,0.22727272727272727
+62,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Dà ganze Mittag!... do bisch Dü denn nitt züe dem Zimmer
                         üse?...
 (fir sich)
-",17,2,0.567465669856454,0.11764705882352941
-unknown,Herr KALT,M,businessman,,"
+ O dà arme Felix!
+                    
+
+        
+",lustig-dr-hochzitstag,21,2,0.567465669856454,0.09523809523809523
+63,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Nei, Kind... De weisch, ass ich iwerhaüpt nitt viel
                         üsgang... awer's handelt sich nitt um das... ich ha Dir
                         e Hochziter g'funde.
                     
-",25,3,0.4446760650230523,0.12
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,25,3,0.4446760650230523,0.12
+64,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Eh... hasch Dü denn dà Kaste ufg'macht, Pape?
-",9,1,0.5745992485432527,0.1111111111111111
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,9,1,0.5745992485432527,0.1111111111111111
+65,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dà Kaste?... fir was das... was isch das fir e
                         possige-n-Idee?... was kunnt Dr i?
                     
-",19,4,0.5696802210221088,0.21052631578947367
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,19,4,0.5696802210221088,0.21052631578947367
+67,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Verhirothe, jà, Kind... mit eme riche Mann, wo Dich
                         d'glickligste un d'schönste Fraü macht üs dr ganze
                         Stadt!
                     
-",22,6,0.47265861051344565,0.2727272727272727
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,22,6,0.47265861051344565,0.2727272727272727
+68,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
+
+          
 (ärgerlig)
+
+          
 Ah!... ich will wette, 's isch vom Herr Guld, wo Dü rede
                         witt!
                     
-",17,1,0.408435494808788,0.058823529411764705
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,17,1,0.408435494808788,0.058823529411764705
+69,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 O Dü fine Mucke, Dü schlaüe!... allons, gi mr e Schmutz,
                         denn ich ha das Ding ig'fàdelt!
                     
 
           
-",19,4,0.5157579265283176,0.21052631578947367
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,19,4,0.5157579265283176,0.21052631578947367
+70,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Un Dü witt, ass ich dr Herr Guld nimm fir mi Mann... ich
                         ha-n-en awer jo gar nitt gern.
                     
-",22,4,0.5013216680484571,0.18181818181818182
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,22,4,0.5013216680484571,0.18181818181818182
+71,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich o nitt... wege dem nimm ich ne doch fir mi
                         Tochtermann!
                     
-",14,3,0.5232854057212887,0.21428571428571427
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,14,3,0.5232854057212887,0.21428571428571427
+72,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Jà, das isch ganz ebbes anders, Pape!
-",8,2,0.42314306849898875,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,8,2,0.42314306849898875,0.25
+73,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Worum denn isch's ebbes anders... was kasch Dü vo dem
                         wisse...
                     
-",14,3,0.42707033814964523,0.21428571428571427
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,14,3,0.42707033814964523,0.21428571428571427
+74,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Dr Herr Guld, wo awerglaüwisch isch, as wie ne-n-alte
                         Fraü... wo-n-am e Fritig nitt traüt üsz'geh... wo
                         wieder umkehrt, wenn ihm am Morge ne Spinne-n-iwer dr
@@ -584,543 +1001,946 @@ Dr Herr Guld, wo awerglaüwisch isch, as wie ne-n-alte
                         schla im Wàwergàssle hinte, fir z'wisse, was em d'Wuche
                         dure g'schàh ka!
                     
-",68,9,0.49022832451141213,0.1323529411764706
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,68,9,0.49022832451141213,0.1323529411764706
+75,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dü kasch ne desto besser mache z'marschiere un bisch
                         Meister im Hüs!
                     
-",15,4,0.4596243161376083,0.26666666666666666
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.4596243161376083,0.26666666666666666
+76,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Er isch awer jo z'alt, Pape... ich ka-n-en nitt gern
                         ha!
                     
-",15,1,0.4321013815358777,0.06666666666666667
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,1,0.4321013815358777,0.06666666666666667
+77,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich bi jo o alt un Dü hasch mich doch gern.
-",13,3,0.4310309772583916,0.23076923076923078
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,13,3,0.4310309772583916,0.23076923076923078
+78,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Un wenn er nur alt wàr, awer er isch noch wiescht
                         derzüe!
                     
-",13,1,0.7401677796827874,0.07692307692307693
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,1,0.7401677796827874,0.07692307692307693
+79,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Wenn er wiescht isch, Kind, so isch er hingege-n-awer o
                         rich... un Dü weisch, ass De vo d'heim nit z'hoffe
                         hasch!
                     
-",27,5,0.500873078630854,0.18518518518518517
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,27,5,0.500873078630854,0.18518518518518517
+80,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 's Geld macht awer jo 's Glick nitt, Pape!
+
+          
 
             
 G'sang
+
+            
 (croyez-vous donc, que je vous aime)
+
+            
 Was thüet mir 's viele Geld denn nutze,
+
+            
 Wenn ich kei Liewe ha derzüe;
+
+            
 Ich will mi Mann viel liewer schmutze
+
+            
 Un wott nit anders als meh thüe!
-",47,10,0.5474049888599726,0.2127659574468085
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,47,10,0.5474049888599726,0.2127659574468085
+81,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 
             
 Ihr tàte-n-eüch nitt lang so schmutze,
+
+            
 Ohne Geld hätte-n-ihr bol g'nüe;
+
+            
 Bol thàte-n-ihr mitnander trutze
+
+            
 Un tàte nit meh anders thüe!
-",29,7,0.47795182843664685,0.2413793103448276
-unknown,FRÀNZELE,F,,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,29,7,0.47795182843664685,0.2413793103448276
+82,comedy,FRÀNZELE,F,,,,"
             
 Frànzele.
 
+            
+
               
 Ich will viel liewer ledig läufe,
+
+              
 As so ne Handel jetz igeh;
+
+              
 's Glick, das losst sich mit Geld nitt käüfe,
+
+              
 Un ohne Glick will ich kei Eh'!
-",29,5,0.523134727790065,0.1724137931034483
-unknown,Herr KALT,M,businessman,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,29,5,0.523134727790065,0.1724137931034483
+83,comedy,Herr KALT,M,,,,"
             
 Herr Kalt.
 
+            
+
               
 Es will viel liewer ledig laüfe,
+
+              
 As so ne Handel jetz igeh;
+
+              
 's Glick, das losst sich mit Geld nitt kaüfe,
+
+              
 Un ohne Glick will es kei Eh'!
-",30,7,0.4966664555985174,0.23333333333333334
-unknown,Herr KALT,M,businessman,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,30,7,0.4966664555985174,0.23333333333333334
+84,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 's isch möglig... awer einstwile, we me Geld hat, so ka
                         me 's Unglick lindere, wenn's kunnt... was me nitt ka
                         mache, we me kei's hat!
                     
-",30,4,0.542187884280358,0.13333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,30,4,0.542187884280358,0.13333333333333333
+86,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Frànzele, Dü hasch e Liebschaft... wo-n-ich nit dervo
                         weiss!... ich merk's jetz scho an Dine-n-Üsrede...
                     
 
           
-",22,2,0.4304957751196486,0.09090909090909091
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,22,2,0.4304957751196486,0.09090909090909091
+87,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Ich versicher Di, Pape...
-",5,1,0.5040724435421626,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,5,1,0.5040724435421626,0.2
+88,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dü witt mr 's Lewe versüre... gang... ich will nit meh
                         vo Dr wisse!...
                     
-",16,3,0.5014211036139742,0.1875
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,16,3,0.5014211036139742,0.1875
+89,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Müesch nitt bös werde, Pape... schaü, ich zitter ganz...
                         wenn ich ebber gern hätt, so thàt ich Dir's jo sage.
                     
-",22,3,0.5114704113006964,0.13636363636363635
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,22,3,0.5114704113006964,0.13636363636363635
+90,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Wohrschinlig eso ne Herg'loffener, wo hinte-n-un vorne
                         nit hat!
                     
-",13,2,0.4304957751196486,0.15384615384615385
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
+92,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 So ne Schlingel!... so ne Nitnutz, wie Di Cüsin, dr
                         Felix!
                     
-",13,3,0.511173792567455,0.23076923076923078
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,3,0.511173792567455,0.23076923076923078
+95,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Was isch das fir e Làrme?
-",8,3,0.5232854057212887,0.375
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,8,3,0.5232854057212887,0.375
+97,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich ha glaübt, ich hör ebbes...
-",8,2,0.4304957751196486,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+98,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Z'Hilf!... mache mr uf!...
-",6,1,0.441,0.16666666666666666
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,6,1,0.441,0.16666666666666666
+99,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dasmol trumpier ich mich nitt... 's isch ebber im
                         Kaste!
                     
-",12,3,0.536117059565223,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,12,3,0.536117059565223,0.25
+101,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Mache denn emol uf... ich verstick!
-",7,2,0.5630000000000001,0.2857142857142857
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,2,0.5630000000000001,0.2857142857142857
+102,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 's isch kei Zwifel meh... 's isch ebber im Kaste...
 (er
                         macht uf)
-",17,4,0.4804908041344705,0.23529411764705882
-unknown,FELIX,M,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,17,4,0.4804908041344705,0.23529411764705882
+103,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (kunnt üse)
+
+          
 Buschur Oncle!
-",7,1,0.461,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,1,0.461,0.14285714285714285
+104,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Comment, Buschur Oncle!... was dr Kückücks tribsch denn
                         Dü do drin?...
                     
-",13,3,0.4406638500797657,0.23076923076923078
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,13,3,0.4406638500797657,0.23076923076923078
+105,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Nit Güet's Oncle... ich versprich Dr, ass ich mich
                         nimmig in e Kaste loss isperre...
                     
-",17,3,0.4813627499958941,0.17647058823529413
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,17,3,0.4813627499958941,0.17647058823529413
+106,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Wer hat Dich denn do dri ig'sperrt, Dü Schlingel?
-",11,3,0.511173792567455,0.2727272727272727
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,3,0.511173792567455,0.2727272727272727
+108,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un worum das?... zeig, witt mr nitt glich antworte!
-",11,2,0.4304957751196486,0.18181818181818182
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
+109,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Wil er... wil ich...
-",5,2,0.3055880632693434,0.4
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,5,2,0.3055880632693434,0.4
+110,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Wil ich ihm grad dr Hof g'macht ha do dà Mittag, wo Dü
                         ku bisch.
                     
-",16,5,0.3777909455672903,0.3125
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,16,5,0.3777909455672903,0.3125
+111,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (züem Frànzele)
+
+          
 Ah so!... Dü hasch kei Liebschaft... ah so... Dü
                         thàtsch's mir jo sage, wenn Dü ebber gern hättsch...
                         das isch mr ebbes schön's, jà!...
 (züem Felix)
+ un Dü,
 
-          
-",36,4,0.4470721323076381,0.1111111111111111
-unknown,FELIX,M,,,"
+                        fahr ab... liederliger Nitnutz... Tochterschelm...
+                        mach, ass De-n-üse kunnsch!
+                    
+
+        
+",lustig-dr-hochzitstag,49,4,0.4470721323076381,0.08163265306122448
+112,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Loss mi in Rüeh, Oncle, un gi mr ebbes z'esse... denn
                         ich ha Hunger und das Schelte stillt mr ne nitt!
                     
-",23,4,0.47934709841561873,0.17391304347826086
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,23,4,0.47934709841561873,0.17391304347826086
+113,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Soll ich Dich eigentlig jetz noch erhalte, Dü
                         Tagedieb!...
                     
-",11,2,0.4304957751196486,0.18181818181818182
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
+114,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Im e güete-n-Oncle isch das si Pflicht... und Dü bisch e
                         güeter Oncle... ich weiss, ass Dü mich gern hasch... Dü
                         hasch mir's jo scho mehr as emol zeigt.
                     
-",33,3,0.4756556092548862,0.09090909090909091
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,33,3,0.4756556092548862,0.09090909090909091
+115,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Nur z'vielmol ha-n-ich Dir's zeigt!... wie màngmol
                         ha-n-i Dr Dine Schulde scho bezahlt, wil ich g'hofft
                         ha, ass De-n-emol e güet End nàmme wirsch!
                     
-",34,5,0.45967154917567277,0.14705882352941177
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,34,5,0.45967154917567277,0.14705882352941177
+116,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Grad ha-n-ich Dir welle dervo rede, Oncle... ich bi jetz
                         finfezwanzig Johr alt... 's isch Zit, ass ich hirothe
                         thüe!
                     
-",23,2,0.3514784894807832,0.08695652173913043
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,23,2,0.3514784894807832,0.08695652173913043
+117,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un mit wem witt hirothe... Dü Zipfel... Dü hasch jo kei
                         Sü hinte-n-un kein vorne!
                     
-",19,2,0.4304957751196486,0.10526315789473684
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,19,2,0.4304957751196486,0.10526315789473684
+118,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Mit minre Cüsine, wenn's Dir nit macht... wo grad so
                         rich isch as wie-n-ich!
                     
 
+          
+
             
 G'sang
+
+            
 ('s kunnt e Vogel)
+
+            
 's isch mr g'wiss nitt um's spasse,
+
+            
 's wàr Zit, ass ich hiroth,
+
+            
 Ass ich kàm ab dr Gasse,
+
+            
 Wart ich lang noch, isch's z'spot.
-",53,7,0.48587531923782695,0.1320754716981132
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-dr-hochzitstag,53,7,0.48587531923782695,0.1320754716981132
+119,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Klar thüet 's Lewe
+
+            
 Vor uns schwews,
+
+            
 So binander
+
+            
 Wird's nitt trieb!
+
+            
 Mir verschwende
+
+            
 Keine Rente,
+
+            
 Hàn enander
+
+            
 Awer lieb!
-",22,6,0.4835536081620111,0.2727272727272727
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,22,6,0.4835536081620111,0.2727272727272727
+120,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Herr Felix, mach ass De mir züem Hüs üse kunnsch un
                         unterstand Di nimmig, in Züekunft ne Schritt meh
                         driz'ma'che!
                     
-",22,5,0.37107491374981344,0.22727272727272727
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,22,5,0.37107491374981344,0.22727272727272727
+121,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Erlaüb mr z'erst e wenig z'sitze, Oncle... ich bi mied
                         worde-n-im Kaste... un mach Dü 's gliche, denn ich ha
                         ernsthaft mit Dr z'rede.
                     
-",30,1,0.3248969021548195,0.03333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,30,1,0.3248969021548195,0.03333333333333333
+122,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Hasch Dü eigentlig g'schwore, ass Dü mich in d'Hitz
                         triwe witt!
                     
-",14,4,0.5318704524655031,0.2857142857142857
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,14,4,0.5318704524655031,0.2857142857142857
+123,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (sitzt)
+
+          
 Also, ich ha 's Frànzele gern, un ich will glich
                         derzüesetze, ass es mich o gern sieht... nitt wohr,
                         Frànzele?
                     
-",24,3,0.42543021476757636,0.125
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,24,3,0.42543021476757636,0.125
+124,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Das isch nitt wohr!... un ich verbiet em, e-n-Antwort
                         z'gà!
                     
-",15,5,0.4506860436526142,0.3333333333333333
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,15,5,0.4506860436526142,0.3333333333333333
+125,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Frànzele, lieb Cüsinle, jetz isch dr Moment, standhaft
                         z'si... Di Vater willigt derno scho i.
                     
-",17,3,0.44446851525026604,0.17647058823529413
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,17,3,0.44446851525026604,0.17647058823529413
+126,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 In gar nit thüe-n-ich iwillige!
-",9,2,0.4304957751196486,0.2222222222222222
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+128,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich thüe's enterwe.
-",6,2,0.4304957751196486,0.3333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,6,2,0.4304957751196486,0.3333333333333333
+130,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 So thüe-n-i's furtjage!
-",8,2,0.4304957751196486,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+131,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Dü hasch's z'gern, fir das z'mache!... zeig, Frànzele,
                         sag in Dim Vater, ass De mi lieb Wiwele witt si.
                     
-",23,4,0.4995416348413313,0.17391304347826086
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,23,4,0.4995416348413313,0.17391304347826086
+132,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Mi liewer Papa...
-",4,1,0.5644888482254989,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,4,1,0.5644888482254989,0.25
+133,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Still!... Di Cüsin isch e Galgestrick, wo...
-",9,3,0.3604869810803198,0.3333333333333333
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,9,3,0.3604869810803198,0.3333333333333333
+134,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Dü thüesch mi scho wieder schelte, Oncle, un hasch mr
                         allewil noch nit z'esse gà.
                     
-",17,3,0.528180894767822,0.17647058823529413
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,17,3,0.528180894767822,0.17647058823529413
+135,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Isch's ebbe nitt wohr, ass De ne Galgestrick bisch, wo
                         bis dohi nit as dumme Streich g'macht hat... un züedem,
                         mi Tochter isch versproche!
                     
-",27,7,0.4223452798492204,0.25925925925925924
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,27,7,0.4223452798492204,0.25925925925925924
+136,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 So wirsch halt miesse Di Wort wieder z'rucknàh...
-",10,2,0.5252111371428749,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,10,2,0.5252111371428749,0.2
+137,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich will's nitt z'rucknàh un nimm's nitt z'ruk...
-",14,2,0.4304957751196486,0.14285714285714285
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
+138,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Isch das Di letscht Wort, Oncle?
-",7,1,0.62,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,1,0.62,0.14285714285714285
+139,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 's letschte!
-",4,2,0.4304957751196486,0.5
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
+140,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (steht uf)
+
+          
 Adie, Frànzele!... nimm das fir e-n-Agedenke vo mir
 (er
                         git em e Ring)
-",22,3,0.5516705814495726,0.13636363636363635
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,22,3,0.5516705814495726,0.13636363636363635
+142,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Er soll geh wege mir!
-",7,2,0.4304957751196486,0.2857142857142857
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+143,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Un er kunnt nimmig z'ruck!
-",7,1,0.7486041358863109,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,1,0.7486041358863109,0.14285714285714285
+144,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Desto besser... 's isch e Nitnutz...
-",8,2,0.4304957751196486,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+145,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (kehrt si um)
+
+          
 De mahnsch mi dra, ass ich noch e paar Schulde ha in dr
                         Stadt... wenn De wottsch so güet si un die noch
                         zahle...
                     
-",30,3,0.5239573247470555,0.1
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,30,3,0.5239573247470555,0.1
+146,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Awer ich will hoffe, ass es d'letschte sin, nitt wohr?
                     
-",13,4,0.4258122124681492,0.3076923076923077
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,13,4,0.4258122124681492,0.3076923076923077
+147,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Oh, ganz g'wiss, Oncle... kumm, gi mr noch e Schmutz,
                         denn ich ha jo sunscht nieme meh g'ha uf dr Welt as
                         Dich!...
                     
-",24,4,0.5110937784241852,0.16666666666666666
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,24,4,0.5110937784241852,0.16666666666666666
+148,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Jà, wo witt denn jetz ane, ne so?...
-",10,2,0.4304957751196486,0.2
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,10,2,0.4304957751196486,0.2
+151,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (züem Herr Kalt)
+
+          
 De kasch o noch uf mim Zimmer 's Portrait vo miner
                         Müetter lo hole... 's wàr schad, wenn's in fremde Hànd
                         kàm...
                     
-",29,6,0.504461081626096,0.20689655172413793
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,29,6,0.504461081626096,0.20689655172413793
+152,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Awer mi güeter Felix... was ka-n-ich fir Dich thüe?...
                     
 
           
-",13,4,0.5168222350695642,0.3076923076923077
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,13,4,0.5168222350695642,0.3076923076923077
+153,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Nit, Oncle... Adie...
-",4,1,0.5051470774241488,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,4,1,0.5051470774241488,0.25
+154,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (haltet en z'ruck)
+
+          
 Ich ha mi Wort gà im Herr Guld un ka doch jetz nitt
                         wieder...
                     
-",22,6,0.5028734301695285,0.2727272727272727
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,22,6,0.5028734301695285,0.2727272727272727
+155,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Dü hasch recht, Oncle... Adie...
-",6,2,0.4570672581613848,0.3333333333333333
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,6,2,0.4570672581613848,0.3333333333333333
+156,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 De wirsch mr doch nitt zürne, Felix!... wenn ich e
                         Mittel thàt wisse...
                     
-",15,3,0.3917865853855767,0.2
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,15,3,0.3917865853855767,0.2
+157,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Adie, Oncle... ich zürn Dr nitt...
-",7,1,0.5051470774241488,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,1,0.5051470774241488,0.14285714285714285
+158,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dü verschnidsch mr 's Herz mit Dine « Adie »... grin
                         doch nitt eso, Frànzele!...die arme Kinder!...
                     
-",20,5,0.45860834960915753,0.25
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,20,5,0.45860834960915753,0.25
+159,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
+
+          
 (verzwifelt)
+
+          
 Pape!... Pape!...
-",6,1,0.6870499203136918,0.16666666666666666
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,6,1,0.6870499203136918,0.16666666666666666
+160,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Bàh!... er soll züem Kückück geh, dr Herr Guld, ich gib
                         Dir 's Frànzele, liederliger Schlingel!
                     
-",18,4,0.48548921812778817,0.2222222222222222
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,18,4,0.48548921812778817,0.2222222222222222
+161,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (freidig)
+
+          
 A la bonne heure!... do erkenn ich jetz wieder 's Herz
                         vom e güete-n-Oncle un vo me Vater!
                     
-",24,3,0.431895489626577,0.125
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,24,3,0.431895489626577,0.125
+162,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
+
+          
 (verschmutzt si Vater)
+
+          
 Wie bisch Dü doch so güet, Pape!...
-",13,2,0.42090999666362444,0.15384615384615385
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,2,0.42090999666362444,0.15384615384615385
+163,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Jetz isch awer nitt das... einstwile soll das noch e
                         G'heimniss si, denn ich müess jetz lüege, was
                         z'mache-n-isch mit em Herr Guld... Oh!... ne Idee!...
@@ -1129,81 +1949,159 @@ Jetz isch awer nitt das... einstwile soll das noch e
                         geht... fir e Fimfer thüet uns die das Ding arrangiere.
                        
 (Er sitzt an dr Tisch un schribt)
-",70,6,0.4889679621863139,0.08571428571428572
-unknown,FELIX,M,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,70,6,0.4889679621863139,0.08571428571428572
+164,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Eh bien, Frànzele?...
-",4,1,0.5745992485432527,0.25
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
+165,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Eh bien, Felix?...
-",4,1,0.5745992485432527,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
+168,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Was nit!... bisch Dü denn nitt glicklig?
-",8,1,0.76,0.125
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,8,1,0.76,0.125
+169,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Eh doch...
-",3,1,0.5745992485432527,0.3333333333333333
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,3,1,0.5745992485432527,0.3333333333333333
+170,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Sag mr's denn... mi lieb Kind... gi mr denn Di
                         Hàndle...
                     
-",13,2,0.49292493276093974,0.15384615384615385
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,13,2,0.49292493276093974,0.15384615384615385
+171,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Oh, Felix!... ich weiss nitt wie's mr isch... awer ich
                         möcht grad grine-n-un lache mitnander... oh, ich bi
                         glicklig... kumm, gi mr e Schmutz!
                     
+
+          
 G'sang (Denkst Du daran)
-",34,8,0.5826912106077862,0.23529411764705882
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-dr-hochzitstag,34,8,0.5826912106077862,0.23529411764705882
+172,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 (Frànzele un Felix mitnander).
 
+          
+
             
 Denksch Dü jetz dra, wie mir wànn glicklig werde,
+
+            
 Ne schöne Zit bricht fir uns beide-n-a!
+
+            
 Kei Mensch soll meh uns trenne do uf Erde,
+
+            
 So lang as 's Herz in unsrer Brust thüet schla;
+
+            
 's Leid as wie d'Freid wà mir mitnander trage,
+
+            
 Wenn 's Schicksal nur uns noch viel Tage gunnt,
+
+            
 Fir ass mir doch noch lang känne sage
+
+            
 Ich ha Dich gern bis an mi letschte Stund!
+
+            
 }bis
-",80,17,0.5363027256174431,0.2125
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,80,17,0.5363027256174431,0.2125
+173,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (macht si Brief züe)
+
+          
 Uf die Art hat dr Herr Guld Intresse, ass dr Felix
                         glicklig wird!... Do, Frànzele... trag das ins
                         Wàwergàssle züe dr Karteschlagere... gang awer
                         hinte-n-ine 
-
-          
+ un loss se-n-üse riefe fir's ere z'gà, nitt
+                        ass Di ebber dert sieht... awer dummel Di... denn vo
+                        dem hàngt eüre Züekunft ab!... züem Glick, ass es nur e
+                        paar Schritt isch!...
 (züem Felix)
-",39,6,0.5150664518911117,0.15384615384615385
-unknown,FELIX,M,,,"
+ un Dü, Schlingel,
+                        gehsch jetz an d'Arwet un süechsch G'schàfte z'mache,
+                        denn 's heisst jetz nimmig um d'Wànd umme g'lüegt, wenn
+                        De hirothe witt!
+                    
+
+        
+",lustig-dr-hochzitstag,102,12,0.5318264800673557,0.11764705882352941
+174,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Uf dr Stell, Oncle!...
 (züem Frànzele)
+ ich gang mit Dr
+                        un thüe Di begleite... ich ha doch uf sàller Site
+                        z'thüe
 (se gehn üse links)
-",15,2,0.40164764110854534,0.13333333333333333
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,31,4,0.41951551665912584,0.12903225806451613
+175,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (allei)
+
+          
 Wenn dà Brief jetz nur noch ane kunnt vor em Herr
                         Guld... wenn die Karteschlagere ihre Rolle güet spielt,
                         so geht das Ding ganz allei... doch hör i nitt ebber
@@ -1211,145 +2109,262 @@ Wenn dà Brief jetz nur noch ane kunnt vor em Herr
                         Herr Guld si
 (dr Herr Hitzig kunnt hinte-n-ine mit zwei
                         Dege unter'm Arm)
-",65,13,0.38804721621357163,0.2
-unknown,Herr HITZIG,M,master_of_arms,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,65,13,0.38804721621357163,0.2
+176,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 (salütiert)
+
+          
 Ha-n-ich d'Ehr, mit em Herr Kalt z'rede?
-",16,5,0.4972763872106277,0.3125
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,16,5,0.4972763872106277,0.3125
+177,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Mit ihm selbst... was wàr Ihne g'fàllig?
-",9,2,0.4304957751196486,0.2222222222222222
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+178,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ich hätt gern e-n-Unterredung mit Ene g'ha iwer e
                         ziemlig kitzliger Umstand.
                     
-",16,4,0.45333163629693163,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,16,4,0.45333163629693163,0.25
+179,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Setze Sie sich un sage Sie mr, um was as es sich
                         handelt.
                     
-",15,2,0.4304957751196486,0.13333333333333333
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
+180,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 's isch unnöthig... ich ha-n-Ene nur e paar Worte
                         z'sage... Sie hàn, wenn ich mich nitt irre thüe, e
                         Neveu mit Namens Felix?
                     
-",28,3,0.5337219700939944,0.10714285714285714
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,28,3,0.5337219700939944,0.10714285714285714
+181,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich glaüb... jo.
-",5,3,0.4057029660584964,0.6
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,5,3,0.4057029660584964,0.6
+182,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Sie känne sicher si... denn ich weiss, ass er soll do
                         si... un ich kumm ne ku hole...
                     
-",20,5,0.44344631278903995,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,20,5,0.44344631278903995,0.25
+183,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Sie trumpiere sich... er isch nitt do... Un ich weiss
                         nitt emol, wo-n-er isch in dem Moment.
                     
-",21,3,0.536117059565223,0.14285714285714285
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,21,3,0.536117059565223,0.14285714285714285
+184,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 So isch's mr denn Leid, ass ich Se derangiert ha fir
                         nit... ich ha ewe glaübt, wil Sie dr Oncle sin, so isch
                         er bi Ihne, un ich ha ne welle ku hole, fir ne z'töte!
                     
-",40,8,0.5758461880130592,0.2
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,40,8,0.5758461880130592,0.2
+185,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Mi Neveu umbringe?
-",5,3,0.5936638500797657,0.6
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,5,3,0.5936638500797657,0.6
+186,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ihre Neveu, jà!
-",5,2,0.4905829551409915,0.4
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
+187,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un worum das... wenn's Ene b'liebt?
-",9,2,0.4304957751196486,0.2222222222222222
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+188,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Wil Sie dr Oncle vo Ihrem Neveu sin, so will ich's Ene
                         sage...
 (er salütiert)
+ Ich bi dr Herr Hitzig, g'wesener
+                        Fechtmeister im 4. Linie-, g'wesener Fechtmeister im 3.
+                        Zwawer, g'wesener Fechtmeister im 13. Hüsare-Regiment
+                        un jetz noch Fechtmeister im Schindergàssle hinte... à
+                        vot' service
 (er hebt 'm e Dage-n-ane)
+.
+                    
+
+          
 
           
 
             
 G'sang
+
+            
 Dr Sawel müess entscheide
+
+            
 Bi alle G'legeheite,
+
+            
 Das isch vo jeher gsi mi G'setz,
+
+            
 Grad as wie jetz!
-",48,6,0.48023235259770797,0.125
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,79,8,0.48282000323352886,0.10126582278481013
+189,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
 
+          
+
             
 Die Lit, wo gehn geh fechte,
+
+            
 Das sin als g'wöhnlig schlechte,
+
+            
 Das isch mi Meinung immer gsi,
+
+            
 Jetz bis dohi!
-",22,4,0.43737402635899014,0.18181818181818182
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,22,4,0.43737402635899014,0.18181818181818182
+190,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
 
+          
+
             
 Wànn Sie das Ding prawiere?
+
+            
 Sie mien sich nitt geniere,
+
+            
 Ich gib Lectione züe jeder Zit
+
+            
 In alle Lit!
-",21,3,0.42955718709071355,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,21,3,0.42955718709071355,0.14285714285714285
+191,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (salütiert)
+
+          
 Merci... ich bi nitt gern g'schunde... Sie känne-n-awer
                         sicher sie, ass ich vo jeher vor em Fechte dr grösste
                         Respect g'ha ha!
                     
-",29,5,0.40473334981032894,0.1724137931034483
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,29,5,0.40473334981032894,0.1724137931034483
+192,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ich müess Ihne noch sage, ass ich dr Brüeder bi vo minre
                         Schwester... e schöne Person...
                     
-",18,4,0.4615332014821903,0.2222222222222222
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,18,4,0.4615332014821903,0.2222222222222222
+193,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich kenn Ihre Schwester nitt, awer sie känne sicher si,
                         ass ich dr grösste Respect vor ihre ha!
                     
-",20,4,0.3978913418789418,0.2
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,20,4,0.3978913418789418,0.2
+194,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Gestert also si mr uf Durni g'fahre mitnander im
                         Tramway... sie drin un ich voruse... uf eimol hat's
                         g'halte un mi Schwester losst e Schrei üs... ich gang
@@ -1357,50 +2372,82 @@ Gestert also si mr uf Durni g'fahre mitnander im
                         züe glicher Zit mitg'fahre-n-isch... 's isch Ihre Herr
                         Neveu gsi...
                     
-",56,9,0.46398420455370737,0.16071428571428573
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,56,9,0.46398420455370737,0.16071428571428573
+195,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Bis dohi weiss ich nitt...
-",7,2,0.4304957751196486,0.2857142857142857
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+196,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 Warte Se nur... Sie werde's jetz gli wisse... er hat
                         sich erlaübt, mi Schwester z'umarme, vor alle Lit...
                     
-",22,3,0.478644168435646,0.13636363636363635
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,22,3,0.478644168435646,0.13636363636363635
+197,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ah bàh!... Sin Sie sicher?
-",7,3,0.41585512250525575,0.42857142857142855
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,7,3,0.41585512250525575,0.42857142857142855
+198,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ganz sicher... also sàhn Se, ass ich, fir d'Ehr vo minre
                         Schwester z'rette, Ihre Neveu üsefordere müess...
                         üsg'numme, wenn er se hirothe will.
                     
-",27,6,0.5244825904672034,0.2222222222222222
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,27,6,0.5244825904672034,0.2222222222222222
+199,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich will's 'm halt sage, wenn ich ne sieh...
-",12,3,0.43047127484168235,0.25
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,12,3,0.43047127484168235,0.25
+200,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Uf jedefall, wenn er refüsiert, so isch er de Katze!
-",12,3,0.47405530342732766,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,12,3,0.47405530342732766,0.25
+201,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Das isch e trürige-n-Üssicht, wo Se mir do gàn.
-",13,3,0.41704590966140104,0.23076923076923078
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,13,3,0.41704590966140104,0.23076923076923078
+202,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 's isch mr Leid... awer d'Ehr vor allem... schicke Sie
                         mir ne gli, wenn er kunnt... Herr Hitzig, g'wesener
                         Fechtmeister im 4. Linie-, g'wesener Fechtmeister im 3.
@@ -1408,11 +2455,19 @@ Herr Hitzig.
                         un jetz noch Fechtmeister im Schindergàssle hinte... à
                         vot' service
 (er salütiert un geht hinte-n-üse)
-",57,6,0.5587149337468941,0.10526315789473684
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,57,6,0.5587149337468941,0.10526315789473684
+203,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (allei)
+
+          
 Dà isch jetz wieder emol güet mit sine Dege!... awer mit
                         allem dem hat jetz dà Schlingel vo Felix wieder e
                         schlechte-n-Affàre-n-am Hals... un in eso ne Nitnutz
@@ -1422,99 +2477,187 @@ Dà isch jetz wieder emol güet mit sine Dege!... awer mit
                         Fechtmeister noch emol z'ruckku...
 (dr Herr Guld kunnt
                         hinte-n-ine)
+.
+                    
 
           
-",79,8,0.45640264756924986,0.10126582278481013
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,79,8,0.45640264756924986,0.10126582278481013
+204,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ah... Sie sin's, Herr Guld?...
 (fir sich)
-",12,4,0.49457292799316355,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+ er kunnt vo dr
+                        Karteschlagere... ich sieh's 'm am G'sicht a...
+                    
+
+        
+",lustig-dr-hochzitstag,24,5,0.460485788892111,0.20833333333333334
+205,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (trürig.)
+
+          
 Jà, Herr Kalt... ich bi's!...
-",11,4,0.459479293260602,0.36363636363636365
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,4,0.459479293260602,0.36363636363636365
+206,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Was hàn Se, Herr Guld?... reit Se viellicht die Hiroth
                         scho un kämme Se Ihre Wort wieder ku z'rucknàh?
                     
-",22,6,0.44070579854479547,0.2727272727272727
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,22,6,0.44070579854479547,0.2727272727272727
+207,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 O nei!... was denke Se!... Sie thàte doch g'wiss nitt
                         rothe, Herr Kalt, wo-n-ich jetz grad gsi bi?
                     
-",22,4,0.41621959325487345,0.18181818181818182
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,22,4,0.41621959325487345,0.18181818181818182
+208,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich?... nei... ich müess es g'steh...
 (fir sich)
+ im
+                        Wàwergàssle do nàwes, parbleu...
 (lüt)
-",15,4,0.5559065576211737,0.26666666666666666
-unknown,Herr GULD,M,pensioner,,"
+ Ich denk, Sie
+                        werde ne Spaziergang g'macht ha?...
+                    
+
+        
+",lustig-dr-hochzitstag,28,6,0.5024777196357867,0.21428571428571427
+209,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ne Spaziergang, jà, ins Wàwsrgàssle... ich kumm jetz
                         grad vo dr Karteschlagere!
                     
-",14,4,0.4217182070758988,0.2857142857142857
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,14,4,0.4217182070758988,0.2857142857142857
+210,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Sie, Herr Guld?...
-",5,3,0.4231423483493617,0.6
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,5,3,0.4231423483493617,0.6
+211,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich, jà... worum nitt?... glaüwe Sie ebbe nitt an
                         d'Karte?
                     
-",13,1,0.408435494808788,0.07692307692307693
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,13,1,0.408435494808788,0.07692307692307693
+212,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Oh doch, Herr Guld... uf jedefall gläub ich an
                         d'Karte... was wott me denn mache, we me nimmig an
                         d'Karte gläuwe kännt!
                     
-",26,6,0.40377695682007825,0.23076923076923078
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,26,6,0.40377695682007825,0.23076923076923078
+213,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Nitt wohr... ich ha wohl g'wisst, ass Sie vo miner
                         Meinung sin... wisse Se, 's git ewe Lit, wo iwer eso
                         Sache spättle un sage, 's Karteschlage seig Larifari...
                         awer ich ha scho gar vielmol d'Prob vom Gegetheil g'ha!
                     
 
+          
+
             
 G'sang
+
+            
 (Cadet Roussel)
+
+            
 Wenn ich als müess e G'wissheit ha,
+
+            
 So loss ich mir gli d'Karte schla;
+
+            
 's ka nieme d'Züekunft besser wisse,
+
+            
 Sie lese-n-in de Lit im G'wisse;
+
+            
 Jà, jà, das isch e Kunst,
+
+            
 Wo nieme consultiert umsunst!
+
+          
+
+          
 
             
 Wer se trumpiert, das sin nur die,
+
+            
 Wo doch nitt an se gläuwe nie;
+
+            
 Mir thüet se nie kei Irrthum lehre,
+
+            
 Wil ich se halt' gar hoch in Ehre;
+
+            
 Nei, nei, d'Prob' ha-n-ich g'ha,
+
+            
 Ass me ka geh ufs Karteschla!
-",130,16,0.4523033235401171,0.12307692307692308
-unknown,Herr KALT,M,businessman,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,130,16,0.4523033235401171,0.12307692307692308
+214,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un ich denn, Herr Guld... un ich denn... hundert Exempel
                         kännt ich Ihne sage... awer eins soll genüeg si:
                         wo-n-ich g'hirothe ha, so hat mir e Karteschlagere in
@@ -1527,617 +2670,1079 @@ Un ich denn, Herr Guld... un ich denn... hundert Exempel
                         G'schlecht... verstand jetz das wer ka, ich kumm nitt
                         drüs!
                     
-",101,10,0.4153091035564603,0.09900990099009901
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,101,10,0.4153091035564603,0.09900990099009901
+215,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 's isch nitt mögli!... ah, me hat's Ihne-n-o g'sàit?...
                         do soll jetz noch emol ku ebber sage, ass
                         d'Karteschlagere nit wisse!... Eh bien, Herr Kalt, ich
                         bi's
+ oder vielmehr mi Sckicksal, wo-n-eso
+                        verbunde-n-isch mit dem vom Cüsin vo minre züekünftige
+                        Fraü... das isch, was mir grad d'Karteschlagere g'sàit
+                        hat... un mr sin schint's eso eng verbunde, ass wenn
+                        einer vo-n-is stirbt, dr andre dr gliche Tag d'Welt o
+                        müess verlo
+                    
 
-          
-",34,5,0.4537544423569423,0.14705882352941177
-unknown,Herr KALT,M,businessman,,"
+        
+",lustig-dr-hochzitstag,86,8,0.44122159727619936,0.09302325581395349
+216,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Oh, do sin Sie am wenigste z'bedüre, Herr Guld!... dr
                         Felix isch g'sund un stark, un ich ha-n-'n noch ni höre
                         hüeste!
                     
-",27,6,0.49495181343014405,0.2222222222222222
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,27,6,0.49495181343014405,0.2222222222222222
+217,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Das isch alles güet, awer 's isch schint's e
                         lichtsinniger Kamerad, wo alle-n-Ise-n-abrennt... wie
                         g'schwind wàr ebbes g'schàh!
                     
-",25,4,0.5510649060580739,0.16
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,25,4,0.5510649060580739,0.16
+218,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Mr mien halt Tag un Nacht iwer ne wache... mit Geld un
                         güete Worte ka me ne viellicht uf e bessere Weg
                         bringe... Sie süeche-n-'m e Fraü, wo-n-'n güet b'sorgt,
                         un wo-n-'n an e rüehig Familielewe g'wöhnt.
                     
-",45,12,0.4636740146185159,0.26666666666666666
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,45,12,0.4636740146185159,0.26666666666666666
+219,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (trürig)
+
+          
 Ich will halt süeche z'mache, was z'mach-n-isch!
-",16,4,0.4801534700376306,0.25
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,16,4,0.4801534700376306,0.25
+220,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Allons, tröste Sie sich, Herr Guld... mache Se wieder e
                         fröhlig G'sicht... mi Neveu isch jo erst finfezwanzig
                         Johr alt.
                     
-",22,4,0.3983910693839965,0.18181818181818182
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,22,4,0.3983910693839965,0.18181818181818182
+221,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Das isch alles recht... awer 's isch e Nitnutz!
-",11,2,0.4087114668537044,0.18181818181818182
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,2,0.4087114668537044,0.18181818181818182
+222,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Eh, Herr Guld, Sie wisse jo wohl, Unkrüt verdirbt
                         nitt!
                     
-",12,5,0.42406790169028596,0.4166666666666667
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,12,5,0.42406790169028596,0.4166666666666667
+223,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich müèss mi halt dri schicke!... Oh! worum isch jetz mi
                         Schicksal nitt mit dem vo Ihrer Tochter eso eng
                         verbunde?...
                     
-",23,5,0.43527385962370513,0.21739130434782608
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,23,5,0.43527385962370513,0.21739130434782608
+224,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Sie hàn do ne ganz galante-n-Idee... awer was wànn Se
                         halt... Se wisse jo, ass allewil alles letz ig'richtet
                         isch uf dr Welt!
                     
-",27,7,0.45211131605654226,0.25925925925925924
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,27,7,0.45211131605654226,0.25925925925925924
+225,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 So will ich ne denn gli geh ufsüeche, Ihre Neveu, un
                         will 'm e kleine Rente proposiere, ass er hirothe ka;
                         er wird sich hoffentlig doch bessere derno?
 (er geht
                         gege dr Thüre hinte)
-",38,3,0.4117819067215003,0.07894736842105263
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,38,3,0.4117819067215003,0.07894736842105263
+226,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (begleitet ne)
+
+          
 C'est ça... Herr Guld... c'est ça... das isch 's beste,
                         wo Sie mache känne!
 (Herr Guld geht üse)
-",26,4,0.4194656349642183,0.15384615384615385
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,26,4,0.4194656349642183,0.15384615384615385
+227,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (kunnt fire)
+
+          
 Uf dàre Site gieng jetz alles güet... awer jetz isch
                         wieder die G'schichte mit dem Fechtmeister... er schint
                         nitt kummod z'si, dà Mensch!... awer halt... dà macht
                         jo unser Sach jetz grad z'avanciere... ich derf nur
                         mache lo!...
                     
-",46,8,0.4649923506808161,0.17391304347826086
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,46,8,0.4649923506808161,0.17391304347826086
+228,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (kunnt hinte-n-ins)
+
+          
 De müesch mr verzeihe, Oncle, wenn ich scho wieder do
                         bi... awer ich ha niene kei Bliwes meh, siter ass ich
                         weiss...
                     
-",29,1,0.4222577425487451,0.034482758620689655
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,29,1,0.4222577425487451,0.034482758620689655
+229,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ah, De bisch do, schöner Vogel... zeig, kumm emol do
                         ane... De kunnsch grad recht!... De weisch, ass dr
                         Fechtmeister do gsi isch?...
                     
 
           
-",25,6,0.4308953054596796,0.24
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,25,6,0.4308953054596796,0.24
+230,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Dr Fechtmeister?... was fir e Fechtmeister?... dà, wo
                         als eso kunnt
 (er zieht dr Hüet ab un macht e Bettler
                         no)
-",24,3,0.5769454444077179,0.125
-unknown,Herr KALT,M,businessman,,"
+ im eon-arme Mann e-n-Almüese, wenn's I b'liebt!
+                    
+
+        
+",lustig-dr-hochzitstag,34,4,0.5466803655369368,0.11764705882352941
+231,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Felix, ich mach kei G'spass... was isch das fir e
                         G'schichte mit dàre Jumpfre oder Dame, wo Dü
                         compromittiert hasch im Durnacher Tramway?
                     
-",25,5,0.5471099193623569,0.2
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,25,5,0.5471099193623569,0.2
+232,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Ich, e Dame compromittiert!... wie kasch Dü nur eso
                         ebbes glaüwe vo mir, Oncle!
                     
-",15,1,0.4713769574170061,0.06666666666666667
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,15,1,0.4713769574170061,0.06666666666666667
+233,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Dü wàrsch alleweg z'güet derzüe, nitt wohr?... un 's
                         müess doch ebbes gsi si, wil dà Fechtmeister...
                     
-",20,5,0.4152200435708009,0.25
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,20,5,0.4152200435708009,0.25
+234,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Eh, isch denn die Dame ne Fechtmeister gsi?
-",9,2,0.5229881029801294,0.2222222222222222
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,9,2,0.5229881029801294,0.2222222222222222
+235,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Felix, mach mi nitt wild!
-",7,3,0.5428566833986793,0.42857142857142855
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,7,3,0.5428566833986793,0.42857142857142855
+236,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Was witt halt, Oncle... die Dame sin jetz eso possig
                         ag'mustert, ass me-n-eigentlig nie recht weisst, mit
                         wem ass me's z'thüe hat... drum siehsch, ass ich nitt
                         emol weiss, eb's e Fräu oder e Mann gsi isch!...
                     
-",43,4,0.4416679498814926,0.09302325581395349
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,43,4,0.4416679498814926,0.09302325581395349
+237,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Scho güet, Nitnutz... also g'stehsch's i... zeig,
                         üse-n-emol mit dr Sproch, was isch g'schàh?
                     
-",19,3,0.45280809111789583,0.15789473684210525
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,19,3,0.45280809111789583,0.15789473684210525
+238,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Also, gestert bin ich uf Durni g'fahre mit em
                         Tramway...
                     
-",11,1,0.441,0.09090909090909091
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,11,1,0.441,0.09090909090909091
+239,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Worum gehsch Dü nitt z'Füess, Dü Schurk... kasch Dü Di
                         Geld nitt e wenig spare!
                     
-",18,4,0.43566329947961346,0.2222222222222222
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,18,4,0.43566329947961346,0.2222222222222222
+240,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Im Tramway isch's eso ag'nehm, Oncle... De wirsch's jetz
                         gli sàh... also bin ich im Tramway g'fahre un ha fir
                         Vis-à-vis ne schöne Dame g'ha... ich ha's emol glaübt,
                         denn 's isch scho ne wenig finster gsi...
                     
-",41,3,0.5584790739323175,0.07317073170731707
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,41,3,0.5584790739323175,0.07317073170731707
+241,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Güet, güet... nur furt...
-",6,4,0.4639642491170195,0.6666666666666666
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,6,4,0.4639642491170195,0.6666666666666666
+242,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Uf eimol awer hat er deràilliert un do ha-n-ich mine Arm
                         üsg'streckt un die Dame-n-ihre-n-o, un do si mr halt
                         enander ganz natirlig in d'Arme g'falle, ohne-n-ass mir
                         hàn welle... allewig ich, Oncle!
                     
-",43,7,0.43546146807808744,0.16279069767441862
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,43,7,0.43546146807808744,0.16279069767441862
+243,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un do hat halt die Dame ne Schrei üsg'lo...
-",11,5,0.5050078798494728,0.45454545454545453
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,11,5,0.5050078798494728,0.45454545454545453
+244,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Üs Angst, Oncle, wege-n-em Umfalle.
-",8,1,0.7438871000942455,0.125
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,8,1,0.7438871000942455,0.125
+245,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Un wil derno voruse uf dr Terrasse ihre Brüeder
                         g'stande-n-isch, eso ne Hitzkopf vo Fechtmeister, so
                         isch er derno ine ku lüege, was das isch, un do hasch
                         Dü Dich natirlig dervo g'macht!
                     
-",37,7,0.3907281185562021,0.1891891891891892
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,37,7,0.3907281185562021,0.1891891891891892
+246,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Ich ha kei Fechtmeister g'sàh!... ich bi gli furt, wo's
                         g'halte hat... 's isch wohr, denn ich bi pressiert gsi.
                     
-",22,1,0.4120878812309737,0.045454545454545456
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,22,1,0.4120878812309737,0.045454545454545456
+247,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Uf jedefall süecht er Dich jetz... er will Dich mache si
                         Schwester z'hirothe oder er thüet Dich üsefordere!
                     
-",21,3,0.43399718341309906,0.14285714285714285
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,21,3,0.43399718341309906,0.14285714285714285
+248,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Er soll nur ku, ich thüe ne nitt lang üsefordere... ich
                         will ne bol duss ha!... jo wohl!... si Schwester wird
                         eso ne alte Kokette si, wo gern e Mann hätt!...
-
-          
+ ich
+                        will jetz liewer im Frànzele ne Visite mache!
 (er geht
                         links)
-",37,6,0.38400514854634227,0.16216216216216217
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,46,7,0.4097885342147932,0.15217391304347827
+249,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Nitt allei, Schlingel... 's g'hört si nitt... ich gang
                         mit Dr
 (se gehn üse links)
-",19,4,0.4335763210417435,0.21052631578947367
-unknown,Herr GULD,M,pensioner,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,19,4,0.4335763210417435,0.21052631578947367
+250,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (kunnt hinte-n-ine)
+
+          
 Ich ha dà Strolch vo Felix nitt känne-n-üsfindig
                         mache... ich vermüeth, ass er do isch bi sim Oncle
 (er
                         lüegt umenander)
+, Se sin wohrschinlig dert
 (er geht
                         links)
-",38,2,0.6211493911892202,0.05263157894736842
-unknown,Herr HITZIG,M,master_of_arms,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,42,2,0.6211493911892202,0.047619047619047616
+251,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 (kunnt hinte-n-ine ku z'laüfe)
+
+          
 Dasmol ha-n-ich ne jetz!... er isch schint's, wie me mir
                         g'sàit hat, do bi sim Oncle
 (er sieht dr Herr Guld un
                         salütiert)
+. Verzeihe Se... ich bi dr Herr Hitzig...
+                        g'wesener Fechtmeister im 4. Linie-, g'wesener
+                        Fechtmeister im 3. Zwawer-, g'wesener Fechtmeister im
+                        13. Hüsare-Regiment, un jetz noch Fechtmeister im
+                        Schindergàssle hinte... à vot' service
 (er hebt em ein
                         vo sine Dege ane)
-",49,4,0.4535868308210361,0.08163265306122448
-unknown,Herr GULD,M,pensioner,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,83,7,0.4596815680164104,0.08433734939759036
+252,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Was dr Kückücks isch jetz das fir e Held?
-",15,4,0.6580412071644816,0.26666666666666666
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.6580412071644816,0.26666666666666666
+253,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ich süech e g'wisser Herr Felix... me hat mir g'sàit, er
                         seig do bi sim Oncle... hàn Sie-n-en nitt g'sàh
                         viellicht?
                     
-",25,5,0.4465858432359494,0.2
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,25,5,0.4465858432359494,0.2
+254,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (àngstlig)
+
+          
 Jà, was wànn Sie mit em Herr Felix?
-",13,2,0.408435494808788,0.15384615384615385
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,13,2,0.408435494808788,0.15384615384615385
+255,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Was ich will mit em?... umbringe will ich ne, wil er mi
                         Schwester compromittiert hat!
                     
 
+          
+
             
 G'sang
+
+            
 (Heut' kehren wir)
+
+            
 Ich laüf em no
+
+            
 Scho lang eso;
+
+            
 Sie känne's ihm geh sage,
+
+            
 Wenn ich ne find', mach ich ne kalt;
+
+            
 Denn 's isch noch Kein dervo ku halt,
+
+            
 Wo sich mit mir hat g'schlage! 
 (bis)
-",61,9,0.5175785612546429,0.14754098360655737
-unknown,Herr GULD,M,pensioner,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,61,9,0.5175785612546429,0.14754098360655737
+256,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
 
+          
+
             
 Was mache jetz?
+
+            
 Git's denn kei G'setz,
+
+            
 Fir ass me ka geh klage?
-",16,4,0.5527431626781826,0.25
-unknown,Herr GULD,M,pensioner,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,16,4,0.5527431626781826,0.25
+257,comedy,Herr GULD,M,,,,"
             
 
               
 Wenn er ne findet, isch er kalt,
+
+              
 Un ich derzüe, natirlig halt!
+
+              
 Er derf sich nitt geh schlage! 
 (bis)
-",21,3,0.5207778623460408,0.14285714285714285
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,21,3,0.5207778623460408,0.14285714285714285
+258,comedy,Herr HITZIG,M,,,,"
             
 Herr Hitzig.
 
+            
+
               
 Wenn ich ne find, so isch er kalt;
+
+              
 Denn 's isch noch Kein dervo ku halt,
+
+              
 Wo sich mit mir hat g'schlage! 
 (bis)
-",27,6,0.516334038701697,0.2222222222222222
-unknown,Herr GULD,M,pensioner,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,27,6,0.516334038701697,0.2222222222222222
+259,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (losst si uf e Stüehl falle)
+
+          
 Mr sin beide verlore!
-",14,4,0.49380300650579717,0.2857142857142857
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,14,4,0.49380300650579717,0.2857142857142857
+260,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Was isch Ene... was hàn Se...
-",8,2,0.4905829551409915,0.25
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,8,2,0.4905829551409915,0.25
+261,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (geht uf d'Site. Fir sich)
+
+          
 Was mache, ass se sich nitt gehn geh schlage
                         mitnander... denn dr Felix thàt nitt Meister werde mit
                         dem, das isch sicher...
                     
-",32,7,0.5359505101285454,0.21875
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,32,7,0.5359505101285454,0.21875
+262,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Hàn Sie ebbe-n-ebbes dergege-n-iz'wende?
 
           
-",10,2,0.4905829551409915,0.2
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,10,2,0.4905829551409915,0.2
+263,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Ich... ich... eh bien... merke Se denn nitt, ass ich dà
                         Herr Felix bi, wo Sie süeche!
                     
-",19,4,0.47618405530562263,0.21052631578947367
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,19,4,0.47618405530562263,0.21052631578947367
+264,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Sie!...
 (fir sich)
+ eso ne Alter?... ich ha mr ne jünger
+                        vorg'stellt!
 (lüt)
+ also... wenn's eso isch, so
+                        choisiere Se
 (er hebt em sine Dege-n-ane)
-",19,4,0.5859501476318452,0.21052631578947367
-unknown,Herr GULD,M,pensioner,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,36,6,0.5119172866781208,0.16666666666666666
+265,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Gehn Se mr eweg mit dem Mordg'schirr!
-",9,1,0.408435494808788,0.1111111111111111
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,9,1,0.408435494808788,0.1111111111111111
+266,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 So wànn Sie sich denn nitt schlage?
-",9,3,0.5535070558679488,0.3333333333333333
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,9,3,0.5535070558679488,0.3333333333333333
+267,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Z'er Làbtig nitt!... mi Religion thüet mir's verbiete!
-",12,2,0.5047884407594067,0.16666666666666666
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,12,2,0.5047884407594067,0.16666666666666666
+268,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Also, wenn Se sich nitt schlage, so hirothe Se?
-",11,3,0.5535070558679488,0.2727272727272727
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,11,3,0.5535070558679488,0.2727272727272727
+269,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Tiens, wie weisst er das?...
 (lüt)
-",14,3,0.5903567250180619,0.21428571428571427
-unknown,Herr HITZIG,M,master_of_arms,,"
+ natirlig thüe-n-i
+                        hirothe! hàn Sie's nitt g'wisst?... d'Tochter üs em Hüs
+                        do... ne schöne Person!
+                    
+
+        
+",lustig-dr-hochzitstag,33,6,0.5003397075628512,0.18181818181818182
+270,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Sie verstehn mich nitt... entweder schlage Sie sich,
                         oder Sie hirothe mi Schwester, wo Sie compromittiert
                         hàn!
-",19,3,0.5535070558679488,0.15789473684210525
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,19,3,0.5535070558679488,0.15789473684210525
+271,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 's isch mr Leid... awer ich bi scho versproche!
-",11,3,0.546722733832618,0.2727272727272727
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,11,3,0.546722733832618,0.2727272727272727
+272,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Ah, so isch's, Herr Felix?... Sie sin e Hasefüess! Warte
                         Se, ich will Ene zeige!
 (er hebt si Dege gege-n-en uf).
-",28,6,0.4591753017063574,0.21428571428571427
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,28,6,0.4591753017063574,0.21428571428571427
+273,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (kunnt ine links)
+
+          
 Wer sàit, ass dr Felix e Hasefüess isch?... tiens, dr
                         Herr Guld!...
 (er zeigt uf dr Herr Hitzig)
-",26,4,0.4576503512726927,0.15384615384615385
-unknown,Herr HITZIG,M,master_of_arms,,"
+ was isch das
+                        fir einer?
+                    
+
+        
+",lustig-dr-hochzitstag,31,5,0.507893214403068,0.16129032258064516
+274,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 (salütiert)
+
+          
 Herr Hitzig... g'wesener Fechtmeister im...
-",10,4,0.4905829551409915,0.4
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,10,4,0.4905829551409915,0.4
+275,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Ah... Sie sin dr Fechtmeister?... sehr güet... mr wisse
                         dr Rest... mi Oncle hat mr's g'sàit... also isch's
                         mich, wo Sie süeche?
                     
-",25,3,0.5647151970453457,0.12
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,25,3,0.5647151970453457,0.12
+276,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Do hà mr's jetz!...
 (er winkt im Felix mit dr Hand, ass
                         er soll still si)
-",25,3,0.4459231849116731,0.12
-unknown,Herr HITZIG,M,master_of_arms,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,25,3,0.4459231849116731,0.12
+277,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Sie?....nei... dr Herr Felix, do, ha-n-ich g'süecht, wo
                         sich nitt schlage will... awer...
                     
-",18,4,0.5172391656031586,0.2222222222222222
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,18,4,0.5172391656031586,0.2222222222222222
+278,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (züem Felix)
+
+          
 Sage Se nitt 's Gegetheil, Herr Felix, ich bitt Se
                         drum!
                     
-",17,3,0.474956996539192,0.17647058823529413
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,17,3,0.474956996539192,0.17647058823529413
+280,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Glaüwe Sie's nitt, Herr Fechtmeister... glaüwe Sie's
                         nitt...
                     
-",12,2,0.408435494808788,0.16666666666666666
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,12,2,0.408435494808788,0.16666666666666666
+281,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (zornig)
+
+          
 Ah ça... was kunnt Ihne-n-i, mi Name welle az'nàh un ne
                         z'verunehre!
                     
+
+          
 ('s Frànzele kunnt unter d'Thüre links.)
 
           
-",28,2,0.5520068614028688,0.07142857142857142
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,28,2,0.5520068614028688,0.07142857142857142
+282,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Wenn Sie dr Herr Felix sin, so isch unser Sach glich in
                         Richtigkeit... wànn Sie mi Schwester hirothe oder wànn
                         Se sich schlage?
 (er hebt em e Dege ane)
-",33,5,0.5308870937212933,0.15151515151515152
-unknown,FRÀNZELE,F,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,33,5,0.5308870937212933,0.15151515151515152
+283,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
+
+          
 (kunnt un hebt dr Felix z'ruck, wo will dr Dege
                         nàh)
                     
+
+          
 Felix, Felix... ich bitt Di drum!
-",21,2,0.6783020679431555,0.09523809523809523
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,21,2,0.6783020679431555,0.09523809523809523
+284,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (züem Felix)
+
+          
 Was hàn Sie jetz g'macht, worum hàn Se-n-Ihre Name
                         g'sàit!...
 (fir sich)
-",22,3,0.48343338724445234,0.13636363636363635
-unknown,Herr KALT,M,businessman,,"
+ Ich ha uns beide welle rette,
+                        awer jetz isch's um is g'schàh!
+                    
+
+        
+",lustig-dr-hochzitstag,35,3,0.48343338724445234,0.08571428571428572
+285,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (kunnt ine links. Züem Herr Hitzig)
+
+          
 Sie werde so güet si un mi Hüs verlo... Sie hàn kei
                         Recht do, Herr Fechtrneister, me schlat sich nitt im
                         Zimmer!
                     
-",32,8,0.42914514623430333,0.25
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,32,8,0.42914514623430333,0.25
+286,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 's isch wohr... ich gang...
 (züem Felix)
+ awer ich wart
+                        uf Sie dunte... ich will hoffe, Sie werde mir gli noku!
+                       
 (er geht hinte-n-üse)
-",18,3,0.46441793050431884,0.16666666666666666
-unknown,FELIX,M,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,32,6,0.4531983008233729,0.1875
+287,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Uf dr Stell!...
-",4,2,0.40164764110854534,0.5
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,4,2,0.40164764110854534,0.5
+288,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Felix... Pape... müesch's nitt lide!
-",7,1,0.6323071130800793,0.14285714285714285
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,7,1,0.6323071130800793,0.14285714285714285
+289,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Müesch kei Angst ha, Kind... was isch Dr... De wirsch jo
                         ganz bleich... kumm in Di Zimmer, Frànzele...
 (er
                         fiehrt's üse links)
-",27,7,0.4912468408778735,0.25925925925925924
-unknown,Herr GULD,M,pensioner,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,27,7,0.4912468408778735,0.25925925925925924
+290,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Mi liewer Herr Felix, verspreche Se mr, ass Sie sich
                         nitt wànn geh schlage mit dem Fechtmeister... denn er
                         schint nitt kummod z'si, dà Mensch!
 (fir sich)
-",32,6,0.5402610042376168,0.1875
-unknown,FELIX,M,,,"
+ müess
+                        jetz grad mi Schicksal mit dem Schlingel sim verbunde
+                        si!
+
+        
+",lustig-dr-hochzitstag,43,10,0.518743428954797,0.23255813953488372
+291,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Sie sin jetz wieder güet!... was kunnt Ene denn
                         eigentlig i, ass Sie uf eimol eso ne Angst um mich hàn?
                     
-",22,3,0.5607732744028787,0.13636363636363635
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,22,3,0.5607732744028787,0.13636363636363635
+292,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 Wenn ich ihm alles thàt sage... awer nei, dà Nitnutz
                         thàt mich sunscht Johr üs Johr i exploitiere'
 (lüt)
-",27,3,0.5903567250180619,0.1111111111111111
-unknown,FELIX,M,,,"
+ eh,
+                        das isch jo ganz natirlig, wil ich jetz in d'Familie
+                        kumm!
+                    
+
+        
+",lustig-dr-hochzitstag,40,8,0.48532906595362935,0.2
+293,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Sie sin no nitt drin, Herr Guld!
-",8,1,0.408435494808788,0.125
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,8,1,0.408435494808788,0.125
+294,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Mi liewer Felix... wenn Sie viellicht zwei-, dreihundert
                         Franke wotte...
                     
-",13,3,0.4343287236872004,0.23076923076923078
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,13,3,0.4343287236872004,0.23076923076923078
+295,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Lehn Se mich in Rüeh!...
 (er geht gege d'Thüre)
-",13,2,0.32309218199439615,0.15384615384615385
-unknown,Herr GULD,M,pensioner,,"
+.
+
+        
+",lustig-dr-hochzitstag,13,2,0.32309218199439615,0.15384615384615385
+296,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (hebt en z'ruck)
+
+          
 Wenn Sie viellicht nur wotte ne kleiner Ufschüeb
                         heische... sechs Monet oder ebbes... wege
                         Familieg'schàfte... ne ganz kleiner Ufschüeb vo me
@@ -2145,128 +3750,243 @@ Wenn Sie viellicht nur wotte ne kleiner Ufschüeb
                         zahle... Sie kännte-n-an mim Tisch esse un ich thàt Se
                         in mim schönste Zimmer logiere...
                     
-",54,8,0.44564344087039676,0.14814814814814814
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,54,8,0.44564344087039676,0.14814814814814814
+297,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (fir sich)
+
+          
 Er isch verruckt, 's ka nitt anderscht si
 (er will
                         üse)
+.
+                    
 
           
-",18,3,0.5828450246404002,0.16666666666666666
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,18,3,0.5828450246404002,0.16666666666666666
+298,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (hebt en z'ruck. Fir sich)
+
+          
 Was mache, ass er is nitt geht geh lo umbringe...
 (züem
                         Felix)
-",24,5,0.6521147122313533,0.20833333333333334
-unknown,Herr GULD,M,pensioner,,"
+ Sie kännte jo awer viellicht die Dame hirothe?
+                    
+
+        
+",lustig-dr-hochzitstag,32,7,0.5802874780858696,0.21875
+300,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (steht vor d'Thüre)
+
+          
 's isch schint's e ganz rechtschaffene Person... ich gib
                         Ene ne schöne Eh'stir... mi liewer Herr Felix... e
                         rechtschaffene Person... ne Viertelstheil vo mim
                         Vermöge mien Se ha!
                     
-",37,5,0.4605244216173583,0.13513513513513514
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,37,5,0.4605244216173583,0.13513513513513514
+301,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Sie sin nitt g'scheidt, Herr Guld!
 (er will furt, 's
                         Frànzele kunnt links un fallt em um dr Hals)
-",22,2,0.4691126570949272,0.09090909090909091
-unknown,FRÀNZELE,F,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,22,2,0.4691126570949272,0.09090909090909091
+302,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Felix... liewer Felix... gàll, De gehsch Di nitt geh
                         schla?
                     
-",11,2,0.6219220527736812,0.18181818181818182
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,11,2,0.6219220527736812,0.18181818181818182
+303,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (fir sich)
+
+          
 s' Frànzele kunnt jetz wie g'wunsche!
 (lüt züem
                         Frànzele)
+ Jo, jo... thàt Se-n-em nur züerede... dem
+                        verstockte Mensch... thàt Se-n-em sage, er soll doch
+                        d'Schwester vo dem Fechtmeister hirote
 (lislig im
                         Frànzele ins Ohr)
+ oder thàt Sie drgliche thüe, as wàr
+                        Sie verliebt in en, fir ne z'ruckz'halte... er isch
+                        dumm genüe, fir's z'glaüwe... ich will siter üse geh
+                        vor d'Thüre, ass eüch Nieme stört
 (er geht
                         hinte-n-üse)
-",31,3,0.5903567250180619,0.0967741935483871
-unknown,FRÀNZELE,F,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,91,9,0.6281221225432421,0.0989010989010989
+304,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 De gisch mr kei Antwort, Felix?... hasch mi denn nimmig
                         gern?
 (se hebt 's Nastüech vor d'Aüge)
-",21,1,0.4321013815358777,0.047619047619047616
-unknown,FELIX,M,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,21,1,0.4321013815358777,0.047619047619047616
+305,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (kneit vor se)
+
+          
 Ich Dich nimmig gern ha!... lüeg mi denn nur a un
                         b'schaü, eb mine-n-Aüge Dir nitt s' Gegetheil sage...
                     
-",27,2,0.4588403183344991,0.07407407407407407
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,27,2,0.4588403183344991,0.07407407407407407
+306,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Nei, nei... ich merk jetz scho, ass Dü mich nie gern
                         g'ha hasch!...
                     
-",14,1,0.4321013815358777,0.07142857142857142
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,14,1,0.4321013815358777,0.07142857142857142
+307,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 So lüeg mi denn nur a!...
+
+          
 
             
 G'sang
+
+            
 (Drunten im Unterland)
+
+            
 Siehsch Dü mir's denn nitt a,
+
+            
 Ass ich fir Dich
+
+            
 Noch d'gliche Liewe ha,
+
+            
 Wie Dü fir mich?
-",33,4,0.6700545455186593,0.12121212121212122
-unknown,FELIX,M,,,"
+
+          
+
+        
+",lustig-dr-hochzitstag,33,4,0.6700545455186593,0.12121212121212122
+308,comedy,FELIX,M,,,,"
             
 
               
 Dü nur allei, mi Schatz,
+
+              
 Hasch in mim Herz noch Platz!
+
+              
 Siehsch Dü denn nitt, wie gern
+
+              
 As ich Dich ha?
-",21,4,0.46443794088824225,0.19047619047619047
-unknown,FRÀNZELE,F,,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,21,4,0.46443794088824225,0.19047619047619047
+309,comedy,FRÀNZELE,F,,,,"
             
 Frànzele.
 
+            
+
               
 Ich bi allei si Schatz,
+
+              
 Ha-n-in sim Herz nur Platz!
+
+              
 Er sàit, er hat mich gern
+
+              
 Un will sich schla!
-",23,5,0.5074214041749665,0.21739130434782608
-unknown,FELIX,M,,,"
+
+            
+
+          
+",lustig-dr-hochzitstag,23,5,0.5074214041749665,0.21739130434782608
+311,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (erhebt si kaltblietig un geht gege dr Thüre)
                     
+
+          
 Güet... ich gang...
 
           
-",14,2,0.48355826661840445,0.14285714285714285
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,14,2,0.48355826661840445,0.14285714285714285
+312,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
+
+          
 (laüft em no un nimmt en um dr Hals)
+
+          
 Felix... mi Felix... was soll ich mache, wenn Dü
                         umkunnsch... was witt, ass Di arm Frànzele mache
                         sott... weisch denn Dü nitt, ass ich sterwe thàt... un
@@ -2276,18 +3996,28 @@ Felix... mi Felix... was soll ich mache, wenn Dü
                         ab un sàisch nit... oh!... ich bi 's unglickligste
                         Gschöpf wo's uf dr Welt git...
                     
-",83,4,0.5303686144660703,0.04819277108433735
-unknown,FELIX,M,,,"
+
+        
+",lustig-dr-hochzitstag,83,4,0.5303686144660703,0.04819277108433735
+313,comedy,FELIX,M,,,,"
           
 Felix
+
+          
 (nimmt em beide Hànd)
+
+          
 Frànzele... müesch nitt grine... schaü, ich müess...
                         d'Ehr geht vor allem!
                     
-",19,2,0.6326122377659295,0.10526315789473684
-unknown,FRÀNZELE,F,,,"
+
+        
+",lustig-dr-hochzitstag,19,2,0.6326122377659295,0.10526315789473684
+314,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
+
+          
 Nei, nei... Dü gehsch Dich nitt geh schlage... hiroth
                         se, dem Fechtmeister si Schwester... ich weiss nitt,
                         was g'schàh isch... awer hiroth se un süech Di arm
@@ -2296,121 +4026,212 @@ Nei, nei... Dü gehsch Dich nitt geh schlage... hiroth
                         sine Dege, un noch ebber anders
 (me hört e Làrme duss;
                         dr Herr Kalt, Guld un Hitzig kämme-n-ine)
-",70,14,0.5247069234479701,0.2
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,70,14,0.5247069234479701,0.2
+315,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Ich ha glaübt, ich kännt dà Hitzkopf vo Fechtmeister mit
                         güete Worte mache-n-abz'steh vo sim Plan, drum bin i em
                         nogange... awer 's nutzt alles nit!
 ('s Frànzele sinkt
                         uf e Stühl un verliert d'B'sinnung)
-",42,6,0.48873076594546633,0.14285714285714285
-unknown,Herr HITZIG,M,master_of_arms,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,42,6,0.48873076594546633,0.14285714285714285
+316,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 (züem Felix)
+
+          
 Das geht lang, bis Sie sich decidiere... allons, uf was
                         warte Se noch?... ich ha-n-efange lange Zit biku dunte!
                     
-",27,8,0.4417898414639265,0.2962962962962963
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,27,8,0.4417898414639265,0.2962962962962963
+317,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (springt derzwische)
+
+          
 Z'Hilf!... Firio! ihr derfe-n-eüch nitt schlage!
 (Felix
                         un Herr Hitzig packe dr Herr Guld, fir ne absite
                         z'schiewe)
-",30,7,0.5507765792139233,0.23333333333333334
-unknown,Herr KALT,M,businessman,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,30,7,0.5507765792139233,0.23333333333333334
+318,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
+
+          
 Was sieh-n-i!... mi Tochter ohne B'sinnung!...
 (er
                         süecht se ins Lewe z'ruckz'riefe)
-",19,4,0.4909719327945298,0.21052631578947367
-unknown,Herr GULD,M,pensioner,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,19,4,0.4909719327945298,0.21052631578947367
+319,comedy,Herr GULD,M,,,,"
           
 Herr Guld
+
+          
 (süecht si los z'mache)
+
+          
 Z'Hilf!... z'Hilf!...
 (se len en fahre)
-",19,2,0.5568755218494814,0.10526315789473684
-unknown,Herr HITZIG,M,master_of_arms,,"
+.
+
+        
+",lustig-dr-hochzitstag,19,2,0.5568755218494814,0.10526315789473684
+320,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
+
+          
 (zieht dr Felix gege dr Thüre)
+
+          
 Allons, Herr Felix... en avant!
-",15,4,0.4648213038032974,0.26666666666666666
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,15,4,0.4648213038032974,0.26666666666666666
+321,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Halte Se, Herr Fechtmeister... halte Se... me hirothet
                         Ihre Schwester... Sie werde sàh... Felix, ich gib Ene
                         's halwe vo mim Vermöge, un 's andere halwe, wenn ich
                         emol stirb, wenn Sie se hirothe!...
                     
-",36,5,0.46834310763781517,0.1388888888888889
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,36,5,0.46834310763781517,0.1388888888888889
+323,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Also vorwàrts denn?
-",5,2,0.4905829551409915,0.4
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
+324,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Herr Fechtmeister, Herr Fechtmeister... warte Se... eh
                         bien... ich... ich hiroth se, wenn er refüsiert... ich
                         hiroth se, Ihre Schwester... me hat mir g'sàit, 's seig
                         e charmante Person, un ich bi rich... also werde Se
                         doch z'friede si...
 (fir sich)
-",46,8,0.47108992737867184,0.17391304347826086
-unknown,Herr KALT,M,businessman,,"
+ mi Lewe isch mr doch
+                        noch liewer as alles andere!...
+                    
+
+        
+",lustig-dr-hochzitstag,56,10,0.4976480027857499,0.17857142857142858
+325,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (fir sich)
+
+          
 Endlig hat's packt!...
 (er ribt si d'Hànd).
-",17,3,0.5232854057212887,0.17647058823529413
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,17,3,0.5232854057212887,0.17647058823529413
+326,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Herr Guld, 's wird mich freie, Sie als mi Schwoger
                         z'begriesse... un im Herr Felix biet ich mi Hand... mr
                         sin jetz also quitt!...
                     
 
           
-",27,5,0.4472129805018632,0.18518518518518517
-unknown,Herr KALT,M,businessman,,"
+
+        
+",lustig-dr-hochzitstag,27,5,0.4472129805018632,0.18518518518518517
+327,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
+
+          
 (fir sich)
+
+          
 Ich möcht ne grad schmutze, dà Fechtmeister...
 (lüt)
+
+                        Frànzele!... Frànzele!... kumm züe Dr, lieb Kind, me
+                        schlat sich jetz nimmig... 's isch alles arrangiert!...
+                       
 (fir sich)
-",20,7,0.5829292497279573,0.35
-unknown,FELIX,M,,,"
+ 's soll jetz noch emol ebber ku sage, ass 's
+                        Karteschlage nitt e schöne Kunst isch!
+                    
+
+        
+",lustig-dr-hochzitstag,52,13,0.5208493882661311,0.25
+328,comedy,FELIX,M,,,,"
           
 Felix.
+
+          
 Wil der Herr Guld denn jetz e-n-andere Hiroth macht,
                         Oncle, un 's Frànzele im Stich losst, so will denn ich
                         Dich um d'Hand vo miner Cüsine frage!
                     
-",31,4,0.45489361987745913,0.12903225806451613
-unknown,Herr GULD,M,pensioner,,"
+
+        
+",lustig-dr-hochzitstag,31,4,0.45489361987745913,0.12903225806451613
+329,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
+
+          
 Gàn Sie's em nur, Herr Kalt... ich ha nit dergege...ass
                         er emol ab dr Gasse kunnt un sich bessert... un ass ich
                         rüehig lewe ka derno!
                     
-",30,4,0.4781747014126776,0.13333333333333333
-unknown,Herr HITZIG,M,master_of_arms,,"
+
+        
+",lustig-dr-hochzitstag,30,4,0.4781747014126776,0.13333333333333333
+330,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
+
+          
 Un jetz, ihr Herre-n-un Dame, wil e Sach in Richtigkeit
                         isch, thüe-n-ich mich empfehle... Herr Hitzig,
                         g'wesener Fechtmeister im 4. Linie-, g'wesener
@@ -2419,17 +4240,39 @@ Un jetz, ihr Herre-n-un Dame, wil e Sach in Richtigkeit
                         Schindergàssle hinte... à vot' service!
 (er hebt em
                         Public sine Dege-n-ane)
-",58,9,0.4692253002747453,0.15517241379310345
-unknown,alle,B,,,"
+.
+                    
+
+        
+",lustig-dr-hochzitstag,58,9,0.4692253002747453,0.15517241379310345
+331,comedy,alle,B,,,,"
           
 Alle
+
+          
 (züem Public)
+
+          
 
             
 Wànn Sie das Ding prawiere,
+
+            
 Sie mien sich nitt geniere,
+
+            
 Er git
+
+            
  Lection züe jeder Zit
+
+            
 Ich gib
+
+            
 In alle Lit.
-",26,1,0.3075056509901578,0.038461538461538464
+
+          
+
+        
+",lustig-dr-hochzitstag,26,1,0.3075056509901578,0.038461538461538464

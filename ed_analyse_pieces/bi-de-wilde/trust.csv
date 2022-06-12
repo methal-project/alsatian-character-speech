@@ -1,155 +1,325 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,EDI,M,,,"
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,EDI,M,,,,"
           
 Er.
+
+          
 
             
 Wàre mir jetz doch,
 (bis)
+
+            
 Wàre mir jetz doch erlöst,
+
+            
 Erlöst emol!
-",15,2,0.0,0.13333333333333333
-unknown,JETTELE,F,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,15,2,0.0,0.13333333333333333
+1,comedy,JETTELE,F,,,,"
           
 Sie.
+
+          
 
             
 Dü kasch passe noch,
 (bis)
+
+            
 Dü kasch passe noch, das weisch,
+
+            
 Das weisch Dü wohl!
-",18,1,0.6176771825980392,0.05555555555555555
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-bi-de-wilde,18,1,0.6176771825980392,0.05555555555555555
+2,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
+
+          
 
             
 Mir sin halt beide so
+
+            
 Mit alle G'fohre
+
+            
 Uf dàre-n-Insel do
+
+            
 Im Meer verlore,
+
+            
 Mr sin im Meer verlore!
-",22,5,0.0,0.22727272727272727
-unknown,EDI,M,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,22,5,0.0,0.22727272727272727
+3,comedy,EDI,M,,,,"
           
 Er.
 
+          
+
             
 Kàm nur e Schiff ku z'fahre
+
+            
 Un thàt uns doch ufnàh!
-",13,1,0.0,0.07692307692307693
-unknown,JETTELE,F,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,13,1,0.0,0.07692307692307693
+4,comedy,JETTELE,F,,,,"
           
 Sie.
 
+          
+
             
 's thàt uns viel Leid erspare,
+
+            
 Das ha-n-ich längst scho g'sàh!
-",14,1,0.0,0.07142857142857142
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-bi-de-wilde,14,1,0.0,0.07142857142857142
+5,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Doch wenn's noch geht so lang,
+
+            
 Wie's jetz scho gange-n-isch,
+
+            
 So wird's uns g'wiss noch bang.
+
+            
 Bi unsrer Kost vo Fisch!
+
+            
 } bis
 
           
-",29,2,0.0,0.06896551724137931
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-bi-de-wilde,29,2,0.0,0.06896551724137931
+6,comedy,EDI,M,,,,"
+          
+Er.
+
+          
+
+            
+Wenn mir doch nur d'heim wieder wàre,
+
+            
+Wie wotte mir 
+(bis)
+ so glicklig si!
+
+          
+
+        
+",lustig-bi-de-wilde,18,1,0.0,0.05555555555555555
+7,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Mir hätte-n-ab e Last, e schwere,
+
+            
 Mir kàmte g'wiss 
 (bis)
+ nimm z'ruck dohi!
+
+            
 Doch wenn's noch geht so lang,
+
+            
 Wie's jetz scho gange-n-isch,
+
+            
 So wird's uns g'wiss noch bang
+
+            
 Bi unsrer Kost vo Fisch.
-",41,4,0.07225,0.0975609756097561
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-bi-de-wilde,45,5,0.0578,0.1111111111111111
+8,comedy,EDI,M,,,,"
+          
+Er.
+
+          
+
+            
+Wenn mir doch nur d'heim wieder wàre,
+
+            
+Wie wotte mir 
+(bis)
+ so glicklig si!
+
+          
+
+        
+",lustig-bi-de-wilde,18,1,0.0,0.05555555555555555
+9,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Mir hätte-n-ab e Last, e schwere,
+
+            
 Mir kàmte g'wiss 
 (bis)
+ nimm z'ruck dohi!
+
+            
 Doch wenn's noch geht so lang,
+
+            
 Wie's jetz scho gange-n-isch,
+
+            
 So wird's uns g'wiss noch bang
+
+            
 Bi unsrer Kost vo Fisch!
-",41,4,0.07225,0.0975609756097561
-unknown,Herr SCHNELL,M,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,45,5,0.0578,0.1111111111111111
+10,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Jetz, Franz, wo si mr?... ich glaüb, mr känne dr
                         Robinson spiele, denn 's schint mr e-n-Insle z'si, wo
                         Nieme druf isch... jetz stecke mr in schöne Schüeh!...
                     
-",33,6,0.21704982099287065,0.18181818181818182
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,33,6,0.21704982099287065,0.18181818181818182
+11,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 In nasse stecke mr uf jedefall... isch jetz das fatal,
                     
+
+          
 eso Schiffbruch z'lide mittle-n-uf em Meer!...
-",20,5,0.1062,0.25
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,20,5,0.1062,0.25
+12,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Natirlig uf em Meer... d'heim in dr Stuwe kasch alleweg
                         nitt Schiffbruch lide!...
                     
-",16,4,0.0,0.25
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,16,4,0.0,0.25
+13,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Worum si mr awer o furt vo d'heim! Worum hà mr welle Di
                         Tochter, mi Cüsine, wo mit ihrem Liebhawer uf un
                         dervo isch, geh süeche in Amerika... jetz hà mr's...
                         oh! we mr doch nur wieder z'Milhüse wàre in dr
                         Fröscheweid!
                     
-",46,4,0.0,0.08695652173913043
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,46,4,0.0,0.08695652173913043
+14,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Bisch Dü nitt o vo dr Familie?... geht's Dich nitt a wie
                         mich, wenn Ihre-n-Ehr in G'fohr isch... un Dü
                         hättsch doch Di alter Oncle nitt welle-n-allei geh
                         lo...
                     
-",36,7,0.1766262078135637,0.19444444444444445
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,36,7,0.1766262078135637,0.19444444444444445
+15,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Mir hätte jo mitnander känne d'heim bliwe... wer weisst,
                         wo 's Jettele ane-n-isch mit sim Edi...
                     
-",20,2,0.0,0.1
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,20,2,0.0,0.1
+16,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Nach Amerika sin se!... De weisch jo, ass me se g'sàh
                         hat ischiffe vor drei Monet... wenn ich's awer
                         g'wisst hätt, so wàr ich eher furt... De weisch, wenn
                         ich ebbes im Kopf ha, so müess es gli g'macht si!
                     
-",43,3,0.24233333333333332,0.06976744186046512
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,43,3,0.24233333333333332,0.06976744186046512
+17,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 's hat is viel g'nutzt jetz, ass mr furt sin...
-",11,1,0.0,0.09090909090909091
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,11,1,0.0,0.09090909090909091
+18,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Bàh... was g'schàh isch, das isch g'schàh... was nutzt
                         jetz das jomere!... mr wànn liewer
                         e-n-Unterschlupf süeche-n-un trachte, ass mr nitt in e
@@ -160,314 +330,601 @@ Bàh... was g'schàh isch, das isch g'schàh... was nutzt
                         jetz heisst's ufpasst, we mr wànn unsere
                         Côtelettes wieder uf Milhüse z'ruck bringe!
                     
-",87,13,0.0957717804851112,0.14942528735632185
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-bi-de-wilde,87,13,0.0957717804851112,0.14942528735632185
+19,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Mir mien is vor de Wilde hiete,
+
+            
 Denn 's isch glaüb do nitt g'hir,
+
+            
 In dàre-n-Asche sin noch Gliethe,
+
+            
 Se hàn do g'ha ne Fir;
+
+            
 Drum nur Achtung gà,
+
+            
 's derf uns Keiner sàh,
+
+            
 Denn 's geht um dr Hals
+
+            
 Un dà brücht me-n-als.
+
+            
 Mir mien is vor de Wilde hiete,
+
+            
 Denn 's geht um unser Hals.
+
+            
 Guldig sin d'Wilde z'Milhüse d'heim;
+
+            
 Die do, die hüse doch z'wiescht mit eim;
+
+            
 Drum nur Achtung gà,
+
+            
 's derf uns Keiner sàh,
+
+            
 Denn 's geht um dr Hals
+
+            
 Un dà brücht me-n-als!
+
+            
 Mir mien is vor de Wilde hiete,
+
+            
 Denn 's geht um unser Hals.
-",113,12,0.2740185754167304,0.10619469026548672
-unknown,FRANZ,M,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,113,12,0.2740185754167304,0.10619469026548672
+20,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Bscht!... still... 
 (se lose)
-",7,2,0.0,0.2857142857142857
-unknown,Herr SCHNELL,M,,,"
+ 's sin zwei Wilde, wo kämme
+                        dert unte! jetz si mr verlore... ich mach mich
+                        dervo!...
+                    
+
+        
+",lustig-bi-de-wilde,23,5,0.0796,0.21739130434782608
+21,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell
+
+          
 (hebt 'n z'ruck)
+
+          
 's isch unnöthig, se hàn is scho g'sàh... un se laüfe
                         besser as mir... mr wànn se liewer süeche z'g'winne
                         mit güete Worte...
                     
-",32,7,0.09038103827881291,0.21875
-unknown,EDI,M,,,"
+
+        
+",lustig-bi-de-wilde,32,7,0.09038103827881291,0.21875
+23,comedy,EDI,M,,,,"
           
 Er.
+
+          
 Still!... sag nit... se kenne-n-uns nitt in dem
                         Costüm!...
                     
-",12,1,0.0,0.08333333333333333
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,12,1,0.0,0.08333333333333333
+24,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell
+
+          
 (züem Franz)
+
+          
 Loss mich nur mache... se schine mir nitt so
                         kannibalisch z'si... ich ka ne wenig indianisch rede
                         
 (züe de
                         Wilde)
+ dir dir dài gwuck!... 
 (züem Franz)
-",33,6,0.10016666666666667,0.18181818181818182
-unknown,EDI,M,,,"
+ das isch
+                        «güete Tag» uf Milhüserditsch.
+                    
+
+        
+",lustig-bi-de-wilde,45,8,0.075125,0.17777777777777778
+25,comedy,EDI,M,,,,"
           
 Dr Wilde.
+
+          
 Nix, Nix...
-",4,1,0.398,0.25
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,4,1,0.398,0.25
+26,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (züem Herr Schnell)
+
+          
 Er sàit gix, gix!... mir sin verlore!... Das sin vo
                         dàne, we me ne ebbes z'esse heischt, so offriere
                         se-n-eim e Stickle kalter Missionär!...
                     
-",33,4,0.0,0.12121212121212122
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,33,4,0.0,0.12121212121212122
+27,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Se verstehn viellicht nitt indianisch... wenn ich thàt
                         Milhüserditsch mit ene rede?... 
 (züe de Wilde)
-",19,4,0.0995,0.21052631578947367
-unknown,JETTELE,F,,,"
+ Ihr
+                        Herre-n-un Dame, mir sin vo Milhüse!...
+                    
+
+        
+",lustig-bi-de-wilde,28,6,0.12366666666666666,0.21428571428571427
+28,comedy,JETTELE,F,,,,"
           
 Sie.
+
+          
 O Pape!... ich bi's, Di Jettele;... kasch Dü mir
                         verzeihe!... 
 (se springt 'm an dr Hals; dr Franz losst
                         e
                         Schrei üs un will dervolaüfe, blibt awer, wo-n-er hört,
                         um was es sich handelt).
-",40,3,0.18233333333333335,0.075
-unknown,Herr SCHNELL,M,,,"
+
+                    
+
+        
+",lustig-bi-de-wilde,40,3,0.18233333333333335,0.075
+29,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Was!... Dü bisch's!... un dr Edi, dà Halunk...
                         richtig... ich erkenn eüch jetz, trotzdem ass ihr wild
                         worde sin!...
                     
 
           
-",22,4,0.29675,0.18181818181818182
-unknown,EDI,M,,,"
+
+        
+",lustig-bi-de-wilde,22,4,0.29675,0.18181818181818182
+30,comedy,EDI,M,,,,"
           
 Edi.
+
+          
 Mr hàn halt Angst g'ha vor de rechte Wilde, un do hà mr
                         denkt, mr sin sicherer, we wir se selbst
                         spiele...
                     
-",23,6,0.27466666666666667,0.2608695652173913
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,23,6,0.27466666666666667,0.2608695652173913
+31,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Die zwei g'falle mir jetz noch!...
-",7,2,0.0,0.2857142857142857
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-bi-de-wilde,7,2,0.0,0.2857142857142857
+32,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Jettele un Edi
+
+          
 (züem Herr Schnell)
+
+          
 
             
 Kasch Dü uns hit verzeihe,
+
+            
 Mir sin halt 
 (bis)
+ schuldig, das isch wohr;
+
+            
 Doch längst thüet's uns scho reie, 
 (bis)
+
+            
 G'wiss, das kunnt jetz bi uns nimm vor;
+
+            
 's isch halt nur g'schàh dur d'Liewe,
+
+            
 's isch uf dr Welt gsi unser Freid,
+
+            
 Un gar viel Tage, triewe, 
 (bis)
+
+            
 Hàn mir scho g'ha 
 (bis)
+ jetz do züem Leid.
+
+            
 Mir hàn jo unser Fehler
+
+            
 G'wiss scho hart ibiesst,
+
+            
 Un hàn eüch mit viel Freide
+
+            
 Bi uns do begriesst.
+
+            
 Mir sin halt schuidig, das isch wohr,
+
+            
 Doch längst thüet's uns scho reie, 
 (bis)
+
+            
 G'wiss, das kunnt 
 (bis)
-",110,14,0.17133337628226358,0.12727272727272726
-unknown,Herr SCHNELL,M,,,"
+jetz bi uns nimm vor.
+
+          
+
+        
+",lustig-bi-de-wilde,123,17,0.22720023397768285,0.13821138211382114
+33,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 
             
 Pardon 
 (bis)
+ git's kein vo mir!
+
+            
 Lang thien ihr warte noch!
+
+            
 Umsunscht jetz bitte-n-ihr!
+
+            
 Mi Wille mach ich doch!
+
+            
 Nit macht mich irr!
-",25,7,0.2367142857142857,0.28
-unknown,FRANZ,M,,,"
+
+          
+
+        
+",lustig-bi-de-wilde,30,7,0.2367142857142857,0.23333333333333334
+34,comedy,FRANZ,M,,,,"
           
 Franz.
 
+          
+
             
 Die g'falle mir!
+
+            
 Ihr warte noch!
+
+            
 Er macht, wie ihr,
+
+            
 Si Wille doch;
+
+            
 Nit macht ihn irr!
-",18,5,0.36100000000000004,0.2777777777777778
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+          
+
+        
+",lustig-bi-de-wilde,18,5,0.36100000000000004,0.2777777777777778
+35,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Ihr hàn jetz eüer Fehler
+
+            
 No nitt g'nüeg ibiesst,
+
+            
 Wenn ihr scho mit viel Freide
+
+            
 Uns do hàn begriesst.
+
+            
 Ihr sin halt schuldig, das isch wohr,
+
+            
 Drum thien mir nitt verzeihe 
 (bis)
+
+            
 Un wenn's o 
 (bis)
-",42,8,0.25134208870861474,0.19047619047619047
-unknown,JETTELE,F,,,"
+bi eüch kunnt nimm vor. 
+
+          
+
+        
+",lustig-bi-de-wilde,47,8,0.25134208870861474,0.1702127659574468
+36,comedy,JETTELE,F,,,,"
           
 Jettele.
+
+          
 Awer Pape, hà mir denn unser Schuld no nitt g'nüeg
                         ibiesst!... z'erst hà mr Schiffbruch g'litte un sin
                         mit Mieih un Noth uf eme Drom an die Insle ku, wo mr
                         jetz scho drei Monet nit as Fisch z'esse hàn...
                     
-",43,3,0.22491223655630602,0.06976744186046512
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,43,3,0.22491223655630602,0.06976744186046512
+37,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Mir o hàn Schiffbruch g'litte... un noch derzüe
                         wege-n-eüch...
                     
-",13,2,0.0,0.15384615384615385
-unknown,EDI,M,,,"
+
+        
+",lustig-bi-de-wilde,13,2,0.0,0.15384615384615385
+38,comedy,EDI,M,,,,"
           
 Edi.
+
+          
 Un züe dàne Fisch hà mir nit as frisch Wasser z'trinke
                         g'ha, Herr Schnell... Sie känne-n-am beste
                         jügiere, was das fir e Pin isch!...
                     
-",28,4,0.0,0.14285714285714285
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,28,4,0.0,0.14285714285714285
+39,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 's isch eigentlig wohr, se hàn viel g'litte... weisch Dü
                         was, Oncle, gib Dü ihne d'Absolütion un loss se
                         hirothe, ass die G'schichte-n-emol e-n-End nimmt.
                     
-",31,3,0.33066666666666666,0.0967741935483871
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,31,3,0.33066666666666666,0.0967741935483871
+40,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Dü magsch viellicht Recht ha... 's wird am End doch nitt
                         anders z'mache si... drum solle se hirothe...
                         awer glich... uf dr Stell... De weisch, ass, wenn ich
                         ebbes im Kopf ha... wo isch's G'meinhüs?...
                     
-",39,7,0.17414285714285713,0.1794871794871795
-unknown,JETTELE,F,,,"
+
+        
+",lustig-bi-de-wilde,39,7,0.17414285714285713,0.1794871794871795
+41,comedy,JETTELE,F,,,,"
           
 Jettele.
+
+          
 Leider isch kei G'meinhüs do, Pape...
 
           
-",7,1,0.0,0.14285714285714285
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,7,1,0.0,0.14285714285714285
+42,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Aha... 's isch jo wohr 
 (er lüegt umenander)
-",12,3,0.263,0.25
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+ wo si mir
+                        eigentlig do?... was isch das fir e-n-Insle?
+                    
+
+        
+",lustig-bi-de-wilde,24,4,0.19725,0.16666666666666666
+43,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Jettele un Edi.
+
+          
 Jà do... das wisse mir halt selwer nitt!...
-",11,1,0.0,0.09090909090909091
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,11,1,0.0,0.09090909090909091
+44,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 's isch viellicht d'Insle Pipi!...
-",7,2,0.0,0.2857142857142857
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,7,2,0.0,0.2857142857142857
+45,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Jetz si mr wieder emol schön do!... 's beste wàr halt,
                         mr kännte se verlo, die Insle... awer wie?...
                     
-",21,4,0.1465,0.19047619047619047
-unknown,JETTELE,F,,,"
+
+        
+",lustig-bi-de-wilde,21,4,0.1465,0.19047619047619047
+48,comedy,JETTELE,F,,,,"
           
 Jettele.
+
+          
 Dert... in dr Wite... me sieht erst efange d'Segel!...
                     
-",11,1,0.0,0.09090909090909091
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,11,1,0.0,0.09090909090909091
+50,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Doch dert!... me müess e Signal gà!...
-",8,2,0.24498099476088525,0.25
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,8,2,0.24498099476088525,0.25
+51,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Edi, loss e Kanoneschutz los!...
-",7,4,0.14649999999999996,0.5714285714285714
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,7,4,0.14649999999999996,0.5714285714285714
+54,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Do isch mi Nastüech 
 (Jettele nimmt's un weiht mit).
-",13,1,0.0,0.07692307692307693
-unknown,Herr SCHNELL,M,,,"
+
+        
+",lustig-bi-de-wilde,13,1,0.0,0.07692307692307693
+55,comedy,Herr SCHNELL,M,,,,"
           
 Herr Schnell.
+
+          
 Das isch z'klei!... wer zieht si Hem üs?...
-",11,2,0.0,0.18181818181818182
-unknown,EDI,M,,,"
+
+        
+",lustig-bi-de-wilde,11,2,0.0,0.18181818181818182
+56,comedy,EDI,M,,,,"
           
 Edi.
+
+          
 Mir nitt, denn mir hàn scho lang keis meh!...
-",10,1,0.0,0.1
-unknown,JETTELE,F,,,"
+
+        
+",lustig-bi-de-wilde,10,1,0.0,0.1
+57,comedy,JETTELE,F,,,,"
           
 Jettele.
+
+          
 Se hàn is g'sàh... se kämme... sàhn ihr, wie's Schiff
                         grösser wird!...
                     
-",14,1,0.383,0.07142857142857142
-unknown,FRANZ,M,,,"
+
+        
+",lustig-bi-de-wilde,14,1,0.383,0.07142857142857142
+58,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Endlig werde mir denn jetz g'rettet un kämme wieder uf
                         Milhüse z'ruck!....
                     
-",14,3,0.0,0.21428571428571427
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-bi-de-wilde,14,3,0.0,0.21428571428571427
+59,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Mitnander.
 
+          
+
             
 Mir wànn uf Milhüse fahre,
+
+            
 Uf dàr Insle-n-isch's nitt güet;
+
+            
 D'heim, das isch e Sach, e klare,
+
+            
 Isch doch 's Glick nur z'finde, 's wahre;
+
+            
 Drum gli furt dr Heimeth züe!
+
+            
 's Beste-n-isch's, was mir hàn z'thüe! 
 (bis)
+
+            
 Dert wird d'Hochzit g'macht derno,
+
+            
 Wil se nitt ka statt ha do!
 } bis
-",65,10,0.19747110467460352,0.15384615384615385
+
+          
+
+        
+",lustig-bi-de-wilde,65,10,0.19747110467460352,0.15384615384615385

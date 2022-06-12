@@ -1,111 +1,193 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,WALTHER,M,,,"
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Enfin, decidier Di... entweder hasch ne gern oder hasch
                         ne nitt gern... wenn De ne gern hasch, so hiroth ne;
                         mir wàr's recht... hasch ne-n-awer nitt gern, so will
                         ich Di wege dem doch nitt zwinge derzüe!
                     
-",41,6,0.6829923216316759,0.14634146341463414
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,41,6,0.6829923216316759,0.14634146341463414
+1,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Ich ha-n-en glaüb nitt ungern... awer eso ne Chineser
                         hirothe, Vater...
                     
-",14,2,0.8159371359063197,0.14285714285714285
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,14,2,0.8159371359063197,0.14285714285714285
+2,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 's isch jo kei Chineser... Dü weisch's wohl!
-",10,1,0.8732198670753948,0.1
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,10,1,0.8732198670753948,0.1
+3,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Sobol ass er eso ne Wàdele am Kopf hat hànke un eso
                         Moustaches as wie schwarze Schnier un wie ne Chineser
                         ag'legt isch, so isch's fir mich e Chineser!
                     
 
+          
+
             
 G'sang
+
+            
 Das Ding kàm mir chinesisch vor,
+
+            
 Wenn ich ne thàt hirothe,
+
+            
 Ich kännt ne doch, isch's jetz nitt wohr?
+
+            
 Nie packe-n-an de Hoor.
+
+            
 Was wott ich ihm üsrupfe,
+
+            
 Wenn's Strit gàb hi uns zwei,
 
-          
+            
+
+            
 Ich wàr üsg'setzt allei
+
+            
 Un er thàt dure schlupfe.
+
+            
 Fir ass d'Hiroth thüet g'linge,
+
+            
 Müess z'allererst druf hi
+
+            
 D' Paricke Fest als si,
+
+            
 Fir ass me güet ka ringe.
-",101,10,0.575434069303238,0.09900990099009901
-unknown,WALTHER,M,,,"
+
+          
+
+        
+",lustig-dr-fechtmeister,101,10,0.575434069303238,0.09900990099009901
+5,comedy,WALTHER,M,,,,"
             
 Walther.
+
+            
 
               
 Das Ding kunnt Dir chinesisch vor
+
+              
 Un doch sollsch ihn hirothe,
+
+              
 Er ka nochher, isch's jetz nitt wohr?
+
+              
 Lo wachse sine Hoor.
-",24,4,0.5028210368733247,0.16666666666666666
-unknown,WALTHER,M,,,"
+
+            
+
+          
+",lustig-dr-fechtmeister,24,4,0.5028210368733247,0.16666666666666666
+6,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Wenn ihr hirothe mitnander, so wird er wohrschinlig
                         abfahre mit sim Wàdele un sich wieder kleide wie
                         d'andere Lit!
                     
-",21,1,0.8004800063959762,0.047619047619047616
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,21,1,0.8004800063959762,0.047619047619047616
+8,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Was witt halt... er isch's g'wöhnt... siter im zehnte
                         Johr isch er jetz in China gsi.
                     
-",18,1,0.3111065596608406,0.05555555555555555
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,18,1,0.3111065596608406,0.05555555555555555
+9,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Warum haltsch Dü awer jetz eso an dere Hochzit... zeig,
                         Pape?
                     
-",12,1,0.8202091398626887,0.08333333333333333
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,12,1,0.8202091398626887,0.08333333333333333
+10,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Los, Kàtele... ich sott Dir's eigentlig nitt sage...
                         awer ich will Dir's jetz avertraüe, fir ass De siehsch,
                         ass es Di Intresse-n-isch, Di Cüsin z'hirothe... awer
                         versprich mir, ass De nieme nit sage witt!
                     
-",40,3,0.6218023153052088,0.075
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,40,3,0.6218023153052088,0.075
+11,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Güet, ich versprich's... was isch denn das fir e
                         G'heimniss?
                     
-",12,4,0.5444019024293992,0.3333333333333333
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,12,4,0.5444019024293992,0.3333333333333333
+12,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 De weisch, ass ich noch e Schwester g'ha ha, wo
                         g'storwe-n-isch grad 's Johr vor ebb mi Brüeder nach
                         China üsg'wandert isch... Di Cüsin, wo Dich jetz
                         hirothe will, isch sàllemol zeh Johr alt gsie und Dü
                         o... jetz sin ihr beide finfezwanzig.
                     
-",46,2,0.7828799948662963,0.043478260869565216
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,46,2,0.7828799948662963,0.043478260869565216
+14,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Wart nur... 's kunnt!... wo mi Schwester
                         g'storwe-n-isch, so isch se Wittfraü gsi un hat
                         zwanzigtaüsend Franke hinterlo un keine Kinder... un
@@ -113,26 +195,38 @@ Wart nur... 's kunnt!... wo mi Schwester
                         Testament g'macht, wo sàit, ass das Geld eüch zwei
                         g'hört, wenn ihr hirothe mitnander...
                     
-",52,8,0.678181000898721,0.15384615384615385
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,52,8,0.678181000898721,0.15384615384615385
+16,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Wart nur, 's isch no nitt ferig... im Fall awer, ass
                         eins vo-n-eüch 's andere nitt will, so bekunnt das, wo
                         nitt will, nit un 's Andere-n-alles!... verstehsch
                         jetz, worum ass ich dra halt?
                     
-",39,3,0.42796825763642937,0.07692307692307693
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,39,3,0.42796825763642937,0.07692307692307693
+17,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 's isch wohr... do bekàmt ich also nit, wenn ich thàt
                         nei sage...
                     
-",14,1,0.8235551257078202,0.07142857142857142
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,14,1,0.8235551257078202,0.07142857142857142
+18,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Dü weisch, wie mir stehn... im e Monet vo do sott ich in
                         de Zwanzigtaüsend Franke bezahle un wenn ich nitt ka,
                         was wohrschinlig dr Fall wird si, so verkaüft me mir e
@@ -142,17 +236,25 @@ Dü weisch, wie mir stehn... im e Monet vo do sott ich in
                     
 
           
-",56,2,0.6199539867035294,0.03571428571428571
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,56,2,0.6199539867035294,0.03571428571428571
+19,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Das Ding isch z'iwerlege... meinsch weisst er ebbes vo
                         dem Testament?
                     
-",13,1,0.594,0.07692307692307693
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,13,1,0.594,0.07692307692307693
+20,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Ich glaüb nitt, ass em si Vater ebbes wird g'sàit ha...
                         mr hàn ewe-n-abg'redt, ass mir eüch nit sage... De
                         siehsch, ich bi jetz im Fehler... awer unsere Position
@@ -161,147 +263,314 @@ Ich glaüb nitt, ass em si Vater ebbes wird g'sàit ha...
                         G'schàfte un thien awer glaüb mehr verliere-n-ass
                         g'winne derbi.
                     
-",61,8,0.6598307133652432,0.13114754098360656
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,61,8,0.6598307133652432,0.13114754098360656
+21,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Güet, ich will driwer nodenke...
-",6,1,0.8496361744517235,0.16666666666666666
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,6,1,0.8496361744517235,0.16666666666666666
+22,comedy,WALTHER,M,,,,"
           
 Walther.
+          
+          
 
             
 Hiroth jetz, mach mir d'Freid,
+
+            
 Denn bi dar G'legeheit
+
+            
 Machsch Dü Di Glick jetz do,
+
+            
 G'wiss wirsch Dü froh.
+
+            
 Gib Dü nur 's Wort im Franz,
+
+            
 D'Müsik b'stell ich züem Tanz,
+
+            
 Dü machsch Di Glick jetz do,
+
+            
 G'wiss wirsch Dü froh.
-",44,9,0.7457720662219524,0.20454545454545456
-unknown,KÀTELE,F,,,"
+
+          
+
+        
+",lustig-dr-fechtmeister,44,9,0.7457720662219524,0.20454545454545456
+24,comedy,KÀTELE,F,,,,"
             
 Kàtele.
 
+            
+
               
 Ich will Dir mache d'Freid
+
+              
 Un bi dàr Glegeheit
+
+              
 Mich jetz noch b'sinne do,
+
+              
 Eb's geht eso.
+
+              
 Sag noch kei Wort im Franz,
+
+              
 Denn ich weiss no nitt ganz,
+
+              
 Eb ich mi Glick jetz do
+
+              
 Z'weg bring eso.
-",42,6,0.5903060630928962,0.14285714285714285
-unknown,WALTHER,M,,,"
+
+            
+
+          
+",lustig-dr-fechtmeister,42,6,0.5903060630928962,0.14285714285714285
+25,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Mach, ass es uf e Weg geht... Do kunnt er glaüb grad...
                         er wird Di süeche... ich will jetz geh lüege, eg dunte
                         ne Sach in Ordnung isch
 (er geht üse rechts)
-",35,5,0.6214576766885858,0.14285714285714285
-unknown,KÀTELE,F,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,35,5,0.6214576766885858,0.14285714285714285
+26,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (allei, fir sich)
+
+          
 Also, das wo nitt will hirothe, bikunnt nit un 's
                         andere-n-alles?... Ich mach mi dervo, denn ich will mir
                         das Ding noch iwerlege
 (se geht üse links)
-",37,2,0.3536630682020609,0.05405405405405406
-unknown,SCHANG,M,domestic_worker,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,37,2,0.3536630682020609,0.05405405405405406
+27,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
+
+          
 (kunnt ine in de Socke, er hat Holzschüeh in dr Hand
                         mit Straü drin)
                     
+
+          
 Tiens... wo sin se denn jetz... ich ha doch höre rede..
                         denn ich ha express 's Ohr ans Schlisselloch g'hebt...
                        
 (er legt d'Holzschüeh a)
+ was mage se wieder üsg'macht
+                        ha do im g'heime?... siter ass dà Espèce Chineser do im
+                        Hüs isch, wird nur allewil complotiert in de-n-Ecke...
+                        ich ka nimmig g'nüe lose-n-an alle Thüre... un er
+                        agaciert mi efange, dà Chineser... wenn er
+                        Milhüserditsch redt, so mein i, 's isch chinesisch un
+                        redt er chinesisch, so mein i, 's isch
+                        Milhüserditsch... ich weiss als gar nimmig, wo-n-i dr
+                        Kopf ha... me möcht üs dr Hüt springe...
+                    
+
+          
 
             
 G'sang
+
+            
 Kännt ich chinesisch hit,
+
+            
 Wie wàr ich doch so froh,
+
+            
 's wàr mir abg'hulfe mit
+
+            
 Bi dem Chineser do.
 
-          
+            
+
+            
 Ich ka mich nitt vertrage
+
+            
 Mit ihm im gliche Hüs,
+
+            
 Thüet er mir ebbes sage,
+
+            
 So kumm ich gar nitt drüs!
+
+            
 O je! o je! o je!
+
+            
 Thüet er mir ebbes sage,
+
+            
 O je! o je! o je!
+
+            
 So kumm ich gar nitt drüs.
+
+            
 Diemol redt er mich a
+
+            
 «Schaü d'Sunn' schint scho schön Schang!»
+
+            
 Ich will eüch g'frogt jetz ha,
+
+            
 Eb's eim nitt wird ganz bang?
+
+            
 Ich ka mich etc....
+
+          
+
+          
 Er hat g'sàit, er heb e Kummission fir mi, ich soll
                             do ufe ku... er meint alleweg, ich ha sunscht nit
                             z'thüe as sine Kummissione z'mache... doch still...
                             do isch er glaüb
 (er geht in dr Hintergrund un springt alle Blick
                                 uf an dr Wand, fir Mucke s'fange)
-",192,15,0.638443555232689,0.078125
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,271,20,0.6447146682672903,0.07380073800738007
+28,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (kunnt ine rechts, fir sich)
+
+          
 Das sin ganz sunderbare Lit, mi Oncle un mi Cüsine!...
                         sie meine-n-alleweg, ich kumm fir die zwanzigtaüsend
                         Franke z'hirothe, ohne mi Glick derbi z'süeche
 (er
                         lipft d'Achsle)
+ 's Beste wird' si, ich mach mi Kuffer
+                        un gang wieder, wo-n-i her ku bi... ich ha jo jetz scho
+                        wieder g'sàh, wie's im Elsass züegeht... ich ha do grad
+                        e Souvenir, wo-n-i will mitnàh
 (er hat e Statüette, wo
                         d'Alsacienne druf isch, in dr Hand)
+ awer ich wird's
+                        miesse-n-in ebbes iwickle... in Straü oder Hài
+                        viellicht
 (er sieht dr Schang)
+ tiens, do isch jo dr
+                        Schang!... Schang, làng Hài!... 
 er zieht dr Kuffer
                             fire, stellt ne-n-uf dr Tisch un git si z'schaffe mit).
-",80,9,0.6047089564974643,0.1125
-unknown,SCHANG,M,domestic_worker,,"
+
+                    
+
+        
+",lustig-dr-fechtmeister,143,12,0.5936312897857968,0.08391608391608392
+29,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
+
+          
 (fir sich)
+
+          
 Hein... was sàit er?... jetz redt er wieder chine sisch;
                        
 (züem Franz)
-",19,2,0.4480805529839532,0.10526315789473684
-unknown,FRANZ,M,,,"
+ was bliebt?
+                    
+
+        
+",lustig-dr-fechtmeister,21,2,0.4480805529839532,0.09523809523809523
+30,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (mit sim Kuffer b'schàftigt)
+
+          
 Hài, Schang!
-",9,1,0.4743506503545591,0.1111111111111111
-unknown,SCHANG,M,domestic_worker,,"
+
+        
+",lustig-dr-fechtmeister,9,1,0.4743506503545591,0.1111111111111111
+31,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
+
+          
 (fir sich)
+
+          
 Schang-làng-Hài!... Hài-Schang!... er soll ditsch
                         rede!... weiss ich, was er will!...
 (er geht
                         hinte-n-üse)
-",23,1,0.4218104556133473,0.043478260869565216
-unknown,FRANZ,M,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,23,1,0.4218104556133473,0.043478260869565216
+32,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (fir sich)
+
+          
 Wenn ich's awer thàt in Watte-n-iwickle?... das wàr noch
                         besser... ich müess geh lüege, ass ich Watte find am
                         e-n-Ort
 (er geht use rechts)
-",36,3,0.33394965413891536,0.08333333333333333
-unknown,KÀTELE,F,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,36,3,0.33394965413891536,0.08333333333333333
+33,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (kunnt ine links)
+
+          
 Weisst's dr Cüsin vom Testament oder weisst er's
                         nitt?... das isch jetz d'Frog wenn er's nitt weisst, so
                         isch mi Entschluss g'fasst... ich mach, ass er mich
@@ -309,144 +578,283 @@ Weisst's dr Cüsin vom Testament oder weisst er's
                         Vater g'rettet... si Ehr geht vor mim Glick...
 (se
                         sieht dr Kuffer)
-",62,8,0.6428097543324447,0.12903225806451613
-unknown,FRANZ,M,,,"
+ tiens... er wird doch ebbe nitt scho
+                        am Ipacke si? Doch still, do kunnt er!
+                    
+
+        
+",lustig-dr-fechtmeister,77,9,0.6363182242680366,0.11688311688311688
+34,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (kunnt ine rechts , er hat e Pàckle Baüele im e
                         Papier ig'wickelt in dr Hand)
                     
+
+          
 Eh, tiens!... mi liewe Cüsine!... Dü machsch awer
                         e-n-ernsthaft G'sicht hit, Kàtele... isch Dr e
                         Spinne-n-iwer dr Weg g'loffe?
 (er legt si Pàckle-n-uf
                         dr Tisch)
-",51,7,0.5760845145828011,0.13725490196078433
-unknown,FRANZ,M,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,51,7,0.5760845145828011,0.13725490196078433
+36,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Ganz un gar nitt!... obscho Dü mich glaüb nitt gross
                         thàtsch z'ruckhalte... mit allem dem, los, Kàtele,
                         wàr's besser, wenn Dü mir thàtsch jetz emol ufrichtig
                         nei sage, wenn Dü mich nitt hirothe witt...
                     
-",37,6,0.7033821560831638,0.16216216216216217
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,37,6,0.7033821560831638,0.16216216216216217
+37,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (fir sich)
+
+          
 Er weisst 's un will mich mache z'refüsiere!
-",14,1,0.4218104556133473,0.07142857142857142
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,14,1,0.4218104556133473,0.07142857142857142
+38,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 's wàr awer g'wiss' schad, denn mir thäte doch g'wiss
                         glicklig werde mitnander...
                     
-",14,4,0.60553345998336,0.2857142857142857
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,14,4,0.60553345998336,0.2857142857142857
+39,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (fir sich)
+
+          
 Nei... er weisst's nitt!
-",10,1,0.4218104556133473,0.1
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,10,1,0.4218104556133473,0.1
+40,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Ich uf jedefall refüsier nitt...
-",6,2,0.5941753251772796,0.3333333333333333
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,6,2,0.5941753251772796,0.3333333333333333
+41,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (fir sich)
+
+          
 Doch, er weisst's!
-",9,1,0.4218104556133473,0.1111111111111111
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,9,1,0.4218104556133473,0.1111111111111111
+42,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Wil ich weiss, ass uns're-n-Eltre Freid dra hätte, un
                         wil ich Dich gern ha.
                     
-",17,6,0.6297624844036124,0.35294117647058826
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,17,6,0.6297624844036124,0.35294117647058826
+43,comedy,KÀTELE,F,,,,"
           
 Kàtele
+
+          
 (fir sich)
+
+          
 Décidément, er weisst's nitt!... ich will ne jetz scho
                         mache refüsiere!
 (lüt)
-",20,2,0.5745498705939192,0.1
-unknown,FRANZ,M,,,"
+ los, Franz, ich will scho, awer
+                        ich müess Dir g'steh, ass ich e famos eigesinniger
+                        Charakter ha.
+                    
+
+        
+",lustig-dr-fechtmeister,37,4,0.6239396371099245,0.10810810810810811
+44,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Ah so!
-",3,1,0.4743506503545591,0.3333333333333333
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,3,1,0.4743506503545591,0.3333333333333333
+45,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Un jalouse bin i!...
 (se geht mit dr Füst uf en los)
+ ich
+                        thàt Dich grad verkratze, wenn Dü nur uf d'Site thàtsch
+                        lüege!...
+                    
+
+          
 
           
 
             
 G'sang
+
+            
 Wenn ich will in d'Eh',
+
+            
 Müess es immer geh
+
+            
 Tàglig bi uns zwei
+
+            
 No mim Kopf allei.
+
+            
 Ich will 's G'setz üsgà,
+
+            
 Niene derf nit g'schàh,
+
+            
 Vor ebb ich derzüe
+
+            
 «Jo» sage thüe.
-",52,6,0.6873723831072488,0.11538461538461539
-unknown,KÀTELE,F,,,"
+
+          
+
+        
+",lustig-dr-fechtmeister,65,8,0.6921999305865392,0.12307692307692308
+46,comedy,KÀTELE,F,,,,"
             
 
               
 Un kei Schritt als meh
+
+              
 Derf mi Mann üsgeh,
+
+              
 Vor ebb ich derzüe
+
+              
 « Jo » sage thüe.
-",18,1,0.6823910126043574,0.05555555555555555
-unknown,FRANZ,M,,,"
+
+            
+
+          
+",lustig-dr-fechtmeister,18,1,0.6823910126043574,0.05555555555555555
+47,comedy,FRANZ,M,,,,"
             
 Franz.
 
+            
+
               
 Das isch licht z'versteh,
+
+              
 Ich verzicht uf d'Eh',
+
+              
 's brücht nit meh derzüe,
+
+              
 Ich weiss genüe!
-",19,5,0.5904555926717358,0.2631578947368421
-unknown,FRANZ,M,,,"
+
+            
+
+          
+",lustig-dr-fechtmeister,19,5,0.5904555926717358,0.2631578947368421
+48,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 So... so!...
 (fir sich)
-",7,2,0.4480805529839532,0.2857142857142857
-unknown,WALTHER,M,,,"
+ ich sich jetz scho, was los
+                        isch... se hat 's Geld liewer as mich...
+                    
+
+        
+",lustig-dr-fechtmeister,21,5,0.668198035051425,0.23809523809523808
+49,comedy,WALTHER,M,,,,"
           
 Walther
+
+          
 (kunnt hinte-n-ine)
+
+          
 Was hör i... ich glaüb, ihr dispetiere mitnander?...
-",15,2,0.8149404416770066,0.13333333333333333
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,15,2,0.8149404416770066,0.13333333333333333
+50,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Dü kunnsch grad recht, Oncle... ich ha-n-ebbes mit Dir
                         z'rede... grad hat mr 's Kàtele verzählt, was es fir e
                         schlechter Charakter hat... hingege müess ich 
-
-          
+g'steh,
+                        ass ich 's Testament vo dr Tante, mit allem was drin
+                        steht, ganz güet kenn... ich ha's dur e Züefall
+                        erfahre, mi Vater hätt mir's nie g'sàit...
 (züem
                         Katele)
+ De brüchsch awer kei Angst z'ha... ich
+                        renoncier... b'halt Dü in dr Tante-n-ihre Geld un ich
+                        b'halt mi Herz!... Adie!...
 (er geht gege dr Thüre)
-",41,7,0.48307314504153387,0.17073170731707318
-unknown,WALTHER,M,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,94,17,0.5659406731076349,0.18085106382978725
+51,comedy,WALTHER,M,,,,"
           
 Walther
+
+          
 (züem Franz)
+
+          
 E-n-Aügesblick... ich ka-n-eüch nitt eso üsnander lo
                         geh, denn ich merk jetz scho, was mag vorgange si... 's
                         Kàtele hat sich sacrificiert fir mich z'rette... De
@@ -457,168 +865,318 @@ E-n-Aügesblick... ich ka-n-eüch nitt eso üsnander lo
                         z'biku, hat 's Kàtele Dich welle mache si Hand
                         z'refüsiere...
                     
-",88,7,0.4326805612403137,0.07954545454545454
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,88,7,0.4326805612403137,0.07954545454545454
+52,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (kunnt z'ruck un nimmt im Kàtele si Hand)
+
+          
 Isch's möglig, Kàtele!... worum hasch mir's awer nitt
                         glich g'stande... wenn mir o hirothe mitnander, so
                         känne mir jo doch das Geld awende, fir im Vater si
                         Schuld z'zahle.
                     
-",44,8,0.5629241180912248,0.18181818181818182
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,44,8,0.5629241180912248,0.18181818181818182
+53,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Merci, Franz... awer wenn im Vater si Schuld o zahlt
                         wàr, so thàt ihm doch nit bliwe-n-un ich ha mich nitt
                         känne-n-entschliesse, ihn z'verlo im Unglick...
                     
-",32,4,0.45907938623322325,0.125
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,32,4,0.45907938623322325,0.125
+54,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Bàh, bàh, bàh... bekümmere-n-ihr eüch nitt um mich...
                         ich will mich scho do drüs zieh!... ihr sin brave
                         Kinder un werde g'wiss glicklig mitnander... mach nur
                         Di Kuffer wieder absite, Franz...
 (er sieht 's Pàckle
                         Baüele nàwe-n-emKuffer)
+ tiens!... was isch das fir e
+                        Papier mit mim Name druf
 (er macht's uf)
-",50,7,0.7548950197927196,0.14
-unknown,FRANZ,M,,,"
+ eh... trumpier
+                        ich mich nitt... do isch se jo jetz, mi Lehnung, wo mir
+                        eweg ku isch... wie kunnt jetz das Ding do ane?...
+                    
+
+        
+",lustig-dr-fechtmeister,85,11,0.6535863434086425,0.12941176470588237
+55,comedy,FRANZ,M,,,,"
           
 Franz.
+
+          
 Ich ha's grad awebrocht... 's isch in mim Kastefüess
                         g'lege... ich ha-n-ebbas welle-n-iwickle mit dàre
                         Baüele...
                     
-",22,2,0.5868578982016898,0.09090909090909091
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,22,2,0.5868578982016898,0.09090909090909091
+57,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Mir sin g'rettet, Kàtele!... do steht schwarz uf wiss,
                         ass ich zahlt ha...
                     
 
+          
+
             
 G'sang
+
+            
 Wenn 's Herz mir so bang
+
+            
 Als klopft hat scho lang,
+
+            
 So ha-n-ich g'wisst leider
+
+            
 Worum als ganz güet;
+
+            
 Doch jetz wird's jo heiter
+
+            
 Un wohl isch's mir z'Müeth,
-",49,10,0.6632355356992544,0.20408163265306123
-unknown,WALTHER,M,,,"
+
+          
+
+        
+",lustig-dr-fechtmeister,49,10,0.6632355356992544,0.20408163265306123
+58,comedy,WALTHER,M,,,,"
             
 Walther.
 
+            
+
               
 Denn g'heilt isch, die Wunde,
+
+              
 Dr Schin isch jetz g'funde 
 (bis)
+
+              
 Un wohl isch's mir z'Müeth.
+
+              
 Dr Schin isch jetz g'funde
+
+              
 Un wohl isch's mir z'Müeth.
-",33,5,0.690995776351196,0.15151515151515152
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+            
+
+          
+",lustig-dr-fechtmeister,33,5,0.690995776351196,0.15151515151515152
+59,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Franz un Kàtele.
 
+            
+
               
 Denn g'heilt isch die Wunde,
+
+              
 Dr Schin isch jetz gfunde 
 (bis)
+
+              
 Un wohl isch's ihm z'Müeth,
+
+              
 Dr Schin isch jetz g'funde
+
+              
 Un wohl isch's ihm z'Müeth.
-",35,6,0.6548882553517565,0.17142857142857143
-unknown,SCHANG,M,domestic_worker,,"
+
+            
+
+          
+",lustig-dr-fechtmeister,35,6,0.6548882553517565,0.17142857142857143
+60,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
+
+          
 (kunnt hinte-n-ine ku z'laüfe mit eme Bund Hài un e
                         Brief)
                     
+
+          
 Hài hat er welle!... 's isch mr erst nochher iku...
                         Schang làng Hài... das isch jo Milhüserditsch un nitt
                         chinesisch... enfin, me ka sich jo trumpiere...
 (er
                         geht gege-n-em Franz)
+ do, Kerr Chineser!
 (er hebt em 's
                         Hài ane)
-",59,5,0.4110760091026009,0.0847457627118644
-unknown,WALTHER,M,,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,62,5,0.4110760091026009,0.08064516129032258
+61,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 Schang... zeig, kumm do ane... was isch das fir Baüele
                         do?...
                     
-",12,2,0.464787038929485,0.16666666666666666
-unknown,SCHANG,M,domestic_worker,,"
+
+        
+",lustig-dr-fechtmeister,12,2,0.464787038929485,0.16666666666666666
+62,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
+
+          
 Das?... Das isch mi Baüele fir in d'Ohre, wenn ich als
                         Zahnweh ha... wer hat mir se-n-üsg'fiehrt?...
                     
-",21,1,0.4218104556133473,0.047619047619047616
-unknown,SCHANG,M,domestic_worker,,"
+
+        
+",lustig-dr-fechtmeister,21,1,0.4218104556133473,0.047619047619047616
+64,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
+
+          
 Jà do!... das weiss ich nimmig... 's isch scho gar lang,
                         ich glaüb, 's isch emol uf em Tisch g'lege-n-oder uf em
                         Secretaire...
                     
-",26,4,0.6963522398559929,0.15384615384615385
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,26,4,0.6963522398559929,0.15384615384615385
+65,comedy,WALTHER,M,,,,"
           
 Walther.
+
+          
 C'est ça... un do hasch Dü's gli miesse nàh, fir Di
                         Baüele dri iz'wickle... Dü Tippel!
                     
-",18,1,0.4218104556133473,0.05555555555555555
-unknown,KÀTELE,F,,,"
+
+        
+",lustig-dr-fechtmeister,18,1,0.4218104556133473,0.05555555555555555
+66,comedy,KÀTELE,F,,,,"
           
 Kàtele.
+
+          
 Dü müesch em verzeihe, Vater... De weisch jo, ass me
                         scho g'schosse hat an sinre Tàifete!... d'Haüptsach
                         isch, ass mr die Lehnung wieder g'funde hàn...
                     
-",27,2,0.7748708312415904,0.07407407407407407
-unknown,WALTHER,M,,,"
+
+        
+",lustig-dr-fechtmeister,27,2,0.7748708312415904,0.07407407407407407
+67,comedy,WALTHER,M,,,,"
           
 Walther
+
+          
 (züem Schang)
+
+          
 Un do... was hasch do in dr Hand
 (er zeigt uf dr
                         Brief)
-",20,1,0.714,0.05
-unknown,SCHANG,M,domestic_worker,,"
+.
+                    
+
+        
+",lustig-dr-fechtmeister,20,1,0.714,0.05
+68,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
+
+          
 Das... das isch e Brief, wo dr Facteur grad brocht
                         hat.
                     
-",12,1,0.6993651460488204,0.08333333333333333
-unknown,FRANZ,M,,,"
+
+        
+",lustig-dr-fechtmeister,12,1,0.6993651460488204,0.08333333333333333
+69,comedy,WALTHER,M,,,,"
+          
+Walther.
+
+          
+Worum gisch ne denn nitt
+(er nimmt's em)
+ tiens, er isch
+                        fir dr Franz... das isch e possiger Stàmpfel... wie
+                        heisst eüer Ort wieder... Son... Son...
+                    
+
+        
+",lustig-dr-fechtmeister,30,4,0.6625402764919767,0.13333333333333333
+71,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (züem Walther)
+
+          
 Son-tàï...
 (er nimmt dr Brief un liest en)
-",15,1,0.4743506503545591,0.06666666666666667
-unknown,SCHANG,M,domestic_worker,,"
+.
+
+        
+",lustig-dr-fechtmeister,15,1,0.4743506503545591,0.06666666666666667
+72,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
+
+          
 (züem Franz)
+
+          
 Merci, Herr Chineser!...
 (fir sich)
-",12,3,0.49162335260449247,0.25
-unknown,FRANZ,M,,,"
+ er civilisiert si
+                        efange, dr Chineser..., vor vierzeh Tàg hätt er eim no
+                        nitt «G'sundheit» g'sàit, we me g'niesst hätt!...
+                    
+
+        
+",lustig-dr-fechtmeister,34,5,0.6007700571911619,0.14705882352941177
+73,comedy,FRANZ,M,,,,"
           
 Franz
+
+          
 (ufg'regt)
+
+          
 Jetz, Kàtele, bruche mir keine Sorge meh z'ha... un nit
                         steht meh in unsrer Hiroth im Weg... 's isch e Brief vo
                         mim Vater, wo sàit, ass er wieder ins Elsass
@@ -626,21 +1184,45 @@ Jetz, Kàtele, bruche mir keine Sorge meh z'ha... un nit
                         mit eme grossartige G'schàft, wo-n-im Gang gsi isch
                         siter ebbes Zit!
                     
-",59,7,0.5765653887299241,0.11864406779661017
-unknown,SCHANG,M,domestic_worker,,"
+
+        
+",lustig-dr-fechtmeister,59,7,0.5765653887299241,0.11864406779661017
+74,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
+
+          
 Das isch nitt chinesisch!... wenn ebber Chance hat, so
                         isch's doch g'wiss dr Chineserfranz!...
                     
 
+          
+
             
 G'sang
+
+            
 's Glick, das isch rar,
+
+            
 Nur selte lacht's eim jo;
+
+            
 Drum müess me's halt,
+
+            
 Wenn's kunnt, nitt fahre lo,
+
+            
 Wer sich drum scheert
+
+            
 Un 's nitt will süeche do,
+
+            
 Dà isch's Glick nitt werth.
-",55,10,0.5693591944204176,0.18181818181818182
+
+          
+
+        
+",lustig-dr-fechtmeister,55,10,0.5693591944204176,0.18181818181818182

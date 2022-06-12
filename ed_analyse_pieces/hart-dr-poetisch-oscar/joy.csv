@@ -1,676 +1,1949 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+1,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Nur noch en Auesblick, Mamme. D’r letscht « Reim » zue mimm Gedicht kummt m’r nit in. 
           
-",18,2,0.4119999999999999,0.1111111111111111
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+(Deklamiert)
+
+          
+
+            
+In dem himmlischen Gefilde
+
+            
+Schwebet Luna hoch und hehr;
+
+            
+Königin der Sterngebilde….
+
+          
+Weisch dü nix, wie zue « hehr » passt?
+
+        
+",hart-dr-poetisch-oscar,42,5,0.2786509654636594,0.11904761904761904
+3,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ei hehr isch doch hoch, erhawe, majestätisch. Kennsch denn dü dies Wort nit?
-",14,4,0.3457318086462728,0.2857142857142857
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+
+        
+",hart-dr-poetisch-oscar,14,4,0.3457318086462728,0.2857142857142857
+5,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (entsetzt):
+
+          
 Lina, nee awer Mamme, ich red doch vun d’r Luna, dies isch jo d’r Mond. 
           
-",19,2,0.20599999999999996,0.10526315789473684
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+(Zue Schakob, der in d’r Dier erschiene isch):
+ Zaij, Schakob, bring m’r e schwarzer
+          Kaffee uf dene Schrecke. 
+          
+(Schakob ab.)
+
+        
+",hart-dr-poetisch-oscar,43,5,0.1918,0.11627906976744186
+6,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Dies haw ich jetzt wieder nit gewisst, dass de Mond e su heisst. Awer Lina, oder Luna, dies isch
           g'hüpst wie g’sprunge; ich find, Oscar, es wär besser dü dätsch e mol e Gedicht üwer d’ Suzanne
           mache.
-",40,2,0.206,0.05
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,40,2,0.206,0.05
+7,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Uewer d’ Suzanne? Do käm ich schoen an; dies dät mich nit üwel üsslache; ebs unpoetischeres als d’
           Suzanne git’s üewerhaupt in d’r ganze Welt nit.
-",28,2,0.4315,0.07142857142857142
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,28,2,0.4315,0.07142857142857142
+8,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 D’ Suzanne isch e verständigs Maidel, un grad will’s ken so hochi Gedanke im Kopf het wie dü, täts
           am allerbeschte zue d’r passe. Lüej, Oscar, bim Suzanne
           
-",31,3,0.0,0.0967741935483871
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+wärsch dü guet uffg'hebt. Es het Vermöje, es wär e Frau for ’s G’schäft, es versteht d’
+          Hüshaltung….
+
+        
+",hart-dr-poetisch-oscar,49,6,0.2154884576723947,0.12244897959183673
+9,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Mamme, hör uf oder ich lauf furt. Red m’r denn in de Lieb vum Vermöje, un wenn m’r eini lieb het,
           denkt m’r denn dran, ob se ’n e G’schäftsfrau isch, ob se ’n ebs vun d’r Hüshaltung versteht?
-",40,5,0.6584427741568945,0.125
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,40,5,0.6584427741568945,0.125
+10,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Verifer dich net, Oscar. Dass m’r in d’r Poesie an e so ebs nit denkt, dis weiss ich wohl, do tuets
           e jedi Zigienere, wenn se nur schoeni Aue het. Awer im wirikliche Läwe un wenn sich ’s um ’s Hieroote
           handelt, do muess m’r doch zuem allererschte an dies denke. Un weisch, mit’m Suzanne kännsch de grad e
           so furtläwe wie dü’s gewohnt bisch. Owets, nooch’m Nachtesse kännsch dinni Gedichtle mache, kännsch wie
           jetz e jeds Johr hie in dies Hotel kumme un e paar Wuche ganz in dinre Poesie läwe, — d’ Suzanne tät
           d’r gewiss ken Stein in de Weij leije.
-",109,10,0.22353917240022456,0.09174311926605505
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,109,10,0.22353917240022456,0.09174311926605505
+11,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ihr verstehn mich alli mitenander nit. Was ich suech, isch e G’fährtin, e Seel, wie mit mir ringt,
           liedt un strebt, e Herz wie sich sehnt, wie suecht, un au besoin, still mit mim Herze verbluete
           kann.
-",38,6,0.38833333333333336,0.15789473684210525
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,38,6,0.38833333333333336,0.15789473684210525
+12,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Geh, Oscar, red kenn so schrecklichi Sache; m’r kreijt jo e Heideangscht.
-",14,1,0.242,0.07142857142857142
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,14,1,0.242,0.07142857142857142
+13,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ja, Mamme, e Poet isch allewiel trürig; « Poesie ist tiefes Schmerzen ». 
           
-",14,5,0.22799999999999992,0.35714285714285715
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+(Zuem Schakob, der in d’r Dier erschient):
+ Kummt d’r Kaffee ball, Schakob?
+
+        
+",hart-dr-poetisch-oscar,28,5,0.22799999999999992,0.17857142857142858
+14,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ei, Ihr were warte kenne 
           
-",6,1,0.0,0.16666666666666666
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,9,1,0.0,0.1111111111111111
+15,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Dass dü awer jetzt grad dis trürig Talent müesch han. Hättsch doch liewer ebs vun Müsik verstande un
           wärsch Compositeur wore, do wärsch doch luschtig gebliewe d’rbie.
-",30,6,0.4361384118065175,0.2
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN
+
+        
+",hart-dr-poetisch-oscar,30,6,0.4361384118065175,0.2
+17,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN
+
+          
 (gähnt):
+
+          
 M’r kann doch nit de ganze Daa schloofe, Am niene gehn m’r jo schun in ’s Bett, am aachte schtehn
           m’r uff, do haw ich noch em Esse gar kenn Schloof meh.
-",37,2,0.47050000000000003,0.05405405405405406
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,37,2,0.47050000000000003,0.05405405405405406
+18,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Sie ambetiere sich e bissel, nit wohr? Awer dies Läwe schlaat ne guet an. Sie wäre alle Daa jünger;
           erscht gescht bin ich g’fröjt wore wie alt as Sie sin, un wie ich g’sait hab vierzi, do…
-",39,5,0.3502825474502037,0.1282051282051282
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,39,5,0.3502825474502037,0.1282051282051282
+19,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Achtedrissig. Bscht! Sie brüche uewerhaupt dies nit e so lütt ze sawe ich glaub, Ihr Sohn isch do
           drüsse.
-",21,2,0.2369335631118962,0.09523809523809523
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,21,2,0.2369335631118962,0.09523809523809523
+20,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 D’r Oscar hört nix, der macht e Gedicht, er het’s grad mit em Mond ze tuen. Un was ich hab saawe
           welle, — ja richtig — die Person wie mich g’fröjt het, die het g’sait, ihr Lebdaa hätt se nit gedenkt,
           dass Sie schun vierzi sin, sie het Sie for d’ ältscht Schweschter vun Ihrer Nièce g'halte.
-",60,5,0.29359999999999997,0.08333333333333333
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN
+
+        
+",hart-dr-poetisch-oscar,60,5,0.29359999999999997,0.08333333333333333
+21,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN
+
+          
 (g’schmeichelt):
+
+          
 Och, was meine Sie, Mme Schweberle. In de Läde wor ich als noch Mademoiselle tituliert, un ererscht
           d’ vorig Wuch het mer minni Stundefrau verzählt, d’r Herr Summer, d’r Locataire vum erschte Stock, het
           se g’fröjt, was dies fer e jungi Mamsell isch, wie im troisième loschiert?
-",52,5,0.1848,0.09615384615384616
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,52,5,0.1848,0.09615384615384616
+23,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Meine Sie?
-",4,1,0.0,0.25
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,4,1,0.0,0.25
+24,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Ei natierlich, er word doch Sie nit meine, wenn er vun ere junge Mamsell red. Sie sin jo noch guet
           konserviert, un vun wittem halt m’r Sie au noch fuer jung, awer bilde Sie sich jo nit in, dass Sie
           met’m Suzanne konkuriere kenne, do wärte Se’n uf’m Holzweij.
-",53,6,0.3151194792083159,0.11320754716981132
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,53,6,0.3151194792083159,0.11320754716981132
+25,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Han Sie nuer kenn Angscht, Mme Schweberle, ich brüch m’r e so ebs net inzebilde; es git Männer
           genue, denne e Frau von minne Johre, vun minnere G’schtalt vun mim 
           
-",32,3,0.14599999999999996,0.09375
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+savoir-vivre
+ besser g'fallt als e Gänsel vun zwanzig Johr.
+
+        
+",hart-dr-poetisch-oscar,41,3,0.14599999999999996,0.07317073170731707
+27,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Welle Sie mich am End beleidige?
-",8,1,0.0,0.125
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,8,1,0.0,0.125
+28,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Ne, ne, Mme Lewermann, ich wott numme nit, dass Sie sich lächerlich mache.
-",15,1,0.0,0.06666666666666667
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,15,1,0.0,0.06666666666666667
+31,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Was krische denn er e so?
-",8,1,0.0,0.125
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,8,1,0.0,0.125
+35,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Ah min Sohn, er esch jetz grad nit do, was welle’n Ihr denn mit’m?
-",17,1,0.0,0.058823529411764705
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,17,1,0.0,0.058823529411764705
+37,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Was han mer grad geredt?
-",7,1,0.0,0.14285714285714285
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,7,1,0.0,0.14285714285714285
+39,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Ich mein vum Suzanne.
-",6,1,0.0,0.16666666666666666
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,6,1,0.0,0.16666666666666666
+40,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ja un vum Oscar.
-",6,1,0.7279999999999999,0.16666666666666666
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,6,1,0.7279999999999999,0.16666666666666666
+41,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Es isch doch au Ihr Wunsch, dass die zwei e Paar wäre?
-",14,1,0.3796558670394256,0.07142857142857142
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,14,1,0.3796558670394256,0.07142857142857142
+42,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Gewiss, ich tät’s jo so gere sehn wie Sie. Awer ich muess Ihne doch saawe, d’ Suzanne het noch e
           prétendant, d’r Herr Brey; Sie kenne ne jo.
-",31,3,0.0,0.0967741935483871
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,31,3,0.0,0.0967741935483871
+43,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
+Der isch doch viel ze alt for ’s Suzanne. Awer 
+          
+raison de plus
+, dass mer die Sach in Ordnung bringe. Finde Sie nit au, dass
+          es gar nit vorwärts geht mit ne?
+
+        
+",hart-dr-poetisch-oscar,34,1,0.0,0.029411764705882353
+44,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 D’ Suzanne findt den Oscar halt zue uewerschwänglich.
-",10,1,0.0,0.1
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,10,1,0.0,0.1
+45,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Un er, d’r Oscar, findt d’ Suzanne ze nuechtere. Könnte Sen’m denn nit e Wink genn, dass es e bissel
           poetischer soll sin mit em?
-",28,1,0.0,0.03571428571428571
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,28,1,0.0,0.03571428571428571
+46,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Saawe Sie doch liewer em Oscar, er soll e bissel prosaischer sin.
-",14,1,0.8355101093653782,0.07142857142857142
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,14,1,0.8355101093653782,0.07142857142857142
+47,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 D’r Oscar losst sich vun mer gar nix saawe; awer wisse Sie was? Sie könnte emol mit em rede, ich hab
           schun oft bemerikt, Sie han e grosser Influss uf ’ne. Sie könnte e bissel am stupfe, dass er sich
           ehnder decidiert.
-",44,2,0.2735,0.045454545454545456
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,44,2,0.2735,0.045454545454545456
+48,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Diss will ich gern tuen, awer ob ich ebs üssricht?
-",12,1,0.547,0.08333333333333333
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,12,1,0.547,0.08333333333333333
+49,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Seie Sie stille, do kummt er grad. Sie kenne glich mit’m rede, Ich geh einschtwiele nuf in mini
           Stub. Au revoir, Madame, un gueti Verrichtung.
-",28,4,0.2796792188124739,0.14285714285714285
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,28,4,0.2796792188124739,0.14285714285714285
+50,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Na, Monsieur Oscar, han Sie Ihr Gedicht fertig?
-",10,1,0.412,0.1
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,10,1,0.412,0.1
+51,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Nee, ich wor noch ganz e Narr druewer; ich find als noch nix wie zue « hehr » passt.
-",20,4,0.0985,0.2
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,20,4,0.0985,0.2
+53,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 MEER? Meer? Ja wahrhaftig, ich glaub dies geht. 
           
-",9,3,0.5099557087412641,0.3333333333333333
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+(Denkt noch)
+ Es geht, prächtig. 
+          
+(Denkt wieder noch, d’rno freidig):
+ Es isch gange. 
+          
+(Deklamiert)
+:
+          
+
+            
+In dem himmlischen Gefilde
+
+            
+Schwebet Luna hoch und hehr;
+
+            
+Königin der Sterngebilde
+
+            
+Thront sie über’m Wolkenmeer.
+
+          
+
+        
+",hart-dr-poetisch-oscar,47,6,0.49477129078032256,0.1276595744680851
+54,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 O wie schön.
-",5,1,0.7527279085677913,0.2
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,5,1,0.7527279085677913,0.2
+55,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Un Sie han m’r wieder d’rzue verholfe, Madame Lewermann, Sie ellein verstehn min poetisch Empfinde. 
           
-",17,3,0.0,0.17647058823529413
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+Vous êtes ma muse
+.
+
+        
+",hart-dr-poetisch-oscar,21,3,0.0,0.14285714285714285
+57,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ach, Mme Lewermann, wenn ich’s numme wär, awer ich bin noch witt vom Apollon weg. Wenn Sie wisste,
           wie sehr ich mich nooch’m e reinere, schönere Läwe sehn, wo ich ganz in Poesie getaucht, nuer seelischi
           Rejunge empfinde könnt.
-",42,8,0.23769671930171804,0.19047619047619047
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,42,8,0.23769671930171804,0.19047619047619047
+58,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ach, dies kann ich Ihne noochfühle, Herr Oscar, m’r het oft dies irdisch Lewe e so satt, m’r wott
           sich emporschwinge in höheri Regione...
-",26,3,0.13756528733370763,0.11538461538461539
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+
+        
+",hart-dr-poetisch-oscar,26,3,0.13756528733370763,0.11538461538461539
+63,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (geht nehder zue ihre):
+
+          
 Wenn ich doch denne Schwan finde könnt, Mme Lewermann.
-",16,2,0.172,0.125
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN
+
+        
+",hart-dr-poetisch-oscar,16,2,0.172,0.125
+64,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN
+
+          
 (ganz nod bie em):
+
+          
 Oder ich denne Adler, Herr Oscar.
-",14,2,0.197,0.14285714285714285
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,14,2,0.197,0.14285714285714285
+65,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Wie däte m’r do neji Fluejel wachse?
-",8,1,0.0,0.125
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,8,1,0.0,0.125
+66,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Wie dät min Herz sich begeischtere.
-",8,1,0.547,0.125
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB
+
+        
+",hart-dr-poetisch-oscar,8,1,0.547,0.125
+67,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB
+
+          
 (der immer nehder kumme ’n isch, dicht vor alle zwei):
+
+          
 Herr! 
           
-",14,3,0.11466666666666665,0.21428571428571427
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+(Sie fahre üsenander.)
+
+        
+",hart-dr-poetisch-oscar,19,3,0.11466666666666665,0.15789473684210525
+68,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (wuetig):
+
+          
 Was bruehlsch denn dü e so?
-",10,1,0.0,0.1
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,10,1,0.0,0.1
+70,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Was isch denn los?
-",5,1,0.6097004771618698,0.2
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,5,1,0.6097004771618698,0.2
+74,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Dies isch alles? Scheer dich zuem Kückück mit dinne dumme Fröje. Ich hab g’saijt, schwarze Kaffee
           will ich, verstande.
-",20,3,0.34366666666666673,0.15
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,20,3,0.34366666666666673,0.15
+75,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ja, Herr. Awer, awer 
           
-",5,2,0.36399999999999993,0.4
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+(kratzt sich hinterm Ohr)
+ es isch e jeder Kaffee schwarz 
+          
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,20,3,0.24266666666666661,0.15
+76,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Dauwer Simpel, eine so ze derangiere. 
           
-",7,1,0.516,0.14285714285714285
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+(Zue Madame Lewermann)
+ Vun was han mer denn grad geredt g'het?
+
+        
+",hart-dr-poetisch-oscar,20,3,0.17200000000000001,0.15
+78,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Nee, ich bin ganz verwirrt, ich kumm nimmi drüss.
-",10,3,0.13133333333333333,0.3
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,10,3,0.13133333333333333,0.3
+79,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ich glaub, m’r hen grad vum Suzanne geredt.
-",10,2,0.2369335631118962,0.2
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,10,2,0.2369335631118962,0.2
+81,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 M’r hann g’sait, dass es e netti, artligi, g’sundi Mamsell isch, wie in alle Stuecke zue Ihne passe
           tät.
-",21,3,0.15633333333333332,0.14285714285714285
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,21,3,0.15633333333333332,0.14285714285714285
+82,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ja, zell isch wohr, wenn’s numme e bissel meh geischtige Schwung hät, wenn ’s nit e so 
           
-",19,4,0.3514395125463097,0.21052631578947367
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+terre à terre
+ wär.
+
+        
+",hart-dr-poetisch-oscar,23,4,0.3514395125463097,0.17391304347826086
+83,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ja, d’ Suzanne steht ze fescht uf’m Bode; sinner Geischt kann nit in d’ Höh flieje; es esch wie e
           Hüehnel, wie nit höcher kummt als sinner Hüehnerkorb.
-",31,5,0.358,0.16129032258064516
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,31,5,0.358,0.16129032258064516
+84,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Wie oft haw ich’s schun flieje lehre welle, awer es will nit. Ihm isch wohl drunte in sim
           Hüehnerhoft.
-",21,2,0.2735,0.09523809523809523
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,21,2,0.2735,0.09523809523809523
+85,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ja, es git Litt, die gackere liewer als dass sie singe.
-",13,3,0.7181700364551261,0.23076923076923078
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE
+
+        
+",hart-dr-poetisch-oscar,13,3,0.7181700364551261,0.23076923076923078
+86,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE
+
+          
 (läbhaft un nadierlich, kummt vom Freie erin; d’ Händ voll Blüeme):
+
+          
 Tante, luej emol die schöne Blueme, wie ich g’funde hab.
-",24,6,0.3933614977845843,0.25
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,24,6,0.3933614977845843,0.25
+88,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Nee, um ’s Hüss erum, im Feld, hinte im Garte, uewerall wachse se, ganzi Hiffe haw’ ich
           abgerupft.
-",19,3,0.3176666666666667,0.15789473684210525
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,19,3,0.3176666666666667,0.15789473684210525
+89,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Wart, ich hol e paar Wase, noo rangiere m’r se nin 
           
-",13,2,0.258,0.15384615384615385
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,16,2,0.258,0.125
+90,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Wenn Sie numme wisste, was Sie for e nettes Bild abgenn, mit alle denne Blueme, Mamsell Suzanne. Sie
           sehn üss, wie e Waldfee.
-",24,2,0.25868316242248623,0.08333333333333333
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,24,2,0.25868316242248623,0.08333333333333333
+91,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Jetz drechsle Sie schun wieder Komplimente, helfe Sie m’r liewer die Blueme arrangiere. 
           
-",14,3,0.4509588114034502,0.21428571428571427
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+(Oscar helft.)
+ Awer schicke Sie sich net so dumm.
+
+        
+",hart-dr-poetisch-oscar,25,4,0.46721910855258764,0.16
+92,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Es freit mich, Mamsell Suzanne, dass Sie wenigschtens for d’ Schönheit vun de Blueme empfänglich
           sin.
-",17,3,0.6523249768697352,0.17647058823529413
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,17,3,0.6523249768697352,0.17647058823529413
+93,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Ich hab d’ Blueme allewiel gern g'het.
-",8,3,0.3547887749483241,0.375
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,8,3,0.3547887749483241,0.375
+94,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Un dass Sie d’ Poesie, wie in e su ere Bluem leijt, doch anerkenne.
-",15,1,0.5173663248449725,0.06666666666666667
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,15,1,0.5173663248449725,0.06666666666666667
+95,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Ja, sie rieche guet un han netti Farwe.
-",9,3,0.6249056250832985,0.3333333333333333
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,9,3,0.6249056250832985,0.3333333333333333
+96,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Un schun allein ihri Näme sin voll vun köschtlicher Poesie.
-",11,3,0.22074887351026884,0.2727272727272727
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE
+
+        
+",hart-dr-poetisch-oscar,11,3,0.22074887351026884,0.2727272727272727
+97,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE
+
+          
 (rasch):
+
+          
 Ja, dies sin Fingerhuet, un dies Plapperoose, dies sin Haasemiilele un dies Katzegigele, un zell
           isch stinkigi Hoffart, rieche sen emol; un wenn ’s Frühjohr wär, hät ich gewiss au noch Schwizerhosse
           im Garte g’funde; do hen Sie ihri Poesie.
-",44,1,0.7279999999999999,0.022727272727272728
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,44,1,0.7279999999999999,0.022727272727272728
+98,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 O Mamsell Suzanne, muen Sie m’r alli Illusione nemme. Es gitt doch au Blueme wie Vergissmeinnichtle
           un Morjestern heisse. Awer Sie muen natierlich grad d’ allerprosaischte erüsssueche. Han Sie denn gar
           kenn Fantasie? Sehne Sie sich denn nit e bissel nooch ebs Höcherem?
-",44,6,0.1722277208074954,0.13636363636363635
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,44,6,0.1722277208074954,0.13636363636363635
+99,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Gottlob nee. Es g’fallt m’r ganz guet do unte. Su lang as ich guete Apetit hab un d’ ganz Nacht
           schloof, bin ich zefridde.
-",25,7,0.40268903601186157,0.28
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,25,7,0.40268903601186157,0.28
+100,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Awer Suzanne? M’r han doch nit nur e Körper, m’r han doch au noch e Geischt un e Gemuet. M’r kann
           doch nit allewiel ans Esse, Trinke un Schloofe denke; es git en Aueblick, wo m’r satt esch un wo m’r
           üsg’schloofe het.
-",44,4,0.12875,0.09090909090909091
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,44,4,0.12875,0.09090909090909091
+102,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ja, awer m’r kann au nit allewiel schaffe. Han Sie denn noch nie in ere helle Mondnacht en
           uewerwältigendi Sehnsucht nooch Ihrem Ideal g’schpiert?
-",25,5,0.34567993301262634,0.2
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,25,5,0.34567993301262634,0.2
+103,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Nee, esu Züständ haw’ich kenni; ich geh meischtens frühj in’s Bett un schloof glich in. Do haw ich
           gar kenn Zitt an en Ideal ze denke.
-",28,1,0.0,0.03571428571428571
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,28,1,0.0,0.03571428571428571
+104,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Han Sie noch nie in einsame Stunde sich am e Gedicht vum Schiller begeischtert?
-",15,3,0.13733333333333334,0.2
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,15,3,0.13733333333333334,0.2
+105,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Dies isch m’r ze hoch. Ich les liewer’s Wocheblättel.
-",11,2,0.4177550546826891,0.18181818181818182
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,11,2,0.4177550546826891,0.18181818181818182
+106,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Un z’morjeds früij bim Sunneuffgang, füehle Sie do nit d’ Poesie vun d’r Stund, wenn d’r Sunnegott
           sini Rösser lenkt?
-",22,1,0.3330000000000001,0.045454545454545456
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,22,1,0.3330000000000001,0.045454545454545456
+107,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Gehn Sie m’r eweg mit denne Visione. Ich sieh nierigs e Sunnegott. Un uewerhaupt in d’r Friehj
           isch’s Gras noch viel ze nass, do bliet m’r am beschte d’heime.
-",32,1,0.0,0.03125
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,32,1,0.0,0.03125
+109,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Wenn Sie emol redde wie anderi Lit au, no wor ich Sie ganz guet verstehn.
-",16,2,0.5358584376249478,0.125
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+
+        
+",hart-dr-poetisch-oscar,16,2,0.5358584376249478,0.125
+110,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (pathetisch, leijt ere d’ Hand uff d’ Achsel):
+
+          
 O Suzanne, ewiger Widerspruch; sieht üs wie d’ Poesie selwer, un in sim Herze wohnt d’
           allergewöhnlichscht Prosa. An dem Zwiespalt wäre alli minni Hoffnunge ze Schande wäre. Läb wohl,
           Suzanne, läb wohl 
           
-",44,9,0.44986632514724145,0.20454545454545456
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,47,9,0.44986632514724145,0.19148936170212766
+111,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE
+
+          
 (allein):
+
+          
 Ich glaub dem esch’s nit guet. M’r het e Miej mit denne Männer, nit zuem saawe. Ich bin jo gar nit e
           so prosaisch wie der meint, awer ich kann’s nit liede, wenn er esu lächerlich redt. Er dät mer au ganz
           guet g’falle, viel besser als de Brey, der isch mer viel ze alt. Awer grad der muess jetzt eso
           uewerspannti Idee im Kopf han. 
           
-",72,11,0.24193644333850758,0.1527777777777778
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+(Lüijt noch hinte.)
+ Wer kummt denn do? Herrjeh, wenn m’r de Essel nennt, ze kummt er
+          gerennt. Do isch de Brey.
+
+        
+",hart-dr-poetisch-oscar,95,11,0.24193644333850758,0.11578947368421053
+112,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Tiens, lüij do, d’ Mamsell Suzanne, läwe Sie au noch? Ich hab gedenkt, in dem verlorene Nescht sin
           Sie am End schun lang g’storwe.
-",25,3,0.13756528733370763,0.12
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,25,3,0.13756528733370763,0.12
+113,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Un do han Sie zue minere Licht kumme welle.
-",10,2,0.0,0.2
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,10,2,0.0,0.2
+115,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Dies esch nett vun Inne. Sin Sie vun der Gare ze Fuess kumme?
-",14,2,0.2345,0.14285714285714285
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,14,2,0.2345,0.14285714285714285
+116,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Ne, leider Gottes mit em Velo. Dies sin verdammti Waij do hinte. D’ halb Zitt haw’ich ’s Rad drucke
           muen. Ich schwitz awer jetz au, ken drucketer Fade haw’ich meh uff em Lieb 
           
-",34,7,0.20085714285714285,0.20588235294117646
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+(wischt sich d' Stirn ab)
+.
+
+        
+",hart-dr-poetisch-oscar,41,7,0.20085714285714285,0.17073170731707318
+117,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Do tät ich an Ihrem Platz glich nuff gehn un schanschiere.
-",12,1,0.0,0.08333333333333333
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,12,1,0.0,0.08333333333333333
+118,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Nee, nee, die Geleijeheit e mol ung’stört mit Ihne bable ze kenne, will ich m’r doch nit entgehn
           lon. Schunsch isch jo doch allewiel e Tante hinter Ihne here, oder d’r Oscar scharwenzelt um Sie herum.
           Wie geht’s denn im Oscar, macht’r brav Gedichtle?
-",46,3,0.207,0.06521739130434782
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,46,3,0.207,0.06521739130434782
+120,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Er weiss w’rum. Sie täte ne jo doch numme üsslache. Ihne isch dies uewerspannt Gedues grad so
           zewieder wie mir. Sie passe e su weni zuem Oscar, as wie e Küh zuer e goldene Uehr.
-",36,4,0.0,0.1111111111111111
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,36,4,0.0,0.1111111111111111
+122,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Stelle Sie sich nit e so dumm. Ich weiss doch weye was Sie do here g’füehrt wore sin. Die zwei Alte
           welle Sie mit em Oscar verkupple, awer ich hab glich gedenkt, dass Sie ne nit nemme. Im Büür g’hert
           Hawerstroh, un im Suzanne g’hört e Mann wie zuem passt.
-",51,5,0.1908,0.09803921568627451
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,51,5,0.1908,0.09803921568627451
+123,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Ah, un was soll denn diess for e Mann sin?
-",11,1,0.4379999999999999,0.09090909090909091
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,11,1,0.4379999999999999,0.09090909090909091
+124,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
+
+          
+Tenez, Mademoiselle Suzanne
+, versteckle m’r uns. nit. Sie wisse, dass ich en
+          Au uff Sie geworfe hab?
+
+        
+",hart-dr-poetisch-oscar,18,1,0.547,0.05555555555555555
+126,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Un mir zwei täte zuenander passe, wie e Paar Händschih. M’r sin kenn üwerspannti Sternegickler wie
           d’r Oscar; m’r sin zefriede so lang ass m’r guet esse un guet trinke un guet schloofe kenne, un pfiffe
           uff Poesie, Ideal un all dies G’schlamassels.
-",44,9,0.4427266808147696,0.20454545454545456
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,44,9,0.4427266808147696,0.20454545454545456
+127,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Ja, des isch alles schön un guet; awer Sie muen doch bedenke, Herr Brey, dass mer nit numme e Körper
           han; m’r han au noch e Geischt un e Gemuet.
-",31,6,0.4455741306362811,0.1935483870967742
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,31,6,0.4455741306362811,0.1935483870967742
+128,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Plän vun Paris.
-",4,1,0.0,0.25
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,4,1,0.0,0.25
+129,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Un wenn m’r satt isch un üssg’schloofe het, do sehnt m’r sich doch noch ebs Höcherem.
-",17,1,0.0,0.058823529411764705
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,17,1,0.0,0.058823529411764705
+131,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Sie verstehn mich nit, Herr Brey. Han Sie denn gar kenn Fantasie. Han Sie noch nie in ere helle
           Mondnacht e Sehnsucht noch’m Ideal g’schpiert?
-",27,4,0.379099916265783,0.14814814814814814
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,27,4,0.379099916265783,0.14814814814814814
+132,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 B'huetes Gott, wie kumme denn Sie mir vor? Ich bin doch ken Katzeroller.
-",14,2,0.2725,0.14285714285714285
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,14,2,0.2725,0.14285714285714285
+133,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Un han Sie sich noch nie an eme schöne Gedicht begeischtert?
-",12,3,0.38824263618926375,0.25
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,12,3,0.38824263618926375,0.25
+134,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Lon doch Sie mich in Friede mit dem Gedings. Wenn ich e freiji Stund hab, trink ich liewer e
           Schöppel in d’r Taverne.
-",24,3,0.47050336978845936,0.125
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,24,3,0.47050336978845936,0.125
+135,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Do sin Sie ze bedüre, Herr Brey. Wenn Sie wisste, wie schön es, 
           
-",14,3,0.25090930285593044,0.21428571428571427
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+par exemple
+, am Morje isch, wenn d' Welt eso frisch do lejt, d’
+          Vergissmeinnicht un d’ Morjestern im Tau glänze, un d’r Sunnegott sinni Rösser lenkt...
+
+        
+",hart-dr-poetisch-oscar,40,6,0.21220313287478842,0.15
+136,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (schnell, stüerzt vor Suzanne uff d’ Knie):
+
+          
 O Suzanne, wie schön, wie unüssprechlich schön dü geredt hesch, wie poetisch. Jetz ha wich die Seel
           g’funde, wie zue minere Seel passt...
-",33,8,0.3568069771419478,0.24242424242424243
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY
+
+        
+",hart-dr-poetisch-oscar,33,8,0.3568069771419478,0.24242424242424243
+137,comedy,Jean Brey,MALE,,,,"
+          
+BREY
+
+          
 (für sich):
+
+          
 Ah Matin, do bin ich jo sozesaawe uewerflüssig, ’s isch am beschte ich geh nuf un schangier; jetz
           schpier ich ererscht dass ich e nasses Hemb hab 
           
-",32,1,0.5687219668582952,0.03125
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,35,1,0.5687219668582952,0.02857142857142857
+138,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Stehn Sie doch uff, was mache Sie denn jetz wider for e Lewesdaa?
-",14,1,0.547,0.07142857142857142
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,14,1,0.547,0.07142857142857142
+139,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Dies isch d’r schönscht Auesblick vun mim Läwe. Suzanne, dü bisch die G’fährtin, wie mit minere Seel
           ringt, liedt un strebt.
-",22,2,0.4068479310005615,0.09090909090909091
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,22,2,0.4068479310005615,0.09090909090909091
+140,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Par exemple, Sie han uns also belüschtert, höre Sie jetz awer uf. Ihri Deklamatione gehn m’r uf d’
           Nerve. Wenn ich au nit ganz e so unpoetisch bin wie ich üssieh, su en uewerspanntes G’schöpf wie Sie
           eins üss mir mache welle, bin ich doch noch lang nit 
           
-",49,6,0.248,0.12244897959183673
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB
+(noch hinte ins Freie)
+.
+
+        
+",hart-dr-poetisch-oscar,55,7,0.29438691834996705,0.12727272727272726
+142,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB
+
+          
 (rueft im Oscar un Suzane noch):
+
+          
 Herr, do isch Eier Kaffee 
           
-",14,1,0.0,0.07142857142857142
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY
+(stellt de Kaffee uff de Disch)
+. Z’erscht het er ne nit erwarte kenne, jetz lauft er
+          furt vor em 
+          
+(luejt in Oscar un Suzanne noch)
+. Ich glaub, die spiele Fangedissels mitenanger; ar
+          läuft als hinger Ihre hare. Diese solle kenn Narre sin, die Stadtlitt 
+          
+(lacht Iütt)
+.
+
+        
+",hart-dr-poetisch-oscar,67,7,0.2529810180319704,0.1044776119402985
+143,comedy,Jean Brey,MALE,,,,"
+          
+BREY
+
+          
 (kummt üss em Hüss):
+
+          
 Jetz bin ich wieder trucket. Ah, do steht e Tass Kaffee, der kummt m’r grad erecht.
-",23,2,0.2795,0.08695652173913043
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,23,2,0.2795,0.08695652173913043
+145,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Awer ich bezahl n’e, dies kummt uf eins erüss. Do han Ihr au noch e Trinkgeld.
-",18,1,0.547,0.05555555555555555
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,18,1,0.547,0.05555555555555555
+146,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 (betracht des Geld un schmunzelt)
+
+          
 Soll i Euch noch e su e Tass bringe?
-",17,2,0.0,0.11764705882352941
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,17,2,0.0,0.11764705882352941
+149,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Ich hab ne gere recht suess 
           
-",7,2,0.29497827815962285,0.2857142857142857
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+(versuecht ne)
+.
+
+        
+",hart-dr-poetisch-oscar,11,2,0.29497827815962285,0.18181818181818182
+150,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Er isch suess genue, ich hab ne schun versuecht 
           
-",10,1,0.5899565563192457,0.1
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,13,1,0.5899565563192457,0.07692307692307693
+151,comedy,Jean Brey,MALE,,,,"
+          
+BREY
+
+          
 (geht uf un ab):
+
+          
 Jetz muess ich m’r en anderi Frau sueche. D’ Suzanne isch ang’steckt wore vum Oscar sinere
           Dichteritis; brrr, wenn ich dies au noch bekumme tät. Nee, ich muess m’r e g’sundi Frau sueche, eini wo
           fescht uf em
           
-",45,9,0.15344444444444447,0.2
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY
+Bode steht. Su e Kerl wie ich word schun en anderi finde. 
+          
+(Madame Lewermann kummt üss em Hüss.)
+
+        
+",hart-dr-poetisch-oscar,65,12,0.1616666666666667,0.18461538461538463
+152,comedy,Jean Brey,MALE,,,,"
+          
+BREY
+
+          
 (froh):
+
+          
 Ah bonjour Madame Lewermann, dies freit mich awer, dass Sie mer grad in d’ Händ laufe.
-",20,4,0.40330194429683686,0.2
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,20,4,0.40330194429683686,0.2
+153,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 D’ Freid isch ganz uf minere Sitt, Herr Brey.
-",11,4,0.4431445177934856,0.36363636363636365
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,11,4,0.4431445177934856,0.36363636363636365
+154,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Do han mer alli zwei e Freid.
-",8,1,0.8315780711739423,0.125
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,8,1,0.8315780711739423,0.125
+155,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Wisse Sie, in dere Einsamkeit isch eim e Visit doppelt angenehm.
-",13,2,0.37499999999999994,0.15384615384615385
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,13,2,0.37499999999999994,0.15384615384615385
+156,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Un mir wär Ihr Anblick unter alle Umständ angenehm.
-",10,2,0.37499999999999994,0.2
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,10,2,0.37499999999999994,0.2
+158,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Nee, gewiss nit, dies isch min Sach nit. Wenn ich saa, Sie g’falle m’r, ze g'falle Sie m’r au, do
           kenne Sie sich druff verlonn.
-",26,3,0.0,0.11538461538461539
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN
+
+        
+",hart-dr-poetisch-oscar,26,3,0.0,0.11538461538461539
+159,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN
+
+          
 (verschämt):
+
+          
 G’fall ich Ihne wiriklich?
-",9,1,0.0,0.1111111111111111
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,9,1,0.0,0.1111111111111111
+161,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 ’s Suzanne isch awer viel jünger als ich.
-",10,1,0.333,0.1
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,10,1,0.333,0.1
+162,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Dies het kenn Sach; en abgelaauerter Broote isch allewiel zarter als e frischer. Nee, Madame
           Lewermann, es isch m’r bitterer Ernscht. Sie sin d’ Frau wie ich brüch.
-",29,6,0.0,0.20689655172413793
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,29,6,0.0,0.20689655172413793
+164,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 For was solle m’r noch langi Sparichlemente mache? M’r sinn alli zwei nimmi so jung, m’r muen uns
           dummle. Alle hoppla, schlaawe Se ihn, dass d’ Sach perfekt word.
-",30,4,0.263,0.13333333333333333
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,30,4,0.263,0.13333333333333333
+165,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Nee, so g’schwind geht des Ding doch nit. Sie müehn m’r wenigschtens noch zwei Daa de Hof mache.
-",20,1,0.375,0.05
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,20,1,0.375,0.05
+166,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Wie Sie welle, ich mach Ihne au noch de Hof.
-",11,1,0.375,0.09090909090909091
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,11,1,0.375,0.09090909090909091
+167,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Fange m’r mit eme kleine Spaziergang an.
-",9,3,0.15666666666666665,0.3333333333333333
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB
+
+        
+",hart-dr-poetisch-oscar,9,3,0.15666666666666665,0.3333333333333333
+168,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
+
+          
+A vos ordres, Madame
+
+          
+(gibt' ere de Vortritt.)
+
+          
+Passez, beauté
+
+          
+(ab in ’s Freie)
+.
+
+        
+",hart-dr-poetisch-oscar,19,2,0.28635421422488466,0.10526315789473684
+169,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB
+
+          
 (allein):
+
+          
 Jetz losst er de Kaffee stehn, un het doch ewe 3 Franke defuer bezahlt. Dies heiss ich sündhaft. 
           
-",22,3,0.0,0.13636363636363635
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE
+(Trinkt e Schluck, luejt d’rno dene zwei noch.)
+ Die spiele 
+          
+nit Fangedissels, die zwei. Ar het e Bichel un Sie wackelt. Jetz packt er sie gar, un jetz
+          gibt er ere e Schmutz. Ha, ha.
+
+        
+",hart-dr-poetisch-oscar,60,6,0.10166666666666667,0.1
+170,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE
+
+          
 (kummt üss em Hüss):
+
+          
 Han Ihr mine Sohn nit g’sehn?
-",14,2,0.2795,0.14285714285714285
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,14,2,0.2795,0.14285714285714285
+172,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Stelle Eich nit e su dumm, Ihr kenne ne doch; er het doch ewe Kaffee bie Eich b’stellt.
-",20,2,0.258,0.1
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,20,2,0.258,0.1
+173,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ei der, wie de Kaffee getrunke het, isch grad ewe do nüs.
-",13,1,0.0,0.07692307692307693
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,13,1,0.0,0.07692307692307693
+174,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Allein?
-",3,1,0.0,0.3333333333333333
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,3,1,0.0,0.3333333333333333
+175,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Nee; mit eme Wiebsbild.
-",5,1,0.0,0.2
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,5,1,0.0,0.2
+176,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Mit was for’m e Wiebsbild?
-",8,1,0.0,0.125
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,8,1,0.0,0.125
+177,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Mit ’me fatte.
-",4,1,0.0,0.25
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,4,1,0.0,0.25
+179,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
+Sie wackelt — e su — 
+          
+(macht in de Mme Lewermann noch)
+ un d’ Nas hebt se in d’ Höh un redt süss.
+
+        
+",hart-dr-poetisch-oscar,26,1,0.0,0.038461538461538464
+181,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ja, mit dem, wie de Kaffee getrunke het. Ar het se gepackt — e su — un het ere e Schmutz gann — e
           su.
-",26,3,0.44599999999999995,0.11538461538461539
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,26,3,0.44599999999999995,0.11538461538461539
+182,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Was, e Schmutz het ere genn? Hann Ihr au erecht g’sehn?
-",13,2,0.305,0.15384615384615385
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,13,2,0.305,0.15384615384615385
+183,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ich hab ne jo krache here 
           
-",7,1,0.0,0.14285714285714285
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+(lacht verschmitzt)
+.
+
+        
+",hart-dr-poetisch-oscar,11,2,0.375,0.18181818181818182
+184,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Dis esch awer doch unerhört. So e falschi Katz. Awer dere will ich saawe was sie esch.
-",19,1,0.0,0.05263157894736842
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,19,1,0.0,0.05263157894736842
+185,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Do kummt sie grad, stecke’sere numme guet 
           
-",8,2,0.3388584376249478,0.25
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+(ab)
+.
+
+        
+",hart-dr-poetisch-oscar,11,2,0.3388584376249478,0.18181818181818182
+186,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ich suech min Paraselele.
-",6,1,0.0,0.16666666666666666
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,6,1,0.0,0.16666666666666666
+187,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Ah, die Madame suecht ihr Paraselele. Es wär schad for ihr fin Hittel, wenns verbrenne tät. Sie
           könnt d’ Männer nimmi so guet anlocke.
-",26,6,0.30003509550407537,0.23076923076923078
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,26,6,0.30003509550407537,0.23076923076923078
+188,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ich fall üss de Wolike, was esch denn los?
-",11,2,0.3048502385809349,0.18181818181818182
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,11,2,0.3048502385809349,0.18181818181818182
+189,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Sie fröjt noch was los esch. Het m’r minner Sohn verfuehrt un im Suzanne abspenschtig gemacht un
           stellt sich noch unschuldig d’rbie.
-",25,3,0.20323349238728994,0.12
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,25,3,0.20323349238728994,0.12
+191,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Lewermänne, bringt Sie mich nit üss em Hiesel, ich könnt ere schunscht grob kumme. Schäme sott Sie
           sich, in Ihre Johre su e junger Bue inzefange un d’r eijene Nièce de Hochzitter ze nemme.
-",36,5,0.18027041703659802,0.1388888888888889
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,36,5,0.18027041703659802,0.1388888888888889
+192,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ich denk nit dran, minnere Nièce de Hochzitter ze nemme.
-",12,1,0.5683520851829901,0.08333333333333333
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,12,1,0.5683520851829901,0.08333333333333333
+193,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 So, un w’rum isch Sie denn mit’m nüss in de Wald, un w’rum het Sie sich denn ewe vum packe un
           verschmutze lon? Isch dies au en Ufführung for e Frau vun vierzig Johr?
-",37,2,0.305,0.05405405405405406
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,37,2,0.305,0.05405405405405406
+195,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 So fuehrt sich e lichtsinnigi Person uff un kenn anständigs Frauezimmer, denn Sie meint doch nit
           ebe, ass er Sie hieroote word. Nee, Lewermänne, do bin ich au noch do, un ehnder als dass ich e so e
           Vieheit zueloss, ehnder schick ich ne uf Amerika. Ich pack jetz glich minni Koffer. Kenn Stund länger
           soll er meh in Ihrem Netz zawwle 
           
-",64,5,0.2552,0.078125
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN
+(ab in ’s Hüss)
+.
+
+        
+",hart-dr-poetisch-oscar,70,6,0.30583333333333335,0.08571428571428572
+196,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN
+
+          
 (allein):
+
+          
 Na, wart numme, dir will ich’s zeije. Wenn ich dinne Sohn au nit verfuehre will, ze will ich eich
           doch noch de Kueche versalze. Do kommt er m’r grad erecht. Dem will ich d’ Hochzitterei mit em Suzanne
           e bissel verleide 
           
-",47,4,0.14208802129574752,0.0851063829787234
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+(zue Oscar)
+ Worum so drüürig, Herr Oscar?
+
+        
+",hart-dr-poetisch-oscar,56,6,0.09472534753049834,0.10714285714285714
+197,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (setzt sich):
+
+          
 O Madame Lewermann, ich wott gar nimmi lewe.
-",13,2,0.20634793100056145,0.15384615384615385
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,13,2,0.20634793100056145,0.15384615384615385
+198,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Alle, alle, Herr Oscar, nuer nit glich d’ Flüejel lapple lon. Was isch ne denn geje de Strich
           gange?
-",21,4,0.0,0.19047619047619047
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,21,4,0.0,0.19047619047619047
+199,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ach, ich bin vun alle Himmel herunterg’falle. Grad ewe haw ich noch gemeint ich hab endlich im
           Suzanne min Ideal g'funde — awer es het mich hart uf de Bode zeruckgstosse.
-",32,5,0.29579184179329626,0.15625
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,32,5,0.29579184179329626,0.15625
+200,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 D' Suzanne Ihr Ideal? Höre Sie, dies isch awer doch zuem Lache. ’s Suzanne kann for kenne Mensche e
           Ideal sin, es isch materiell was m’r materiell heisst.
-",30,1,0.7101733203265308,0.03333333333333333
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,30,1,0.7101733203265308,0.03333333333333333
+201,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Saawe Sie dies nit, en einzigi Minüt haw ich in sinni Seel nin g’sehn; awer jetz isch se wider ganz
           verschlosse.
-",22,3,0.38999999999999996,0.13636363636363635
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,22,3,0.38999999999999996,0.13636363636363635
+202,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Glauwe Sie mer, Oscar, es isch gar nix drinne. Meine Sie denn, dass ’s Suzanne an ebs Höcheres
           denkt, dass es nur einmol e Gedicht lest?
-",28,3,0.29528904207459744,0.10714285714285714
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR
+
+        
+",hart-dr-poetisch-oscar,28,3,0.29528904207459744,0.10714285714285714
+203,comedy,Oscar,MALE,,,,"
+          
+OSCAR
+
+          
 (trürig):
+
+          
 Ja ich weiss wohl, es lest liewer ’s Wocheblättel.
-",13,4,0.5276275273413445,0.3076923076923077
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,13,4,0.5276275273413445,0.3076923076923077
+204,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Jo, d'allerletschte Nejichkeite interessiere ins allein. Ich saa Ihne, ’s Suzanne isch d’
           personnifiziert Prosa. Es tuet nix als esse, trinke un schloofe.
-",26,2,0.0,0.07692307692307693
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,26,2,0.0,0.07692307692307693
+205,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Un schaffe. Vergesse Sie dies nit, Madame Lewermann, ’s Suzanne isch immer b’schäftigt. Uewerall wie
           ’s anne kummt, findt’s ebs ze schaffe, un wenn’s numme e Stuehl grad stellt oder e Tischteppi
           uffhebt.
-",36,3,0.0,0.08333333333333333
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,36,3,0.0,0.08333333333333333
+206,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Awer vun Poesie het’s kenn Schimmer. Meine Sie, es isch numme capawel Ihr Gedicht an d' Luna, wie
           Sie hitt gemacht han, ze verstehn?
-",27,3,0.13733333333333334,0.1111111111111111
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,27,3,0.13733333333333334,0.1111111111111111
+207,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Oh, des het nix uf sich.
-",7,1,0.547,0.14285714285714285
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,7,1,0.547,0.14285714285714285
+208,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Oder glauwe Sie, dass es in stille Näächt mit Ihne de Sternehimmel anlüje un sich nooch’m Höchste
           sehne word?
-",22,4,0.3764667815559481,0.18181818181818182
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,22,4,0.3764667815559481,0.18181818181818182
+209,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Ach, ich denk m’r jetz, ich tät’s gere schloofe lon. So e g’sunder, unschuldiger Schloof isch au
           Poesie.
-",20,3,0.0,0.15
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+
+        
+",hart-dr-poetisch-oscar,20,3,0.0,0.15
+210,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Un nie wär’s im Stand d’ majestätisch Erhaweheit vu me Sunneuffgang ze bewundere.
-",16,3,0.3383333333333334,0.1875
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,16,3,0.3383333333333334,0.1875
+211,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 B’huet es Gott, ich wor’s doch nit in aller Frühj nüsfuehre wenn’s Gras noch e so nass isch. Sehn
           Sie, Madame Lewermann, isch zelli Bluem wenjer schoen will se verzwurzelti Bried heisst? Ach, e so e
           verzwurzeltes Briedel isch au min Suzanne. s isch einfach, nadierlich, viellicht au prosaisch — awer e
           liewes, herziges Bluemel isch’s doch.
-",61,7,0.21876661783499607,0.11475409836065574
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE
+
+        
+",hart-dr-poetisch-oscar,61,7,0.21876661783499607,0.11475409836065574
+212,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE
+
+          
 (kummt schnell noch vorne):
+
+          
 Ach, Oscar; wie schön dü jetz redsch, wie poetisch.
-",16,2,0.37636395428389563,0.125
-unknown,Oscar,MALE,merchant,lower_middle_class,"OSCAR:
+
+        
+",hart-dr-poetisch-oscar,16,2,0.37636395428389563,0.125
+213,comedy,Oscar,MALE,,,,"
+          
+OSCAR:
+
+          
 Suzanne, hesch mich denn e kleins bissele lieb?
-",9,1,0.8589999999999999,0.1111111111111111
-unknown,Suzanne,FEMALE,,lower_middle_class,"SUZANNE:
+
+        
+",hart-dr-poetisch-oscar,9,1,0.8589999999999999,0.1111111111111111
+214,comedy,Suzanne,FEMALE,,,,"
+          
+SUZANNE:
+
+          
 Ja, Oscar, vun ganzem Herze 
           
-",6,2,0.6375,0.3333333333333333
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+(umarmen sich)
+.
+
+        
+",hart-dr-poetisch-oscar,10,2,0.6375,0.2
+215,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Jetz saa ich awer nix meh. Do isch jo ’s richtig Paar binander. O ihr liewi Kinder, wie mich des
           fraijt. 
           
-",23,4,0.5116314477318162,0.17391304347826086
-unknown,Madame Lewermann,FEMALE,,,"Mme LEWERMANN:
+(Zue Frau Lewermann)
+ Haw ich Ihne am End Unrecht angedon, Madame Lewermann?
+
+        
+",hart-dr-poetisch-oscar,37,5,0.409305158185453,0.13513513513513514
+216,comedy,Madame Lewermann,FEMALE,,,,"
+          
+Mme LEWERMANN:
+
+          
 Ja, un in doppelter Hinsicht. Ich hab nit allein Ihre Oscar nit verfuehrt, nee, ich hab m’r selbscht
           e ganz andere üssg’suecht.
-",24,4,0.45436467433776084,0.16666666666666666
-unknown,Jean Brey,MALE,merchant,lower_middle_class,"BREY:
+
+        
+",hart-dr-poetisch-oscar,24,4,0.45436467433776084,0.16666666666666666
+217,comedy,Jean Brey,MALE,,,,"
+          
+BREY:
+
+          
 Ja, Madame Schweberle, ’s Julie un ich wölle ’s emol prowiere mitnander.
-",13,3,0.37399999999999994,0.23076923076923078
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB
+
+        
+",hart-dr-poetisch-oscar,13,3,0.37399999999999994,0.23076923076923078
+218,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
+
+          
+Toutes mes félicitations
+; ich wuensch eich Glueck vun ganzem Herze. 
+          
+(Zue Schakob)
+ Un Ihr, do hinte, kumme emol here.
+
+        
+",hart-dr-poetisch-oscar,23,5,0.18533117340788513,0.21739130434782608
+219,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB
+
+          
 (kummt vor):
+
+          
 Was beliebt?
-",7,1,0.859,0.14285714285714285
-unknown,Madame Schweberle,FEMALE,,,"Mme SCHWEBERLE:
+
+        
+",hart-dr-poetisch-oscar,7,1,0.859,0.14285714285714285
+220,comedy,Madame Schweberle,FEMALE,,,,"
+          
+Mme SCHWEBERLE:
+
+          
 Weye was saawe denn Ihr, dass min Sohn e fetti Madam verschmutzt het?
-",15,2,0.0,0.13333333333333333
-unknown,Schakob,MALE,waiter,lower_class,"SCHAKOB:
+
+        
+",hart-dr-poetisch-oscar,15,2,0.0,0.13333333333333333
+223,comedy,Schakob,MALE,waiter,service_and_sales,lower_class,"
+          
+SCHAKOB:
+
+          
 Ei dar, wie ne b’stellt het, isch nit allewiel dar, wie ne trinkt.
-",14,1,0.0,0.07142857142857142
+
+        
+",hart-dr-poetisch-oscar,14,1,0.0,0.07142857142857142

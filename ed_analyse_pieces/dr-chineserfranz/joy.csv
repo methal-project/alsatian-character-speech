@@ -1,40 +1,67 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-unknown,Tante DOMINO,F,,,"
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 G'wiss, Rosele... g'wiss, mi lieb Kind, schaü, glaüb
                         mir... schla Dir das Ding üs em Kopf mit Dim Herr
                         Alfred... De wirsch sàh, 's isch besser fir Dich... ich
                         ka jo üs Erfahrung rede!... lüeg, vo dàne junge alle
                         z'àmme isch nie Keiner kei Duwle werth gsi..
 (fir sich)
-",53,9,0.23943142308729767,0.16981132075471697
-unknown,ROSELE,F,,,"
+
+                        ich wird's ebbe wisse!
+                    
+
+        
+",lustig-dr-chineserfranz,58,9,0.23943142308729767,0.15517241379310345
+1,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Awer dr Herr Alfred, Tante...
-",6,1,0.0,0.16666666666666666
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+2,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Dr Herr Alfred, lieb Kind, wird grad si as wie
                         alle-n-andere... gang mr eweg mit de Mànner.. wenn Dü
                         wisse thàtsch, was me sich ufladet mit em hirothe!
                     
-",31,4,0.33700392039047167,0.12903225806451613
-unknown,ROSELE,F,,,"
+
+        
+",lustig-dr-chineserfranz,31,4,0.33700392039047167,0.12903225806451613
+3,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Awer e Zuckerbäck, Tante, ne Zuckerback wie dr Herr
                         Alfred einer isch!...
 (fir sich)
+ Das müess doch güet
+                        si, ne Zuckerback!...
 (lüt)
+ un 's isch e güet Handwerk:
+                        we me-n-als ebbes verfuchst, so ka me's jo selwer esse,
+                        's geht nitt verlore!
+                    
 
           
-",20,3,0.0,0.15
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,50,6,0.2259056250832985,0.12
+4,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Ne Zuckerbäck, Rosele, isch vom ganz gliche Teig
                         g'macht, wie alle-n-andere!... Meinsch Dü, wil er Dich
                         als eso siess alüegt?... So sin alle Zuckerbäck, bis
@@ -54,59 +81,95 @@ Ne Zuckerbäck, Rosele, isch vom ganz gliche Teig
                         recht Achtung züe dr Pfiffe »... Un derno, wie isch's
                         mir selbst nitt gange, Rosele...
                     
-",182,22,0.23383152821938766,0.12087912087912088
-unknown,ROSELE,F,,,"
+
+        
+",lustig-dr-chineserfranz,182,22,0.23383152821938766,0.12087912087912088
+5,comedy,ROSELE,F,,,,"
           
 Rosele
+
+          
 (wunderfitzig)
+
+          
 Wie isch's Dir gange, Tante, verzähl mr's emol?...
-",14,1,0.0,0.07142857142857142
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,14,1,0.0,0.07142857142857142
+6,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (verlege)
+
+          
 Nit, nit!... glaüb mir, Rosele, hiroth Dü dr Herr
                         Gàlfink, unser Nochber... das isch e Mann vo me
                         g'wisse-n-Alter un wo ne bitzi ebbes hat...
                     
-",31,6,0.15197785437063205,0.1935483870967742
-unknown,ROSELE,F,,,"
+
+        
+",lustig-dr-chineserfranz,31,6,0.15197785437063205,0.1935483870967742
+7,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Jo, eso ne-n-Alter, Tante... dr Herr Alfred isch o kei
                         schlechte Parthie, un hat erst noch e richer Oncle,
                         wo-n-er emol erbt!
                     
-",27,3,0.0,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,27,3,0.0,0.1111111111111111
+8,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Jo, so ne-n-alter Seeràiwer, wo schint's si Vermöge-n-in
                         Amerika g'macht hat!... grad wege dem will er nitt, ass
                         si Neuveu Dich hirothet... mir sin em z' g'mein, wil
                         mir in dr Cité wohne...
 (se zeigt uf 
+Rosele)
+ d'beste
+                        Glättere wit un breit, wo bis am e Sunntig z'Mittag
+                        z'schaffe hat, fir ihre Pratike-n-alle z'friede
+                        z'stelle!...
+                    
 
-          
-",43,5,0.10940000000000001,0.11627906976744186
-unknown,ROSELE,F,,,"
+        
+",lustig-dr-chineserfranz,70,8,0.140375,0.11428571428571428
+9,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Jo, 's isch wohr, ich wird wieder g'ar nitt fertig
                         hit!... 's isch jetz bol Eins... ich müess jetz doch
                         mache, ass ich e Sach furttrage ka.
                     
-",28,1,0.328,0.03571428571428571
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,28,1,0.328,0.03571428571428571
+10,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Sonige brüche-n-unserein's noch z'verachte, so
                         Herg'loffene, wo me gar nitt weisst, wo se herkämme!
                     
-",19,1,0.0,0.05263157894736842
-unknown,ROSELE,F,,,"
+
+        
+",lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
+11,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Oh! Tante, 's isch nitt halwer so g'fàhrlig, wie Dü
                         machsch... er hat nitt gern, ass si Neveu hirothet, 's
                         isch wohr, wil er noch gar jung isch, awer er kennt uns
@@ -124,300 +187,588 @@ Oh! Tante, 's isch nitt halwer so g'fàhrlig, wie Dü
                         das isch d'ganze G'schichte
 (se hört uf mit Glätte-n-un
                         legt s' Blunder in e Korb)
-",167,19,0.2306315789473684,0.11377245508982035
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,167,19,0.2306315789473684,0.11377245508982035
+12,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Dr Herr Alfred ka Dir verzähle was er will, lieb Kind
                         !... schaü, De glaübsch nitt, wie-n-eim d'junge Lit
                         hintergehn,
 (fir sich)
+ ich ka jo üs Erfahrung rede!
+                       
 (züem Rosele)
+ dr Herr Gàlfink hingege isch scho im e
+                        g'wisse-n-Alter... serios un posiert...
+                    
 
           
-",31,5,0.3362031363123773,0.16129032258064516
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,51,9,0.186779520173543,0.17647058823529413
+13,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 
             
 Kind, glaüb Dü mir,
+
+            
 E Junger müesch nitt nàmme,
+
+            
 Drum roth ich Dir,
+
+            
 Dr Herr Gàlfink jetz z'nàh.
-",20,4,0.3239707019464198,0.2
-unknown,ROSELE,F,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,20,4,0.3239707019464198,0.2
+14,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 
             
 's wàr mi Unglick,
+
+            
 Ich miesst mich mit ihm schàmme,
+
+            
 Er isch mr z'flick,
+
+            
 Ich will ihn gar nit sàh.
-",22,1,0.0,0.045454545454545456
-unknown,Tante DOMINO,F,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,22,1,0.0,0.045454545454545456
+15,comedy,Tante DOMINO,F,,,,"
             
 Tante.
 
+            
+
               
 Kind glaüb Dü mir etc.
-",6,2,0.4814414038928396,0.3333333333333333
-unknown,ROSELE,F,,,"
+
+            
+
+          
+",lustig-dr-chineserfranz,6,2,0.4814414038928396,0.3333333333333333
+16,comedy,ROSELE,F,,,,"
             
 Rosele.
+
+            
 
               
 Drum glaüb Dü mir,
+
+              
 Ich ka ne g'wiss nitt nàmme,
+
+              
 Ich sag jetz Dir,
+
+              
 Ich will ne gar nitt sàh.
-",21,1,0.4738671262237924,0.047619047619047616
-unknown,ROSELE,F,,,"
+
+            
+
+          
+",lustig-dr-chineserfranz,21,1,0.4738671262237924,0.047619047619047616
+18,comedy,ROSELE,F,,,,"
           
 Rosele.
+
+          
 Ich gang, Tante, ich gang...
 (se legt e Hüet un e Shawl
                         a)
+ ich kumm wohrschinlig nitt heim vor z'Owe, ich will
+                        noch im Kàtele geh ne Visite mache.
 (se nimmt dr Korb
                         an Arm. Fir sich)
+. Niemols thüe-n-ich eso ne-n-alter
+                        Gàlfink hirothe... dr Herr Alfred oder Keiner
 (se geht
                         hinte-n-üse)
-",33,2,0.0,0.06060606060606061
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,65,5,0.0,0.07692307692307693
+19,comedy,Tante DOMINO,F,,,,"
           
 Tante
-(allei)
-'s will nitt recht abisse, 's Rosele... do wird's noch
-                        Mieih koste!... franchement, 's wàr mr gar nitt 
 
           
+(allei)
+
+          
+'s will nitt recht abisse, 's Rosele... do wird's noch
+                        Mieih koste!... franchement, 's wàr mr gar nitt 
+recht,
+                        wenn ich im Herr Gàlfink, wo si Zimmer dert grad
+                        nàwe-n-unserem hat, absage miesst... denn derno kàm er
+                        natirlig nimmig do ane, un wer wott derno ne Domino mit
+                        mir mache-n-als z'Owe?... ich derf nitt dra denke?...
+                        ich müess mi Parthie mache, sunscht ka-n-ich nitt
+                        schlofe!... se sage mir Tante Domino wege dem, awer das
+                        macht mir nit... wege me so ne Zuckerbäck do nimmig
+                        känne Domino spiele!... Un derno, ich ha-n-Angst fir 's
+                        Rosele: wie isch's mir nitt gange, wo-n-ich jung gsi
+                        bi!... ich o ha 's Unglick g'ha mich z'vernarre-n-in è
+                        junger Mensch, un derno isch er emol uf mi Zimmer ku
+                        schliche un hat awer glich wieder miesse d'Flucht nàh,
+                        züem Fenster üse vom erste Stock, ass er nitt
+                        verwitscht worde-n-isch... un er laüft noch... ich ha
+                        ne siter nimmig g'sàh... er hat mi sitze lo! ich bi
+                        awer wieder ufg'stande... 's isch mi erste-n-un mi
+                        letzte Liewe gsi... ich möcht nur wisse, was üs em
+                        worde-n-isch?...
 (se faltet d'Hànd un schaüt gege
                         Himmel)
+ Oh Samüel! oh Samüel!
 (züem Public)
+ er hat
+                        Samüel g'heisse!... mi ganzer Lewenslaüf hasch Dü
+                        verderbt!...
 (se geht uf dr Site-n-üse rechts)
-",47,5,0.2643918417932963,0.10638297872340426
-unknown,Herr ALFRED,M,pastry_baker,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,244,22,0.15320315083326635,0.09016393442622951
+20,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred
+
+          
 (kunnt hinte-n-ine, er isch ganz wiss ag'legt un hat
                         e Tarte uf einer Hand)
                     
+
+          
 's isch Nieme do... desto besser... also do wohnt jetz
                         's Rosele?
 (er lüegt ummenander)
+ 's isch recht heimelig
+                        do!...
 (er legt si Tarte uf's Tischle nàwe dr Thüre un
                         kunnt fire)
+ 's isch ewe-n-in dr Tante-n-ihre Namestag
+                        hit!... ich ha denkt, ich müess lüege, ass ich ere ne
+                        kleine Surprise mache ka, ass se ne wenig menschliger
+                        wird gege mich!... Hein, isch das ebbes fin's!...
 (er
                         nimmt d'Tarte un zeigt se)
-
-          
+ ihre Name-n-isch druf,
+                        «Schelastika»,
+ se heisst Schelastika.
 (er stellt se
                         wieder hintere)
+ Dr Idee isch mr ku dà Morge... 's isch
+                        ewe ne Herr ku-n-eso eine b'stelle un hat mr e
+                        Liewensbriefle hinterlo, fir's dri z'stupfe, un
+                        d'Adresse, wo-n-ich se-n-ane schicke soll... un do
+                        ha-n-i denkt, tiens, im Rosele si Tante heisst jo o
+                        Schelastika, wenn ich ihre-n-eso ne Tarte thàt bringe?
+                        un do ha-n-i hait glich zwei g'macht... Ich will mich
+                        jetz glich wieder dervo mache, denn ich wott ewe nitt,
+                        ass mich ebber thàt atreffe do!... Oh! wenn ich doch
+                        nur e wenig herzhafter wàr... ich hätt scho lang gern
+                        g'redt mit dr Tante wege-n-em Rosele, denn nur sie isch
+                        noch dergege... mi Oncle ha-n-ich jetz endlig
+                        kanne-n-iwerrede, er hat mir versproche, hit z'Owe ne
+                        Visite ku z'mache do, awer ohne sich z'erkenne z'gà...
+                        er git d'nàchste beste Üsred a... 's isch nur, fir 's
+                        Rosele un si Tante kenne z'lehre, un wenn se-n-em gehn,
+                        so red' er mit dr Tante!... Oh! Rosele! Rosele!
+                    
+
+          
 
             
 G'sang
+
+            
 (bleib bei mir)
+
+            
 Ka me d'Liewe
+
+            
 Üse schiewe?
+
+            
 Das isch eim unmöglig schier!
+
+            
 Ich fall leider
+
+            
 Üs de Kleider.
+
+            
 Wenn ich d'Brüt nitt bol heimfiehr.
+
+            
 Sie wartet mir, ich ha ihr Wort,
+
+            
 Doch wit vo ihr g'fallt mir kei Ort;
+
+            
 Ich denk an sie uf Weg un Steg,
+
+            
 Drum bring ich schier kei Teig meh z'weg.
+
+          
+
+          
 Doch still! 's kunnt glaüb ebber?... 's isch am End
                             gar d'Tante!... Nei, ich spir jetz scho, ass ich 's
                             Herz nitt hätt, mit ere z'rede... ich mach mich
                             dervo, mi Oncle soll's richtig mache hit z'Owe,
 (er lüegt ummenander)
+Wo bin i ine ku?... dert glaüb 
 (er zeigt d'Thüre rechts, geth se geh uf mache un kunnt glich wieder z'ruck)
+ schier wàr i letz g'loffe... 's isch e Schlofstuwe!... do isch d'güete 
 (er will hinte-n-üse, hört awer ebber aklopfe)
+ z'spot! 
 (er springt in d'Schlofstuwe-n-un macht d' Thüre züe).
-",218,21,0.25763701121853194,0.0963302752293578
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,478,45,0.21197161027673914,0.09414225941422594
+22,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (kunnt ine links)
+
+          
 Ah!... Sie sin's, Herr Gàlfink, 's isch mr doch gs? ich
                         hör ebber... was isch... kämme Se ku ihre Rei vanche
                         nàh... hein, gestert ha-n-ich Sie awer g'wunne-
                     
-",38,2,0.0,0.05263157894736842
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,38,2,0.0,0.05263157894736842
+23,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Scht! scht!
 (er winkt ere, se soll still si)
-",13,2,0.2205,0.15384615384615385
-unknown,Tante DOMINO,F,,,"
+.
+
+        
+",lustig-dr-chineserfranz,13,2,0.2205,0.15384615384615385
+24,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Potz taüsig!... was mache Sie fir e G'sicht hit!... isch
                         Ene ne Spinne iwer d'Nase g'loffe dà Morge?
                     
-",20,4,0.0,0.2
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,20,4,0.0,0.2
+25,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Scht!... Oh! wenn das möglig wàr, wenn das möglig wàr!
                        
 (er laüft hin un her)
-",19,2,0.0,0.10526315789473684
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,19,2,0.0,0.10526315789473684
+26,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Was möglig wàr?... e Domino z'mache?... uf dr Stell,
                         Herr Gàlfink... ich ha jo scho lang uf Se g' warte!
                     
-",22,6,0.18233333333333335,0.2727272727272727
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,22,6,0.18233333333333335,0.2727272727272727
+27,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Domino, jetz?... 's handelt sich nitt um das... thàt
                         Se-n-emol d'Thüre züegschpliesse, Tante.
                     
-",18,1,0.0,0.05555555555555555
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,18,1,0.0,0.05555555555555555
+28,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 D'Thüre züegschpliesse!... fir was?
 
           
-",6,1,0.0,0.16666666666666666
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+29,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Thàt Se nur emol züegschpliesse, ich will's Ere derno
                         sage...
                     
-",13,1,0.0,0.07692307692307693
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,13,1,0.0,0.07692307692307693
+30,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Sie mache mich wunderfitzig, Herr Gàlfink...
 (se geht
                         geh dr Schlüssel umdràihe)
-",15,2,0.0,0.13333333333333333
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,15,2,0.0,0.13333333333333333
+31,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (fir sich)
+
+          
 's isch züem dritte Mol jetz!... oh! wenn doch das kännt
                         g'schàh.
                     
-",18,2,0.0,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,18,2,0.0,0.1111111111111111
+32,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (kunut fire)
+
+          
 So, jetz isch's züe... was isch jetz das fir e
                         Mordthat?
                     
-",17,1,0.0,0.058823529411764705
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,17,1,0.0,0.058823529411764705
+33,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (lüegt ummenander)
+
+          
 Thàt Se viellicht d'Thüre noch e wenig verbarrikadiere
                         mit Tisch un Stiehl.
                     
-",19,2,0.0,0.10526315789473684
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,19,2,0.0,0.10526315789473684
+34,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Ah çà, sin Sie eigentlig g'schosse in dr Pelzkappe, Herr
                         Gàlfink?
                     
-",12,1,0.0,0.08333333333333333
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,12,1,0.0,0.08333333333333333
+35,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (geht hin un her un gesticuliert)
+
+          
 's isch o nit unmögligs... 's isch ganz natürell!
-",19,3,0.13133333333333333,0.15789473684210525
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,19,3,0.13133333333333333,0.15789473684210525
+36,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (fir sich)
+
+          
 Ich will em halt si Wille thüe, sunscht erfahr ich nie
                         nit
 (se stellt Tisch un Stiehl vor d'Thüre un sieht
                         d'Tarte)
-",31,3,0.0,0.0967741935483871
-unknown,Herr GALFING,M,,,"
+. Tiens, das isch jetz gàlant vo Ihne, Herr
+                        Gàlfink, ass Sie mir ebbes brocht hàn fir mi Namestag.
+                    
+
+        
+",lustig-dr-chineserfranz,49,6,0.14337792126930768,0.12244897959183673
+37,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Was brocht?... ich?
 (er geht geh lüege)
-",11,1,0.0,0.09090909090909091
-unknown,Herr GALFING,M,,,"
+.
+
+        
+",lustig-dr-chineserfranz,11,1,0.0,0.09090909090909091
+39,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (fir sich)
+
+          
 Tiens, das isch e Tarte wie die, wo-n-ich dà Morge
                         b'stellt ha bim Zuckerbäck, fir... he he he... fir 
 
-          
+                        d'Jumpfer Schelastika im Rosegàsle... scht!...
 (züer
                         Tante)
-",31,5,0.0,0.16129032258064516
-unknown,Tante DOMINO,F,,,"
+ g'wiss nitt, Tante, ich ha jo nitt emol g'wisst,
+                        ass Sie Schelastika heisst.
+                    
+
+        
+",lustig-dr-chineserfranz,50,6,0.0,0.12
+40,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Do wird's halt 's Rosele si, wo mr se do ane tho hat...
                         das git ebbes fir z'Owe züem Kaffee. Doch 's handelt
                         sich jetz nitt um das... üse jetz emol mit dem
                         G'heimniss.
                     
-",37,3,0.0,0.08108108108108109
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,37,3,0.0,0.08108108108108109
+41,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Isch alles züe?
-",5,1,0.0,0.2
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,5,1,0.0,0.2
+43,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Eh bien...
-",4,2,0.2728393618750922,0.5
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,4,2,0.2728393618750922,0.5
+44,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (erwartungsvoll)
+
+          
 Was denn?
-",6,1,0.0,0.16666666666666666
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+45,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Ich ha traümt, ich heb 's grosse Loos g'wunne.
-",11,2,0.3048502385809349,0.18181818181818182
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,11,2,0.3048502385809349,0.18181818181818182
+46,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (desappointiert)
+
+          
 Un fir dass hàn Sie mich mache d'Türe
                         z'verbarrikadiere?
                     
-",15,1,0.0,0.06666666666666667
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,15,1,0.0,0.06666666666666667
+47,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 's hat gar viel Schelme bi dàne schlechte Zite!
-",11,2,0.0,0.18181818181818182
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,11,2,0.0,0.18181818181818182
+48,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Sie hàn e Sprosse z'viel, Herr Gàlfink, 's ka nitt
                         anderscht si!... 's wàr besser, Sie hätte's scho, ihre
                         gross Loos.
                     
-",24,4,0.21292511929046745,0.16666666666666666
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,24,4,0.21292511929046745,0.16666666666666666
+49,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 Sie wird sàh, Tante, 's kunnt... denn dreimol
                         hinternander ha-n-i's jetz traümt... Vorgestert
                         z'Nacht, gestert z'Nacht, un grad vorig, wo-n-i mi
@@ -426,11 +777,17 @@ Sie wird sàh, Tante, 's kunnt... denn dreimol
                     
 
           
-",44,3,0.0,0.06818181818181818
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,44,3,0.0,0.06818181818181818
+50,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (bedenklig)
+
+          
 Jà, wenn dass isch, Herr Gàlfink, so kännt viellicht
                         ebbes drüs g'schàh... ich b'sinn mich, ass mi Vater
                         emol traümt hat, dreimol hinternander, er thàt Geld
@@ -438,65 +795,97 @@ Jà, wenn dass isch, Herr Gàlfink, so kännt viellicht
                         g'funde... das heisst nei, e Centime... sàllemols hat
                         me noch Centimes g'ha.
                     
-",52,6,0.09094645395836408,0.11538461538461539
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,52,6,0.09094645395836408,0.11538461538461539
+51,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Drum sieht Se, Tante. Oh! ich ha kei Rüeh meh!... wenn's
                         doch wohr wàr!... 's isch nit, wo nitt ka si, uf
                         jedefall müess es ebber g'winne, nitt wohr!... ich will
                         doch derno lüege, was mine Titres fir Nümeros hàn...
                         ich will se-n-ufschriwe.
                     
-",48,7,0.24539056633888337,0.14583333333333334
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,48,7,0.24539056633888337,0.14583333333333334
+52,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Zeige Se, Herr Gàlfink, was thàte mr mache, wenn Sie 's
                         grosse Loos thàte g'winne? .. z'allererst miesste
                         guldige Domino in's Hüs!... mr thàte mit guldige Domino
                         spiele!
                     
-",30,4,0.29217511929046747,0.13333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-dr-chineserfranz,30,4,0.29217511929046747,0.13333333333333333
+53,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Hèrr Gàlfink.
+
+          
 Une Hochzit thàte mr mache, Tante Domino, ass noch
                         keine-n-eso gsi isch!... 's Rosele miesst üsg'staffiert
                         si wie ne Prinzessin... A propos, was macht's, das
                         G'schàft, geht's vora? Ich wàr jetz gern emol fixiert.
                     
-",40,4,0.3960880212957475,0.1
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,40,4,0.3960880212957475,0.1
+54,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Grad dà Morge ha-n-ich im Rosele wieder dervo g'redt...
                         's isch halt e wenig e Stättkopf...
                     
-",19,3,0.0,0.15789473684210525
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,19,3,0.0,0.15789473684210525
+55,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Do will's denn schint's noch allewil nit vo mr wisse?
                     
-",14,2,0.0,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,14,2,0.0,0.14285714285714285
+56,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Das grad nitt... un züedem, wenn Sie jetz 's grosse Loos
                         g'winne, so wird es sich scho anderscht b'sinne... à
                         propos, mr kännte jo lüege, eb Sie wirklig e Chance hàn
                         z'g'winne.
                     
-",34,5,0.18754009543237396,0.14705882352941177
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,34,5,0.18754009543237396,0.14705882352941177
+57,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Wieso!
-",3,1,0.0,0.3333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,3,1,0.0,0.3333333333333333
+58,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh! mit de Karte!... mr känne jo ne Reüssite mache...
                         ass ich nitt eher dra denkt ha!... setze Sie sich, Herr
                         Gàlfink, ich will g'schwind geh d'Karte hole, mr wànn
@@ -506,717 +895,1356 @@ Eh! mit de Karte!... mr känne jo ne Reüssite mache...
                         springe, er will züer mittlere Thüre-n-iise, wo-n-er
                         awer sieht, ass se verbarrikadiert isch, springt er in
                         's Zimmer links)
-",78,5,0.2185357447500369,0.0641025641025641
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,78,5,0.2185357447500369,0.0641025641025641
+59,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (ohne dr Zuckerbäck z'sàh, geht in dr Tante ergege,
                         wo gauz verstört üse hunnt ku z'laüfe)
                     
+
+          
 Was isch?... was git's?... brennt's im Hüs?
-",31,3,0.18633333333333335,0.0967741935483871
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,31,3,0.18633333333333335,0.0967741935483871
+60,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh... hàn Se den nit g'sàh?... Ne wisser Schatte wie ne
                         Geist isch nàwe mir dure g'witscht, wie-n-i ine bi.
                     
-",23,2,0.5303393618750922,0.08695652173913043
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,23,2,0.5303393618750922,0.08695652173913043
+61,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Sie trumpiert sich, Tante, ich ha nit g'sàh un nit
                         g'hört.
                     
-",13,1,0.0,0.07692307692307693
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,13,1,0.0,0.07692307692307693
+62,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's isch sunderbar... ich hätt jetz g'schwore!
 (se
                         sitze-n-an dr Tisch, dr Herr Gàlfink links un d'Tante
                         rechts. Uf dr Tante-n-ihrem Stüehl isch e Kisse)
+. Do
+                        ha-n-i jetz d'Karte, mr wànn jetz emol lüege...
 (se
                         mischelt se)
-",38,3,0.18233333333333335,0.07894736842105263
-unknown,Herr GALFING,M,,,"
+ hewe Se jetz emol ab, Herr Gàlfink.
+                    
+
+        
+",lustig-dr-chineserfranz,57,4,0.13675,0.07017543859649122
+63,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
-(hebt se-n-ab)
-Glaübt Sie denn wirklig an d' Reüssites, Tante Domino?
-                    
-",17,2,0.164,0.11764705882352941
-unknown,Tante DOMINO,F,,,"
-          
-Tante.
-Das?... das trifft immer i, was do üse kunnt... 's hat
-                        Lit g'ha, se sin züe dr Schlàfere gange-n-uf 
 
           
-(se legt d'Karte, eine nàwe d'andere)
-",32,1,0.547,0.03125
-unknown,Herr GALFING,M,,,"
+(hebt se-n-ab)
+
           
-Herr Gàlfink
-(fir sich)
-Ich glaüb, ass ei Mittel 's anders werth isch!
-",15,5,0.09477342524475849,0.3333333333333333
-unknown,Tante DOMINO,F,,,"
+Glaübt Sie denn wirklig an d' Reüssites, Tante Domino?
+                    
+
+        
+",lustig-dr-chineserfranz,17,2,0.164,0.11764705882352941
+64,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
+Das?... das trifft immer i, was do üse kunnt... 's hat
+                        Lit g'ha, se sin züe dr Schlàfere gange-n-uf 
+Durni...
+                        eh bien, se hätte liewer ihre Geld g'spart un hätte
+                        d'Karte consultiert... das isch noch viel sicherer...
+                       
+(se legt d'Karte, eine nàwe d'andere)
+.
+                    
+
+        
+",lustig-dr-chineserfranz,51,5,0.4700377666231126,0.09803921568627451
+65,comedy,Herr GALFING,M,,,,"
+          
+Herr Gàlfink
+
+          
+(fir sich)
+
+          
+Ich glaüb, ass ei Mittel 's anders werth isch!
+
+        
+",lustig-dr-chineserfranz,15,5,0.09477342524475849,0.3333333333333333
+66,comedy,Tante DOMINO,F,,,,"
+          
+Tante.
+
+          
 Do, sàhn Se jetz, isch emol d'Herz-Dame... das isch 's
                         Rosele!... un àne dra
 (se steht e wenig uf, fir
                         z'zeige, dr Herr Gàlfink nimmt 's Kisse-n-un sitz druf)
-",36,3,0.18233333333333335,0.08333333333333333
-unknown,Herr GALFING,M,,,"
+
+                        isch dr Herz-Bür... das sin Sie... Se sin jetz noch
+                        ziemlig wit vonander, awer nur Geduld, das Ding wird
+                        sich scho mache.
+                    
+
+        
+",lustig-dr-chineserfranz,58,4,0.254,0.06896551724137931
+67,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Güet, güet, Tante... we mr nur z'àmme kamme, das isch
                         d'Haüptsach.
                     
-",15,3,0.451811250166597,0.2
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,15,3,0.451811250166597,0.2
+68,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Jetz do in dr Mittle sieh-n-i 's Eckstei-Ass... das isch
                         e Brief, wo Sie g'schriwe hàn...
                     
-",19,1,0.0,0.05263157894736842
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
+69,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (fir sich)
+
+          
 Diable, diable... wenn nur d'Adresse nitt druf steht!...
                        
 (er lipft sich e wenig fir z'lüege, d' Tante nimmt 's
                         Kisse)
-",30,3,0.0,0.1
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,30,3,0.0,0.1
+70,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Oder einer, wo Sie im Sinn hàn z'schriwe... in wem
                         kännte Sie jetz schriwe, Herr Gàlfink?
                     
-",18,1,0.0,0.05555555555555555
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,18,1,0.0,0.05555555555555555
+71,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Kännt's viellicht nitt o ne Depesche si, Tante, ich
                         möcht ewe telegraphiere fir z'wisse, was fir Nümero as
                         üse ku sin im letschte Tirage.
                     
-",28,5,0.0,0.17857142857142858
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,28,5,0.0,0.17857142857142858
+72,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Ah! do isch's halt das... do sàhn Se, d'g'heimste
                         Gedanke thien d'Karte-n-errothe!
                     
-",18,1,0.0,0.05555555555555555
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,18,1,0.0,0.05555555555555555
+73,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (ribt si d'Hand. Züem Public)
+
+          
 Wie finde-n-ihr se?
-",15,2,0.0,0.13333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,15,2,0.0,0.13333333333333333
+74,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Un sàhn Se do,
 (se steht uf fir z'zeige, dr Herr Gàlfink
                         nimmt 's Kisse)
-",19,3,0.18233333333333335,0.15789473684210525
-unknown,Herr GALFING,M,,,"
+ nàwe dem Brief lige vier Zehner
+                        nàwenander... das beditet Geld, viel Geld! Das isch 's
+                        grosse Loos, Sie sin e Glickskind, Herr Gàlfink... Sie
+                        känne herzhaft d'guldige Domino b'stelle.
+                    
+
+        
+",lustig-dr-chineserfranz,49,7,0.16524292530883855,0.14285714285714285
+75,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Jà, un 's Rosele?
-",6,1,0.0,0.16666666666666666
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+77,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Aha... me legt se-n-eso d'Karte, bis ass me findet drin,
                         was me gern hat?...
                     
-",19,2,0.2735,0.10526315789473684
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,19,2,0.2735,0.10526315789473684
+78,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Sàhn Se jetz... jetz sin Se schier bi dr Herz-Dame, nur
                         isch noch e schwarzer Bür derzwische... was ka jetz das
                         fir e Schwarzer si, wo derzwische-n-isch?...
 (fir sich)
-",34,4,0.0,0.11764705882352941
-unknown,Herr GALFING,M,,,"
+
+                        's isch doch nitt dr Herr Alfred, ne Zuckerbäck, dà
+                        isch jo wiss.
+                    
+
+        
+",lustig-dr-chineserfranz,47,5,0.0,0.10638297872340426
+79,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (steht uf un lüegt. D'Tante nimmt 's Kisse)
+
+          
 Eh... me därf ne jo nur eweg nàh, wenn er eim geniert!
                     
-",25,3,0.3642262412500615,0.12
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,25,3,0.3642262412500615,0.12
+80,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Jà, das geht nitt eso... 's isch g'schriwe, ass e
                         Schwarzer derzwische kunnt, un 's kunnt e Schwarzer
                         derzwische... das känne Sie nitt àndere!
                     
-",25,2,0.0,0.08
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,25,2,0.0,0.08
+81,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
-Lost Se, Tante, ich ha jetz g'nüe vo dem Làrifàri... we
-                        mr giengte geh ne Tournée mache-n-uf dr Màss.. 
 
           
-",23,2,0.2735,0.08695652173913043
-unknown,Tante DOMINO,F,,,"
+Lost Se, Tante, ich ha jetz g'nüe vo dem Làrifàri... we
+                        mr giengte geh ne Tournée mache-n-uf dr Màss.. 
+d'Sunne
+                        schint so schön... 's wàr schad, we me that in dr Stuwe
+                        bliwe.
+                    
+
+        
+",lustig-dr-chineserfranz,38,5,0.25994558171355825,0.13157894736842105
+82,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Ich hätt jetz liewer e Domino g'macht, denn 's isch
                         heiss duss... awer ich kumm doch mit...
 (fir sich)
-",22,5,0.16710202187307563,0.22727272727272727
-unknown,Herr GALFING,M,,,"
+ 's
+                        isch ewe ne Wilder uf dr Màss, e Neger, un ich sieh se
+                        züe gern... wenn dr Herr Gàlfink 's grosse Loos
+                        g'winnt, so müess er mir einer kaüfet 's sin züe schöne
+                        Lit... schön g'wachse-n-un alles...
+                    
+
+        
+",lustig-dr-chineserfranz,62,12,0.3572222003052359,0.1935483870967742
+83,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Also, so geh mr, Tante?
 (fir sich)
+ 's isch ewe ne dicke
+                        Fraü dert, eso Eine
 (er zeigt mit de Hànd)
-",18,2,0.0,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+, wenn i 's
+                        grosse Loss g'winn, so kaüf i se mit samt dr Baracke.
+                    
+
+        
+",lustig-dr-chineserfranz,41,3,0.0,0.07317073170731707
+84,comedy,Tante DOMINO,F,,,,"
           
 Tante.
 
+          
+
             
 Mr wànn uf d'Màss spaziere,
+
+            
 's geht als Iustig züe,
+
+            
 Me ka sich amüsiere
+
+            
 Dert als bis genüe.
-",20,2,0.6675,0.1
-unknown,Herr GALFING,M,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,20,2,0.6675,0.1
+85,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
 
+          
+
             
 Me sieht dert dicke Fraüe .
-",7,1,0.0,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,7,1,0.0,0.14285714285714285
+89,comedy,Tante DOMINO,F,,,,"
           
 Warte Se ne-n-Aügesblick, Herr Gàlfink, ich will nur
                         g'schwind geh mi Hüet un mi Shawl alege
 (se geht 
-
-          
+in's
+                        Zimmer links un losst e Schrei üs. Dr Zuckerbäck kunnt
+                        üse ku springe un laüft in's Zimmer rechts, ohne-n-ass
+                        ne dr Herr Gàlfink sieht)
+. Dr Geist! dr Geist!
 (se
                         kunnt üse)
-",26,2,0.0,0.07692307692307693
-unknown,Herr GALFING,M,,,"
+ Hàn Se jetz g'sàh, Herr Gàlfink?
+                    
+
+        
+",lustig-dr-chineserfranz,66,8,0.12875,0.12121212121212122
+90,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Ich gIaüb décidément Sie traümt, Tante; siter ass ich
                         vom grosse Loos g'red ha, isch se ganz üsser sich!
                     
-",21,3,0.3345668257206233,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,21,3,0.3345668257206233,0.14285714285714285
+91,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Das isch jetz doch sunderbar!... ich hätt jetz
                         g'schwore, ass ebbes Wisses nàwe mir
                         dureg'loffe-n-isch... Kämme Se, Herr Gàlfink!
                     
-",22,2,0.0,0.09090909090909091
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,22,2,0.0,0.09090909090909091
+92,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 En route, Tante!
 (se mache Tisch un Stiehl vo dr
                         Thüre)
-",15,1,0.0,0.06666666666666667
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,15,1,0.0,0.06666666666666667
+93,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (geht z'erst üse)
+
+          
 Gschpliesse Se d'Thüre güet züe un gàn Se mir dr
                         Schlissel derno.
                     
-",20,1,0.6777168752498955,0.05
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,20,1,0.6777168752498955,0.05
+94,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Jà, un 's Rosele, wenn's heimkunnt?
-",9,1,0.0,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,9,1,0.0,0.1111111111111111
+95,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's Rosele hat allewil e Schlissel im Sack, im Fall ass
                         ich nitt d'heim bi.
                     
-",17,2,0.0,0.11764705882352941
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,17,2,0.0,0.11764705882352941
+96,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Güet... gehn Se-n-efange, ich will nur g'schwind mi Hüet
                         un mi Stock nàh
 (er geht üse-n-un gschpliesst d 'Thüre
                         züe)
-",28,4,0.2749292188124739,0.14285714285714285
-unknown,Herr ALFRED,M,pastry_baker,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,28,4,0.2749292188124739,0.14285714285714285
+97,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred
-(kunnt üse)
-Jà, jà!... jetz stand i schön... ig'sperrt im e fremde
-                        Hüs... un noch derzüe grad hit, am e Sunntig, wo-
 
           
+(kunnt üse)
+
+          
+Jà, jà!... jetz stand i schön... ig'sperrt im e fremde
+                        Hüs... un noch derzüe grad hit, am e Sunntig, wo-
+n-ich
+                        am meiste z'thüe ha!... In mim Oncle si Koch, dr Neger,
+                        wo-n-er mitbrocht hat üs Amerika, dà isch wohl d'heim
+                        im Àtelier... er hilft mr als e wenig, wenn i pressiert
+                        bi... awer was ka-n-er mache, wenn ich nitt bi-n-em
+                        bi?... er ka jo nitt emol recht rede!... d'einzige
+                        Hoffnung, wo-n-i jetz ha, das isch, ass 's Rosele
+                        viellicht glich heimkunnt und mich befreit, es, wo ne
+                        Schlissel hat.. . was wott ich sage, wenn mich ebber
+                        thàt verwitsche do?... Aha, still! ich bi erlöst!... do
+                        isch's... 's kunnt d'Stege-n-ufe... jetz steckt's dr
+                        Schlissel in's Schloss...
 (er steht züe dr Thüre, se
                         geht uf, dr Neger kunnt inne mit ere Tarte; dr Herr
                         Alfred, ohne lang z'lüege, fallt em um dr Hals)
+ O
+                        Rosele, lieb Rosele!
 (se fahre beide üsenander un lehn
                         e Schrei üs)
-",67,8,0.2323409885709739,0.11940298507462686
-unknown,Herr ALFRED,M,pastry_baker,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,185,17,0.2745134063863407,0.0918918918918919
+99,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
+
+          
 Was dr Kückücks kunnsch Dü do ku mache?
-",10,2,0.0,0.2
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,10,2,0.0,0.2
+100,comedy,TOM,M,,,,"
           
 Tom
+
+          
 Jumpfer Rosele züe mir ku... so g'sàit: nimm das
 (er
                         zeigt uf d'Tarte)
+ un bring's Tante ich sie g'sàh
+                        furtgeh, Nieme d'heim... do Schlissel... dü warte dert
+                        e wenig, ich glich kumm... awer Achtung gà, dich nitt
+                        verwitsche lo... ich will Surprise mache dr Tante
 (er
                         legt si Tarte newe d'andere)
-",26,3,0.18233333333333335,0.11538461538461539
-unknown,Herr ALFRED,M,pastry_baker,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,60,9,0.060777777777777785,0.15
+101,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
+
+          
 Ah!... 's Rosele kunnt glich... güet, ich will e wenig
                         warte... d'Tante-n-isch uf d'Màss, die kunnt so
                         g'schwind nitt z'ruck!
                     
 
+          
+
             
 G'sang
+
+            
 (chers amis)
+
+            
 Vor lüter Freid thüet jetz mi Herz scho schlage,
+
+            
 Denn 's isch e Glick als fir mich, wenn ich ka
+
+            
 Mit ganzem Herz im Rosele-n-als sage,
+
+            
 Wie gern ich's ha. 
 (bis)
 
           
-",68,14,0.3289952073577396,0.20588235294117646
-unknown,TOM,M,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,68,14,0.3289952073577396,0.20588235294117646
+102,comedy,TOM,M,,,,"
           
 Tom.
 
+          
+
             
 Er nitt dumm, er nitt dumm, ich hör's ihm a;
+
+            
 Ich o verliebt, doch nie nit traüe sage,
+
+            
 Wie gern ich's ha. 
 (bis)
-",28,4,0.516,0.14285714285714285
-unknown,Herr ALFRED,M,pastry_baker,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,28,4,0.516,0.14285714285714285
+103,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
+
+          
 Awer sag, Tom, das isch jo die Tarte, wo dà Herr
                         b'stellt hat dà Morge un wo me hätt solle in's
                         Rosegàssle trage!
                     
-",26,3,0.0,0.11538461538461539
-unknown,Herr ALFRED,M,pastry_baker,,"
+
+        
+",lustig-dr-chineserfranz,26,3,0.0,0.11538461538461539
+105,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
+
+          
 Still, do isch jetz 's Rosele.
 (er laüft an d'Thüre, se
                         geht uf un d'Tante kunnt ine, Dr Herr Alfred, ohne lang
                         z'lüege, fallt ere mu dr Hals)
+ Lieb Rosele!
 (se lehn
                         alle drei e Schrei üs; dr Tom laüft in's Zimmer links,
                         dr Herr Alfred in's Zimmer rechts)
-",58,7,0.14114285714285715,0.1206896551724138
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,60,8,0.230875,0.13333333333333333
+106,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (zur Thüre-n-üse)
+
+          
 Z'Hilf! z'Hilf'!... dr Geist... er hat mi um dr Hals
                         gnu!
                     
-",20,1,0.515,0.05
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,20,1,0.515,0.05
+107,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (kunnt ine; er hat nit a as d'Hose, er hebt se mit
                         de Hànd, d'Hosetràgsr hànke-n-sm hinte-n-awe)
                     
+
+          
 Was isch... was git's... me ka nitt emol riehig si
                         Finett changiere do!
                     
-",41,1,0.0,0.024390243902439025
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,41,1,0.0,0.024390243902439025
+108,comedy,Tante DOMINO,F,,,,"
           
 Tante
-(zeigt uf's Zimmer rechts)
-Dert!...
-(se zittert)
-",13,1,0.547,0.07692307692307693
-unknown,Herr GALFING,M,,,"
-          
-Herr Gàlfink.
-Was isch eigentlig jetz das fir e Geisterg'schichte
-                        hit?...ich möcht nur emol einer sàh!... Ouf! was 
 
           
-",19,2,0.0,0.10526315789473684
-unknown,Tante DOMINO,F,,,"
+(zeigt uf's Zimmer rechts)
+
+          
+Dert!...
+(se zittert)
+.
+
+        
+",lustig-dr-chineserfranz,13,1,0.547,0.07692307692307693
+109,comedy,Herr GALFING,M,,,,"
+          
+Herr Gàlfink.
+
+          
+Was isch eigentlig jetz das fir e Geisterg'schichte
+                        hit?...ich möcht nur emol einer sàh!... Ouf! was 
+fir e
+                        Hitz... un was Lit uf dere Màss... nei nei, ich ha
+                        liewer nitt welle züe dr Dicke ine geh... mr hàn recht
+                        g'ha, Tante, ass mr glich wieder umkehrt sin... 's isch
+                        nitt züem üshalte gsi!
+                    
+
+        
+",lustig-dr-chineserfranz,57,7,0.27321572990933973,0.12280701754385964
+110,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Oh!... ich bitt Se drum, Herr Gàlfink, gehn Se doch emol
                         geh lüege... dert isch er ine g'sprunge
 (se zeigt
                         rechts)
-",24,2,0.0,0.08333333333333333
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,24,2,0.0,0.08333333333333333
+111,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Sie sieht nit ass Geister hit, Tante.
-",9,2,0.2575,0.2222222222222222
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,9,2,0.2575,0.2222222222222222
+112,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Wenn ich sag!... er isch ganz wiss.
-",8,1,0.394,0.125
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,8,1,0.394,0.125
+113,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (nimmt d'Tante am Arm un fiehrt se fire)
+
+          
 Weisst Sie denn nitt, voyons Tante, ass es keine Geister
                         meh git
 (dr Herr Alfred springt üse un laüft dervo. Se
                         kehre sich beide um un sàhn en üse witsche)
-",45,4,0.12875,0.08888888888888889
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,45,4,0.12875,0.08888888888888889
+115,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Sapristi... jà do!... hewe ne, hewe ne... ich müess vor
                         allem z'erst mine Hose hewe... hätt Sie-n-en g'hebt!...
                         ich will jetz geh mi Finett changiere
 (er geht üse. Dr
                         Tom lüegt üse links)
-",40,2,0.0,0.05
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,40,2,0.0,0.05
+116,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (wo ne sieht)
+
+          
 Herr Gàlfink! Herr Gàlfink!!.. er isch scho wieder
                         do!... awer jetz isch er schwarz!
 (Tom macht d'Thüre
                         züe)
-",27,4,0.0,0.14814814814814814
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,27,4,0.0,0.14814814814814814
+117,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (kunnt z'ruck)
+
+          
 Das isch 'jetz doch sunderbar... mr wànn jetz emol
                         lüege, was das eigentlig isch... hebt Se mir emol mine
                         Hose, Tante...
 (Se steht hinte-n-au em un hebt em
                         d'Hose. Dr Heu Gàlfink speit in d'Hand. Uf eimol kunnt
                         dr Neger üse ; se gehn beide hintersi z'ruck.)
-",60,6,0.09116666666666667,0.1
-unknown,TOM,M,,,"
+
+                    
+
+        
+",lustig-dr-chineserfranz,60,6,0.09116666666666667,0.1
+118,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (fir sich)
+
+          
 Ich liewer alles sage.
 (züer Tante)
-",13,2,0.4177550546826891,0.15384615384615385
-unknown,Tante DOMINO,F,,,"
+ Ich Neger...
+
+        
+",lustig-dr-chineserfranz,15,2,0.4177550546826891,0.13333333333333333
+119,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (züem Herr Galfink)
+
+          
 Er Neger...
 (se b'schaüe ne verwundert)
-",14,1,0.0,0.07142857142857142
-unknown,Herr GALFING,M,,,"
+.
+
+        
+",lustig-dr-chineserfranz,14,1,0.0,0.07142857142857142
+120,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Vo Riedese?...
-",4,1,0.0,0.25
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,4,1,0.0,0.25
+121,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (stolz)
+
+          
 Ich Mississippi-Neger!
-",6,1,0.516,0.16666666666666666
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.516,0.16666666666666666
+122,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (züem Herr Gàlfink)
+
+          
 Er Missippippi-Neger...
-",8,1,0.0,0.125
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,8,1,0.0,0.125
+123,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Me ka's jo prawiere
 (er macht ei Hosetràger a, speit uf
                         si Nastücchzipfel un ribt am Neger siner Hand).
-",24,3,0.18233333333333335,0.125
-unknown,Herr GALFING,M,,,"
+
+                    
+
+        
+",lustig-dr-chineserfranz,24,3,0.18233333333333335,0.125
+125,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Allons, allons... 's isch e güete Farb... 's isch nit
                         dervo abgange!
                     
-",14,2,0.3388584376249478,0.14285714285714285
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,14,2,0.3388584376249478,0.14285714285714285
+126,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Ich dà Morge Herr Alfred gsi un...
-",8,2,0.0,0.25
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,8,2,0.0,0.25
+127,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (unterbricht ne. Fir sich)
+
+          
 Wenn er dà Morge dr Herr Alfred gsi isch, so wird er's
                         jetz noch si... Tiens, 's Rosele hat mir nitt g'sàit,
                         ass es e Neger isch, si Alfred!...
 (schlat si an
                         d'Stirn)
-",44,4,0.0,0.09090909090909091
-unknown,Herr GALFING,M,,,"
+ eh! wie ha-n-ich's awer a nitt g'merkt!...
+                        natirlig isch's e Neger, wil er in Amerika uf d'Welt ku
+                        isch !
+                    
+
+        
+",lustig-dr-chineserfranz,68,8,0.13658484046877306,0.11764705882352941
+128,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Enfin, mache-n-ihr's üs mitnander.... ich will jetz emol
                         geh mi Finett changiere!
 (er geht üse)
+.
+                    
 
           
-",22,2,0.197,0.09090909090909091
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,22,2,0.197,0.09090909090909091
+129,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (zeigt uf d'Tarte)
+
+          
 Ich das brocht... Jumpfere mir Schlissel gà...
-",14,3,0.18233333333333335,0.21428571428571427
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,14,3,0.18233333333333335,0.21428571428571427
+130,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Aha!... jetz merk i's scho... Ihr hà mr welle ne
                         Surprise mache... das güete Rosele!
 (fir sich)
+ wer hat
+                        denn awer d'andere Tarte brocht? Er isch gar nitt
+                        schlecht, dr Herr Alfred
 (se b'schaüt ne mit
                         Wohlg'falle)
+ so hätt's mr's denn glich g'sàit, ass es e
+                        Neger isch!... e Neger!... ich ha allewil denkt, wenn
+                        ich doch nur emol einer vo ganz nooch kannt b'schaüe
+                       
 (dr Neger lacht se zartlig a)
+ wenn's nitt wàr wege-n-em
+                        Dominospiele mit em Herr Gàlfink, so wàr ich im Rosele
+                        gar nitt derwider, wenn's ne thàt hirothe... ich hätt
+                        scho lang gern e Neger um mich umme g'ha... er kännt mr
+                        als dr Schlepp trage!... ich kannt ihn jo awer lehre
+                        Domino spiele, derno kännt er dr Herr Gàlfink
+                        remplaciere!... das isch e-n-Idee... wenn er's derno
+                        ka, so derfe se hirothe
 (züem Neger)
+ Sie Domino
+                        spiele?...
 (züem Public)
-",44,3,0.4759056250832985,0.06818181818181818
-unknown,TOM,M,,,"
+ hein, wie-n-ich scho güet
+                        Negerditsch ka rede?...
+                    
+
+        
+",lustig-dr-chineserfranz,174,15,0.20309558336665273,0.08620689655172414
+131,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Ich nitt stark... ich als liewer mit Messer g'spielt!
                        
 (er macht d'Bewegung vom Scalpiere un rollt
                         ferchterlige-n-Aüge)
-",23,3,0.2785033697884594,0.13043478260869565
-unknown,Tante DOMINO,F,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,23,3,0.2785033697884594,0.13043478260869565
+132,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (fir sich)
+
+          
 Isch er schön, dà Neger, wenn er eso macht!... wenn er
                         nur thàt wild werde un thàt mi e wenig wirge... nitt
                         stark... nur fir z'sàh, wie's eim si mag, we me vo de
                         Wilde-n-iwerfalle wird... ich ha dert ewe-n-eso ne
                         Roman g'lese... brrr!...
 (züem Neger)
+ ich Sie lehre
+                        Domino spiele
 (fir sich)
+ ich brüch jo eigentlig nitt
+                        Negerditsch mit em z'rede, er ka jo Milhüserditsch,
+                       
 (züem Neger)
+ Setze Se sich emol do ane, mr wànn lüege,
+                        was Se känne...
 (dr Neger sitzt an Tisch, se sitzt
                         züe-n-em nimmt d'Domino un mischelt se)
-",85,10,0.12367279085677914,0.11764705882352941
-unknown,Tante DOMINO,F,,,"
+ so, wie viel
+                        nàmme mr?
+                    
+
+        
+",lustig-dr-chineserfranz,121,12,0.10306065904731594,0.09917355371900827
+134,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh bien, sechse
 (se nàmme sechs Domino)
-",10,1,0.5456787237501844,0.1
-unknown,Tante DOMINO,F,,,"
+.
+
+        
+",lustig-dr-chineserfranz,10,1,0.5456787237501844,0.1
+138,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh, ich ha jo o kei fünf...
 (fir sich)
-",12,2,0.2728393618750922,0.16666666666666666
-unknown,TOM,M,,,"
+ jetz wird mr
+                        glich dà Espèce Neger do in siner Dummheit e Parthie
+                        abg'winne!
+                    
+
+        
+",lustig-dr-chineserfranz,26,3,0.18189290791672816,0.11538461538461539
+143,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Nei, ich schwarz am ganze Lib... wiss un zwei!
-",10,3,0.13133333333333333,0.3
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,10,3,0.13133333333333333,0.3
+146,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh! das isch jo pràchtig
 (fir sich)
+ er meint noch, er
+                        seig nitt stark, er isch noch stärker ass dr Herr
+                        Gàlfink, drum weiss i nitt, worum ass er 's Rosele nitt
+                        sott hirothe.
 (züem Tom)
-",14,2,0.2728393618750922,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
+ Sie wotte-n-also mi Nièce, 's
+                        Rosele, hirothe?...
+                    
+
+        
+",lustig-dr-chineserfranz,50,5,0.10913574475003689,0.1
+148,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Sie brüche sich nitt z'verstelle... ich weiss alles...
                         's Rosele hat mr g'sàit, ass es Sie gern hat un ass es
                         kei anderer Mann will.
                     
-",27,2,0.49249999999999994,0.07407407407407407
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,27,2,0.49249999999999994,0.07407407407407407
+149,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Ah!... wenn das isch... mir scho recht... Rosele schöne
                         Jumpfre... wenn dr Hochzitstag?
                     
-",14,2,0.37636395428389563,0.14285714285714285
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,14,2,0.37636395428389563,0.14285714285714285
+151,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Ich frei... ich mache ka, was' ich will!
-",9,1,0.5727084284497693,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,9,1,0.5727084284497693,0.1111111111111111
+152,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (fir sich)
+
+          
 Das isch alles recht, awer 's isch mr èwe nur um's
                         Vermöge... wenn dr Oncle nitt z'friede-n-isch, so git
                         er in sim Neveu nit, das isch klar... doch still, do
                         kunnt jetz 's Rosele glaüb?
 (züem Tom)
+ wisse Sie was...
+                        gehn Se ne wenig dert ine
 (se zeigt uf d'Thüre links)
+,
+                        mr wànn im Rosele jetz o ne Surprise mache.
 (se schiebt
                         ne ine, me klopft a)
+ Entrez!
 (dr Herr Samüel kunnt
                         ine)
-",72,8,0.2993927638944618,0.1111111111111111
-unknown,Herr SAMÜEL,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,91,8,0.2993927638944618,0.08791208791208792
+153,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (salütiert un schaüt ummenander. Fir sich).
+
+          
 Aha, do isch jetz emol d'Tante... d'Nièce wird nitt wit
                     si... 's isch eso ziemlig süfer do!
 (züer Tante)
-",33,4,0.2345,0.12121212121212122
-unknown,Tante DOMINO,F,,,"
+
+                    Verzeihe Se, wohnt nitt do ne g'wisser Herr... Knopf?
+
+        
+",lustig-dr-chineserfranz,42,6,0.15633333333333332,0.14285714285714285
+154,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Knopf... Knopf... nei, 's wohnt Nieme-n-eso im Hüs...
                         Herr Gàlfink, wànn Sie sage?...
                     
-",16,2,0.2795,0.125
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,16,2,0.2795,0.125
+155,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samuel.
+
+          
 Verzeihe Se... nitt wohr, Sie erlaüwe mir e wenig
                         z'sitze?
 (er nimmt e Stüehl un sitzt)
-",21,3,0.10933333333333334,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
+ mine Bei sin
+                        efange alt, un das Stege-n-ufegeh thüet mich famos
+                        agriffe!... frieiher, jà, wo me noch sine achtzeh Johr
+                        g'ha hat, do isch's als ganz anderscht gsi... do hat me
+                        d'Stege nitt emol brücht, me isch züem Fenster üse
+                        g'sprunge, wenn's pressiert hat... alleweg, ich ha das
+                        emol g'macht, un grad siter sàllemol ha-n-ich eso ne
+                        Espèce Stich im linke Bei...
+                    
+
+        
+",lustig-dr-chineserfranz,90,9,0.12711111111111112,0.1
+156,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Tiens, tiens, tiens!... ah! Sie sin emol züem Fenster
                         üse g'sprunge?
 (fir sich)
-",16,1,0.0,0.0625
-unknown,Herr SAMÜEL,M,,,"
+ grad as wie dr Samüel!
+                    
+
+        
+",lustig-dr-chineserfranz,21,2,0.0,0.09523809523809523
+157,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Pardon, ich verzähl Ihre do Sache, wo Sie gar nitt
                         intressiere wird... ich ha jetz üsg'rüeht un will Sie
                         nitt langer belästige...
                     
-",24,2,0.0,0.08333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,24,2,0.0,0.08333333333333333
+158,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Gar nitt... gar nitt... Sie thien mich gar nitt
                         belastige, Herr...
                     
-",12,1,0.0,0.08333333333333333
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,12,1,0.0,0.08333333333333333
+159,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Samüel !
 
           
-",3,1,0.0,0.3333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,3,1,0.0,0.3333333333333333
+160,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (verwundert)
+
+          
 Herr Samüel?
 (fir sich)
+ Hein! er heisst Samüel!...
+                        tiens, tiens, tiens,
 (se b'schaüt ne)
-",15,2,0.0,0.13333333333333333
-unknown,Herr SAMÜEL,M,,,"
+ wenn's doch...
+                        worum nitt?... 's isch jetz vierzig Johr, un in vierzig
+                        Johr ka me changiere... un er isch mer glich e wenig
+                        bekannt vorku... ich will's jetz glich wisse...
+                    
+
+        
+",lustig-dr-chineserfranz,54,3,0.0,0.05555555555555555
+161,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Also wohnt Nieme-n-eso do?... isch Sie allei do im
                         Hüs?
                     
-",14,3,0.18633333333333335,0.21428571428571427
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,14,3,0.18633333333333335,0.21428571428571427
+162,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Mi Nièce isch bi mr un dert newe-n-uns wohnt dr Herr
                         Gàlfink... Hàn Sie nitt g'sàit, Sie hewe dr Stich im
                         Bei vom Springe?... ich ka Sympathie tir das... nur
                         isch's jetz wohrschinlig scho ne wenig lang, ass Sie's
                         hàn, nitt wohr?...
                     
-",47,3,0.10933333333333334,0.06382978723404255
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,47,3,0.10933333333333334,0.06382978723404255
+163,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Ne so ebbes wie vierzig Johr.
-",8,1,0.0,0.125
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,8,1,0.0,0.125
+164,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (ufg'regt)
+
+          
 Un derno... isch's vo hoch, as Sie üseg'sprunge sin?
-",14,1,0.0,0.07142857142857142
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,14,1,0.0,0.07142857142857142
+165,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 So ziemlig... vom erste Stock.
-",7,3,0.15633333333333332,0.42857142857142855
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,7,3,0.15633333333333332,0.42857142857142855
+166,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Wohrschinlig isch's wege-n-ere Jumpfre gsi, nitt wohr,
                         wo Sie sàller Tag fir nit un wieder nit compromettiert
                         un derno im Stich g'lo hàn?...
                     
-",27,2,0.164,0.07407407407407407
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,27,2,0.164,0.07407407407407407
+167,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (verwundert)
+
+          
 Tiens, wie weisst Sie das?
-",10,1,0.0,0.1
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,10,1,0.0,0.1
+168,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (steht vorne an en)
+
+          
 B'schaüe Sie mich emol recht, Herr Samüel.
-",14,2,0.0,0.14285714285714285
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,14,2,0.0,0.14285714285714285
+169,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (b'schaüt se, uf eimol springt er uf)
+
+          
 Schelastika, Sie! Dü! isch's möglig?
-",17,3,0.3646666666666667,0.17647058823529413
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,17,3,0.3646666666666667,0.17647058823529413
+170,comedy,Tante DOMINO,F,,,,"
+          
+Tante
+
+          
+(freidig)
+
+          
+Er hat mich erkennt.
+(se fallt em um dr Hals)
+ Jà,
+                        Samüel... Di Schelastika, wo Dich eso gern g'ha hat,
+                        wieschter Mensch, un wo Dü-n-eso lichtsinnig verlo
+                        hasch!
+                    
+
+        
+",lustig-dr-chineserfranz,36,3,0.18233333333333335,0.08333333333333333
+171,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (macht si los)
+
+          
 Los, Schelastika, 's isch g'wiss nitt mi Schuld gsi!...
                         wo-n-ich sàller Tag züem Fenster üse g'sprunge bi, so
                         hat sich's grad troffe, ass mi Vater dure-n-isch... ich
@@ -1231,468 +2259,851 @@ Los, Schelastika, 's isch g'wiss nitt mi Schuld gsi!...
                         g'schriwe üs Amerika, un Dü hasch mir nie kei Antwort
                         gà?
                     
-",140,17,0.1181412326072788,0.12142857142857143
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,140,17,0.1181412326072788,0.12142857142857143
+173,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 So hat se halt mi Oncle z'ruck b'halte.
-",11,3,0.0,0.2727272727272727
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,11,3,0.0,0.2727272727272727
+174,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's isch möglig... awer sag, wie alt bisch Dü worde, mi
                         liewer Samüel!... ich hätt Dich nimmig erkennt
 (fir
                         sich)
-",23,2,0.4177550546826891,0.08695652173913043
-unknown,Herr SAMÜEL,M,,,"
+ un wege so me Kopf ha-n-ich eso lang grine!... O
+                        Jugend! o Jugend!...
+                    
+
+        
+",lustig-dr-chineserfranz,38,6,0.26425168489422973,0.15789473684210525
+175,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samuel.
+
+          
 Mi Galanterie losst mir's nitt züe, Dir 's gliche
                         z'sage, awer Dü kasch wahl denke, ass De o nimmig hitig
                         bisch.
 (fir sich)
+ Isch die wiescht worde!... un fir eso
+                        ne Profil ha-n-ich riskiert, mir dr Hals z'breche!...
 
-          
+                        wie isch me doch so dumm, we me jung isch!...
 (züer
                         Tante)
-",33,3,0.078,0.09090909090909091
-unknown,Tante DOMINO,F,,,"
+ awer sag jetz, Schelastika, Dü weisch doch
+                        g'wiss nitt, worum ass ich eigentlig do ane ku bi?
+                    
+
+        
+",lustig-dr-chineserfranz,78,9,0.12033333333333333,0.11538461538461539
+176,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh, wege dem Herr Knopf, wo do sott wohne.
-",10,2,0.2728393618750922,0.2
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,10,2,0.2728393618750922,0.2
+177,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Dü bisch nitt drin!... das isch nur e-n-Üsred gsi...
                         weisch Dü, ass ich im Alfred si Oncle bi?
                     
-",22,1,0.0,0.045454545454545456
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,22,1,0.0,0.045454545454545456
+179,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Ich... ich ha mr vorgnu g'ha, ku z'lüege, was eigentlig
                         das fir e Person isch, wo-n-er eso vernarrt isch in
                         se... à propos, wo isch se, Di Nièce, ich ha se no nitt
                         g'sàh?
                     
-",39,3,0.0,0.07692307692307693
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,39,3,0.0,0.07692307692307693
+180,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's Rosele-n-isch z'Visite bi-n-ere Frindin... oh!... 's
                         isch e güet Kind, wo dr Herr Alfred g'wiss glicklig
                         macht!
 (fir sich)
-",28,6,0.32728875946863045,0.21428571428571427
-unknown,Herr SAMÜEL,M,,,"
+ ich halt ewe jetz an mim Neger!
+                    
+
+        
+",lustig-dr-chineserfranz,35,7,0.28053322240168327,0.2
+181,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Ich zwifel nitt dra... un wil's jetz eso isch, so gib
                         ich mi Iwilligung scho züem vorüs.... wenn mir nitt
                         glicklig hàn känne si, so wà mr doch uf's wenigst unsre
                         Kinder glicklig mache, nitt wohr, Schelastika?
                     
-",41,9,0.3286684090624319,0.21951219512195122
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,41,9,0.3286684090624319,0.21951219512195122
+182,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Mr wànn's hoffe... ich gunn 's Rosele im Herr Alfred, er
                         bikunnt g'wiss e güete Fraü, awer hein, wie dà-n-eso
                         schön schwarz isch?
                     
-",27,5,0.36108895676353736,0.18518518518518517
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,27,5,0.36108895676353736,0.18518518518518517
+183,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Wer?
-",3,1,0.0,0.3333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,3,1,0.0,0.3333333333333333
+184,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh, dr Herr Alfred, parbleu!
-",6,2,0.2728393618750922,0.3333333333333333
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,6,2,0.2728393618750922,0.3333333333333333
+185,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Dr Alfred schwarz?... ich glaüb, Dü traümsch!
-",9,3,0.15795570874126413,0.3333333333333333
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,9,3,0.15795570874126413,0.3333333333333333
+186,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Was traüme!... er glànzt jo ganz vor Schwärze!... De
                         wirsch's doch ebbe nitt welle verstecke?... De weisch,
                         's macht mr nit, im Gegetheil... ich hätt scho lang
                         gern e Neger um mich umme g'ha!...
                     
-",36,4,0.23525000000000001,0.1111111111111111
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,36,4,0.23525000000000001,0.1111111111111111
+187,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Was dr Kückücks verzahlsch jetz Dü mir do vo Neger!...
                         Ich weiss nitt...
                     
-",15,1,0.0,0.06666666666666667
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,15,1,0.0,0.06666666666666667
+188,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (unterbricht ne)
+
+          
 Ah çà!... De wirsch doch ebbe nitt welle làigne, ass dr
                         Herr Alfred e Neger isch!
                     
-",21,2,0.0,0.09523809523809523
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,21,2,0.0,0.09523809523809523
+189,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Par exemple!
-",4,1,0.0,0.25
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,4,1,0.0,0.25
+190,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's Rosele hat mr ne jo hit do ane g'schickt mit ere
                         Tarte... wohrschinlig, ass ich ne soll lehre kenne...
                         un, du reste, er hat mr's jo selwer gsàit in siner
                         Negersproch...
                     
-",34,2,0.0,0.058823529411764705
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,34,2,0.0,0.058823529411764705
+191,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (lacht)
+
+          
 Aha, ich merk ebbes... zeig, wie hat er das Ding
                         g'sàit?
                     
-",16,2,0.375,0.125
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,16,2,0.375,0.125
+192,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Er hat g'sàit: « Ich dà Morge Herr Alfred gsi », also,
                         wenn er dà Morge dr Herr Alfred gsi isch, so isch er o
                         ne jetz noch... oder isch er viellicht nur z'Mittag e
                         Neger?
                     
-",38,5,0.0,0.13157894736842105
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,38,5,0.0,0.13157894736842105
+193,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Ich sieh scho, Schelastika, Dü verstehsch d'Negersproch
                         no nitt recht!... dà Neger, wo Dü g'sàh hasch, das isch
                         mi Koch, wo-n-ich üs Arnerika mitbrocht ha... 
+er wird
+                        ha welle sage, « ich bi dà Morge bim Herr Alfred gsi »,
+                        denn er geht em als geh - helfe am e Sunntig.
+                    
 
-          
-",30,3,0.0,0.1
-unknown,Tante DOMINO,F,,,"
+        
+",lustig-dr-chineserfranz,56,6,0.0,0.10714285714285714
+194,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh, 's isch jo wohr... wo ha-n-i denn mi Verstand g'ha
                        
 (fir sich)
+ in miner Freid, e Neger z'biku, ha-n-ich
+                        halt nitt witerscht denkt... un ich, wo jetz in dem
+                        Schwarze versproche ha, er derf 's Rosele hirothe!
+                       
 (züem Herr Samüel)
+ De magsch recht ha, Samüel
 (fir
                         sich)
-",27,6,0.23144645395836405,0.2222222222222222
-unknown,Herr SAMÜEL,M,,,"
+ jetz spring ich um mi Neger... à moins, ass ich
+                        ne selbst hiroth... was soll ich ihm jetz sage?
+                    
+
+        
+",lustig-dr-chineserfranz,79,12,0.21960473291034388,0.1518987341772152
+195,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Un jetz will ich im Alfred geh dà güete B'richt
                         bringe... De kännsch is ilade züem Nachtesse, ass mr
                         derno das Ding in Richtigkeit mache.
                     
-",27,3,0.39257229174996516,0.1111111111111111
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,27,3,0.39257229174996516,0.1111111111111111
+196,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 's isch e Wort... ich will glich e Sach rischte... 's
                         Rosele wird jetz glich heim ku... mr erwarte-n-eüch in
                         ere halb Stund.
                     
-",26,4,0.0,0.15384615384615385
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,26,4,0.0,0.15384615384615385
+197,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
-(blibt an dr Thüre steh)
-Also in ere halb Stund
-(fir sich)
-(lüt)
-",21,3,0.0,0.14285714285714285
-unknown,Tante DOMINO,F,,,"
-          
-Tante
-(fir sich)
-Sag mr jetz nur emol ei Mensch, was ich 'mit dem Neger
-                        afange soll... wenn er mir's nur nitt iwel nimmt... 
 
           
+(blibt an dr Thüre steh)
+
+          
+Also in ere halb Stund
+(fir sich)
+ ich's möglich, ass
+                        me-n-eso wiescht ka werde mit dr Zit...
+(lüt)
+ au
+                        revoir, Schelastika!
+                    
+
+        
+",lustig-dr-chineserfranz,37,5,0.0,0.13513513513513514
+199,comedy,Tante DOMINO,F,,,,"
+          
+Tante
+
+          
+(fir sich)
+
+          
+Sag mr jetz nur emol ei Mensch, was ich 'mit dem Neger
+                        afange soll... wenn er mir's nur nitt iwel nimmt... 
+so
+                        Schwarze sin als màngmol g'fàhrlig, we me se bös
+                        macht...
 (d'Thüre geht uf, dr Neger kunnt üso mit eme
                         Masser in dr Hand)
-",43,4,0.24225000000000002,0.09302325581395349
-unknown,TOM,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,54,7,0.13842857142857143,0.12962962962962962
+200,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (zornig)
+
+          
 Ich alles g'hört!... awer ich Rosele hirothe oder
                         Unglick astelle!...
 (er fechtet mit em Messer; d'Tante
                         losst e Schrei üs un springt in's Zimmer rechts)
-",33,3,0.0,0.09090909090909091
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,33,3,0.0,0.09090909090909091
+201,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (kunnt hinte-n-ine)
+
+          
 Ich o alles g'hört... ich o will Rosele hirothe oder
                         Unglick astelle!
                     
-",20,2,0.0,0.1
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,20,2,0.0,0.1
+203,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (springt àngstlig uf d'Site)
+
+          
 Ich nimmig welle! ich nimmig welle!
 (fir sich)
-",19,3,0.18233333333333335,0.15789473684210525
-unknown,TOM,M,,,"
+ ich
+                        bekàm's jo doch nitt, ich ha's scho g'hört... un jetz
+                        gar nimmig... ich ha nitt nur 's grosse Loos nitt
+                        g'wunne, awer mine Titres sin eso wit awe g'falle, ass
+                        se gar Nieme meh will; ich bi rüiniert!
+                    
+
+        
+",lustig-dr-chineserfranz,60,7,0.16524292530883855,0.11666666666666667
+204,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (zornig)
+
+          
 Ich nimmig so lewe... ich wieder wild werde
 (er zieht si
                         Kittel üs)
-",19,3,0.21823195400037432,0.15789473684210525
-unknown,Herr GALFING,M,,,"
+ ich wieder Menschefleisch esse!
+                    
+
+        
+",lustig-dr-chineserfranz,23,3,0.21823195400037432,0.13043478260869565
+205,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (fir sich)
+
+          
 Diable, diable!... wenn er nur nitt dr G'lust an mir
                         z'erst biesse will!
 (züem Neger)
+ ich o nimmig so lewe,
+                        ich o wild werde!
 (er zieht si Kittel o üs)
+ das isch
+                        jetz d'vierte Fraü, wo mir eso üswitscht!... wer wott
 
-          
-",32,2,0.0,0.0625
-unknown,TOM,M,,,"
+                        denn nitt wild werde!... Fir was das civilisierte Lewe
+                        do, wo eim doch nit as Kummer un Sorge bringt!.. ich
+                        hass d'Menschheit un will vo Nieme nit meh wisse.. 's
+                        sin doch nur alle falsch an eim!
+                    
+
+        
+",lustig-dr-chineserfranz,91,12,0.14169931033352048,0.13186813186813187
+206,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Jà, jà... ganz eso!
-",5,1,0.394,0.2
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,5,1,0.394,0.2
+207,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (züem Tom)
+
+          
 Mir alles üszieh un wieder si, wie d'Natür uns erschaffe
                         hat... mir Nieme brüche derno... mir in d'Hardt oder in
                         dr Nunnebrüech geh!
                     
-",31,2,0.25,0.06451612903225806
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,31,2,0.25,0.06451612903225806
+209,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (macht si Gilet uf)
+
+          
 Hat eim d'Natür uf d'Welt mache z'ku mit eme Gilet un
                         Knapf dra? oder mit Schüeh a un Stolpernägel drin ?
 (er
                         wirft si Gilet dert ane)
+ furt mit dem Dings!... furt
+                        mit dàne Schüeh, wo-n-eim doch nur Agerste-n-Aüge mache
+                        un wo me derwege dr Sclav' vo sim Schüehmacher isch
 (er
                         sitzt ane, fir d'Schüeh üsz'zieh, dr Neger imitiert ne)
 
+                        doch still... in dr Hardt sin als Därn am Bode... mr
+                        wànn noch warte-n-un 's Unnöthigste z'erst üszieh!...
+                    
+
+          
+
             
 G'sang
+
+            
 (Nei, nei, das thüet dr Peter nitt)
-Mir liewer frei un wild wànn geh
-Un wisse vo de Lit nit meh,
-Un nit vo Kleider, Strümpf un Schüeh,
-Mir scho fir 's Esse g'nüe hàn z'thüe!
-",92,12,0.28726821148459564,0.13043478260869565
-unknown,Herr GALFING,M,,,"
-          
-Herr Gàlfink.
-Wenn ich nur die Sproch scho kännt!
-",9,1,0.0,0.1111111111111111
-unknown,Herr GALFING,M,,,"
-          
-Herr Gàlfink.
-Jà, 's wird harze, das isch wohr!
-",9,3,0.2916666666666667,0.3333333333333333
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
-          
-Mitnander.
 
             
 Mir liewer frei un wild wànn geh
+
+            
 Un wisse vo de Lit nit meh,
+
+            
 Un nit vo Kleider, Strümpf un Schüeh,
+
+            
+Mir scho fir 's Esse g'nüe hàn z'thüe!
+
+          
+
+        
+",lustig-dr-chineserfranz,140,14,0.27772989555822486,0.1
+211,comedy,Herr GALFING,M,,,,"
+          
+Herr Gàlfink.
+
+          
+Wenn ich nur die Sproch scho kännt!
+
+        
+",lustig-dr-chineserfranz,9,1,0.0,0.1111111111111111
+213,comedy,Herr GALFING,M,,,,"
+          
+Herr Gàlfink.
+
+          
+Jà, 's wird harze, das isch wohr!
+
+        
+",lustig-dr-chineserfranz,9,3,0.2916666666666667,0.3333333333333333
+214,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Mitnander.
+
+          
+
+            
+Mir liewer frei un wild wànn geh
+
+            
+Un wisse vo de Lit nit meh,
+
+            
+Un nit vo Kleider, Strümpf un Schüeh,
+
+            
 Mir scho fir 's Esse g'nüe hàn z'thüe
-",31,5,0.40884370756302946,0.16129032258064516
-unknown,Herr GALFING,M,,,"
+
+          
+
+        
+",lustig-dr-chineserfranz,31,5,0.40884370756302946,0.16129032258064516
+215,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (züem Tom)
+
+          
 Allons!... noch 's Hemd un d'Hose, derno hat's es
 (er
                         niesst)
+ so, jetz ha-n-i scho dr Schnüppe, wil i do nur
+                        e wenig in de Hemdärmel gsi bi
 (er zieht e gross
                         Carreaux-Nastüech üs em Sack un putzt d'Nase. 's
                         Trombone à coulisse macht dr Blost)
-",42,3,0.08066666666666666,0.07142857142857142
-unknown,Herr GALFING,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,61,4,0.0605,0.06557377049180328
+217,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
+
+          
 (fir sich)
+
+          
 Ich sieh scho, das Ding isch nitt so güet z'mache,
                         wie-n-ich glaübt ha... das sin Dummheite... 's isch mr
                         jetz scho ganz kisterig im Hals!... wenn ich erst gar
                         nit a hätt!
 (züem Tom)
-",45,5,0.2143433750499791,0.1111111111111111
-unknown,TOM,M,,,"
+ ich mich ha-n-anderscht
+                        b'sunne... ich noch e paar Tàg warte fir wild z'si, bis
+                        mi Schnüppe-n-umme-n-isch.
+                    
+
+        
+",lustig-dr-chineserfranz,68,9,0.14596854169443285,0.1323529411764706
+218,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Nix, nix!... nitt warte... ich Hunger no
                         Menschefleisch!
                     
-",9,2,0.0,0.2222222222222222
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,9,2,0.0,0.2222222222222222
+219,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Bigr! bigr!... ich ha mich glaüb e wenig z'wit
                         avanciert?... ich derf ne nitt contrariere, sunscht
                         kunnt er am End noch hinter mich!
 (züem Tom)
+ Dü mich
+                        letz verstande...
 (fir sich)
+ das isch jetz alles recht,
+                        awer wie soll ich mich jetz do drüs ziege? Aha, still!
+                       
 (züem Tom)
+ Dü begriffe, mir nitt känne dur d'Stadt geh,
+                        fir in d'Hardt, mit nit a as e Fingering... 's isch
+                        verbote ... mir uns erst im Wald üszieh.
+                    
 
           
-",38,3,0.15795570874126413,0.07894736842105263
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,86,10,0.14298671262237925,0.11627906976744186
+220,comedy,TOM,M,,,,"
           
 Tom.
+
+          
 Güet!... awer mir glich geh...
-",6,1,0.6777168752498955,0.16666666666666666
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,6,1,0.6777168752498955,0.16666666666666666
+221,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Uf dr Stell!...
 (fir sich)
+ ich schick ne vorüs, er soll
+                        derno warte!
 (lüt)
+ Still, 's kunnt glaüb ebber!... mir
+                        dert ine geh uns fertig alege
 (er zeigt uf d'Thüre
                         links. Se nàmme-n-ihre Kleider z'àmme-n-un
                         springe-n-ine, dr Herr Gàlfink z'letscht)
-",37,7,0.1562857142857143,0.1891891891891892
-unknown,Herr SAMÜEL,M,,,"
+.
+                    
+
+        
+",lustig-dr-chineserfranz,57,11,0.18262428420216292,0.19298245614035087
+222,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
+
+          
 (kunnt z'erst ins-u-un sieht dr Herr Gàlfink noch
                         üsespringe)
                     
+
+          
 Was dr Kückücks isch das?
 (züem Alfred un Rosele, wo
                         hinte-n-an 'm ine kämme)
+ ich glaüb, die Herre gehn geh
+                        bade?...
 (züer Tante, wo-n-üs em Zimmer rechts kunnt ku
                         stürze)
-",46,4,0.0,0.08695652173913043
-unknown,Tante DOMINO,F,,,"
+ hasch Dü ne Badhüs, Schelastika?... doch ich
+                        vergiss... ich presentier Dr mi Neveu, dr Alfred... De
+                        siehsch, er isch kei bitzi schwarz... ich ha dàne
+                        Kinder alles verzählt uf em Weg doch, was hasch?... De
+                        bisch jo ganz verstört!
+                    
+
+        
+",lustig-dr-chineserfranz,92,11,0.17308025525324358,0.11956521739130435
+223,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Eh, denke nur, dr Neger un dr Herr Gàlfink wànn in
                         d'Hardt geh Wilde si!... si hàn sich üszoge do, ich ha
                         mich miesse flichte... züem Glick, ass ihr ku sin...
                         grad sin se dert ine g'sprunge, wo se-n-eüch g'hört
                         hàn.
                     
-",45,7,0.11252553196431206,0.15555555555555556
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,45,7,0.11252553196431206,0.15555555555555556
+224,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 De brüchsch kei Angst z'ha vor em Neger, 's kunnt
                         vielmol eso a-n-en... 's isch als glich wieder umme...
 
-          
+                        dr Herr Gàlfink, dà weiss i halt nitt, wie wild as er
+                        isch.
 (er holt dr Neger üse-n-am Ohr)
-",34,2,0.0,0.058823529411764705
-unknown,ROSELE,F,,,"
+ Was ha-n-i g'hört
+                        Tom, D' seigsch wieder ab?
+                    
+
+        
+",lustig-dr-chineserfranz,57,5,0.0484,0.08771929824561403
+225,comedy,ROSELE,F,,,,"
           
 Rosele
+
+          
 (züem Herr Gàlfink, wo hinte-n-am Neger üsekunnt)
                     
+
+          
 Awer Herr Gàlfink, wie hàn Sie känne mi Tante in eso ne
                         Schrecke versetze?
                     
-",26,3,0.0,0.11538461538461539
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,26,3,0.0,0.11538461538461539
+226,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 's isch üs Verzwiflung gsi, Rosele, wil Sie will
                         e-n-Anderer hirothe!
 (er sieht dr Herr Alfred)
-",22,3,0.0,0.13636363636363635
-unknown,Herr ALFRED,M,pastry_baker,,"
+ o
+                        sapristi! mi Zuckerbäck!
+                    
+
+        
+",lustig-dr-chineserfranz,26,3,0.0,0.11538461538461539
+227,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
+
+          
 Eh tiens, das isch jo dà Herr, wo mir dà Morge ne Tarte
                         b'stellt hat un mir e Liewesbrief gà hat fir dri, fir
                         d'Jumpfer Schelastika im Rosegàssle!... Dert isch die
                         Tarte, dr Tom hat se-n-üs Irrthum do ane brocht!
                     
-",45,8,0.06820984046877306,0.17777777777777778
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,45,8,0.06820984046877306,0.17777777777777778
+228,comedy,Tante DOMINO,F,,,,"
           
 Tante.
+
+          
 Ah so, Herr Gàlfink!... das isch e schöne G'schichte..
                         wie viel hàn Se noch eso?... un Sie hàn welle 's Rosele
                         hirothe?
                     
-",23,2,0.37636395428389563,0.08695652173913043
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,23,2,0.37636395428389563,0.08695652173913043
+229,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Was will Se halt, Tante Domino, 's isch
                         d'Nàchsteliewe...
                     
-",12,2,0.0,0.16666666666666666
-unknown,TOM,M,,,"
+
+        
+",lustig-dr-chineserfranz,12,2,0.0,0.16666666666666666
+230,comedy,TOM,M,,,,"
           
 Tom
+
+          
 (züem Herr Gàlfink)
+
+          
 Ich glaübt, Sie d'Menschheit hasse... Allons, vorwàrts
                         in d'Hardt!
                     
-",17,3,0.13033333333333333,0.17647058823529413
-unknown,Herr GALFING,M,,,"
+
+        
+",lustig-dr-chineserfranz,17,3,0.13033333333333333,0.17647058823529413
+231,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
+
+          
 Kasch Dr ibilde!... wenn's do Hochzitlewe git!...
                         merci!
                     
-",11,1,0.0,0.09090909090909091
-unknown,Tante DOMINO,F,,,"
+
+        
+",lustig-dr-chineserfranz,11,1,0.0,0.09090909090909091
+232,comedy,Tante DOMINO,F,,,,"
           
 Tante
+
+          
 (hebt d'Hand gege Himmel)
+
+          
 Un ich, wo jetz um mi Neger spring! un wer wird jetz mit
                         mir als e Parthie mache?
                     
 
           
-",26,2,0.38747960448324065,0.07692307692307693
-unknown,Herr SAMÜEL,M,,,"
+
+        
+",lustig-dr-chineserfranz,26,2,0.38747960448324065,0.07692307692307693
+233,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
+
+          
 Ich, Schelastika!... wenn die junge Lit emol g'hirothe
                         sin, so mache mir zwei nit meh anders as Domino spiele
                         mitnander! uf die Art gits derno noch dr Oncle züe dr
                         Tante Domino!
                     
-",34,6,0.21233333333333335,0.17647058823529413
-unknown,group,sex_unknown,job_unknown,social_class_unknown,"
+
+        
+",lustig-dr-chineserfranz,34,6,0.21233333333333335,0.17647058823529413
+234,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 
             
 G'sang
+
+            
 (Mitander)
+
+            
 Vor ebb mir dr Vorhang ziege,
+
+            
 Hà mir immer viel Vergniege,
+
+            
 Wenn ihr alle, Klei un Gross,
+
+            
 Uns nit thien vom Lohn abziege,
+
+            
 Wenn's scho g'si isch nitt famos,
+
+            
 Drum nur applaüdiert druf los.
-",39,4,0.34967511929046746,0.10256410256410256
+
+          
+
+        
+",lustig-dr-chineserfranz,39,4,0.34967511929046746,0.10256410256410256

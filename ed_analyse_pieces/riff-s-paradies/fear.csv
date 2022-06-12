@@ -1,7 +1,15 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-comedy,Jacques,M,valet,lower_class,"Jacques:
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Jaja, Madam. — 's isch guet, Madam! — 's wurd bsorjt, Madam!
+
+          
 (zum Publikum):
+
+          
 Wenn unseri Madam bekumme däet was ich ere wünsch, no müeßt se emol vor alle Dinge jede Daa e Kilo
           zünämme, bis se am e schöene Daa v'rknelle däet wie e gebrooteni Bluetwurscht. Die Hawwergais, die
           Häriseel, die Linsespaltere und Pfennifuchsere, die — — die gifti Krott, die miserawel! — Pardon! —
@@ -10,47 +18,139 @@ Wenn unseri Madam bekumme däet was ich ere wünsch, no müeßt se emol vor alle
           ere jo basse! — Denn uff dies geht se üs, Daa fer Daa. kann ich ebs d'rfür, daß ich numme valet de
           chambre bin?! - kann sie ebs d'rfür, daß sie Madam isch worre?! — Worum isch's nit umgekehrt?! — Worum
           ich sie nit valet de chambre und ich d'Madam?!-
+
+          
 (Es klingelt.)
+
+          
 Aha! — Sie schellt wid'r emol e Düür, unseri Madam ! — Die lebt jo nit ruehji, wenn se merkt, daß
           Unseraans emol e bissel schnüüfe köent.
+
+          
 (Es klingelt.)(wü-
-",202,19,0.07431986735752842,0.09405940594059406
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,202,19,0.07431986735752842,0.09405940594059406
+1,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (bedauernd):
+
+          
 Oh, dies schöene Rösele. Gescht noch so nätt geblüejt, und hyt schun welk! — 
           
-",18,4,0.1535706601082809,0.2222222222222222
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(seufzt tief auf.)
+ — O ja, so isch's halt emol uff d'r Welt! — So geht's mit de Rose — so
+          geht's mit de Maidle. M'r blüehjt — m'r wurd umschwärmt — m'r v'rwelkt — un wurd gemiede! 
+          
+(Starkes Geklirr hinter der Bühne.)
+
+        
+",riff-s-paradies,68,8,0.07678533005414045,0.11764705882352941
+2,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (erschrickt):
+
+          
 Uh! Do gitt's Schärwe?!
-",9,2,0.39899999999999997,0.2222222222222222
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,9,2,0.39899999999999997,0.2222222222222222
+3,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
+
+          
+(hinter der Scene):
+ E Millonezunderschtzewwerst soll d'rzwische nin bängle, aans vun unte
+          un aans vun owwe — wenn's will!!!
+
+        
+",riff-s-paradies,24,1,0.312,0.041666666666666664
+4,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Aha, 'skracht in d'r Kiche, no wurd's au bal rauche! 
           
-",15,1,0.0,0.06666666666666667
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(Es klingelt.)
+
+        
+",riff-s-paradies,19,1,0.0,0.05263157894736842
+5,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Hoppla! — Was hawich nit gsaat? — 's raucht schun! 
           
-",14,1,0.0,0.07142857142857142
-comedy,Jacques,M,valet,lower_class,"Jacques
+(Es klingelt.)
+
+        
+",riff-s-paradies,18,1,0.0,0.05555555555555555
+6,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (hinter der Scene.:
+
+          
 Jo riß d'Schell vun d'r Wand erab, alter Nißkraawe! 
           
-",15,1,0.0,0.06666666666666667
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(Kommt hastig von rechts.)
+
+        
+",riff-s-paradies,21,1,0.0,0.047619047619047616
+7,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Oho, Jacques, so böes gelüünt?
-",9,2,0.27004000732956734,0.2222222222222222
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,9,2,0.27004000732956734,0.2222222222222222
+8,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (wütend):
+
+          
 Wenn ich nin kumm, ze riß ich ere diesmol d'Barriek vum Schäddel, daß se au emol weiß, was schelle
           heißt! 
           
-",25,2,0.30295667994474806,0.08
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(eilt erregt nach links ab.)
+
+        
+",riff-s-paradies,32,4,0.15147833997237403,0.125
+9,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 's isch nit halwer eso schlimm. Wenn'r nin kummt, no isch wied'r d'Madam hinte un d'Madam vorne. —
           Ja, d'r Jacques! — Hahaha! Er isch e Dschori! — E guetmuethiger Dschorit -E aanfältiger Dschori! — Er
           het's grad wie die Hund, wie erscht's Herz han ze belle, wenn sie innewendi hinterem guet v'rrejelte
@@ -60,460 +160,1349 @@ comedy,Marie,F,lady’s_maid,lower_class,"Marie
           noch vielerlei mehr fer de Anfang? — Was noch fehlt, schafft m'r sich so v'rplämpelterwies an. — E
           Hauptbedingung isch numme: m'r mueß z'halb Zweit sin zem hyroothe, un — — — ım'r mueß enander welle. — 
           
-",163,17,0.05824229110285144,0.10429447852760736
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(setzt sich auf die Bank.)
+ — M'r mueß enander welle?! — 
+          
+(seufzt tief auf.)
+ — Wie wenn ich de Jacques nit wott?! — O Gott, o Gott, o Gott! 
+          
+(Jacques tritt unbemerkt von links ein.)
+
+        
+",riff-s-paradies,204,20,0.06360594743742373,0.09803921568627451
+12,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (springt mit einem erschreckten Aufschrei in die Hôhe.)
+
+          
 Aw'r Jacques, wie kann m'r numme eso schliche?!
-",19,3,0.537,0.15789473684210525
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,19,3,0.537,0.15789473684210525
+13,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (erstaunt):
+
+          
 Schliehe? — Un d'rbie saat d'Madam alle gelte zue m'r: ich däet dappe wie e Elephant?!
-",22,3,0.0,0.13636363636363635
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,22,3,0.0,0.13636363636363635
+14,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Die het jo ihrer Läwe noch gar kaan Elephant gsehne! — Sie renomiert halt gern mit ihre
           astronomische Kenntnisse.
-",23,4,0.0,0.17391304347826086
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,23,4,0.0,0.17391304347826086
+15,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Aw'r numme fer mir 's Läwe süür ze mache. — Sie kann mich halt nit schmecke. — Ich sie aw'r au
           nit!
-",23,4,0.0,0.17391304347826086
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,23,4,0.0,0.17391304347826086
+16,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Rej Dich doch nit uff, Jacques. — Het se 's mit mir nit 's nämli? Dhuet se mich nit au d'halb Zyt
           ärjere un küjoniere, daß ich grüen un gääl könnt wäre vor Pläsier? — M'r mueß aw'r allewiel bedenke:
           wenn d'r Mensch ins Alter kummt, no wurd'r wunderli. — Unseri Madam — — —
-",57,6,0.0,0.10526315789473684
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,57,6,0.0,0.10526315789473684
+20,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Geh, schäm Dich doch e bissel, Jacqes! Ich hab ewwe numme welle saawe: unseri Madam het ihri Lüüne
           zyttwies un randswies, wie dies ewwe 's Alter eso mit sich bringt. — Wenn se aw'r d'rnoo ihri
           ""Rootschläej"" uff uns los renne loßt, no loon mir se ewwe ze aam Ohreläppel nin un zem andere wied'r
           nüs schnärre. — Schmerzlos!
-",61,7,0.0,0.11475409836065574
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,61,7,0.0,0.11475409836065574
+21,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (kraut sich hinter den Ohren):
+
+          
 Jaja, 's isch alles räecht, un ich will unserer Madam au nix schläechts wünsche — - behüet selle m'r
           sin — aw'r Pläsier dhäet's m'r halt mache, wenn ere emol e Elephant mit glichlinge Füeß uff de Mauue
           hüpse däet! — — —
-",52,6,0.0,0.11538461538461539
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,52,6,0.0,0.11538461538461539
+22,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachned):
+
+          
 Aw'r Jacques!
-",6,1,0.0,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,6,1,0.0,0.16666666666666666
+23,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Numme daß se 's inne dhäet wäre, was unter eme Elephant v'rsteht, der alt Pomad- hafe!
-",18,2,0.156,0.1111111111111111
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,18,2,0.156,0.1111111111111111
+25,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ja? — Was denn?
-",5,1,0.0,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+26,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Jacques, Dü wit doch ganz sicher nit diner Läwelang d'Füeß unter fremdi Lyt ihrer Disch strecke?
-",18,3,0.104,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,18,3,0.104,0.16666666666666666
+27,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Naan, ganz sicher nit.
-",5,2,0.0,0.4
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,5,2,0.0,0.4
+28,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Un speziell do in dem Hüs gfallt's D'r nimmi erächt?
-",12,2,0.0,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,12,2,0.0,0.16666666666666666
+29,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (setzt sich mißmutig auf die Bank):
+
+          
 Naan, ganz und gar nimmi.
-",14,1,0.0,0.07142857142857142
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,14,1,0.0,0.07142857142857142
+30,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lauernd):
+
+          
 Un schun lang nimmi? Gell nit?
-",10,1,0.469,0.1
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,10,1,0.469,0.1
+31,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Schun arig lang nimmi.
-",5,1,0.469,0.2
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,5,1,0.469,0.2
+33,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (überrascht):
+
+          
 Dir g'fallt's au nimmi? -Oho?-
-",12,1,0.7336929552651024,0.08333333333333333
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,12,1,0.7336929552651024,0.08333333333333333
+38,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (schmollend):
+
+          
 Aw'r Jacques!
-",6,1,0.0,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,6,1,0.0,0.16666666666666666
+39,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ja dü liewi Zytt, was hawich denn merke selle? — M'r macht sini Arweit de Daa iewer, loßt sich alle
           finf Minüte vun d'r Madam anhüche und abkanzle, daß m'r üs d'r Hüt erüsfahre un sich trüri d'rnäwe
           setze möecht; m'r plänkelt uff de Fyrowe — — un so gehn aam no die Dääj erum-
-",58,7,0.08714285714285715,0.1206896551724138
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,58,7,0.08714285714285715,0.1206896551724138
+40,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (seufzt):
+
+          
 Ja, so gehn aam d'rnoo die Dääej erum, un d'rbie wurd m'r no als älter un älter — jaja - — —
-",28,3,0.0,0.10714285714285714
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,28,3,0.0,0.10714285714285714
+41,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 's isch au schun e schöeni Zyt here, zyter aß Dini Konfermation gemacht hesch, gell Marie?
-",17,2,0.0,0.11764705882352941
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,17,2,0.0,0.11764705882352941
+42,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (seufzend):
+
+          
 Dies isch's jo grad.
-",9,1,0.0,0.1111111111111111
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,9,1,0.0,0.1111111111111111
+45,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (springt auf):
+
+          
 Zem Gücksel noch emol, was soll ich denn allewiel merke?!
-",15,1,0.0,0.06666666666666667
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,15,1,0.0,0.06666666666666667
+49,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Aw'r e bissel viel dumm, hein?
-",7,1,0.0,0.14285714285714285
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,7,1,0.0,0.14285714285714285
+50,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lächelnd):
+
+          
 Zell will ich jetz nit grad saawe, aw'r-
-",13,2,0.0,0.15384615384615385
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,13,2,0.0,0.15384615384615385
+51,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Höer, Marie, jetz glaawi iewer halwer daß ich ebs merk.
-",11,1,0.0,0.09090909090909091
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,11,1,0.0,0.09090909090909091
+52,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (freudig):
+
+          
 Ja?! — Was denn?!
-",8,2,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,8,2,0.0,0.25
+53,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Bscht! — Numme langsam! — Dü hesch doch noch meh uffem Herze?
-",13,1,0.0,0.07692307692307693
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,13,1,0.0,0.07692307692307693
+54,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (freudig):
+
+          
 O ja, noch arig viel!
-",9,2,0.0,0.2222222222222222
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,9,2,0.0,0.2222222222222222
+55,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
+Ei na, ze babbel numme. 
+          
+(lachend)
+ Ich merk ebs! — O je, ich merk ebs! - Hahahahaha!
+
+        
+",riff-s-paradies,20,1,0.0,0.05
+56,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Jacques -kurz un guet — gieb m'r Antwort uff mini Fröije — — —
-",16,2,0.0,0.125
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,16,2,0.0,0.125
+57,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Uff was fer Fröije?
-",5,1,0.0,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+58,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Jacques, löij, mir sin jetz schun e paar Jährle do bienand in dem Platz. Mir han's — ei- jetli ich
           hab's so noochetnooch d'rzü gebroocht, daß mir per ""Dü"" mitnander stehn, aw'r sunscht isch's im
           Allgemeine grad noch's nämli wie am erschte Daa, wie m'r uns kenne han lehre. — 's kummt m'r grad vor,
           wie wenn m'r vor ere himmelhoche Müür stehn däete. — Do steht d'M üür — do stehn mir — un kaan Macht
           stellt sich in wie die Müür umrennt — un do stehn mir Zwei ewwe no, hilflos wie zwei klaani Kinder, un
           kumme nit wyttersch, — un kumme nit wyttersch — — —
-",117,10,0.0531,0.08547008547008547
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,117,10,0.0531,0.08547008547008547
+59,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (gähnend):
+
+          
 Ei no bliewe m'r halt e Gottsname vor dere Müür stehn. — Weisch, ich-bin kaan Friend vum klettere,
           bsunders wenn's hoch owenüs soll gehn. — Oho!
-",31,3,0.15099999999999997,0.0967741935483871
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,31,3,0.15099999999999997,0.0967741935483871
+61,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Gott sej Dank! — Ich schwitz nämli dene Wäj schun! — Aw'r höer, ich hab doch gemaant, Dü wottsch
           mich ebs fröije?
-",23,3,0.03133333333333333,0.13043478260869565
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,23,3,0.03133333333333333,0.13043478260869565
+62,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Ja, — ei nadierli hawich Dich ebs fröije welle.
-",10,1,0.0,0.1
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,10,1,0.0,0.1
+63,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Na, ze fröij doch emol, ich bin gspannt wie e Bareplee biem Räejewetter.
-",14,2,0.0,0.14285714285714285
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,14,2,0.0,0.14285714285714285
+64,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (momentan etwas verwirrt):
+
+          
 Jacques — Dü — Dü gehsch od'r Dü wottsch iew'r kurz od'r lang üssem Dienscht?
-",21,2,0.4535,0.09523809523809523
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,21,2,0.4535,0.09523809523809523
+67,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ah jaso. — Na, ze fröij wyttersch.
-",8,1,0.0,0.125
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,8,1,0.0,0.125
+68,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Dü machsch dies Johr nimmi ganz üß in dem Platz do?
-",12,1,0.0,0.08333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,12,1,0.0,0.08333333333333333
+69,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Wer saat zell?
-",4,1,0.0,0.25
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,4,1,0.0,0.25
+70,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (bestimmt):
+
+          
 Ich!
-",5,1,0.0,0.2
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+71,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Hesch D'r d'Kart schlaawe loon?
-",7,2,0.0,0.2857142857142857
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,7,2,0.0,0.2857142857142857
+73,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ah ja, zem Dunterlättel — — —
-",8,1,0.0,0.125
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,8,1,0.0,0.125
+75,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Wart e Moment, ich will mich zerscht setze — 
           
-",10,1,0.141,0.1
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+(setzt sich auf die Bank)
+ So, jetz wytterscht
+
+        
+",riff-s-paradies,20,1,0.141,0.05
+76,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Ja, un wenn Dü no do üB dem Platz gehsch, no bisch-zem letschtemol in Dim Läwe Do- mestique gsin
           ?
-",21,2,0.0,0.09523809523809523
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,21,2,0.0,0.09523809523809523
+78,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (freudig):
+
+          
 Un mit Dim zammegsparte V'rmüije fangsch d'rnoo e Krämel an — — —
-",18,1,0.0,0.05555555555555555
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,18,1,0.0,0.05555555555555555
+82,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (unbeirrt):
+
+          
 Löijsch Dich no nooch eme schöene, brave, rechtschaffene Maidel um — —
-",16,3,0.0,0.1875
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,16,3,0.0,0.1875
+83,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Hein?! — Worum jetz grad nooch eme Maidl?
-",9,2,0.0,0.2222222222222222
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,9,2,0.0,0.2222222222222222
+84,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Dü nimmsch e Maidel wie koche, nähje, strieke, wäsche, Strümpf stopfe un sunscht alles mache kaan —
           — —
-",20,2,0.0,0.1
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,20,2,0.0,0.1
+86,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Un dies Maidel hyrootsch no — — —
-",9,1,0.0,0.1111111111111111
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,9,1,0.0,0.1111111111111111
+87,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Oeh la, Schimmel! — Ja Hepplamepperle! — Ich merk's, wo's nüs will! — Ah, un Dü hesch anoch gemaant
           ich merk nix! — 
           
-",26,2,0.0,0.07692307692307693
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(sing)
+""Dü hesch jo gar kaan Ahnung, wie hell d'r Schääkele isch"".
+
+        
+",riff-s-paradies,40,5,0.1032,0.125
+88,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (eifrig):
+
+          
 Ei na, wenn Dü no hell genuej bisch, no wäre-m-'r au enandernooch Maan un Frau un krieje enander vun
           Daa ze Daa liewer — un d'r- 
           
-",31,4,0.0,0.12903225806451613
-comedy,Jacques,M,valet,lower_class,"Jacques
+noo läwe-m-'r glichli mitnand -un d'rnoo — un d'rnoo kumme die herzige klaane,
+          wuschberliche, süeße Bébé — — —
+
+        
+",riff-s-paradies,53,6,0.0,0.11320754716981132
+89,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (ist langsam aufgestanden):
+
+          
 Sunscht nix wie Knepfle! Naan, Mamsel Marie, sie kumme noch nit! — Aeh-äh — sie kumme noch nit! —
           Iewerhaupt — nooch mienere Maanung, laaft schun wied'r viel zeviel vun dem Gerührs do erum. Jetz sogar
           noch Negerle un Anamitle!
-",46,3,0.0,0.06521739130434782
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,46,3,0.0,0.06521739130434782
+91,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Na, ich hab jo nix do d'rgeje. — E jeds Dhierel het sin Pläsierel, un jedem Narr gfallt sini
           Kapp!-
-",23,1,0.6153254311006354,0.043478260869565216
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,23,1,0.6153254311006354,0.043478260869565216
+93,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Was beliebt?
-",3,1,0.0,0.3333333333333333
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,3,1,0.0,0.3333333333333333
+94,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Gell Dü hesch die klaane, herzige Kinderle gern?
-",9,2,0.0,0.2222222222222222
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,9,2,0.0,0.2222222222222222
+95,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 O ja. Arig gern, aw'r numme in andere Lyt ihri! 
           
-",11,2,0.0,0.18181818181818182
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(Es klingelt.)
+
+        
+",riff-s-paradies,15,2,0.0,0.13333333333333333
+96,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (ärgerlich):
+
+          
 D'Madam schellt! — Isch's jetz fer mich od'r fer Dich? 
           
-",16,2,0.0,0.125
-comedy,Jacques,M,valet,lower_class,"Jacques:
+(eilt gegen rechts.)
+
+        
+",riff-s-paradies,21,4,0.0,0.19047619047619047
+97,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Sie sell warte, die alt Schatüll — 
           
-",8,2,0.3840237302745213,0.25
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Beide:
+(eilt Marie nach und zieht sie an der Hand wieder zurück.)
+ Numme nit glich geloffe! Mir
+          han se dennewäej schun viel ze viel v'rwöehnt. 
+          
+(Es klingelt.)
+
+        
+",riff-s-paradies,38,3,0.2560158201830142,0.07894736842105263
+98,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Beide:
+
+          
 (eilen gegen dem Ausgang rechts, fahren mit dem rechten Zeigefinger ruckartig unter der Nase
           durch, schlagen hierauf mit der rechten Hand auf das erhobene Knie, klatschen dann einen kräftigen
           Schlag in die Hände und führen den Finger nochmals unter der Nase durch.)
+
+          
 ffffft! — Hutzti! — Hepplamepperle! — fffft!
-",52,12,0.06891666666666667,0.23076923076923078
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,52,12,0.06891666666666667,0.23076923076923078
+99,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Wenn Die maant, daß dies eso wyttersch geht mit dere Stäeje-n-uff un abrennerej, no isch se aw'r
           diesmol schläecht orientiert. — Vor alle Dinge wurd jetz emol e Düür anne gsesse. 
           
-",34,2,0.242,0.058823529411764705
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(setzt sich auf die Bank.)
+ Marie, Dü bisch doch au müed wie e — — - wie e
+          Dienschtmaidel?
+
+        
+",riff-s-paradies,55,3,0.16133333333333333,0.05454545454545454
+100,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Aw'r sicher! — Derf ich näwe Dich sitze?
-",12,2,0.0,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,12,2,0.0,0.16666666666666666
+101,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Mientwäeje au uff de Geere.
-",6,2,0.0,0.3333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,6,2,0.0,0.3333333333333333
+103,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ei na — d'r Madam ze Leid — kumm! — —
-",12,3,0.18409798107008155,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,12,3,0.18409798107008155,0.25
+105,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (gekränkt):
+
+          
 Ze wär ich demnooch unanständig.
-",9,1,0.0,0.1111111111111111
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,9,1,0.0,0.1111111111111111
+106,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
+Naan, Jacques, ums Himmelswille, dies hawich nit saawe welle 
+          
+(setzt sich ihm rasch auf den Schoß.)
+ Wenn aw'r d'Madam kummt?
+
+        
+",riff-s-paradies,24,1,0.0,0.041666666666666664
+111,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (schmunzelnd):
+
+          
 Ja?
-",5,1,0.0,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+112,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (streicht ihm die Wangen):
+
+          
 Bisch e liewer gueter Kerl.
-",12,2,0.0,0.16666666666666666
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,12,2,0.0,0.16666666666666666
+114,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
+Wenn ich d'r saa! 
+          
+(verliebt)
+ Jaeques-
+
+        
+",riff-s-paradies,10,1,0.0,0.1
+115,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Was hesch uffem Herze?
-",5,1,0.0,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+116,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Ich — ich hab Dich gern!
-",7,1,0.0,0.14285714285714285
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,7,1,0.0,0.14285714285714285
+118,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Jacques, mir derfe nimmi üssenander, kummt's wies will! Mir Zwei muehn bienander bliewe, denn mir
           sin enander schun so gewohnt, daß mir aans ohni 's ander iewerhaupt nimmi läwe könnte. Mit aam Wort:
           mir Zwei muehn enander hyroothe, ich mueß Dini Frau wäre — — —
-",48,3,0.0,0.0625
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,48,3,0.0,0.0625
+119,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (überrascht):
+
+          
 Was muesch Dü?
-",7,1,0.7336929552651024,0.14285714285714285
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,7,1,0.7336929552651024,0.14285714285714285
+121,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Oho! Zeij Marie, steh e bissel uff!
-",8,1,0.0,0.125
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,8,1,0.0,0.125
+122,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (leidenschaftlich):
+
+          
 Naan, ewwe hesch v'rlangt, daß ich D'r uff de Geere sitz, jetz blie ich aw'r au sitze! Die günschtig
           Geläjeheit loß ich diesmol nimmi fahre!
-",29,3,0.0,0.10344827586206896
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,29,3,0.0,0.10344827586206896
+123,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 O ich Dolle!
-",4,1,0.6152509003683303,0.25
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,4,1,0.6152509003683303,0.25
+124,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (wie oben):
+
+          
 Jacques, wenn Dü emol do üs dem Platz eweck gehsch, un daß mir üssenander gerisse däete wäre, d'rnoo
           muesch hyroothe — iewerleij D'r's wie De witt — Dü muesch d'rnoo ewwe hyroothe! — Do springsch nit drum
           erum! Un wenn Dü d'rnoo hyrootsch, d'rnoo muesch vor alle Dinge e Frau nämme wie Dich kennt, wie Dich
           lieb het, wie Dine Charakter v'rsteht, un wie weiß, wie se mit Dir umzegehn het un wie Dü bhandelt
           muesch wäre — — —
-",90,2,0.0,0.022222222222222223
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,90,2,0.0,0.022222222222222223
+126,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Aanfach — Dü muesch hyroothe!
-",6,1,0.0,0.16666666666666666
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,6,1,0.0,0.16666666666666666
+128,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Ja, Dü muesch.
-",4,1,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,4,1,0.0,0.25
+129,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Wer saat dies?!
-",4,1,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,4,1,0.0,0.25
+131,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Zeij, Marie, steh uff!
-",5,1,0.0,0.2
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+133,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (verzwiefelt):
+
+          
 D'Füeß schloofe m'r in — un — un ich kriej de Datteri in d'Knej — un ich schwitz m'r e
           pflutschnasser Buckel! — V'rdoria noch emol!
-",32,4,0.3748896484684594,0.125
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,32,4,0.3748896484684594,0.125
+134,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Dies lejt mir jetz Alles nix an! — Ich saa Dir's aanfach noch hundertmol: Dü muesch hyroothe! Denn
           wenn nit hyrootsch, no hesch jo kaan Menscheseel uff dere Welt wie uff Dich löijt un wie Dich bsorjt.
           No kriejsch kann Wäsch gewäsche, kaan Kleider gfliekt, kaan Strümpf gstopft, kaan Knopf angenähjt, un
           kaan gueti kräftige Süppele kocht — — —
-",62,5,0.0,0.08064516129032258
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,62,5,0.0,0.08064516129032258
+136,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lächelnd):
+
+          
 Gell, an so Sache hesch noch gar nie gedenkt?
-",13,1,0.0,0.07692307692307693
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,13,1,0.0,0.07692307692307693
+138,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (zärtlich):
+
+          
 Ja siehsch, min liewer Bue, m'r mueß ewwe an Alles denke! 
           
-",15,3,0.0,0.2
-comedy,Jacques,M,valet,lower_class,"Jacques
+(holt einen Apfel aus der Schürzentasche, und beißt kräftig hinein.)
+
+        
+",riff-s-paradies,27,4,0.0,0.14814814814814814
+142,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
+(schmatzend):
+
+          
+Uessem Garte. 
+          
+(lachend)
+ wit au e Biß?
+
+        
+",riff-s-paradies,13,1,0.0,0.07692307692307693
+145,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (unruhig):
+
+          
 Steh üff jetz!
-",7,2,0.0,0.2857142857142857
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,7,2,0.0,0.2857142857142857
+146,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Zerscht dhuesch emol herzhaft drin bisse.
-",7,1,0.4727699275944916,0.14285714285714285
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,7,1,0.4727699275944916,0.14285714285714285
+147,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Na, daß Ruehj hesch — here mit! — Aw'r no stehsch uff! — 
           
-",14,2,0.0,0.14285714285714285
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+(beißt kräftig von dem Apfel ab.)
+
+        
+",riff-s-paradies,22,3,0.0,0.13636363636363635
+148,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Isch'r guet?
-",3,1,0.0,0.3333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,3,1,0.0,0.3333333333333333
+149,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (schmatzend)
+
+          
 Aw'r sicher.
-",6,1,0.0,0.16666666666666666
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,6,1,0.0,0.16666666666666666
+150,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Isch'r au süeß?
-",4,1,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,4,1,0.0,0.25
+151,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Aw'r sicher!
-",3,1,0.0,0.3333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,3,1,0.0,0.3333333333333333
+153,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ich hab jo 's Mül noch voll.
-",8,2,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,8,2,0.0,0.25
+155,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Höer, Marie, so het's d'Eva zellemols im Paradies mit 'm Adam getriewe.
-",15,2,0.0,0.13333333333333333
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,15,2,0.0,0.13333333333333333
+156,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Do wärdsch Dü d'r Adam?
-",9,1,0.0,0.1111111111111111
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,9,1,0.0,0.1111111111111111
+157,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (lachend):Un
+
+          
 Dü d'Eva! — Jetz fehlt numme noch d'Schlang. 
           
-",15,3,0.43447526842427636,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(Beide lachen kräftig.) (Es klingelt!)
+
+        
+",riff-s-paradies,24,5,0.26068516105456585,0.20833333333333334
+158,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Là voilà — doch isch se jo schun!
-",12,1,0.0,0.08333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,12,1,0.0,0.08333333333333333
+159,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Wahrhafti! Na, jetz wär jo so ziemli Alles bienander — numme 's Paradies fehlt noch! Im Paradies sin
           m'r bis hyt noch nit gsin. Gell nit, Evele?
-",28,6,0.08357096754547151,0.21428571428571427
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,28,6,0.08357096754547151,0.21428571428571427
+160,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Naan jo nit. — Ehnder mittle in d'r Höll! — Aw'r mir welle jetz emol ins Paradies mitnander, Arm in
           Arm, un unser Läwe genieße un glickli un zefridde mitnand un näwenander läwe! 
           
-",34,11,0.074966404709162,0.3235294117647059
-comedy,Jacques,M,valet,lower_class,"Jacques
+(springt auf und zieht Jacques mit großer Kraftanstrengung in die Höhe.)
+ Ich läb fer
+          Dich, un Dü läbsch ger mich! Gell Jacques?!
+
+        
+",riff-s-paradies,58,12,0.06871920431673183,0.20689655172413793
+161,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (sich schwerfällig erhebend):
+
+          
 Mini Füeß sin ganz stiff worre. Un am räechte Fueß schlooft m'r d'r groß Zeh! - Sapperlot, wie dies
           kriwwelt! — Do bisch Dü d'Schuld dran! —
-",34,4,0.0,0.11764705882352941
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,34,4,0.0,0.11764705882352941
+162,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Mientwäeje. — Ich nimm jo gern alli Schuld uff mich. Un ich will d'r's jo au gern v'r- spreche, dab
           ich miener Läwe eso ebs nimmi dhun will.
-",31,6,0.0,0.1935483870967742
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,31,6,0.0,0.1935483870967742
+164,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Sicher! — Miner Läwe ninimi.
-",6,3,0.0,0.5
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,6,3,0.0,0.5
+165,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Ja, so siehsch üs!
-",5,1,0.0,0.2
-comedy,Marie,F,lady’s_maid,lower_class,"Marie:
+
+        
+",riff-s-paradies,5,1,0.0,0.2
+166,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie:
+
+          
 Bisch nit böes gell nit? 
           
-",6,1,0.5400800146591347,0.16666666666666666
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(küßt ihn.)
+
+        
+",riff-s-paradies,10,1,0.5400800146591347,0.1
+168,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (zärtlich):
+
+          
 Nit böes sin, Adam! 
           
-",8,2,0.27004000732956734,0.25
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(küst ihn) Jacques schmatzend)
+: Mhmmm! — Aaaah! — Dies sell nit kriwwle! — 
+          
+(tritt mit dem rechten Fuß hoch in die Höhe.)
+ Jetz schlooft m'r d'r groß Zeh gar nimmi! —
+          
+          
+(reekt sich rasch in die Höhe und breitet die Arme aus.)
+ Marie, Evele, noch e Schmutz! —
+          Noch aaner! 
+          
+(Marie fliegt ihm an die Brust und küßt ihn.)
+
+        
+",riff-s-paradies,76,6,0.1655133357765224,0.07894736842105263
+170,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (windet sich lachend los):
+
+          
 — Naan, min liewer Adam, jetz isch's genüej! 
           
-",16,3,0.0,0.1875
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+Es klingelt!)
+
+        
+",riff-s-paradies,19,3,0.0,0.15789473684210525
+171,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Siehsch — jetz het's gschellt! — Do kannsch nix mehr dran mache! Jacques 
           
-",18,1,0.0,0.05555555555555555
-comedy,Jacques,M,valet,lower_class,"Jacques:
+(stampft zornig mit dem Fuß auf):
+ Zell welle m'r aw'r doch emol sehne! 
+          
+(Es klingelt!)
+
+        
+",riff-s-paradies,37,3,0.20299999999999999,0.08108108108108109
+172,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Jaja, m'r kumme, alti Schawäll! Diesmol kumme m'r alli Zwei mitnander! — Warte Sie numme, Madam,
           diesmol selle Sie sich wundere, wenn ich anfang ""höefli"" zu wäre! - Uffgekündt wurd! — Uff d'r Stell! —
           Marie, machsch mit?!
-",39,8,0.017625,0.20512820512820512
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,39,8,0.017625,0.20512820512820512
+173,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (triumphierend):
+
+          
 Aw'r sicher mach ich mit!
-",9,2,0.0,0.2222222222222222
-comedy,Jacques,M,valet,lower_class,"Jacques:
+
+        
+",riff-s-paradies,9,2,0.0,0.2222222222222222
+174,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Batsch in! — 
           
-",4,1,0.0,0.25
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+(hält ihr die rechte Hand entgegen.)
+
+        
+",riff-s-paradies,12,3,0.0,0.25
+175,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (feierlich):
+
+          
 E Mann — e Wort! 
           
-",9,3,0.0,0.3333333333333333
-comedy,Jacques,M,valet,lower_class,"Jacques:
+(schlägt kräftigt ein.)
+
+        
+",riff-s-paradies,14,3,0.0,0.21428571428571427
+176,comedy,Jacques,M,,,,"
+          
+Jacques:
+
+          
 Un noch emol e Schmutz!
-",6,1,0.0,0.16666666666666666
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,6,1,0.0,0.16666666666666666
+177,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (lachend):
+
+          
 Naan — jetz nit — später — wenn m'r emol ghyroot sin. 
           
-",16,1,0.0,0.0625
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+          
+(Es klingelt andauernd heftig.)
+
+        
+",riff-s-paradies,22,2,0.0,0.09090909090909091
+179,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (schelmisch lächelnd):
+
+          
 Zue unsere Hochzytt!
-",8,2,0.0,0.25
-comedy,Jacques,M,valet,lower_class,"Jacques
+
+        
+",riff-s-paradies,8,2,0.0,0.25
+180,comedy,Jacques,M,,,,"
+          
+Jacques
+
+          
 (wirbelt Marie in ausgelassener Stimmung im Kreisel herum.)
+
+          
 Juuuuuuuuh! — Kumm, Marie, m'r packe unser Bimbelebaasch zamme, un d'rnoo aw'r nix aß wie nüs üs
           dere Höll! :
-",31,5,0.16492609036015637,0.16129032258064516
-comedy,Marie,F,lady’s_maid,lower_class,"Marie
+
+        
+",riff-s-paradies,31,5,0.16492609036015637,0.16129032258064516
+181,comedy,Marie,F,lady’s_maid,elementary_professions,lower_class,"
+          
+Marie
+
+          
 (jubelnd):
+
+          
 Un nin ins Paradies!
+
+          
 (Beide hüpfen, eng umschlungen, jubelnd rechts ab.)
-",17,3,0.0,0.17647058823529413
+
+        
+",riff-s-paradies,17,3,0.0,0.17647058823529413

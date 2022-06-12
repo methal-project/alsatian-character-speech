@@ -1,148 +1,422 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (noch hinter d'r Scène, lütt):
+
+            
 Ze bass doch uff, Michel ! Dü verdrucksch mir jo de Büch !
-",19,2,0.7206446427872455,0.10526315789473684
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,19,2,0.7206446427872455,0.10526315789473684
+1,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (au noch hinter d'r Scène):
+
+            
 Ei, 's isch au so arich eng do hinne !
+
+            
 (Iwerdem kumme beidi vun hinte eryn ; sie draawe mitnand e grosser Kuffer [odder e grossi,
             g'stricheni Kischt mit-e-me Deckel unn zwei Handhewer an de Sytte], wo gross genue isch, ass sich e
             Mann drinne versteckle kann. Unte hett'r kenn Bodde meh.)
-",62,6,0.517691505580497,0.0967741935483871
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,62,6,0.517691505580497,0.0967741935483871
+2,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (stellt mit'm Michel de Kuffer an d' Wand rächts vor e beliewig's Meewelstick) :
+
+            
 Enfin, hätte mir'ne so wytt! Ich schwitz wajer wie e Daadieb, wo in're Arweit züegückt !
-",33,2,0.47350000000000003,0.06060606060606061
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,33,2,0.47350000000000003,0.06060606060606061
+3,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Diss soll mir kein unb'holfes Stickel Meewel sinn ! Diss isch jo d'r reinscht Sarich ! Was witt de
             denn mit anfange, Schorsch ?
-",22,1,0.5939802281423323,0.045454545454545456
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,22,1,0.5939802281423323,0.045454545454545456
+4,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Ei, liewer Brueder, dü weisch doch, ass ich demnächscht e paar Wuche in d' Vakanze will. Wyll awer
             e nejer Kuffer hyttzedaas e Hüffe Geld koscht, ze loss ich mir einfach in denne alt Kaschte, wo
             schunscht noch ganz guet isch, e neje Bodde nynmache, wyll d'r alt füddi isch. D'r Schrynner losst'ne
             hytt noch abhole.
-",57,8,0.6908508610841634,0.14035087719298245
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,57,8,0.6908508610841634,0.14035087719298245
+5,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Do hesch de rächt, Brueder, als spare ! Awer was isch, hesch de schun mit unsrem Neveu geredd
             ?
-",18,3,0.8086015884354203,0.16666666666666666
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,18,3,0.8086015884354203,0.16666666666666666
+6,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Nein, Michel, ich habb hytt noch gar kein Zytt g'hett, fur mit'm Robert e'n ernscht's Wertel ze
             redde !
-",21,1,0.4865620879648512,0.047619047619047616
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,21,1,0.4865620879648512,0.047619047619047616
+7,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 's muess awer partout sinn, Schorsch. Als syne Unkel isch diss au dyni Sach... ich habb myn Deil
             gemacht. Ich habb myne Frynd Burjer extra dohere b'stellt, 
             
-",28,2,0.7634612458756629,0.07142857142857142
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+fur'ne mit dir unn mit'm Robert bekannt ze mache. By dere Affär will'r no nadierlich au
+            wisse, wie d' g'schäftliche Conditione fur e Hyroot zwische'm Robert unn synere Dochter sinn.
+
+          
+",jost-so-e-liederlicher-frack,60,4,0.7777420836248984,0.06666666666666667
+8,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Hm, hm! E kaiwe Affär diss! Ich habb jo im Robert schun so drumrum gebabbelt unn Andyttunge
             gemacht ; er schynt awer gar kein Interesse fur so e Verbindung zu hann.
-",31,2,0.6751591973819524,0.06451612903225806
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,31,2,0.6751591973819524,0.06451612903225806
+9,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Er muess einfach! Diss isch schun allein e'n Ehresach fur unseri Firma, ass s'e sich am e scheene
             Daa mit d'r Firma Burjer z'sammeschliesse dhuet !
-",28,5,0.5928417272096238,0.17857142857142858
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,28,5,0.5928417272096238,0.17857142857142858
+10,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Gewiss, so isch's : e'n Ehresach, denn finanziell hätte mir jo so e Z'sammeschluss gar nitt
             neetig. Unn wyll d'r Robert doch emool unser G'schäft bekummt, ze muess'r einfach ...
-",31,2,0.6341111091541478,0.06451612903225806
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,31,2,0.6341111091541478,0.06451612903225806
+12,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 So isch's! Unn mir miehn guet uffbasse, ass uns der Bue nitt noch im letschte Moment e Striffe
             durich unseri Rechnung macht !
-",24,3,0.6737094182443787,0.125
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,24,3,0.6737094182443787,0.125
+13,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Mit so junge Lytt kamm'r nitt vorsichtig genue sinn, denn schunscht mache s'e hinter'm Buckel vun
             de Alte d' greeschte Daubheite, wo s'e ihre Läbdesdaa dran ze daue hann.
-",33,5,0.5962127386489234,0.15151515151515152
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,33,5,0.5962127386489234,0.15151515151515152
+14,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Waje dem haw ich dir jo au de guet Root gänn, alle Daa syni Kleider ze visitiere. So erfahrt m'r
             am beschte, was fur Gedanke unn was fur Spring ass so e Fitzer im Kopf hett !
-",37,3,0.7228682599082635,0.08108108108108109
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,37,3,0.7228682599082635,0.08108108108108109
+15,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 's isch jo wohr ! Ich bin hytt noch gar nitt dezue kumme ! Ah, do hängt jo noch im Robert syner
             Pardessü! Ich will glych emool lueje ! Gibb e bissel acht, ass'r uns nitt verwitscht, Michel !
+
+            
 (Michel geht lyeslich an d'Dier links unn horicht, d'r Georges grad so an de Pardessü, wo'r e
             Portefeuille drüss nemmt ; beidi redde im Lauf vun d'r nächschte Scène arich vorsichlig unn im
             Abstand vum Pardessü bis zue d'r Dier links.)
-",79,4,0.6402569025133245,0.05063291139240506
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,79,4,0.6402569025133245,0.05063291139240506
+17,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Ja, do isch syn Portefeuille !
-",6,1,0.731982479119855,0.16666666666666666
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,6,1,0.731982479119855,0.16666666666666666
+19,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Wart, wart ! 
             
-",3,2,0.5037982132484474,0.6666666666666666
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Suecht.)
+ Aha, was isch denn diss? 
+            
+(Läst :)
+ « Unfehlbare Berechnungstabelle für alle Kartenspiele. » Michel, was saasch de
+            do dezue ?
+
+          
+",jost-so-e-liederlicher-frack,27,3,0.5441988088322983,0.1111111111111111
+22,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Unn verbulvert unser Vermeje! Erscht gescht hett'r mich um ganzi finf Franke angebumbt !
-",14,3,0.6960937418468589,0.21428571428571427
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,14,3,0.6960937418468589,0.21428571428571427
+26,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Mâtin, dorte isch jo 's Westminster-Bar, wie ich üss Erfahrung weiss... äh, ich will saawe... ich
             mein, wyll ich als ab unn zue mit'm Tram dran durchfahre dhue !
-",30,3,0.7305599352763169,0.1
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,30,3,0.7305599352763169,0.1
+27,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Ah, waje dem hett d'r Robert gescht, middles in d'r Wuch, e frische Stellkraawe angezöje! — Was
             isch denn diss fur e Ansichtskart? Ah, üss Italie!
-",27,2,0.5276956688926014,0.07407407407407407
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,27,2,0.5276956688926014,0.07407407407407407
+29,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (läst) :
+
+            
 « Lieber Robert! Im schönen Italien sitze ich am Meeresgestade und gedenke Dein. Ich bin entzückt.
             Du musst die stolze, blaue Adria unbedingt auch einmal kennen lernen. Sie bezaubert Dich und lässt
             Dich nicht mehr frei! Dein Freund Louis! » — Was, « Adria »? Diss wurd allewäj so e
             italienisch's Menschel sinn !
-",58,7,0.7617450059969785,0.1206896551724138
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,58,7,0.7617450059969785,0.1206896551724138
+30,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Kein Zwyefel! Awer ass diss Lueder blöj isch, kapier ich nitt! D' Italienere sinn doch gewehnlich
             schwarz.
-",18,2,0.2650792605150073,0.1111111111111111
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,18,2,0.2650792605150073,0.1111111111111111
+31,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Viellycht süfft s'e viel unn isch no als « blöj », wie m'r saat?
-",16,3,0.45051491314047193,0.1875
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,16,3,0.45051491314047193,0.1875
+32,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ich glabb ehnder, ass die grien isch, denn schunscht wär s'e nitt so frech unn dhät eine nimmi los
             lonn !
-",22,3,0.4972930694518731,0.13636363636363635
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,22,3,0.4972930694518731,0.13636363636363635
+34,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
+G'schwind, Schorsch, g'schwind ! Er kummt! 
+            
+(D'r Georges steckt's Portefeuille widder in de Pardessü.)
+ Loss dir jo nix anmerke
+            !
+
+          
+",jost-so-e-liederlicher-frack,22,1,0.2778176887927389,0.045454545454545456
+38,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Unn wichtigi !
-",3,1,0.7021403900875118,0.3333333333333333
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,3,1,0.7021403900875118,0.3333333333333333
+42,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Numme ze guet; awer die Visit interessiert mich nitt !
-",10,1,0.8496361744517235,0.1
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,10,1,0.8496361744517235,0.1
+44,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Awer uns umsomeh! Dü hesch einfach ze mache, was dyni Pflicht isch!
-",13,1,0.6363768365508712,0.07692307692307693
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,13,1,0.6363768365508712,0.07692307692307693
+45,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Diss isch mir e scheeni Moral, wenn m'r ebber numme üss Pflicht lieb soll hann.
-",16,3,0.775796155259462,0.1875
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,16,3,0.775796155259462,0.1875
+46,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Ach was, « Moral » — « lieb hann » ! G'schäftsmann, Kaufmann muess m'r sinn, wenn m'r sich e
             solid's Glick sichere will !
-",25,4,0.7894267310883868,0.16
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,25,4,0.7894267310883868,0.16
+47,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ja, denn die Partie, wo mir dir üssg'suecht hann, isch e Kapital vun jährlich 100 000 Franke Zinse
             !
-",19,2,0.7750295222085084,0.10526315789473684
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,19,2,0.7750295222085084,0.10526315789473684
+48,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Unn beidi G'schäfter dhäte no in ein Famili kumme unn blyewe !
-",12,3,0.6823209181809632,0.25
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,12,3,0.6823209181809632,0.25
+49,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (energischer):
+
+            
 Diss isch's jo! Ihr welle ejer Glick mache, awer nitt myn's. Non, jamais ! Myni Frejheit unn myni
             G'fiehler dhue unn kann ich nitt verkaufe !
-",30,3,0.7863858708567477,0.1
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,30,3,0.7863858708567477,0.1
+50,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Robert, ze luej dir doch diss Maidel erscht emool an!
-",11,1,0.6041521774765466,0.09090909090909091
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,11,1,0.6041521774765466,0.09090909090909091
+51,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (meh fur sich) :
+
+            
 By so're ginschtige Partie wott ich myni Frau iwerhaupt am liebschte gar nie sähn !
-",20,2,0.8590747501776301,0.1
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,20,2,0.8590747501776301,0.1
+52,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Nein, wenn ich hyroote will, ze suech ich mir myni Frau sälwer unn zwar eini, wo mir g'fallt!
-",19,1,0.6176800972978141,0.05263157894736842
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,19,1,0.6176800972978141,0.05263157894736842
+53,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
+So? Diss welle mir sähn ! Ich bin dyner Unkel, unn dü hesch ze mache, was ich will ! Iwerleij
+            dir's bis denne Middaa ! 
+            
+(Wietig rächts ab).
+
+          
+",jost-so-e-liederlicher-frack,29,1,0.1406701938308152,0.034482758620689655
+54,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
+Unn ich bin au dyner Unkel, unn dü hesch au ze mache, was ich will! 
+            
+(Wietig links ab.)
+
+          
+",jost-so-e-liederlicher-frack,21,1,0.1406701938308152,0.047619047619047616
+55,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Do haw ich d' Bscherung ohne Wyhnachte! Soll ich noochgänn unn diss Maidel hyroote, wo ich noch
             nitt emool g'sähn habb? Wenn s'e so arich rych isch, wie myni zwei Unkel saawe, ze kann ich mir schun
             vorstelle, ass s'e noch im letschte Johrhundert uff d' Welt isch kumme. Nein, ich kann einfach nitt,
@@ -152,405 +426,1226 @@ Do haw ich d' Bscherung ohne Wyhnachte! Soll ich noochgänn unn diss Maidel hyro
             Unn jetzt g'schwind in d' Stadt ; viellycht sieh ich diss härzig Maidel hytt widder uff d'r Promenad!
             
             
-",131,16,0.657432465076083,0.12213740458015267
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Langt nooch'm Pardessü.)
+ Ah, ebb 
+            
+ass ich's vergesse d'hue : mir kummt's als so vor, wie wenn mir ebber myni Kleider
+            üssmüse dhät — 's isch allewyli alles am lätze Platz ! Diss Mool haw ich awer e Zeiche gemacht, unn
+            wenn ich mich nitt drumpier — 
+            
+(luejt's Portefeuille nooch)
+ — ei, nadierlich !, 's isch so ! 's isch ebber an mym
+            Portefeuille g'sinn! Unn wer kann's andersch sinn als wie myni zwei liewe Unkel, wo waje dere geplant
+            Hyroot gewiss erfahre welle, was ich alles anstell! Na, sie halte mich jo knapp genue, fur ass's mir
+            nitt ze wohl wurd! — Awer was fang ich numme an? Die Kleidervisitation will ich'ne schun vertriewe
+            mitsamt dere Hyrootsg'schieht! Ich bin doch kenn Kind meh ! Ich muess s'e partout uff anderi Gedanke
+            bringe! Halt, e'n Idee! Diss wurd gemacht! Sie hann jo alli zwei e Mordsrespekt vor d'r Rejierung unn
+            e Helleangscht vor jedere Partejpolitik. Diss kummt mir fur myne Plan wie gewunsche. Ich will ejch
+            emool e Begriff devun mache, wie 's isch, wenn m'r allewyll in d'r Angscht läwe muess, ass eim syni
+            privatschte Saches üssg'spioniert wäre! Babier, e'n Enveloppe unn e Fillfedder haw ich jo by mir —
+            also los unn e heilsams Briefel g'schriwe. 
+            
+(Setzt sich unn schryebt)
+: « An die Herren Gebrüder Frosch ! Ein wohlmeinender
+            Freund macht Sie darauf aufmerksam, dass Sie in politischer Beziehung verdächtigt worden sind und
+            dass daher eine polizeiliche Haussuchung bei Ihnen zu erwarten steht. Treffen Sie Ihre Massnahmen. »
+            So, Schluss — Punkt! Ja, myni liewi Unkel, wenn ihr mir nitt myni Ruehj lonn, ze loss ich ejch ejri
+            au nitt ! Am beschte leij ich diss Schryewes do unter die Zyttunge unn Brief, wo denne Morje kumme
+            unn noch nitt uffgemacht sinn worre. Briefele, Briefele, bring mir jo bonne chance ! 
+            
+(Iwermietig ab nooch hinte, noochdem er Huet unn Pardessü angezöje hett.)
+
+          
+",jost-so-e-liederlicher-frack,453,52,0.6013607928229406,0.11479028697571744
+57,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (vun links):
+
+            
 Unn ich habb noch kein Blick in d' Zyttunge geworfe !
-",15,1,0.6043252252671775,0.06666666666666667
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,15,1,0.6043252252671775,0.06666666666666667
+58,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (setzt sich an de Disch):
+
+            
 Ich bitt dich, Michel, loss mich mit de Zyttunge zefridde! Ja, fur e gueti G'schäftsreklam drinne
             ze mache, do sinn s'e guet; im Iwerrescht awer tryewe s'e alli numme Partejpolitik, unn diss isch e
             g'fährlichi Sach, so lang ass s'e nitt uff d'r Sytt vun d'r Rejierung steht. M'r ryebt sich numme d'
             Nerve demit uff.
-",67,10,0.603746761621224,0.14925373134328357
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,67,10,0.603746761621224,0.14925373134328357
+59,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ich bin ganz dynere Ansicht, Schorsch, awer im stille interessiert's eine doch, wie anderi
             denke.
-",17,2,0.692432995074374,0.11764705882352941
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,17,2,0.692432995074374,0.11764705882352941
+60,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Michel, ich bitt dich, 's kann awer emool g'fährlich wäre! Iwerall gitt's Lytt, wo eine fur ihri
             Partej gewinne welle !
-",22,3,0.358874785196833,0.13636363636363635
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,22,3,0.358874785196833,0.13636363636363635
+61,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 So daub bin ich nitt! Ich habb e guete Blick unn kann 's Müll halte.
-",16,4,0.6247669898449354,0.25
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,16,4,0.6247669898449354,0.25
+62,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Uff jede Fall bin ich mit allem zefridde unn winsch mir gar kein anderi Verhältnisser, obwohl jo
             d'r letscht Kriej in unserer Fawrik ganz guet gemacht hett.
-",28,8,0.6561555731991275,0.2857142857142857
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,28,8,0.6561555731991275,0.2857142857142857
+63,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Waje dem denk ich au alle Daa bym Uffstehn : « Was ich bin und was ich habe, dank' ich dir,
             mein Vaterland! »
+
+            
 (D'r Georges hett iwer dem G'spräch e paar Brief uffgemacht, kurz nyn geluejt unn s'e uff de
             Disch zeruckgeleijt; er hett jetzt de Brief vum Robert in d'r Hand unn läst.)
-",58,2,0.7157307137148452,0.034482758620689655
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,58,2,0.7157307137148452,0.034482758620689655
+64,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (fahrt vergelschtert in d' Heeche unn losst de Brief falle):
+
+            
 Gott steh m'r by! Diss iwerläw ich nitt! 
             
-",21,2,0.508056235344181,0.09523809523809523
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+(Fallt in de Stuehl zeruck.)
+
+          
+",jost-so-e-liederlicher-frack,28,2,0.508056235344181,0.07142857142857142
+65,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
+Schorsch, was gitts? Was hesch de denn? 
+            
+(Er hebbt de Brief uff, läst unn sinkt au verschrocke in de Stuehl.)
+ So ebbs isch jo
+            nitt mejlich ! Draim ich denn ? Nein, 's isch Wohret! 
+            
+(Läst) :
+ « Treumeinender Freund — in politischer Beziehung verdächtigt —
+            Haussuchung! » Schorsch ! Brueder, ich stärb am lawendige Lyeb!
+
+          
+",jost-so-e-liederlicher-frack,57,10,0.6437519524126644,0.17543859649122806
+66,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (kummt zue sich) :
+
+            
 Ich bin wie vor's Hirn g'schlaawe! Mir unn politisch verdächtig?
-",17,2,0.3077297992998502,0.11764705882352941
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,17,2,0.3077297992998502,0.11764705882352941
+67,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ehnder fresst 's Lamm de Wolf! Wer kennt uns awer numme denunziert hann ? Mir hann jo nix als wie
             Frind unn kimmere uns numme um unser G'schäft !
-",28,2,0.737883936754375,0.07142857142857142
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,28,2,0.737883936754375,0.07142857142857142
+68,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Michel, m'r kann alles erwarte! M'r wurd gar oft hyttzedaas vun Welf iwerfalle, wo im Schoofsbelz
             erumlaufe. Sogar d' Konkürrenz kann uns boshafterwyes denunziert hann; au e furtg'schickter Arweiter
             kann's sin.
-",33,2,0.32010150894821865,0.06060606060606061
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,33,2,0.32010150894821865,0.06060606060606061
+69,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Am End isch's gar der Burscht, wo die Däj mit mir im Tram isch g'fahre ?
-",17,1,0.8604660794890974,0.058823529411764705
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,17,1,0.8604660794890974,0.058823529411764705
+70,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Was fur e Burscht? Do hesch dü mir jo kein Sterweswertel devun gebycht. Viellycht wäre mir unser
             Läwe lang unglicklich gemacht, wyll m'r dich mit dem Mensch z'samme g'sähn hett!
-",32,5,0.5388021813456861,0.15625
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,32,5,0.5388021813456861,0.15625
+71,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Also, do isch e Mann im e blöje Schurz näwe mir g'sässe unn hett mich in Gejewart vun alle
             Fahrgäscht angeredd.
-",22,2,0.7357219735930228,0.09090909090909091
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,22,2,0.7357219735930228,0.09090909090909091
+73,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Was'r g'saat hett, Schorsch ? O, er hett wytt üssg'holt! Z'erscht hetfr vum schlächte Wätter
             gebabbelt no vun de noch schlächtere Zytte, no vum Kriej in China.
-",27,2,0.0918105558856589,0.07407407407407407
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,27,2,0.0918105558856589,0.07407407407407407
+75,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ich? Nix nadierlich! Awer wie lycht hett ebber glauwe kenne, ich wär mit dem Krakeeler syne
             Reddesarte ynverstande, will ich nix erwidert habb...
-",24,3,0.5902197368277903,0.125
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,24,3,0.5902197368277903,0.125
+76,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 ...oder dü wärdsch gar e Bekannter vun'm, un hett dich no by d'r Bolizej angezejt! Do sieht m'r
             widder emool, wie m'r uff ganz unschuldigi Wyes in d' greeschte Unannehmlichkeite kann kumme.
-",34,6,0.6953810651398916,0.17647058823529413
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,34,6,0.6953810651398916,0.17647058823529413
+77,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Grosser Gott, wenn uns die Affär numme nitt de Hals koschte dhuet ! 's wär myner Dood !
-",17,1,0.758,0.058823529411764705
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,17,1,0.758,0.058823529411764705
+78,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Uff jede Fall hann mir e Frind, wo's guet mit uns meint unn uns bezytte gewarnt hett, unn waje dem
             isch's rootsam, sich uff's Uesserschte g'fasst ze mache, egal, wie's no au kummt. Mir miehn alles,
             was uns uff ierigs e'n Art g'fährlich kennt wäre, üss d'r Welt schaffe unn zwar uff d'r G'stell !
-",59,11,0.5972053705305034,0.1864406779661017
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,59,11,0.5972053705305034,0.1864406779661017
+79,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Awer, Schorsch, so Dings hann mir jo gar nitt im Hüss!
-",12,1,0.6701485966188446,0.08333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,12,1,0.6701485966188446,0.08333333333333333
+80,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Pardon ! — Vorsicht isch besser als wie 's Nochsähn ! Wie steht's, par exemple, mit de Brief, wo
             mir im Hüss hann ?
-",23,2,0.6458624420929346,0.08695652173913043
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,23,2,0.6458624420929346,0.08695652173913043
+82,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Michel, saa diss nitt! D'r Rebespierre, par exemple, hett emool g'saat: « Gänn mir drej
             x-beliewigi Werter, wo e Mensch g'schriewe hett, unn ich bring'ne uff's Schafott! »
-",30,2,0.6225777565397184,0.06666666666666667
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,30,2,0.6225777565397184,0.06666666666666667
+83,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
+Herrjeh, diss isch jo allerhand ! Do heisst's allerdings vorg'sorjt ! 
+            
+(Macht d' Dischschüblad uff unn langt Brief erüss.)
+
+          
+",jost-so-e-liederlicher-frack,21,2,0.698899129757505,0.09523809523809523
+88,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Um's Gott's Will! Diss sinn d' g'fährlichschte ! Die sinn's jo, wo in de Kinder 's Schryewe
             bybringe, so ass s'e no, wenn s'e gross sinn, Brandartikel geje d' Re- 
             
-",36,4,0.6174922689369158,0.1111111111111111
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+jierung schryewe kenne! Ich bitt dich, ich bitt dich, verryss denne Brief unn werf'ne
+            dort in de Babierkorb mitzamt denne Zyttunge do! Nochher verbrenne mir alles, was uns g'fährlich
+            kennt wäre.
+
+          
+",jost-so-e-liederlicher-frack,67,7,0.4476670693400217,0.1044776119402985
+89,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Dü hesch, ma foi, rächt, Georges! 
             
-",7,1,0.8067346087333439,0.14285714285714285
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Werft de Brief unn d' Zyttunge etc., wo uff'm Disch leje, in de Babierkorb.)
+
+          
+",jost-so-e-liederlicher-frack,24,3,0.5702845871700074,0.125
+91,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Diss isch e Frynd vun mir, wo vor'm Kriej G'freiter by de 143er hie isch g'sinn.
-",18,3,0.3467485971548891,0.16666666666666666
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,18,3,0.3467485971548891,0.16666666666666666
+92,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Also e Schwoob ! Am End hett'r im Kriej gar e Schlacht gewunne! Als furt mit! 
             
-",16,3,0.3000074400284965,0.1875
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+(Macht's.)
+ Unn wer isch diss ?
+
+          
+",jost-so-e-liederlicher-frack,24,4,0.3959551449001249,0.16666666666666666
+94,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Herrjeh ! G'schwind, g'schwind in de Babierkorb mit. Wenn'ne de Rüsse au noch Sibirie g'spediert
             hann, ze isch diss noch lang kein Grund, ass mich d' Franzose uff Cayenne schicke! — Unn do, ich
             glabb gar, diss isch's Porträt vun unsere friehjere Hüsshältere üss Pose !
-",46,2,0.6210040412329674,0.043478260869565216
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,46,2,0.6210040412329674,0.043478260869565216
+96,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Was ? Harmlos? Bedenk, d'r Hindeburj isch jo au üss Pose! Nein, so ebbs! Diss Photographie-Album
             do isch jo 's reinscht Verbrecher-Album ! 's bescht wurd sinn, ich wärf's ganz furt ! Do kennt eim jo
             sogar e Photographie vum ewige Judd oder vum Adam unn Eva g'fährlich wäre ! 
             
-",48,4,0.5758235240138624,0.08333333333333333
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Er wärft's Album in de Babierkorb.)
+
+          
+",jost-so-e-liederlicher-frack,57,4,0.5758235240138624,0.07017543859649122
+97,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (langt e Nasduech üss'm Sack):
+
+            
 Ah, guet, ass ich dran denk ! Ich habb denne Morje üss d'r Nas gebluete unn...
-",24,2,0.7224301547013857,0.08333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,24,2,0.7224301547013857,0.08333333333333333
+98,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 ...dyn Nasdiechel bluetig gemacht! Allmächtiger, als furt mit 
             
-",9,3,0.532332064446646,0.3333333333333333
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(nemmťs unn werft's zue de andere Sache).
+ Bluet! Was kamm'r sich nitt alles deby denke
+            ! 
+            
+'s Schrecklichschte losst sich do gar nitt üssmoole! — Awer was sieh ich denn do! Unseri
+            Dischdeck isch jo knallrot !
+
+          
+",jost-so-e-liederlicher-frack,47,4,0.4185565478494565,0.0851063829787234
+99,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Richtig, diss isch e revolütionäri Farb ! Also als ab ins Krematorium mit dere Deck ! 
             
-",15,2,0.7342870917269008,0.13333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+(Werft sie zue de andere Sache.)
+
+          
+",jost-so-e-liederlicher-frack,23,2,0.7342870917269008,0.08695652173913043
+100,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Unn die Wandühr do müess au verschwinde! 's isch jo e Schwarzwälderühr ! 
             
-",13,1,0.2340365852348564,0.07692307692307693
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Wie vorig.)
+
+          
+",jost-so-e-liederlicher-frack,17,1,0.2340365852348564,0.058823529411764705
+101,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Was isch do mit dere Figür, wo dü vor'm Kriej im Kejelklub gewunne hesch ?
-",16,2,0.3835111600427447,0.125
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,16,2,0.3835111600427447,0.125
+102,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Was steht denn unte? 
             
-",5,1,0.3793765577845941,0.2
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Läst) :
+ « Dem wackern Kegelschieber Georges Frosch vom Kegelklub « Alleweil gut
+            Holz » ! » Grosser Gott, diss isch jo myn weritawels Doodesurdeil! Ab mit uff
+            Nimmerwiddersähn ! 
+            
+(Wie vorig.)
+
+          
+",jost-so-e-liederlicher-frack,38,4,0.6752531830590793,0.10526315789473684
+103,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (zeijt uff e Dafel an d'r Wand):
+
+            
 Wie steht's mit dem Bild do vum Louis quatorze?
-",20,1,0.714,0.05
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,20,1,0.714,0.05
+104,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Guet, ass de mich dran gemahnsch ! Au diss muess g'opfert wäre ; m'r kennt jo schunscht annemme,
             mir halte's mit de Royalischte! 
             
-",23,3,0.615783568317899,0.13043478260869565
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Wie vorig.)
+ Hm, unn die Dafel do stellt d' Frejheitsstatüt im Hafe vun New-York vor
+            !
+
+          
+",jost-so-e-liederlicher-frack,40,4,0.5542049053383667,0.1
+105,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Die kamm'r, glauw ich, lonn ?
-",6,2,0.5385281487460679,0.3333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,6,2,0.5385281487460679,0.3333333333333333
+106,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Michel, hesch dü e Ahnung! Bedenk: Frejheit ! Kennt m'r do nitt drüss schliesse, ass mir mit
             unserm Los unzefridde und frej welle sinn ! Ab mit Schade! 
             
-",27,6,0.5520070783313612,0.2222222222222222
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Wie vorig.)
+ Unn die Umhängle do? Die sinn jo au rot! D' scheenschte Raiwer-G'schichte
+            kennt m'r drüss z'samme dichte !
+
+          
+",jost-so-e-liederlicher-frack,49,8,0.5588829980518503,0.16326530612244897
+107,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 M'r kennt denke, mir wotte im rächte Moment revolütionäri Fähne drüss mache! Die miehn verschwinde
             ! 
             
-",16,2,0.5203855969841001,0.125
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+(Wie vorig.)
+
+          
+",jost-so-e-liederlicher-frack,20,2,0.5203855969841001,0.1
+108,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (langt üss'm Sack e Daschemesser) :
+
+            
 Diss Sackmesser do will ich uff alli Fäll au verschmerze. 
+            
+(Wie vorig.) 
+            
+
             
 (D'Stubb muess jetzt e leerer, armseliger Yndruck mache unn nurmme noch mit de nackete Wänd
             unn e paar Meewel do stehn.)
-",43,3,0.5011563349972298,0.06976744186046512
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,47,3,0.5011563349972298,0.06382978723404255
+109,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (luejt sich erum) :
+
+            
 Jetzt simm'r nooch minere Ansicht politisch züverlässig !
-",13,2,0.5836595802942571,0.15384615384615385
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,13,2,0.5836595802942571,0.15384615384615385
+110,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Bis uff diss Dings do, wo uff d'r G'stell verschwinde muess ! Was lycht verbrennbar isch, verbrenn
             ich jetzt in d'r Kiche, un dü packsch d'andere Sache z'samme uınn wärfsch s'e in de Kanal ! No kann
             vun mir üss d' Bolizej hüssüeche, so lang ass s'e Luscht hett! 
             
-",52,6,0.59018418625247,0.11538461538461539
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Er nemmt de Babierkorb mit de Brief, Zyttunge, Nasdiechel unn Album drinne; d'r Michel
+            wickelt in d' Dischdeck die zwei Dafle, d' Vorhäng, d' Ühr, d' Figür unn's Messer.)
+
+          
+",jost-so-e-liederlicher-frack,84,7,0.5919739764589002,0.08333333333333333
+111,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Dü, Georges, diss isch e g'fährlichi Sach! Am End dhuet m'r uns jetzt schun iwerwache, unn wenn
             m'r mich mit dem Dings do verwitscht, ze simm'r erscht rächt geliffert !
-",30,1,0.8067346087333439,0.03333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,30,1,0.8067346087333439,0.03333333333333333
+112,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Ei, dü muesch's halt schlöj anfange, Michel. Dü bisch doch schunscht nitt grad uff de Kopf
             g'falle! 
             
-",19,6,0.5412391663528422,0.3157894736842105
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+(Ab noch rächts mit syne Sache.)
+
+          
+",jost-so-e-liederlicher-frack,27,6,0.5412391663528422,0.2222222222222222
+113,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 E kaiwe Affär diss! Was fang ich numme an, ass mich niemes sieht, wenn ich an de Kanal geh? Ich
             kumm'r grad vor wie einer, wo e Verbreche begehn will! Halt, do kummt mir e Gedanke vum Schiller üss
             d'r Krütenau: Ich verkleid mich, unn zwar zej ich d' Kleider vun unsere Hüsshältere an, no kennt mich
             kein Mensch ! Ich sieh no grad dryn wie e Frau, wo uff's Versatzhüs geht! 
             
-",73,7,0.5464842196143828,0.0958904109589041
-comedy,Robert,M,,,"ROBERT
+(Er nemmt syne Pack unn geht mit links ab.)
+
+          
+",jost-so-e-liederlicher-frack,84,7,0.5464842196143828,0.08333333333333333
+114,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (vun hinte ; ohne Huet unn Mantel) :
+
+            
 Ich bin iwerglicklich — ich habb's Yvonne uff d'r Promenad g'sähn ! Wie sieht's awer denn do üss?
             Wie wenn, d' Raiwer do hinne gewiet unn geplindert hätte ! Oder wie e Wald im Dezember! Was soll diss
             bedytte? — Ah, mir geht e Licht uff! 
             
-",55,4,0.7550057599316552,0.07272727272727272
-comedy,Robert,M,,,"ROBERT
+(Lacht.)
+ Do isch gewiss myner Brief dran d' Schuld! Die zwei alte Herre sinn ihr Läwe
+            nimmi sicher unn hann « alle Spuren verwischt », wie's als in de Detektiv-Romane heisst ! Na, d'
+            Hauptsach isch, wenn se mir in Zuekunft myni Ruehj lonn! 
+            
+('s klopft.)
+'s hett geklopft! Wer kann diss sinn ? Entrez!
+
+          
+",jost-so-e-liederlicher-frack,113,12,0.6625229731915444,0.10619469026548672
+116,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Dü liewer Strohsack, dem syni Dochter soll ich jo hyroote ! i
-",16,2,0.8620326019528735,0.125
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,16,2,0.8620326019528735,0.125
+117,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Unn ich bin kumme, fur d' Bekanntschaft vun sym Bruder Georges unn sym Neveu Robert ze mache. Ich
             nemm an, ass Sie d'r Neveu sinn ?
-",26,2,0.6870792329646975,0.07692307692307693
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,26,2,0.6870792329646975,0.07692307692307693
+118,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Jetzt odder nie! Ich will dem Monsieur Burjer e Denkzettel gänn, ass'r sich hiete wurd, mir syni
             Dochter anzevertröje ! 
             
-",24,2,0.6663433394999025,0.08333333333333333
-comedy,Robert,M,,,"ROBERT :
+(Lütt)
+: Sie drumpiere sich, Monsieur Burjer ! Myn Name isch... isch, ja, isch Meier
+            mit'e-me weiche Ei! Ich bin numme e Bekannter vun de Gebrieder Frosch !
+
+          
+",jost-so-e-liederlicher-frack,52,6,0.7039131256312459,0.11538461538461539
+119,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
+Diss ändert's Bild! 
+            
+(Fur sich)
+: Do hinne sieht's nitt grad arich nooch Millione üss ! Awer durch fremdi
+            Lytt erfahrt m'r als am beschte, wie's um anderi b'stellt 
+            
+isch ! 
+            
+(Lütt):
+ Awer Sie kenne doch gewiss de Monsieur Robert ?
+
+          
+",jost-so-e-liederlicher-frack,45,2,0.7133272158116557,0.044444444444444446
+120,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Ich will's meine! Diss isch mir noch einer... na, ich will nix g'saat hann !
-",16,1,0.7174614274296905,0.0625
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,16,1,0.7174614274296905,0.0625
+121,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Im Gejedeil, Sie dhäte mir e grosse G'falle mache, wenn Sie mich iwer syni Perseenlichkeit e
             bissel uffkläre dhäte. 's steht nämlich fur mich ebbs uff'm Spiel, wo myne Geldsack angeht, unn waje
             dem soll's mir nitt uff döjsig Fränkle ankumme, wenn Sie mich e bissel renseigniere wolte. 
             
-",51,6,0.5910769921905755,0.11764705882352941
-comedy,Robert,M,,,"ROBERT
+(Er gitt'm Geld.)
+
+          
+",jost-so-e-liederlicher-frack,57,7,0.599492689649999,0.12280701754385964
+122,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich):
+
+            
 Geld kann ich allewyll gebrüche! 
             
-",10,1,0.6499868744065399,0.1
-comedy,Robert,M,,,"ROBERT :
+(Lütt)
+: Monsieur Burjer, mit so 'me Schlissel därfe Sie myn Müll noch e paar Mool
+            uffschliesse ! Also horiche Sie, was ich Ihne im Vertröje verroot: D'r Robert hett vorerscht emool e
+            G'sicht, wo uff jede Steckbrief basst, unn wer'm z' nachts am zwelfe uff-e-me Kryzwäj am e Gottsacker
+            in de Wäj lauft, der stärbt nitt im Bett !
+
+          
+",jost-so-e-liederlicher-frack,70,9,0.5851620514611748,0.12857142857142856
+124,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Unn syni Nas glänzt vum viele Süffe so rot, ass'r z' nachts nitt ynschloofe kann. Unn füll isch'r,
             ass'r sogar ze füll isch, fur d'Umdrähjung vun d'r Erd mitzemache!
-",31,3,0.4023536314240015,0.0967741935483871
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,31,3,0.4023536314240015,0.0967741935483871
+126,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Unn um e Härel wär'r waje Unterschlaawung vun 20 000 Franke yng'spunne worre, awer syni zwei Unkel
             hann diss Geld widder ersetzt. Er soll awer waje noch ganz andere Verbreche verhaft wäre!
-",33,2,0.7252334404012581,0.06060606060606061
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,33,2,0.7252334404012581,0.06060606060606061
+127,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Diss langt! Diss langt! Unn so'me Luftibüs soll ich myni Dochter gänn? Non, jamais de la vie!
-",19,2,0.6663433394999025,0.10526315789473684
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,19,2,0.6663433394999025,0.10526315789473684
+128,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Endlich haw ich 'ne so wytt! 
             
-",11,1,0.583,0.09090909090909091
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Lütt)
+: Do wär ihri Dochter scheen ang'schmiert, ! Er isch jo schun g'hyroot — ganz
+            heimlich — niemes weiss ebbs devun. Sie kenne sich also vorstelle, welle Wäj ass no Ihr Geld nemme
+            dhät! Numme waje dem will'r jo Ihri Dochter hyroote! Unn was syni zwei Unkel angeht, ze sinn s'e
+            ärmer als wie arm.
+
+          
+",jost-so-e-liederlicher-frack,68,10,0.6007106653823879,0.14705882352941177
+129,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Junger Mann, Sie hann mir e grosser Dienscht geleischt, wo mit döjsig Franke niti ze dyer bezahlt
             isch, unn fur myni Dochter wurr ich schun noch e anderi Partie finde.
-",31,4,0.562749742070964,0.12903225806451613
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,31,4,0.562749742070964,0.12903225806451613
+130,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Gott sej Dank !
-",8,2,0.8003051308696111,0.25
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,8,2,0.8003051308696111,0.25
+131,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Par exemple, so e Mann wie Sie dhät mir schun ehnder zuesaawe un mynere Dochter gewiss au, wie ich
             myn Kind kenn... Sie hann so ebbs Frisch's, Ehrlich's unn Unverdorwes im G'sicht !
-",35,6,0.7197981010048872,0.17142857142857143
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,35,6,0.7197981010048872,0.17142857142857143
+132,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich):
+
+            
 Diss hett mir jetzt grad noch g'fählt ! 
             
-",12,1,0.6993651460488204,0.08333333333333333
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Lütt)
+: Vun Härze gern, Monsieur Burjer, awer leider bin ich schun nyngedappt — ich
+            mein, in de Ehstand yngeträtte — unn wie!... unn wie lang schun, mein ich !
+
+          
+",jost-so-e-liederlicher-frack,42,8,0.6348785483239716,0.19047619047619047
+133,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Schad ! Na, 's gitt jo noch genue anderi, bravi, jungi Männer ! Also noch emool vielmools merci
             unn au revoir ! 
             
-",20,4,0.5789451320290583,0.2
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER
+(Ab noch hinte.)
+
+          
+",jost-so-e-liederlicher-frack,25,4,0.5789451320290583,0.16
+134,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
+Allons, au revoir, Monsieur Burjer ! 
+            
+(Ellein)
+: So, diss haw ich guet gemacht! Dem liewe Monsieur Burjer haw ich's grindlich
+            vertriwe, uff mich als Dochtermann ze speküliere! 
+            
+(Links ab.)
+
+          
+",jost-so-e-liederlicher-frack,34,6,0.6064595320330144,0.17647058823529413
+135,comedy,Burjer,M,,,,"
+            
+BURJER
+
+            
 (vun hinte) :
+
+            
 Ich habb m'r's iwerleijt ! Ich will mit denne zwei Gebrieder Frosch doch noch e'n-ernscht's Wort
             redde, nitt ass s'e meine, ass s'e e Dummer vor sich hann, wo froh miesst sinn, ass ihre Neveu myni
             Dochter iwerhaupt nemmt ! Die zwei speküliere grad so uff myn Geld unn uff myn guet's G'schäft wie
             ihre proper Herr Neveu! Schun wie's by denne do hinne üssieht, bewyest, ass s'e armi Dejfel sinn unn
             ass ihr G'schäft nitt so glänzend floriert, wie's als heisse dhuet !
-",95,19,0.604437375332892,0.2
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,95,19,0.604437375332892,0.2
+136,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 So, alles isch verbrennt — jetzt kann uns kein Mensch ebbs welle. Hoffetlich hett au d'r Michel
             chance g'hett unn sich syn Päckel vum Hals g'schafft ! 
             
-",27,2,0.433740462196734,0.07407407407407407
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER
+(Er sieht de Burjer):
+ Wer isch denn diss? Wie kummt denn der do ryn, ohne angemeld !
+            Herrjeh ! Diss isch am End gar schun einer vun d'r Polizej — die verstehn's jo bekanntlich, sich
+            iwerall ynzeschlyche !
+
+          
+",jost-so-e-liederlicher-frack,65,2,0.433740462196734,0.03076923076923077
+137,comedy,Burjer,M,,,,"
+            
+BURJER
+
+            
 (fur sich) :
+
+            
 Diss isch gewiss d'r Brueder vum Michel Frosch, wo ich schun perseenlich kenn! Na, dem kann ich's
             jo au stecke! 
             
-",26,1,0.8663948436837723,0.038461538461538464
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+(Lütt)
+: Sinn Sie d'r Monsieur Georges Frosch ?
+
+          
+",jost-so-e-liederlicher-frack,35,2,0.7968420646291317,0.05714285714285714
+138,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (ängschtlich):
+
+            
 Gewiss... gewiss, der bin ich, Monsieur !
-",10,1,0.281,0.1
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,10,1,0.281,0.1
+140,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
+(fur sich) :
+
+            
+Nadierlich vun d'r Police unn waje d'r Hüssuechung ! 
+            
+(Lütt)
+: Leider nitt, Monsieur !
+
+          
+",jost-so-e-liederlicher-frack,19,2,0.4198010789280156,0.10526315789473684
+141,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 So? Ihre Bruder unn Sie hann mich jo hytt erwart !
-",11,2,0.6850965284661099,0.18181818181818182
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,11,2,0.6850965284661099,0.18181818181818182
+142,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (fur sich):
+
+            
 Grosser Gott, also haw ich doch erächt! 
             
-",12,1,0.758,0.08333333333333333
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Lütt)
+: Ich kann's nitt leigle !
+
+          
+",jost-so-e-liederlicher-frack,20,2,0.7426446427872455,0.1
+143,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Bon ! Ze will ich Ihne glych ganz kurz saawe, ass ihr mir noch e scheeni Pratik sinn !
-",18,2,0.7647391670969268,0.1111111111111111
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,18,2,0.7647391670969268,0.1111111111111111
+145,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Numme stille! Ich habb Bewyes!
-",6,2,0.6133259657613488,0.3333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,6,2,0.6133259657613488,0.3333333333333333
+146,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (fur sich) :
+
+            
 Die sinn, Gottlob, verbrennt unn im Kanal!
-",12,2,0.3110400801609955,0.16666666666666666
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,12,2,0.3110400801609955,0.16666666666666666
+147,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Im stille haw ich ejch jo allewyll im Verdacht g'hett, ass by ejch nit alles so isch, wie's sinn
             soll, unn ass ihr's nitt ehrlich meine !
-",29,4,0.602214012723924,0.13793103448275862
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,29,4,0.602214012723924,0.13793103448275862
+148,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Diss kenne numme beesi Lytt behaupt hann !
-",8,2,0.42354583091783454,0.25
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,8,2,0.42354583091783454,0.25
+149,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Meine Sie? M'r brücht numme ze sähn, wie's by ejch drynsieht! 
             
-",13,1,0.7174614274296905,0.07692307692307693
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+(Er zeijt uff d' leere Wänd unn Fenschter.)
+
+          
+",jost-so-e-liederlicher-frack,23,3,0.5839768108071267,0.13043478260869565
+150,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (vergelschtert fur sich) :
+
+            
 Er weiss, ma foi, schun, ass mir do Dings verschwinde hann mache! Mir sinn verlore! Halt, e Idee! 
             
-",24,3,0.2443810482985657,0.125
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Lütt):
+ Monsieur, mir sinn halt armi Lytt!
+
+          
+",jost-so-e-liederlicher-frack,33,6,0.3381359150290095,0.18181818181818182
+151,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Waje dem hann ihr au uff Geld speküliert unn zwar uff e ganz gemeini Art unn Wyes! Wisse Sie, was
             diss isch ? Diss isch Verroot !
-",26,6,0.5466677100408032,0.23076923076923078
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,26,6,0.5466677100408032,0.23076923076923078
+153,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Ich bin dr Schutzmann Schnappne! 
             
-",6,2,0.469,0.3333333333333333
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+(Salütiert.)
+ Wo isch d'r Monsieur Frosch ?
+
+          
+",jost-so-e-liederlicher-frack,14,2,0.469,0.14285714285714285
+154,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (vergelschtert) :
+
+            
 Allmächtiger, jetzt wurr ich arretiert ! 
             
-",9,1,0.8367661952820503,0.1111111111111111
-comedy,Schnappne,M,,,"SCHNAPPNE :
+(Lütt)
+: Der... der bin ich!
+
+          
+",jost-so-e-liederlicher-frack,16,2,0.7820277404282707,0.125
+155,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Ich bin dato uff d'r Suech nooch-e-me g'fährliche Schwerverbrecher...
-",10,4,0.4680710975631405,0.4
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,10,4,0.4680710975631405,0.4
+156,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (fur sich) :
+
+            
 Der Unglicklich bin ich! Ich schmeck schun 's Bluet vun d'r Guillotine !
-",17,3,0.12565074030714948,0.17647058823529413
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,17,3,0.12565074030714948,0.17647058823529413
+158,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Gewehnlich tryebt'r sich in Frauekleider erum, fur lychter ynbreche zu kenne...
-",12,2,0.2595,0.16666666666666666
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES
+
+          
+",jost-so-e-liederlicher-frack,12,2,0.2595,0.16666666666666666
+159,comedy,Georges Frosch,M,,,,"
+            
+GEORGES
+
+            
 (fur sich) :
+
+            
 Gott sej Dank ! Mich kann'r nitt meine!
-",12,3,0.7726905630563042,0.25
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,12,3,0.7726905630563042,0.25
+160,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Unn grad ewe isch uns uff's Revier getelephoniert worre, ass m'r beobacht hett, wie'r sich in diss
             Hüss do yng'schliche hett. Hann Sie 'ne viellycht g'sähn?
-",28,5,0.6053159686651209,0.17857142857142858
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER
+
+          
+",jost-so-e-liederlicher-frack,28,5,0.6053159686651209,0.17857142857142858
+161,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
+Nitt e Zipfel vun'm, was 'ne Ihre Kolleg do gewiss au b'stätige wurd kenne ! 
+            
+(Er zeijt uff de Burjer.)
+
+          
+",jost-so-e-liederlicher-frack,23,1,0.714,0.043478260869565216
+162,comedy,Burjer,M,,,,"
+            
+BURJER
+
+            
 (zuem Georges):
+
+            
 Awer ich bitt Sie!
-",9,1,0.292,0.1111111111111111
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,9,1,0.292,0.1111111111111111
+163,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Was? E Kolleg vun mir ? Der Monsieur do ? Diss stimmt nitt! Ich kenn alli Herre vun d'r
             Polizej.
-",19,2,0.5238544759227854,0.10526315789473684
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,19,2,0.5238544759227854,0.10526315789473684
+166,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Was? Sie gänn jetzt zue, ass Sie nitt vun d'r Polizej sinn ? No sinn Sie halt e Gauner !
-",19,3,0.43708735758009243,0.15789473684210525
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,19,3,0.43708735758009243,0.15789473684210525
+167,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Mir geht e Licht uff ! Agent, diss isch am End der Gauner, wo Sie sueche, denn'r isch uff's Mool
             in mynere Wohnung g'stande, ohne ass ich gewisst habb wie!
-",31,4,0.6824257842561088,0.12903225806451613
-comedy,Schnappne,M,,,"SCHNAPPNE
+
+          
+",jost-so-e-liederlicher-frack,31,4,0.6824257842561088,0.12903225806451613
+168,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (schnappt de Burjer im Gnick):
+
+            
 Ah, so e Frichtel isch diss! Do haw ich schynnt's schun denne Gauner verwitscht! Marsch — mit!
-",26,1,0.469,0.038461538461538464
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,26,1,0.469,0.038461538461538464
+169,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Lonn mich au in Ruehj — ich bitt drum! Ich bin jo...
-",13,3,0.4257804798112422,0.23076923076923078
-comedy,Schnappne,M,,,"SCHNAPPNE
+
+          
+",jost-so-e-liederlicher-frack,13,3,0.4257804798112422,0.23076923076923078
+170,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (stossť ne nooch d'r Dier hinte) :
+
+            
 Wer Sie sinn, diss stellt sich schun uff d'r Polizej erüss! Also vorwärts unn nimm gemückst ! 
             
-",25,3,0.5328527886245198,0.12
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+(Alli zwei ab nooch hinte.)
+
+          
+",jost-so-e-liederlicher-frack,32,3,0.5328527886245198,0.09375
+171,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Diss wär noch emool guet abgeloffe! Ich soll kein Angscht üssg'stande hann! Wie der sich
             uffg'fiehrt hett! Ich habb als gemeint, er wär vun d'r Polizej! E ganz raffinierter Gauner, diss! 
             
-",32,4,0.5587941618830381,0.125
-comedy,E Gauner,M,conman,lower_class,"Gauner
+(Ab nooch rächts.)
+
+          
+",jost-so-e-liederlicher-frack,37,4,0.5587941618830381,0.10810810810810811
+172,comedy,E Gauner,M,conman,unknown,lower_class,"
+            
+Gauner
+
+            
 (macht vorsichtig d' Dier uff, luejt eryn unn kummt no ins Zimmer):
+
+            
 Verdeckel, diss Mool isch's brenzlich fur mich g'sinn! Um e Härel hätte mich d' Blejele g'schnappt
             ! Awer ich habb noch emool chance 
             
-",38,4,0.6876716626462513,0.10526315789473684
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+g'hett. So, unn jetzt will ich emool sähn, ob ich dohinne e guete Fang kann mache! Ich
+            brüch Geld! Hm, do sieht's jo meh als wie pauvre üss ! Awer au gar nix, wo sich rentiert, mitgenumme
+            ze wäre ! 
+            
+(Horicht.)
+ Habb ich rächt g'heert ! Ja, 's kummt ebber ! Do heisst's sich verdufte!
+            Awer wo anne? Ich mecht nitt doch noch am Schlawittel gepackt wäre! Ah, do isch jo e Kuffer! Isch'r
+            leer? 
+            
+(Macht uff.)
+ Ja! Also, als nyn unn zwar heijo! 
+            
+(Er schlupft in de Kuffer unn macht de Deckel iwer sich zue ; macht noch emool g'schwind uff
+            unn zue unn saat)
+: Kücküs... dada !
+
+          
+",jost-so-e-liederlicher-frack,149,18,0.6665091041088801,0.12080536912751678
+173,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (in Frauekleider ; er isch arich uffgerejt):
+
+            
 Luft! Ich verstick ! Nein, ich soll nitt gerennt sinn ! So e Malchance! Wo ich mit mym Pack voll
             politische « Verdachtsmomenter » nooch'm Kanal unterwäjs bin g'sinn, lauft mir uffs Mool e Schutzmann
             in de Wäj; im glyche Moment kummt e Windstoss unn wirwelt mir denne elend Wyewerrock iwerm Kopf
@@ -560,263 +1655,807 @@ Luft! Ich verstick ! Nein, ich soll nitt gerennt sinn ! So e Malchance! Wo ich m
             Fur besser renne zu kenne, haw ich zuedem au noch myne Pack furt miehn wärfe ... hoffetlich finde s'e
             nitt erüss, wem ass'r g'heert, denn schunscht sinn myner Brueder unn ich geliffert! Dü liwer Alledaa!
             Do isch d'r Schutzmann schun ! Mir wurd's schwach !
-",157,16,0.40495271024582274,0.10191082802547771
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE
+
+          
+",jost-so-e-liederlicher-frack,157,16,0.40495271024582274,0.10191082802547771
+174,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
 (mit'm Pack vum Michel ; fur sich) :
+
+            
 Denne Dieb muess ich schnappe ! Ah, do isch'r jo! 
             
-",19,2,0.2897395582305198,0.10526315789473684
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Lütt)
+: Haw ich dich jetzt, Birschtel! Meinsch, ich habb nitt g'spanne, 
+            
+wie de do ryn gewitscht bisch? Ja, d'r Schutzmann Hebbne isch e schlöjer Kadett! Dü
+            bisch uns schun signalisiert worre, ass de dich in're Wyewerkutt erumtryebsch !
+
+          
+",jost-so-e-liederlicher-frack,58,4,0.5096877202888463,0.06896551724137931
+175,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (fur sich) :
+
+            
 Allmächtiger! Kein Zwyefel, mir wäre schun iwerwacht ! 
             
-",12,1,0.8367661952820503,0.08333333333333333
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Lütt):
+ Herr Schutzmann, 's handelt sich jo numme um e ganz harmloser Jüx... ich...
+            habb uff de bal masqué gewellt !
+
+          
+",jost-so-e-liederlicher-frack,34,5,0.7314488878196177,0.14705882352941177
+177,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (fur sich) :
+
+            
 Jetzt simm'r verlore — perdü ! Er hett jo unser Doodesurteil uff d'r Strooss uffg'hebbt ! Jetzt
             hälft numme noch frech's Leigle ! 
             
-",26,3,0.4145844542218599,0.11538461538461539
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE :
+(Lütt)
+: Die Sache sinn nitt myne!
+
+          
+",jost-so-e-liederlicher-frack,34,4,0.4927606620600177,0.11764705882352941
+178,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
 Diss kenne m'r ! Mir kummt's awer als so vor, wie wenn s'e do hinne fähle dhäte, denn do sieht's
             jo üss, wie finf Minütte nooch Erschaffung vun d'r Welt! Mir welle mool sähn ! 
             
-",37,1,0.5027153172801108,0.02702702702702703
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE
+(Er macht de Pack uff.)
+
+          
+",jost-so-e-liederlicher-frack,44,3,0.6335045255983736,0.06818181818181818
+180,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
 (zeijt d' Uehr):
+
+            
 Han, was isch diss, Birschtel ?
-",11,1,0.602712717697481,0.09090909090909091
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,11,1,0.602712717697481,0.09090909090909091
+181,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (fur sich):
+
+            
 Am beschte wurd sinn, wenn ich mich daub stell ! 
             
-",14,1,0.5679669229177663,0.07142857142857142
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE :
+(Lütt)
+: Diss? Diss isch e Sunne-Uehr !
+
+          
+",jost-so-e-liederlicher-frack,22,2,0.6476281042461287,0.09090909090909091
+182,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
 Unn dü hesch e Sunnestich ! E Schwarzwälderühr isch diss, unn die fählt do! 
             
-",14,1,0.2503825744582609,0.07142857142857142
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Er hängt s'e an de friehjer Platz.)
+
+          
+",jost-so-e-liederlicher-frack,24,1,0.2503825744582609,0.041666666666666664
+186,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
+Unn dü hesch Dinde g'soffe ! Diss isch e Kejelprys vun de Schwoowe... 
+            
 (fur sich):
+ Ich hab au eine d'heim !... 
+            
+(lütt)
+: Unn ass er in die Wohnung do g'heert, sieh ich, wyll do de Name « Frosch »
+            steht! 
+            
+(Er stellt d' Figür an de alt Platz.)
+ M'r sieht's jo noch am Staub, ass die Figür do
+            g'stande isch !
+
+          
+",jost-so-e-liederlicher-frack,67,1,0.7272892855744911,0.014925373134328358
+187,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
+(fur sich):
+
+            
 Wenn ich chance habb, wurr ich uff läweslänglich Cayenne begnadigt !
-",15,2,0.7226560517514852,0.13333333333333333
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,15,2,0.7226560517514852,0.13333333333333333
+189,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Ich glaub, diss isch d'r Präsident vun Frankrych !
-",9,1,0.8294008769580371,0.1111111111111111
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,9,1,0.8294008769580371,0.1111111111111111
+191,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (fur sich) :
+
+            
 Am liebschte mecht ich mich denäwe hänge!
-",12,2,0.6117660499649056,0.16666666666666666
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE :
+
+          
+",jost-so-e-liederlicher-frack,12,2,0.6117660499649056,0.16666666666666666
+194,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
 Unn dü bisch e Dolle! Diss stellt ebbs vor, wo dü nimm lang geniesse wursch, nämlich d' Frejheit !
             Die fählt do... 
             
-",22,5,0.5504663563392735,0.22727272727272727
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE
+(zeijt uff d' Wand)...
+ an d'r Wand... 
+            
+(fur sich)
+...unn noch an viele andere Plätz ! 
+            
+(Er hängt's Bild uff).
+
+          
+",jost-so-e-liederlicher-frack,48,7,0.5971902545280525,0.14583333333333334
+197,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
 (zeijt d' rote Umhängle un d' rot Dischdeck) :
+
+            
 Unn was isch diss, Männel ?
-",16,4,0.6075959636644946,0.25
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,16,4,0.6075959636644946,0.25
+198,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Diss sinn e Paar grini Strimpf, unn diss sche e schwarzer Huet !
-",13,1,0.3093252502169902,0.07692307692307693
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE :
+
+          
+",jost-so-e-liederlicher-frack,13,1,0.3093252502169902,0.07692307692307693
+199,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
 Unn dü bekummsch au glych e paar uff de Huet, wenn dü mich fur daub angücksch ! Die rote Umhängle
             fähle do unn die rot Dischdeck do! 
             
-",27,5,0.5981910078702641,0.18518518518518517
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Er macht beid's an de Platz.)
+
+          
+",jost-so-e-liederlicher-frack,36,6,0.6124588831443885,0.16666666666666666
+200,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (fur sich):
+
+            
 Kein chance! Noch nitt emool farweblind isch'r !
-",12,1,0.7313121035029704,0.08333333333333333
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE :
+
+          
+",jost-so-e-liederlicher-frack,12,1,0.7313121035029704,0.08333333333333333
+201,comedy,Hebbne,M,,,,"
+            
+HEBBNE :
+
+            
 So, jetzt sieht alles widder üss, wie's friehjer isch g'sinn ! Diss langt... diss isch Bewyes
             genue !
-",18,1,0.642265947769926,0.05555555555555555
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,18,1,0.642265947769926,0.05555555555555555
+202,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Na, in Gott's Namme, ich gibb zue, ass die Sache myne sinn! Ich ergibb mich mit Herz unn mit Hand
             fur's Vaterland! 
             
-",25,2,0.7821110859772732,0.08
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER
+(Streckt!'m d' Händ zuem Kettle anne.)
+
+          
+",jost-so-e-liederlicher-frack,34,2,0.7821110859772732,0.058823529411764705
+203,comedy,Burjer,M,,,,"
+            
+BURJER
+
+            
 (ohne d' andere ze sähn):
+
+            
 Enfin hann s'e mich laufe lonn... awer 's hett Hitz genue koscht! E Schand isch so ebbs,
             e'n-ehrliche Mensch ze verhafte! Awer do isch numme de Monsieur Georges Frosch dran schuld ! Na, dem
             will ich's stecke! 
             
-",47,5,0.4825188166366387,0.10638297872340426
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Er sieht de Michel):
+ Ja, sieh ich denn erächt? Isch diss nitt myner ami Michel Frosch
+            ?
+
+          
+",jost-so-e-liederlicher-frack,65,6,0.5240960937171747,0.09230769230769231
+204,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (trürig) :
+
+            
 Ja, liewer Burjer, ich bin's!
-",10,3,0.5892295468373653,0.3
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,10,3,0.5892295468373653,0.3
+205,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Ja, Mensch, wie kummsch dü denn in die Wyewerklift ?
-",10,1,0.731982479119855,0.1
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,10,1,0.731982479119855,0.1
+206,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (noch trüriger) :
+
+            
 Ei, wyll ich politisch verdächtig bin ! Siehsch's denn nitt ? 
             
-",15,3,0.2665039470630259,0.2
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Er zeijt uff d' Dafle, d' Dischdeck etc.)
+
+          
+",jost-so-e-liederlicher-frack,25,4,0.37837796029726944,0.16
+208,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Diss geht iwer d'Kräfte vun mym Denkapperat! Do hinne sieht's jo uff's Mool widder ganz wohnlich
             dryn !
-",21,3,0.7385325924248907,0.14285714285714285
-comedy,Schnappne,M,,,"SCHNAPPNE
+
+          
+",jost-so-e-liederlicher-frack,21,3,0.7385325924248907,0.14285714285714285
+209,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (iwer'm Erynkumme) :
+
+            
 Also, Monsieur Frosch, wie g'saat, 's isch leider e Versähn g'sinn ! Der Monsieur isch
             daadsächlich de Monsieur Burjer unn kein Gauner g'sinn !
-",28,3,0.4067350254820043,0.10714285714285714
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,28,3,0.4067350254820043,0.10714285714285714
+210,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Nein, so ebbs! Diss isch jo unser bescht G'schäftsfrind, numme haw ich'ne noch nitt perseenlich
             kennt! 
             
-",17,1,0.688,0.058823529411764705
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+(Luejt sich im Zimmer um; verschrocke zue sich unn zeijt uff d' Wänd)
+: Allmächtiger,
+            do hänge jo widder unseri sämtlichi Doodesurdeiler! 
+            
+(Er sieht de 
+            
+Michel)
+: Michel ! Bisch's odder bisch's nitt ! Wie bisch denn dü gemutzt?
+
+          
+",jost-so-e-liederlicher-frack,58,5,0.5644943420214997,0.08620689655172414
+211,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (zeijt uff de Schnappne) :
+
+            
 Hann s'e dich au schun arretiert? Na, ich bin au so wytt! 
             
-",20,2,0.5914999999999999,0.1
-comedy,Schnappne,M,,,"SCHNAPPNE :
+(Er zeijt uff de Hebbne.)
+
+          
+",jost-so-e-liederlicher-frack,27,3,0.6323333333333333,0.1111111111111111
+212,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Was soll denn die Uffrejung bedytte? Unn was die Maschkerad ?
-",11,2,0.43447550084548714,0.18181818181818182
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,11,2,0.43447550084548714,0.18181818181818182
+214,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Ihr, so ehrewärti Lytt, unn denunziert? Do miesst ich au ebbs devun wisse !
-",14,2,0.6356027222700342,0.14285714285714285
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,14,2,0.6356027222700342,0.14285714285714285
+216,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Wie? Was? 's isch nitt wohr ?
-",7,1,0.8235551257078202,0.14285714285714285
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,7,1,0.8235551257078202,0.14285714285714285
+217,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 Gott sej Dank, d' Guillotine isch noch emool an uns durichgange !
-",12,3,0.5878700872464074,0.25
-comedy,Schnappne,M,,,"SCHNAPPNE :
+
+          
+",jost-so-e-liederlicher-frack,12,3,0.5878700872464074,0.25
+218,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE :
+
+            
 Do hett Ihnne gewiss ebber e Streich welle spiele !
-",10,2,0.557535466926288,0.2
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,10,2,0.557535466926288,0.2
+219,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Awer wer kennt denn e Interesse dran hann, uns so iwel mitzespiele ?
-",13,1,0.1236177284063167,0.07692307692307693
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,13,1,0.1236177284063167,0.07692307692307693
+220,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Am End gar der, wo ejch unn ejere Neveu by mir so schlächt gemacht het, denn nooch allem sieh ich,
             ass'r mich ganz g'heerig verschwindelt hett!
-",27,3,0.5350009146799382,0.1111111111111111
-comedy,Michel,M,businessman,lower_middle_class,"GEORGES u. MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,27,3,0.5350009146799382,0.1111111111111111
+221,comedy,Michel,M,,,,"
+            
+GEORGES u. MICHEL :
+
+            
 Wer isch der gemein Fetze g'sinn! Ich will 'ne kenne unn Mores lehre !
-",16,3,0.3317952163105797,0.1875
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,16,3,0.3317952163105797,0.1875
+223,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (ohne d' andere zu sähn, singt):
+
+            
 Ich hab' mein Herz in Heidelberg verloren... 
             
-",16,3,0.5705611997947456,0.1875
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+(Er sieht d' andere unn verschreckt ; fur sich)
+: Fitzekapores, was isch denn do fur e
+            Velkerbundsversammlung? 
+            
+(Kratzt sich hinter de Ohre)
+: Ich ahn beesi Zytte!
+
+          
+",jost-so-e-liederlicher-frack,45,4,0.49651283282012126,0.08888888888888889
+226,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Wie? Was? Der ejere Neveu ? Unn het sich sälwer by mir schlächt gemacht ? Diss kapier, wer will
             !
-",18,2,0.4022613688219191,0.1111111111111111
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,18,2,0.4022613688219191,0.1111111111111111
+227,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Do bin ich scheen ryngerasselt !
-",10,1,0.7289983277978773,0.1
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,10,1,0.7289983277978773,0.1
+228,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Zeij, Robert, kumm emool e bissel here! Was saasch dü zue dere ganz G'schicht ?
-",15,2,0.6541218143207994,0.13333333333333333
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,15,2,0.6541218143207994,0.13333333333333333
+229,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
+(fur sich):
+
+            
+Jetzt heisst's bychte! 
+            
+(Lütt):
+ Na, ja, ich gibb zue, ass d'r Monsieur Burjer rächt hett!
+
+          
+",jost-so-e-liederlicher-frack,23,3,0.7553354578092301,0.13043478260869565
+230,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 So? Unn worum hann Sie mir so schlächt's Dings iwer sich sälwer verzählt ?
-",15,1,0.1215227376438381,0.06666666666666667
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,15,1,0.1215227376438381,0.06666666666666667
+231,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Ei, wyll ich nitt an Ihri Dochter verschachert will wäre !
-",11,1,0.8015311659203683,0.09090909090909091
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,11,1,0.8015311659203683,0.09090909090909091
+232,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Diss heisst m'r ehrlich geredd! Unn isch au alles wohr, was Sie vun sich sälwer g'saat hann ?
-",18,2,0.8105011174051282,0.1111111111111111
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,18,2,0.8105011174051282,0.1111111111111111
+233,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Nein... diss heisst doch ; 's isch noch döjsig Mool schlimmer !
-",11,1,0.0898769761564491,0.09090909090909091
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL
+
+          
+",jost-so-e-liederlicher-frack,11,1,0.0898769761564491,0.09090909090909091
+234,comedy,Michel,M,,,,"
+            
+MICHEL
+
+            
 (wie d'r Georges vorher) :
+
+            
 Zej, Robert, kumm emool e bissel here! Wer hett uns denn mit dere Denunziation an d'r Nas
             erumg'fiehrt ?
-",25,2,0.32688181112281134,0.08
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,25,2,0.32688181112281134,0.08
+235,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fur sich) :
+
+            
 Ein Unglick kummt nie ellein ! 
             
-",10,2,0.22391339085738804,0.2
-comedy,Robert,M,,,"ROBERT :
+(Lütt)
+: Diss isch myni Wenigkeit g'sinn, Unkel !
+
+          
+",jost-so-e-liederlicher-frack,19,3,0.391705355763089,0.15789473684210525
+237,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Fur ass ihr mich mit ejere Hyrootsg'schichte in Fridde lonn !
-",11,2,0.5173859213628161,0.18181818181818182
-comedy,Schnappne,M,,,"SCHNAPPNE
+
+          
+",jost-so-e-liederlicher-frack,11,2,0.5173859213628161,0.18181818181818182
+238,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (packt d' rächt Hand vum Robert) :
+
+            
 Monsieur, ich verhaft Sie waje growem Unfuej !
-",16,2,0.6378673043666719,0.125
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE
+
+          
+",jost-so-e-liederlicher-frack,16,2,0.6378673043666719,0.125
+239,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
 (packt d' link Hand):
+
+            
 Monsieur, ich verhaft Sie waje Selbschtbeleidigung !
+
+            
 (Beidi zerre de Robert hin unn here )
-",22,1,0.1342249255858618,0.045454545454545456
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,22,1,0.1342249255858618,0.045454545454545456
+240,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Nemme mich mit ; stroofe mich, so hart ass ihr welle, awer mache mich nitt hyroote !
-",16,2,0.2471198324100098,0.125
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,16,2,0.2471198324100098,0.125
+241,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Kein Angscht, jeune homme, so e Maidel wie myni Dochter wär fur Sie doch viel ze schad ! 
             
-",18,4,0.44491447725083083,0.2222222222222222
-comedy,Robert,M,,,"ROBERT
+(Er langt e Photographie üss'm Sack unn hebbt s'e im Robert vor d'Aue.)
+
+          
+",jost-so-e-liederlicher-frack,36,4,0.44491447725083083,0.1111111111111111
+242,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (rysst sich vun de Schutzlytt los unn nemmt's Bild):
+
+            
 Was sieh ich? Diss isch jo 's Yvonne, myn goldich's Yvonnel! Ich nemm s'e.... ich hyroot s'e so
             lang, als wie m'r will!
-",39,2,0.7001581196816177,0.05128205128205128
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,39,2,0.7001581196816177,0.05128205128205128
+243,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 Der Bue isch verruckt worre...
-",6,1,0.4648808464218641,0.16666666666666666
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,6,1,0.4648808464218641,0.16666666666666666
+245,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Was? Sie kenne myni Dochter?
-",6,1,0.8015311659203683,0.16666666666666666
-comedy,Robert,M,,,"ROBERT :
+
+          
+",jost-so-e-liederlicher-frack,6,1,0.8015311659203683,0.16666666666666666
+246,comedy,Robert,M,,,,"
+            
+ROBERT :
+
+            
 Schun lang, ich habb awer nitt gewisst, ass diss Ihri Dochter isch, Monsieur! Ihre zelieb haw ich
             jo die ganze Streich losgelonn, denn sie unn kein anderi haw ich als Frau gewellt!
-",33,3,0.7100064182607598,0.09090909090909091
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,33,3,0.7100064182607598,0.09090909090909091
+247,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Ah, so stehts! Na, ich mein, ass wemm'r d'r Lieb zelieb so wytt geht, sich sälwer schlächt ze
             mache, ze kamm'r nitt grad so arich schlächt sinn, denn anderi im glyche Fall wie Sie mache sich als
             gewehnlich besser als wie s'e sinn !
-",45,6,0.5046855969575645,0.13333333333333333
-comedy,Schnappne,M,,,"SCHNAPPNE
+
+          
+",jost-so-e-liederlicher-frack,45,6,0.5046855969575645,0.13333333333333333
+248,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
+(geriehrt, hyllt) :
+
+            
+Ich begnadig'ne! 
+            
+(Losst 'ne los.)
+
+          
+",jost-so-e-liederlicher-frack,12,1,0.8723081568973007,0.08333333333333333
+249,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (grad so) :
+
+            
 Unn ich enthaft'ne !
-",8,2,0.5841825730244101,0.25
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,8,2,0.5841825730244101,0.25
+250,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 Fur ass'r awer doch nitt ohne Stroof üssgeht...
-",9,1,0.089865585209381,0.1111111111111111
-comedy,Georges Frosch,M,businessman,lower_middle_class,"GEORGES :
+
+          
+",jost-so-e-liederlicher-frack,9,1,0.089865585209381,0.1111111111111111
+251,comedy,Georges Frosch,M,,,,"
+            
+GEORGES :
+
+            
 ...unn nit noch emool in d'r Wuch zwei Mool e frischer Stellkraawe anzejt...
-",14,1,0.6395283186751481,0.07142857142857142
-comedy,Michel,M,businessman,lower_middle_class,"MICHEL :
+
+          
+",jost-so-e-liederlicher-frack,14,1,0.6395283186751481,0.07142857142857142
+252,comedy,Michel,M,,,,"
+            
+MICHEL :
+
+            
 ...Unn am End nitt doch noch in d'r blöj Adria in de Wäj lauft...
-",15,1,0.2208332708130244,0.06666666666666667
-comedy,Burjer,M,businessman,lower_middle_class,"BURJER :
+
+          
+",jost-so-e-liederlicher-frack,15,1,0.2208332708130244,0.06666666666666667
+253,comedy,Burjer,M,,,,"
+            
+BURJER :
+
+            
 ...ze soll'r uff läweslängliche Ehstand mit mynere Dochter verurdeilt wäre!
-",11,3,0.5553855317610307,0.2727272727272727
-comedy,Robert,M,,,"ROBERT
+
+          
+",jost-so-e-liederlicher-frack,11,3,0.5553855317610307,0.2727272727272727
+254,comedy,Robert,M,,,,"
+            
+ROBERT
+
+            
 (fallt im Burjer um de Hals):
+
+            
 Vielmools merci, Herr Staatsanwalt! Ich leij kein Beruefung geje diss Urdeil yn !
-",21,5,0.4621915380436582,0.23809523809523808
-comedy,1. Arweiter,M,,,"1. Arweiter :
+
+          
+",jost-so-e-liederlicher-frack,21,5,0.4621915380436582,0.23809523809523808
+256,comedy,1. Arweiter,M,,,,"
+            
+1. Arweiter :
+
+            
 Bysamme, haw ich g'saat ! Mir solle denne Kuffer hole, wo repariert soll wäre !
-",15,1,0.8004800063959763,0.06666666666666667
-comedy,2. Arweiter,M,,,"2. Arweiter
+
+          
+",jost-so-e-liederlicher-frack,15,1,0.8004800063959763,0.06666666666666667
+258,comedy,2. Arweiter,M,,,,"
+            
+2. Arweiter
+
+            
 (zuem 1. Arweiter) :
+
+            
 Hopp, Kamerad, pack'ne ! 
             
-",10,1,0.8102385366938135,0.1
-comedy,Schnappne,M,,,"SCHNAPPNE
+(Sie nemme de Kuffer jeder am e Griff, lipfe'ne in d' Heche unn gehn mit nooch hinte ab. D'r
+            Gauner blyet nadierlich, wyll d'r Kuffer kein Bodde hett, uff'm Fuesbodde sitze.)
+
+          
+",jost-so-e-liederlicher-frack,44,3,0.6716123433713079,0.06818181818181818
+260,comedy,Schnappne,M,,,,"
+            
+SCHNAPPNE
+
+            
 (stirzt sich uff'ne) :
+
+            
 Was Dejfels, was isch denn nitt diss! Diss isch jo der Gauner, wo mir schun lang sueche !
-",23,3,0.538229393254583,0.13043478260869565
-comedy,Hebbne,M,watchman/policeman,lower_class,"HEBBNE
+
+          
+",jost-so-e-liederlicher-frack,23,3,0.538229393254583,0.13043478260869565
+261,comedy,Hebbne,M,,,,"
+            
+HEBBNE
+
+            
 (grad so) :
+
+            
 Denne hätte m'r ! 
             
-",8,1,0.6993651460488204,0.125
-comedy,E Gauner,M,conman,lower_class,"GAUNER :
+(Sie kettle'ne.)
+
+          
+",jost-so-e-liederlicher-frack,12,1,0.6993651460488204,0.08333333333333333
+264,comedy,E Gauner,M,conman,unknown,lower_class,"
+            
+GAUNER :
+
+            
 Saawe liewer, ass diss e boddeloser Kuffer isch g'sinn, denn schunscht hätte ihr mich nitt
             verwitscht !
+
+            
 (D'Schutzlytt fiehre de Gauner ab, unn d'r Vorhang fallt g'schwind.)
 
+            
+
               
-",30,2,0.7195063504187453,0.06666666666666667
+FINIS!
+
+            
+
+          
+",jost-so-e-liederlicher-frack,31,2,0.7195063504187453,0.06451612903225806

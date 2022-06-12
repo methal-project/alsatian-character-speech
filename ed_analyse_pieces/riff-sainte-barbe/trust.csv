@@ -1,994 +1,2953 @@
-drama_type,speaker,sex,job,social_class,text,numTokens,numLexTokens,avgLexVal,lexRatio
-comedy,Lissel,F,,,"Lissel:
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+0,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 voilà, loon 's Uch gschmecke, Andrees 
             
-",7,2,0.0,0.2857142857142857
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(nachprüfend).
+ Haltela, 's Glaasel isch jo noch nit göönz voll — 
+            
+(will einschenken.)
+
+          
+",riff-sainte-barbe,24,3,0.0,0.125
+1,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (wehrt leicht ab)
+
+            
 — 's räicht, Lissel, 's räicht! — Wäisch, so genäuej nimmt's Uenseräiner doch juscht nit grood am
             e Feschtdäuej! — 
             
-",27,3,0.4448543297680783,0.1111111111111111
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(steht auf und reckt sich rasch in eine strammeHaltung.)
+ — Sainte-Barbe, Lissel,
+            d'erscht Sainte-Barbe wied'r nooch lange, bange Zytte! — Daß ich dieß noch erlawe hab derfe in mine
+            alte Daaj, daß mir ünseri Casque un Kepi wied'r hingeviri höön derfe hole
+
+          
+",riff-sainte-barbe,72,6,0.44126049821737245,0.08333333333333333
+3,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Vive la France! — Lissel, ich könnt grood hyle vor lütter Fräid!
-",13,3,0.0,0.23076923076923078
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,13,3,0.0,0.23076923076923078
+4,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Ich kann's guet v'rstehn, Andrees.
-",7,2,0.0,0.2857142857142857
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,7,2,0.0,0.2857142857142857
+5,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Nee, Mäide, dies v'rstehsch Dü juschtemand lang nit so wie Uenseräiner. Do mueß m'r anno 71 d'rbie
             sin gewahn un mueß gsahne höön, wie d'Franzose ze Strooßburri nüsgezöije sin — — — 
             
-",35,3,0.0,0.08571428571428572
-comedy,Lissel,F,,,"Lissel:
+(wischt sich die Augen)
+ — — nom de pipe! — — wenn ich droon zeruck denk', wie
+            d'Flintekolwe uffem Gelander vun d'r Wyßdurmbruck ze Krütt un Fatze gschläueje un d'Sticker 'noo ins
+            Waaser ning gschmisse sin worre, wie m'r Alli. lüt uff ghylt höön vor Harzeläid, Jammer un Elang,
+            ghylt wie d'kläine King, d'Burjerslytt un d'Saldote, un wie d'rnoo — — — o pauvre, pauvre Alsace!
+
+          
+",riff-sainte-barbe,109,8,0.10250000000000001,0.07339449541284404
+6,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Kalmiere-n-Uch, Andrees. D'Franzose sin jo jetz wied'r do.
-",12,1,0.0,0.08333333333333333
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+7,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Gott sej Dank, Lissel, Gott sej Dank! 
             
-",8,5,0.2468,0.625
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(setzt sich wieder).
+
+          
+",riff-sainte-barbe,13,5,0.2468,0.38461538461538464
+8,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (blitzt wieder rasch in die Höhe und salutiert stramm)
+
+            
 Guete-n-Owe Harr Brandmäischter!
-",17,2,0.0,0.11764705882352941
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,17,2,0.0,0.11764705882352941
+9,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (jovial)
+
+            
 — Guete-n-Owe Andrees. — Au schun do?
-",13,3,0.0,0.23076923076923078
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,13,3,0.0,0.23076923076923078
+10,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert)
+
+            
 — Ja, Harr Brandmäischter.
-",8,2,0.0,0.25
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,8,2,0.0,0.25
+11,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Raacht so, Andrees, raacht so. — Setze-n-Uch numme. — Aha, un öijeri nöj Dienschtkapp höön'r äu
             schun uff?
-",21,4,0.3945,0.19047619047619047
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,21,4,0.3945,0.19047619047619047
+12,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert)
+
+            
 — M'r sin jo jetz franzeesch, Harr Brandmäischter.
-",12,1,0.0,0.08333333333333333
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+13,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (lächelnd.)
+
+            
 — Raacht so, Andrees, raacht so.
-",10,4,0.3945,0.4
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,4,0.3945,0.4
+14,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 (hinter dem Bierausschank.)
+
+            
 — Uff dane Momant het'r schun lang gewoort. Galte, Andrees?
-",16,4,0.13623436517813686,0.25
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,16,4,0.13623436517813686,0.25
+15,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Jo wajer.
-",3,1,0.0,0.3333333333333333
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,3,1,0.0,0.3333333333333333
+16,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Aw'r mit ere Engelsgeduld, galte, Andrees?
-",7,2,0.2724687303562737,0.2857142857142857
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,7,2,0.2724687303562737,0.2857142857142857
+17,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — In de letschte Johre nimmi, Harr Brandmäischter, denn do hawi d'Stung nimmi v'rwoorte könne,
             Harr Brandmäischter — — — —
-",26,1,0.0,0.038461538461538464
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,26,1,0.0,0.038461538461538464
+18,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (drückt Andrees auf die Bank nieder.)
+
+            
 — Bliewe doch emol sitze, Andrees, m'r sin jo jetz franzeesch!
-",20,3,0.22666666666666668,0.15
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,20,3,0.22666666666666668,0.15
+19,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Zall mäin ich doch äu. Dar prejßisch Mode mueß emol v'rschwinde.
-",12,2,0.0,0.16666666666666666
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,2,0.0,0.16666666666666666
+20,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Raacht so! — M'r het dies prejßische Kasarne-Trarifari ingfiehre muehn un het halt no so
             gezwungener Wies mitgemaacht, aw'r jetz heert's wied'r uff! — Lissel, schenk im Andrees noch e
             Glaasel ing.
-",34,5,0.1578,0.14705882352941177
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,34,5,0.1578,0.14705882352941177
+21,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 (hinter dem Bierausschank ; lachend.)
+
+            
 — Aw'r Andrees!
-",10,2,0.0,0.2
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+22,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Ich maach jo e franzeescher Salü! — Het m'r nit lang genuej druff woorte muehn?! — Siewenevierzig
             Johr, ihr Manner, siewenevierzig Johr!
-",23,4,0.0,0.17391304347826086
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,23,4,0.0,0.17391304347826086
+23,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Na, no loon'm die Plasier.
-",7,2,0.0,0.2857142857142857
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,7,2,0.0,0.2857142857142857
+24,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Trinke doch jetz emol laar, Andrees.
-",7,2,0.0,0.2857142857142857
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,7,2,0.0,0.2857142857142857
+25,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — oui, mademoiselle!
-",7,1,0.0,0.14285714285714285
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+26,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Loon m'r die Däubhäite ewack, un trinke.
-",8,1,0.0,0.125
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+27,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Däubhäite?! — Do v'rstehn ihr Wybslytt halt nix devun.
-",10,2,0.0,0.2
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+28,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
+Mientwaje! 
+            
+(Andrees trinkt leer, Lissel schenkt neu ein.)
+
+          
+",riff-sainte-barbe,11,2,0.0,0.18181818181818182
+32,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Jaaa, wisse-n-'r, inger ünsere Bumbié sin e poor dringer — — —
-",15,2,0.3125,0.13333333333333333
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,15,2,0.3125,0.13333333333333333
+33,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Un wann se-n-e Appetit höön wie d'Drescher — — — — sie asse üns nit zem Löönd nüs.
-",22,1,0.0,0.045454545454545456
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,22,1,0.0,0.045454545454545456
+35,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Sankt-Barwere-Äier! — Üs lüter Plasier, daß d'Franzose do sin! — Gsündhäit! — 
             
-",14,4,0.1465,0.2857142857142857
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(trinkt.)
+
+          
+",riff-sainte-barbe,17,4,0.1465,0.23529411764705882
+36,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 's war m'r aw'r äu nit erraacht, wann's an ebs fahle daat. — Un goor hyt an mim Ebredäuej. —
             Sainte-Barbe könne m'r jo jetz wied'r alle Johr fiere, gottsejdank, aw'r — — — e finfezwanzigjahrigs
             Dienschtjübiläum, dies kummt numme äinmol im Lawe.
-",45,2,0.25,0.044444444444444446
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,45,2,0.25,0.044444444444444446
+37,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ho zall!
-",3,1,0.0,0.3333333333333333
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,3,1,0.0,0.3333333333333333
+38,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Mir zähle noch uff e fuffzigjahrigs.
-",7,2,0.2724687285921508,0.2857142857142857
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,7,2,0.2724687285921508,0.2857142857142857
+40,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — M'r kann's nit wisse, Harr Brandmäischter.
-",12,1,0.0,0.08333333333333333
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+41,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (etwas geschmeichelt.)
+
+            
 — Wann d'r Kopf äu wott, so lang halte 's aw'r d'Füeß nit üs. — Un züdam, d'Junge üssem Dörfel
             wäre äu älter —
-",31,4,0.1465,0.12903225806451613
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,31,4,0.1465,0.12903225806451613
+42,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Un welle äu emol ebs wäre in d'r Gemäin.
-",10,1,0.0,0.1
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+44,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 M'r welle's aw'r nit hoffe, daß Uch d'Junge iewwer de Kopf nüs woose! — Un züdam: Brandmäischter
             kann doch nit grood Jeder spiele.
-",26,4,0.127,0.15384615384615385
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,26,4,0.127,0.15384615384615385
+45,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Un wann'r noch so guet franzeesch kann.
-",8,1,0.0,0.125
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+46,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 As isch nit eso äinfach, ihr liewi Lytt! — Jaja.
-",11,3,0.4478890893172301,0.2727272727272727
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,11,3,0.4478890893172301,0.2727272727272727
+47,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Naja, so lang wie's noch geht, v'rsahn m'r ünsere Dienscht jo wyttersch. Wann's emol nimmi geht,
             d'rnoo heere m'r vunaase uff. — Lissel schenk im Andrees noch e Glaasel ing.
-",34,3,0.0,0.08823529411764706
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,34,3,0.0,0.08823529411764706
+48,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Trinke laar, Andrees.
-",4,2,0.0,0.5
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,4,2,0.0,0.5
+49,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (schmunzelnd.)
+
+            
 — Noch emol? — 's isch jo schun lang laar.
-",14,3,0.0,0.21428571428571427
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,14,3,0.0,0.21428571428571427
+54,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 ""Ebs"" schun, ja, aw'r nimmi viel, bin ken junger Hottel meh, dies mueß m'r bedenke.
-",16,2,0.0,0.125
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,16,2,0.0,0.125
+55,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — Exküse, Harr Brandmäischter, ich hab oochtezwanzig Johr meh uffem Buckel aß wie Ihr, aw'r
             wajezam, wann's ans trinke geht, d'rnoo stell ich miene Mann so stolz wie d'r ältscht Bumbié, un
             fröij im Däifel ebs nooch'm Alter! — Luschti laawe un saali starwe! — Gesündhäit! — 
             
-",54,12,0.3060833333333333,0.2222222222222222
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Schorsch, Daniel, Lissel:
+(trinkt.)
+
+          
+",riff-sainte-barbe,57,12,0.3060833333333333,0.21052631578947367
+56,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Schorsch, Daniel, Lissel:
+
+            
 Gsündhäit Andrees!
-",5,2,0.0,0.4
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,5,2,0.0,0.4
+57,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (schaut auf seine Uhr.)
+
+            
 — Jetz mueß ich aw'r maache, daß ich wied'r ze mim Offizierchorps zeruck kumm, sunsch gitt's noch
             Stampeneje!
-",26,2,0.0,0.07692307692307693
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,26,2,0.0,0.07692307692307693
+58,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Wieviel fremdi Offizier sin dann kumme?
-",7,2,0.3045,0.2857142857142857
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,7,2,0.3045,0.2857142857142857
+59,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (stolz.)
+
+            
 — Im Göönze: zwäijedrißig.!
-",8,1,0.0,0.125
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+60,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — Sackerwalt!
-",6,1,0.0,0.16666666666666666
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+62,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (lachend.)
+
+            
 — Äij jo, aw'r — — bie dane wie jischt 'num läufe zich ich nit hott erum! — V'rstehn'r?!
-",23,1,0.0,0.043478260869565216
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,23,1,0.0,0.043478260869565216
+63,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert.)
+
+            
 — Respakt d'rvor! — Sackerwalt! — Gsündhäit! 
             
-",12,3,0.25,0.25
-comedy,Lissel,F,,,"Lissel:
+(trinkt leer.)
+
+          
+",riff-sainte-barbe,16,4,0.1875,0.25
+64,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Trinke-n-'r noch e Glaasel, Andrees?
-",8,1,0.0,0.125
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+65,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Numme nit ze blitzi, sunsch wur ich hitzi! — Hähähä!
-",11,1,0.0,0.09090909090909091
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+67,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Jaja, d'v Andrees v'rträät's. 
             
-",7,1,0.0,0.14285714285714285
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(schenkt ein.)
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+68,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Was trinksch denn fer e Tröpfel, Andrees?
-",8,2,0.0,0.25
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,8,2,0.0,0.25
+69,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 ""Langsamer Salbschtmord.""
-",3,2,0.0,0.6666666666666666
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,3,2,0.0,0.6666666666666666
+72,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Aw'r Andrees, dies v'rträäsch Dü jo goor nit!
-",9,1,0.0,0.1111111111111111
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,9,1,0.0,0.1111111111111111
+73,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (schmunzelnd.)
+
+            
 — Ich wäiß's, Daniel, ich wäiß's. — Aw'r, uff ünser Fescht anne — — — Gsündhäit, Harr
             Brandmäischter! — 
             
-",25,4,0.13647633510819426,0.16
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(trinki rasch ein Schlückchen, und salutiert.)
+
+          
+",riff-sainte-barbe,33,4,0.13647633510819426,0.12121212121212122
+74,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Wann's Uch numme gschmeckt, Andrees.
-",7,1,0.0,0.14285714285714285
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+75,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (wischt sich den Schnurrbart ab.)
+
+            
 — Hähähähähä!
-",10,1,0.0,0.1
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+77,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Dü hattsch aw'r Trawere trinke sotte, Andrees. — Jine bisch gewohnt vun Kingsbäine oon, aw'r dene
             do v'rträuejsch doch nit. —
-",22,1,0.0,0.045454545454545456
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,22,1,0.0,0.045454545454545456
+78,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Ho zall!
-",3,2,0.0,0.6666666666666666
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,3,2,0.0,0.6666666666666666
+79,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ich wäiß's! — Maach m'r numme ken Sätz!
-",10,1,0.0,0.1
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+81,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (salutiert etwas schwankend.)
+
+            
 — Göönz mini Mäinung, Harr Brandmäischter!
-",12,2,0.0,0.16666666666666666
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,2,0.0,0.16666666666666666
+82,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (klopft ihm auf die Schulter.)
+
+            
 — Andrees, mir bliewe biem Kirschewasser.
-",14,1,0.0,0.07142857142857142
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,14,1,0.0,0.07142857142857142
+83,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (wie oben.)
+
+            
 — Un wann d'halb Gurjel druff geht, Harr Brandmäischter.
-",15,1,0.0,0.06666666666666667
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,15,1,0.0,0.06666666666666667
+84,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (lachend.)
+
+            
 — Dies kann jo guet wäre.
-",10,2,0.0,0.2
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+85,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 (lachend.)
+
+            
 — Jojo!
-",6,1,0.0,0.16666666666666666
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+86,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Laache nit. — Lissel, schenk ing!
-",7,2,0.2412590442375721,0.2857142857142857
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,7,2,0.2412590442375721,0.2857142857142857
+87,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Trinke doch zerscht laar!
-",5,1,0.0,0.2
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+88,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Ah 's isch noch ebs drinne? — Öha! — Hou-rupp! 
             
-",11,1,0.0,0.09090909090909091
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(trinkt aus.)
+ Hoppla! — 's rutscht noch! Inggschankt!
+
+          
+",riff-sainte-barbe,21,1,0.0,0.047619047619047616
+89,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (lachend.)
+
+            
 — Ar het e gueter Zugg, d'r Andrees.
-",12,3,0.0,0.25
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,12,3,0.0,0.25
+90,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (lachend.)
+
+            
 — Dies sell mir nix sin!
-",10,1,0.0,0.1
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+91,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Setze-n-Uch aw'r jetz nahder geje d'r Dhüer zü, Andrees.
-",12,2,0.0,0.16666666666666666
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,12,2,0.0,0.16666666666666666
+92,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Waje was dies?
-",4,1,0.0,0.25
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,4,1,0.0,0.25
+94,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (lallend)
+
+            
 — Ah zallewaj? — 's fellt m'r aw'r goor nit ing. — ""Hier bin ich, un hier bläibe ich!"" het d'r
             Samegüschtel uff d'r Hohkinnisburri in's Adraßbuech geschriewe. — Un mir sin aw'r noch kürranter aß
             wie Iir, gall Lissel?!
-",45,2,0.0,0.044444444444444446
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,45,2,0.0,0.044444444444444446
+95,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (lachend.)
+
+            
 — Hoffetli sin mir dies!
-",9,1,0.0,0.1111111111111111
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,9,1,0.0,0.1111111111111111
+97,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Zall will ich mäine!
-",5,2,0.3635,0.4
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,5,2,0.3635,0.4
+99,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Wäisch, Daniel, daß ich's nit v'rgiß: m'r höön um e gueti Trinkkraft zügenumme. D'r Stawalters
             Philipp het sich wied'r in d'Kumpenie uffnahme loon.
-",26,3,0.18500000000000003,0.11538461538461539
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,26,3,0.18500000000000003,0.11538461538461539
+104,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (schlägt mit der Faust auf den Tisch.)
+
+            
 — Iewri bliewe derf nix! — Hupp! — Sackerwalt! — Hupp!
-",21,1,0.0,0.047619047619047616
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,21,1,0.0,0.047619047619047616
+105,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (schaut zur Mitteltür hinaus.)
+
+            
 — E stockfinschteri Noocht. — Un still isch's im Dörfel!
-",18,1,0.0,0.05555555555555555
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,18,1,0.0,0.05555555555555555
+106,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (lallend.)
+
+            
 — — Hupp! — — Woorte numme — — — as — — as kummt schun noch ööndersch! — — Hupp! — — Gsündhäit! — 
             
-",29,3,0.0,0.10344827586206896
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(trinkt).
+
+          
+",riff-sainte-barbe,32,3,0.0,0.09375
+108,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Sackerwalt! Jetz mueß ich aw'r gehn! — Also, Daniel, d'r Koschtepunkt spielt ken Roll. — 's isch
             Sainte-Barbe! — Un züdam min Ehredäuej! — Un owwedrin sin m'r franzeesch! — Diesmol derfe e poor
             Krüttstickle druffgehn! — Numme, daß käin Mann vun d'r Kumpenie ebs ze reklemiere het! — Nit emol d'r
             Stawalters Philipp.
-",55,1,0.0,0.01818181818181818
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,55,1,0.0,0.01818181818181818
+109,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (entsetzt.)
+
+            
 — Oh, oh, oh! — D'r Andrees — —
-",13,2,0.0,0.15384615384615385
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,13,2,0.0,0.15384615384615385
+111,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 (die Tür suchend.)
+
+            
 — Gsündhäit! — Hupp!
-",10,2,0.0,0.2
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+112,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Maach'm hurtli d'Dhüer uff, Lissel! — Hopp, räij Dich!
-",12,1,0.0,0.08333333333333333
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+113,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (ängstlich)
+
+            
 — Wann 'r m'r aw'r — — — ?!
-",12,1,0.0,0.08333333333333333
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+115,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Ich — — ich — — ich brüch niemes! — Hupp! Ich ich kann — 
             
-",16,1,0.0,0.0625
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(drückt rasch das Taschentuch vor den Mund, stößt rasch die Tür auf und torkelt hinaus in das
+            Dunkel der Nacht.)
+
+          
+",riff-sainte-barbe,38,2,0.0,0.05263157894736842
+117,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
+Jaja. — 
+            
+(hält sich das Taschentuch vor die Nase und schließt rasch die Tür.)
+ — 's fangt jo
+            schun raacht natt oon!
+
+          
+",riff-sainte-barbe,25,3,0.263,0.12
+119,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Hawich's nit gsäit wie's kumme wurd?! — Ich kenn mini Lytt! — Lissel, stell die Schnapsflasch
             ewack, un schließ m'r 's Likörkeenschterle göönz zu. — 
             
-",28,2,0.3205,0.07142857142857142
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(geschieht.)
+
+          
+",riff-sainte-barbe,31,2,0.3205,0.06451612903225806
+120,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Bier derfe mini Bumbié trinke, was in se ning geht. — Numme de V'rstöönd sell sich kener
             vrsüffe.
-",19,2,0.3125,0.10526315789473684
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,19,2,0.3125,0.10526315789473684
+123,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Mir isch's häuptsachli waje de fremde Harre Offizier, wie hynt Owe noch Alli do hare kumme! — Un
             äu waje minere Fräu!
-",24,4,0.29474999999999996,0.16666666666666666
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,24,4,0.29474999999999996,0.16666666666666666
+125,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Aw'r salbschtv'rstandli! — Do daat sich d'Theres dhäime nit hewwe loon. — D'erscht franzeesch
             Sainte-Barbe! Un min finfezwanzigjahrigs Dienschtjübiläum! — Ah ihr mäine?!
-",26,2,0.3635,0.07692307692307693
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,26,2,0.3635,0.07692307692307693
+127,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Aw'r sicher! — Un wann äiner od'r d'r öönder nit kunterbiere will — — — — — 
             
-",18,1,0.672,0.05555555555555555
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+(spuckt in die Hände und streift die Aermel zurück).
+
+          
+",riff-sainte-barbe,29,1,0.672,0.034482758620689655
+128,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (lachend.)
+
+            
 — Na, sowyt wurd's doch hoffetli nit kumme?
-",13,2,0.0,0.15384615384615385
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,13,2,0.0,0.15384615384615385
+131,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Sie ware jetz am Dessert sin. Uff dies hawich v'rzicht. Vum Gschlacks bin ich ken Friend. Großi
             Mumpfle, die sin bie mir d'Häuptsach! — Also, wann d'r schwarz Kaffi getrunke isch, d'rnoo kumm ich
             mit d'r Theres hare. — 
             
-",42,4,0.15400862015375436,0.09523809523809523
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(schaut auf seine Uhr.)
+ — Bis dert anne wurd ünseri Kumpenie äu do sin.
+
+          
+",riff-sainte-barbe,58,5,0.12320689612300348,0.08620689655172414
+132,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ja un d'Harre Offizier?
-",6,3,0.20299999999999999,0.5
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,6,3,0.20299999999999999,0.5
+133,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Die kumme Alli mitnöönd hare, mit Müsik.
-",8,2,0.0,0.25
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,8,2,0.0,0.25
+134,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Ja, hingenooch wied'r, wann do d'r göönz Marikt v'rloffe-n-isch.
-",12,1,0.0,0.08333333333333333
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+135,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Oha! — Wann mir kumme, fangt d'r Marikt erscht raacht oon! Bedenke's doch: d'erscht franzeesch
             Sainte-Barbe, un d'rzü min finfezwanzigjahrig Dienschtjübiläum!
-",25,2,0.3945,0.08
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,25,2,0.3945,0.08
+136,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Ja, wie räucht's dann do hinne?!
-",8,1,0.0,0.125
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+139,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (will sie tätscheln.)
+
+            
 — Ja, Theres, ja.
-",10,2,0.0,0.2
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+140,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (verweisend.)
+
+            
 — Wyt vum Gschütz gitt alti Saldote! — Un iewerhäupt, los jetz! — Marsch! — en route!
-",21,2,0.19149999999999995,0.09523809523809523
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,21,2,0.19149999999999995,0.09523809523809523
+141,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Ja, Theres, ja. — Kum, min Harzkaferle! — 
             
-",9,2,0.0,0.2222222222222222
-comedy,Lissel,F,,,"Lissel:
+(will sie umarmen.)
+
+          
+",riff-sainte-barbe,14,2,0.0,0.14285714285714285
+144,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (schaut zur Mitteltür hinaus.)
+
+            
 — Aw'r finschter isch's drüsse, wie im e Sack.
-",17,1,0.0,0.058823529411764705
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,17,1,0.0,0.058823529411764705
+146,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Jo, m'r sin warzi lang genuej im Dunkle gedappt iewwer de Kriej!
-",13,3,0.0,0.23076923076923078
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,13,3,0.0,0.23076923076923078
+147,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Vor lütter Sainte-Barbe denke ünseri Harre Genieköpf im Gemäinerooth an nix Gschieds meh.
-",14,2,0.0,0.14285714285714285
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,14,2,0.0,0.14285714285714285
+149,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Petrol? — 's Elektrisch mueß hare! — Mir könne's üns läischte! — 's Gald d'rzü höön uns
             d'Stadtlytt gebroocht.
-",23,3,0.11966666666666666,0.13043478260869565
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,23,3,0.11966666666666666,0.13043478260869565
+150,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (atemlos.)
+
+            
 — Driewwe uff d'r Strooß — — mittle im diefschte Drack drinne — — — lejt d'r Noochtwaachter!
-",22,4,0.13275,0.18181818181818182
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,22,4,0.13275,0.18181818181818182
+151,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Oh Schrecke!
-",3,1,0.0,0.3333333333333333
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,3,1,0.0,0.3333333333333333
+153,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Äij jo, zall schun. — Hilf aw'r z'erscht, daß m'r 'ne uff d'Bäin stelle könne.
-",17,3,0.21366666666666667,0.17647058823529413
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,17,3,0.21366666666666667,0.17647058823529413
+154,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (lachend.)
+
+            
 Ich hab m'r's inggebildt, daß's eso kumme wurd.
-",14,2,0.0,0.14285714285714285
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,14,2,0.0,0.14285714285714285
+156,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Allons, kumm jetzt ich mueß häim!
-",7,1,0.0,0.14285714285714285
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+157,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (erscheint ebenfalls unter der Tür.)
+
+            
 — Ja, wurd's jetz bööl, od'r welle m'r do iewer Noocht bliewe?
-",21,2,0.0,0.09523809523809523
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,21,2,0.0,0.09523809523809523
+158,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Kumm doch, Daniel.
-",4,1,0.0,0.25
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,4,1,0.0,0.25
+160,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
+'s isch nit notwandi. Mir höön Alles. Numme emol erüs jetz! — 
+            
+(läßt eine elektrische Taschenlampe aufblitzen, schreitet den Uebrigen voran und beleuchtet
+            den Weg. — Alle, bis auf Lissel, verlassen die Gaststube. Lissel macht rasch die Tür hinter den
+            Dreien zu, und schaut gebückt zum Schlüsselloch hinaus.)
+
+          
+",riff-sainte-barbe,51,4,0.21675,0.0784313725490196
+162,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Philipp! — Hesch ken gröeßeri Viehhäit könne maache?!
-",9,1,0.383,0.1111111111111111
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,9,1,0.383,0.1111111111111111
+163,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (grinsend.)
+
+            
 — Wann d'Kutte nit im Waj warde gewahn, no hatt's besser geklatscht.
-",18,1,0.477,0.05555555555555555
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,18,1,0.477,0.05555555555555555
+164,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Stiermaaßi genuej d'rzü wärdsch halt allewiel noch fer ebs eso ze maache.
-",14,2,0.3085,0.14285714285714285
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,14,2,0.3085,0.14285714285714285
+165,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (grinsend.)
+
+            
 — Ja, mäinsch viellicht, daß Ünseräiner durch de Kriej fiener wär worre?
-",16,3,0.0,0.1875
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,16,3,0.0,0.1875
+167,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Lissel, beläidig ünser Bumbié-Chorps nit!
-",6,1,0.0,0.16666666666666666
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+168,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Wärdsch ewack gebliewe vun ene! — Mit Dir läje se sich warzi wenni Ehr ing!
-",16,1,0.4473834546949458,0.0625
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,16,1,0.4473834546949458,0.0625
+169,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (weist grinsend seine gespreitzte Hand vor.)
+
+            
 — Lissel, wo die anne batscht, do woost ken Groos meh! — 
             
-",21,1,0.398,0.047619047619047616
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(ballt die Hand zur Faust.)
+ — Un wann se emol ererscht eso üssieht! — 
+            
+(macht den rechten Unterarm einigemale vorund rückwärts schnellen.)
+ — Hoppla! — Do löij
+            emol anne! — hein?! — Wann d'r Hindeburri nit ghöert hatt, daß d'r Stawalters-Philipp gejenem zehjt,
+            ze hatt'r noch e Wiel wyttersch gemaacht. — Aw'r denewaj het'r gedenkt: ""Jetz isch's Zytt, daß häime
+            gehsch!""
+
+          
+",riff-sainte-barbe,87,7,0.33814285714285713,0.08045977011494253
+171,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Was isch los?! — Gück D'r emol dies Discheck oon! — Ain Sträich mit d'r Füscht druff, un am Bodde
             lejt's — — — grood wie ewackrasiert! — Seh ich?! — 
             
-",33,1,0.3829999999999999,0.030303030303030304
-comedy,Lissel,F,,,"Lissel:
+(schwingt die Faust hoch.)
+ — Wie hoch gilt d'Wett?! — Äin Sträich!
+
+          
+",riff-sainte-barbe,48,3,0.12766666666666662,0.0625
+172,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (erschreckt.)
+
+            
 — Ingersteh Dich jo nit!
-",9,1,0.0,0.1111111111111111
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,9,1,0.0,0.1111111111111111
+175,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Ich woort uff d'Ööndere.
-",6,1,0.0,0.16666666666666666
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+177,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (roh auflachend.)
+
+            
 — Drüsse lejt'r im Drack!
-",10,2,0.0,0.2
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+178,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Nee ar lejt nit! — D'r Brandmäischter un d'Theres höön 'ne mit häim genumme. — Soviel Oonstand het
             ünser Vorstand.
-",22,1,0.516,0.045454545454545456
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,22,1,0.516,0.045454545454545456
+181,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (schadenfroh.)
+
+            
 — Ja, wartsch aw'r noch e weng, bis Alli do sin.
-",15,2,0.0,0.13333333333333333
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,15,2,0.0,0.13333333333333333
+182,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Ho, hol — Numme nit eso kürios, Lissel, un maach wied'r emol e öönders Gsicht. — 
             
-",17,3,0.17433333333333334,0.17647058823529413
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(will Lissel tätscheln.)
+
+          
+",riff-sainte-barbe,22,3,0.17433333333333334,0.13636363636363635
+188,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Hyt isch fer uns Bumbié e Fyrdi, un sogar e doppelter. — Do kenn ich ken Dienscht.
-",18,1,0.625,0.05555555555555555
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,18,1,0.625,0.05555555555555555
+189,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Fyrdi hin, Fyrdi har — Dienscht od'r ken Dienscht — Kummando isch Kummando un bliet Kummando. —
             V'rstange?! — Dies isch emol mini Mainung!
-",25,2,0.0,0.08
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,25,2,0.0,0.08
+190,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Äij jo, zall schun.
-",5,1,0.0,0.2
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+191,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ja, aw'r Dü muesch bie jedere Gelajehäit ebs extras maache.
-",11,1,0.0,0.09090909090909091
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+193,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (mit einem finstern Blick.)
+
+            
 — Ja, öönderi Lytt vun hinge iewerfalle un grüen un blöij häueje.
-",19,4,0.0,0.21052631578947367
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,19,4,0.0,0.21052631578947367
+194,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (roh auflachend.)
+
+            
 — Nit geroote! — Aw'r do mit dare Füscht 's Eck vun dare Dischplatt ewackschmattere, in äim
             Sträich — — — sahn'r, dies isch ebs extras!
-",31,1,0.0,0.03225806451612903
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,31,1,0.0,0.03225806451612903
+196,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
+Welle-n-r 's emol sahne? — 
+            
+(schwingt die Faust hoch.)
+ — Numme äin Sträich, un 's Discheck lejt uffem Bodde. — Wie
+            hoch gilt d'Wett?
+
+          
+",riff-sainte-barbe,30,2,0.0,0.06666666666666667
+198,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (zielt mit der Faust gegen die Tischplatte.)
+
+            
 — 's eilt um fünf Franke! — cing Francs pour la exécution! — hein?! — Mit äim Sträich! — Het wer
             het!
-",32,2,0.0,0.0625
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,32,2,0.0,0.0625
+200,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Frisch gewöijt, isch halb gewunne, wer nit setzt, kann nix bekumme! — Also: Fünf Fränkle! — Het
             niemes Kürasch? — Wer setzt d'rgeje?
-",25,3,0.19533333333333333,0.12
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,25,3,0.19533333333333333,0.12
+201,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 (faßt Philipp beim Genick und schleudert ihn in eine Ecke der Gaststube.)
+
+            
 — Hesch jetz Ruehj od'r nit, Gäuckelhirn, iewerzwarchs?!
-",23,1,0.0,0.043478260869565216
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,23,1,0.0,0.043478260869565216
+203,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Loß 'ne leje, dane Narr!
-",6,2,0.08199999999999995,0.3333333333333333
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,6,2,0.08199999999999995,0.3333333333333333
+204,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (erbebt sich mühsam vom Boden.)
+
+            
 — Un dies Discheck mueß hyt doch noch droon gläuwe! — V'rloon Uch druff!
-",22,1,0.716298925957224,0.045454545454545456
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,22,1,0.716298925957224,0.045454545454545456
+205,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (eilt freudig erregt an die Mitteltür und reißt dieselbe auf.)
+
+            
 — D'Bumbié kumme! — D'Bumbié kumme!
-",21,7,0.17857142857142858,0.3333333333333333
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,21,7,0.17857142857142858,0.3333333333333333
+206,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Loß m'r die Dhüer zü! — Hesch noch nie ken Bumbié gsahne?
-",13,1,0.625,0.07692307692307693
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,13,1,0.625,0.07692307692307693
+208,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Na, no maach nit eso v'rruckt. — 
             
-",8,1,0.0,0.125
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(zündet ein hinter dem Ausschank stehendes Kerzenlicht an.)
+ — Ich geh jetz in de
+            Keeler, oonstache. — Rischt emol d'Gleeser. — 
+            
+(mit dem brennenden Licht ab Türe links.)
+
+          
+",riff-sainte-barbe,41,5,0.1422,0.12195121951219512
+209,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (nun etwas kleinlaut)
+
+            
 — Un ich geh do nüs, wo ich ering bin kumme. Hinge nüs, un mit de Ööndere noochhare vorne ering. —
             Lissel, gall, bisch so guet un v'rrootsch niemes nix devun, daß ich schun emol do bin gewahn. — Gall,
             Lissel? — Löij, e jeder Mensch het sini Fahler, un ich bin äu e fahlerhafter Mensch — — — —
-",66,4,0.0,0.06060606060606061
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,66,4,0.0,0.06060606060606061
+211,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
+Juhuuuuuh! — Lissel, mit Dir döönz ich hyt Owe de-r-erschte Walzer! — 
+            
+(eilt zur Türe rechts, öffnet dieselbe vorsichtig, späht hinaus und schlüpft, die Tür rasch
+            hinter sich schließend, ins Freie.)
+
+          
+",riff-sainte-barbe,34,3,0.3465592766585505,0.08823529411764706
+212,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Danz mit's Däifels Grooßel, no rannsch äu ken Häiligi um! — 
             
-",13,2,0.49970886105512136,0.15384615384615385
-comedy,Lissel,F,,,"Lissel:
+(öffnet die Mitteltür weit auf. Die Pompiers-Clairons und Trommeln sind noch immer gedämpft
+            aus der Ferne zu hören.)
+
+          
+",riff-sainte-barbe,33,3,0.3331392407034142,0.09090909090909091
+213,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Halt!! — — Halt!! — Halt!! — 's derf niemes ering!
-",12,3,0.0,0.25
-comedy,buureburscht,M,,,"Die Burschen:
+
+          
+",riff-sainte-barbe,12,3,0.0,0.25
+214,comedy,buureburscht,M,,,,"
+            
+Die Burschen:
+
+            
 Oho! — Zall müeßt sin?!
-",7,1,0.0,0.14285714285714285
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+215,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 's Wurtshüs isch hynt Owe resarviert fer d'Bumbié. — Numme wied'r nüs! — Enööndernooch! — Hopp,
             bedenke Uch numme nit lang. — D'Harre Offizier kumme äu noch! — Numme wied'r los!
-",34,6,0.2695,0.17647058823529413
-comedy,buuremaidle,F,,,"Die Mädchen:
+
+          
+",riff-sainte-barbe,34,6,0.2695,0.17647058823529413
+216,comedy,buuremaidle,F,,,,"
+            
+Die Mädchen:
+
+            
 (zu den Burschen.)
+
+            
 — Kumme, mir gehn!
-",11,1,0.0,0.09090909090909091
-comedy,buuremaidle,F,,,"Die Mädchen:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+219,comedy,buuremaidle,F,,,,"
+            
+Die Mädchen:
+
+            
 (lachend.)
+
+            
 — Un dogebliewe wurd jetz. — Grood zeläid!
-",13,1,0.0,0.07692307692307693
-comedy,Ein Bursche,M,,,"Ein Bursche:
+
+          
+",riff-sainte-barbe,13,1,0.0,0.07692307692307693
+220,comedy,Ein Bursche,M,,,,"
+            
+Ein Bursche:
+
+            
 Mir könne äu Sainte-Barbe fiehre, so stolz wie d'Bumbié.
-",12,3,0.39833333333333326,0.25
-comedy,buureburscht,M,,,"Die Burschen:
+
+          
+",riff-sainte-barbe,12,3,0.39833333333333326,0.25
+222,comedy,buureburscht,M,,,,"
+            
+Die Burschen:
+
+            
 Kumme, ihr Mäide! 
             
-",5,2,0.0,0.4
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+(Alle placieren sich rasch am hintersten Tisch der Gaststube.)
+
+          
+",riff-sainte-barbe,16,2,0.0,0.125
+224,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Die Burschen und Mädchen:
+
+            
 (lachend.)
+
+            
 — Jo wajer!
-",10,1,0.0,0.1
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+225,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
+Mir lejt's nit oon. — Maache was'r welle. 
+            
+(Die Clairons und Trommeln werden jetzt in unmittelbarer Nähe hörbar und kommen allmählich vor
+            der Wirtschaft an.)
+
+          
+",riff-sainte-barbe,29,3,0.23966666666666667,0.10344827586206896
+226,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Kompagnie — halt! — entrer! — remplacer! — commencer! — arriver! — fouler à coups de piéd!
-",18,1,0.0,0.05555555555555555
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,18,1,0.0,0.05555555555555555
+227,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (geschäftig)
+
+            
 — Nahme Platz, ihr Harre! — Setze-n-Uch. — Un rucke e weng zamme, daß d'Harre Offizier noochhare
             äu noch Platz finge. — Halte, halte! — Dar Platz do vorne mueß frej bliewe fer de Harr Brandmäischter
             un d'Fräu Brandmäischtere!
-",47,7,0.16071428571428573,0.14893617021276595
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,47,7,0.16071428571428573,0.14893617021276595
+228,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (spitz)
+
+            
 — Do hätt m'r aw'r äu zwäi Fauteuil anne stelle könne.
-",15,2,0.3205,0.13333333333333333
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,15,2,0.3205,0.13333333333333333
+229,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Na jetzt ware numme nit schun wied'r gifti. — Ich mueß jo äu maache, was ich ghäiße wur. —
             Sitze-n-'r jetz bööl Alli?!
-",26,1,0.0,0.038461538461538464
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,26,1,0.0,0.038461538461538464
+230,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Jetz warde m'r Alli bienöönd, bis uff dane v'rlottelte Stawalters-Philipp.
-",11,2,0.2385,0.18181818181818182
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,11,2,0.2385,0.18181818181818182
+231,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 So?! — Ja, wo stackt dann dar Allerwaltslottel wied'r?
-",10,1,0.0,0.1
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,10,1,0.0,0.1
+232,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 (erstaunt.)
+
+            
 — Wo kummsch dann Dü jetz uff eesmols haregschliche?
-",13,1,0.0,0.07692307692307693
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,13,1,0.0,0.07692307692307693
+233,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (lacht roh auf und schlägt sich auf das Knie.)
+
+            
 — Hahaha! — Jetz wurd's Däuej! — Höön'r mich drowwe am Spritzehüs nit gsahne?
-",27,2,0.0,0.07407407407407407
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,27,2,0.0,0.07407407407407407
+234,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Biem Apall uff kene Fall
-",6,2,0.0,0.3333333333333333
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,6,2,0.0,0.3333333333333333
+235,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Aw'r glich druff bin ich kumme. — Isch''s imstöönd nit so, Herr Korperal? 
             
-",15,2,0.0,0.13333333333333333
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(zwinkert Velde mit den Augen zu.)
+
+          
+",riff-sainte-barbe,23,2,0.0,0.08695652173913043
+236,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Grood wie m'r ewack marschiert sin, isch'r noochzeranne kumme. Zall isch wohr.
-",13,3,0.263,0.23076923076923078
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,13,3,0.263,0.23076923076923078
+238,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (gelassen.)
+
+            
 — Jaja. — Aw'r Dir will ich eens säueje, Michel, un's öönder äu glich: ich will hynt Owe ken
             zwäitsmol meh so oongschnäuzt ware do hinne, sunscht schmiß ich Uch de göönze Battel wied'r vor
             d'Füeß! — Mir sin jetz franzeesch, wann'r 's je noch nit wisse, v'rstange?!
-",54,1,0.0,0.018518518518518517
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,54,1,0.0,0.018518518518518517
+239,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Guete-n-Owe bienöönd.
-",5,1,0.0,0.2
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+242,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Numme emol de Hahne uff un d'Gleeser gfillt. An mir sell's nit fahle.
-",16,2,0.0,0.125
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,16,2,0.0,0.125
+244,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Dü muesch halt wied'r d'r Erscht sin, wie's Mül uffrißt.
-",12,2,0.0,0.16666666666666666
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,12,2,0.0,0.16666666666666666
+247,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Bravo! — Bravo!
-",5,1,0.625,0.2
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,5,1,0.625,0.2
+249,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 Drej Kiwwel voll Grümbeeresalot.
-",5,1,0.0,0.2
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+250,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Bravo!
-",3,1,0.625,0.3333333333333333
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,3,1,0.625,0.3333333333333333
+251,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Zwäi Meter fuffzig Brootwurscht uff de Mann.
-",8,2,0.0,0.25
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,8,2,0.0,0.25
+252,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Bravo!
-",3,1,0.625,0.3333333333333333
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,3,1,0.625,0.3333333333333333
+254,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 E Säichkaschte voll, mit Respakt ze malde.
-",8,2,0.375,0.25
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,8,2,0.375,0.25
+255,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Bravo!
-",3,1,0.625,0.3333333333333333
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,3,1,0.625,0.3333333333333333
+256,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (sein Glas hochschwingend.)
+
+            
 — Kamerade! — Gsündhäit!
-",10,2,0.3166709984271093,0.2
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,10,2,0.3166709984271093,0.2
+257,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Gsündhäit! 
             
-",3,2,0.3125,0.6666666666666666
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+(sie trinken.)
+
+          
+",riff-sainte-barbe,7,2,0.3125,0.2857142857142857
+258,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Kamerade! — Sahn'r dies Discheck do? — 
             
-",8,1,0.6333419968542185,0.125
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+(schwingt die Faust hoch.)
+ — Äin Sträich vun mir, un's ringelt sich uffem Bode wie e
+            oongepickter Rajewurm! — Mit äim Sträich mueß's leje! — Ich setz fünf. Fränkle! — Wer setzt
+            d'rgeje?!
+
+          
+",riff-sainte-barbe,46,3,0.26578066561807284,0.06521739130434782
+260,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Wrinke m'r äins, ihr Manner!
-",6,1,0.0,0.16666666666666666
-comedy,buureburscht,M,,,"Ein Bauernbursche:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+261,comedy,buureburscht,M,,,,"
+            
+Ein Bauernbursche:
+
+            
 Unseri Bumbié selle lawe!
-",6,2,0.5625,0.3333333333333333
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,6,2,0.5625,0.3333333333333333
+263,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 's erscht Glas hatte m'r äijetli uff's Wohl vun ünserem Brandmäischter laartrinke selle.
-",15,2,0.3088385912990196,0.13333333333333333
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,15,2,0.3088385912990196,0.13333333333333333
+268,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Kamerade! — Fünfezwanzig Johr steht hyt ünser Brandmäischter uff siem schware Poschte. — 
             
-",14,3,0.21111399895140617,0.21428571428571427
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+Fünfezwanzig Johr sin sozesäueje e Stick Menschealter — — — —
+
+          
+",riff-sainte-barbe,25,3,0.21111399895140617,0.12
+269,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (schreit dazwischen.)
+
+            
 — Was Raacht isch, mueß Raacht bliewe! — Pardon, Harr Spritzemäischter, ich mueß Dir in Dini Red
             ning falle, aw'r — — — was Raacht isch, mueß Raacht bliewe!
-",34,5,0.6312,0.14705882352941177
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,34,5,0.6312,0.14705882352941177
+271,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Ich bin jo noch nit ferti — Kamerade! — Ünser Harr Brandmaischter loßt sich hynt Owe wied'r e
             schwar's Stick Gald koschte — — —
-",27,3,0.33078066561807284,0.1111111111111111
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,27,3,0.33078066561807284,0.1111111111111111
+272,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Bravo! — Vive!
-",5,1,0.625,0.2
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,5,1,0.625,0.2
+273,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Ja, Velde, ich bin doch am redde.
-",8,1,0.0,0.125
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+275,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Dies isch e ordinäri Inbüssion!
-",6,1,0.0,0.16666666666666666
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+276,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 In-sub-or-di-na-tion! säit m'r d'rzü, wann m'r latinisch babble will. Wann m'r aw'r do nit kabawel
             genuej isch d'rzü, d'rnoo halt m'r scheen sin däub Mül un trinkt sin Bier.
-",33,4,0.2495011165678882,0.12121212121212122
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,33,4,0.2495011165678882,0.12121212121212122
+278,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 (vor Wut schäumend.)
+
+            
 — No isch's ewwe e Inbüsordination vor v'rsammelter Mannschaft! — Un geje so ebs proteschtier
             ich!
-",23,4,0.166,0.17391304347826086
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,23,4,0.166,0.17391304347826086
+279,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Gsündhäit!
-",2,1,0.0,0.5
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,2,1,0.0,0.5
+280,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ruehji, ruehji! — Fange doch nit schun so an!
-",10,3,0.0,0.3
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+
+          
+",riff-sainte-barbe,10,3,0.0,0.3
+281,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Die Burschen und Mädchen:
+
+            
 (singen.)
+
+            
 — Nür äinmal blüht, wenn's niemand sieht, nür äinmal im Leben die Liebe!
-",21,3,0.16666666666666666,0.14285714285714285
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,21,3,0.16666666666666666,0.14285714285714285
+282,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 (wütend.)
+
+            
 — Ja, wo bliet dann do noch d'Majorität?!
-",13,2,0.0,0.15384615384615385
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,13,2,0.0,0.15384615384615385
+284,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (dreht sich auf dem Absatz herum.)
+
+            
 — Do mueß jo e Gückelhahn laache! — Lissel, räich Bier eriewwer!
-",21,1,0.4825180884751442,0.047619047619047616
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Die Mädchen:
+
+          
+",riff-sainte-barbe,21,1,0.4825180884751442,0.047619047619047616
+286,comedy,Velde Umecker,M,,,,"
+            
+Die Mädchen:
+
+            
 Gsündhäit!
-",3,1,0.0,0.3333333333333333
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,3,1,0.0,0.3333333333333333
+288,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 Gsündhäit!
-",3,2,0.3125,0.6666666666666666
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,3,2,0.3125,0.6666666666666666
+289,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Kamerade!
-",2,1,0.6333419968542185,0.5
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,2,1,0.6333419968542185,0.5
+291,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Mir fiere hyt Sainte-Barbe un zeglich 's Jübiläum vun ünserem Harr Brandmäischter.
-",13,1,0.0,0.07692307692307693
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,13,1,0.0,0.07692307692307693
+293,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Kamerade! Mir sin v'rgnüejt bienöönd, mir, ja. — Aw'r — — — wo sin ünseri Harre Offizier?! —
             Hinne?! — 
             
-",21,4,0.3105854992135546,0.19047619047619047
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(Beistimmendes Gemurmel.)
+
+          
+",riff-sainte-barbe,25,4,0.3105854992135546,0.16
+295,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (lachend.)
+
+            
 — Jetz wäiß ich's. — 
             
-",10,1,0.0,0.1
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(Gelächter allseits.)
+
+          
+",riff-sainte-barbe,14,1,0.0,0.07142857142857142
+296,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Ruehji!
-",2,1,0.0,0.5
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,2,1,0.0,0.5
+298,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 M'r daats aw'r bööl mäine.
-",6,1,0.727,0.16666666666666666
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,6,1,0.727,0.16666666666666666
+299,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Lissel, ich hab Durscht.
-",5,1,0.0,0.2
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+301,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Ich fröij noch emol: wo sin ünseri Harre Offizier?!
-",10,3,0.20299999999999999,0.3
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,10,3,0.20299999999999999,0.3
+302,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Velde, jetz nimm ich Dir's Wort!
-",8,1,0.0,0.125
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+303,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 E Drack kannsch Dü mir nahme, v'rstange?!
-",8,1,0.0,0.125
-comedy,bumbie,U,,,"D'Bumbié:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+305,comedy,bumbie,U,,,,"
+            
+D'Bumbié:
+
+            
 's isch Sainte-Barbe!
-",5,1,0.625,0.2
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+
+          
+",riff-sainte-barbe,5,1,0.625,0.2
+306,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Die Burschen und Mädchen:
+
+            
 (singen.)
+
+            
 — Schön isch die Jü-ügend, sie kommt nicht mehr!
-",16,3,0.19533333333333333,0.1875
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,16,3,0.19533333333333333,0.1875
+307,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 D'Glycerin mueß hoch ghalte ware!
-",7,1,0.0,0.14285714285714285
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+309,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Jetz loon doch emol die ewige Stupfereje ewack!
-",9,2,0.2702335239380931,0.2222222222222222
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,9,2,0.2702335239380931,0.2222222222222222
+311,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Silence! — Ünser Harr Brandmäischter sell lawe!
-",8,1,0.5,0.125
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,8,1,0.5,0.125
+313,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
+Na, het noch Kener d'Kürasch?! — 
+            
+(schwingt die Faust hoch.)
+ — Mit äim Sträich! — Hoppla! -Wer setzt d'rgeje?!
+
+          
+",riff-sainte-barbe,25,1,0.0,0.04
+316,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Wann noochhare ünseri Offizier kumme, Michel, no will ich hoffe, daß Dü mine Standpunkt
             v'rtrittsch — — —
-",19,4,0.46099999999999997,0.21052631578947367
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,19,4,0.46099999999999997,0.21052631578947367
+317,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Bisch jetz bööl emol still?!
-",6,1,0.0,0.16666666666666666
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,6,1,0.0,0.16666666666666666
+318,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Noch lang nit!
-",4,1,0.0,0.25
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,4,1,0.0,0.25
+320,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Fer mich hesch Dü ken Abfüehrmittel!
-",7,1,0.0,0.14285714285714285
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,7,1,0.0,0.14285714285714285
+321,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Wenn's jetz ken Ruehj gitt, no bloos ich d'Lampe üs! — E Starnsapeprmant nochemol!
-",17,3,0.0,0.17647058823529413
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,17,3,0.0,0.17647058823529413
+322,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (klopft ihm lächelnd auf die Schulter.)
+
+            
 — So wyt geht d'Narrhäit noch nit bie Dir, Daniel. —
-",21,1,0.0,0.047619047619047616
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+
+          
+",riff-sainte-barbe,21,1,0.0,0.047619047619047616
+323,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Die Burschen und Mädchen:
+
+            
 (singend.)
+
+            
 — O Süsanne, wie isch das Leben doch so schön! — O Süsanna, wie isch das Leben schön!
-",25,4,0.5429999999999999,0.16
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,25,4,0.5429999999999999,0.16
+324,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (haut Michel, welcher sie in die Wange kneifen will, auf die Finger.)
+
+            
 — Michel, dies könne-n-'r dhäime bie Öijere Fräu maache! — Aw'r mich loon'r in Ruehj! — Ich säe's
             Uch!
-",37,1,0.0,0.02702702702702703
-comedy,group,sex_unknown,job_unknown,social_class_unknown,"Die Burschen und Mädchen:
+
+          
+",riff-sainte-barbe,37,1,0.0,0.02702702702702703
+327,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Die Burschen und Mädchen:
+
+            
 (singen.) — Röslein, Röslein, Röslein rot! Röslein auf der Heiden!
-",16,2,0.3108515356337177,0.125
-comedy,chorus,U,,,"Chorus:
+
+          
+",riff-sainte-barbe,16,2,0.3108515356337177,0.125
+328,comedy,chorus,U,,,,"
+            
+Chorus:
+
+            
 (wiederholend.)
+
+            
 — Röslein, Röslein, Röslein rot! Röslein auf der Heide !
-",13,1,0.6217030712674354,0.07692307692307693
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,13,1,0.6217030712674354,0.07692307692307693
+329,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 à la bonheur! — Do geht's jo schun raacht luschdi zü!
-",13,2,0.685806944235509,0.15384615384615385
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,13,2,0.685806944235509,0.15384615384615385
+330,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Kamerade! — Ünser Harr Brandmäischter un d'Fräu Brandmäischtere selle lawe!
-",12,2,0.5666709984271092,0.16666666666666666
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,12,2,0.5666709984271092,0.16666666666666666
+333,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (pustend.)
+
+            
 — Deraschiere Uch numme nit. Numme luschti druff los.
-",13,3,0.12766666666666662,0.23076923076923078
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,13,3,0.12766666666666662,0.23076923076923078
+334,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 Dies isch äu mini Mäinung. — Harr Brandmäischter, betraachte die Füscht, un betraachte dies
             Discheck. — Äin Sträich vun mir vun owwera — — — — —
-",28,3,0.4166666666666667,0.10714285714285714
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,28,3,0.4166666666666667,0.10714285714285714
+336,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Warm isch's do hinne, Theres, grießerli warm.
-",9,2,0.0,0.2222222222222222
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,9,2,0.0,0.2222222222222222
+337,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Hawich D'r's nit allewiel gsäit, Dü sellsch nit zeviel trinke? — Un no dar Kanztistriewelwyn, dar
             hatt ewack sotte bliewe.
-",22,1,0.617,0.045454545454545456
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,22,1,0.617,0.045454545454545456
+341,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Na, viellicht äu zwäi, aw'r höchschtens drej.
-",8,1,0.0,0.125
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,8,1,0.0,0.125
+342,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 Ja, ohni d'r Rascht!
-",5,1,0.0,0.2
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+344,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (pustend.)
+
+            
 — Ich kriej bööl ken Luft meh.
-",11,1,0.0,0.09090909090909091
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+345,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Maach de Kräueje uff un d'Knepf am Frack. 
             
-",10,1,0.0,0.1
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(geschieht.)
+
+          
+",riff-sainte-barbe,13,1,0.0,0.07692307692307693
+346,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Michel, entweder säesch jetzt was ze säueje isch, od'r ich fang oon. — Aw'r no wurd ken Blatt
             vor's Mül genumme.
-",23,2,0.0,0.08695652173913043
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,23,2,0.0,0.08695652173913043
+347,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Sej zefridde, Velde, ich träe's schun vor.
-",9,1,0.609,0.1111111111111111
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,9,1,0.609,0.1111111111111111
+349,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Als noch? — Lissel, maach irjes uff un loß frischi Luft ering. — 
             
-",14,2,0.0,0.14285714285714285
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(Lissel öffnet ein Fenster.)
+
+          
+",riff-sainte-barbe,20,2,0.0,0.1
+350,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Trinke ihr Harrschafte äu Bier?
-",6,1,0.422,0.16666666666666666
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,6,1,0.422,0.16666666666666666
+355,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Aha! — Andli!
-",4,1,0.4529999999999999,0.25
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,4,1,0.4529999999999999,0.25
+356,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Hochv'rehrti Fräu Brandmäischtere un Jübilarin! — Liewi Kamerade! — As isch hyt e großer Däuej fer
             üns Alli zamme —
-",21,3,0.4220030882686363,0.14285714285714285
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,21,3,0.4220030882686363,0.14285714285714285
+357,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 D'Offizier! — D'Offizier!
-",6,2,0.609,0.3333333333333333
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,6,2,0.609,0.3333333333333333
+358,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Un dorum selle ünseri Harre Offizier, un vor allem ünserer Harr Jübilar lawe! — vive!
-",16,3,0.36966666666666664,0.1875
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,16,3,0.36966666666666664,0.1875
+360,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (knirschend.)
+
+            
 — Na wart numme!
-",8,1,0.477,0.125
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,8,1,0.477,0.125
+361,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (kläglich.)
+
+            
 — Theres, mir wurd's schlaacht! Ich mueß an d'Luft!
-",15,2,0.0,0.13333333333333333
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,15,2,0.0,0.13333333333333333
+362,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Zerscht muesch noch e Red halte. — 's isch Dini Pflicht.
-",12,1,0.0,0.08333333333333333
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,12,1,0.0,0.08333333333333333
+364,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Riß Dich zamme.
-",4,1,0.0,0.25
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,4,1,0.0,0.25
+367,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (seufzend.)
+
+            
 — Na, ich will's prowiere. — Kamerade! — Was wohr isch, kann m'r säueje. — Fünfezwanzig Johr sin
             ken Kläinigkäit — — un — — un — — ich kann Jedem säueje — daß — — daß — — ihr Manner, nahme m'r's nit
             iewel — — as — — as — as wurd m'r unpaßli!
-",62,4,0.35558549921355465,0.06451612903225806
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,62,4,0.35558549921355465,0.06451612903225806
+369,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (besorgt.)
+
+            
 — Steht's schlimm, Harr Brandmäischter?
-",10,2,0.0,0.2
-comedy,Schorsch Peterhänsel,M,firefighter_director,lower_middle_class,"Schorsch:
+
+          
+",riff-sainte-barbe,10,2,0.0,0.2
+370,comedy,Schorsch Peterhänsel,M,,,,"
+            
+Schorsch:
+
+            
 (abwehrend.)
+
+            
 — Loon mich nüs — — loon mich nüs. — 
             
-",14,2,0.0,0.14285714285714285
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+(taumelt zur Tür rechts hinaus in den Hof).
+
+          
+",riff-sainte-barbe,24,3,0.16933333333333334,0.125
+371,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Wann'r halt Bier getrunke hatt, wie Ünseräiner — — —
-",11,1,0.0,0.09090909090909091
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+374,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Silence! — D'Fräu Brandmäischtere het's Wort!
-",9,1,0.0,0.1111111111111111
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,9,1,0.0,0.1111111111111111
+375,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Ihr Manner! — Vun jehar hawich mich fer ünseri Fäierwehr intressiert, un um alli
             BumbiéAngelajehäite oongenumme.
-",17,1,0.0,0.058823529411764705
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,17,1,0.0,0.058823529411764705
+377,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (schlägt sich auf die Brust.)
+
+            
 — Fünfezwanzig Johr stehn mir uff ünserem Poschte.
-",16,1,0.0,0.0625
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,16,1,0.0,0.0625
+379,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (trocknet sich nervös die Stirne.)
+
+            
 — Mit Stolz un Fräid, trotz Gift un Näid, höön mir ünser Amt gewissehaft bekläidt.
-",23,6,0.10683333333333334,0.2608695652173913
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,23,6,0.10683333333333334,0.2608695652173913
+387,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (trocknet sich nervös die Stirn.)
+
+            
 — Un war het bie d'r Parad mit d'r beschte, gröschte un vornahmschte Spritz kunkeriere kenne? — 
             
-",25,3,0.12766666666666668,0.12
-comedy,Theres,F,,,"Theres:
+(schlägt sich auf die Brust.)
+ — Mir!
+
+          
+",riff-sainte-barbe,34,3,0.12766666666666668,0.08823529411764706
+389,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 Un d'Harre Offizier vun ünserer Kumpenie —
-",9,2,0.3045,0.2222222222222222
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,9,2,0.3045,0.2222222222222222
+390,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 (dazwischen schreiend.)
+
+            
 — Ja?! — Wo sin se, ünseri Harre Offizier?! — Wo sin se?!
-",18,4,0.15225,0.2222222222222222
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,18,4,0.15225,0.2222222222222222
+391,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 Velde, jetz isch's awr genuej! — Bie dr nachschte V'rsammlung stell ich de Anträuej — —
-",18,2,0.5980000000000001,0.1111111111111111
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,18,2,0.5980000000000001,0.1111111111111111
+392,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 (beschwichtigend.)
+
+            
 — Stille, stille, stille!
-",8,3,0.0,0.375
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,8,3,0.0,0.375
+393,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 In d'r nachschte V'rsammlung haltsch Dü Din Mül, v'rstange?!
-",10,2,0.2775,0.2
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+
+          
+",riff-sainte-barbe,10,2,0.2775,0.2
+394,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 Bliewe doch ruehji jetz.
-",5,1,0.0,0.2
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,5,1,0.0,0.2
+395,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Bild D'r numme nit ze viel ing uff Dine Spritzemäischter! — Fräu Brandmäischtere, ich hätt jetz
             gare emol Ööntwort uff die Fröij, wo ünseri Harre Offizier sin?!
-",28,5,0.12179999999999999,0.17857142857142858
-comedy,Theres,F,,,"Theres:
+
+          
+",riff-sainte-barbe,28,5,0.12179999999999999,0.17857142857142858
+396,comedy,Theres,F,,,,"
+            
+Theres:
+
+            
 (trocknet sich nervös die Stirn.)
+
+            
 — Sie kumme noch — — — sie kumme — — un d'Müsik kummt äu noch — — Alli, Alli kumme se! — — —
             Harrjesses — — dar Kanztistriewelwyn — — — ooooh! — — — jetz wurd's mir wajer äu noch unpaßli! — — —
             ooooh! — — oooh! ooooooh !
-",62,5,0.0,0.08064516129032258
-comedy,Lissel,F,,,"Lissel:
+
+          
+",riff-sainte-barbe,62,5,0.0,0.08064516129032258
+397,comedy,Lissel,F,,,,"
+            
+Lissel:
+
+            
 (springt rasch hinzu.)
+
+            
 — kumme, Fräu Brandmäischtere, ich geh mit Uch. — 
             
-",15,1,0.0,0.06666666666666667
-comedy,Daniel Wendling,M,taverner/innkeeper,lower_middle_class,"Daniel:
+(geleitet die Schwankende zur Tür rechts hinaus in den Hof.)
+
+          
+",riff-sainte-barbe,27,2,0.254,0.07407407407407407
+399,comedy,Daniel Wendling,M,,,,"
+            
+Daniel:
+
+            
 D'Rachnung zahlsch, un wann se noch so gsalze wurd!
-",11,1,0.0,0.09090909090909091
-comedy,Philipp Stawalter,M,firefighter,lower_middle_class,"Philipp:
+
+          
+",riff-sainte-barbe,11,1,0.0,0.09090909090909091
+400,comedy,Philipp Stawalter,M,,,,"
+            
+Philipp:
+
+            
 (stolz)
+
+            
 — Mir zahle se! — Numme ken Angscht!
-",12,3,0.18164581906143387,0.25
-comedy,alle,U,,,"Alle:
+
+          
+",riff-sainte-barbe,12,3,0.18164581906143387,0.25
+401,comedy,alle,U,,,,"
+            
+Alle:
+
+            
 (freudig)
+
+            
 — D'Offizier kumme! — D'Offizier kumme!
-",12,5,0.24359999999999998,0.4166666666666667
-comedy,Michel Ohlmershans,M,head_firefighter,lower_middle_class,"Michel:
+
+          
+",riff-sainte-barbe,12,5,0.24359999999999998,0.4166666666666667
+402,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
 (zu Velde.)
+
+            
 — Aha jetz?! — Bisch jetz zefridde?! — 
             
-",13,1,0.609,0.07692307692307693
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+(zu den Uebrigen.)
+ — Attention! — Garde à vous! — In zwäi Glidder oontratte! —
+            Ehrespalier! — 
+            
+(wird von den Bumbiés flink und ordnungsgemäß ausgeführt, sodaß gegen der Mitteltür zu eine
+            Gasse gebildet ist. — Die Musik ist inzwischen vor der Wirtschaft angelangt.)
+
+          
+",riff-sainte-barbe,60,3,0.20299999999999999,0.05
+403,comedy,Michel Ohlmershans,M,,,,"
+            
+Michel:
+
+            
+Compagnie! — Attention! — 
+            
+(öffnet rasch die Mitteltür, eilt wieder zurück an seinen Platz und 
+            
+salutiert. — Die Musik bricht mit einem schaudervollen Mißakkord ab. — Alle schauen mit
+            berechtigter Spannung nach der geöffneten Tür.)
+
+          
+",riff-sainte-barbe,38,3,0.0,0.07894736842105263
+404,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Hähähä — — — ihr Manner — — hähähä — — — ihr — — — hupp — — — ihr selle, exküsiere — — — hähähä —
             — — hupp — — — ünseri Harrer Offizier — — — —
-",42,3,0.20299999999999999,0.07142857142857142
-comedy,Velde Umecker,M,firefighter_(caporal),lower_middle_class,"Velde:
+
+          
+",riff-sainte-barbe,42,3,0.20299999999999999,0.07142857142857142
+405,comedy,Velde Umecker,M,,,,"
+            
+Velde:
+
+            
 Oha?! — Was isch mit ünsere Harre Offizier?! — — — — Kumme se?!
-",15,3,0.20299999999999999,0.2
-comedy,Andrees Bottjuckel,M,night_watchman,lower_class,"Andrees:
+
+          
+",riff-sainte-barbe,15,3,0.20299999999999999,0.2
+406,comedy,Andrees Bottjuckel,M,,,,"
+            
+Andrees:
+
+            
 Nee — — — — sie könne nit kumme — — — hähähä — — — sie sin — — — sie sin Alli voll wie d'Affe! — —
             — hupp! — — hähähä!
-",36,3,0.0,0.08333333333333333
+
+          
+",riff-sainte-barbe,36,3,0.0,0.08333333333333333

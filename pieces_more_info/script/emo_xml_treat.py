@@ -144,6 +144,7 @@ def merge_dic(dic, dic_person):
 
 def get_speaker_text(root, dic_person):
     #count = 0
+    list_who = []
     list_sp_text = []
     list_piece = []
     text = ""
@@ -157,29 +158,31 @@ def get_speaker_text(root, dic_person):
         #count += 1
         if (kids.attrib):
             who = kids.attrib["who"]
-            if (who in dic_person):
-                list_sp_text.append(piece_type)
-                list_sp_text.append(dic_person[who]["name"])
-                list_sp_text.append(dic_person[who]["sex"])
-                list_sp_text.append(dic_person[who]["job"])
-                list_sp_text.append(dic_person[who]["job_category"])
-                list_sp_text.append(dic_person[who]["social_class"])
-            else:
-                list_sp_text.append(piece_type)
-                list_sp_text.append("group")
-                list_sp_text.append("sex_unknown")
-                list_sp_text.append("job_unknown")
-                list_sp_text.append("job_category_unknown")
-                list_sp_text.append("social_class_unknown")
-            for subkids in kids.itertext():
-                if (subkids):
-                    text += subkids + "\n"
+            list_who = who.split(" ")
+            for who in list_who:
+                if (who in dic_person):
+                    list_sp_text.append(piece_type)
+                    list_sp_text.append(dic_person[who]["name"])
+                    list_sp_text.append(dic_person[who]["sex"])
+                    list_sp_text.append(dic_person[who]["job"])
+                    list_sp_text.append(dic_person[who]["job_category"])
+                    list_sp_text.append(dic_person[who]["social_class"])
                 else:
-                    text += ""
-            list_sp_text.append(text)
-            text = ""
-            list_piece.append(list_sp_text)
-            list_sp_text = []
+                    list_sp_text.append(piece_type)
+                    list_sp_text.append("group")
+                    list_sp_text.append("sex_unknown")
+                    list_sp_text.append("job_unknown")
+                    list_sp_text.append("job_category_unknown")
+                    list_sp_text.append("social_class_unknown")
+                for subkids in kids.itertext():
+                    if (subkids):
+                        text += subkids + "\n"
+                    else:
+                        text += ""
+                list_sp_text.append(text)
+                text = ""
+                list_piece.append(list_sp_text)
+                list_sp_text = []
 
     return list_piece
     

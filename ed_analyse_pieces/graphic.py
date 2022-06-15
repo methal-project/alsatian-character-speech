@@ -62,14 +62,14 @@ def group_info():
 def single_piece():
     arg_len = len(sys.argv)
     filters = []
-    if (arg_len == 3): # si y'a deux args
-        folder = sys.argv[1]
-        emotion_list = sys.argv[2].split(",") # it's a list
+    if (arg_len == 4): # si y'a deux args
+        folder = sys.argv[2]
+        emotion_list = sys.argv[3].split(",") # it's a list
         
-    elif(arg_len == 4):
-        folder = sys.argv[1]
-        emotion_list = sys.argv[2].split(",")
-        filters = sys.argv[3].split(",")
+    elif(arg_len == 5):
+        folder = sys.argv[2]
+        emotion_list = sys.argv[3].split(",")
+        filters = sys.argv[4].split(",")
         print(emotion_list, filters)
     else:
         print("Input error\n")
@@ -83,43 +83,48 @@ def single_piece():
 def more_pieces():
     query = ""
     df = pd.read_csv("all_pieces_info.csv")
-    if (len(sys.argv) >= 3): # emotion or shortName seulement || emotion + drama_type
-        handle = sys.argv[1]     
+    if (len(sys.argv) >= 4): # emotion or shortName seulement || emotion + drama_type
+        handle = sys.argv[2]     
         if (handle == "--emotion"):
-            emotion = sys.argv[2]
-            if (len(sys.argv) == 3):
+            emotion = sys.argv[3]
+            if (len(sys.argv) == 4):
                 graph = sb.barplot(data = df, x = "shortName", y = emotion, hue="drama_type")
                 graph.set_ylim(0,1)
                 plt.show()
             else:
-                drama_type = sys.argv[3]
+                drama_type = sys.argv[4]
                 query = "drama_type == '" + drama_type + "'"
                 df = df.query(query)
                 graph = sb.barplot(data = df, x = "shortName", y = emotion, hue="drama_type")
                 graph.set_ylim(0,1)
                 plt.show()
         elif(handle == "--shortName"):
-            shortName = sys.argv[2]
+            shortName = sys.argv[3]
             query = "shortName == '" + shortName + "'"
             df = df.query(query)
             graph = sb.barplot(data = df)
             graph.set_title(shortName)
             plt.show()
-    elif (len(sys.argv) == 1): # sans argument, plot tous
+    elif (len(sys.argv) == 2): # sans argument, plot tous
         graph = sb.barplot(data = df)
         graph.set_ylim(0,1)
         plt.show()
-    elif(len(sys.argv) == 2): # tous les theatres dans une meme categorie
-        drama_type = sys.argv[1]
+    elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
+        drama_type = sys.argv[2]
         query = "drama_type == '" + drama_type + "'"
         df = df.query(query)
         graph = sb.barplot(data = df)
         graph.set_ylim(0,1)
         graph.set_title(drama_type)
         plt.show()
+    else:
+        print("Input error\n")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    #single_piece()
+    if (sys.argv[1] == "single"):
+        single_piece()
+    elif(sys.argv[1] == "group"):
+        more_pieces()
     #df = df.query("shortName == 'am-letzte-maskebal' or shortName == 'arnold-der-pfingstmontag'")
-    more_pieces()

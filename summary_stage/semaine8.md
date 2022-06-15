@@ -10,11 +10,11 @@ lineplot by seaborn
 visualization pour chaque piece
 
 ```shell
-python3 graphic.py am-letzte-maskebal anger,anticipation,arousal,disgust,dominance,fear,joy,sadness,surprise,trust,valence speaker
+python3 graphic.py single am-letzte-maskebal anger,anticipation,arousal,disgust,dominance,fear,joy,sadness,surprise,trust,valence speaker
 
-python3 graphic.py am-letzte-maskebal anger,joy sex,speaker
+python3 graphic.py single am-letzte-maskebal anger,joy sex,speaker
 
-python3 graphic.py am-letzte-maskebal anger,joy
+python3 graphic.py single am-letzte-maskebal anger,joy
 
 # arg 1: nom du piece de theatre
 # arg 2: les emotions (doivent etre separe par ",")
@@ -47,11 +47,11 @@ structure de donnees pour sauvegarder les valeurs:
 graphic output: barplot
 
 ```shell
-python3 graphic.py --shortName zwei-erfindunge
-python3 graphic.py --emotion joy
-python3 graphic.py --emotion joy comedy
-python3 graphic.py horreur
-python3 graphic.py
+python3 graphic.py group --shortName zwei-erfindunge
+python3 graphic.py group --emotion joy
+python3 graphic.py group --emotion joy comedy
+python3 graphic.py group horreur
+python3 graphic.py group 
 ```
 sample image:
 ![sample image](../ed_analyse_pieces/sample_group.png)

@@ -29,11 +29,13 @@ python3 graphic.py group --emotion anger,joy
 ```
 python3 graphic.py single arnold-der-pfingstmontag anger,joy
 ```
-**C'est la photo apres la separation par pourcentage**
-![sample after slicing](../ed_analyse_pieces/arnold-der-pfingstmontag/progress_after.png)
 
 **C'est la photo *SANS* la separation par pourcentage**
 ![sample before slicing](../ed_analyse_pieces/arnold-der-pfingstmontag/progress_before.png)
+
+**C'est la photo apres la separation par pourcentage**
+![sample after slicing](../ed_analyse_pieces/arnold-der-pfingstmontag/progress_after.png)
+
 
 **Avec filtre**
 ```

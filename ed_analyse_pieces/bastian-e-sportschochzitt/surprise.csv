@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -13,7 +13,7 @@ Mon Dieu wie bin ich unglüecklich.
  Träne, nix wie Träne.
 
           
-",bastian-e-sportschochzitt,33,6,0.0,0.18181818181818182
+",0,bastian-e-sportschochzitt,33,6,0.0,0.18181818181818182
 1,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -23,7 +23,7 @@ Bonjour Hortense, glüecklichi Hochzittere! Loss dich umarme. Ja, was muess ich 
             griensch?
 
           
-",bastian-e-sportschochzitt,15,5,0.06563276457288686,0.3333333333333333
+",0,bastian-e-sportschochzitt,15,5,0.06563276457288686,0.3333333333333333
 5,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -34,7 +34,7 @@ Diner Hochzitter? Ah, nit möjlich! Kumm setz dich.
 (Holt zwai Stüehl, sitze näwenand.)
 
           
-",bastian-e-sportschochzitt,16,2,0.0,0.125
+",2,bastian-e-sportschochzitt,16,2,0.0,0.125
 6,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -43,7 +43,7 @@ HORTENSE:
 In e're Halbstund solle mer uff d' Mairie, derno in d'Kirich. Ich verzwiefel noch.
 
           
-",bastian-e-sportschochzitt,16,1,0.0,0.0625
+",3,bastian-e-sportschochzitt,16,1,0.0,0.0625
 7,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -53,7 +53,7 @@ Na, ja, er wurd schun kumme. Tröscht dich. Viellicht isch-em e Hosseknopf abgsc
             het d'Krawatt verlajt, odder....
 
           
-",bastian-e-sportschochzitt,21,4,0.11125,0.19047619047619047
+",3,bastian-e-sportschochzitt,21,4,0.11125,0.19047619047619047
 10,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -66,7 +66,7 @@ O, ich sitz wie uff-em e Kohlefyr.
             direkt...
 
           
-",bastian-e-sportschochzitt,24,1,0.0,0.041666666666666664
+",5,bastian-e-sportschochzitt,24,1,0.0,0.041666666666666664
 12,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -76,7 +76,7 @@ Naan, in's Kloschter. Tante Octavie, hirot nit, hirot nit. Betracht mich in mim 
             Ku-kummer. Näm dir e lawendigs Exempel an mir.
 
           
-",bastian-e-sportschochzitt,24,4,0.0,0.16666666666666666
+",6,bastian-e-sportschochzitt,24,4,0.0,0.16666666666666666
 13,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -88,7 +88,7 @@ OCTAVIE:
 In die Verläjeheit wurr ich nie kumme.
 
           
-",bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
+",6,bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
 15,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -99,7 +99,7 @@ Was waisch denn dü vom Läwe. Ach Gott.
 (Sifzt schwer.)
 
           
-",bastian-e-sportschochzitt,13,3,0.0,0.23076923076923078
+",7,bastian-e-sportschochzitt,13,3,0.0,0.23076923076923078
 17,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -112,7 +112,7 @@ Hab ich gsifzt? Hortensele, ich hab mir gschwore nie ze hirote. E Mann bringt aa
             nervös.)
 
           
-",bastian-e-sportschochzitt,38,5,0.15,0.13157894736842105
+",8,bastian-e-sportschochzitt,38,5,0.15,0.13157894736842105
 19,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -126,7 +126,7 @@ Bsunders e Mann wo Sport triebt.
 (Hin un her.)
 
           
-",bastian-e-sportschochzitt,25,4,0.07425,0.16
+",9,bastian-e-sportschochzitt,25,4,0.07425,0.16
 20,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -138,7 +138,7 @@ HORTENSE:
 Tante, er het mir awer versproche, dass'r üss alle Societäte...
 
           
-",bastian-e-sportschochzitt,19,2,0.0,0.10526315789473684
+",10,bastian-e-sportschochzitt,19,2,0.0,0.10526315789473684
 21,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -148,7 +148,7 @@ Bscht! Verspreche duehn sie alli, awer nix halte. Dü nadierlich mit dine zwanzi
             d'Männerwelt noch mit unschuldige Paradiesaue aan.
 
           
-",bastian-e-sportschochzitt,24,4,0.0,0.16666666666666666
+",10,bastian-e-sportschochzitt,24,4,0.0,0.16666666666666666
 22,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -159,7 +159,7 @@ Statt aane ze tröschte, machsch aam 's Herz noch schwerer. O ich armer Tropf.
 (Grient, setzt sich).
 
           
-",bastian-e-sportschochzitt,20,5,0.0,0.25
+",11,bastian-e-sportschochzitt,20,5,0.0,0.25
 23,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -170,7 +170,7 @@ Düürsch mich, Kind, awer ich bin uffrichtig. So e Mann het jo nie ken Zitt for
             Cotisatione ze zahle, wo d'Frau nix d'rvun het.
 
           
-",bastian-e-sportschochzitt,51,7,0.0,0.13725490196078433
+",11,bastian-e-sportschochzitt,51,7,0.0,0.13725490196078433
 25,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -179,7 +179,7 @@ OCTAVIE:
 Ebbs gsunds? Mach mich nit lache.
 
           
-",bastian-e-sportschochzitt,7,1,0.2288210621601252,0.14285714285714285
+",12,bastian-e-sportschochzitt,7,1,0.2288210621601252,0.14285714285714285
 26,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -188,7 +188,7 @@ HORTENSE:
 Doch, doch. Sitter dass d'r Camille zue uns kummt, isch bie uns alles gsund.
 
           
-",bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
+",13,bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
 28,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -203,7 +203,7 @@ Im Babbe siner Fettbüch hett-em Maläschte gemacht. D'r Camille het gsaat: Babb
 Hantle un an de Ring ze schaffe. Jetzt geht sie kerzegrad, un isch ganz buschberlig.
 
           
-",bastian-e-sportschochzitt,88,14,0.0,0.1590909090909091
+",14,bastian-e-sportschochzitt,88,14,0.0,0.1590909090909091
 29,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -213,7 +213,7 @@ Also demnooch het's diner Camille fertig gebrocht, d'ganz Familli mit-em Sportsg
             vergifte. Naan, so ebbs. Ja un was het'r denn dich gelehrt?
 
           
-",bastian-e-sportschochzitt,26,3,0.0,0.11538461538461539
+",14,bastian-e-sportschochzitt,26,3,0.0,0.11538461538461539
 31,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -227,7 +227,7 @@ Jesses! Arms Kind.
 (Setzt sich, grient in de Strumpf).
 
           
-",bastian-e-sportschochzitt,15,3,0.22108692495561685,0.2
+",15,bastian-e-sportschochzitt,15,3,0.22108692495561685,0.2
 33,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -237,7 +237,7 @@ Tennis! Tennis! Diss isch din Unglüeck. Mit Tennis het's bie mir angfange, mit 
             uffg'hört.
 
           
-",bastian-e-sportschochzitt,19,2,0.375,0.10526315789473684
+",16,bastian-e-sportschochzitt,19,2,0.375,0.10526315789473684
 34,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -246,7 +246,7 @@ HORTENSE:
 Tante, ich versteh dich nit. Kumm doch zue dir. Soll ich e Glas Wasser hole?
 
           
-",bastian-e-sportschochzitt,16,1,0.0,0.0625
+",17,bastian-e-sportschochzitt,16,1,0.0,0.0625
 35,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -262,7 +262,7 @@ Merci, ich hab mini Ohnmacht nabgschluckt.
 (Zeruck, setzt sich, strickt).
 
           
-",bastian-e-sportschochzitt,63,6,0.08333333333333333,0.09523809523809523
+",17,bastian-e-sportschochzitt,63,6,0.08333333333333333,0.09523809523809523
 39,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -271,7 +271,7 @@ HORTENSE:
 Saa, Tante, werum soll Tennis e Unglüeck sin?
 
           
-",bastian-e-sportschochzitt,9,1,0.75,0.1111111111111111
+",19,bastian-e-sportschochzitt,9,1,0.75,0.1111111111111111
 40,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -281,7 +281,7 @@ Kind, ich bin uffrichtig. Wie ich so alt bin gsin wie dü, hab ich au e Hochzitt
             het'r g'haisse. Gaston!
 
           
-",bastian-e-sportschochzitt,23,3,0.0,0.13043478260869565
+",20,bastian-e-sportschochzitt,23,3,0.0,0.13043478260869565
 42,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -291,7 +291,7 @@ Ja, un er het mir versproche, dass wenn mer g'hirot sin, bie alle Sportsveraan D
             gänn.
 
           
-",bastian-e-sportschochzitt,18,3,0.0,0.16666666666666666
+",21,bastian-e-sportschochzitt,18,3,0.0,0.16666666666666666
 43,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -300,7 +300,7 @@ HORTENSE:
 Diss het miner Camille au versproche.
 
           
-",bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
+",21,bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
 44,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -312,7 +312,7 @@ Glaub nix. Bref, am Daa vor d'r Hochzitt isch'r nooch London gereist, for dort e
 (Grient).
 
           
-",bastian-e-sportschochzitt,27,3,0.0,0.1111111111111111
+",22,bastian-e-sportschochzitt,27,3,0.0,0.1111111111111111
 45,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -321,7 +321,7 @@ HORTENSE:
 O — o! Isch'r nim kumme?
 
           
-",bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
+",22,bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
 47,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -333,7 +333,7 @@ HORTENSE:
 Tante, saa diss nim, sunscht verriss ich min Hochzittskleid in döüsig Fetze.
 
           
-",bastian-e-sportschochzitt,17,1,0.0,0.058823529411764705
+",23,bastian-e-sportschochzitt,17,1,0.0,0.058823529411764705
 49,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -344,7 +344,7 @@ Jesses!
 (Springt uff, luejt in's Zimmer links).
 
           
-",bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
+",24,bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
 51,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -356,7 +356,7 @@ HORTENSE:
 d'Grossmame schafft an de Ring. Sie het e Hochstand gemacht, un isch an de Lüster getrette.
 
           
-",bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
+",25,bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
 52,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -367,7 +367,7 @@ An de Lüster? Püh, do hinne wurd's mer schwüel, ich muess frischi Luft schöp
 (Hinte ab).
 
           
-",bastian-e-sportschochzitt,20,1,0.0,0.05
+",26,bastian-e-sportschochzitt,20,1,0.0,0.05
 53,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -379,7 +379,7 @@ HORTENSE:
 Camille, Camille, kumm, erlös mich, loss mich nit sitze.
 
           
-",bastian-e-sportschochzitt,14,3,0.10938794095481143,0.21428571428571427
+",26,bastian-e-sportschochzitt,14,3,0.10938794095481143,0.21428571428571427
 54,comedy,Octavie,M,,,,"
             
 OCTAVIE
@@ -394,7 +394,7 @@ Ho-ho-hortense, e De-depesch.
  Da, mach dü sie uff.
 
           
-",bastian-e-sportschochzitt,25,3,0.0,0.12
+",27,bastian-e-sportschochzitt,25,3,0.0,0.12
 55,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -406,7 +406,7 @@ E Depesch? E de-de
  Ich kann nit, ich rieder. Tante les, mach sie uff.
 
           
-",bastian-e-sportschochzitt,21,2,0.0,0.09523809523809523
+",27,bastian-e-sportschochzitt,21,2,0.0,0.09523809523809523
 56,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -415,7 +415,7 @@ OCTAVIE:
 E Unglüecksdepesch? Arms Kind.
 
           
-",bastian-e-sportschochzitt,5,1,0.0,0.2
+",28,bastian-e-sportschochzitt,5,1,0.0,0.2
 58,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -424,7 +424,7 @@ OCTAVIE:
 Zwai Jumpfere han zwai Ohnmachte.
 
           
-",bastian-e-sportschochzitt,6,2,0.25,0.3333333333333333
+",29,bastian-e-sportschochzitt,6,2,0.25,0.3333333333333333
 59,comedy,Conrad,M,,,,"
             
 CONRAD:
@@ -437,7 +437,7 @@ Plän dummi. Was hesch denn in d'r Hand? Ah, e Depesch.
             per Avion. So e Deifelskerl.
 
           
-",bastian-e-sportschochzitt,35,3,0.0,0.08571428571428572
+",29,bastian-e-sportschochzitt,35,3,0.0,0.08571428571428572
 60,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -449,7 +449,7 @@ HORTENSE:
 Per Avion? Babbe, per Avion?
 
           
-",bastian-e-sportschochzitt,10,2,0.0,0.2
+",30,bastian-e-sportschochzitt,10,2,0.0,0.2
 61,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -461,7 +461,7 @@ OCTAVIE:
 Wer isch der ami Gaston? Wer?
 
           
-",bastian-e-sportschochzitt,10,1,0.0,0.1
+",30,bastian-e-sportschochzitt,10,1,0.0,0.1
 62,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -472,7 +472,7 @@ Er kummt, er kummt. Babbe werf dich in de Staat. Gott, miner Camille kummt.
 (Packt Conrad, danzt mit-em erum).
 
           
-",bastian-e-sportschochzitt,22,3,0.0,0.13636363636363635
+",31,bastian-e-sportschochzitt,22,3,0.0,0.13636363636363635
 63,comedy,Conrad,M,,,,"
             
 CONRAD:
@@ -481,7 +481,7 @@ CONRAD:
 Hortense, ich glaab dü bisch maschugge worre.
 
           
-",bastian-e-sportschochzitt,8,1,0.0,0.125
+",31,bastian-e-sportschochzitt,8,1,0.0,0.125
 67,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -490,7 +490,7 @@ HORTENSE:
 Ich kenn numme miner Camille. Mach doch nit so nervös.
 
           
-",bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
+",33,bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
 69,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -502,7 +502,7 @@ Liebs Dandel, ich bin so glüecklich. Er kummt, er kummt, er isch schun do. Ich 
 (Lauft mit üssgschtreckte Aerm an d'Hintertüer).
 
           
-",bastian-e-sportschochzitt,28,1,0.0,0.03571428571428571
+",34,bastian-e-sportschochzitt,28,1,0.0,0.03571428571428571
 71,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -516,7 +516,7 @@ Oh, d'Madam.
 (Setzt sich betrüebt).
 
           
-",bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
+",35,bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
 72,comedy,Caroline,F,,,,"
             
 CAROLINE:
@@ -525,7 +525,7 @@ CAROLINE:
 Ja, soll ich's nit sin? Luej do 's Octavie.
 
           
-",bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
+",36,bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
 73,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -537,7 +537,7 @@ Bonjour Schweschter.
  Dü siehsch jo üss wie e Mann.
 
           
-",bastian-e-sportschochzitt,14,2,0.156,0.14285714285714285
+",36,bastian-e-sportschochzitt,14,2,0.156,0.14285714285714285
 75,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -546,7 +546,7 @@ HORTENSE:
 Mame, d'r Camille kummt.
 
           
-",bastian-e-sportschochzitt,5,1,0.0,0.2
+",37,bastian-e-sportschochzitt,5,1,0.0,0.2
 76,comedy,Caroline,F,,,,"
             
 CAROLINE:
@@ -555,7 +555,7 @@ CAROLINE:
 Was hab ich gsaat: d'r Camille het e Wort.
 
           
-",bastian-e-sportschochzitt,10,1,0.0,0.1
+",38,bastian-e-sportschochzitt,10,1,0.0,0.1
 78,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -564,7 +564,7 @@ OCTAVIE:
 Gott, wenn 'rs wär. Min Herz klopft wie e Drumm.
 
           
-",bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
+",39,bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
 79,comedy,Caroline,F,,,,"
             
 CAROLINE:
@@ -573,7 +573,7 @@ CAROLINE:
 Was babbelsch? Hesch dü Gschäfte mit-em Camille?
 
           
-",bastian-e-sportschochzitt,8,1,0.0,0.125
+",39,bastian-e-sportschochzitt,8,1,0.0,0.125
 81,comedy,Caroline,F,,,,"
             
 CAROLINE:
@@ -584,7 +584,7 @@ Versteh ken Wort.
 (Ab Sittetüer links).
 
           
-",bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
+",40,bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
 85,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -611,7 +611,7 @@ D'Haam, un alle Fuessballwäje.
             
 
           
-",bastian-e-sportschochzitt,46,5,0.2846,0.10869565217391304
+",42,bastian-e-sportschochzitt,46,5,0.2846,0.10869565217391304
 86,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -622,7 +622,7 @@ Merci, Monsieur le Président. Ich wurr denne Balle im Camille an's Herz drücke
 (Lajt'ne uffs Kanebe).
 
           
-",bastian-e-sportschochzitt,20,2,0.0,0.1
+",43,bastian-e-sportschochzitt,20,2,0.0,0.1
 87,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -639,7 +639,7 @@ Un d'r Camille au.
 (Ab).
 
           
-",bastian-e-sportschochzitt,20,1,0.0,0.05
+",43,bastian-e-sportschochzitt,20,1,0.0,0.05
 90,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -670,7 +670,7 @@ In viele Fäll sogar d'r Tod.
             
 
           
-",bastian-e-sportschochzitt,105,19,0.10484210526315789,0.18095238095238095
+",45,bastian-e-sportschochzitt,105,19,0.10484210526315789,0.18095238095238095
 91,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -681,7 +681,7 @@ Merci vielmols Monsieur le Président. Ich wurr alles im Camille üssrichte.
 (Lajt beidi Sache uff's Kanebe).
 
           
-",bastian-e-sportschochzitt,20,1,0.0,0.05
+",45,bastian-e-sportschochzitt,20,1,0.0,0.05
 92,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -692,7 +692,7 @@ Exküsiere Sie liewi Hochzittere, ich hab noch schnell e Concours ze organisiere
 (Salütiert, schnell ab).
 
           
-",bastian-e-sportschochzitt,18,4,0.2345,0.2222222222222222
+",46,bastian-e-sportschochzitt,18,4,0.2345,0.2222222222222222
 93,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -704,7 +704,7 @@ Der isch au bressiert. M'r maant alli han 's Laufe. Naan, so e Theater.
  Wo blost mer denn nyn?
 
           
-",bastian-e-sportschochzitt,28,1,0.0,0.03571428571428571
+",46,bastian-e-sportschochzitt,28,1,0.0,0.03571428571428571
 97,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -716,7 +716,7 @@ OCTAVIE:
 Hör uff!
 
           
-",bastian-e-sportschochzitt,13,2,0.0,0.15384615384615385
+",48,bastian-e-sportschochzitt,13,2,0.0,0.15384615384615385
 98,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -726,7 +726,7 @@ OCTAVIE:
             nooch).
 
           
-",bastian-e-sportschochzitt,16,2,0.0,0.125
+",49,bastian-e-sportschochzitt,16,2,0.0,0.125
 100,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -738,7 +738,7 @@ HORTENSE:
 Herrjeses! Babbe, dü hesch jo dini Hosse vergesse.
 
           
-",bastian-e-sportschochzitt,13,2,0.0,0.15384615384615385
+",50,bastian-e-sportschochzitt,13,2,0.0,0.15384615384615385
 101,comedy,Conrad,M,,,,"
             
 CONRAD:
@@ -752,7 +752,7 @@ Was d'Hosse?
 (Schnell ab).
 
           
-",bastian-e-sportschochzitt,23,1,0.469,0.043478260869565216
+",50,bastian-e-sportschochzitt,23,1,0.469,0.043478260869565216
 102,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -764,7 +764,7 @@ Grossmame hör uff!
  In dem Hüss isch alles letz.
 
           
-",bastian-e-sportschochzitt,13,4,0.0,0.3076923076923077
+",51,bastian-e-sportschochzitt,13,4,0.0,0.3076923076923077
 103,comedy,Grossmame,F,,,,"
             
 GROSSMAME:
@@ -778,7 +778,7 @@ Mit Müsik isch's viel besser gange.
 (Hüpst uff aam Baan links ab).
 
           
-",bastian-e-sportschochzitt,27,5,0.12967802958476007,0.18518518518518517
+",51,bastian-e-sportschochzitt,27,5,0.12967802958476007,0.18518518518518517
 104,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -792,7 +792,7 @@ Un d'r Camille isch als noch nit do.
 (Es klopft).
 
           
-",bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
+",52,bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
 109,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -804,7 +804,7 @@ Was, er bambelt? Enfin, Gschbass uff d'Sitt. In aller Anerkennung vum Camille si
             Wunsch, dass er mit dem Velo in's Glüeck nynstrample, un im Club e trej's Mitglied bliewe möcht.
 
           
-",bastian-e-sportschochzitt,68,9,0.3318036130519235,0.1323529411764706
+",54,bastian-e-sportschochzitt,68,9,0.3318036130519235,0.1323529411764706
 110,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -813,7 +813,7 @@ HORTENSE:
 Merci vielmols im Name vum — o ich bin ganz gerüehrt.
 
           
-",bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
+",55,bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
 111,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -825,7 +825,7 @@ Mer kann's verstehn. Ja, ich muess gehn, ich bin bressiert.
  Au revoir Mesdames. (ab).
 
           
-",bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
+",55,bastian-e-sportschochzitt,21,1,0.0,0.047619047619047616
 112,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -835,7 +835,7 @@ Haha, der isch au bressiert. Awer wenn's eso wittersch geht, no kannsch e Sports
             anfange.
 
           
-",bastian-e-sportschochzitt,17,1,0.0,0.058823529411764705
+",56,bastian-e-sportschochzitt,17,1,0.0,0.058823529411764705
 113,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -844,7 +844,7 @@ HORTENSE:
 Es isch doch schön, so g'eehrt ze wäre, gell, tante.
 
           
-",bastian-e-sportschochzitt,11,1,0.18,0.09090909090909091
+",56,bastian-e-sportschochzitt,11,1,0.18,0.09090909090909091
 115,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -853,7 +853,7 @@ HORTENSE:
 Gell dü bisch niedisch uff mich?
 
           
-",bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
+",57,bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
 119,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -862,7 +862,7 @@ PRESIDENT:
 Tüer uff wenn's beliebt.
 
           
-",bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
+",59,bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
 120,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -871,7 +871,7 @@ OCTAVIE:
 's wurd doch kener mit 'me Haiwaaue kumme.
 
           
-",bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
+",60,bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
 121,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -883,7 +883,7 @@ HORTENSE:
 Entrez!
 
           
-",bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
+",60,bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
 123,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -892,7 +892,7 @@ OCTAVIE:
 Monsieur, was soll denn diss bedidde?
 
           
-",bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
+",61,bastian-e-sportschochzitt,7,1,0.0,0.14285714285714285
 124,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -904,7 +904,7 @@ Zwai Schwergewicht for unser Schwergewichsstemmer Camille, zuem ewige Andenke al
             Kraft macht rich an Körper un Seel, Kraft isch Läwe, Kraft üewerwind alles, sogar e Frau.
 
           
-",bastian-e-sportschochzitt,58,13,0.07692307692307693,0.22413793103448276
+",62,bastian-e-sportschochzitt,58,13,0.07692307692307693,0.22413793103448276
 125,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -913,7 +913,7 @@ OCTAVIE:
 Vergesse Sie nit unsri Zung, wo au e Kraft isch, un 's guete Koche.
 
           
-",bastian-e-sportschochzitt,15,4,0.0,0.26666666666666666
+",62,bastian-e-sportschochzitt,15,4,0.0,0.26666666666666666
 127,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRÉSIDENT:
@@ -923,7 +923,7 @@ Lache Sie nit, Mamsel Hochzittere. Ich bin au g'hirot, hab sechs Kinder, alli gs
             Ich wüensch Ihne 's nämlich.
 
           
-",bastian-e-sportschochzitt,22,5,0.12396421243202502,0.22727272727272727
+",63,bastian-e-sportschochzitt,22,5,0.12396421243202502,0.22727272727272727
 129,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT :
@@ -933,7 +933,7 @@ Wie Sie wôlle. Awer mir laischte ebbs. Union fait la force. Ha, diss will ich m
             stolz druff.
 
           
-",bastian-e-sportschochzitt,23,2,0.0,0.08695652173913043
+",64,bastian-e-sportschochzitt,23,2,0.0,0.08695652173913043
 131,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -942,7 +942,7 @@ HORTENSE:
 Un au zue denne viele Medaill, wo Ihri Bruscht ziere.
 
           
-",bastian-e-sportschochzitt,11,1,0.289,0.09090909090909091
+",65,bastian-e-sportschochzitt,11,1,0.289,0.09090909090909091
 132,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -952,7 +952,7 @@ Medaille? Die sin ehrlich verdient. Füenf Rettungsmedaill, un d'andere hab ich 
             internationale Wettkämpf g'holt.
 
           
-",bastian-e-sportschochzitt,18,3,0.09633333333333333,0.16666666666666666
+",66,bastian-e-sportschochzitt,18,3,0.09633333333333333,0.16666666666666666
 133,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -961,7 +961,7 @@ OCTAVIE:
 Finde Sie nit, dass die viele Medaill gfährlich schwer sin?
 
           
-",bastian-e-sportschochzitt,11,4,0.07225,0.36363636363636365
+",66,bastian-e-sportschochzitt,11,4,0.07225,0.36363636363636365
 134,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -972,7 +972,7 @@ Kraft isch Läwe. Kraft üewerwind alles.
 (Geht stolz ab, kummt glich widder mit zwei Fischgerte un e 're Filosch)
 
           
-",bastian-e-sportschochzitt,22,5,0.0,0.22727272727272727
+",67,bastian-e-sportschochzitt,22,5,0.0,0.22727272727272727
 135,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -981,7 +981,7 @@ HORTENSE:
 Tante, wie der stolz abgange isch, der Kraftmensch, sogar ohne Bojongrüess.
 
           
-",bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
+",67,bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
 136,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -990,7 +990,7 @@ OCTAVIE:
 Der Bojon-Président gfallt mer. Kraft! Kraft!
 
           
-",bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
+",68,bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
 137,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1001,7 +1001,7 @@ Fraid mich, dass ich Ihne gfall. Un wie ich au Président vum Angelsportsverein 
             Membre vun unserem Angelveraan wäre.
 
           
-",bastian-e-sportschochzitt,42,3,0.26833333333333337,0.07142857142857142
+",68,bastian-e-sportschochzitt,42,3,0.26833333333333337,0.07142857142857142
 139,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1015,7 +1015,7 @@ Stimmt! Es wurd am besser in d'r freie Natür, statt d'haam in d'r Stubb ze sitz
             köenne rüehig 's Kinderkitschel als mitnämme, denn...
 
           
-",bastian-e-sportschochzitt,93,13,0.2554783616663287,0.13978494623655913
+",69,bastian-e-sportschochzitt,93,13,0.2554783616663287,0.13978494623655913
 140,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1024,7 +1024,7 @@ OCTAVIE:
 Exküsiere Sie, mir muehn uns rüeschte for uff d'Mairie.
 
           
-",bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
+",70,bastian-e-sportschochzitt,11,2,0.0,0.18181818181818182
 141,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1033,7 +1033,7 @@ PRESIDENT:
 O, ich hab Zitt. Was gibt's denn ze esse?
 
           
-",bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
+",70,bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
 143,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1042,7 +1042,7 @@ PRESIDENT:
 Sie wiss-es nit? Diss isch letz. Wo isch denn 's Hochzitts-Esse?
 
           
-",bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
+",71,bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
 144,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1051,7 +1051,7 @@ HORTENSE:
 Ich glaab im Restaurant zuem « Wüetige Schimmel ».
 
           
-",bastian-e-sportschochzitt,10,2,0.0,0.2
+",72,bastian-e-sportschochzitt,10,2,0.0,0.2
 145,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1062,7 +1062,7 @@ Was? Viel Vergnieje. Na, Adie mit e'me Muskelgruess.
 (Druckt Hortense d'Hand).
 
           
-",bastian-e-sportschochzitt,16,2,0.289,0.125
+",72,bastian-e-sportschochzitt,16,2,0.289,0.125
 146,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1073,7 +1073,7 @@ Merci vielmols for.... o — o!
 (Schlenkert schmerzhaft d'Hand, stellt d'Gerte an's Kanebe).
 
           
-",bastian-e-sportschochzitt,19,1,0.0,0.05263157894736842
+",73,bastian-e-sportschochzitt,19,1,0.0,0.05263157894736842
 147,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1085,7 +1085,7 @@ PRESIDENT:
 Viel Vergnieje Mamsell.
 
           
-",bastian-e-sportschochzitt,10,1,0.578,0.1
+",73,bastian-e-sportschochzitt,10,1,0.578,0.1
 148,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1096,7 +1096,7 @@ Merci! O Jesses! D'r Aanzig wo nit bressiert isch. O Jesses!
 (Ringelt sich vor Schmerze).
 
           
-",bastian-e-sportschochzitt,18,3,0.0,0.16666666666666666
+",74,bastian-e-sportschochzitt,18,3,0.0,0.16666666666666666
 149,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1107,7 +1107,7 @@ PRESIDENT:
 (Ab).
 
           
-",bastian-e-sportschochzitt,10,2,0.0,0.2
+",74,bastian-e-sportschochzitt,10,2,0.0,0.2
 150,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1116,7 +1116,7 @@ HORTENSE:
 O mini Hand füenkelt wie Fyr. Merci for so e Kraft.
 
           
-",bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
+",75,bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
 151,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1128,7 +1128,7 @@ OCTAVIE:
 Denne Président vergesst mer so schnell nit.
 
           
-",bastian-e-sportschochzitt,14,2,0.2345,0.14285714285714285
+",75,bastian-e-sportschochzitt,14,2,0.2345,0.14285714285714285
 153,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1137,7 +1137,7 @@ OCTAVIE:
 Es isch doch schad um denne Mann.
 
           
-",bastian-e-sportschochzitt,8,2,0.0,0.25
+",76,bastian-e-sportschochzitt,8,2,0.0,0.25
 154,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1146,7 +1146,7 @@ HORTENSE:
 Schad? Wieso.
 
           
-",bastian-e-sportschochzitt,3,1,0.0,0.3333333333333333
+",77,bastian-e-sportschochzitt,3,1,0.0,0.3333333333333333
 155,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1156,7 +1156,7 @@ Wenn'r je 's Unglüeck het in's Wasser ze falle kummt'r nim in d'Höh, wäje sin
             Rettungsmedaille.
 
           
-",bastian-e-sportschochzitt,20,3,0.25,0.15
+",77,bastian-e-sportschochzitt,20,3,0.25,0.15
 156,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1172,7 +1172,7 @@ Es zwirwelt mer alles im Kopf herum. Ich sieh fascht nix vor Schmerze.
  Camille!!
 
           
-",bastian-e-sportschochzitt,36,2,0.0,0.05555555555555555
+",78,bastian-e-sportschochzitt,36,2,0.0,0.05555555555555555
 157,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1181,7 +1181,7 @@ PRESIDENT:
 So haiss ich, chère Mademoiselle.
 
           
-",bastian-e-sportschochzitt,6,1,0.0,0.16666666666666666
+",78,bastian-e-sportschochzitt,6,1,0.0,0.16666666666666666
 158,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1195,7 +1195,7 @@ Mon Dieu, ich, ich kenn Sie jo gar nit. Gott muess ich mich schämme.
 (Bedeckt 's Gsicht).
 
           
-",bastian-e-sportschochzitt,25,3,0.2595059799801484,0.12
+",79,bastian-e-sportschochzitt,25,3,0.2595059799801484,0.12
 159,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1209,7 +1209,7 @@ Gar nit notwendig Demoiselle.
 (Verneigt sich au geje Octavie).
 
           
-",bastian-e-sportschochzitt,25,1,0.0,0.04
+",79,bastian-e-sportschochzitt,25,1,0.0,0.04
 161,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1228,7 +1228,7 @@ mettez que je vous embrasse.
  Et encore une fois mes meilleurs souhaits de bonheur.
 
           
-",bastian-e-sportschochzitt,69,5,0.0984,0.07246376811594203
+",80,bastian-e-sportschochzitt,69,5,0.0984,0.07246376811594203
 163,comedy,Président vum Fuessballe-Club « Etoile »,M,sports_club_president,associative_world,,"
             
 PRESIDENT:
@@ -1237,7 +1237,7 @@ PRESIDENT:
 (verneigt sich dief vor Hortense, derno vor Octavie mit Handschmutz ab).
 
           
-",bastian-e-sportschochzitt,14,1,0.0,0.07142857142857142
+",81,bastian-e-sportschochzitt,14,1,0.0,0.07142857142857142
 164,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1249,7 +1249,7 @@ OCTAVIE:
 Was saasch jetzt?
 
           
-",bastian-e-sportschochzitt,11,2,0.2305,0.18181818181818182
+",82,bastian-e-sportschochzitt,11,2,0.2305,0.18181818181818182
 165,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1258,7 +1258,7 @@ HORTENSE:
 Ich find ken Wort meh.
 
           
-",bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
+",82,bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
 166,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1268,7 +1268,7 @@ E weritawels Auto als Hochzittsgschenk!? Voilà, diss loss ich mir jetzt gfalle.
             heisst. Nowler als die Schwergewichter do, un Fischgerte.
 
           
-",bastian-e-sportschochzitt,24,3,0.10938794095481143,0.125
+",83,bastian-e-sportschochzitt,24,3,0.10938794095481143,0.125
 167,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1281,7 +1281,7 @@ Gott was e Glüeck, so e Mann ze bekumme, wo So angsehne isch. Wo'r nume bliebt.
             noch, ich fahr noch zue d'r Hütt nüss.
 
           
-",bastian-e-sportschochzitt,31,5,0.1548,0.16129032258064516
+",83,bastian-e-sportschochzitt,31,5,0.1548,0.16129032258064516
 168,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1293,7 +1293,7 @@ Masch diss jo nitt, sunscht kummsch nimi nyn. E Moment, ich bin waier wunderfitz
 (Hinte ab.)
 
           
-",bastian-e-sportschochzitt,22,2,0.0,0.09090909090909091
+",84,bastian-e-sportschochzitt,22,2,0.0,0.09090909090909091
 169,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1305,7 +1305,7 @@ D'r Camille wurd Aue mache. Awer froh bin ich, dass miner Hochzitter ken so Bart
 (Riebt sich d'Backe).
 
           
-",bastian-e-sportschochzitt,29,4,0.0,0.13793103448275862
+",84,bastian-e-sportschochzitt,29,4,0.0,0.13793103448275862
 171,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1314,7 +1314,7 @@ HORTENSE:
 (Schrei, fallt uff d'r Sessel).
 
           
-",bastian-e-sportschochzitt,8,2,0.33163038743342527,0.25
+",85,bastian-e-sportschochzitt,8,2,0.33163038743342527,0.25
 172,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1325,7 +1325,7 @@ Was saasch zue dem Zwaisitzer. Haha!
 (Stell d'Kütsch vor Tüer rechts).
 
           
-",bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
+",86,bastian-e-sportschochzitt,15,1,0.0,0.06666666666666667
 174,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1334,7 +1334,7 @@ OCTAVIE:
 Hortense, dü hesch e Chance wie selte. Haha!
 
           
-",bastian-e-sportschochzitt,9,2,0.0,0.2222222222222222
+",87,bastian-e-sportschochzitt,9,2,0.0,0.2222222222222222
 175,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1343,7 +1343,7 @@ HORTENSE:
 Chance saasch dü?
 
           
-",bastian-e-sportschochzitt,4,1,0.0,0.25
+",87,bastian-e-sportschochzitt,4,1,0.0,0.25
 176,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1352,7 +1352,7 @@ OCTAVIE:
 E chance, dass nit schun e Bubbel in d'r Kutsch lejt.
 
           
-",bastian-e-sportschochzitt,12,2,0.0705,0.16666666666666666
+",88,bastian-e-sportschochzitt,12,2,0.0705,0.16666666666666666
 177,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1361,7 +1361,7 @@ HORTENSE:
 Tante, verschon mich, es isch zeviel uff anmol.
 
           
-",bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
+",88,bastian-e-sportschochzitt,9,1,0.0,0.1111111111111111
 178,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1371,7 +1371,7 @@ Ja, awer wenn mer's recht bedenkt — was nutzt dich e Kinderkütsch? Diner Zuek
             d'haam!
 
           
-",bastian-e-sportschochzitt,21,2,0.0,0.09523809523809523
+",89,bastian-e-sportschochzitt,21,2,0.0,0.09523809523809523
 180,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1384,7 +1384,7 @@ Bisch jetzt bös? Waisch was d'r Athlete-Président gsaat het? Wenn mer e Röüj
             stemme. Kumm, helf, die Dinger muehn do eweck. Allez Hortense, hebb dich, Ho-hupp!
 
           
-",bastian-e-sportschochzitt,33,3,0.0,0.09090909090909091
+",90,bastian-e-sportschochzitt,33,3,0.0,0.09090909090909091
 187,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1401,7 +1401,7 @@ Höre Sie, Monsieur, Sie kumme mir so bekannt vor. Ah, sin Sie nit der Herr wo m
             gern?
 
           
-",bastian-e-sportschochzitt,50,6,0.0365,0.12
+",93,bastian-e-sportschochzitt,50,6,0.0365,0.12
 188,comedy,Gaston,M,,,,"
             
 GASTON:
@@ -1412,7 +1412,7 @@ Octavie, ich bin in d'r ganze Welt erumgflöüje, un jetzt fliehj ich in dini Ae
 (Umarmung).
 
           
-",bastian-e-sportschochzitt,22,4,0.078,0.18181818181818182
+",94,bastian-e-sportschochzitt,22,4,0.078,0.18181818181818182
 189,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1421,7 +1421,7 @@ OCTAVIE:
 Gaston, d'r Himmel hängt voll Bassgeje.
 
           
-",bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
+",94,bastian-e-sportschochzitt,7,2,0.0,0.2857142857142857
 190,comedy,Camille,M,,,,"
             
 CAMILLE:
@@ -1434,7 +1434,7 @@ Exküsier Hortense, ich hab noch schnell e Mätschel in Paris gemacht, un 30.000
  Hortense, luej dort, die zwai schiene sich ze kenne.
 
           
-",bastian-e-sportschochzitt,30,3,0.2786666666666667,0.1
+",95,bastian-e-sportschochzitt,30,3,0.2786666666666667,0.1
 192,comedy,Gaston,M,,,,"
             
 GASTON:
@@ -1443,7 +1443,7 @@ GASTON:
 Mes amis — mini Hochzittere.
 
           
-",bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
+",96,bastian-e-sportschochzitt,6,2,0.0,0.3333333333333333
 193,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1452,7 +1452,7 @@ OCTAVIE:
 Mir gehn mit uff d' Mairie, un fliehje in de Himmel; dummle Euch, es bressiert.
 
           
-",bastian-e-sportschochzitt,16,2,0.0,0.125
+",96,bastian-e-sportschochzitt,16,2,0.0,0.125
 194,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1461,7 +1461,7 @@ HORTENSE:
 Camille, luej, was mir for schöeni Gschenker bekumme han.
 
           
-",bastian-e-sportschochzitt,10,3,0.08600000000000001,0.3
+",97,bastian-e-sportschochzitt,10,3,0.08600000000000001,0.3
 196,comedy,Hortense,F,,,,"
             
 HORTENSE:
@@ -1473,7 +1473,7 @@ HORTENSE:
 Babbe, d' Camille isch do.
 
           
-",bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
+",98,bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
 197,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1485,7 +1485,7 @@ OCTAVIE:
 Caroline, Grand'mère, er isch kumme, sie sin kumme!
 
           
-",bastian-e-sportschochzitt,14,2,0.0,0.14285714285714285
+",98,bastian-e-sportschochzitt,14,2,0.0,0.14285714285714285
 199,comedy,Camille,M,,,,"
             
 CAMILLE:
@@ -1496,7 +1496,7 @@ Schwejermame, es bressiert
 (Umarmung).
 
           
-",bastian-e-sportschochzitt,7,1,0.312,0.14285714285714285
+",99,bastian-e-sportschochzitt,7,1,0.312,0.14285714285714285
 200,comedy,Grossmame,F,,,,"
             
 GROSSMAME:
@@ -1507,7 +1507,7 @@ Eweck do. Bonjour Hochzitter.
 (Schlüdert Caroline uff d'Sitt, Umarmung.)
 
           
-",bastian-e-sportschochzitt,13,3,0.104,0.23076923076923078
+",100,bastian-e-sportschochzitt,13,3,0.104,0.23076923076923078
 201,comedy,Conrad,M,,,,"
             
 CONRAD:
@@ -1519,7 +1519,7 @@ Eweck Mame, Salü Camille.
  Alles gsund, Taille wie e Lyonerwurscht.
 
           
-",bastian-e-sportschochzitt,18,3,0.104,0.16666666666666666
+",100,bastian-e-sportschochzitt,18,3,0.104,0.16666666666666666
 202,comedy,Octavie,M,,,,"
             
 OCTAVIE:
@@ -1528,7 +1528,7 @@ OCTAVIE:
 Liewi Familli, do stell ich Euch miner fiancé Gaston vor. Umarme uns.
 
           
-",bastian-e-sportschochzitt,13,4,0.0,0.3076923076923077
+",101,bastian-e-sportschochzitt,13,4,0.0,0.3076923076923077
 203,comedy,Caroline,F,,,,"
             
 CAROLINE:
@@ -1539,7 +1539,7 @@ D'r Gaston, dini alt Flamm? Gratülier.
 (Umarmt Gaston).
 
           
-",bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
+",101,bastian-e-sportschochzitt,11,1,0.0,0.09090909090909091
 204,comedy,Conrad,M,,,,"
             
 CONRAD:
@@ -1548,7 +1548,7 @@ CONRAD:
 Wenn e alti Schier brennt, isch sie nim ze löesche. Gratülier.
 
           
-",bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
+",102,bastian-e-sportschochzitt,12,1,0.0,0.08333333333333333
 205,comedy,Grossmame,F,,,,"
             
 GROSSMAME:
@@ -1572,4 +1572,4 @@ Rideau.
             
 
           
-",bastian-e-sportschochzitt,53,5,0.1406,0.09433962264150944
+",102,bastian-e-sportschochzitt,53,5,0.1406,0.09433962264150944

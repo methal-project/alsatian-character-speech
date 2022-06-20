@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,EMIL,M,,,,"
           
 Emil
@@ -18,7 +18,7 @@ Emil
                     
 
         
-",lustig-d-gsellschaftere,57,7,0.16442743078122266,0.12280701754385964
+",0,lustig-d-gsellschaftere,57,7,0.16442743078122266,0.12280701754385964
 1,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -33,7 +33,7 @@ Do bin i... 's isch güet, ass es emol Tag isch!... ich
                     
 
         
-",lustig-d-gsellschaftere,35,1,0.0,0.02857142857142857
+",0,lustig-d-gsellschaftere,35,1,0.0,0.02857142857142857
 2,comedy,EMIL,M,,,,"
           
 Emil.
@@ -44,7 +44,7 @@ Dü machsch mr jetz emol schöne Sache... wie ka me nur
                     
 
         
-",lustig-d-gsellschaftere,20,1,0.0089999999999999,0.05
+",0,lustig-d-gsellschaftere,20,1,0.0089999999999999,0.05
 3,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -57,7 +57,7 @@ Dü bisch halt noch allewil dr gliche wie frieiher als im
                     
 
         
-",lustig-d-gsellschaftere,40,6,0.09116666666666667,0.15
+",1,lustig-d-gsellschaftere,40,6,0.09116666666666667,0.15
 4,comedy,EMIL,M,,,,"
           
 Emil.
@@ -68,7 +68,7 @@ Un Dü bisch allewil...
           
 
         
-",lustig-d-gsellschaftere,5,1,0.0,0.2
+",1,lustig-d-gsellschaftere,5,1,0.0,0.2
 5,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -101,7 +101,7 @@ So will ich profetiere ...
           
 
         
-",lustig-d-gsellschaftere,41,10,0.17365532134538617,0.24390243902439024
+",1,lustig-d-gsellschaftere,41,10,0.17365532134538617,0.24390243902439024
 6,comedy,EMIL,M,,,,"
           
 Emil.
@@ -117,7 +117,7 @@ Un doch isch eitel nur
           
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",2,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 7,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -133,7 +133,7 @@ Wil's 's Lewe mir erhellt!
           
 
         
-",lustig-d-gsellschaftere,12,3,0.0,0.25
+",2,lustig-d-gsellschaftere,12,3,0.0,0.25
 8,comedy,OSCAR,M,,,,"
           
 (Mitnander)
@@ -155,7 +155,7 @@ Wenn vom Alter kämme d'Weh!
           
 
         
-",lustig-d-gsellschaftere,27,4,0.16530599169995105,0.14814814814814814
+",2,lustig-d-gsellschaftere,27,4,0.16530599169995105,0.14814814814814814
 9,comedy,EMIL,M,,,,"
           
 (Mitnander)
@@ -177,7 +177,7 @@ Wenn vom Alter kämme d'Weh!
           
 
         
-",lustig-d-gsellschaftere,27,4,0.16530599169995105,0.14814814814814814
+",3,lustig-d-gsellschaftere,27,4,0.16530599169995105,0.14814814814814814
 10,comedy,EMIL,M,,,,"
           
 Emil.
@@ -206,7 +206,7 @@ Mit allem dem bin ich nitt iwel verstünt gsi, wo Dü mir
                     
 
         
-",lustig-d-gsellschaftere,60,7,0.21355338948947744,0.11666666666666667
+",3,lustig-d-gsellschaftere,60,7,0.21355338948947744,0.11666666666666667
 11,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -221,7 +221,7 @@ Was witt halt... ich ha nitt anderscht känne... züe wem
           
 
         
-",lustig-d-gsellschaftere,35,5,0.0,0.14285714285714285
+",3,lustig-d-gsellschaftere,35,5,0.0,0.14285714285714285
 12,comedy,EMIL,M,,,,"
           
 Emil.
@@ -235,7 +235,7 @@ Drum ha-n-ich Dich o nitt lang üsg'frogt... un ha Dich
                     
 
         
-",lustig-d-gsellschaftere,40,3,0.151,0.075
+",4,lustig-d-gsellschaftere,40,3,0.151,0.075
 13,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -244,7 +244,7 @@ Oscar.
 De siehsch, ich bi uf em Maskeball gsi...
 
         
-",lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
+",4,lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
 15,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -261,7 +261,7 @@ Mi Vater hat mir's streng verbote g'ha... isch jetz das
                     
 
         
-",lustig-d-gsellschaftere,79,12,0.056125082349155066,0.1518987341772152
+",5,lustig-d-gsellschaftere,79,12,0.056125082349155066,0.1518987341772152
 16,comedy,EMIL,M,,,,"
           
 Emil.
@@ -272,7 +272,7 @@ Was fir e Scandal!... awer das alles sàit mr jetz doch
                     
 
         
-",lustig-d-gsellschaftere,20,2,0.0,0.1
+",5,lustig-d-gsellschaftere,20,2,0.0,0.1
 17,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -288,7 +288,7 @@ Wil ich dr Hüsschlissel züern Unglick noch verlore ha...
                     
 
         
-",lustig-d-gsellschaftere,58,8,0.0645,0.13793103448275862
+",5,lustig-d-gsellschaftere,58,8,0.0645,0.13793103448275862
 18,comedy,EMIL,M,,,,"
           
 Emil.
@@ -299,7 +299,7 @@ Was fir e-n-Abgrund fir d'Unschuld, eso-n-e Ball!...
           
 
         
-",lustig-d-gsellschaftere,13,4,0.1485,0.3076923076923077
+",6,lustig-d-gsellschaftere,13,4,0.1485,0.3076923076923077
 19,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -310,7 +310,7 @@ Oh, loss mi doch geh!... was weisch doch Dü, wo noch nie
                     
 
         
-",lustig-d-gsellschaftere,20,1,0.5620614751665568,0.05
+",6,lustig-d-gsellschaftere,20,1,0.5620614751665568,0.05
 20,comedy,EMIL,M,,,,"
           
 Emil
@@ -324,7 +324,7 @@ Ich, wo no ch nie g'liebt ha!... ich denk jo nur an
                     
 
         
-",lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
+",6,lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
 21,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -359,7 +359,7 @@ Dur d'Stadt als bringt so g'schwind
           
 
         
-",lustig-d-gsellschaftere,62,8,0.06519883160552407,0.12903225806451613
+",7,lustig-d-gsellschaftere,62,8,0.06519883160552407,0.12903225806451613
 22,comedy,OSCAR,M,,,,"
           
 Mitnander.
@@ -375,7 +375,7 @@ So g'schwind as wie dr Wind.
           
 
         
-",lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
+",7,lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
 23,comedy,EMIL,M,,,,"
           
 Mitnander.
@@ -391,7 +391,7 @@ So g'schwind as wie dr Wind.
           
 
         
-",lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
+",7,lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
 24,comedy,OSCAR,M,,,,"
           
 
@@ -414,7 +414,7 @@ Me macht noch mehr derzüe
           
 
         
-",lustig-d-gsellschaftere,31,2,0.0,0.06451612903225806
+",8,lustig-d-gsellschaftere,31,2,0.0,0.06451612903225806
 25,comedy,OSCAR,M,,,,"
           
 Mitnander
@@ -430,7 +430,7 @@ Un doch wàr's scho gnnüe!
           
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",8,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 26,comedy,EMIL,M,,,,"
           
 Mitnander
@@ -446,7 +446,7 @@ Un doch wàr's scho gnnüe!
           
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",8,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 27,comedy,EMIL,M,,,,"
           
 Emil.
@@ -455,7 +455,7 @@ Emil.
 Das isch wohr... was witt jetz mache?...
 
         
-",lustig-d-gsellschaftere,8,1,0.0,0.125
+",9,lustig-d-gsellschaftere,8,1,0.0,0.125
 28,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -468,7 +468,7 @@ A propos... isch Di Schwester no nitt z'ruck ku üs dr
           
 
         
-",lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
+",9,lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
 30,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -481,7 +481,7 @@ Eh, ich ha denkt, ich kännt viellicht in mim Vater sage,
                     
 
         
-",lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
+",10,lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
 31,comedy,EMIL,M,,,,"
           
 Emil.
@@ -496,7 +496,7 @@ Merci... das wàr du reste e schlechte-n-Üsred... denn
                     
 
         
-",lustig-d-gsellschaftere,54,8,0.056625,0.14814814814814814
+",10,lustig-d-gsellschaftere,54,8,0.056625,0.14814814814814814
 32,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -510,7 +510,7 @@ So müess ich halt ebbes anders süeche... verroth mi awer
                     
 
         
-",lustig-d-gsellschaftere,40,4,0.0,0.1
+",10,lustig-d-gsellschaftere,40,4,0.0,0.1
 33,comedy,EMIL,M,,,,"
           
 Emil.
@@ -523,7 +523,7 @@ Ich will mi mögligs mache... einstwile kasch Di
                     
 
         
-",lustig-d-gsellschaftere,28,1,0.0,0.03571428571428571
+",11,lustig-d-gsellschaftere,28,1,0.0,0.03571428571428571
 36,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -534,7 +534,7 @@ Lüeg, ass De mr ebbes z'esse bikunnsch... ich ha
                     
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",12,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 37,comedy,EMIL,M,,,,"
           
 Emil.
@@ -547,7 +547,7 @@ Güet... ich will Dr gli geh ebbes b'sorge... doch still,
           
 
         
-",lustig-d-gsellschaftere,15,3,0.0,0.2
+",12,lustig-d-gsellschaftere,15,3,0.0,0.2
 39,comedy,EMIL,M,,,,"
           
 Emil
@@ -565,7 +565,7 @@ Emil
                     
 
         
-",lustig-d-gsellschaftere,40,2,0.0,0.05
+",13,lustig-d-gsellschaftere,40,2,0.0,0.05
 40,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -577,7 +577,7 @@ Nur nitt glich eso verschrocke, suncht thüesch is
                     
 
         
-",lustig-d-gsellschaftere,21,2,0.34262545164310143,0.09523809523809523
+",13,lustig-d-gsellschaftere,21,2,0.34262545164310143,0.09523809523809523
 43,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -589,7 +589,7 @@ Madame Schimmel
 Enfin, ich bi-n-emol derfir... un 's blibt derbi!...
 
         
-",lustig-d-gsellschaftere,20,2,0.0,0.1
+",14,lustig-d-gsellschaftere,20,2,0.0,0.1
 44,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -600,7 +600,7 @@ Un ich sag Dir, 's hat kei Sinn... das Zimmer isch
                     
 
         
-",lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
+",14,lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
 45,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -616,7 +616,7 @@ Im Gegetheil!... das wird ere grad geh, die Einsamkeit
           
 
         
-",lustig-d-gsellschaftere,29,4,0.17575,0.13793103448275862
+",15,lustig-d-gsellschaftere,29,4,0.17575,0.13793103448275862
 46,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -625,7 +625,7 @@ Herr Schimmel.
 Was dr Kückücks tribsch denn jetz Dü do hinte?..
 
         
-",lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
+",15,lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
 47,comedy,EMIL,M,,,,"
           
 Emil.
@@ -634,7 +634,7 @@ Emil.
 Ich bi grad ku... ich süech e Büech...
 
         
-",lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
+",15,lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
 48,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -650,7 +650,7 @@ Kumm emol do ane...
                     
 
         
-",lustig-d-gsellschaftere,26,6,0.0,0.23076923076923078
+",16,lustig-d-gsellschaftere,26,6,0.0,0.23076923076923078
 49,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -664,7 +664,7 @@ Enfin, wenn Dü se durchüs do witt logiere, so thüe's un
                     
 
         
-",lustig-d-gsellschaftere,25,4,0.1405153687916392,0.16
+",16,lustig-d-gsellschaftere,25,4,0.1405153687916392,0.16
 51,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -676,7 +676,7 @@ D'G'sellschaftere vo Dinere Schwester, wo jetz ku
                     
 
         
-",lustig-d-gsellschaftere,23,5,0.0,0.21739130434782608
+",17,lustig-d-gsellschaftere,23,5,0.0,0.21739130434782608
 52,comedy,EMIL,M,,,,"
           
 Emil.
@@ -685,7 +685,7 @@ Emil.
 Wenn soll se denn eigentlig ku, die G'sellschaftere?
 
         
-",lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
+",17,lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
 53,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -694,7 +694,7 @@ Madame Schimmel.
 Ich erwart se in drei oder vier Tàg...
 
         
-",lustig-d-gsellschaftere,10,3,0.0,0.3
+",17,lustig-d-gsellschaftere,10,3,0.0,0.3
 54,comedy,EMIL,M,,,,"
           
 Emil
@@ -710,7 +710,7 @@ Derno isch's güet...
                     
 
         
-",lustig-d-gsellschaftere,23,4,0.0,0.17391304347826086
+",18,lustig-d-gsellschaftere,23,4,0.0,0.17391304347826086
 55,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -721,7 +721,7 @@ Do hörsch jetz... nur Dü bisch's allewil, wo in allem
                     
 
         
-",lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
+",18,lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
 56,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -734,7 +734,7 @@ Isch's e Wunder? mit Dine sunderbare-n-Idee, wo Dü
           
 
         
-",lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
+",18,lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
 57,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -775,7 +775,7 @@ D'Jumpfer Faste kumme lo,
           
 
         
-",lustig-d-gsellschaftere,76,16,0.06845303791029439,0.21052631578947367
+",19,lustig-d-gsellschaftere,76,16,0.06845303791029439,0.21052631578947367
 58,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
@@ -794,7 +794,7 @@ In Erfillung geh derno!
             
 
           
-",lustig-d-gsellschaftere,15,3,0.19799999999999998,0.2
+",19,lustig-d-gsellschaftere,15,3,0.19799999999999998,0.2
 59,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel un Emil.
@@ -813,7 +813,7 @@ In Erfillung geh derno!
             
 
           
-",lustig-d-gsellschaftere,17,3,0.19799999999999998,0.17647058823529413
+",19,lustig-d-gsellschaftere,17,3,0.19799999999999998,0.17647058823529413
 60,comedy,EMIL,M,,,,"
             
 Herr Schimmel un Emil.
@@ -832,7 +832,7 @@ In Erfillung geh derno!
             
 
           
-",lustig-d-gsellschaftere,17,3,0.19799999999999998,0.17647058823529413
+",20,lustig-d-gsellschaftere,17,3,0.19799999999999998,0.17647058823529413
 61,comedy,EMIL,M,,,,"
           
 Emil.
@@ -841,7 +841,7 @@ Emil.
 Mi Mame hat ganz Recht!
 
         
-",lustig-d-gsellschaftere,6,3,0.005333333333333333,0.5
+",20,lustig-d-gsellschaftere,6,3,0.005333333333333333,0.5
 62,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -856,7 +856,7 @@ Ich find nur, Dü gehsch in dàne Sache allewil e wenig
                     
 
         
-",lustig-d-gsellschaftere,59,8,0.0,0.13559322033898305
+",20,lustig-d-gsellschaftere,59,8,0.0,0.13559322033898305
 63,comedy,EMIL,M,,,,"
           
 Emil.
@@ -870,7 +870,7 @@ Awer Vater... wenn's mir jetz eso g'fallt... wenn das mi
                     
 
         
-",lustig-d-gsellschaftere,21,3,0.19799999999999998,0.14285714285714285
+",21,lustig-d-gsellschaftere,21,3,0.19799999999999998,0.14285714285714285
 64,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -883,7 +883,7 @@ Natirlig!... b'schaü ne nur emol a... 's steht jo uf sim
                     
 
         
-",lustig-d-gsellschaftere,40,8,0.0135,0.2
+",21,lustig-d-gsellschaftere,40,8,0.0135,0.2
 65,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -895,7 +895,7 @@ Das isch jetz alles recht... awer ich sag emol eso
                     
 
         
-",lustig-d-gsellschaftere,27,7,0.0,0.25925925925925924
+",21,lustig-d-gsellschaftere,27,7,0.0,0.25925925925925924
 66,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -904,7 +904,7 @@ Madame Schimmel.
 Eh bien, ich süech em e Fraü...
 
         
-",lustig-d-gsellschaftere,9,4,0.0,0.4444444444444444
+",22,lustig-d-gsellschaftere,9,4,0.0,0.4444444444444444
 67,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -919,7 +919,7 @@ Ich ha se scho gfùnde!
                     
 
         
-",lustig-d-gsellschaftere,32,7,0.0,0.21875
+",22,lustig-d-gsellschaftere,32,7,0.0,0.21875
 68,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -933,7 +933,7 @@ D'Jumpfer Faste?... d'Tochter vo minre alte Frindin, wo
                     
 
         
-",lustig-d-gsellschaftere,51,10,0.0,0.19607843137254902
+",22,lustig-d-gsellschaftere,51,10,0.0,0.19607843137254902
 69,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -945,7 +945,7 @@ Ich mein, ich sieh se scho: allewil schwarz ag'legt ganz
                     
 
         
-",lustig-d-gsellschaftere,29,8,0.046875,0.27586206896551724
+",23,lustig-d-gsellschaftere,29,8,0.046875,0.27586206896551724
 70,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -958,7 +958,7 @@ Ich will se scho examiniere, wenn se kunnt, un
                     
 
         
-",lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
+",23,lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
 71,comedy,EMIL,M,,,,"
           
 Emil.
@@ -970,7 +970,7 @@ Wotte mr jetz nitt z'erst geh z'Morge-n-esse, Mame?...
                     
 
         
-",lustig-d-gsellschaftere,28,4,0.11725000000000001,0.14285714285714285
+",23,lustig-d-gsellschaftere,28,4,0.11725000000000001,0.14285714285714285
 72,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -984,7 +984,7 @@ Herr Schimmel.
           
 
         
-",lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
+",24,lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
 73,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1021,7 +1021,7 @@ Fir mich z'erhole dra;
           
 
         
-",lustig-d-gsellschaftere,65,9,0.050333333333333334,0.13846153846153847
+",24,lustig-d-gsellschaftere,65,9,0.050333333333333334,0.13846153846153847
 74,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
@@ -1043,7 +1043,7 @@ Ass ich güet schwàtze ka!
             
 
           
-",lustig-d-gsellschaftere,26,5,0.0,0.19230769230769232
+",24,lustig-d-gsellschaftere,26,5,0.0,0.19230769230769232
 75,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel un Emil.
@@ -1065,7 +1065,7 @@ Ass sie güet schwàtze ka!
             
 
           
-",lustig-d-gsellschaftere,28,5,0.0,0.17857142857142858
+",25,lustig-d-gsellschaftere,28,5,0.0,0.17857142857142858
 76,comedy,EMIL,M,,,,"
             
 Herr Schimmel un Emil.
@@ -1087,7 +1087,7 @@ Ass sie güet schwàtze ka!
             
 
           
-",lustig-d-gsellschaftere,28,5,0.0,0.17857142857142858
+",25,lustig-d-gsellschaftere,28,5,0.0,0.17857142857142858
 77,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1096,7 +1096,7 @@ Herr Schimmel.
 Endlig isch se jetz emol furt!
 
         
-",lustig-d-gsellschaftere,8,2,0.0,0.25
+",25,lustig-d-gsellschaftere,8,2,0.0,0.25
 78,comedy,EMIL,M,,,,"
           
 Emil
@@ -1108,7 +1108,7 @@ Emil
 Wenn doch nur jetz dr Pape-n-o ging
 
         
-",lustig-d-gsellschaftere,14,1,0.0,0.07142857142857142
+",26,lustig-d-gsellschaftere,14,1,0.0,0.07142857142857142
 79,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1119,7 +1119,7 @@ Emil, kumm los jetz... sitz do ane... wil mr grad allei
                     
 
         
-",lustig-d-gsellschaftere,20,8,0.07362400193356983,0.4
+",26,lustig-d-gsellschaftere,20,8,0.07362400193356983,0.4
 80,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1128,7 +1128,7 @@ Emil.
 E G'heimniss!
 
         
-",lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
+",26,lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
 81,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1139,7 +1139,7 @@ Ich bin eso ziemlig sicher, nitt wohr, ass Dü bis dohi
                     
 
         
-",lustig-d-gsellschaftere,21,6,0.0,0.2857142857142857
+",27,lustig-d-gsellschaftere,21,6,0.0,0.2857142857142857
 82,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1151,7 +1151,7 @@ Ich... ich denks nitt...
                     
 
         
-",lustig-d-gsellschaftere,13,1,0.0,0.07692307692307693
+",27,lustig-d-gsellschaftere,13,1,0.0,0.07692307692307693
 83,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1165,7 +1165,7 @@ Desto besser... uf die Art geht das Ding ganz allei...
                     
 
         
-",lustig-d-gsellschaftere,42,12,0.04908266795571322,0.2857142857142857
+",27,lustig-d-gsellschaftere,42,12,0.04908266795571322,0.2857142857142857
 84,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1174,7 +1174,7 @@ Emil.
 Ne Fraü fir mich !...
 
         
-",lustig-d-gsellschaftere,5,1,0.0,0.2
+",28,lustig-d-gsellschaftere,5,1,0.0,0.2
 85,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1190,7 +1190,7 @@ Un g'wiss e güete... 's isch schint's e prächtige
                     
 
         
-",lustig-d-gsellschaftere,65,11,0.0,0.16923076923076924
+",28,lustig-d-gsellschaftere,65,11,0.0,0.16923076923076924
 86,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1201,7 +1201,7 @@ Ich weiss awer nitt, eb d'Mame-n-eso d'nàchste beste
                     
 
         
-",lustig-d-gsellschaftere,15,1,0.016,0.06666666666666667
+",28,lustig-d-gsellschaftere,15,1,0.016,0.06666666666666667
 87,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1218,7 +1218,7 @@ Ich ha scho dra denkt... drum hà mr e Mittel g'süecht
                     
 
         
-",lustig-d-gsellschaftere,67,12,0.07942178959721306,0.1791044776119403
+",29,lustig-d-gsellschaftere,67,12,0.07942178959721306,0.1791044776119403
 88,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1227,7 +1227,7 @@ Emil.
 Awer ich kenn se jo gar nitt, die Jumpfer Tülipa!
 
         
-",lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
+",29,lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
 89,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1243,7 +1243,7 @@ Ich o nitt... awer wie g'sàit, mi Schwester ka se nitt
                     
 
         
-",lustig-d-gsellschaftere,48,4,0.1405153687916392,0.08333333333333333
+",29,lustig-d-gsellschaftere,48,4,0.1405153687916392,0.08333333333333333
 90,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1252,7 +1252,7 @@ Emil.
 Ich glaüb Dr scho, Pape... awer...
 
         
-",lustig-d-gsellschaftere,7,1,0.0,0.14285714285714285
+",30,lustig-d-gsellschaftere,7,1,0.0,0.14285714285714285
 91,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1265,7 +1265,7 @@ Un Dü hasch recht... das isch e ganz güete Partie fir
                     
 
         
-",lustig-d-gsellschaftere,39,8,0.07369204903518961,0.20512820512820512
+",30,lustig-d-gsellschaftere,39,8,0.07369204903518961,0.20512820512820512
 92,comedy,EMIL,M,,,,"
           
 Emil
@@ -1277,7 +1277,7 @@ Emil
 Niemols!
 
         
-",lustig-d-gsellschaftere,6,1,0.0,0.16666666666666666
+",30,lustig-d-gsellschaftere,6,1,0.0,0.16666666666666666
 93,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1289,7 +1289,7 @@ Also gehsch Dü's i un witt mr kei Hindernisse in dr Weg
                     
 
         
-",lustig-d-gsellschaftere,31,4,0.21388409807037922,0.12903225806451613
+",31,lustig-d-gsellschaftere,31,4,0.21388409807037922,0.12903225806451613
 94,comedy,EMIL,M,,,,"
           
 Emil.
@@ -1300,7 +1300,7 @@ Los Pape... das geht nitt... Dü kennsch jo mi Abneigung
                     
 
         
-",lustig-d-gsellschaftere,14,3,0.22270156400791788,0.21428571428571427
+",31,lustig-d-gsellschaftere,14,3,0.22270156400791788,0.21428571428571427
 95,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1313,7 +1313,7 @@ Emil!... das isch nitt natürell... Dü verstecksch mir
           
 
         
-",lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
+",31,lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
 96,comedy,EMIL,M,,,,"
           
 Emil
@@ -1327,7 +1327,7 @@ Was sage!...
 .
 
         
-",lustig-d-gsellschaftere,14,1,0.0,0.07142857142857142
+",32,lustig-d-gsellschaftere,14,1,0.0,0.07142857142857142
 97,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1338,7 +1338,7 @@ Herr Schimmel.
                     
 
         
-",lustig-d-gsellschaftere,19,2,0.0,0.10526315789473684
+",32,lustig-d-gsellschaftere,19,2,0.0,0.10526315789473684
 98,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -1352,7 +1352,7 @@ Do isch se!... do isch se... ich ha se scho vo Witem
                     
 
         
-",lustig-d-gsellschaftere,32,5,0.0,0.15625
+",32,lustig-d-gsellschaftere,32,5,0.0,0.15625
 99,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1361,7 +1361,7 @@ Herr Schimmel.
 Wer denn... wer isch do?
 
         
-",lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
+",33,lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
 100,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1373,7 +1373,7 @@ D'Jumpfer Faste... 's ka nieme-n-anders si... 's Kleid
                     
 
         
-",lustig-d-gsellschaftere,26,5,0.0,0.19230769230769232
+",33,lustig-d-gsellschaftere,26,5,0.0,0.19230769230769232
 101,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1387,7 +1387,7 @@ Herr Schimmel
                     
 
         
-",lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
+",33,lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
 102,comedy,EMIL,M,,,,"
           
 Emil
@@ -1401,7 +1401,7 @@ Güet, ich mach mi dervo!...
 .
 
         
-",lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
+",34,lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
 103,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1412,7 +1412,7 @@ Eh bien... was soll das bedite... worum laüft er jetz
                     
 
         
-",lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
+",34,lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
 104,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1425,7 +1425,7 @@ Worum... weiss ich's!... er isch doch züe arg schich fir
           
 
         
-",lustig-d-gsellschaftere,16,4,0.0,0.25
+",34,lustig-d-gsellschaftere,16,4,0.0,0.25
 105,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1436,7 +1436,7 @@ Ich will hoffe, Mann, ass Dü die Jumpfere güet empfange
                     
 
         
-",lustig-d-gsellschaftere,13,7,0.0,0.5384615384615384
+",35,lustig-d-gsellschaftere,13,7,0.0,0.5384615384615384
 106,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1447,7 +1447,7 @@ Dü brüchsch kei Angst z'ha... ich verlang jo nitt mehr
                     
 
         
-",lustig-d-gsellschaftere,18,6,0.09899999999999999,0.3333333333333333
+",35,lustig-d-gsellschaftere,18,6,0.09899999999999999,0.3333333333333333
 107,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1468,7 +1468,7 @@ Me hat mr g'sàit, ich seig recht do... bi dr Madame
                     
 
         
-",lustig-d-gsellschaftere,74,15,0.0,0.20270270270270271
+",35,lustig-d-gsellschaftere,74,15,0.0,0.20270270270270271
 108,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1480,7 +1480,7 @@ Willkumme, willkumme, mi güete Jumpfer Faste... ich bi
                     
 
         
-",lustig-d-gsellschaftere,31,7,0.0,0.22580645161290322
+",36,lustig-d-gsellschaftere,31,7,0.0,0.22580645161290322
 109,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1494,7 +1494,7 @@ Jumpfer Faste.
                     
 
         
-",lustig-d-gsellschaftere,40,7,0.0,0.175
+",36,lustig-d-gsellschaftere,40,7,0.0,0.175
 110,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1506,7 +1506,7 @@ Herr Schimmel
 Se spielt ihre Rolle ganz güet, d'Jumpfer Tülipa...
 
         
-",lustig-d-gsellschaftere,19,6,0.0,0.3157894736842105
+",36,lustig-d-gsellschaftere,19,6,0.0,0.3157894736842105
 111,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1517,7 +1517,7 @@ Sie wird jetz wohrschinlig mied si ab dr Reis'... mr
                     
 
         
-",lustig-d-gsellschaftere,22,5,0.2073172219267366,0.22727272727272727
+",37,lustig-d-gsellschaftere,22,5,0.2073172219267366,0.22727272727272727
 112,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1528,7 +1528,7 @@ Sie glaübt nitt, was uns Ihre-n-Akunft fir e Plaisier
                     
 
         
-",lustig-d-gsellschaftere,14,5,0.0,0.35714285714285715
+",37,lustig-d-gsellschaftere,14,5,0.0,0.35714285714285715
 113,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1537,7 +1537,7 @@ Madame Schimmel.
 Dr Herr Schimmel, mi Mann, wo-n-ich Ihre vorstell!
 
         
-",lustig-d-gsellschaftere,12,5,0.0,0.4166666666666667
+",37,lustig-d-gsellschaftere,12,5,0.0,0.4166666666666667
 114,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1549,7 +1549,7 @@ Herr Schimmel
 Se schlat d'Aüge nieder... se-n-isch magnifique!
 
         
-",lustig-d-gsellschaftere,15,4,0.1009812712951884,0.26666666666666666
+",38,lustig-d-gsellschaftere,15,4,0.1009812712951884,0.26666666666666666
 115,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1562,7 +1562,7 @@ Jumpfer Faste
 Ich find, dà Herr hat e gar frecher Blick!
 
         
-",lustig-d-gsellschaftere,15,6,0.0,0.4
+",38,lustig-d-gsellschaftere,15,6,0.0,0.4
 116,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1571,7 +1571,7 @@ Madame Schimmel.
 Un wie geht's denn allewil in minere-n-alte Frindin?
 
         
-",lustig-d-gsellschaftere,13,4,0.0,0.3076923076923077
+",38,lustig-d-gsellschaftere,13,4,0.0,0.3076923076923077
 117,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1581,7 +1581,7 @@ Jumpfer Faste.
 Mi Müetter isch gottlob g'sund und wohl.
 
         
-",lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
+",39,lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
 118,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1592,7 +1592,7 @@ Un do will Se denn, Jumpfer Faste, wirklig später ins
                     
 
         
-",lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
+",39,lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
 119,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1609,7 +1609,7 @@ Mi Müetter hat mir g'rothe, ich soll noch recht driwer
                     
 
         
-",lustig-d-gsellschaftere,61,11,0.0639090909090909,0.18032786885245902
+",39,lustig-d-gsellschaftere,61,11,0.0639090909090909,0.18032786885245902
 120,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1621,7 +1621,7 @@ Herr Schimmel
 Sie spielt Ihre Rolle ganz merkwürdig güet!...
 
         
-",lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
+",40,lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
 121,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1634,7 +1634,7 @@ Jumpfer Faste
 Was will denn eigentlig dà Mann mit mir!
 
         
-",lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
+",40,lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
 122,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1650,7 +1650,7 @@ Vo allem dem wà mr später noch rede... d'Haüptsach isch
                     
 
         
-",lustig-d-gsellschaftere,55,7,0.0,0.12727272727272726
+",40,lustig-d-gsellschaftere,55,7,0.0,0.12727272727272726
 123,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1660,7 +1660,7 @@ Jumpfer Faste.
 Ihr' Suhn... hàn Sie ne Suhn?...
 
         
-",lustig-d-gsellschaftere,8,1,0.0,0.125
+",41,lustig-d-gsellschaftere,8,1,0.0,0.125
 124,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1671,7 +1671,7 @@ Unser Emil, jo... hat Sie's nitt g'wisst?... ich will
                     
 
         
-",lustig-d-gsellschaftere,20,3,0.0,0.15
+",41,lustig-d-gsellschaftere,20,3,0.0,0.15
 125,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1683,7 +1683,7 @@ Herr Schimmel
 Thàt Se nur «jo» sage.
 
         
-",lustig-d-gsellschaftere,15,3,0.0,0.2
+",41,lustig-d-gsellschaftere,15,3,0.0,0.2
 126,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1695,7 +1695,7 @@ Nei, nei, Madame Schimmel... un wenn ich das g'wisst
                     
 
         
-",lustig-d-gsellschaftere,21,4,0.0,0.19047619047619047
+",42,lustig-d-gsellschaftere,21,4,0.0,0.19047619047619047
 127,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1704,7 +1704,7 @@ Madame Schimmel.
 Un worum denn das?
 
         
-",lustig-d-gsellschaftere,6,2,0.0,0.3333333333333333
+",42,lustig-d-gsellschaftere,6,2,0.0,0.3333333333333333
 128,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1717,7 +1717,7 @@ Dr Mann isch unser Verdàrwe-n-uf dr Welt... un ich
                     
 
         
-",lustig-d-gsellschaftere,27,5,0.09452720629132713,0.18518518518518517
+",42,lustig-d-gsellschaftere,27,5,0.09452720629132713,0.18518518518518517
 129,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -1729,7 +1729,7 @@ Herr Schimmel
 Das isch güet g'funde... se-n-isch famos schlaü.
 
         
-",lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
+",43,lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
 130,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1743,7 +1743,7 @@ Fir d'Wohret z'sage, Jumpfer Faste, thüet Sie das Ding
                     
 
         
-",lustig-d-gsellschaftere,54,8,0.0,0.14814814814814814
+",43,lustig-d-gsellschaftere,54,8,0.0,0.14814814814814814
 131,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1753,7 +1753,7 @@ Jumpfer Faste.
 Sie wird mir erlaüwe, nitt an das Bankett z'sitze!
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",43,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 132,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1762,7 +1762,7 @@ Madame Schimmel.
 Hat Sie viellicht kei Hunger?
 
         
-",lustig-d-gsellschaftere,7,4,0.0,0.5714285714285714
+",44,lustig-d-gsellschaftere,7,4,0.0,0.5714285714285714
 133,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1778,7 +1778,7 @@ Im Gegetheil... ich bi as wie 's Volk Israël in dr
                     
 
         
-",lustig-d-gsellschaftere,53,10,0.053000000000000005,0.18867924528301888
+",44,lustig-d-gsellschaftere,53,10,0.053000000000000005,0.18867924528301888
 134,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1790,7 +1790,7 @@ Wie Se will Sie liebt halt d'Einsamkeit... 's hat Jeder
                     
 
         
-",lustig-d-gsellschaftere,23,5,0.1406,0.21739130434782608
+",44,lustig-d-gsellschaftere,23,5,0.1406,0.21739130434782608
 135,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -1804,7 +1804,7 @@ C'est ça!...
                     
 
         
-",lustig-d-gsellschaftere,28,5,0.0018,0.17857142857142858
+",45,lustig-d-gsellschaftere,28,5,0.0018,0.17857142857142858
 136,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1814,7 +1814,7 @@ Jumpfer Faste.
 Ich bi charmant!...
 
         
-",lustig-d-gsellschaftere,5,2,0.0045,0.4
+",45,lustig-d-gsellschaftere,5,2,0.0045,0.4
 137,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -1841,7 +1841,7 @@ Niene hätt Sie's jo so güet.
           
 
         
-",lustig-d-gsellschaftere,32,6,0.0,0.1875
+",45,lustig-d-gsellschaftere,32,6,0.0,0.1875
 138,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1858,7 +1858,7 @@ Fir was Sie an mir jetz thüet.
           
 
         
-",lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
+",46,lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
 139,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
@@ -1880,7 +1880,7 @@ Er hat d'Tugend nitt im Blüet.
             
 
           
-",lustig-d-gsellschaftere,31,8,0.076125,0.25806451612903225
+",46,lustig-d-gsellschaftere,31,8,0.076125,0.25806451612903225
 140,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
@@ -1902,7 +1902,7 @@ Ass sie's nitt üs List nur thüet.
             
 
           
-",lustig-d-gsellschaftere,27,3,0.0,0.1111111111111111
+",46,lustig-d-gsellschaftere,27,3,0.0,0.1111111111111111
 141,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1955,7 +1955,7 @@ Se wànn mich bekehre!... so isch se jetz, die Welt; küm
                     
 
         
-",lustig-d-gsellschaftere,323,48,0.08926774432628153,0.14860681114551083
+",47,lustig-d-gsellschaftere,323,48,0.08926774432628153,0.14860681114551083
 142,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -1977,7 +1977,7 @@ Hat mich eigentlig dr Emil vergesse
                     
 
         
-",lustig-d-gsellschaftere,54,3,0.17666666666666667,0.05555555555555555
+",47,lustig-d-gsellschaftere,54,3,0.17666666666666667,0.05555555555555555
 143,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -1992,7 +1992,7 @@ Nit as nur immer dr Voltaire... das werde wohrschinlig
                     
 
         
-",lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
+",47,lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
 144,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -2008,7 +2008,7 @@ Was!... 's isch ebber do!... jetz bin i verrothe!
                     
 
         
-",lustig-d-gsellschaftere,19,1,0.0,0.05263157894736842
+",48,lustig-d-gsellschaftere,19,1,0.0,0.05263157894736842
 145,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2024,7 +2024,7 @@ Tiens... ich bi schint's nimmig allei... was isch jetz
                     
 
         
-",lustig-d-gsellschaftere,27,5,0.11779840309371173,0.18518518518518517
+",48,lustig-d-gsellschaftere,27,5,0.11779840309371173,0.18518518518518517
 146,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -2039,7 +2039,7 @@ Ah...das isch g'wiss d'Gsellschaftere, wo dr Emil g'sàit
                     
 
         
-",lustig-d-gsellschaftere,29,1,0.0,0.034482758620689655
+",48,lustig-d-gsellschaftere,29,1,0.0,0.034482758620689655
 147,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2051,7 +2051,7 @@ Isch Sie viellicht o noch e Tochter üs em Hüs... dr
                     
 
         
-",lustig-d-gsellschaftere,19,5,0.0,0.2631578947368421
+",49,lustig-d-gsellschaftere,19,5,0.0,0.2631578947368421
 148,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -2063,7 +2063,7 @@ Oscar
 O nei, Jumpfer...
 
         
-",lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
+",49,lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
 149,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2075,7 +2075,7 @@ Ich heiss Faste.
           
 
         
-",lustig-d-gsellschaftere,5,2,0.0,0.4
+",49,lustig-d-gsellschaftere,5,2,0.0,0.4
 150,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2091,7 +2091,7 @@ O nei, Jumpfer Faste... ich bi nur e Cüsine...
                     
 
         
-",lustig-d-gsellschaftere,36,6,0.0,0.16666666666666666
+",50,lustig-d-gsellschaftere,36,6,0.0,0.16666666666666666
 151,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2110,7 +2110,7 @@ Ihre Kaffee!...
                     
 
         
-",lustig-d-gsellschaftere,38,7,0.08414171649550838,0.18421052631578946
+",50,lustig-d-gsellschaftere,38,7,0.08414171649550838,0.18421052631578946
 152,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2124,7 +2124,7 @@ Ah, Sie wohnt do...
                     
 
         
-",lustig-d-gsellschaftere,24,3,0.0,0.125
+",50,lustig-d-gsellschaftere,24,3,0.0,0.125
 153,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2136,7 +2136,7 @@ Se isch wohrschinlig in Ihrer Tante ku ne Visite
                     
 
         
-",lustig-d-gsellschaftere,12,2,0.0,0.16666666666666666
+",51,lustig-d-gsellschaftere,12,2,0.0,0.16666666666666666
 154,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -2155,7 +2155,7 @@ Im Gegetheil... mi Oncle un Tante wisse gar nitt, ass
                     
 
         
-",lustig-d-gsellschaftere,66,5,0.0,0.07575757575757576
+",51,lustig-d-gsellschaftere,66,5,0.0,0.07575757575757576
 155,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2169,7 +2169,7 @@ Ich versprich's Ere...
                     
 
         
-",lustig-d-gsellschaftere,16,3,0.0,0.1875
+",51,lustig-d-gsellschaftere,16,3,0.0,0.1875
 156,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2180,7 +2180,7 @@ Eh bien, so müesst Se wisse, ass ich d'vergangene Nacht
                     
 
         
-",lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
+",52,lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
 157,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2190,7 +2190,7 @@ Jumpfer Faste.
 Oh!...
 
         
-",lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
+",52,lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
 158,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2203,7 +2203,7 @@ Un ass ich dert e junger Mensch atrofte ha, wo mich gern
           
 
         
-",lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
+",52,lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
 159,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2216,7 +2216,7 @@ Oh!... oh!...
                     
 
         
-",lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
+",53,lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
 160,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2228,7 +2228,7 @@ Un derno hat's mi Vater erfahre un hat mich welle
                     
 
         
-",lustig-d-gsellschaftere,33,5,0.0,0.15151515151515152
+",53,lustig-d-gsellschaftere,33,5,0.0,0.15151515151515152
 161,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2246,7 +2246,7 @@ Ne Ummeziegere!
                     
 
         
-",lustig-d-gsellschaftere,30,4,0.0,0.13333333333333333
+",53,lustig-d-gsellschaftere,30,4,0.0,0.13333333333333333
 163,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2260,7 +2260,7 @@ Oh!... ich bedür Se wider mi Wille!... Sie, noch so
                     
 
         
-",lustig-d-gsellschaftere,32,8,0.21650768439581958,0.25
+",54,lustig-d-gsellschaftere,32,8,0.21650768439581958,0.25
 165,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2270,7 +2270,7 @@ Jumpfer Faste.
 Gar nieme?...
 
         
-",lustig-d-gsellschaftere,4,1,0.0,0.25
+",55,lustig-d-gsellschaftere,4,1,0.0,0.25
 167,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2282,7 +2282,7 @@ Dr Emil... noch e junger Mensch, wo Sie ka in
                     
 
         
-",lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
+",55,lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
 168,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2295,7 +2295,7 @@ Do isch jetz kei G'fohr... awer ich ha Angst vor
                     
 
         
-",lustig-d-gsellschaftere,37,5,0.0,0.13513513513513514
+",56,lustig-d-gsellschaftere,37,5,0.0,0.13513513513513514
 169,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2311,7 +2311,7 @@ Wo Se noch mehr Angst müess ha, das isch vor de
           
 
         
-",lustig-d-gsellschaftere,35,6,0.21938057588365298,0.17142857142857143
+",56,lustig-d-gsellschaftere,35,6,0.21938057588365298,0.17142857142857143
 170,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -2323,7 +2323,7 @@ Oscar
 Das isch jetz emol ag'nehm az'höre!
 
         
-",lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
+",56,lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
 171,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2381,7 +2381,7 @@ ich weiss nitt, was ich empfind bi dàre Person!... 's
                     
 
         
-",lustig-d-gsellschaftere,107,18,0.062373529093315026,0.16822429906542055
+",57,lustig-d-gsellschaftere,107,18,0.062373529093315026,0.16822429906542055
 172,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2403,7 +2403,7 @@ Mi Herz mir mache z'schla!
           
 
         
-",lustig-d-gsellschaftere,23,4,0.0,0.17391304347826086
+",57,lustig-d-gsellschaftere,23,4,0.0,0.17391304347826086
 173,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2438,7 +2438,7 @@ wieder die gliche-n-Empfindung... ich weiss gar nitt,
           
 
         
-",lustig-d-gsellschaftere,49,7,0.0,0.14285714285714285
+",57,lustig-d-gsellschaftere,49,7,0.0,0.14285714285714285
 174,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2452,7 +2452,7 @@ Awer hingege, nitt wohr, zähl ich druf, ass Sie in nieme
                     
 
         
-",lustig-d-gsellschaftere,30,3,0.151,0.1
+",58,lustig-d-gsellschaftere,30,3,0.151,0.1
 175,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2464,7 +2464,7 @@ Retro, retro!... riehrt Se mich nimmig a!... ich weiss
                     
 
         
-",lustig-d-gsellschaftere,19,1,0.0,0.05263157894736842
+",58,lustig-d-gsellschaftere,19,1,0.0,0.05263157894736842
 177,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2479,7 +2479,7 @@ Ich will nit meh wisse, wenn ich Ere sag! verlosst mich,
                     
 
         
-",lustig-d-gsellschaftere,21,1,0.0,0.047619047619047616
+",59,lustig-d-gsellschaftere,21,1,0.0,0.047619047619047616
 178,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2491,7 +2491,7 @@ Sie müess nitt bös werde, Jumpfer Faste... ich gang...
                     
 
         
-",lustig-d-gsellschaftere,20,3,0.1777290437993845,0.15
+",59,lustig-d-gsellschaftere,20,3,0.1777290437993845,0.15
 179,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2509,7 +2509,7 @@ Ich zittter ganz, ohne z'wisse worum...
                     
 
         
-",lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
+",59,lustig-d-gsellschaftere,31,6,0.0,0.1935483870967742
 180,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -2525,7 +2525,7 @@ Merci, Jumpfer Faste... Sie isch charmant...
                     
 
         
-",lustig-d-gsellschaftere,31,4,0.00225,0.12903225806451613
+",60,lustig-d-gsellschaftere,31,4,0.00225,0.12903225806451613
 181,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2544,7 +2544,7 @@ Die Aüge! un wie se das g'sàit hat « Sie isch charmant
                     
 
         
-",lustig-d-gsellschaftere,58,12,0.09202071721372586,0.20689655172413793
+",60,lustig-d-gsellschaftere,58,12,0.09202071721372586,0.20689655172413793
 182,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -2562,7 +2562,7 @@ Sie isch allei! .. desto besser .. mi Fraü isch
                     
 
         
-",lustig-d-gsellschaftere,39,8,0.07362400193356983,0.20512820512820512
+",60,lustig-d-gsellschaftere,39,8,0.07362400193356983,0.20512820512820512
 183,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2572,7 +2572,7 @@ Jumpfer Faste.
 Züegschpliesse!
 
         
-",lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
+",61,lustig-d-gsellschaftere,3,1,0.0,0.3333333333333333
 184,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2581,7 +2581,7 @@ Herr Schimmel.
 Eh jo... fir ass uns nieme störe ka...
 
         
-",lustig-d-gsellschaftere,10,4,0.0,0.4
+",61,lustig-d-gsellschaftere,10,4,0.0,0.4
 185,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2598,7 +2598,7 @@ Was wird jetz uf mich warte!
                     
 
         
-",lustig-d-gsellschaftere,17,4,0.0,0.23529411764705882
+",61,lustig-d-gsellschaftere,17,4,0.0,0.23529411764705882
 186,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2632,7 +2632,7 @@ Do ganz allei.
           
 
         
-",lustig-d-gsellschaftere,36,8,0.07362400193356983,0.2222222222222222
+",62,lustig-d-gsellschaftere,36,8,0.07362400193356983,0.2222222222222222
 187,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
@@ -2654,7 +2654,7 @@ Denn schwinde thüet d'Zit!
             
 
           
-",lustig-d-gsellschaftere,18,5,0.08657846337185165,0.2777777777777778
+",62,lustig-d-gsellschaftere,18,5,0.08657846337185165,0.2777777777777778
 188,comedy,"Jumpfer FASTE
                     ",F,,,,"
             
@@ -2677,7 +2677,7 @@ Verliert er si Zit!
             
 
           
-",lustig-d-gsellschaftere,17,5,0.08657846337185165,0.29411764705882354
+",62,lustig-d-gsellschaftere,17,5,0.08657846337185165,0.29411764705882354
 189,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -2700,7 +2700,7 @@ Se schint e wenig schich z'si, die Jumpfer Tülipa... un
                     
 
         
-",lustig-d-gsellschaftere,56,6,0.0,0.10714285714285714
+",63,lustig-d-gsellschaftere,56,6,0.0,0.10714285714285714
 190,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2710,7 +2710,7 @@ Jumpfer Faste.
 Ich bi g'wiss nitt mied, Herr Schimmel!
 
         
-",lustig-d-gsellschaftere,9,4,0.09889652740842075,0.4444444444444444
+",63,lustig-d-gsellschaftere,9,4,0.09889652740842075,0.4444444444444444
 191,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2721,7 +2721,7 @@ Eh, kàm Se doch nur, mr hàn nur e-n-Aügesblick Zit un
                     
 
         
-",lustig-d-gsellschaftere,20,6,0.0755,0.3
+",63,lustig-d-gsellschaftere,20,6,0.0755,0.3
 192,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2733,7 +2733,7 @@ Nei, nei... ich will Ene respectvoll, awer ufrecht
                     
 
         
-",lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
+",64,lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
 193,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2744,7 +2744,7 @@ Herr Schimmel.
                     
 
         
-",lustig-d-gsellschaftere,19,5,0.10663742627963071,0.2631578947368421
+",64,lustig-d-gsellschaftere,19,5,0.10663742627963071,0.2631578947368421
 194,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2758,7 +2758,7 @@ Alle Heilige solle mir bisteh!
                     
 
         
-",lustig-d-gsellschaftere,18,4,0.027,0.2222222222222222
+",64,lustig-d-gsellschaftere,18,4,0.027,0.2222222222222222
 195,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2771,7 +2771,7 @@ Besser züe mr, besser züe mr... mach ich Ihre denn Angst
                     
 
         
-",lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
+",65,lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
 196,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2781,7 +2781,7 @@ Jumpfer Faste.
 O Gott, o Gott!...
 
         
-",lustig-d-gsellschaftere,6,3,0.0,0.5
+",65,lustig-d-gsellschaftere,6,3,0.0,0.5
 197,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2797,7 +2797,7 @@ Ich weiss nitt... awer wie me mir g'sàit hat, sott Sie
           
 
         
-",lustig-d-gsellschaftere,38,7,0.0,0.18421052631578946
+",65,lustig-d-gsellschaftere,38,7,0.0,0.18421052631578946
 198,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2809,7 +2809,7 @@ D'Welt isch halt verdorwe... ich verzeih ere, wenn se 's
                     
 
         
-",lustig-d-gsellschaftere,17,5,0.22608092792851747,0.29411764705882354
+",66,lustig-d-gsellschaftere,17,5,0.22608092792851747,0.29411764705882354
 199,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2823,7 +2823,7 @@ Voyons... thàt Se sich jetz doch nimmig verstelle!...
                     
 
         
-",lustig-d-gsellschaftere,43,6,0.0,0.13953488372093023
+",66,lustig-d-gsellschaftere,43,6,0.0,0.13953488372093023
 200,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2836,7 +2836,7 @@ Jumpfer Faste
 Dà Mann isch dr böse Geist selbst!
 
         
-",lustig-d-gsellschaftere,13,5,0.10663742627963071,0.38461538461538464
+",66,lustig-d-gsellschaftere,13,5,0.10663742627963071,0.38461538461538464
 201,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2848,7 +2848,7 @@ Also, thàt Se jetz dà Larifari absite lo... Sie denkt
                     
 
         
-",lustig-d-gsellschaftere,29,6,0.16582563200430253,0.20689655172413793
+",67,lustig-d-gsellschaftere,29,6,0.16582563200430253,0.20689655172413793
 202,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2858,7 +2858,7 @@ Jumpfer Faste.
 Ihre Fraü trumpiere!
 
         
-",lustig-d-gsellschaftere,5,2,0.21644615842962914,0.4
+",67,lustig-d-gsellschaftere,5,2,0.21644615842962914,0.4
 203,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2870,7 +2870,7 @@ Oh, 's isch nitt difficil... awer doch, mit ihre-n-Idee,
                     
 
         
-",lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
+",67,lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
 204,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2883,7 +2883,7 @@ Jumpfer Faste
 Worum bin ich nitt mit Taübheit g'schlage!
 
         
-",lustig-d-gsellschaftere,13,2,0.0,0.15384615384615385
+",68,lustig-d-gsellschaftere,13,2,0.0,0.15384615384615385
 205,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2895,7 +2895,7 @@ Awer Sie brücht kei Angst z'ha... ich will mi Wille scho
                     
 
         
-",lustig-d-gsellschaftere,26,5,0.11879999999999999,0.19230769230769232
+",68,lustig-d-gsellschaftere,26,5,0.11879999999999999,0.19230769230769232
 206,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2908,7 +2908,7 @@ Jumpfer Faste
 Mi Zunge-n-isch as wie g'lähmt!
 
         
-",lustig-d-gsellschaftere,13,2,0.0,0.15384615384615385
+",68,lustig-d-gsellschaftere,13,2,0.0,0.15384615384615385
 207,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2920,7 +2920,7 @@ Eh bien... was hat Se denn... ich verstand Se wirklig
                     
 
         
-",lustig-d-gsellschaftere,32,7,0.06471428571428571,0.21875
+",69,lustig-d-gsellschaftere,32,7,0.06471428571428571,0.21875
 208,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2933,7 +2933,7 @@ Jumpfer Faste
 Dr Abscheü macht mich z'verstumme!
 
         
-",lustig-d-gsellschaftere,12,3,0.0,0.25
+",69,lustig-d-gsellschaftere,12,3,0.0,0.25
 209,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -2942,7 +2942,7 @@ Herr Schimmel.
 So thàt Se denn emol rede!
 
         
-",lustig-d-gsellschaftere,8,2,0.0,0.25
+",69,lustig-d-gsellschaftere,8,2,0.0,0.25
 210,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2958,7 +2958,7 @@ Jà, ich will rede, Sie verbrecherischer Mensch ass Sie
                     
 
         
-",lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
+",70,lustig-d-gsellschaftere,28,3,0.0,0.10714285714285714
 211,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -2972,7 +2972,7 @@ Was thüet Se mir jetz do verzähle, was soll das
                     
 
         
-",lustig-d-gsellschaftere,17,4,0.0,0.23529411764705882
+",70,lustig-d-gsellschaftere,17,4,0.0,0.23529411764705882
 212,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -2984,7 +2984,7 @@ Ich will rede-n-un will Ihre-n-ehrlose Plàn in alle Lit
                     
 
         
-",lustig-d-gsellschaftere,16,1,0.0,0.0625
+",70,lustig-d-gsellschaftere,16,1,0.0,0.0625
 213,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -2997,7 +2997,7 @@ Décidément... ich glaüb wirklig, Sie verliert dr Kopf!
                     
 
         
-",lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
+",71,lustig-d-gsellschaftere,15,5,0.0,0.3333333333333333
 214,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3009,7 +3009,7 @@ Riehre Se mich nitt a!... thien Se mich nitt mit Ihrem
                     
 
         
-",lustig-d-gsellschaftere,17,1,0.0,0.058823529411764705
+",71,lustig-d-gsellschaftere,17,1,0.0,0.058823529411764705
 215,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3021,7 +3021,7 @@ Nur g'mach... nur nitt so hitzig... 's müess do ne
                     
 
         
-",lustig-d-gsellschaftere,19,3,0.0,0.15789473684210525
+",71,lustig-d-gsellschaftere,19,3,0.0,0.15789473684210525
 216,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3041,7 +3041,7 @@ Nei, ich bi nitt was Sie meine, Sie unverschàmter
           
 
         
-",lustig-d-gsellschaftere,53,7,0.04685714285714286,0.1320754716981132
+",72,lustig-d-gsellschaftere,53,7,0.04685714285714286,0.1320754716981132
 217,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3055,7 +3055,7 @@ Hat me jetz scho-n-emol eso ebbes g'sàh!... isch die
                     
 
         
-",lustig-d-gsellschaftere,42,6,0.13871390921698631,0.14285714285714285
+",72,lustig-d-gsellschaftere,42,6,0.13871390921698631,0.14285714285714285
 218,comedy,EMIL,M,,,,"
           
 Emil
@@ -3071,7 +3071,7 @@ Was fir e Züefall!... sie, wo-n-ich scho so lang im
                     
 
         
-",lustig-d-gsellschaftere,47,7,0.06471428571428571,0.14893617021276595
+",72,lustig-d-gsellschaftere,47,7,0.06471428571428571,0.14893617021276595
 219,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3080,7 +3080,7 @@ Herr Schimmel.
 Ah, Dü bisch's, Emil... thüesch Dü mich süeche?
 
         
-",lustig-d-gsellschaftere,11,3,0.0,0.2727272727272727
+",73,lustig-d-gsellschaftere,11,3,0.0,0.2727272727272727
 221,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3092,7 +3092,7 @@ Herr Schimmel.
                     
 
         
-",lustig-d-gsellschaftere,28,6,0.1241303206902404,0.21428571428571427
+",73,lustig-d-gsellschaftere,28,6,0.1241303206902404,0.21428571428571427
 222,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3101,7 +3101,7 @@ Emil.
 Un ich bi ganz sicher, ass es se nitt isch!
 
         
-",lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
+",74,lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
 223,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3110,7 +3110,7 @@ Herr Schimmel.
 Wieso das?...
 
         
-",lustig-d-gsellschaftere,4,2,0.0,0.5
+",74,lustig-d-gsellschaftere,4,2,0.0,0.5
 224,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3122,7 +3122,7 @@ Se-n-isch grad vorig nàwe mr dure-n-im Garre, ohne mich
                     
 
         
-",lustig-d-gsellschaftere,33,5,0.0,0.15151515151515152
+",74,lustig-d-gsellschaftere,33,5,0.0,0.15151515151515152
 225,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3131,7 +3131,7 @@ Herr Schimmel.
 Erkennt?... was witt mit dem sage?
 
         
-",lustig-d-gsellschaftere,8,2,0.0,0.25
+",75,lustig-d-gsellschaftere,8,2,0.0,0.25
 226,comedy,EMIL,M,,,,"
           
 Emil
@@ -3147,7 +3147,7 @@ Jetz ha-n-ich mich verrothe!...
                     
 
         
-",lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
+",75,lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
 227,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3159,7 +3159,7 @@ Was isch jetz das wieder fir e G'heimniss?... g'schwind
                     
 
         
-",lustig-d-gsellschaftere,21,4,0.0,0.19047619047619047
+",75,lustig-d-gsellschaftere,21,4,0.0,0.19047619047619047
 228,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3199,7 +3199,7 @@ Ihr' Andacht hat mich g'riehrt,
           
 
         
-",lustig-d-gsellschaftere,78,4,0.0,0.05128205128205128
+",76,lustig-d-gsellschaftere,78,4,0.0,0.05128205128205128
 229,comedy,EMIL,M,,,,"
             
 Emil.
@@ -3215,7 +3215,7 @@ Un hätt mich nitt trumpiert!
             
 
           
-",lustig-d-gsellschaftere,13,1,0.328,0.07692307692307693
+",76,lustig-d-gsellschaftere,13,1,0.328,0.07692307692307693
 230,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr Schimmel.
@@ -3231,7 +3231,7 @@ Ich ha mich halt trumpiert!
             
 
           
-",lustig-d-gsellschaftere,13,5,0.0,0.38461538461538464
+",76,lustig-d-gsellschaftere,13,5,0.0,0.38461538461538464
 231,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3248,7 +3248,7 @@ Derno wàr's also d'wirklige Jumpfer Faste, wo mr
           
 
         
-",lustig-d-gsellschaftere,35,5,0.0,0.14285714285714285
+",77,lustig-d-gsellschaftere,35,5,0.0,0.14285714285714285
 232,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3257,7 +3257,7 @@ Emil.
 Wenn Dü's halt durchüs ha witt... awer...
 
         
-",lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
+",77,lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
 233,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3270,7 +3270,7 @@ Ich will lüege, ass ich se-n-eso bol as möglig üs em Hüs
           
 
         
-",lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
+",77,lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
 235,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3282,7 +3282,7 @@ Wie eher wie liewer... ich will mit Dinere Müetter rede
                     
 
         
-",lustig-d-gsellschaftere,33,6,0.0,0.18181818181818182
+",78,lustig-d-gsellschaftere,33,6,0.0,0.18181818181818182
 236,comedy,EMIL,M,,,,"
           
 Emil
@@ -3296,7 +3296,7 @@ Mi Müetter o noch... jetz ka-n-i nitt mit em Oscar
                     
 
         
-",lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
+",78,lustig-d-gsellschaftere,18,1,0.0,0.05555555555555555
 237,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -3310,7 +3310,7 @@ Madame Schimmel
                     
 
         
-",lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
+",79,lustig-d-gsellschaftere,22,4,0.0,0.18181818181818182
 238,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3319,7 +3319,7 @@ Herr Schimmel.
 Was isch... was hasch wieder?...
 
         
-",lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
+",79,lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
 239,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3331,7 +3331,7 @@ Was ich ha?... Dü brüchsch noch z'froge!... Di Complott
                     
 
         
-",lustig-d-gsellschaftere,33,4,0.0,0.12121212121212122
+",79,lustig-d-gsellschaftere,33,4,0.0,0.12121212121212122
 240,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -3343,7 +3343,7 @@ Herr Schimmel
 Dr Brief vo minere Schwester! desto besser!...
 
         
-",lustig-d-gsellschaftere,13,3,0.0,0.23076923076923078
+",80,lustig-d-gsellschaftere,13,3,0.0,0.23076923076923078
 241,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3352,7 +3352,7 @@ Madame Schimmel.
 Emil, gang... loss uns allei...
 
         
-",lustig-d-gsellschaftere,7,4,0.2877633726587788,0.5714285714285714
+",80,lustig-d-gsellschaftere,7,4,0.2877633726587788,0.5714285714285714
 242,comedy,EMIL,M,,,,"
           
 Emil.
@@ -3369,7 +3369,7 @@ Ich verlang nitt mehr...
                     
 
         
-",lustig-d-gsellschaftere,40,3,0.19799999999999998,0.075
+",80,lustig-d-gsellschaftere,40,3,0.19799999999999998,0.075
 243,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3385,7 +3385,7 @@ Also thüesch Dü mich hintergeh un, vereinigt mit Dinre
                     
 
         
-",lustig-d-gsellschaftere,53,9,0.16322222222222224,0.16981132075471697
+",81,lustig-d-gsellschaftere,53,9,0.16322222222222224,0.16981132075471697
 244,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -3402,7 +3402,7 @@ Güet, ich will gli vo ihrem Irrthum profetiere...
                     
 
         
-",lustig-d-gsellschaftere,36,10,0.0453,0.2777777777777778
+",81,lustig-d-gsellschaftere,36,10,0.0453,0.2777777777777778
 245,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3411,7 +3411,7 @@ Madame Schimmel.
 Dü g'stehsch's also i!
 
         
-",lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
+",81,lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
 246,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3424,7 +3424,7 @@ Natirlig... denn ich bi jo z'erst trumpiert worde... die
                     
 
         
-",lustig-d-gsellschaftere,32,4,0.0,0.125
+",82,lustig-d-gsellschaftere,32,4,0.0,0.125
 247,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3433,7 +3433,7 @@ Madame Schimmel.
 Worum... was isch denn gsi?...
 
         
-",lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
+",82,lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
 248,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3444,7 +3444,7 @@ Eh, vorig bin ich do züefällig allei bi-n-ere gsi... un
                     
 
         
-",lustig-d-gsellschaftere,17,4,0.14724800386713965,0.23529411764705882
+",82,lustig-d-gsellschaftere,17,4,0.14724800386713965,0.23529411764705882
 249,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3453,7 +3453,7 @@ Madame Schimmel.
 Un do hat se... was hat se?...
 
         
-",lustig-d-gsellschaftere,9,2,0.0,0.2222222222222222
+",83,lustig-d-gsellschaftere,9,2,0.0,0.2222222222222222
 250,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3464,7 +3464,7 @@ D'Coquette g'spielt... ass se mir nitt e Declaration
                     
 
         
-",lustig-d-gsellschaftere,16,3,0.0,0.1875
+",83,lustig-d-gsellschaftere,16,3,0.0,0.1875
 251,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3475,7 +3475,7 @@ Isch's möglig!...
           
 
         
-",lustig-d-gsellschaftere,5,2,0.0,0.4
+",83,lustig-d-gsellschaftere,5,2,0.0,0.4
 252,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -3486,7 +3486,7 @@ Wenn ich nitt eso standhaft gsi wàr... awer in dere
                     
 
         
-",lustig-d-gsellschaftere,17,3,0.0,0.17647058823529413
+",84,lustig-d-gsellschaftere,17,3,0.0,0.17647058823529413
 253,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3497,7 +3497,7 @@ Das isch jo jetz abscheülig! ich hoff, De wirsch se vor
                     
 
         
-",lustig-d-gsellschaftere,16,4,0.0,0.25
+",84,lustig-d-gsellschaftere,16,4,0.0,0.25
 254,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -3509,7 +3509,7 @@ Herr Schimmel
 Ich ha's g'wunne!...
 
         
-",lustig-d-gsellschaftere,10,3,0.0,0.3
+",84,lustig-d-gsellschaftere,10,3,0.0,0.3
 255,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3520,7 +3520,7 @@ Doch, do isch se glaüb... se kunnt grad recht... ich
                     
 
         
-",lustig-d-gsellschaftere,17,5,0.0,0.29411764705882354
+",85,lustig-d-gsellschaftere,17,5,0.0,0.29411764705882354
 256,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3532,7 +3532,7 @@ Aha... find ich Se-n-endlig, Madame Schimmel... ich ha
                     
 
         
-",lustig-d-gsellschaftere,16,4,0.0,0.25
+",85,lustig-d-gsellschaftere,16,4,0.0,0.25
 257,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -3546,7 +3546,7 @@ Ich ka nimmig schwige!... 's müess üse!... Jumpfer
                     
 
         
-",lustig-d-gsellschaftere,20,4,0.0,0.2
+",85,lustig-d-gsellschaftere,20,4,0.0,0.2
 258,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3556,7 +3556,7 @@ Jumpfer Faste
 Jumpfer Tülipa?
 
         
-",lustig-d-gsellschaftere,4,2,0.0,0.5
+",86,lustig-d-gsellschaftere,4,2,0.0,0.5
 259,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3568,7 +3568,7 @@ Madame Schimmel.
                     
 
         
-",lustig-d-gsellschaftere,27,5,0.0656,0.18518518518518517
+",86,lustig-d-gsellschaftere,27,5,0.0656,0.18518518518518517
 260,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3578,7 +3578,7 @@ Jumpfer Faste.
 Ich süech vergewes Ihre Worte-n-üsz'lege!
 
         
-",lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
+",86,lustig-d-gsellschaftere,9,3,0.0,0.3333333333333333
 261,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3606,7 +3606,7 @@ Was ich mit dem will sage!
           
 
         
-",lustig-d-gsellschaftere,29,6,0.19066666666666665,0.20689655172413793
+",87,lustig-d-gsellschaftere,29,6,0.19066666666666665,0.20689655172413793
 262,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3623,7 +3623,7 @@ Se mache mich bol hinterfir;
           
 
         
-",lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
+",87,lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
 263,comedy,"Jumpfer FASTE
                     ",F,,,,"
             
@@ -3643,7 +3643,7 @@ Ich alles müess ertrage!
             
 
           
-",lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
+",87,lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
 264,comedy,Herr SCHIMMEL,M,,,,"
             
 Herr un Madame Schimmel.
@@ -3662,7 +3662,7 @@ Ka-n-ich das nitt vertrage!
             
 
           
-",lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
+",88,lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
 265,comedy,"Madamme SCHIMMEL
                     ",F,,,,"
             
@@ -3682,7 +3682,7 @@ Ka-n-ich das nitt vertrage!
             
 
           
-",lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
+",88,lustig-d-gsellschaftere,18,4,0.0,0.2222222222222222
 266,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3695,7 +3695,7 @@ Jumpfer Tülipa, ich hätt Ere viellicht noch känne
                     
 
         
-",lustig-d-gsellschaftere,34,8,0.0,0.23529411764705882
+",88,lustig-d-gsellschaftere,34,8,0.0,0.23529411764705882
 267,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3711,7 +3711,7 @@ Thüet er mich aklage?... 's hat sunscht nit meh
                     
 
         
-",lustig-d-gsellschaftere,23,2,0.0,0.08695652173913043
+",89,lustig-d-gsellschaftere,23,2,0.0,0.08695652173913043
 268,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3726,7 +3726,7 @@ Sie ka wohl denke, ass Sie uf das hi nimmig do im Hüs ka
                     
 
         
-",lustig-d-gsellschaftere,35,9,0.0,0.2571428571428571
+",89,lustig-d-gsellschaftere,35,9,0.0,0.2571428571428571
 269,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3759,7 +3759,7 @@ halte
                     
 
         
-",lustig-d-gsellschaftere,138,18,0.09955511197047547,0.13043478260869565
+",89,lustig-d-gsellschaftere,138,18,0.09955511197047547,0.13043478260869565
 270,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -3778,7 +3778,7 @@ Wart e-n-Aügesblick... Dü machsch Dich derno dervo,
                     
 
         
-",lustig-d-gsellschaftere,38,3,0.10933333333333334,0.07894736842105263
+",90,lustig-d-gsellschaftere,38,3,0.10933333333333334,0.07894736842105263
 271,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3793,7 +3793,7 @@ Ne Herr!... ne Herr!... wer sin Sie?... wo kämme Sie
                     
 
         
-",lustig-d-gsellschaftere,27,5,0.0,0.18518518518518517
+",90,lustig-d-gsellschaftere,27,5,0.0,0.18518518518518517
 272,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -3804,7 +3804,7 @@ B'schaüt se mich emol recht, Jumpfer Faste... Sie wird
                     
 
         
-",lustig-d-gsellschaftere,15,2,0.0,0.13333333333333333
+",90,lustig-d-gsellschaftere,15,2,0.0,0.13333333333333333
 273,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3820,7 +3820,7 @@ Die Stimm isch mir bekannt...
                     
 
         
-",lustig-d-gsellschaftere,33,5,0.1376,0.15151515151515152
+",91,lustig-d-gsellschaftere,33,5,0.1376,0.15151515151515152
 275,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3833,7 +3833,7 @@ Ne Herr!... e wirkliger Herr!... un si Hand isch in
                     
 
         
-",lustig-d-gsellschaftere,29,9,0.027777777777777776,0.3103448275862069
+",91,lustig-d-gsellschaftere,29,9,0.027777777777777776,0.3103448275862069
 276,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -3842,7 +3842,7 @@ Oscar.
 Sie müess mr verzeihe... thàt Se mich ahöre...
 
         
-",lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
+",92,lustig-d-gsellschaftere,9,1,0.0,0.1111111111111111
 277,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3854,7 +3854,7 @@ Kämme Se nitt züe mr... um kei Schritt... retro
                     
 
         
-",lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
+",92,lustig-d-gsellschaftere,12,1,0.0,0.08333333333333333
 278,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -3868,7 +3868,7 @@ Oscar.
                     
 
         
-",lustig-d-gsellschaftere,45,6,0.08702473534734306,0.13333333333333333
+",92,lustig-d-gsellschaftere,45,6,0.08702473534734306,0.13333333333333333
 279,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3883,7 +3883,7 @@ Was wird jetz eigentlig noch iwer mich ku in dem Hüs!...
                     
 
         
-",lustig-d-gsellschaftere,27,7,0.08421948461164527,0.25925925925925924
+",93,lustig-d-gsellschaftere,27,7,0.08421948461164527,0.25925925925925924
 280,comedy,EMIL,M,,,,"
           
 Emil
@@ -3900,7 +3900,7 @@ Ich müess jetz doch mache-n-ass ich furt kumm... dr Pape
                     
 
         
-",lustig-d-gsellschaftere,32,3,0.0,0.09375
+",93,lustig-d-gsellschaftere,32,3,0.0,0.09375
 281,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -3911,7 +3911,7 @@ Also nit fir ungüet Jumpfer Faste... mir wànn als güete
                     
 
         
-",lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
+",93,lustig-d-gsellschaftere,14,4,0.0,0.2857142857142857
 282,comedy,EMIL,M,,,,"
           
 Emil
@@ -3929,7 +3929,7 @@ Herrje, d'Mame!...
           
 
         
-",lustig-d-gsellschaftere,20,2,0.008,0.1
+",94,lustig-d-gsellschaftere,20,2,0.008,0.1
 283,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3945,7 +3945,7 @@ Jumpfer Faste
                     
 
         
-",lustig-d-gsellschaftere,29,2,0.0,0.06896551724137931
+",94,lustig-d-gsellschaftere,29,2,0.0,0.06896551724137931
 284,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -3958,7 +3958,7 @@ Ich zahl uf Ihre Verschwiegeheit!
                     
 
         
-",lustig-d-gsellschaftere,11,3,0.0,0.2727272727272727
+",94,lustig-d-gsellschaftere,11,3,0.0,0.2727272727272727
 285,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -3970,7 +3970,7 @@ Madame Schimmel
 Aha... er isch noch do!
 
         
-",lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
+",95,lustig-d-gsellschaftere,14,3,0.0,0.21428571428571427
 286,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -3982,7 +3982,7 @@ Verzeiht Se mr, ass ich no nitt furt bi... ich will mich
                     
 
         
-",lustig-d-gsellschaftere,20,4,0.14738409807037922,0.2
+",95,lustig-d-gsellschaftere,20,4,0.14738409807037922,0.2
 287,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -3993,7 +3993,7 @@ Ah so!... Sie wànn sich uf dr Weg mache!... 's handelt
                     
 
         
-",lustig-d-gsellschaftere,18,4,0.14738409807037922,0.2222222222222222
+",95,lustig-d-gsellschaftere,18,4,0.14738409807037922,0.2222222222222222
 288,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4005,7 +4005,7 @@ Was isch denn wieder... was mag Sie jetz in eso ne Zorn
                     
 
         
-",lustig-d-gsellschaftere,15,2,0.0,0.13333333333333333
+",96,lustig-d-gsellschaftere,15,2,0.0,0.13333333333333333
 289,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4019,7 +4019,7 @@ Un Sie froge noch! meine Se ebbe, ich kenn Sie nitt,
                     
 
         
-",lustig-d-gsellschaftere,44,6,0.0,0.13636363636363635
+",96,lustig-d-gsellschaftere,44,6,0.0,0.13636363636363635
 290,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4033,7 +4033,7 @@ O das noch!... ha-n-ich denn no nitt g'nüe g'litte!...
                     
 
         
-",lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
+",96,lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
 291,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4046,7 +4046,7 @@ Ah so... Sie gehn uf dr Ball als Jumpfere-n-aglegt un
                     
 
         
-",lustig-d-gsellschaftere,39,8,0.0,0.20512820512820512
+",97,lustig-d-gsellschaftere,39,8,0.0,0.20512820512820512
 292,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4058,7 +4058,7 @@ Hat Sie denn eigentlig g'schwore, mich ganz üs de Füege
                     
 
         
-",lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
+",97,lustig-d-gsellschaftere,14,2,0.0,0.14285714285714285
 293,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4094,7 +4094,7 @@ Am Fenster do im Hüs;
           
 
         
-",lustig-d-gsellschaftere,71,9,0.0,0.1267605633802817
+",97,lustig-d-gsellschaftere,71,9,0.0,0.1267605633802817
 294,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Madame Schimmel.
@@ -4119,7 +4119,7 @@ Sie derfe's glaüwe mir!
             
 
           
-",lustig-d-gsellschaftere,27,5,0.00179999999999998,0.18518518518518517
+",98,lustig-d-gsellschaftere,27,5,0.00179999999999998,0.18518518518518517
 295,comedy,"Jumpfer FASTE
                     ",F,,,,"
             
@@ -4145,7 +4145,7 @@ Ich wird noch hinterfir!
             
 
           
-",lustig-d-gsellschaftere,24,4,0.002249999999999975,0.16666666666666666
+",98,lustig-d-gsellschaftere,24,4,0.002249999999999975,0.16666666666666666
 296,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4154,7 +4154,7 @@ Madame Schimmel.
 G'wiss... das geht Ene jetz emol nitt dure!
 
         
-",lustig-d-gsellschaftere,10,2,0.0,0.2
+",98,lustig-d-gsellschaftere,10,2,0.0,0.2
 297,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4169,7 +4169,7 @@ Ich ha jetz satt an dàne Sache un will nit meh wisse...
           
 
         
-",lustig-d-gsellschaftere,25,5,0.0,0.2
+",99,lustig-d-gsellschaftere,25,5,0.0,0.2
 298,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4183,7 +4183,7 @@ Se gehn mir awer nitt eso do üse... Sie verdiene
                     
 
         
-",lustig-d-gsellschaftere,43,8,0.0,0.18604651162790697
+",99,lustig-d-gsellschaftere,43,8,0.0,0.18604651162790697
 299,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4195,7 +4195,7 @@ Isch Sie denn ganz vo Sinne!... un will Se mich jetz
                     
 
         
-",lustig-d-gsellschaftere,19,2,0.0,0.10526315789473684
+",99,lustig-d-gsellschaftere,19,2,0.0,0.10526315789473684
 300,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4204,7 +4204,7 @@ Madame Schimmel.
 Einstwile g'schpliess ich Sie jetz i do!
 
         
-",lustig-d-gsellschaftere,9,2,0.0,0.2222222222222222
+",100,lustig-d-gsellschaftere,9,2,0.0,0.2222222222222222
 301,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4218,7 +4218,7 @@ Oh nei!... thien Se das nitt!... liewer alles
                     
 
         
-",lustig-d-gsellschaftere,29,3,0.0,0.10344827586206896
+",100,lustig-d-gsellschaftere,29,3,0.0,0.10344827586206896
 302,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4229,7 +4229,7 @@ Ich los uf nit meh!...
 .
 
         
-",lustig-d-gsellschaftere,12,4,0.0,0.3333333333333333
+",100,lustig-d-gsellschaftere,12,4,0.0,0.3333333333333333
 303,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4244,7 +4244,7 @@ Dm alles, was Ere lieb isch, thàt Se das nitt!
                     
 
         
-",lustig-d-gsellschaftere,27,3,0.0,0.1111111111111111
+",101,lustig-d-gsellschaftere,27,3,0.0,0.1111111111111111
 304,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4257,7 +4257,7 @@ Au revoir, Herr Oscar!
                     
 
         
-",lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
+",101,lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
 305,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4270,7 +4270,7 @@ Ig'sperrt mit dem junge Mensch, wo alles im Stand
                     
 
         
-",lustig-d-gsellschaftere,25,4,0.10900890930265357,0.16
+",101,lustig-d-gsellschaftere,25,4,0.10900890930265357,0.16
 307,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4284,7 +4284,7 @@ Hat sich denn hit alles verschwore gege mich!...
                     
 
         
-",lustig-d-gsellschaftere,19,3,0.0,0.15789473684210525
+",102,lustig-d-gsellschaftere,19,3,0.0,0.15789473684210525
 309,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4303,7 +4303,7 @@ Ne Idee!... ich gschpliess ne-n-i un wirf dr Schlissel
                     
 
         
-",lustig-d-gsellschaftere,64,9,0.059243014599794835,0.140625
+",103,lustig-d-gsellschaftere,64,9,0.059243014599794835,0.140625
 310,comedy,EMIL,M,,,,"
           
 Emil
@@ -4315,7 +4315,7 @@ Emil
 Jumpfer Faste... ich wott... ich hätt...
 
         
-",lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
+",103,lustig-d-gsellschaftere,11,1,0.0,0.09090909090909091
 311,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4325,7 +4325,7 @@ Jumpfer Faste.
 Herrgott, mi Heiliger!...
 
         
-",lustig-d-gsellschaftere,5,2,0.054,0.4
+",103,lustig-d-gsellschaftere,5,2,0.054,0.4
 312,comedy,EMIL,M,,,,"
           
 Emil
@@ -4337,7 +4337,7 @@ Emil
 Hat se mich ebbe-n-o scho bemerkt g'ha frieiher?
 
         
-",lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
+",104,lustig-d-gsellschaftere,15,1,0.0,0.06666666666666667
 313,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4350,7 +4350,7 @@ Sag mir, unbekannt G'schäpf, kunnsch Dü üs em Himmel fir
                     
 
         
-",lustig-d-gsellschaftere,29,5,0.0,0.1724137931034483
+",104,lustig-d-gsellschaftere,29,5,0.0,0.1724137931034483
 314,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4363,7 +4363,7 @@ Ich weiss sicher nitt, Jumpfer Faste, wie Sie das
           
 
         
-",lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
+",104,lustig-d-gsellschaftere,11,2,0.0,0.18181818181818182
 315,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4376,7 +4376,7 @@ Oh, ich erkenn Dich ganz güet... grad eso bisch mir als
                     
 
         
-",lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385
+",105,lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385
 316,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4385,7 +4385,7 @@ Emil.
 Ich bi dr Emil... dr Suhn üs em Hüs...
 
         
-",lustig-d-gsellschaftere,10,1,0.0,0.1
+",105,lustig-d-gsellschaftere,10,1,0.0,0.1
 317,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4397,7 +4397,7 @@ Was ha-n-i g'sàit... ganz eifach e Mensch... gehn Se,
                     
 
         
-",lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
+",105,lustig-d-gsellschaftere,18,3,0.0,0.16666666666666666
 318,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4408,7 +4408,7 @@ Awer, Jumpfer Faste... wenn Sie wisse thàt, wie lang ass
                     
 
         
-",lustig-d-gsellschaftere,16,3,0.151,0.1875
+",106,lustig-d-gsellschaftere,16,3,0.151,0.1875
 319,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4418,7 +4418,7 @@ Jumpfer Faste.
 Was, er o?...
 
         
-",lustig-d-gsellschaftere,5,1,0.0,0.2
+",106,lustig-d-gsellschaftere,5,1,0.0,0.2
 321,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4434,7 +4434,7 @@ Nei, riefe Se nitt... 's isch jetz z'spot... ich ka's
                     
 
         
-",lustig-d-gsellschaftere,38,6,0.2030098511303909,0.15789473684210525
+",107,lustig-d-gsellschaftere,38,6,0.2030098511303909,0.15789473684210525
 323,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4447,7 +4447,7 @@ Jumpfer Faste.
                     
 
         
-",lustig-d-gsellschaftere,22,3,0.0,0.13636363636363635
+",107,lustig-d-gsellschaftere,22,3,0.0,0.13636363636363635
 324,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4458,7 +4458,7 @@ Was... isch's möglig?... thàt Sie 's Kloster lo fahre
                     
 
         
-",lustig-d-gsellschaftere,14,2,0.2810307375832784,0.14285714285714285
+",108,lustig-d-gsellschaftere,14,2,0.2810307375832784,0.14285714285714285
 325,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4507,7 +4507,7 @@ Un ass ich bliwe ka bi Dir.
           
 
         
-",lustig-d-gsellschaftere,85,11,0.1877442846725594,0.12941176470588237
+",108,lustig-d-gsellschaftere,85,11,0.1877442846725594,0.12941176470588237
 326,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4529,7 +4529,7 @@ Un ass ich bliwe ka bi Ihr.
           
 
         
-",lustig-d-gsellschaftere,30,3,0.35966666666666663,0.1
+",108,lustig-d-gsellschaftere,30,3,0.35966666666666663,0.1
 327,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4542,7 +4542,7 @@ Jumpfer Faste
 Mr dràiht dr Schlissel um... 's kunnt ebber!
 
         
-",lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
+",109,lustig-d-gsellschaftere,17,2,0.0,0.11764705882352941
 328,comedy,EMIL,M,,,,"
           
 Emil
@@ -4558,7 +4558,7 @@ Was wird dr Pape züe dem allem sage!
                     
 
         
-",lustig-d-gsellschaftere,22,2,0.0,0.09090909090909091
+",109,lustig-d-gsellschaftere,22,2,0.0,0.09090909090909091
 329,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel
@@ -4578,7 +4578,7 @@ Mi güete Jumpfer Faste... wie bin ich eso ung'recht gsi
                     
 
         
-",lustig-d-gsellschaftere,57,10,0.0,0.17543859649122806
+",109,lustig-d-gsellschaftere,57,10,0.0,0.17543859649122806
 330,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4592,7 +4592,7 @@ Das alles macht mir jetz nit meh, Madame Schimmel, Sie
           
 
         
-",lustig-d-gsellschaftere,20,4,0.0,0.2
+",110,lustig-d-gsellschaftere,20,4,0.0,0.2
 331,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4604,7 +4604,7 @@ Im Gegetheil... ich will's Ere süeche z'vergelte... denn
                     
 
         
-",lustig-d-gsellschaftere,27,5,0.0,0.18518518518518517
+",110,lustig-d-gsellschaftere,27,5,0.0,0.18518518518518517
 332,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4614,7 +4614,7 @@ Jumpfer Faste.
 Wer verzeiht, dem wird verzeiht werde!
 
         
-",lustig-d-gsellschaftere,8,1,0.0,0.125
+",110,lustig-d-gsellschaftere,8,1,0.0,0.125
 333,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4629,7 +4629,7 @@ A la bonne heure!... un in mim Mann o müesst Se
                     
 
         
-",lustig-d-gsellschaftere,36,4,0.0,0.1111111111111111
+",111,lustig-d-gsellschaftere,36,4,0.0,0.1111111111111111
 334,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel
@@ -4643,7 +4643,7 @@ Emil!... wo isch dr Emil!... ich süech ne jetz scho in
                     
 
         
-",lustig-d-gsellschaftere,22,3,0.0,0.13636363636363635
+",111,lustig-d-gsellschaftere,22,3,0.0,0.13636363636363635
 335,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4654,7 +4654,7 @@ Ich bi do gsi, Pape... bi dr Jumpfer Faste... d'Mame hat
                     
 
         
-",lustig-d-gsellschaftere,17,3,0.005333333333333333,0.17647058823529413
+",111,lustig-d-gsellschaftere,17,3,0.005333333333333333,0.17647058823529413
 336,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -4665,7 +4665,7 @@ Was bisch Dü do ku mache?... ich ha Dir's doch verbote
                     
 
         
-",lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
+",112,lustig-d-gsellschaftere,15,4,0.0,0.26666666666666666
 338,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4674,7 +4674,7 @@ Madame Schimmel.
 Worum bisch derno nitt gange?...
 
         
-",lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
+",112,lustig-d-gsellschaftere,7,2,0.0,0.2857142857142857
 339,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4685,7 +4685,7 @@ Wil d'Jumpfer Faste dr Oscar ig'sperrt hat un dr
                     
 
         
-",lustig-d-gsellschaftere,16,2,0.0,0.125
+",113,lustig-d-gsellschaftere,16,2,0.0,0.125
 340,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4697,7 +4697,7 @@ Dr Himmel isch mi Zige, ass ich's üs ere güete-n-
                     
 
         
-",lustig-d-gsellschaftere,17,3,0.0,0.17647058823529413
+",113,lustig-d-gsellschaftere,17,3,0.0,0.17647058823529413
 341,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -4709,7 +4709,7 @@ Ah, dà Schlissel, wo-n-ich uf dr Kopf biku ha dunte im
                     
 
         
-",lustig-d-gsellschaftere,31,4,0.0,0.12903225806451613
+",113,lustig-d-gsellschaftere,31,4,0.0,0.12903225806451613
 342,comedy,OSCAR,M,,,,"
           
 Oscar
@@ -4725,7 +4725,7 @@ Ich müess ku lüege, was do eigentlig vorgange-n-isch...
                     
 
         
-",lustig-d-gsellschaftere,40,3,0.0,0.075
+",114,lustig-d-gsellschaftere,40,3,0.0,0.075
 343,comedy,EMIL,M,,,,"
           
 Emil.
@@ -4737,7 +4737,7 @@ De kasch o glich sage, ass se Schimpfworte vo minere
                     
 
         
-",lustig-d-gsellschaftere,22,1,0.0,0.045454545454545456
+",114,lustig-d-gsellschaftere,22,1,0.0,0.045454545454545456
 344,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -4752,7 +4752,7 @@ Das isch wohr... se hat ihre Verspreche g'halte
                     
 
         
-",lustig-d-gsellschaftere,33,4,0.0,0.12121212121212122
+",114,lustig-d-gsellschaftere,33,4,0.0,0.12121212121212122
 345,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4765,7 +4765,7 @@ O, ich ha jetz kei Angst meh vor Ene... ich kehr in
                     
 
         
-",lustig-d-gsellschaftere,25,4,0.0,0.16
+",115,lustig-d-gsellschaftere,25,4,0.0,0.16
 346,comedy,EMIL,M,,,,"
           
 Emil
@@ -4781,7 +4781,7 @@ Un wenn ihr uns d'Erlaübniss gàn, so hirothe mir
           
 
         
-",lustig-d-gsellschaftere,19,4,0.0,0.21052631578947367
+",115,lustig-d-gsellschaftere,19,4,0.0,0.21052631578947367
 347,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -4790,7 +4790,7 @@ Herr Schimmel.
 Was, ihr wànn hirothe mitnander!
 
         
-",lustig-d-gsellschaftere,7,3,0.0,0.42857142857142855
+",115,lustig-d-gsellschaftere,7,3,0.0,0.42857142857142855
 348,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Madame Schimmel.
@@ -4799,7 +4799,7 @@ Madame Schimmel.
 Ich bi jo ganz verstünt ob dàre Bekehrung!...
 
         
-",lustig-d-gsellschaftere,10,3,0.0,0.3
+",116,lustig-d-gsellschaftere,10,3,0.0,0.3
 349,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4812,7 +4812,7 @@ Ich versprieh, Ihre Suhn glicklig z'mache; mir gehn
                     
 
         
-",lustig-d-gsellschaftere,34,6,0.0,0.17647058823529413
+",116,lustig-d-gsellschaftere,34,6,0.0,0.17647058823529413
 350,comedy,Herr SCHIMMEL,M,,,,"
           
 Herr Schimmel.
@@ -4824,7 +4824,7 @@ Nur g'mach, Jumpfer Faste nur g'mach... 's isch mr
                     
 
         
-",lustig-d-gsellschaftere,27,4,0.0,0.14814814814814814
+",116,lustig-d-gsellschaftere,27,4,0.0,0.14814814814814814
 351,comedy,OSCAR,M,,,,"
           
 Oscar.
@@ -4836,7 +4836,7 @@ Eh bien, Herr un Madame Schimmel... gàn Se-n-Ihre Sege
                     
 
         
-",lustig-d-gsellschaftere,29,8,0.0,0.27586206896551724
+",117,lustig-d-gsellschaftere,29,8,0.0,0.27586206896551724
 352,comedy,"Jumpfer FASTE
                     ",F,,,,"
           
@@ -4860,7 +4860,7 @@ Un wott ins Kloster geh!
           
 
         
-",lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385
+",117,lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385
 353,comedy,alle,B,,,,"
           
 Alle.
@@ -4883,4 +4883,4 @@ Fir heimz'geh isch's Zit.
           
 
         
-",lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385
+",117,lustig-d-gsellschaftere,26,4,0.0,0.15384615384615385

@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -16,7 +16,7 @@ Se mage mr sage was Se wànn, Herr Helder, dr Herr Fix,
                     
 
         
-",lustig-d-milhuser-in-paris,70,14,0.28141990380250703,0.2
+",0,lustig-d-milhuser-in-paris,70,14,0.28141990380250703,0.2
 1,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -30,7 +30,7 @@ Herr Helder
 Allons, allons, Fraü Simon...
 
         
-",lustig-d-milhuser-in-paris,24,1,0.0,0.041666666666666664
+",0,lustig-d-milhuser-in-paris,24,1,0.0,0.041666666666666664
 2,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -46,7 +46,7 @@ Fraü Simon
                     
 
         
-",lustig-d-milhuser-in-paris,42,3,0.0,0.07142857142857142
+",0,lustig-d-milhuser-in-paris,42,3,0.0,0.07142857142857142
 3,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -55,7 +55,7 @@ Herr Helder.
 Er blibt halt liewer d'heim, dà Mann...
 
         
-",lustig-d-milhuser-in-paris,10,4,0.1581668169879226,0.4
+",1,lustig-d-milhuser-in-paris,10,4,0.1581668169879226,0.4
 4,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -68,7 +68,7 @@ Er weisst wohl worum... er hat Angst, er wird pàckelt,
           
 
         
-",lustig-d-milhuser-in-paris,17,3,0.20589239419934638,0.17647058823529413
+",1,lustig-d-milhuser-in-paris,17,3,0.20589239419934638,0.17647058823529413
 5,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -79,7 +79,7 @@ Un si Tochter... weisst Se nit iwer si Tochter z'sage,
                     
 
         
-",lustig-d-milhuser-in-paris,15,3,0.0,0.2
+",1,lustig-d-milhuser-in-paris,15,3,0.0,0.2
 6,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -99,7 +99,7 @@ D'Jumpfer Elise... wo allewil am Fenster steht un do
                     
 
         
-",lustig-d-milhuser-in-paris,105,11,0.4382727272727273,0.10476190476190476
+",2,lustig-d-milhuser-in-paris,105,11,0.4382727272727273,0.10476190476190476
 7,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -110,7 +110,7 @@ Sie sieht iwerall nur 's Böse, Fraü Simon; si Tochter
                     
 
         
-",lustig-d-milhuser-in-paris,15,3,0.0,0.2
+",2,lustig-d-milhuser-in-paris,15,3,0.0,0.2
 8,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -127,7 +127,7 @@ D'Jumpfere isch e g'schickte Person, das müess me
                     
 
         
-",lustig-d-milhuser-in-paris,76,6,0.38666666666666666,0.07894736842105263
+",2,lustig-d-milhuser-in-paris,76,6,0.38666666666666666,0.07894736842105263
 9,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -138,7 +138,7 @@ Ass ich ihre derf dr Hof mache... nitt wohr, Fraü
                     
 
         
-",lustig-d-milhuser-in-paris,19,3,0.4323333333333334,0.15789473684210525
+",3,lustig-d-milhuser-in-paris,19,3,0.4323333333333334,0.15789473684210525
 10,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -158,7 +158,7 @@ doch nei, wie ihre Provisione g'macht sin
                     
 
         
-",lustig-d-milhuser-in-paris,100,17,0.20776470588235293,0.17
+",3,lustig-d-milhuser-in-paris,100,17,0.20776470588235293,0.17
 11,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -169,7 +169,7 @@ Herr Helder.
                     
 
         
-",lustig-d-milhuser-in-paris,13,3,0.5206666666666667,0.23076923076923078
+",3,lustig-d-milhuser-in-paris,13,3,0.5206666666666667,0.23076923076923078
 12,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -183,7 +183,7 @@ Ne Bàr isch's, wenn ich Ihne sag!... e fremd Gsicht git
                     
 
         
-",lustig-d-milhuser-in-paris,55,5,0.2478597851914448,0.09090909090909091
+",4,lustig-d-milhuser-in-paris,55,5,0.2478597851914448,0.09090909090909091
 13,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -199,7 +199,7 @@ Herr Helder.
                     
 
         
-",lustig-d-milhuser-in-paris,72,11,0.04754545454545455,0.1527777777777778
+",4,lustig-d-milhuser-in-paris,72,11,0.04754545454545455,0.1527777777777778
 14,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -208,7 +208,7 @@ Fraü Simon.
 's isch d'Angst!... er hat ebbes ag'stellt, dà Mann.
 
         
-",lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
+",4,lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
 15,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -226,7 +226,7 @@ Ich ha gar nitt g'funde, ass er im e-n-alte Missethàter
           
 
         
-",lustig-d-milhuser-in-paris,69,11,0.16972727272727273,0.15942028985507245
+",5,lustig-d-milhuser-in-paris,69,11,0.16972727272727273,0.15942028985507245
 16,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -237,7 +237,7 @@ Parbleu! 's isch si Töchterle gsi, wo-n-en g'schickt
                     
 
         
-",lustig-d-milhuser-in-paris,19,1,0.695,0.05263157894736842
+",5,lustig-d-milhuser-in-paris,19,1,0.695,0.05263157894736842
 17,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -252,7 +252,7 @@ Meint Se, Fraü Simon?... Sie ka denke, wie-n-ich ne güet
                     
 
         
-",lustig-d-milhuser-in-paris,60,7,0.18757142857142856,0.11666666666666667
+",5,lustig-d-milhuser-in-paris,60,7,0.18757142857142856,0.11666666666666667
 18,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -263,7 +263,7 @@ Sie mien g'wiss lieb si, Herr Helder, ass es bis züe dem
                     
 
         
-",lustig-d-milhuser-in-paris,16,3,0.0,0.1875
+",6,lustig-d-milhuser-in-paris,16,3,0.0,0.1875
 19,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -284,7 +284,7 @@ Was fir e herrliger Owe ha-n-ich züebrocht dert!... mr
                     
 
         
-",lustig-d-milhuser-in-paris,125,19,0.21906836452406445,0.152
+",6,lustig-d-milhuser-in-paris,125,19,0.21906836452406445,0.152
 20,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -297,7 +297,7 @@ Do glaüw-i scho, ass Se nitt g'sàh hàn, wie-n-er allewil
                     
 
         
-",lustig-d-milhuser-in-paris,41,2,0.3085,0.04878048780487805
+",6,lustig-d-milhuser-in-paris,41,2,0.3085,0.04878048780487805
 21,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -313,7 +313,7 @@ mr erst 's
                     
 
         
-",lustig-d-milhuser-in-paris,58,6,0.17016033158696175,0.10344827586206896
+",7,lustig-d-milhuser-in-paris,58,6,0.17016033158696175,0.10344827586206896
 22,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -322,7 +322,7 @@ Fraü Simon.
 Un siter, Herr Helder?
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",7,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 23,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -339,7 +339,7 @@ Oh! siter isch das Ding vorwàrts gange.
                     
 
         
-",lustig-d-milhuser-in-paris,44,4,0.2715,0.09090909090909091
+",7,lustig-d-milhuser-in-paris,44,4,0.2715,0.09090909090909091
 24,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -363,7 +363,7 @@ Eh bien, franchement, ich bedür ne, dr Herr Helder, denn
                     
 
         
-",lustig-d-milhuser-in-paris,116,19,0.13131241748547032,0.16379310344827586
+",8,lustig-d-milhuser-in-paris,116,19,0.13131241748547032,0.16379310344827586
 25,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -383,7 +383,7 @@ Wer sàit Ihre, ass ich bettle will?... losst Se mich
           
 
         
-",lustig-d-milhuser-in-paris,47,7,0.21657142857142858,0.14893617021276595
+",8,lustig-d-milhuser-in-paris,47,7,0.21657142857142858,0.14893617021276595
 26,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -394,7 +394,7 @@ Bàh, bàh, bàh... das sin alles nur Flaüse... was fir e
                     
 
         
-",lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
+",8,lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
 27,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -406,7 +406,7 @@ Herr Finot
 Ich weiss es jo nitt!...
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",9,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 28,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -417,7 +417,7 @@ Allons, allons... fahre-n-ab... un g'schwind e wenig,
                     
 
         
-",lustig-d-milhuser-in-paris,17,2,0.28678113370863506,0.11764705882352941
+",9,lustig-d-milhuser-in-paris,17,2,0.28678113370863506,0.11764705882352941
 29,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -428,7 +428,7 @@ Nur kei sa Làrme, güete Fraü... nur kei sa Làrme... fir
                     
 
         
-",lustig-d-milhuser-in-paris,19,3,0.0,0.15789473684210525
+",9,lustig-d-milhuser-in-paris,19,3,0.0,0.15789473684210525
 30,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -440,7 +440,7 @@ Fir e-n-alter Spitzbüe, wo hat welle in's Hüs ku
                     
 
         
-",lustig-d-milhuser-in-paris,24,6,0.21616666666666665,0.25
+",10,lustig-d-milhuser-in-paris,24,6,0.21616666666666665,0.25
 31,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -457,7 +457,7 @@ Dunnerwetter noch emol! ich ha schint's 's Asàh nitt vom
                     
 
         
-",lustig-d-milhuser-in-paris,56,9,0.25759912698662196,0.16071428571428573
+",10,lustig-d-milhuser-in-paris,56,9,0.25759912698662196,0.16071428571428573
 32,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -469,7 +469,7 @@ Fraü Simon
 Me sieht's jetz noch!...
 
         
-",lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
+",10,lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
 33,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -487,7 +487,7 @@ Ich ha sàller Tag scho achtevierzig Stund nit g'gesse
                     
 
         
-",lustig-d-milhuser-in-paris,68,7,0.07471428571428572,0.10294117647058823
+",11,lustig-d-milhuser-in-paris,68,7,0.07471428571428572,0.10294117647058823
 34,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -498,7 +498,7 @@ Oh, wenn Sie dr Herr Emil meine, er isch noch nie so wit
                     
 
         
-",lustig-d-milhuser-in-paris,17,2,0.3635,0.11764705882352941
+",11,lustig-d-milhuser-in-paris,17,2,0.3635,0.11764705882352941
 35,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -524,7 +524,7 @@ Un das isch 's erste Mol, as ich uf Paris ku bi... do
                     
 
         
-",lustig-d-milhuser-in-paris,188,19,0.14988944474917462,0.10106382978723404
+",11,lustig-d-milhuser-in-paris,188,19,0.14988944474917462,0.10106382978723404
 36,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -535,7 +535,7 @@ Oh, das giicht em ganz, im Herr Emil, 's isch dr beste
                     
 
         
-",lustig-d-milhuser-in-paris,18,3,0.0,0.16666666666666666
+",12,lustig-d-milhuser-in-paris,18,3,0.0,0.16666666666666666
 37,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -556,7 +556,7 @@ Wo-n-ich das Geld g'spirt ha in dr Hand, so isch's mr
           
 
         
-",lustig-d-milhuser-in-paris,110,14,0.15149281787387986,0.12727272727272726
+",12,lustig-d-milhuser-in-paris,110,14,0.15149281787387986,0.12727272727272726
 38,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -565,7 +565,7 @@ Fraü Simon.
 Er wird g'meint ha, 's isch d'Jumpfer Elise!...
 
         
-",lustig-d-milhuser-in-paris,11,1,0.508,0.09090909090909091
+",12,lustig-d-milhuser-in-paris,11,1,0.508,0.09090909090909091
 39,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -577,7 +577,7 @@ Ihre Name-n-un Ihre Adresse?... ha-n-ich wiederholt...
                     
 
         
-",lustig-d-milhuser-in-paris,29,4,0.05075,0.13793103448275862
+",13,lustig-d-milhuser-in-paris,29,4,0.05075,0.13793103448275862
 40,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -588,7 +588,7 @@ Jà un wie hàn Se denn derno erfahre, ass er do
                     
 
         
-",lustig-d-milhuser-in-paris,14,1,0.602,0.07142857142857142
+",13,lustig-d-milhuser-in-paris,14,1,0.602,0.07142857142857142
 41,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -605,7 +605,7 @@ Eh, gestert z'Nacht par hasard ha-n-ich ne erkennt vo
                     
 
         
-",lustig-d-milhuser-in-paris,74,7,0.09595357382070595,0.0945945945945946
+",13,lustig-d-milhuser-in-paris,74,7,0.09595357382070595,0.0945945945945946
 42,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Fran Simon.
@@ -621,7 +621,7 @@ Grad isch er üsgange... Sie werde später miesse dure
                     
 
         
-",lustig-d-milhuser-in-paris,53,6,0.09633333333333334,0.11320754716981132
+",14,lustig-d-milhuser-in-paris,53,6,0.09633333333333334,0.11320754716981132
 43,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -635,7 +635,7 @@ So kumm i denn später noch emol dure, fir mi Schuld
                     
 
         
-",lustig-d-milhuser-in-paris,29,6,0.20918321950375016,0.20689655172413793
+",14,lustig-d-milhuser-in-paris,29,6,0.20918321950375016,0.20689655172413793
 44,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -652,7 +652,7 @@ Fraü Portnere!... ne so einer kännt doch Madame sage...
                     
 
         
-",lustig-d-milhuser-in-paris,33,5,0.3082725214707166,0.15151515151515152
+",14,lustig-d-milhuser-in-paris,33,5,0.3082725214707166,0.15151515151515152
 45,comedy,ELISE,F,,,,"
           
 Elise
@@ -667,7 +667,7 @@ Ich weiss nitt, eb's sich schickt, Herr Helder... eso...
                     
 
         
-",lustig-d-milhuser-in-paris,38,3,0.19533333333333333,0.07894736842105263
+",15,lustig-d-milhuser-in-paris,38,3,0.19533333333333333,0.07894736842105263
 46,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -678,7 +678,7 @@ Er wird glich ku, Jumpfer Elise, er isch nur g'schwind
                     
 
         
-",lustig-d-milhuser-in-paris,22,5,0.1016,0.22727272727272727
+",15,lustig-d-milhuser-in-paris,22,5,0.1016,0.22727272727272727
 47,comedy,ELISE,F,,,,"
           
 Elise
@@ -690,7 +690,7 @@ Elise
 Oh! ne schön Paysage!
 
         
-",lustig-d-milhuser-in-paris,13,1,0.586,0.07692307692307693
+",15,lustig-d-milhuser-in-paris,13,1,0.586,0.07692307692307693
 48,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -708,7 +708,7 @@ Das isch mi Propriété, wo-n-ich noch im Elsass ha... ne
                     
 
         
-",lustig-d-milhuser-in-paris,62,8,0.292814761059393,0.12903225806451613
+",16,lustig-d-milhuser-in-paris,62,8,0.292814761059393,0.12903225806451613
 49,comedy,ELISE,F,,,,"
           
 Elise.
@@ -720,7 +720,7 @@ Elise.
                     
 
         
-",lustig-d-milhuser-in-paris,25,2,0.293,0.08
+",16,lustig-d-milhuser-in-paris,25,2,0.293,0.08
 50,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -741,7 +741,7 @@ Herr Helder
           
 
         
-",lustig-d-milhuser-in-paris,91,11,0.17478882572323007,0.12087912087912088
+",16,lustig-d-milhuser-in-paris,91,11,0.17478882572323007,0.12087912087912088
 51,comedy,ELISE,F,,,,"
           
 Elise
@@ -755,7 +755,7 @@ Arme Müetter!... gliche Sie Ihrer Müetter, Herr
                     
 
         
-",lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
+",17,lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
 52,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -773,7 +773,7 @@ Nei, ich glich in mim Vater... e tapferer Mariner wo im
                     
 
         
-",lustig-d-milhuser-in-paris,86,11,0.331050777326671,0.12790697674418605
+",17,lustig-d-milhuser-in-paris,86,11,0.331050777326671,0.12790697674418605
 53,comedy,ELISE,F,,,,"
           
 Elise.
@@ -782,7 +782,7 @@ Elise.
 Wie gern hätt ich se g'ha, Herr Emil...
 
         
-",lustig-d-milhuser-in-paris,9,2,0.3088385414777653,0.2222222222222222
+",17,lustig-d-milhuser-in-paris,9,2,0.3088385414777653,0.2222222222222222
 54,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -802,7 +802,7 @@ Wo se derno vergrawe gsi isch, bi-n-i halt wieder z'ruck
                     
 
         
-",lustig-d-milhuser-in-paris,95,15,0.12868962339381473,0.15789473684210525
+",18,lustig-d-milhuser-in-paris,95,15,0.12868962339381473,0.15789473684210525
 55,comedy,ELISE,F,,,,"
           
 Elise
@@ -816,7 +816,7 @@ Ich ha Sie jo scho lang gern g'ha, Herr Emil... hàn
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.20589236098517685,0.15
+",18,lustig-d-milhuser-in-paris,20,3,0.20589236098517685,0.15
 56,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -828,7 +828,7 @@ Herr Helder
 O! Lisele!...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",18,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 57,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -844,7 +844,7 @@ So, so!... wenn isch d'Hochzit?...
                     
 
         
-",lustig-d-milhuser-in-paris,18,3,0.22388629326568477,0.16666666666666666
+",19,lustig-d-milhuser-in-paris,18,3,0.22388629326568477,0.16666666666666666
 58,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -858,7 +858,7 @@ Herr Fix... Sie werde doch nitt supposiere... ich schwör
                     
 
         
-",lustig-d-milhuser-in-paris,24,4,0.11184586367373645,0.16666666666666666
+",19,lustig-d-milhuser-in-paris,24,4,0.11184586367373645,0.16666666666666666
 59,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -875,7 +875,7 @@ Junger Mensch, berüehige Sie sich... glaüwe Sie denn,
                     
 
         
-",lustig-d-milhuser-in-paris,45,5,0.1328,0.1111111111111111
+",19,lustig-d-milhuser-in-paris,45,5,0.1328,0.1111111111111111
 60,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -887,7 +887,7 @@ Herr Helder
 So wàr's denn möglig?...
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",20,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 61,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -911,7 +911,7 @@ Alles isch möglig! 's isch möglig, ass das Kind do
                     
 
         
-",lustig-d-milhuser-in-paris,112,12,0.10933333333333334,0.10714285714285714
+",20,lustig-d-milhuser-in-paris,112,12,0.10933333333333334,0.10714285714285714
 62,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -927,7 +927,7 @@ Oh! Herr Fix!... Lisele!... lieb Lisele!... me stirbt
                     
 
         
-",lustig-d-milhuser-in-paris,39,7,0.0699945699316815,0.1794871794871795
+",20,lustig-d-milhuser-in-paris,39,7,0.0699945699316815,0.1794871794871795
 63,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -939,7 +939,7 @@ Ihr hàn enander gern... i ha nit dergege... doch lose
                     
 
         
-",lustig-d-milhuser-in-paris,31,4,0.5098360877268052,0.12903225806451613
+",21,lustig-d-milhuser-in-paris,31,4,0.5098360877268052,0.12903225806451613
 64,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -948,7 +948,7 @@ Herr Helder.
 Unglickligerwis, nei...
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",21,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 65,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -962,7 +962,7 @@ Was denke Sie mit in d'Eh z'bringe, Herr Helder? ..
           
 
         
-",lustig-d-milhuser-in-paris,18,4,0.16791875418623542,0.2222222222222222
+",21,lustig-d-milhuser-in-paris,18,4,0.16791875418623542,0.2222222222222222
 66,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -978,7 +978,7 @@ Ich bring mi Liewe, mi güeter Wille un mi Hofftiung in
                     
 
         
-",lustig-d-milhuser-in-paris,26,3,0.21088908931723013,0.11538461538461539
+",22,lustig-d-milhuser-in-paris,26,3,0.21088908931723013,0.11538461538461539
 67,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -989,7 +989,7 @@ Güet!... un Dü, Lisele, was bringsch Dü fir e-n-Eh'stir
                     
 
         
-",lustig-d-milhuser-in-paris,14,3,0.0,0.21428571428571427
+",22,lustig-d-milhuser-in-paris,14,3,0.0,0.21428571428571427
 68,comedy,ELISE,F,,,,"
           
 Elise
@@ -1001,7 +1001,7 @@ Elise
 Unser Glick!...
 
         
-",lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
+",22,lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
 69,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1012,7 +1012,7 @@ Ganz güet!.. Ihr hàn, liewe Kinder, grad 's gliche
                     
 
         
-",lustig-d-milhuser-in-paris,19,6,0.20177787799194843,0.3157894736842105
+",23,lustig-d-milhuser-in-paris,19,6,0.20177787799194843,0.3157894736842105
 70,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1021,7 +1021,7 @@ Herr Helder.
 Un Sie sin doch g'wiss glicklig gsi, Herr Fix!...
 
         
-",lustig-d-milhuser-in-paris,11,3,0.0,0.2727272727272727
+",23,lustig-d-milhuser-in-paris,11,3,0.0,0.2727272727272727
 71,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1056,7 +1056,7 @@ Erfahrung, drum ha-n-ich
                     
 
         
-",lustig-d-milhuser-in-paris,226,34,0.11188809327737279,0.1504424778761062
+",23,lustig-d-milhuser-in-paris,226,34,0.11188809327737279,0.1504424778761062
 72,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1068,7 +1068,7 @@ Herr Helder
 Was soll das...
 
         
-",lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
+",24,lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
 73,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1082,7 +1082,7 @@ Uesg'numme irn Fall, ass mi Tochter selbst e Vermöge
                     
 
         
-",lustig-d-milhuser-in-paris,16,4,0.0,0.25
+",24,lustig-d-milhuser-in-paris,16,4,0.0,0.25
 74,comedy,ELISE,F,,,,"
           
 Elise
@@ -1094,7 +1094,7 @@ Elise
 Vater!... Vater!...
 
         
-",lustig-d-milhuser-in-paris,6,2,0.586,0.3333333333333333
+",24,lustig-d-milhuser-in-paris,6,2,0.586,0.3333333333333333
 75,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1108,7 +1108,7 @@ Herr Fix.... wenn das e Spass soll si, so isch's gwiss e
                     
 
         
-",lustig-d-milhuser-in-paris,20,5,0.13440000000000002,0.25
+",25,lustig-d-milhuser-in-paris,20,5,0.13440000000000002,0.25
 76,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1122,7 +1122,7 @@ Eh bien... junger Mensch... wer sàit Ihne, ass mi
                     
 
         
-",lustig-d-milhuser-in-paris,20,5,0.13433500334898835,0.25
+",25,lustig-d-milhuser-in-paris,20,5,0.13433500334898835,0.25
 78,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1131,7 +1131,7 @@ Herr Helder.
 Das isch mir einerlei... d'Haüptsach fir mich...
 
         
-",lustig-d-milhuser-in-paris,10,2,0.0,0.2
+",26,lustig-d-milhuser-in-paris,10,2,0.0,0.2
 79,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1146,7 +1146,7 @@ Das isch Ihne gar nitt einerlei, denn ohne-n-Eh'stir
                     
 
         
-",lustig-d-milhuser-in-paris,31,4,0.0,0.12903225806451613
+",26,lustig-d-milhuser-in-paris,31,4,0.0,0.12903225806451613
 80,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1158,7 +1158,7 @@ Herr Helder
 Versteht Sie ebbes do dervo, Elise?...
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",26,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 81,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1176,7 +1176,7 @@ Zweieninzigtaüsend Franke... isch das klar, Herr
           
 
         
-",lustig-d-milhuser-in-paris,27,3,0.19201738898299367,0.1111111111111111
+",27,lustig-d-milhuser-in-paris,27,3,0.19201738898299367,0.1111111111111111
 82,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1190,7 +1190,7 @@ Ah çà... woher ka jetz dr Herr Fix eso ne Summe Geld her
                     
 
         
-",lustig-d-milhuser-in-paris,21,5,0.1089874921425095,0.23809523809523808
+",27,lustig-d-milhuser-in-paris,21,5,0.1089874921425095,0.23809523809523808
 83,comedy,ELISE,F,,,,"
           
 Elise
@@ -1202,7 +1202,7 @@ Elise
 Was!... das alles isch Di, Vater?...
 
         
-",lustig-d-milhuser-in-paris,10,1,0.586,0.1
+",27,lustig-d-milhuser-in-paris,10,1,0.586,0.1
 84,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1211,7 +1211,7 @@ Herr Fix.
 Eh nei, Di... wil ich Dir's gib...
 
         
-",lustig-d-milhuser-in-paris,10,3,0.22389167224831388,0.3
+",28,lustig-d-milhuser-in-paris,10,3,0.22389167224831388,0.3
 86,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1225,7 +1225,7 @@ Wo mir das Vermöge herkunnt?... wottsch Dü's wisse?...
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
+",28,lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
 88,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1236,7 +1236,7 @@ Kind, me lidet ringer als e wenig un thüet fir
                     
 
         
-",lustig-d-milhuser-in-paris,15,4,0.0,0.26666666666666666
+",29,lustig-d-milhuser-in-paris,15,4,0.0,0.26666666666666666
 89,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1247,7 +1247,7 @@ Erspart... Dü... wo in Diner Krankhet schier g'storwe
                     
 
         
-",lustig-d-milhuser-in-paris,18,1,0.5449374571843016,0.05555555555555555
+",29,lustig-d-milhuser-in-paris,18,1,0.5449374571843016,0.05555555555555555
 90,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1259,7 +1259,7 @@ Herr Fix
 Ich... bi halt gitzig...
 
         
-",lustig-d-milhuser-in-paris,10,2,0.0,0.2
+",30,lustig-d-milhuser-in-paris,10,2,0.0,0.2
 91,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1271,7 +1271,7 @@ Elise.
                     
 
         
-",lustig-d-milhuser-in-paris,24,2,0.5740000000000001,0.08333333333333333
+",30,lustig-d-milhuser-in-paris,24,2,0.5740000000000001,0.08333333333333333
 92,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1288,7 +1288,7 @@ Ich ha ewe scho lang ag'fange g'ha... d'kleine Bàchle
                     
 
         
-",lustig-d-milhuser-in-paris,39,4,0.0,0.10256410256410256
+",30,lustig-d-milhuser-in-paris,39,4,0.0,0.10256410256410256
 93,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1299,7 +1299,7 @@ Awer fir das müess me doch in d'Banke geh... un Dü bisch
                     
 
         
-",lustig-d-milhuser-in-paris,22,2,0.0,0.09090909090909091
+",31,lustig-d-milhuser-in-paris,22,2,0.0,0.09090909090909091
 94,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1313,7 +1313,7 @@ Dü ennuiersch mich !... 's isch jo scho mehr, as zwölf
                     
 
         
-",lustig-d-milhuser-in-paris,21,2,0.0,0.09523809523809523
+",31,lustig-d-milhuser-in-paris,21,2,0.0,0.09523809523809523
 95,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1322,7 +1322,7 @@ Elise.
 Güet... jetz isch's e-n-Erb...
 
         
-",lustig-d-milhuser-in-paris,8,2,0.2833074155599258,0.25
+",31,lustig-d-milhuser-in-paris,8,2,0.2833074155599258,0.25
 96,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1331,7 +1331,7 @@ Herr Helder.
 Do hat denn Ihre Fraü noch g'lebt sàllemol?
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",32,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 97,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1340,7 +1340,7 @@ Herr Fix.
 Wohrschinlig...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",32,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 98,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1351,7 +1351,7 @@ Awer, Herr Fix, Sie hàn is grad g'sàit, ass ihre Fraü
                     
 
         
-",lustig-d-milhuser-in-paris,18,4,0.14450000000000002,0.2222222222222222
+",32,lustig-d-milhuser-in-paris,18,4,0.14450000000000002,0.2222222222222222
 99,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1365,7 +1365,7 @@ Gehn züem Kückück alle Beide... nàmme-n-Ihr mich
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.0,0.15
+",33,lustig-d-milhuser-in-paris,20,3,0.0,0.15
 100,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1374,7 +1374,7 @@ Elise.
 Liewer Vater...
 
         
-",lustig-d-milhuser-in-paris,3,2,0.6093336339758452,0.6666666666666666
+",33,lustig-d-milhuser-in-paris,3,2,0.6093336339758452,0.6666666666666666
 101,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1390,7 +1390,7 @@ Ich sieh scho... ihr wànn schint's mi Geld nitt, ihr
           
 
         
-",lustig-d-milhuser-in-paris,43,5,0.363374984285019,0.11627906976744186
+",33,lustig-d-milhuser-in-paris,43,5,0.363374984285019,0.11627906976744186
 102,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1402,7 +1402,7 @@ G'stehn Se-n-is uf's' wenigst nur, ass Sie ne wichtiger
                     
 
         
-",lustig-d-milhuser-in-paris,24,2,0.3165,0.08333333333333333
+",34,lustig-d-milhuser-in-paris,24,2,0.3165,0.08333333333333333
 103,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -1416,7 +1416,7 @@ Isch's nur das? eh bien jo, Himmel an dr Bettlade! ich
                     
 
         
-",lustig-d-milhuser-in-paris,31,5,0.3671350033489883,0.16129032258064516
+",34,lustig-d-milhuser-in-paris,31,5,0.3671350033489883,0.16129032258064516
 104,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1427,7 +1427,7 @@ Drum, wil mr Sie fir dr ehrligste Mensch vo dr Welt
                     
 
         
-",lustig-d-milhuser-in-paris,14,4,0.0,0.2857142857142857
+",34,lustig-d-milhuser-in-paris,14,4,0.0,0.2857142857142857
 105,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1436,7 +1436,7 @@ Elise.
 So thien mir nitt mehr verlange...
 
         
-",lustig-d-milhuser-in-paris,7,1,0.5013101484996848,0.14285714285714285
+",35,lustig-d-milhuser-in-paris,7,1,0.5013101484996848,0.14285714285714285
 106,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1453,7 +1453,7 @@ Das kostet Mieih!...
                     
 
         
-",lustig-d-milhuser-in-paris,33,7,0.3181428571428571,0.21212121212121213
+",35,lustig-d-milhuser-in-paris,33,7,0.3181428571428571,0.21212121212121213
 107,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1462,7 +1462,7 @@ Herr Helder.
 Worum nitt gar fufzehne!
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",35,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 108,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1473,7 +1473,7 @@ De weisch jo wohl, Vater, mr gehn jo nitt vo Dir
                     
 
         
-",lustig-d-milhuser-in-paris,13,2,0.6018385912990196,0.15384615384615385
+",36,lustig-d-milhuser-in-paris,13,2,0.6018385912990196,0.15384615384615385
 109,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1487,7 +1487,7 @@ Herr Fix
                     
 
         
-",lustig-d-milhuser-in-paris,25,3,0.0,0.12
+",36,lustig-d-milhuser-in-paris,25,3,0.0,0.12
 110,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1496,7 +1496,7 @@ Herr Helder.
 Merci, Schwiegervater...
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",36,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 111,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1510,7 +1510,7 @@ Zeig jetz... wenn Dü ihn nitt hirothe thàtsch, miech's
                     
 
         
-",lustig-d-milhuser-in-paris,18,1,0.0,0.05555555555555555
+",37,lustig-d-milhuser-in-paris,18,1,0.0,0.05555555555555555
 112,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1519,7 +1519,7 @@ Elise.
 Liewer sterwe, Vater!
 
         
-",lustig-d-milhuser-in-paris,4,2,0.6093336339758452,0.5
+",37,lustig-d-milhuser-in-paris,4,2,0.6093336339758452,0.5
 113,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1544,7 +1544,7 @@ Güet, güet... De hasch mr's scho-n-emol g'sàit!
                     
 
         
-",lustig-d-milhuser-in-paris,79,13,0.10099999999999999,0.16455696202531644
+",37,lustig-d-milhuser-in-paris,79,13,0.10099999999999999,0.16455696202531644
 114,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1559,7 +1559,7 @@ Ich ha nur desto mehr Müeth, Herr Fix, ich ha mr vorgnu,
                     
 
         
-",lustig-d-milhuser-in-paris,43,2,0.0,0.046511627906976744
+",38,lustig-d-milhuser-in-paris,43,2,0.0,0.046511627906976744
 115,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -1575,7 +1575,7 @@ Herr Fix
                     
 
         
-",lustig-d-milhuser-in-paris,26,5,0.0,0.19230769230769232
+",38,lustig-d-milhuser-in-paris,26,5,0.0,0.19230769230769232
 116,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1589,7 +1589,7 @@ Elise.
                     
 
         
-",lustig-d-milhuser-in-paris,25,2,0.293,0.08
+",38,lustig-d-milhuser-in-paris,25,2,0.293,0.08
 117,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1603,7 +1603,7 @@ Was hat er
 .
 
         
-",lustig-d-milhuser-in-paris,17,3,0.0,0.17647058823529413
+",39,lustig-d-milhuser-in-paris,17,3,0.0,0.17647058823529413
 118,comedy,ELISE,F,,,,"
           
 Elise.
@@ -1614,7 +1614,7 @@ Allewil die Nervekrankhet... er zittert vor jeder fremde
                     
 
         
-",lustig-d-milhuser-in-paris,10,1,0.617,0.1
+",39,lustig-d-milhuser-in-paris,10,1,0.617,0.1
 119,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -1645,7 +1645,7 @@ kenne sich rieme, junger Mensch, e güete
                     
 
         
-",lustig-d-milhuser-in-paris,132,22,0.18611052584470988,0.16666666666666666
+",39,lustig-d-milhuser-in-paris,132,22,0.18611052584470988,0.16666666666666666
 120,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1657,7 +1657,7 @@ Herr Helder
 Erlaüwe Se... mit wem ha-n-ich d'Ehr...
 
         
-",lustig-d-milhuser-in-paris,14,2,0.2236917273474729,0.14285714285714285
+",40,lustig-d-milhuser-in-paris,14,2,0.2236917273474729,0.14285714285714285
 121,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1668,7 +1668,7 @@ Was!... Sie erkenne mich nitt... b'schaüe Se mich emol
                     
 
         
-",lustig-d-milhuser-in-paris,12,2,0.289,0.16666666666666666
+",40,lustig-d-milhuser-in-paris,12,2,0.289,0.16666666666666666
 122,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1680,7 +1680,7 @@ Ich sieh wahl e Kahlkopf, e rothe Nase, ne langer Bart,
                     
 
         
-",lustig-d-milhuser-in-paris,21,3,0.18234542897015585,0.14285714285714285
+",40,lustig-d-milhuser-in-paris,21,3,0.18234542897015585,0.14285714285714285
 123,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1689,7 +1689,7 @@ Herr Finot.
 B'sinne Sie sich nitt?...
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",41,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 124,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1700,7 +1700,7 @@ Aha!... warte Se... dr letzte Winter emol vor eme
                     
 
         
-",lustig-d-milhuser-in-paris,12,2,0.2385,0.16666666666666666
+",41,lustig-d-milhuser-in-paris,12,2,0.2385,0.16666666666666666
 125,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1709,7 +1709,7 @@ Herr Finot.
 Vor eme Comestible...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",41,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 126,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1731,7 +1731,7 @@ C'est ça... jetz b'sinn ich mich
                     
 
         
-",lustig-d-milhuser-in-paris,72,10,0.0586,0.1388888888888889
+",42,lustig-d-milhuser-in-paris,72,10,0.0586,0.1388888888888889
 127,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -1749,7 +1749,7 @@ Pristi!... ne schöne Jumpfere!...
                     
 
         
-",lustig-d-milhuser-in-paris,38,7,0.15628571428571428,0.18421052631578946
+",42,lustig-d-milhuser-in-paris,38,7,0.15628571428571428,0.18421052631578946
 128,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1758,7 +1758,7 @@ Herr Helder.
 Ha-n-ich Ihne denn mi Adresse nitt gà g'ha?...
 
         
-",lustig-d-milhuser-in-paris,12,2,0.24498099476088525,0.16666666666666666
+",42,lustig-d-milhuser-in-paris,12,2,0.24498099476088525,0.16666666666666666
 129,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1769,7 +1769,7 @@ Kei Name-n-un kei Adresse... wo-n-ich se Ihne g'heische
                     
 
         
-",lustig-d-milhuser-in-paris,24,2,0.0,0.08333333333333333
+",43,lustig-d-milhuser-in-paris,24,2,0.0,0.08333333333333333
 130,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1782,7 +1782,7 @@ Ah jà... ich b'sinn mi,
                     
 
         
-",lustig-d-milhuser-in-paris,21,2,0.0,0.09523809523809523
+",43,lustig-d-milhuser-in-paris,21,2,0.0,0.09523809523809523
 131,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -1796,7 +1796,7 @@ Das heisst... Sie hàn nitt welle, ass ich Ihne Ihr Geld
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.18164582023751583,0.15
+",43,lustig-d-milhuser-in-paris,20,3,0.18164582023751583,0.15
 132,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1805,7 +1805,7 @@ Herr Helder.
 's isch jo nur e Kleinigkeit gsi...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",44,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 133,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1826,7 +1826,7 @@ Ohne die Kleinigkeit wàr ich Hungers g'storwe; züem
                     
 
         
-",lustig-d-milhuser-in-paris,86,7,0.15041963724464963,0.08139534883720931
+",44,lustig-d-milhuser-in-paris,86,7,0.15041963724464963,0.08139534883720931
 134,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1840,7 +1840,7 @@ Lose Se... ich bi pressiert... ich ha z'schaffe, un wenn
                     
 
         
-",lustig-d-milhuser-in-paris,22,2,0.0,0.09090909090909091
+",44,lustig-d-milhuser-in-paris,22,2,0.0,0.09090909090909091
 135,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1854,7 +1854,7 @@ Zürne Sie mr nitt... Pristi... Sie intressiere mich un
                     
 
         
-",lustig-d-milhuser-in-paris,35,4,0.30074999999999996,0.11428571428571428
+",45,lustig-d-milhuser-in-paris,35,4,0.30074999999999996,0.11428571428571428
 136,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1866,7 +1866,7 @@ Herr Helder
 Desto schlechter...
 
         
-",lustig-d-milhuser-in-paris,10,2,0.0,0.2
+",45,lustig-d-milhuser-in-paris,10,2,0.0,0.2
 137,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1879,7 +1879,7 @@ Desto besser!... im Gegetheil... ich halt an mine
                     
 
         
-",lustig-d-milhuser-in-paris,31,6,0.31783333333333336,0.1935483870967742
+",45,lustig-d-milhuser-in-paris,31,6,0.31783333333333336,0.1935483870967742
 138,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1888,7 +1888,7 @@ Herr Helder.
 Fir was?...
 
         
-",lustig-d-milhuser-in-paris,4,2,0.0,0.5
+",46,lustig-d-milhuser-in-paris,4,2,0.0,0.5
 139,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1902,7 +1902,7 @@ Eh... fir ass Sie mich kenne lehre... so arm ass ich bi
                     
 
         
-",lustig-d-milhuser-in-paris,50,10,0.17946124774574893,0.2
+",46,lustig-d-milhuser-in-paris,50,10,0.17946124774574893,0.2
 140,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1914,7 +1914,7 @@ Was mi Glick abelangt, so hat's ebber anders scho
                     
 
         
-",lustig-d-milhuser-in-paris,24,7,0.10385714285714286,0.2916666666666667
+",46,lustig-d-milhuser-in-paris,24,7,0.10385714285714286,0.2916666666666667
 141,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1928,7 +1928,7 @@ Bàh... so sin d'junge Lit... Sie glaüwe sich jetz
                     
 
         
-",lustig-d-milhuser-in-paris,27,6,0.0,0.2222222222222222
+",47,lustig-d-milhuser-in-paris,27,6,0.0,0.2222222222222222
 142,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -1937,7 +1937,7 @@ Herr Helder.
 Wie wisse Sie...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",47,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 143,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -1960,7 +1960,7 @@ oder
                     
 
         
-",lustig-d-milhuser-in-paris,92,15,0.2572667869236714,0.16304347826086957
+",47,lustig-d-milhuser-in-paris,92,15,0.2572667869236714,0.16304347826086957
 144,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -1972,7 +1972,7 @@ Herr Helder
 Wotte Sie viellicht mis vergulde?...
 
         
-",lustig-d-milhuser-in-paris,10,3,0.0,0.3
+",48,lustig-d-milhuser-in-paris,10,3,0.0,0.3
 145,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -1986,7 +1986,7 @@ Jetz grad nitt
                     
 
         
-",lustig-d-milhuser-in-paris,31,7,0.08257142857142859,0.22580645161290322
+",48,lustig-d-milhuser-in-paris,31,7,0.08257142857142859,0.22580645161290322
 146,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -2002,7 +2002,7 @@ Andere rede vom Sterwe-n-in dem Alter.
                     
 
         
-",lustig-d-milhuser-in-paris,21,6,0.3046666666666667,0.2857142857142857
+",48,lustig-d-milhuser-in-paris,21,6,0.3046666666666667,0.2857142857142857
 147,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2013,7 +2013,7 @@ Ich bi ewe ne Finot... noch emol, wànn Se mi G'schichte
                     
 
         
-",lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
+",49,lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
 148,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2022,7 +2022,7 @@ Herr Helder.
 Wenn Sie dra halte...
 
         
-",lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
+",49,lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
 149,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2036,7 +2036,7 @@ Herr Finot
 Me derf jo raüche bi Ihne, nitt wohr?
 
         
-",lustig-d-milhuser-in-paris,30,3,0.5053333333333333,0.1
+",49,lustig-d-milhuser-in-paris,30,3,0.5053333333333333,0.1
 150,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2045,7 +2045,7 @@ Herr Helder.
 Parbleu!...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",50,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 151,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2085,7 +2085,7 @@ bi uf dr Welt
                     
 
         
-",lustig-d-milhuser-in-paris,264,26,0.14040257876446868,0.09848484848484848
+",50,lustig-d-milhuser-in-paris,264,26,0.14040257876446868,0.09848484848484848
 152,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2094,7 +2094,7 @@ Herr Helder.
 Un siter... was hàn Se siter triwe?...
 
         
-",lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
+",50,lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
 153,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2110,7 +2110,7 @@ Alles!... mit was mr bliwe-n-isch vo Ihrem Geld ha-n-i
                     
 
         
-",lustig-d-milhuser-in-paris,69,5,0.1089874921425095,0.07246376811594203
+",51,lustig-d-milhuser-in-paris,69,5,0.1089874921425095,0.07246376811594203
 154,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2119,7 +2119,7 @@ Herr Helder.
 Mit was?...
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",51,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 155,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2136,7 +2136,7 @@ Mit mim Geist... perbleu!... 's isch kei Kunst z'spiele,
                     
 
         
-",lustig-d-milhuser-in-paris,57,9,0.13521527341250528,0.15789473684210525
+",51,lustig-d-milhuser-in-paris,57,9,0.13521527341250528,0.15789473684210525
 156,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2145,7 +2145,7 @@ Herr Helder.
 Oder wo Sie wieder thàt ruiniere...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",52,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 157,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2156,7 +2156,7 @@ Pristi... dasmol nitt... ich bi ne Finot! was wà mr
                     
 
         
-",lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
+",52,lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
 158,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2165,7 +2165,7 @@ Herr Helder.
 Sie hàn e famos Züetraüe in Ihr Glicksstern.
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",52,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 159,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2192,7 +2192,7 @@ Wil ich Chance ha... wil ich Idee ha!... 's Glick hat
                     
 
         
-",lustig-d-milhuser-in-paris,105,16,0.0649375,0.1523809523809524
+",53,lustig-d-milhuser-in-paris,105,16,0.0649375,0.1523809523809524
 160,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2203,7 +2203,7 @@ Was git's... was hàn Se?...
 .
 
         
-",lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
+",53,lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
 161,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2215,7 +2215,7 @@ Herr Finot
 Isch das Hüs do nitt Nümero 73 in dere Gasse?...
 
         
-",lustig-d-milhuser-in-paris,21,3,0.0,0.14285714285714285
+",53,lustig-d-milhuser-in-paris,21,3,0.0,0.14285714285714285
 162,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2224,7 +2224,7 @@ Herr Helder.
 Natirlig...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",54,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 163,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2233,7 +2233,7 @@ Herr Finot.
 Wohnt ebber do mit Namens Fix?...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",54,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 164,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -2245,7 +2245,7 @@ Herr Helder
 Jo... awer was wànn Se...
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",54,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 165,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2257,7 +2257,7 @@ Herr Finot
 Wo wohnt er...
 
         
-",lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
+",55,lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
 166,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -2272,7 +2272,7 @@ Sie brüche nitt wit z'laüfe... er isch dert...
           
 
         
-",lustig-d-milhuser-in-paris,22,4,0.0,0.18181818181818182
+",55,lustig-d-milhuser-in-paris,22,4,0.0,0.18181818181818182
 167,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2286,7 +2286,7 @@ Kritzbataillon! ..
                     
 
         
-",lustig-d-milhuser-in-paris,24,4,0.0,0.16666666666666666
+",55,lustig-d-milhuser-in-paris,24,4,0.0,0.16666666666666666
 168,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -2302,7 +2302,7 @@ Herr Fix... kämme Se doch e wenig üse... dà Herr wott Se
                     
 
         
-",lustig-d-milhuser-in-paris,32,7,0.18309672613650438,0.21875
+",56,lustig-d-milhuser-in-paris,32,7,0.18309672613650438,0.21875
 169,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2318,7 +2318,7 @@ Ha-n-ich d'Ehr' mit em Herr Fix z'rede?
                     
 
         
-",lustig-d-milhuser-in-paris,28,6,0.0,0.21428571428571427
+",56,lustig-d-milhuser-in-paris,28,6,0.0,0.21428571428571427
 170,comedy,ELISE,F,,,,"
           
 Elise
@@ -2330,7 +2330,7 @@ Elise
 Jo... was wàr Ihne lieb?...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",56,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 171,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2343,7 +2343,7 @@ Wenn das isch... ich heiss Peter Finot un bi...
                     
 
         
-",lustig-d-milhuser-in-paris,24,5,0.0,0.20833333333333334
+",57,lustig-d-milhuser-in-paris,24,5,0.0,0.20833333333333334
 172,comedy,ELISE,F,,,,"
           
 Elise
@@ -2355,7 +2355,7 @@ Elise
 Vater... Vater...
 
         
-",lustig-d-milhuser-in-paris,6,3,0.5233333333333333,0.5
+",57,lustig-d-milhuser-in-paris,6,3,0.5233333333333333,0.5
 173,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -2367,7 +2367,7 @@ Herr Helder
 Was isch das?...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",57,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 174,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2388,7 +2388,7 @@ Was es isch?... 's isch, ass alles züe nit geht...
                     
 
         
-",lustig-d-milhuser-in-paris,50,11,0.07596975163197185,0.22
+",58,lustig-d-milhuser-in-paris,50,11,0.07596975163197185,0.22
 175,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -2404,7 +2404,7 @@ Kei Mensch ka uns meh trenne!
                     
 
         
-",lustig-d-milhuser-in-paris,29,5,0.0,0.1724137931034483
+",58,lustig-d-milhuser-in-paris,29,5,0.0,0.1724137931034483
 176,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2416,7 +2416,7 @@ Herr Fix
 Sie heisse-n-also?...
 
         
-",lustig-d-milhuser-in-paris,12,3,0.0,0.25
+",58,lustig-d-milhuser-in-paris,12,3,0.0,0.25
 177,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2430,7 +2430,7 @@ Peter Finot, un uf dem Papier dert ha-n-ich g'lese, ass
                     
 
         
-",lustig-d-milhuser-in-paris,39,3,0.0,0.07692307692307693
+",59,lustig-d-milhuser-in-paris,39,3,0.0,0.07692307692307693
 178,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2444,7 +2444,7 @@ Arm Lisele!... arm Kind! ..
  Jo, Herr Finot!...
 
         
-",lustig-d-milhuser-in-paris,16,7,0.0802857142857143,0.4375
+",59,lustig-d-milhuser-in-paris,16,7,0.0802857142857143,0.4375
 179,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2456,7 +2456,7 @@ Herr Finot
 Eh bien... üse-n-emol mit dr Sproch...
 
         
-",lustig-d-milhuser-in-paris,13,2,0.33583750837247084,0.15384615384615385
+",59,lustig-d-milhuser-in-paris,13,2,0.33583750837247084,0.15384615384615385
 180,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2470,7 +2470,7 @@ Herr Fix
                     
 
         
-",lustig-d-milhuser-in-paris,24,2,0.0,0.08333333333333333
+",60,lustig-d-milhuser-in-paris,24,2,0.0,0.08333333333333333
 181,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2482,7 +2482,7 @@ Herr Finot
 So nooch als moglig... ich bi si Brüeder...
 
         
-",lustig-d-milhuser-in-paris,13,2,0.324,0.15384615384615385
+",60,lustig-d-milhuser-in-paris,13,2,0.324,0.15384615384615385
 182,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2493,7 +2493,7 @@ Worum hàn Sie wàhrend dàne zwolf Johr, ass er
                     
 
         
-",lustig-d-milhuser-in-paris,19,2,0.1015,0.10526315789473684
+",60,lustig-d-milhuser-in-paris,19,2,0.1015,0.10526315789473684
 183,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2506,7 +2506,7 @@ Das isch ganz eifach... ich bi wàhrend zwölf Johr in
                     
 
         
-",lustig-d-milhuser-in-paris,39,6,0.31516666666666665,0.15384615384615385
+",61,lustig-d-milhuser-in-paris,39,6,0.31516666666666665,0.15384615384615385
 184,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2518,7 +2518,7 @@ Herr Fix
 Ich ha wàhrend fünf Johr nit meh lo dri setze!...
 
         
-",lustig-d-milhuser-in-paris,15,2,0.1015,0.13333333333333333
+",61,lustig-d-milhuser-in-paris,15,2,0.1015,0.13333333333333333
 185,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2530,7 +2530,7 @@ So isch halt dà Fàtze Papier fünf Johr alt... doch das
                     
 
         
-",lustig-d-milhuser-in-paris,24,3,0.216,0.125
+",61,lustig-d-milhuser-in-paris,24,3,0.216,0.125
 186,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2539,7 +2539,7 @@ Herr Fix.
 Känne Sie's 'nitt schätze... ung'fähr?
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",62,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 187,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2554,7 +2554,7 @@ Benefice...
                     
 
         
-",lustig-d-milhuser-in-paris,45,3,0.0,0.06666666666666667
+",62,lustig-d-milhuser-in-paris,45,3,0.0,0.06666666666666667
 188,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2563,7 +2563,7 @@ Herr Fix.
 Hàn ihr in Paris mitnander theilt?...
 
         
-",lustig-d-milhuser-in-paris,8,2,0.0,0.25
+",62,lustig-d-milhuser-in-paris,8,2,0.0,0.25
 189,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2572,7 +2572,7 @@ Herr Finot.
 Nei, in England...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",63,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 190,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2583,7 +2583,7 @@ Also isch Ihr Brüeder, wo-n-er g'storwe-n-isch, erst e
                     
 
         
-",lustig-d-milhuser-in-paris,19,2,0.324,0.10526315789473684
+",63,lustig-d-milhuser-in-paris,19,2,0.324,0.10526315789473684
 191,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2594,7 +2594,7 @@ Ein oder zwei Tàg höchstens, ka-n-er in Paris gsi
                     
 
         
-",lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
+",63,lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
 192,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2603,7 +2603,7 @@ Herr Fix.
 Un Sie?
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",64,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 193,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2615,7 +2615,7 @@ Ich?... dr 8. Mai bin ich wieder furt nach Amerika, ohne
                     
 
         
-",lustig-d-milhuser-in-paris,30,4,0.162,0.13333333333333333
+",64,lustig-d-milhuser-in-paris,30,4,0.162,0.13333333333333333
 194,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2624,7 +2624,7 @@ Herr Fix.
 Wie wisse Sie, ass er do in Paris gsi isch?
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",64,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 195,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2635,7 +2635,7 @@ Ich denk mr's... er hat im Sinn g'ha, sich in Versailles
                     
 
         
-",lustig-d-milhuser-in-paris,16,1,0.0,0.0625
+",65,lustig-d-milhuser-in-paris,16,1,0.0,0.0625
 196,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2652,7 +2652,7 @@ Ihre-n-Antworte stimme-n-alle mit dàne Schrifte,
                     
 
         
-",lustig-d-milhuser-in-paris,45,5,0.42800000000000005,0.1111111111111111
+",65,lustig-d-milhuser-in-paris,45,5,0.42800000000000005,0.1111111111111111
 197,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2668,7 +2668,7 @@ Natirlig... 's isch nitt meh as billig... glickligerwis
                     
 
         
-",lustig-d-milhuser-in-paris,35,3,0.44799999999999995,0.08571428571428572
+",65,lustig-d-milhuser-in-paris,35,3,0.44799999999999995,0.08571428571428572
 198,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2680,7 +2680,7 @@ Herr Fix
 's ganz gliche wie das vo sim Brüeder!...
 
         
-",lustig-d-milhuser-in-paris,14,4,0.162,0.2857142857142857
+",66,lustig-d-milhuser-in-paris,14,4,0.162,0.2857142857142857
 199,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2692,7 +2692,7 @@ Do isch emoi mi Geburtsschin... un do mi Pass... un do
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.3045,0.08695652173913043
+",66,lustig-d-milhuser-in-paris,23,2,0.3045,0.08695652173913043
 200,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2714,7 +2714,7 @@ Zwei G'schàftsbriefe, wo mit « Liewer Brüeder » afange
                     
 
         
-",lustig-d-milhuser-in-paris,65,10,0.24906672679516903,0.15384615384615385
+",66,lustig-d-milhuser-in-paris,65,10,0.24906672679516903,0.15384615384615385
 201,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2728,7 +2728,7 @@ As dr Ripper fire z'lange... nur her mit... er kunnt mr
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
+",67,lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
 202,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2739,7 +2739,7 @@ Erlaüwe Sie, mr noch z'erst, Ihne z'verzähle, uf was fir
                     
 
         
-",lustig-d-milhuser-in-paris,23,4,0.162,0.17391304347826086
+",67,lustig-d-milhuser-in-paris,23,4,0.162,0.17391304347826086
 203,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2752,7 +2752,7 @@ Bàh, bàh, bàh... das isch unnöthig... fir was geh Zit
                     
 
         
-",lustig-d-milhuser-in-paris,42,5,0.0,0.11904761904761904
+",67,lustig-d-milhuser-in-paris,42,5,0.0,0.11904761904761904
 204,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2766,7 +2766,7 @@ Ich halt ewe dra, Ihne z'sage, worum ass ich si
                     
 
         
-",lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
+",68,lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
 205,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2782,7 +2782,7 @@ Allons... 's isch mr eins... awer flink,
           
 
         
-",lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
+",68,lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
 206,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2813,7 +2813,7 @@ So flink as möglig... Dr 8. Mai denn anno 1868 bin ich
                     
 
         
-",lustig-d-milhuser-in-paris,228,31,0.09128585289535768,0.13596491228070176
+",68,lustig-d-milhuser-in-paris,228,31,0.09128585289535768,0.13596491228070176
 207,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2825,7 +2825,7 @@ Herr Finot
 Was! Sie hàn d'Intresse nitt zoge vo dem Geld?...
 
         
-",lustig-d-milhuser-in-paris,15,2,0.2724687303562737,0.13333333333333333
+",69,lustig-d-milhuser-in-paris,15,2,0.2724687303562737,0.13333333333333333
 208,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2837,7 +2837,7 @@ D'Intresse?... was meine Sie mit dem... 's sin d'ganz
                     
 
         
-",lustig-d-milhuser-in-paris,26,4,0.18175,0.15384615384615385
+",69,lustig-d-milhuser-in-paris,26,4,0.18175,0.15384615384615385
 209,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2848,7 +2848,7 @@ Sie hàn se nitt placiert ut Actione, Rente oder uf
                     
 
         
-",lustig-d-milhuser-in-paris,16,2,0.0,0.125
+",69,lustig-d-milhuser-in-paris,16,2,0.0,0.125
 210,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2857,7 +2857,7 @@ Herr Fix.
 Nei...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",70,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 211,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2866,7 +2866,7 @@ Herr Finot.
 Un Sie hàn se-n-eso zwölf Johr versteckt g'ha...
 
         
-",lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
+",70,lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
 212,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2875,7 +2875,7 @@ Herr Fix.
 Jo...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",70,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 213,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -2886,7 +2886,7 @@ Wisse Sie denn nitt, ass sich e Capital in vierzeh Johr
                     
 
         
-",lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
+",71,lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
 214,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2897,7 +2897,7 @@ Ich weiss es... awer ich ha 's Recht nitt g'ha, das Geld
                     
 
         
-",lustig-d-milhuser-in-paris,16,4,0.3452343651781369,0.25
+",71,lustig-d-milhuser-in-paris,16,4,0.3452343651781369,0.25
 215,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2909,7 +2909,7 @@ Herr Finot
 Das isch kei G'spass, güeter Frind...
 
         
-",lustig-d-milhuser-in-paris,11,4,0.15400862015375436,0.36363636363636365
+",71,lustig-d-milhuser-in-paris,11,4,0.15400862015375436,0.36363636363636365
 216,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -2933,7 +2933,7 @@ Herr Finot... Sie vergesse, ass ich d'ganze Summe hätt
                     
 
         
-",lustig-d-milhuser-in-paris,91,11,0.04972727272727273,0.12087912087912088
+",72,lustig-d-milhuser-in-paris,91,11,0.04972727272727273,0.12087912087912088
 217,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2956,7 +2956,7 @@ Zweieninzigtaüsend Franke... Kritzbataillon!... jetz
                     
 
         
-",lustig-d-milhuser-in-paris,71,14,0.1400714285714286,0.19718309859154928
+",72,lustig-d-milhuser-in-paris,71,14,0.1400714285714286,0.19718309859154928
 218,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2972,7 +2972,7 @@ Das sin d'Üsgawe, wo-n-ich g'ha ha... fir 's Nosüeche un
           
 
         
-",lustig-d-milhuser-in-paris,28,2,0.0,0.07142857142857142
+",72,lustig-d-milhuser-in-paris,28,2,0.0,0.07142857142857142
 219,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -2989,7 +2989,7 @@ Pristi... fir wer nàmme Sie mich mit Ihrer
                     
 
         
-",lustig-d-milhuser-in-paris,31,2,0.0,0.06451612903225806
+",73,lustig-d-milhuser-in-paris,31,2,0.0,0.06451612903225806
 220,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -2998,7 +2998,7 @@ Herr Fix.
 Ich will kei Sü mehr as was mir g'hört.
 
         
-",lustig-d-milhuser-in-paris,11,1,0.0,0.09090909090909091
+",73,lustig-d-milhuser-in-paris,11,1,0.0,0.09090909090909091
 221,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3030,7 +3030,7 @@ Wenn Sie durechüs nitt wànn...
                     
 
         
-",lustig-d-milhuser-in-paris,134,15,0.1864444845301127,0.11194029850746269
+",73,lustig-d-milhuser-in-paris,134,15,0.1864444845301127,0.11194029850746269
 222,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3049,7 +3049,7 @@ Elise, gang iwere in Di Zimmer, uf dr Stell!!...
                     
 
         
-",lustig-d-milhuser-in-paris,37,5,0.1282,0.13513513513513514
+",74,lustig-d-milhuser-in-paris,37,5,0.1282,0.13513513513513514
 223,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3062,7 +3062,7 @@ Herr Finot
 Was hàn Se fir e Name-n-üsg'sproche?...
 
         
-",lustig-d-milhuser-in-paris,23,5,0.0,0.21739130434782608
+",74,lustig-d-milhuser-in-paris,23,5,0.0,0.21739130434782608
 224,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3074,7 +3074,7 @@ Herr Fix
 Im Herr Helder siner...
 
         
-",lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
+",74,lustig-d-milhuser-in-paris,9,2,0.0,0.2222222222222222
 225,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3086,7 +3086,7 @@ Herr Finot
 Wer heisst denn eso?
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",75,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 226,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3095,7 +3095,7 @@ Herr Fix.
 Eh... dà junge Mensch do!...
 
         
-",lustig-d-milhuser-in-paris,7,3,0.22389167224831388,0.42857142857142855
+",75,lustig-d-milhuser-in-paris,7,3,0.22389167224831388,0.42857142857142855
 227,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3109,7 +3109,7 @@ Herr Finot
 Sie heisse Helder?
 
         
-",lustig-d-milhuser-in-paris,19,4,0.0,0.21052631578947367
+",75,lustig-d-milhuser-in-paris,19,4,0.0,0.21052631578947367
 228,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3121,7 +3121,7 @@ Herr Helder
 Natirlig...
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",76,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 229,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3130,7 +3130,7 @@ Herr Finot.
 Sin Sie vo Milhüse?
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",76,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 230,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3139,7 +3139,7 @@ Herr Helder.
 Das isch sicher...
 
         
-",lustig-d-milhuser-in-paris,5,2,0.336,0.4
+",76,lustig-d-milhuser-in-paris,5,2,0.336,0.4
 231,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3150,7 +3150,7 @@ Ihr Vater isch Matros gsi un isch umku im e
                     
 
         
-",lustig-d-milhuser-in-paris,13,2,0.293,0.15384615384615385
+",77,lustig-d-milhuser-in-paris,13,2,0.293,0.15384615384615385
 232,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3159,7 +3159,7 @@ Herr Helder.
 's isch ganz das!... awer wie wisse Sie...
 
         
-",lustig-d-milhuser-in-paris,10,2,0.0,0.2
+",77,lustig-d-milhuser-in-paris,10,2,0.0,0.2
 233,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3176,7 +3176,7 @@ Dunnerwetter!... Kritz-Bataillon!...
                     
 
         
-",lustig-d-milhuser-in-paris,28,4,0.05075,0.14285714285714285
+",77,lustig-d-milhuser-in-paris,28,4,0.05075,0.14285714285714285
 234,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3185,7 +3185,7 @@ Herr Helder.
 Wie... mi Müetter?...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",78,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 235,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3194,7 +3194,7 @@ Herr Finot.
 Hat sie-n-en denn nitt biku?...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",78,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 236,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3203,7 +3203,7 @@ Herr Helder.
 Was biku?...
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",78,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 237,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3214,7 +3214,7 @@ Ich will sage Ihre Müetter... wo isch Ihre Müetter, Herr
                     
 
         
-",lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
+",79,lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
 238,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3226,7 +3226,7 @@ Herr Helder
 Mi Müetter isch g'storwe, hàn Sie se denn kennt?
 
         
-",lustig-d-milhuser-in-paris,14,2,0.0,0.14285714285714285
+",79,lustig-d-milhuser-in-paris,14,2,0.0,0.14285714285714285
 239,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3242,7 +3242,7 @@ Ich glaüb, das Geld hat ne narràchtig g'macht.
           
 
         
-",lustig-d-milhuser-in-paris,22,6,0.33137273111162857,0.2727272727272727
+",79,lustig-d-milhuser-in-paris,22,6,0.33137273111162857,0.2727272727272727
 240,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3256,7 +3256,7 @@ Ich?... niemols... ich ha Ihre Müetter miner Làbtig nitt
                     
 
         
-",lustig-d-milhuser-in-paris,17,3,0.24233333333333332,0.17647058823529413
+",80,lustig-d-milhuser-in-paris,17,3,0.24233333333333332,0.17647058823529413
 241,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3265,7 +3265,7 @@ Herr Helder.
 So isch's also mi Vater, wo Sie kennt hàn?
 
         
-",lustig-d-milhuser-in-paris,12,2,0.293,0.16666666666666666
+",80,lustig-d-milhuser-in-paris,12,2,0.293,0.16666666666666666
 242,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3289,7 +3289,7 @@ Nei... nei... Hundertmol nei, Kritz-Bataillon !
                     
 
         
-",lustig-d-milhuser-in-paris,70,6,0.0,0.08571428571428572
+",80,lustig-d-milhuser-in-paris,70,6,0.0,0.08571428571428572
 243,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3300,7 +3300,7 @@ Sie hàn noch gar nit g'sàit... drum wenn Se mr
                     
 
         
-",lustig-d-milhuser-in-paris,15,1,0.0,0.06666666666666667
+",81,lustig-d-milhuser-in-paris,15,1,0.0,0.06666666666666667
 244,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3319,7 +3319,7 @@ Das isch glich expliziert... junger Mensch... ich ha uf
                     
 
         
-",lustig-d-milhuser-in-paris,70,11,0.1740909090909091,0.15714285714285714
+",81,lustig-d-milhuser-in-paris,70,11,0.1740909090909091,0.15714285714285714
 245,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3331,7 +3331,7 @@ Herr Helder
 Das Ding glaüw-ich alles nur halwer...
 
         
-",lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
+",81,lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
 246,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3347,7 +3347,7 @@ Das isch e possige G'schichte
                     
 
         
-",lustig-d-milhuser-in-paris,29,5,0.0,0.1724137931034483
+",82,lustig-d-milhuser-in-paris,29,5,0.0,0.1724137931034483
 247,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3372,7 +3372,7 @@ igange...
                     
 
         
-",lustig-d-milhuser-in-paris,85,5,0.26678749214250946,0.058823529411764705
+",82,lustig-d-milhuser-in-paris,85,5,0.26678749214250946,0.058823529411764705
 248,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3384,7 +3384,7 @@ Herr Helder
 Als was thien Sie mir das offeriere?
 
         
-",lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
+",82,lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
 249,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3393,7 +3393,7 @@ Herr Finot.
 Als güeter Frind... pristi!...
 
         
-",lustig-d-milhuser-in-paris,6,3,0.20534482687167246,0.5
+",83,lustig-d-milhuser-in-paris,6,3,0.20534482687167246,0.5
 250,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3402,7 +3402,7 @@ Herr Helder.
 Mr hàn is jo erst zweimal g'sàh...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",83,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 251,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3411,7 +3411,7 @@ Herr Finot.
 Als alter Frind denn vo-n-Ihrem Vater...
 
         
-",lustig-d-milhuser-in-paris,10,4,0.4470086201537543,0.4
+",83,lustig-d-milhuser-in-paris,10,4,0.4470086201537543,0.4
 252,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3420,7 +3420,7 @@ Herr Helder.
 Sie hàn ihn jo küm kennt, hàn Sie mir g'sàit.
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",84,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 253,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3432,7 +3432,7 @@ Nu denn... als Ihr' Schuldner... Se hà mir e Dienst
                     
 
         
-",lustig-d-milhuser-in-paris,25,2,0.0,0.08
+",84,lustig-d-milhuser-in-paris,25,2,0.0,0.08
 254,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3442,7 +3442,7 @@ Ich dank Ihne fit dr güete Wille, awer ich refüsier..
                     
 
         
-",lustig-d-milhuser-in-paris,12,3,0.0,0.25
+",84,lustig-d-milhuser-in-paris,12,3,0.0,0.25
 255,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -3451,7 +3451,7 @@ Herr Finot.
 Un worum das?...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",85,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 256,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3463,7 +3463,7 @@ Herr Helder.
                     
 
         
-",lustig-d-milhuser-in-paris,32,7,0.14784277860490258,0.21875
+",85,lustig-d-milhuser-in-paris,32,7,0.14784277860490258,0.21875
 257,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3481,7 +3481,7 @@ Das sin G'schichte!... pristi... was fir e possig Hüs,
           
 
         
-",lustig-d-milhuser-in-paris,47,6,0.09082291011875791,0.1276595744680851
+",85,lustig-d-milhuser-in-paris,47,6,0.09082291011875791,0.1276595744680851
 258,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3493,7 +3493,7 @@ Nur e Minute noch... Sage Se mr...
 Nit... nit in dem Moment!...
 
         
-",lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
+",86,lustig-d-milhuser-in-paris,14,1,0.0,0.07142857142857142
 259,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3502,7 +3502,7 @@ Herr Helder.
 Wo laüfe Se ane?...
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",86,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 260,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -3518,7 +3518,7 @@ In ere Stund bin i Millionär
                     
 
         
-",lustig-d-milhuser-in-paris,24,1,0.0,0.041666666666666664
+",86,lustig-d-milhuser-in-paris,24,1,0.0,0.041666666666666664
 261,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3534,7 +3534,7 @@ Herr Helder
                     
 
         
-",lustig-d-milhuser-in-paris,43,7,0.31028571428571433,0.16279069767441862
+",87,lustig-d-milhuser-in-paris,43,7,0.31028571428571433,0.16279069767441862
 262,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3550,7 +3550,7 @@ Ne Sturmwind... jà... wo alle-n-unsere Plàn umg'worfe
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
+",87,lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
 263,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3564,7 +3564,7 @@ Jetz heisst's erst kàmpft... denn wenn dr Herr Fix ebbes
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.0,0.15
+",87,lustig-d-milhuser-in-paris,20,3,0.0,0.15
 264,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3573,7 +3573,7 @@ Herr Fix.
 Ich müess Ihne vor allem jetz verzähle...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",88,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 265,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3591,7 +3591,7 @@ Herr Helder
                     
 
         
-",lustig-d-milhuser-in-paris,62,9,0.2761643530569103,0.14516129032258066
+",88,lustig-d-milhuser-in-paris,62,9,0.2761643530569103,0.14516129032258066
 266,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3603,7 +3603,7 @@ Ich zwifel nitt dra... denn Sie sin e rechtschaffener
                     
 
         
-",lustig-d-milhuser-in-paris,24,3,0.0,0.125
+",88,lustig-d-milhuser-in-paris,24,3,0.0,0.125
 267,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3617,7 +3617,7 @@ Un jetz, Herr Fix, wà mr e wenig vo wichtigere Sache
                     
 
         
-",lustig-d-milhuser-in-paris,29,3,0.22133333333333335,0.10344827586206896
+",89,lustig-d-milhuser-in-paris,29,3,0.22133333333333335,0.10344827586206896
 268,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3629,7 +3629,7 @@ Herr Fix
 Was hà mr üsg'macht g'ha?...
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",89,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 269,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3638,7 +3638,7 @@ Herr Helder.
 Ass Sie hit noch dr Hochzitstag b'stimme...
 
         
-",lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
+",89,lustig-d-milhuser-in-paris,9,1,0.0,0.1111111111111111
 270,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3650,7 +3650,7 @@ Herr Fix
 Hàn Sie mich denn nitt verstande?...
 
         
-",lustig-d-milhuser-in-paris,12,3,0.0,0.25
+",90,lustig-d-milhuser-in-paris,12,3,0.0,0.25
 271,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3663,7 +3663,7 @@ Ich ha verstande, ass me-n-Ihne Geld avertraüt hat un
                     
 
         
-",lustig-d-milhuser-in-paris,43,8,0.21331979125392153,0.18604651162790697
+",90,lustig-d-milhuser-in-paris,43,8,0.21331979125392153,0.18604651162790697
 272,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3678,7 +3678,7 @@ Herr Fix
                     
 
         
-",lustig-d-milhuser-in-paris,33,7,0.27099106581607824,0.21212121212121213
+",90,lustig-d-milhuser-in-paris,33,7,0.27099106581607824,0.21212121212121213
 273,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3690,7 +3690,7 @@ Gar nitt, Herr Fix, denn Sie hàn jo wohl g'wisst, ass
                     
 
         
-",lustig-d-milhuser-in-paris,25,3,0.20589239419934638,0.12
+",91,lustig-d-milhuser-in-paris,25,3,0.20589239419934638,0.12
 274,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3706,7 +3706,7 @@ Wenn's grien schneit!... Wie känne Sie sich wälle mit em
                     
 
         
-",lustig-d-milhuser-in-paris,43,8,0.08299999999999999,0.18604651162790697
+",91,lustig-d-milhuser-in-paris,43,8,0.08299999999999999,0.18604651162790697
 275,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3723,7 +3723,7 @@ hat,
                     
 
         
-",lustig-d-milhuser-in-paris,67,11,0.11006066072288094,0.16417910447761194
+",91,lustig-d-milhuser-in-paris,67,11,0.11006066072288094,0.16417910447761194
 276,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3732,7 +3732,7 @@ Herr Fix.
 's Elise hat's welle ha... nitt ich...
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",92,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 277,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3743,7 +3743,7 @@ Glaüwe Sie denn, Sie känne-n-ihre verbiete, mich gern
                     
 
         
-",lustig-d-milhuser-in-paris,14,3,0.42189236098517685,0.21428571428571427
+",92,lustig-d-milhuser-in-paris,14,3,0.42189236098517685,0.21428571428571427
 278,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3754,7 +3754,7 @@ Ich weiss es nitt... awer Sie bekämme mi Tochter
                     
 
         
-",lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
+",92,lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
 279,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3765,7 +3765,7 @@ Wenn jo d'Hiroth nur in de Riche-n-erlaübt wàr, so gieng
                     
 
         
-",lustig-d-milhuser-in-paris,18,1,0.0,0.05555555555555555
+",93,lustig-d-milhuser-in-paris,18,1,0.0,0.05555555555555555
 280,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3776,7 +3776,7 @@ Se soll abgeh... Sie bekämme-n-emol mi Tochter nitt...
                     
 
         
-",lustig-d-milhuser-in-paris,17,2,0.0,0.11764705882352941
+",93,lustig-d-milhuser-in-paris,17,2,0.0,0.11764705882352941
 281,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3793,7 +3793,7 @@ Nimmig dra z'denke!... meine Sie denn, das Ding blost
                     
 
         
-",lustig-d-milhuser-in-paris,53,11,0.3156018451817609,0.20754716981132076
+",93,lustig-d-milhuser-in-paris,53,11,0.3156018451817609,0.20754716981132076
 282,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3806,7 +3806,7 @@ Ich verlang's!... un im Nothfall thüe-n-ich's Ihne
                     
 
         
-",lustig-d-milhuser-in-paris,41,5,0.24566202969993695,0.12195121951219512
+",94,lustig-d-milhuser-in-paris,41,5,0.24566202969993695,0.12195121951219512
 283,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3821,7 +3821,7 @@ Wer sàit Ihne, ass mir in d'Armüeth kämme... Sie
                     
 
         
-",lustig-d-milhuser-in-paris,48,6,0.422,0.125
+",94,lustig-d-milhuser-in-paris,48,6,0.422,0.125
 284,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3833,7 +3833,7 @@ Ich zwifel nitt an Ihrem Talent... awer bis es emol thàt
                     
 
         
-",lustig-d-milhuser-in-paris,26,4,0.1405,0.15384615384615385
+",94,lustig-d-milhuser-in-paris,26,4,0.1405,0.15384615384615385
 285,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3845,7 +3845,7 @@ Herr Helder
 Un ich bekumm se... ich schwör's!
 
         
-",lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
+",95,lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
 286,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3864,7 +3864,7 @@ Un Sie bekämme se nitt!...
                     
 
         
-",lustig-d-milhuser-in-paris,49,9,0.14940856477283673,0.1836734693877551
+",95,lustig-d-milhuser-in-paris,49,9,0.14940856477283673,0.1836734693877551
 287,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3876,7 +3876,7 @@ Herr Helder
 Nie!...
 
         
-",lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
+",95,lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
 288,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -3888,7 +3888,7 @@ Herr Fix
 So isch's also fertig zwische-n-uns!...
 
         
-",lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
+",96,lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
 289,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3897,7 +3897,7 @@ Herr Helder.
 Isch das Ihr letscht Wort?...
 
         
-",lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
+",96,lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
 290,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3906,7 +3906,7 @@ Herr Fix.
 Jà!...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",96,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 291,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3918,7 +3918,7 @@ Herr Helder.
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.159,0.15
+",97,lustig-d-milhuser-in-paris,20,3,0.159,0.15
 292,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3927,7 +3927,7 @@ Herr Fix.
 Uf mi Tod, nitt wohr?...
 
         
-",lustig-d-milhuser-in-paris,7,4,0.19725,0.5714285714285714
+",97,lustig-d-milhuser-in-paris,7,4,0.19725,0.5714285714285714
 293,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -3938,7 +3938,7 @@ Nei... bis 's Elise zwanzig Johr alt isch...
           
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",97,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 294,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3949,7 +3949,7 @@ Güet, awer bis derthi thüe-n-ich Ihne einstwile d'Thüre
                     
 
         
-",lustig-d-milhuser-in-paris,21,4,0.162,0.19047619047619047
+",98,lustig-d-milhuser-in-paris,21,4,0.162,0.19047619047619047
 295,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -3963,7 +3963,7 @@ Ich sieh se, un red mit ere, un hiroth se, eb Sie wànn
                     
 
         
-",lustig-d-milhuser-in-paris,20,2,0.0,0.1
+",98,lustig-d-milhuser-in-paris,20,2,0.0,0.1
 296,comedy,Herr FIX,M,,,,"
           
 Herr Fix.
@@ -3976,7 +3976,7 @@ Me wird sine Massregle dergege-n-ergriffe, Herr Helder
                     
 
         
-",lustig-d-milhuser-in-paris,23,3,0.0,0.13043478260869565
+",98,lustig-d-milhuser-in-paris,23,3,0.0,0.13043478260869565
 297,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4068,7 +4068,7 @@ Ich ha viellicht Unrecht g'ha, ass ich ihm eso trutzt
           
 
         
-",lustig-d-milhuser-in-paris,652,70,0.17314443895303358,0.10736196319018405
+",99,lustig-d-milhuser-in-paris,652,70,0.17314443895303358,0.10736196319018405
 298,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -4080,7 +4080,7 @@ Fraü Simon
 Eh bien... was ha-n-i g'sàit g'ha?...
 
         
-",lustig-d-milhuser-in-paris,17,2,0.33583750837247084,0.11764705882352941
+",99,lustig-d-milhuser-in-paris,17,2,0.33583750837247084,0.11764705882352941
 299,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4089,7 +4089,7 @@ Herr Helder.
 Vo was red' Se, Fraü Simon?...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",99,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 300,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4098,7 +4098,7 @@ Fraü Simon.
 Ha-n-ich Sie nitt allewil g'warnt vor dàne Lit!
 
         
-",lustig-d-milhuser-in-paris,12,1,0.617,0.08333333333333333
+",100,lustig-d-milhuser-in-paris,12,1,0.617,0.08333333333333333
 301,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4110,7 +4110,7 @@ Herr Helder
 Vo welle Lit?...
 
         
-",lustig-d-milhuser-in-paris,8,2,0.0,0.25
+",100,lustig-d-milhuser-in-paris,8,2,0.0,0.25
 302,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4119,7 +4119,7 @@ Fraü Simon.
 Vo dr Familie Fix denn!...
 
         
-",lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
+",100,lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
 303,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4130,7 +4130,7 @@ Isch Se-n-eso güet un red' Se mit e wenig mehr Respekt
                     
 
         
-",lustig-d-milhuser-in-paris,18,4,0.36924999999999997,0.2222222222222222
+",101,lustig-d-milhuser-in-paris,18,4,0.36924999999999997,0.2222222222222222
 304,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4142,7 +4142,7 @@ Me respektiert se, me respektiert se, awer wege dem loss
                     
 
         
-",lustig-d-milhuser-in-paris,26,3,0.26299999999999996,0.11538461538461539
+",101,lustig-d-milhuser-in-paris,26,3,0.26299999999999996,0.11538461538461539
 305,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4151,7 +4151,7 @@ Herr Helder.
 Scho wieder die Dummheite!...
 
         
-",lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
+",101,lustig-d-milhuser-in-paris,6,2,0.0,0.3333333333333333
 306,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4162,7 +4162,7 @@ Was, Dummheite!... worum isch er denn uf un dervo, wenn
                     
 
         
-",lustig-d-milhuser-in-paris,20,4,0.12061832413073507,0.2
+",102,lustig-d-milhuser-in-paris,20,4,0.12061832413073507,0.2
 307,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4171,7 +4171,7 @@ Herr Helder.
 Uf un dervo... dr Herr Fix?...
 
         
-",lustig-d-milhuser-in-paris,8,3,0.0,0.375
+",102,lustig-d-milhuser-in-paris,8,3,0.0,0.375
 308,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4182,7 +4182,7 @@ Ah! das sin Dummheite? .. Scho güet... wenn Sie wisse
                     
 
         
-",lustig-d-milhuser-in-paris,15,2,0.0,0.13333333333333333
+",102,lustig-d-milhuser-in-paris,15,2,0.0,0.13333333333333333
 309,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4193,7 +4193,7 @@ Was isch denn g'schàh?... expliziert Se sich emol, Fraü
                     
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",103,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 310,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon.
@@ -4217,7 +4217,7 @@ Also denn... vor ere Viertelstund ung'fàhr, wo-n-ich
                     
 
         
-",lustig-d-milhuser-in-paris,157,14,0.21399281787387983,0.08917197452229299
+",103,lustig-d-milhuser-in-paris,157,14,0.21399281787387983,0.08917197452229299
 311,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4229,7 +4229,7 @@ Herr Helder
 Furt!... 's Elise furt!... Oh, das isch unmöglig!...
 
         
-",lustig-d-milhuser-in-paris,13,2,0.1015,0.15384615384615385
+",103,lustig-d-milhuser-in-paris,13,2,0.1015,0.15384615384615385
 312,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -4242,7 +4242,7 @@ So wohr as das dr Schlüssel isch vu ihrer Wohnung!...
                     
 
         
-",lustig-d-milhuser-in-paris,17,1,0.789,0.058823529411764705
+",104,lustig-d-milhuser-in-paris,17,1,0.789,0.058823529411764705
 313,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4260,7 +4260,7 @@ Oh!... un an allem dem isch dà miserawle Finot
                     
 
         
-",lustig-d-milhuser-in-paris,50,5,0.1349473419337836,0.1
+",104,lustig-d-milhuser-in-paris,50,5,0.1349473419337836,0.1
 314,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -4272,7 +4272,7 @@ Fraü Simon
 Ah çà, was hat er denn, dr Herr Helder?...
 
         
-",lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
+",104,lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
 315,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4288,7 +4288,7 @@ Er!... Er!...
           
 
         
-",lustig-d-milhuser-in-paris,23,6,0.11066666666666668,0.2608695652173913
+",105,lustig-d-milhuser-in-paris,23,6,0.11066666666666668,0.2608695652173913
 316,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4305,7 +4305,7 @@ Jà, ich, junger Mensch!...
                     
 
         
-",lustig-d-milhuser-in-paris,28,3,0.19345420245119427,0.10714285714285714
+",105,lustig-d-milhuser-in-paris,28,3,0.19345420245119427,0.10714285714285714
 317,comedy,Fraü SIMON,F,,,,"
           
 Fraü Simon
@@ -4321,7 +4321,7 @@ Isch das emol e-n-unverschàmter Kamerad!...
                     
 
         
-",lustig-d-milhuser-in-paris,23,3,0.4324473322847395,0.13043478260869565
+",105,lustig-d-milhuser-in-paris,23,3,0.4324473322847395,0.13043478260869565
 318,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4335,7 +4335,7 @@ Verzeihe Se, wenn ich scho wieder... ah çà... was hàn
                     
 
         
-",lustig-d-milhuser-in-paris,27,4,0.13675,0.14814814814814814
+",106,lustig-d-milhuser-in-paris,27,4,0.13675,0.14814814814814814
 319,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4347,7 +4347,7 @@ Herr Helder
 Finde Se?... 's isch nit... 's vergeht wieder...
 
         
-",lustig-d-milhuser-in-paris,13,3,0.0,0.23076923076923078
+",106,lustig-d-milhuser-in-paris,13,3,0.0,0.23076923076923078
 320,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4361,7 +4361,7 @@ Desto besser... Desto besser... Wisse Sie, ass ich mit
                     
 
         
-",lustig-d-milhuser-in-paris,27,6,0.08081234240074227,0.2222222222222222
+",106,lustig-d-milhuser-in-paris,27,6,0.08081234240074227,0.2222222222222222
 321,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4377,7 +4377,7 @@ Herr Helder
                     
 
         
-",lustig-d-milhuser-in-paris,26,5,0.11240000000000001,0.19230769230769232
+",107,lustig-d-milhuser-in-paris,26,5,0.11240000000000001,0.19230769230769232
 322,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4391,7 +4391,7 @@ He... will ich Ihne ebbes g'steh müess, wo ziemlig
                     
 
         
-",lustig-d-milhuser-in-paris,20,3,0.16162468480148454,0.15
+",107,lustig-d-milhuser-in-paris,20,3,0.16162468480148454,0.15
 323,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4403,7 +4403,7 @@ Herr Helder
 Un was soll das sie?
 
         
-",lustig-d-milhuser-in-paris,10,1,0.0,0.1
+",107,lustig-d-milhuser-in-paris,10,1,0.0,0.1
 324,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4414,7 +4414,7 @@ Ich müess Ihne sage, Herr Helder, ass ich unrecht gege
                     
 
         
-",lustig-d-milhuser-in-paris,17,4,0.0995,0.23529411764705882
+",108,lustig-d-milhuser-in-paris,17,4,0.0995,0.23529411764705882
 325,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4423,7 +4423,7 @@ Herr Helder.
 Sie?
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",108,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 326,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4435,7 +4435,7 @@ Ich hätt's Ihne känne fir allewil verstecke... awer mi'
                     
 
         
-",lustig-d-milhuser-in-paris,27,6,0.3915966212129791,0.2222222222222222
+",108,lustig-d-milhuser-in-paris,27,6,0.3915966212129791,0.2222222222222222
 327,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4452,7 +4452,7 @@ Allons... wenn er's bereüt, so verzeih ich's em, er isch
                     
 
         
-",lustig-d-milhuser-in-paris,35,5,0.11240000000000001,0.14285714285714285
+",109,lustig-d-milhuser-in-paris,35,5,0.11240000000000001,0.14285714285714285
 328,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4466,7 +4466,7 @@ Herr Finot.
                     
 
         
-",lustig-d-milhuser-in-paris,33,7,0.16852907926602256,0.21212121212121213
+",109,lustig-d-milhuser-in-paris,33,7,0.16852907926602256,0.21212121212121213
 329,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4477,7 +4477,7 @@ Wenn Sie's eso schwer finde, so sage Sie's nitt... 's
                     
 
         
-",lustig-d-milhuser-in-paris,19,3,0.0,0.15789473684210525
+",109,lustig-d-milhuser-in-paris,19,3,0.0,0.15789473684210525
 330,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4489,7 +4489,7 @@ Herr Finot
 Ah bàh!...
 
         
-",lustig-d-milhuser-in-paris,8,2,0.0,0.25
+",110,lustig-d-milhuser-in-paris,8,2,0.0,0.25
 331,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4500,7 +4500,7 @@ Herr Helder.
                     
 
         
-",lustig-d-milhuser-in-paris,11,3,0.5053333333333333,0.2727272727272727
+",110,lustig-d-milhuser-in-paris,11,3,0.5053333333333333,0.2727272727272727
 332,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4512,7 +4512,7 @@ Vo « Ihre »... Kritz-Bataillon... 's isch wohr, Sie
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.3945,0.08695652173913043
+",110,lustig-d-milhuser-in-paris,23,2,0.3945,0.08695652173913043
 333,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4521,7 +4521,7 @@ Herr Helder.
 Sie...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",111,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 334,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4530,7 +4530,7 @@ Herr Finot.
 Ich...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",111,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 335,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4541,7 +4541,7 @@ Do, lese Se...
 .
 
         
-",lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
+",111,lustig-d-milhuser-in-paris,13,1,0.0,0.07692307692307693
 336,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4558,7 +4558,7 @@ Ich kenn die Schrift, obschon se zwölf Johr jünger isch
           
 
         
-",lustig-d-milhuser-in-paris,32,4,0.15225,0.125
+",112,lustig-d-milhuser-in-paris,32,4,0.15225,0.125
 337,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4567,7 +4567,7 @@ Herr Helder.
 Sie hätte sich trumpiert...
 
         
-",lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
+",112,lustig-d-milhuser-in-paris,6,1,0.0,0.16666666666666666
 338,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4578,7 +4578,7 @@ Sie hàn's doch sicher no nitt g'wisst, wo-n-ich das
                     
 
         
-",lustig-d-milhuser-in-paris,15,3,0.4056458202375158,0.2
+",112,lustig-d-milhuser-in-paris,15,3,0.4056458202375158,0.2
 339,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4590,7 +4590,7 @@ Herr Helder
 Mi Geld...
 
         
-",lustig-d-milhuser-in-paris,8,3,0.18164582023751583,0.375
+",113,lustig-d-milhuser-in-paris,8,3,0.18164582023751583,0.375
 340,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4599,7 +4599,7 @@ Herr Finot.
 Wo-n-ich Ihre Geld reclamiert ha bim Herr Fix?...
 
         
-",lustig-d-milhuser-in-paris,12,3,0.18164582023751583,0.25
+",113,lustig-d-milhuser-in-paris,12,3,0.18164582023751583,0.25
 341,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4611,7 +4611,7 @@ Ich ha's vor ere halb Stund no nitt emol g'wisst...
                     
 
         
-",lustig-d-milhuser-in-paris,32,3,0.0,0.09375
+",113,lustig-d-milhuser-in-paris,32,3,0.0,0.09375
 342,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4624,7 +4624,7 @@ Herr Finot.
                     
 
         
-",lustig-d-milhuser-in-paris,37,5,0.3567473419337836,0.13513513513513514
+",114,lustig-d-milhuser-in-paris,37,5,0.3567473419337836,0.13513513513513514
 343,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4635,7 +4635,7 @@ Oh!... 's Geld isch's nitt emol gsi, wo mr am Meiste
                     
 
         
-",lustig-d-milhuser-in-paris,16,3,0.4239791535708492,0.1875
+",114,lustig-d-milhuser-in-paris,16,3,0.4239791535708492,0.1875
 344,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4648,7 +4648,7 @@ Jà... jà... ich merk's scho... un das isch, was mr nitt
                     
 
         
-",lustig-d-milhuser-in-paris,46,6,0.3034431466328424,0.13043478260869565
+",114,lustig-d-milhuser-in-paris,46,6,0.3034431466328424,0.13043478260869565
 345,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4657,7 +4657,7 @@ Herr Helder.
 Bàh! mr finde se wieder.
 
         
-",lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
+",115,lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
 346,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4669,7 +4669,7 @@ Herr Finot
 Pristi!... Sie sin e famoser Philosoph, Sie...
 
         
-",lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
+",115,lustig-d-milhuser-in-paris,12,1,0.0,0.08333333333333333
 347,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4678,7 +4678,7 @@ Herr Helder.
 Wieso das?...
 
         
-",lustig-d-milhuser-in-paris,4,1,0.0,0.25
+",115,lustig-d-milhuser-in-paris,4,1,0.0,0.25
 348,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4691,7 +4691,7 @@ Wieso?... wenn einer kunnt un stiehlt Ihne-n-Ihr Vermöge
                     
 
         
-",lustig-d-milhuser-in-paris,37,4,0.0,0.10810810810810811
+",116,lustig-d-milhuser-in-paris,37,4,0.0,0.10810810810810811
 349,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4704,7 +4704,7 @@ Ich müess Ihne g'steh, ass wenn ich Sie atroffe hätt,
                     
 
         
-",lustig-d-milhuser-in-paris,42,4,0.13623436517813686,0.09523809523809523
+",116,lustig-d-milhuser-in-paris,42,4,0.13623436517813686,0.09523809523809523
 350,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4715,7 +4715,7 @@ Herr Finot.
                     
 
         
-",lustig-d-milhuser-in-paris,11,2,0.2724687303562737,0.18181818181818182
+",116,lustig-d-milhuser-in-paris,11,2,0.2724687303562737,0.18181818181818182
 351,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4729,7 +4729,7 @@ Ah çà... Meister Finot... hàn Sie ebbe im Sinn, 's
                     
 
         
-",lustig-d-milhuser-in-paris,21,4,0.21100000000000002,0.19047619047619047
+",117,lustig-d-milhuser-in-paris,21,4,0.21100000000000002,0.19047619047619047
 352,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4741,7 +4741,7 @@ Ich ha gar nit im Sinn... awer wenn ich's doch nimmig
                     
 
         
-",lustig-d-milhuser-in-paris,24,3,0.24233333333333332,0.125
+",117,lustig-d-milhuser-in-paris,24,3,0.24233333333333332,0.125
 353,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4755,7 +4755,7 @@ Oh!... isch's denn möglig... so isch denn jetz alles
                     
 
         
-",lustig-d-milhuser-in-paris,17,2,0.0,0.11764705882352941
+",117,lustig-d-milhuser-in-paris,17,2,0.0,0.11764705882352941
 354,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4764,7 +4764,7 @@ Herr Finot.
 Vergange... verschwunde wie ne Seifeblotre...
 
         
-",lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
+",118,lustig-d-milhuser-in-paris,7,2,0.0,0.2857142857142857
 355,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4773,7 +4773,7 @@ Herr Helder.
 Un 's blibt Ene nit?
 
         
-",lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
+",118,lustig-d-milhuser-in-paris,7,1,0.0,0.14285714285714285
 356,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4782,7 +4782,7 @@ Herr Finot.
 Doch... Schulde!...
 
         
-",lustig-d-milhuser-in-paris,4,2,0.0,0.5
+",118,lustig-d-milhuser-in-paris,4,2,0.0,0.5
 357,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -4793,7 +4793,7 @@ So isch also 's Erbtheil vo mim Vater...
           
 
         
-",lustig-d-milhuser-in-paris,10,2,0.293,0.2
+",119,lustig-d-milhuser-in-paris,10,2,0.293,0.2
 358,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4802,7 +4802,7 @@ Herr Finot.
 Im Kückück züe!...
 
         
-",lustig-d-milhuser-in-paris,5,1,0.0,0.2
+",119,lustig-d-milhuser-in-paris,5,1,0.0,0.2
 359,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4814,7 +4814,7 @@ Herr Helder
 Elender Zittel!...
 
         
-",lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
+",119,lustig-d-milhuser-in-paris,13,2,0.0,0.15384615384615385
 360,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4827,7 +4827,7 @@ Nur druf, junger Mensch... nur druf... schlage Sie mich,
                     
 
         
-",lustig-d-milhuser-in-paris,39,6,0.0,0.15384615384615385
+",120,lustig-d-milhuser-in-paris,39,6,0.0,0.15384615384615385
 361,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4846,7 +4846,7 @@ Oh! wenn's kei alter Mann Wàr!
                     
 
         
-",lustig-d-milhuser-in-paris,45,11,0.13563636363636364,0.24444444444444444
+",120,lustig-d-milhuser-in-paris,45,11,0.13563636363636364,0.24444444444444444
 362,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4864,7 +4864,7 @@ Worum ha-n-ich das nitt vorüs gsàh!... Pristi...
                     
 
         
-",lustig-d-milhuser-in-paris,61,9,0.051849199601716384,0.14754098360655737
+",120,lustig-d-milhuser-in-paris,61,9,0.051849199601716384,0.14754098360655737
 363,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4879,7 +4879,7 @@ Mache Se-n-ass Se-n-üse kämme... Sie Elender... un thien
                     
 
         
-",lustig-d-milhuser-in-paris,33,7,0.0,0.21212121212121213
+",121,lustig-d-milhuser-in-paris,33,7,0.0,0.21212121212121213
 364,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4888,7 +4888,7 @@ Herr Finot.
 Ich spott nitt... denn ich schwör Ene uf mi Ehr...
 
         
-",lustig-d-milhuser-in-paris,12,4,0.11184586367373645,0.3333333333333333
+",121,lustig-d-milhuser-in-paris,12,4,0.11184586367373645,0.3333333333333333
 365,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4900,7 +4900,7 @@ Herr Helder
 Uf Ihre-n-Ehr...
 
         
-",lustig-d-milhuser-in-paris,9,4,0.11184586367373645,0.4444444444444444
+",121,lustig-d-milhuser-in-paris,9,4,0.11184586367373645,0.4444444444444444
 366,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4911,7 +4911,7 @@ Uf was as Sie wànn wege mir, ass es mi einzig Verlange
                     
 
         
-",lustig-d-milhuser-in-paris,22,5,0.10026202969993696,0.22727272727272727
+",122,lustig-d-milhuser-in-paris,22,5,0.10026202969993696,0.22727272727272727
 367,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4925,7 +4925,7 @@ Isch's wege dem, ass Sie mr mi Vermöge g'stohle
                     
 
         
-",lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
+",122,lustig-d-milhuser-in-paris,17,1,0.0,0.058823529411764705
 368,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -4943,7 +4943,7 @@ Was wànn Se halt... Wo-n-ich die Bankezettel g'spirt ha
                     
 
         
-",lustig-d-milhuser-in-paris,105,11,0.0,0.10476190476190476
+",122,lustig-d-milhuser-in-paris,105,11,0.0,0.10476190476190476
 369,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4960,7 +4960,7 @@ Nei... ich vergiss nitt, ass Sie ne Frind vo mim Vater
                     
 
         
-",lustig-d-milhuser-in-paris,55,9,0.35067049784611304,0.16363636363636364
+",123,lustig-d-milhuser-in-paris,55,9,0.35067049784611304,0.16363636363636364
 370,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -4974,7 +4974,7 @@ Herr Finot
 Herr Helder...
 
         
-",lustig-d-milhuser-in-paris,19,4,0.0,0.21052631578947367
+",123,lustig-d-milhuser-in-paris,19,4,0.0,0.21052631578947367
 371,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -4986,7 +4986,7 @@ Herr Helder
 Sin Se noch do?...
 
         
-",lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
+",123,lustig-d-milhuser-in-paris,12,2,0.0,0.16666666666666666
 372,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5004,7 +5004,7 @@ Vor ebb ich furt gang, ha-n-ich Ihne nur noch sage
           
 
         
-",lustig-d-milhuser-in-paris,71,9,0.0544402210579745,0.1267605633802817
+",124,lustig-d-milhuser-in-paris,71,9,0.0544402210579745,0.1267605633802817
 373,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -5018,7 +5018,7 @@ Herr Helder
 Warte Se... do... nàmme Se das.
 
         
-",lustig-d-milhuser-in-paris,22,3,0.159,0.13636363636363635
+",124,lustig-d-milhuser-in-paris,22,3,0.159,0.13636363636363635
 374,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5027,7 +5027,7 @@ Herr Finot.
 Ich!...
 
         
-",lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
+",124,lustig-d-milhuser-in-paris,3,1,0.0,0.3333333333333333
 375,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -5039,7 +5039,7 @@ Nàmme Se das... un gehn Se mr üs de-n-Aüge... ich gib's
                     
 
         
-",lustig-d-milhuser-in-paris,37,5,0.1454,0.13513513513513514
+",125,lustig-d-milhuser-in-paris,37,5,0.1454,0.13513513513513514
 376,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5050,7 +5050,7 @@ Was nutzt mich das alles, wenn Sie mir nitt verzeihe...
                     
 
         
-",lustig-d-milhuser-in-paris,21,3,0.18233333333333335,0.14285714285714285
+",125,lustig-d-milhuser-in-paris,21,3,0.18233333333333335,0.14285714285714285
 377,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -5069,7 +5069,7 @@ Was g'schàh isch, isch g'schàh... all mi Zorn, mi Hass
                     
 
         
-",lustig-d-milhuser-in-paris,47,9,0.125,0.19148936170212766
+",125,lustig-d-milhuser-in-paris,47,9,0.125,0.19148936170212766
 378,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5107,7 +5107,7 @@ Geld... un do
                     
 
         
-",lustig-d-milhuser-in-paris,192,22,0.17028295249613534,0.11458333333333333
+",126,lustig-d-milhuser-in-paris,192,22,0.17028295249613534,0.11458333333333333
 379,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -5123,7 +5123,7 @@ Was soll das heisse? ..
                     
 
         
-",lustig-d-milhuser-in-paris,17,3,0.22133333333333335,0.17647058823529413
+",126,lustig-d-milhuser-in-paris,17,3,0.22133333333333335,0.17647058823529413
 380,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5135,7 +5135,7 @@ Oh!... Sie derfe's nàh... 's isch ehrlig g'wunne.. un
                     
 
         
-",lustig-d-milhuser-in-paris,26,1,0.0,0.038461538461538464
+",126,lustig-d-milhuser-in-paris,26,1,0.0,0.038461538461538464
 381,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -5146,7 +5146,7 @@ Isch's e Träum oder isch's d'Wirkligkeit?.. O Elise...
                     
 
         
-",lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
+",127,lustig-d-milhuser-in-paris,18,2,0.0,0.1111111111111111
 382,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -5163,7 +5163,7 @@ Oh! ich dummer Narr!... d'Haüptsach vergiss i!
                     
 
         
-",lustig-d-milhuser-in-paris,39,5,0.1328,0.1282051282051282
+",127,lustig-d-milhuser-in-paris,39,5,0.1328,0.1282051282051282
 383,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder
@@ -5175,7 +5175,7 @@ Herr Helder
 Elise!...
 
         
-",lustig-d-milhuser-in-paris,8,1,0.0,0.125
+",127,lustig-d-milhuser-in-paris,8,1,0.0,0.125
 385,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -5190,7 +5190,7 @@ Was isch denn jetz das eigentlig fir e G'schichte mit
                     
 
         
-",lustig-d-milhuser-in-paris,33,5,0.2043874921425095,0.15151515151515152
+",128,lustig-d-milhuser-in-paris,33,5,0.2043874921425095,0.15151515151515152
 386,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -5209,7 +5209,7 @@ do
                     
 
         
-",lustig-d-milhuser-in-paris,52,6,0.057333333333333326,0.11538461538461539
+",128,lustig-d-milhuser-in-paris,52,6,0.057333333333333326,0.11538461538461539
 387,comedy,ELISE,F,,,,"
           
 Elise
@@ -5224,7 +5224,7 @@ Mr hàn uf unserer Flucht dr Herr Finot atroffe... er hat
                     
 
         
-",lustig-d-milhuser-in-paris,32,7,0.14784277860490258,0.21875
+",129,lustig-d-milhuser-in-paris,32,7,0.14784277860490258,0.21875
 388,comedy,Herr FINOT,M,,,,"
           
 Herr Finot.
@@ -5234,7 +5234,7 @@ Ich ha in Alle welle-n-emol e rechter Spuck spiele!...
                     
 
         
-",lustig-d-milhuser-in-paris,13,4,0.1445,0.3076923076923077
+",129,lustig-d-milhuser-in-paris,13,4,0.1445,0.3076923076923077
 389,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -5245,7 +5245,7 @@ Wo Ihne-n-awer hatt kanne fehle, Herr Finot... wenn Sie
                     
 
         
-",lustig-d-milhuser-in-paris,15,4,0.0,0.26666666666666666
+",129,lustig-d-milhuser-in-paris,15,4,0.0,0.26666666666666666
 390,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -5259,7 +5259,7 @@ Brrr!... ich derf nitt dra denke... bàh!... ich bi ne
                     
 
         
-",lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
+",130,lustig-d-milhuser-in-paris,23,2,0.0,0.08695652173913043
 391,comedy,Herr FIX,M,,,,"
           
 Herr Fix
@@ -5276,7 +5276,7 @@ Do thàt also das Geld im Herr Helder g'höre!... Was fir
                     
 
         
-",lustig-d-milhuser-in-paris,32,5,0.1089874921425095,0.15625
+",130,lustig-d-milhuser-in-paris,32,5,0.1089874921425095,0.15625
 392,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Helder.
@@ -5287,7 +5287,7 @@ Mi Geld?... ich ha's scho... dr Herr Finot hat mr's scho
                     
 
         
-",lustig-d-milhuser-in-paris,18,5,0.20697989004686362,0.2777777777777778
+",130,lustig-d-milhuser-in-paris,18,5,0.20697989004686362,0.2777777777777778
 393,comedy,Herr FINOT,M,,,,"
           
 Herr Finot
@@ -5305,4 +5305,4 @@ In dem isch güet abz'helfe, Herr Fix... gàn Sie's in
                     
 
         
-",lustig-d-milhuser-in-paris,59,10,0.12496588797970545,0.1694915254237288
+",131,lustig-d-milhuser-in-paris,59,10,0.12496588797970545,0.1694915254237288

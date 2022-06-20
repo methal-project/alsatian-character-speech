@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -14,7 +14,7 @@ Nan, het m'r siner Daa des Lewens so ebs erlebt! Do hört sich jo d'Weltg'schich
  Hole Sie sofort miner Mann erin, hole Sie miner Mann!
 
         
-",gunther-dr-cousin-refractaire,61,8,0.22475,0.13114754098360656
+",0,gunther-dr-cousin-refractaire,61,8,0.22475,0.13114754098360656
 1,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -23,7 +23,7 @@ Kättel:
 Zu, Madam!
 
         
-",gunther-dr-cousin-refractaire,3,1,0.344,0.3333333333333333
+",0,gunther-dr-cousin-refractaire,3,1,0.344,0.3333333333333333
 2,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -33,7 +33,7 @@ Ah, comme ça, Madam Kieselhagen, do kennt sie mich letz! Hungerliedersbataglik 
 (setzt sich an den Sekretär und schreibt)
 
         
-",gunther-dr-cousin-refractaire,42,5,0.1376,0.11904761904761904
+",0,gunther-dr-cousin-refractaire,42,5,0.1376,0.11904761904761904
 3,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -45,7 +45,7 @@ Nußbicker :
 Wasser, marsh! Wo brennt's denn? Dü weisch, ich kann's nit verbutze, wenn ich derangiert wurr. Zweitens isch e Härifässel gschbrunge un erschtens wart e Clientèle uff mich.
 
         
-",gunther-dr-cousin-refractaire,35,2,0.2385,0.05714285714285714
+",0,gunther-dr-cousin-refractaire,35,2,0.2385,0.05714285714285714
 4,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -58,7 +58,7 @@ Besser e Härifässel als ich! Do schriebsch m'r sans façon ans Kieselhagens, l
 (will hinaus)
 
         
-",gunther-dr-cousin-refractaire,56,6,0.057333333333333326,0.10714285714285714
+",0,gunther-dr-cousin-refractaire,56,6,0.057333333333333326,0.10714285714285714
 5,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -67,7 +67,7 @@ Madame Nußbicker:
 Gottfried, witt Dü Dinni Frau tellement beleidige lon?
 
         
-",gunther-dr-cousin-refractaire,10,3,0.18233333333333332,0.3
+",0,gunther-dr-cousin-refractaire,10,3,0.18233333333333332,0.3
 6,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -76,7 +76,7 @@ Nußbicker :
 Geh m'r eweck, alle gelte des G'händels mit ejch Wibslitt, ich kenn Dich for deß was de bisch! Dü tätsch in alle locataire uff ’s mol uffküende.
 
         
-",gunther-dr-cousin-refractaire,28,2,0.2724687303562737,0.07142857142857142
+",1,gunther-dr-cousin-refractaire,28,2,0.2724687303562737,0.07142857142857142
 7,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -85,7 +85,7 @@ Madame Nußbicker:
 Ja. un Dir tät ich am allerliebschte z'erscht uffküende! Denn Dü bisch d'r süferscht vun alle zamme. Denk an d'r Cousin Ré fraktaire in Paris!
 
         
-",gunther-dr-cousin-refractaire,27,4,0.21875,0.14814814814814814
+",1,gunther-dr-cousin-refractaire,27,4,0.21875,0.14814814814814814
 9,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -94,7 +94,7 @@ Madame Nußbicker :
 Diß Zuck hett's gebatt, denk dran, denn ich hab meh Ambitione wie Timbresammle un Babbeljude uffnodle!
 
         
-",gunther-dr-cousin-refractaire,19,4,0.23249999999999998,0.21052631578947367
+",1,gunther-dr-cousin-refractaire,19,4,0.23249999999999998,0.21052631578947367
 10,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -104,7 +104,7 @@ E heilig! heilig! Ich hab nit d'r Zitt! Was isch denn widder los g'sin?
 (trippelt mit den Füßen)
 
         
-",gunther-dr-cousin-refractaire,21,4,0.43174999999999997,0.19047619047619047
+",1,gunther-dr-cousin-refractaire,21,4,0.43174999999999997,0.19047619047619047
 11,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -113,7 +113,7 @@ Madame Nußbicker :
 Was los isch g'sinn? Erscht hett sie ’s Dreckkischtel bis am Middaa im Hüßgang stehn lon; no begehrt sie d'r Schlüessel vun d'r Büchkiche; no fangt sie do an, e leids Krach ze schlauwe wäje unserem Bello, b'haupt, er dät iere alle Nacht uff d'Stäj brinzle. D'r Bello, wo ne ’s Kättel noch alle-n-Owe uff d'Gaß füehre mueß — — —
 
         
-",gunther-dr-cousin-refractaire,67,9,0.23001514308036913,0.13432835820895522
+",1,gunther-dr-cousin-refractaire,67,9,0.23001514308036913,0.13432835820895522
 13,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -122,7 +122,7 @@ Madame Nußbicker :
 Gottfried!!! Nußbicker : Wenn ich gewißt hät aß es so lang dürt, so wärd ich gescht schun kumme! Frau, hesch Dü denn gar kenn Insehns? Drunte wart e Härifässel, e Clientele isch gschprunge.
 
         
-",gunther-dr-cousin-refractaire,34,5,0.16419999999999998,0.14705882352941177
+",2,gunther-dr-cousin-refractaire,34,5,0.16419999999999998,0.14705882352941177
 14,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -131,7 +131,7 @@ Madame Nußbicker :
 Sie solle warte un v'rschpringe, dunderlischpel noch emol! Beleidigunge loß ich nit uff mir sitze! Was Dü machsch isch dinni Sach! Denk an de Cousin in Paris! Wo Dü ihm jetz au noch ’s Hélène v'rkupple witt fur Dini Schlich ze v'rsteckle !
 
         
-",gunther-dr-cousin-refractaire,44,5,0.16419999999999998,0.11363636363636363
+",2,gunther-dr-cousin-refractaire,44,5,0.16419999999999998,0.11363636363636363
 15,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -140,7 +140,7 @@ Nußbicker :
 O heiliger Sebaschtian!
 
         
-",gunther-dr-cousin-refractaire,4,1,0.672,0.25
+",2,gunther-dr-cousin-refractaire,4,1,0.672,0.25
 16,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -149,7 +149,7 @@ Madame Nußbicker:
 Awer denk dran, dies reüssiert Dir nit! Wenn Dü nit uff- küende witt, mach ich alles püblic. Uewers Glüeck vun de Kinder do wach ich!
 
         
-",gunther-dr-cousin-refractaire,28,5,0.18351245348345402,0.17857142857142858
+",2,gunther-dr-cousin-refractaire,28,5,0.18351245348345402,0.17857142857142858
 17,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -158,7 +158,7 @@ Nußbicker:
 Jetz schlaat's drizeh! Vun dene Schlich profitiert d'r Cousin genau wie ich, c’est-à-dire, vun dene Schlich! Vun mim Genie, witt sauwe?! Min Genie hett's V'rmöje zammeg'scherrt. Es bekummt emol später alles sini Richtigkeit! Ja un was wittersch?
 
         
-",gunther-dr-cousin-refractaire,40,5,0.24078234011182847,0.125
+",2,gunther-dr-cousin-refractaire,40,5,0.24078234011182847,0.125
 18,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -169,7 +169,7 @@ Also, Dini adoriert Madam Kieselhagen saat, sie butzt's nimi uff! Nußbicker :
  Sie het ganz erecht!
 
         
-",gunther-dr-cousin-refractaire,22,5,0.25,0.22727272727272727
+",3,gunther-dr-cousin-refractaire,22,5,0.25,0.22727272727272727
 19,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -178,7 +178,7 @@ Madame Nußbicker:
 Was — —
 
         
-",gunther-dr-cousin-refractaire,5,1,0.344,0.2
+",3,gunther-dr-cousin-refractaire,5,1,0.344,0.2
 21,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -187,7 +187,7 @@ Madame Nußbicker :
 — — saa ich zue ihre; Sie butzt's nimmi uff?! Ah, deß wärd jo noch schöner! Mane Sie, mir welle Chores im Hüs han, aß m'r im Dreck verschtickt? Fur was hett Sie denn Ihri zwei Döchter, die zwei alte hochg'schossene Jumpfere?! Die Hopfestange, haw-ich g'saat! Mit de rüssische Grafe, wo sie als noh druff schpanne, isch dato Schätte!
 
         
-",gunther-dr-cousin-refractaire,62,9,0.2248888888888889,0.14516129032258066
+",3,gunther-dr-cousin-refractaire,62,9,0.2248888888888889,0.14516129032258066
 23,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -196,7 +196,7 @@ Madame Nußbicker :
 Es tät ne gar wohl anschtehn, haw-ich g'saat, wenn sie emol e Lumpe in d'Hand nemme däte. No was maansh was sie g’saat hett?
 
         
-",gunther-dr-cousin-refractaire,27,3,0.49755906086601304,0.1111111111111111
+",3,gunther-dr-cousin-refractaire,27,3,0.49755906086601304,0.1111111111111111
 24,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -205,7 +205,7 @@ Nußbicker:
 Ja, hett sie au ebs g'saat?
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",4,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 25,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -214,7 +214,7 @@ Madame Nußbicker :
 Allewäj hett sie! Na, Madam, hett sie g'saat, Sie sind ja mit einem Referendar zufrieden für Ihre Töchter, lassen Sie uns die Hoffnung auf die russischen Grafen! Maansch, fangt die an, uff unfere Garniherr ze stichle!
 
         
-",gunther-dr-cousin-refractaire,38,8,0.247125,0.21052631578947367
+",4,gunther-dr-cousin-refractaire,38,8,0.247125,0.21052631578947367
 27,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -225,7 +225,7 @@ Ja, gel jetz ça c'est fort! Diß tätsch Dü alles uff Dir sitze lon! Wieviel m
  bring m'r ken Schwob in de Garni erin! Wie zellemols där Referendar Müller; hesch jetzt ’s Gebabbels ? Un Dü wärdsch noch im Stand, fur dem Pfiffekopf ’s Noëmie ze genn?! Awer do bisch de schief gewickelt, ich schaff d'rgeje mit Händ un Fueß. Denk an de Cousin in Paris, wenn der emol zeruckkummt!
 
         
-",gunther-dr-cousin-refractaire,82,5,0.2073923979043541,0.06097560975609756
+",4,gunther-dr-cousin-refractaire,82,5,0.2073923979043541,0.06097560975609756
 28,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -234,7 +234,7 @@ Nußbicker :
 Hebb mich am Frack mit dem Cousin üs Paris! Paris isch witt! Un was ich mach, isch im Interesse vun d'r ganze Familje! Un in de Garni nemm ich, wenne aß mir baßt . .. Entre autre, ich hab hitt e Zahlmeischter vum Luftschifferhafe, wie hie geböje wurd, als Garniherr g'schnappt. Der b’sorit mir Militärlieferunge, e klaans G'schäft, awer propper! Vun G'schäfter v'rstehsch Dü gar nix, do bisch Dü dümmer als unseri Katz! Du reste, isch's fur unseri Maidle ganz guet, wenn der Referendar dann un wann mit ne redd, sie lehre hochditsch uff die Art! Un hittzedaas kann m'r gar nit guet genue hochditsch redde! Isch d'r Herr Müller nit e artlicher Mensch? E Schuelkamerad vum Alfred? Ererscht gescht hett 'r m'r e echter Mauritiustimbre gebroocht.
 
         
-",gunther-dr-cousin-refractaire,127,16,0.12056250000000002,0.12598425196850394
+",4,gunther-dr-cousin-refractaire,127,16,0.12056250000000002,0.12598425196850394
 29,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -243,7 +243,7 @@ Madame Nußbicker :
 Ich blos Dir uff Diner Mauritius! Diß dhür setz ich miner Kopf durich, ’s isch m'r ganz egal, ich loß mir vun däre do howe ’s Mül nit anhänke.
 
         
-",gunther-dr-cousin-refractaire,31,6,0.1785,0.1935483870967742
+",4,gunther-dr-cousin-refractaire,31,6,0.1785,0.1935483870967742
 30,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -252,7 +252,7 @@ Nußbicker :
 Frau, Dü hesch jo erächt; awer luej, de Schwowe ihr Geld isch so rund wie unsers! Sin sie nit unseri Fortune g'sin? Han m'rs nit zue ebs gebroocht?! Un sin m'r nit ball am Ziel?! Wiewele, e Engrosg'schäft, Frau, e Engrosg'schäft! Nussbicker père & fils! Vatter un Sohn, Epicerie en gros, c’est-à-dire wie sie m'r d'Epicerie v'rbotte han, Kolonialwaren ins Große! Hesch denn fur diß gar ken G'füehl, loß ’s Kieselhagens beffze! V'rschtehsch, d'Situation beherrsche! Un d'rno, die Frau hett Dir jo gar nix unwäjes g'saat!
 
         
-",gunther-dr-cousin-refractaire,90,6,0.25482291011875796,0.06666666666666667
+",5,gunther-dr-cousin-refractaire,90,6,0.25482291011875796,0.06666666666666667
 31,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -261,7 +261,7 @@ Madame Nußbicker :
 Abba! Numme nit! Un daß sie Dich vor's g'schwolle Kneij bringe will, isch diß nix? O, Dü bisch jo e Wunderbluem vun Geduld!
 
         
-",gunther-dr-cousin-refractaire,26,1,0.344,0.038461538461538464
+",5,gunther-dr-cousin-refractaire,26,1,0.344,0.038461538461538464
 32,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -273,7 +273,7 @@ Nußbicker :
 Mich vor's Tribunal? Ja wäje was denn?
 
         
-",gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
+",5,gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
 33,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -282,7 +282,7 @@ Madame Nußbicker :
 Ja, glabsch, ich hab mir dies vun ihre biete lon? Nan, Madam Kieselhagen, haw-ich zue ihre g'saat, wenn Sie Bildung hätte, so däte Sie sich schäme, for mine Maidle so ebbs noochzesauwe! Awer nadierlich, haw-ich g'saat, vun so Schwowepack kann m'r nit meh v'rlange, denne g'hört aans druff!
 
         
-",gunther-dr-cousin-refractaire,50,8,0.20224999999999999,0.16
+",5,gunther-dr-cousin-refractaire,50,8,0.20224999999999999,0.16
 34,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -294,7 +294,7 @@ Nußbicker :
 Wasser halt! Frau, Frau, Frau, o heilig, heilig! Diß koscht Dich acht Daa Rappele! Wie kannsch nur so ebs sauwe?! M'r maant jo, Dü bisch Serviermaidel in d'r Taverne g'sin!
 
         
-",gunther-dr-cousin-refractaire,38,5,0.26880000000000004,0.13157894736842105
+",5,gunther-dr-cousin-refractaire,38,5,0.26880000000000004,0.13157894736842105
 35,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -303,7 +303,7 @@ Madame Nußbicker :
 Ich wurr mich scheniere! Docch aanoch! Wenn e Mamme so beleidigt wurd! Dü dätsch awer alles uff Dir sitze lon! Denk an de Cousin in Paris, wo eso e gueti Meinung vun Dir hett un wo Dü im jetz widder dies Grundstueck vor em Spitaltor ver- kitsche witt, au noch for Kaserneböjte! D'rno hesch grad genue!
 
         
-",gunther-dr-cousin-refractaire,60,8,0.2285,0.13333333333333333
+",5,gunther-dr-cousin-refractaire,60,8,0.2285,0.13333333333333333
 36,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -312,7 +312,7 @@ Nußbicker :
 Oh, dü liebs Herrgöttl! Blie stille mit dem ewige Cousin in Paris. ’s nächscht Johr wurd's Hélène mit em Filston vum Cousin fianciert, denn m'r mueß au guet franzeesch sin hyttzedaas. Un no isch im Nußbicker sini Gloire fertig, d'rno sollsch sehn, wie mir d'r Cousin owe-n-uff dankbar isch fur alles, was ich gedoon hab! Dü, Dü Brems am Rad vun mim Glüecks- wauje!
 
         
-",gunther-dr-cousin-refractaire,70,6,0.09007784131269769,0.08571428571428572
+",6,gunther-dr-cousin-refractaire,70,6,0.09007784131269769,0.08571428571428572
 37,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -322,7 +322,7 @@ Alfred:
  Babbe, ah, ich sieh, Dü bisch occupiert, ’s G'schpräch vum alte Pontonnier im Volksbott isch do!
 
         
-",gunther-dr-cousin-refractaire,20,2,0.586,0.1
+",6,gunther-dr-cousin-refractaire,20,2,0.586,0.1
 38,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -331,7 +331,7 @@ Nußbicker :
 Gib her! Alfred : Un do ’s nej Witzblättel vun Mülhüse, mit Schwowekarrikature vum Zislin, Boes Mehl an de Knöpfle.
 
         
-",gunther-dr-cousin-refractaire,20,1,0.0,0.05
+",6,gunther-dr-cousin-refractaire,20,1,0.0,0.05
 39,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -340,7 +340,7 @@ Nußbicker :
 Geh eweck, ich will diß Dings nit sehn. Schick d'r Volksbott mit denne Karrikature an de Unkel René in Paris sous bande. Strich's blöj an, was 'ne frait!
 
         
-",gunther-dr-cousin-refractaire,30,5,0.0422,0.16666666666666666
+",6,gunther-dr-cousin-refractaire,30,5,0.0422,0.16666666666666666
 40,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -350,7 +350,7 @@ Entendu, Pappa! Nußbicker : Babett! Do läs d'r alt Pontonnier un no wursch seh
 (setzt sich an den Sekretär und schreibt)
 
         
-",gunther-dr-cousin-refractaire,145,17,0.07817647058823529,0.11724137931034483
+",6,gunther-dr-cousin-refractaire,145,17,0.07817647058823529,0.11724137931034483
 41,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -359,7 +359,7 @@ Madame Nußbicker :
 Diß isch alles nume in de Mies gepfiffe! Die Person soll unter dem Dach bliewe?! E Frau, wo mich tötlich beleidigt hett?! Herr Nußbicker, Sie künde dere Person uff oder ich weiß, was ich ze duen hab! Ich schrieb an de Cousin in Paris, v'rschtehn Sie diß? Der macht süfer in dem Hüs! D'rno wäre m'r jo sehn, ob gekündt wurd oder nit!
 
         
-",gunther-dr-cousin-refractaire,66,11,0.1312729257055695,0.16666666666666666
+",6,gunther-dr-cousin-refractaire,66,11,0.1312729257055695,0.16666666666666666
 42,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -374,7 +374,7 @@ A heilijeh, do soll m'r schriewe kenne, by dem Gerätsch! Jez schriew i gar nix.
           
 
         
-",gunther-dr-cousin-refractaire,80,7,0.48824810138127406,0.0875
+",7,gunther-dr-cousin-refractaire,80,7,0.48824810138127406,0.0875
 43,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -389,7 +389,7 @@ Ah so! Na wart! wart Babbe! Hesch Dü e Stettkopf, haw- ich au einer! Dü hesch 
 (beide Mädchen kommen rasch herbeigesprungen)
 
         
-",gunther-dr-cousin-refractaire,70,9,0.20933333333333332,0.12857142857142856
+",7,gunther-dr-cousin-refractaire,70,9,0.20933333333333332,0.12857142857142856
 45,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -398,7 +398,7 @@ Hélène:
 Wer isch g'schtorwe?
 
         
-",gunther-dr-cousin-refractaire,4,1,0.0,0.25
+",7,gunther-dr-cousin-refractaire,4,1,0.0,0.25
 46,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -407,7 +407,7 @@ Madame Nußbicker :
 Kumme ihr Kinder zue eijere Mamme, wo nur fur eijer Glueck b'sorit isch un nix uewer Ejch saawe loßt un wo Ejch nit beleidige loßt.
 
         
-",gunther-dr-cousin-refractaire,27,6,0.1745,0.2222222222222222
+",7,gunther-dr-cousin-refractaire,27,6,0.1745,0.2222222222222222
 48,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -416,7 +416,7 @@ Madame Nußbicker :
 Ejer Vatter macht Ejch noch ungluecklich, Kinder, drum horiche uff mich un fröje mich vor Allem, wenn 'r mit Ejch ebs vor het!
 
         
-",gunther-dr-cousin-refractaire,25,6,0.26566666666666666,0.24
+",8,gunther-dr-cousin-refractaire,25,6,0.26566666666666666,0.24
 49,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -425,7 +425,7 @@ Noëmie:
 Mais M'an, d'r Babbe, wo ’s so guet mit uns meint, was soll er mit uns vor han? Madame Nußbicker : Jeder Mensch het emol e schwachi Stund, eijer Vatter hett au eini g'hett, viellicht au zwei. Er will, daß Ihr hyrote. Hélène: Oh, mir wotte jo au wotte ! Noëmie : Mir hyrote ganz gern, Mamme!
 
         
-",gunther-dr-cousin-refractaire,55,9,0.3151863425506145,0.16363636363636364
+",8,gunther-dr-cousin-refractaire,55,9,0.3151863425506145,0.16363636363636364
 50,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -434,7 +434,7 @@ Madame Nußbicker :
 Diß glauw ich Ejch! Awer ich will nit, daß Ihr ungluecklich wäre mit denne Männer, wie d'r Babbe vorhett. M'r soll später nit mit Finger uff Ejch dytte könne.
 
         
-",gunther-dr-cousin-refractaire,31,6,0.27616666666666667,0.1935483870967742
+",8,gunther-dr-cousin-refractaire,31,6,0.27616666666666667,0.1935483870967742
 53,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -443,7 +443,7 @@ Madame Nußbicker:
 Kinder! Ihr muehn die G'schicht jo au schun lang gemerikt han. M'r han e Familjeg'heimnis!
 
         
-",gunther-dr-cousin-refractaire,17,3,0.11466666666666665,0.17647058823529413
+",8,gunther-dr-cousin-refractaire,17,3,0.11466666666666665,0.17647058823529413
 56,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -455,7 +455,7 @@ Madame Nußbicker :
 D'r Bappe hett spekuliert, Kinder, mit em Geld vum Cousin, vum Unkel René in Paris, wo nimmi uf Stroßburri zeruckderf, wil er Réfractaire isch. Alles, was mir han, g'hört nooch 'm Teschtament vum Unkel Güschtav d'Hälft d'rvun im Unkel René vun Paris. Wie er durich d'Latte isch, hett 'm d'r Babbe schwöre müen, alles ze lon wie's isch, nix ze v'rkaufe un nix ze v’rüssere, ken Zentimeter vun sim Bodde in de Schwowe ze lon, for daß er, wenn er emol zeruck derf uff Stroßburri, alles noch emol wie in sinere Kindheit sehn kann. Wie d'r Babbe deß G'schwörs g'halte hett, deß verf m'r jo in niemande v'rzehle! Alles isch schanschiert, alles verschpeküliert! Un d'r Unkel, wo d'Schwowe nit schmecke kann, weiß ken Sterweswörtel d'rvun!
 
         
-",gunther-dr-cousin-refractaire,136,16,0.23080859129453424,0.11764705882352941
+",9,gunther-dr-cousin-refractaire,136,16,0.23080859129453424,0.11764705882352941
 58,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -464,7 +464,7 @@ Madame Nußbicker :
 Ja, so isch's! Jetz will d'r Babbe die Sach durch Hyrotsplän mit Ejch in's Blej bringe. Uewer einmols kummt d'r Unkel zeruck un no wurd er im Babbe e schändlicher Prozeß mache! Sorje, daß m'r d’rno Ejch emol nix vorwerfe kann! Denke an de-n-Unkel René in Paris!
 
         
-",gunther-dr-cousin-refractaire,54,6,0.25266666666666665,0.1111111111111111
+",9,gunther-dr-cousin-refractaire,54,6,0.25266666666666665,0.1111111111111111
 59,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -473,7 +473,7 @@ Hélène:
 An siner fils Léon denk ich schun lang, Maman!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.0,0.1
+",9,gunther-dr-cousin-refractaire,10,1,0.0,0.1
 60,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -482,7 +482,7 @@ Madame Nußbicker :
 Mach Dir ken Hoffnunge, Kind, huet Dich! Alles kummt an de Daa un no gibt's d'gröscht Carambolage mit's Vinbergé's.
 
         
-",gunther-dr-cousin-refractaire,25,4,0.35175,0.16
+",10,gunther-dr-cousin-refractaire,25,4,0.35175,0.16
 61,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -492,7 +492,7 @@ Mamme, Dü hesch ganz erecht! Vun uns soll m'r nit saawe derfe, aß mir vum Geld
 (Helene wendet sich verlegen ab)
 
         
-",gunther-dr-cousin-refractaire,29,5,0.2495874921425095,0.1724137931034483
+",10,gunther-dr-cousin-refractaire,29,5,0.2495874921425095,0.1724137931034483
 62,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -502,7 +502,7 @@ C'est ça, ma fille, un luej, au mit Dir hett d'r Babbe e Mariage vor, wo Dü no
 (Noömie wendet sich verlegen ab)
 
         
-",gunther-dr-cousin-refractaire,60,9,0.23522222222222222,0.15
+",10,gunther-dr-cousin-refractaire,60,9,0.23522222222222222,0.15
 63,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -511,7 +511,7 @@ Madame Nußbicker :
 Am allerwenigschte so Hergeloffeni solle ebs üewer Ejch sauwe derfe, awer diß han ’s Kieselhagens owenuff gemacht un diß v'r- langt Revanche, drum setze-n-Ejch anne un shriewe sans façon ans Kieselhagens, daß sie gekünd sin uff's Ziel!
 
         
-",gunther-dr-cousin-refractaire,43,4,0.26775,0.09302325581395349
+",10,gunther-dr-cousin-refractaire,43,4,0.26775,0.09302325581395349
 65,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -520,7 +520,7 @@ Madame Nußbicker :
 Diß geht Dich nix an, mache-n-Ejer Sach un schrieb was m'r Dir saat! Noëmie: Mais, Maman, m'r müen doch au de Grund nynschriewe!
 
         
-",gunther-dr-cousin-refractaire,27,2,0.453,0.07407407407407407
+",10,gunther-dr-cousin-refractaire,27,2,0.453,0.07407407407407407
 66,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -529,7 +529,7 @@ Madame Nußbicker :
 So, mueß m'r? Eh bien, schriebsch tout court „wechen Beleidigung von meiner Mutter!”
 
         
-",gunther-dr-cousin-refractaire,17,4,0.4356687541862354,0.23529411764705882
+",11,gunther-dr-cousin-refractaire,17,4,0.4356687541862354,0.23529411764705882
 68,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -540,7 +540,7 @@ Mit Ejrer Education isch diß e Kleinigkeit! Zeije denne do howe, daß Ihr minde
  Haw-ich mir so e-n-Uffrejung erwart?!
 
         
-",gunther-dr-cousin-refractaire,46,5,0.3096,0.10869565217391304
+",11,gunther-dr-cousin-refractaire,46,5,0.3096,0.10869565217391304
 70,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -549,7 +549,7 @@ Hélène:
 Ich? Oh nan, Dü bisch's wo so guet hochditsch kann!
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",11,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 71,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -558,7 +558,7 @@ Noëmie :
 Worum grad ich? Helene: Ah! Dü hesch de Styl meh hüsse . . .
 
         
-",gunther-dr-cousin-refractaire,12,1,0.5780000000000001,0.08333333333333333
+",11,gunther-dr-cousin-refractaire,12,1,0.5780000000000001,0.08333333333333333
 72,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -567,7 +567,7 @@ Noëmie :
 Wieso? Hélène: Na, Dü hesch doch Relatione, ich saa numme: Monsieur Müller ! Noëmie : Spöttel nit, diß isch ganz harmlos! Hélène: Ja, un wie! Scharmiersch jo mit'm! Noëmie : Ich scharmier mit'm? Er scharmiert. mit mir!
 
         
-",gunther-dr-cousin-refractaire,37,2,0.0,0.05405405405405406
+",12,gunther-dr-cousin-refractaire,37,2,0.0,0.05405405405405406
 73,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -576,7 +576,7 @@ Hélène:
 Ah, no geht's noch! D'Eva mueß halt allewil ihre Adam han!
 
         
-",gunther-dr-cousin-refractaire,14,2,0.3085,0.14285714285714285
+",12,gunther-dr-cousin-refractaire,14,2,0.3085,0.14285714285714285
 74,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -585,7 +585,7 @@ Noëmie:
 Dü hesch's notwendig! Sej numme ruewig! Sunscht deck ich Dir au emol ’s Häfele uff!
 
         
-",gunther-dr-cousin-refractaire,17,3,0.18733333333333338,0.17647058823529413
+",12,gunther-dr-cousin-refractaire,17,3,0.18733333333333338,0.17647058823529413
 75,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -594,7 +594,7 @@ Hélène:
 Do isch nix ze deckle! Do isch offe!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
+",12,gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
 76,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -603,7 +603,7 @@ Noëmie:
 Ich dät mich awer doch schäme, aan anzigs mol in Paris sin g'sin un schun v'rliebt zeruckzekumme, un deß G'schriebsels uff Paris, deß heiß ich schun meh, im e Mensch noochlaafe, ich gott- lowedank mach so ebs nit!
 
         
-",gunther-dr-cousin-refractaire,40,4,0.29300000000000004,0.1
+",12,gunther-dr-cousin-refractaire,40,4,0.29300000000000004,0.1
 77,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -612,7 +612,7 @@ Hélène:
 Ah, Dü hälsch ‘au gar ken Schik fur uff Paris ze hierote! Awer ich! Un e Mariage gitt diß un e Läwe! Un d'Toilette! Bois de Boulogne! Palais royal! Trouville! Nice! Oh arms Schweschterle, un Dü kannsch d'rwilscht v'rsüüre in Stroosburri.
 
         
-",gunther-dr-cousin-refractaire,44,4,0.125,0.09090909090909091
+",12,gunther-dr-cousin-refractaire,44,4,0.125,0.09090909090909091
 78,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -623,7 +623,7 @@ So? Mir isch mini Heimet, mir isch min Stroosburri lieb un wert, un wenn ich d'r
  un uewerhaupt wurr ich's in d'r Mamme v'rzehle, daß Dü nix kannsch als aane v'rzirne un Müehj mache.
 
         
-",gunther-dr-cousin-refractaire,50,7,0.27690773798729446,0.14
+",13,gunther-dr-cousin-refractaire,50,7,0.27690773798729446,0.14
 80,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -632,7 +632,7 @@ Noëmie:
 Frechs Ding aß de bisch! Ich saa's — —
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",13,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 81,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -646,7 +646,7 @@ Ne parles pas, Rose, je t’en suplie. Jesses, unser Familje- g'heimnis. Madame 
  Ja, wie raucht's denn do? Isch der Brief g’schriwwe ?
 
         
-",gunther-dr-cousin-refractaire,39,7,0.16514285714285717,0.1794871794871795
+",13,gunther-dr-cousin-refractaire,39,7,0.16514285714285717,0.1794871794871795
 82,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -658,7 +658,7 @@ M'r sin grad dran, Maman!
 (Madame Nußbicker ab)
 
         
-",gunther-dr-cousin-refractaire,33,3,0.5,0.09090909090909091
+",13,gunther-dr-cousin-refractaire,33,3,0.5,0.09090909090909091
 83,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -670,7 +670,7 @@ Noëmie:
 Awer ’s nächscht Mol saa ich's ganz gewiß!
 
         
-",gunther-dr-cousin-refractaire,22,3,0.2075265757592916,0.13636363636363635
+",13,gunther-dr-cousin-refractaire,22,3,0.2075265757592916,0.13636363636363635
 84,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -683,7 +683,7 @@ Hélène:
  Die Nacht am Elfe, Die Nacht am Zwelfe Do fahrt d'r letschte letshte Omnibus! Do kummt d'r Meischter — —
 
         
-",gunther-dr-cousin-refractaire,47,1,0.0,0.02127659574468085
+",14,gunther-dr-cousin-refractaire,47,1,0.0,0.02127659574468085
 85,comedy,Alfred,M,,,,"
           
 Referendar Müller:
@@ -692,7 +692,7 @@ Referendar Müller:
 Meine Damen, guten Tag!
 
         
-",gunther-dr-cousin-refractaire,6,3,0.357,0.5
+",14,gunther-dr-cousin-refractaire,6,3,0.357,0.5
 87,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -701,7 +701,7 @@ Müller:
 Das Befinden, meine Damen?
 
         
-",gunther-dr-cousin-refractaire,5,2,0.5355,0.4
+",14,gunther-dr-cousin-refractaire,5,2,0.5355,0.4
 88,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -710,7 +710,7 @@ Hélène:
 Dank d'r Nochfröj, wie m'rs triebt, Sie erküsiere mich, Monsieur Müller.
 
         
-",gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
+",14,gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
 90,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -722,7 +722,7 @@ Hélène:
 Ich hab ken Angscht d'rfur! Do hesch jo e lawendiger Brief- steller! Je vous laisse un saa nix.
 
         
-",gunther-dr-cousin-refractaire,26,1,0.0,0.038461538461538464
+",15,gunther-dr-cousin-refractaire,26,1,0.0,0.038461538461538464
 92,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -733,7 +733,7 @@ B'hüetes nan! Ebs viel difficillers! Helfe Sie m'r doch e bissel, Monsieur Mül
           
 
         
-",gunther-dr-cousin-refractaire,14,1,0.648,0.07142857142857142
+",15,gunther-dr-cousin-refractaire,14,1,0.648,0.07142857142857142
 93,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -742,7 +742,7 @@ Müller:
 Aber mit tausend Freuden, Fräulein Noëmie! Das heißt, wenn es kein Liebesbrief ist.
 
         
-",gunther-dr-cousin-refractaire,14,2,0.0,0.14285714285714285
+",15,gunther-dr-cousin-refractaire,14,2,0.0,0.14285714285714285
 94,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -751,7 +751,7 @@ Noëmie:
 Ha, ha! Do dran däte Sie mir also nit helfe ?
 
         
-",gunther-dr-cousin-refractaire,11,1,0.648,0.09090909090909091
+",15,gunther-dr-cousin-refractaire,11,1,0.648,0.09090909090909091
 95,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -760,7 +760,7 @@ Müller:
 Nur unter einer Bedingung!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",15,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 96,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -769,7 +769,7 @@ Noëmie:
 Unter wellere? Miller: Der Brief müßte an mich selbst gerichtet sein!
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",16,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 99,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -778,7 +778,7 @@ Noëmie:
 Fur Ernscht odder fur G'schpaß?
 
         
-",gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
+",16,gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
 100,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -790,7 +790,7 @@ Müller:
 Für Ernst, für Ernst, Fräulein Noëmie! Denn sehen Sie, ich habe Sie ja so gern, so wahnsinnig gern, und wenn ich wüßte, daß Sie einem jungen Referendar sich anvertrauen würden . .. .
 
         
-",gunther-dr-cousin-refractaire,34,8,0.24899479025950977,0.23529411764705882
+",16,gunther-dr-cousin-refractaire,34,8,0.24899479025950977,0.23529411764705882
 101,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -802,7 +802,7 @@ Noëmie:
 Awer Herr Fritz, ich mueß doch ererscht de Brief schriewe ! Müller : Ach so, natürlich, dann also später! Noëmie : Ich hab jetz ganz de Fade v'rlore! Ins Kieselhagens drowe soll ich uffkuende, awer ’s derfe halt ken Fehler nyn.
 
         
-",gunther-dr-cousin-refractaire,42,6,0.0,0.14285714285714285
+",16,gunther-dr-cousin-refractaire,42,6,0.0,0.14285714285714285
 102,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -811,7 +811,7 @@ Müller :
 Nun, wenn Sie sich auf Ortographie nur etwas verstehen, für die Grammatik stehe ich!
 
         
-",gunther-dr-cousin-refractaire,15,1,0.6879999999999998,0.06666666666666667
+",17,gunther-dr-cousin-refractaire,15,1,0.6879999999999998,0.06666666666666667
 103,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -820,7 +820,7 @@ Noëmie :
 Halte Sie mich doch nit fur so dumm!
 
         
-",gunther-dr-cousin-refractaire,9,2,0.0,0.2222222222222222
+",17,gunther-dr-cousin-refractaire,9,2,0.0,0.2222222222222222
 104,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -830,7 +830,7 @@ Also gut. Was ist das?
 (er hat ihren Kopf in beide Hände genommen und küßt sie)
 
         
-",gunther-dr-cousin-refractaire,19,1,0.0,0.05263157894736842
+",17,gunther-dr-cousin-refractaire,19,1,0.0,0.05263157894736842
 105,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -843,7 +843,7 @@ Herr Müller, diß isch e — — —
 (findet keine Worte)
 
         
-",gunther-dr-cousin-refractaire,18,2,0.0,0.1111111111111111
+",17,gunther-dr-cousin-refractaire,18,2,0.0,0.1111111111111111
 107,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -855,7 +855,7 @@ Noëmie:
 Doch ich weiß ’s! Diß ish e k — k — k — e kolosjals Toupet vun Ihne, daß Sie so ebs wöije !
 
         
-",gunther-dr-cousin-refractaire,27,1,0.0,0.037037037037037035
+",17,gunther-dr-cousin-refractaire,27,1,0.0,0.037037037037037035
 108,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -865,7 +865,7 @@ Müller:
  Nein, Noëmie! Ein Kuß war's! Das Ausrufezeichen einer unbändigen Freude! Denn auch Du liebst mich, Noëmie, sag ja! Dein Bruder hat mir Mut gemacht, nicht das Gegenteil zu glauben. Und wenn ich mein Examen gemacht habe, Herzens- mädel, bist Du meine Braut! Bis dahin mußt Du Dir gefallen lassen, wenn ich heimlich Dich küsse, küsse, küsse — — sag mir's rasch, Noëmie, daß Du mich liebst!
 
         
-",gunther-dr-cousin-refractaire,73,19,0.30506836452406444,0.2602739726027397
+",18,gunther-dr-cousin-refractaire,73,19,0.30506836452406444,0.2602739726027397
 109,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -879,7 +879,7 @@ Oh, Dü, Dü, Dü weisch's jo allein! Maansch ich dät mich sunsch vun Dir so v'
  Morje geh ich in d'Mai- andacht! Un jetz awer schnell d'r Brief!
 
         
-",gunther-dr-cousin-refractaire,50,5,0.040600000000000004,0.1
+",18,gunther-dr-cousin-refractaire,50,5,0.040600000000000004,0.1
 110,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -891,7 +891,7 @@ Schatz, ich komme zur Andacht. Jetzt den vermaledeiten Brief. Hier setze Dich, d
 (er küßt sie)
 
         
-",gunther-dr-cousin-refractaire,36,6,0.2237604982173725,0.16666666666666666
+",18,gunther-dr-cousin-refractaire,36,6,0.2237604982173725,0.16666666666666666
 111,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -910,7 +910,7 @@ Macht m'r die eso? Hélène:
  D'r Herr Müller, Babbe - - helft m'r am Brief fur's Kieselhagens.
 
         
-",gunther-dr-cousin-refractaire,75,10,0.25051901428032025,0.13333333333333333
+",18,gunther-dr-cousin-refractaire,75,10,0.25051901428032025,0.13333333333333333
 112,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -923,7 +923,7 @@ Hätscch denne nit ellein ferti gebroocht?
  Oh, was denksch, liebs Babett, ich bin im Herr Müller dank- bar, ich mach ganz wie Dü witt — — — Herr Hastenteufel, do stell ich Ihne mini Frau vor! Ich stell se widder eweck un präsentier ne mini ältscht Doochter. Diß isch d'r Herr Referendar Müller, welle Sie Platz nemme, e kleiner Fauteuil, awer propper.
 
         
-",gunther-dr-cousin-refractaire,83,14,0.11614285714285713,0.1686746987951807
+",18,gunther-dr-cousin-refractaire,83,14,0.11614285714285713,0.1686746987951807
 113,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -932,7 +932,7 @@ Noëmie :
 M'r schriewe, en attendant, de Brief ferti, Babbe !
 
         
-",gunther-dr-cousin-refractaire,9,1,0.586,0.1111111111111111
+",18,gunther-dr-cousin-refractaire,9,1,0.586,0.1111111111111111
 114,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -943,7 +943,7 @@ C'est ça, ma fille, schriewe-n-Ihr! Babett, hesch e Schnäpsel fur de Herr Zahl
           
 
         
-",gunther-dr-cousin-refractaire,16,2,0.281,0.125
+",19,gunther-dr-cousin-refractaire,16,2,0.281,0.125
 115,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel:
@@ -955,7 +955,7 @@ Danke, Merci, sehr liebenswürdig, ick rooche gewöhnlich vor- mittags nich. Nu�
 (schenkt ein)
 
         
-",gunther-dr-cousin-refractaire,129,19,0.2490862669724895,0.14728682170542637
+",19,gunther-dr-cousin-refractaire,129,19,0.2490862669724895,0.14728682170542637
 116,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -964,7 +964,7 @@ Hastenteufel :
 Jewiß. Selbstverständlich. Ick werde mich wejen verschiedener Lieferungen in de Menage für Sie verwenden. Eine Hand wäscht die andere! Sie haben mehrere Töchter?
 
         
-",gunther-dr-cousin-refractaire,24,2,0.0,0.08333333333333333
+",19,gunther-dr-cousin-refractaire,24,2,0.0,0.08333333333333333
 117,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -973,7 +973,7 @@ Madame Nußbicker :
 Zwei, wenn Sie erlauwe.
 
         
-",gunther-dr-cousin-refractaire,6,1,0.344,0.16666666666666666
+",19,gunther-dr-cousin-refractaire,6,1,0.344,0.16666666666666666
 118,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -982,7 +982,7 @@ Nußbicker:
 Zwei Maidle, Herr Rittmeischter, klein awer propper, n'est- ce-pas, ma fille?
 
         
-",gunther-dr-cousin-refractaire,14,3,0.0,0.21428571428571427
+",19,gunther-dr-cousin-refractaire,14,3,0.0,0.21428571428571427
 120,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel:
@@ -991,7 +991,7 @@ Hastenteufel:
 Die Damens und überhaupt Ihre Familie spricht wohl viel franzeesch?
 
         
-",gunther-dr-cousin-refractaire,11,2,0.3088385912990196,0.18181818181818182
+",20,gunther-dr-cousin-refractaire,11,2,0.3088385912990196,0.18181818181818182
 121,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1000,7 +1000,7 @@ Madame Nußbicker :
 Meine Töchter sprechen überhaupt nummen französisch! Das Deitsche tun sie fascht gar nicht verstehn!
 
         
-",gunther-dr-cousin-refractaire,16,3,0.357,0.1875
+",20,gunther-dr-cousin-refractaire,16,3,0.357,0.1875
 122,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1010,7 +1010,7 @@ Ja, ja, nadierlich, nit wohr, wenn m'r die kolossal Bildung nit hät, mit 'm Ver
 (schenkt ein)
 
         
-",gunther-dr-cousin-refractaire,25,6,0.1315,0.24
+",20,gunther-dr-cousin-refractaire,25,6,0.1315,0.24
 123,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -1019,7 +1019,7 @@ Noëmie:
 Der wurd nit lätz verkohlt mit sim lange Sawel !
 
         
-",gunther-dr-cousin-refractaire,10,2,0.0,0.2
+",20,gunther-dr-cousin-refractaire,10,2,0.0,0.2
 124,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -1028,7 +1028,7 @@ Hastenteufel :
 Dett is mir sehr lieb! Ick möchte mich nämlich noch etwas vervollkommnen ins Franzeesche, ick spreche es zwar schon sehr jut, man weiß aber nie, wie man mit die westlichen Nachbarn nochmal zusammenkommen kann. Im übrigen bin ich unter allen Umständen für die Entente cordiale !
 
         
-",gunther-dr-cousin-refractaire,46,6,0.0,0.13043478260869565
+",20,gunther-dr-cousin-refractaire,46,6,0.0,0.13043478260869565
 125,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1037,7 +1037,7 @@ Nußbicker :
 For was sin Sie? Ah, for d'entente cordiale! Ah, c’est ça, diß isch uns rächt angenehm! Hasteuteufel: So’n bisken Franzeesch macht sich immer jut!
 
         
-",gunther-dr-cousin-refractaire,26,3,0.48433333333333334,0.11538461538461539
+",20,gunther-dr-cousin-refractaire,26,3,0.48433333333333334,0.11538461538461539
 126,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1046,7 +1046,7 @@ Nußbicker :
 Ja, gewiß, for ’s Französische ze redde, do mueß m'r eijetlich d'rzue gebore sin, denn wenn m'r nit gebore wärd, könnt m'rs jo nit redde.
 
         
-",gunther-dr-cousin-refractaire,27,2,0.3112898636389374,0.07407407407407407
+",21,gunther-dr-cousin-refractaire,27,2,0.3112898636389374,0.07407407407407407
 127,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1055,7 +1055,7 @@ Madame Nußbicker:
 Dich solle d'Ente v'rtrette! Hastenteufel : Janz richtig, Madam, hoch die Entente! Ick wünsche ieber- haupt, mich baldigst zu akklimatisieren hier in det Elsaß. Vielleicht nehmen Sie mir mit in Ihre Vereinskreise?
 
         
-",gunther-dr-cousin-refractaire,35,6,0.3297199722998803,0.17142857142857143
+",21,gunther-dr-cousin-refractaire,35,6,0.3297199722998803,0.17142857142857143
 128,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1064,7 +1064,7 @@ Madame Nußbicker :
 Par exemple! Am End gar in d'Union chorale!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
+",21,gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
 129,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1074,7 +1074,7 @@ Ah! Ehä! Gewiß, worum nit Herr Leutnant? Villicht in de Verein der Briefmarken
 (schenkt ein)
 
         
-",gunther-dr-cousin-refractaire,25,6,0.1897632878796458,0.24
+",21,gunther-dr-cousin-refractaire,25,6,0.1897632878796458,0.24
 130,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -1083,7 +1083,7 @@ Hastenteufel :
 Ja, jut, soll mir freuen! Un wie teuer is det Zimmer?
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",21,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 132,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1095,7 +1095,7 @@ Madame Nußbicker:
 Prends 25 Francs!
 
         
-",gunther-dr-cousin-refractaire,10,2,0.172,0.2
+",22,gunther-dr-cousin-refractaire,10,2,0.172,0.2
 133,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1104,7 +1104,7 @@ Nußbicker :
 For Sie sauwe m'r 20 Mark, fur e-n-anderer däts dix-huit Francs koschte! Denn nit wohr, m'r isch malgré tout doch e gueter Patriot; ’s isch e schön's Zimmer! Wie g'saat, klein awer propper!
 
         
-",gunther-dr-cousin-refractaire,37,4,0.34375,0.10810810810810811
+",22,gunther-dr-cousin-refractaire,37,4,0.34375,0.10810810810810811
 134,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -1113,7 +1113,7 @@ Hastenteufel :
 Also, abgemacht! Ick schicke im Laufe des Tages noch eine Ordonnanz mit meinen Sachen ’rieber, et find Dienstpapiere darunter, un darf ick hoffen, daß die Sachen sicher sin!
 
         
-",gunther-dr-cousin-refractaire,29,4,0.51975,0.13793103448275862
+",22,gunther-dr-cousin-refractaire,29,4,0.51975,0.13793103448275862
 135,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1122,7 +1122,7 @@ Nußbicker :
 Eh, nadierlich, Herr Feldwebel! Bumbesicher! Hoffetlich isch's nix staatsg'fährlichs, nix gelades? Nix wo losgeht? Hein?
 
         
-",gunther-dr-cousin-refractaire,17,2,0.33583750837247084,0.11764705882352941
+",22,gunther-dr-cousin-refractaire,17,2,0.33583750837247084,0.11764705882352941
 136,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -1131,7 +1131,7 @@ Hastenteufel :
 Nee, oller Kronensohn! So rash laden die Preußen nich! Adjes denn. Heute abend zieh ick unter bengalischem Streichholz- feuer in meinen Pavillong ein!
 
         
-",gunther-dr-cousin-refractaire,25,3,0.24233333333333332,0.12
+",22,gunther-dr-cousin-refractaire,25,3,0.24233333333333332,0.12
 137,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1142,7 +1142,7 @@ Freit mich! Freit mich! Du reste, han m'r d'Elektrizität un n’est-ce-pas, Sie
  maane Sie jo, daß d'nej Kasern an de Krimmeri ze schtehn kummt?
 
         
-",gunther-dr-cousin-refractaire,44,4,0.0,0.09090909090909091
+",22,gunther-dr-cousin-refractaire,44,4,0.0,0.09090909090909091
 138,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -1152,7 +1152,7 @@ Ick knoble die Sache schon raus, Herr Nußbicker, naturelle- mang, die Sache wir
 (ab)
 
         
-",gunther-dr-cousin-refractaire,31,4,0.0,0.12903225806451613
+",23,gunther-dr-cousin-refractaire,31,4,0.0,0.12903225806451613
 139,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1161,7 +1161,7 @@ Nußbicker:
 Morjen, Morjen, au revoir, Herr Rittmeischter!
 
         
-",gunther-dr-cousin-refractaire,7,3,0.0,0.42857142857142855
+",23,gunther-dr-cousin-refractaire,7,3,0.0,0.42857142857142855
 140,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1170,7 +1170,7 @@ Müller:
 Madam Nußbicker, Sie werden mit dem Briefe zufrieden sein; für Sie, Herr Nußbicker, habe ich hier auch die Beschwerde- schrift an das Ministerium, weil Ihnen die Polizei untersagt hat, Epicerie an's Firmenschild zu schreiben.
 
         
-",gunther-dr-cousin-refractaire,37,6,0.3593333333333333,0.16216216216216217
+",23,gunther-dr-cousin-refractaire,37,6,0.3593333333333333,0.16216216216216217
 141,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1179,7 +1179,7 @@ Nußbicker :
 Ja, deß kann Ihne doch schade, wenn's erüs kummt, daß Sie diß g'schriwwe han, Sie schaffe doch selbscht am Minischterium ?! Müller: Was tut man nicht aus Liebe? Madame Nußbicker Wie?
 
         
-",gunther-dr-cousin-refractaire,32,6,0.15633333333333332,0.1875
+",23,gunther-dr-cousin-refractaire,32,6,0.15633333333333332,0.1875
 142,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1188,7 +1188,7 @@ Nußbicker:
 Aus Liewé? Zue wem?
 
         
-",gunther-dr-cousin-refractaire,5,1,0.6326672679516904,0.2
+",23,gunther-dr-cousin-refractaire,5,1,0.6326672679516904,0.2
 143,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1197,7 +1197,7 @@ Müller:
 Na, zu Ihnen, Herr Nußbiker, zu Ihnen!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.0,0.125
+",23,gunther-dr-cousin-refractaire,8,1,0.0,0.125
 144,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1206,7 +1206,7 @@ Nußbicker :
 Naan, merci, lon Sie numme, ich unternehm nix geje d'Polizej. D'Polizej het grad erächt, Colonialwaren ins Große isch im Ditsche viel schöner wie Epicerie en gros! Müller : Aber, Herr Nußbicker, die ganze Stadt ist ja empört darüber!
 
         
-",gunther-dr-cousin-refractaire,40,10,0.17650000000000002,0.25
+",24,gunther-dr-cousin-refractaire,40,10,0.17650000000000002,0.25
 145,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1217,7 +1217,7 @@ Nadierlich, wil d'Zyttunge e Gebriels mache, deß sin ewe vaterlandslose Geselle
  Erinner mich dran, daß ich die Zyttungsartikel noch im Unkel René uff Paris schick!
 
         
-",gunther-dr-cousin-refractaire,40,3,0.0,0.075
+",24,gunther-dr-cousin-refractaire,40,3,0.0,0.075
 146,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1226,7 +1226,7 @@ Müller:
 Nun, vielleicht kann ich Ihnen sonst mal dienlich sein!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.0,0.1
+",24,gunther-dr-cousin-refractaire,10,1,0.0,0.1
 147,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1237,7 +1237,7 @@ M'r brüche dato gar nix.
           
 
         
-",gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
+",24,gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
 148,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1248,7 +1248,7 @@ Awer Frau, d'r Herr Müller isch doch ken Voyageur. Gewiß, Herr Müller, bi Gel
  Ich saa Ihne au vielmols Merci, Herr Müller.
 
         
-",gunther-dr-cousin-refractaire,37,5,0.12451594545557496,0.13513513513513514
+",24,gunther-dr-cousin-refractaire,37,5,0.12451594545557496,0.13513513513513514
 149,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1257,7 +1257,7 @@ Nußbicker :
 Eh bien, Alti, was saasch zuem neje Garniherr?
 
         
-",gunther-dr-cousin-refractaire,9,1,0.6716750167449417,0.1111111111111111
+",24,gunther-dr-cousin-refractaire,9,1,0.6716750167449417,0.1111111111111111
 150,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1269,7 +1269,7 @@ Madame Nußbicker :
 Was ich saa? Ich bin stille!
 
         
-",gunther-dr-cousin-refractaire,14,3,0.11466666666666665,0.21428571428571427
+",25,gunther-dr-cousin-refractaire,14,3,0.11466666666666665,0.21428571428571427
 152,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1278,7 +1278,7 @@ Madame Nußbicker :
 En espèce Rieselhagen, je te gratule!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.344,0.125
+",25,gunther-dr-cousin-refractaire,8,1,0.344,0.125
 153,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1287,7 +1287,7 @@ Nußbicker:
 Wiewele, d'Sitüation beherrsche! Ich reüssier famos, Lieferunge, Kaserneböj - ça ira! Madame Nußbicker : Un denksch nit an d'r Cousin üs Paris?
 
         
-",gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
+",25,gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
 154,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1296,7 +1296,7 @@ Nußbicker :
 V’rschpring mit Dim Cousin üß Paris! Allewäj denk ich! Luej emol, Wiewele, am nächschte 14 juillet fädel ich die Sach so langsam by ihm yn, bis dort anne isch die Sach im Blej mit de Grundstüecker vor'm Spitaltor for de Kaserneböj, bis dort anne macht sich die Sach mit'm Hélène un mit'm Léon — —
 
         
-",gunther-dr-cousin-refractaire,59,1,0.664,0.01694915254237288
+",25,gunther-dr-cousin-refractaire,59,1,0.664,0.01694915254237288
 155,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1307,7 +1307,7 @@ Madame Nußbicker :
  
 
         
-",gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
+",25,gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
 156,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1316,7 +1316,7 @@ Nußbicker:
 Luej, sej doch v'rständig, ich garantier Dir, Ihr wäre noh emol stolz sin uff ejre Nußbicker, d'r Cousin kummt nimmi, der huckt fescht in Paris, un bis der widder emol uff Strosburry kummt, schnejts grün zwische Pfingschte un Hagenau. Worum soll ich ihm jetzt diß scheene Geld an d'r Kopf schmisse, wo mit däm fkolossale Hirnkaschte v'rdient isch. Worum selle mir denn wie e Simpel dostehn, wenn ’s Bäbb räjt? Was solle mir denn nit profitiere, wenn m'r G'schäfte mache kann?
 
         
-",gunther-dr-cousin-refractaire,82,11,0.25045020466444773,0.13414634146341464
+",26,gunther-dr-cousin-refractaire,82,11,0.25045020466444773,0.13414634146341464
 157,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1325,7 +1325,7 @@ Madame Nußbicker :
 Gottfried! Wenn aaner e weichs Herz hett wie d'r Cousin René un gern noch emol sähne dät, wie ’s fruehjer isch gewäse, wenn er v'rzwiefelt bym Gedanke, daß alles, alles schanschiert soll sin — —
 
         
-",gunther-dr-cousin-refractaire,37,5,0.3297354165911061,0.13513513513513514
+",26,gunther-dr-cousin-refractaire,37,5,0.3297354165911061,0.13513513513513514
 158,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1334,7 +1334,7 @@ Nußbicker:
 Diß isch Wiwerdings vun gescht am Daa! Larifari isch's! ’s scheenschte Souvenier diß isch d'Müenz!
 
         
-",gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
+",26,gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
 159,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -1343,7 +1343,7 @@ Noëmie:
 Babbe, derf ich au emol e Wörtel redde? Nußbicker: Ruewig un stille, nix derfschte redde! Dort setz Dich in d'r Fauteuil un freij Dich, daß Dinner Babbe vor Dir uff d'Welt kumme isch, ich hab Dich an minere Vatterbruscht uffgezöije, wo kämte-n-Ihr anne, wenn Eijeri Eltere nit for Ejch sorje däte? Ich bin jo doch d'r G'schejtscht vun Ejch! D'r Cousin kummt niemols meh. Kirsche zahl ich, wenn emol —
 
         
-",gunther-dr-cousin-refractaire,74,9,0.3209930507982557,0.12162162162162163
+",26,gunther-dr-cousin-refractaire,74,9,0.3209930507982557,0.12162162162162163
 161,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1352,7 +1352,7 @@ Nußbicker:
 Was? Hein? Wasser Marsch ! Maidel, hesch Dü e Fiermelder v'rschluckt?!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",26,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 163,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1364,7 +1364,7 @@ Nußbicker:
 Er kummt! Er hett e Begehres an's Minischterium gemacht, ich soll gehn lueje, wo d’Antwort bliet, ich soll Démarches fur ne mache !
 
         
-",gunther-dr-cousin-refractaire,34,2,0.6605,0.058823529411764705
+",27,gunther-dr-cousin-refractaire,34,2,0.6605,0.058823529411764705
 164,comedy,Hélène,F,,,,"
           
 Hélène :
@@ -1374,7 +1374,7 @@ O wie fraij ich mich, o wie scheen, Noëmie, d'r Cousin üs Paris kummt.
 (tanzt mit ihr in der Stube herum)
 
         
-",gunther-dr-cousin-refractaire,24,1,0.4360044662715527,0.041666666666666664
+",27,gunther-dr-cousin-refractaire,24,1,0.4360044662715527,0.041666666666666664
 165,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1385,7 +1385,7 @@ Ah! Dü fraijsch Dich? Nüß mit d'r Fraid!
  Heiliger Strohsack! Heiligi Bettlad, was fange m'r an?
 
         
-",gunther-dr-cousin-refractaire,28,5,0.375,0.17857142857142858
+",27,gunther-dr-cousin-refractaire,28,5,0.375,0.17857142857142858
 166,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1394,7 +1394,7 @@ Madame Nußbicker:
 Voilà! So ebs haw ich m'r erwart! Deß isch e Schtroof vun owe! Siehschte jetzt wie m'r d'Situation b'herrsche? Wasser Marsch! E klaani Affair, awer propper!
 
         
-",gunther-dr-cousin-refractaire,29,3,0.27366666666666667,0.10344827586206896
+",27,gunther-dr-cousin-refractaire,29,3,0.27366666666666667,0.10344827586206896
 167,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1406,7 +1406,7 @@ Nußbicker :
 Diß haw-i m'r nit erwart! Minsex nit! Babett, in so Dings sin ihr Wiewer durichtriewe wie e Salatfieb, was mache? was mache?
 
         
-",gunther-dr-cousin-refractaire,30,1,0.477,0.03333333333333333
+",27,gunther-dr-cousin-refractaire,30,1,0.477,0.03333333333333333
 168,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1418,7 +1418,7 @@ Madame Nußbicker :
 Gottfried! Jetz hesch uns in d’Schaud gebroocht, jetz hesch Dinni Kinder unglüecklich gemacht, jetz hesch Dinere Frau ’s Herz gebroche. Jetz was mache? was made? Weisch was, m'r lonn 'ne nit erin!
 
         
-",gunther-dr-cousin-refractaire,43,8,0.15925,0.18604651162790697
+",28,gunther-dr-cousin-refractaire,43,8,0.15925,0.18604651162790697
 169,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1430,7 +1430,7 @@ Nußbicker :
 Frau, wer hett Dir denne Gedanke yngenn?! M'r lonn 'ne nit erin, großartig, alles mueß an d'Schpritz for 'ne drüsse ze halte!
 
         
-",gunther-dr-cousin-refractaire,27,4,0.05075,0.14814814814814814
+",28,gunther-dr-cousin-refractaire,27,4,0.05075,0.14814814814814814
 170,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1439,7 +1439,7 @@ Madame Nußbicker :
 Ich mach jo alles was de witt, Gott, wenn numme die Affair g'flickt wär! Awer, Männel, wie witt empechiere, daß 'r erinkummt?
 
         
-",gunther-dr-cousin-refractaire,24,3,0.3203333333333333,0.125
+",28,gunther-dr-cousin-refractaire,24,3,0.3203333333333333,0.125
 171,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1448,7 +1448,7 @@ Nußbicker:
 D'r Mensch kann noch eso dumm sin, wenn 'r sich nurre ze helfe weiß! Wie han m'r g'saat? M'r lon 'ne nit erin! Maansch soll ich an's XV. Armeekorps schriewe, wo ich d'Erbse anne liffer?
 
         
-",gunther-dr-cousin-refractaire,38,4,0.35058593274502226,0.10526315789473684
+",28,gunther-dr-cousin-refractaire,38,4,0.35058593274502226,0.10526315789473684
 172,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1459,7 +1459,7 @@ Ah, die köenne jo nix mache!
           
 
         
-",gunther-dr-cousin-refractaire,8,1,0.344,0.125
+",28,gunther-dr-cousin-refractaire,8,1,0.344,0.125
 173,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1468,7 +1468,7 @@ Nußbicker:
 Ich geh zuem Staatsminifchter un fröj, ebbs gepermettiert isch; mir han noch G'setzer in Ditschland, Gottlowedank! Madame Ja, die wodde d'rvun im Kejelklüb geredd hesch! Gottfried! so witt Dü geje Diner eije Cousin wüete?! Schenk ihm kloorer Wyn yn!
 
         
-",gunther-dr-cousin-refractaire,41,6,0.1485,0.14634146341463414
+",28,gunther-dr-cousin-refractaire,41,6,0.1485,0.14634146341463414
 174,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1477,7 +1477,7 @@ Nußbicker :
 Jamais de la vie! Dü kennsch denne Stättkopf nit, denne Schwowefresser! Der tät m'r d'ganz Paschtet v'rderwe! Wenn aaner blind isch, kannsch em d'Sunn unter d'Nas hewe, un er sieht sie nit. Er derf nit erin, diß isch's Wort! Ich loß e Reje- ment uff Avricourt marschiere! Ich v’rbreit d'Maul- und Klauen- seuche in Lothringe, ich appellier an d’Grenzschperr! Ich saa, ’s isch e franzeescher General, no derf 'r vun aße nit erin!
 
         
-",gunther-dr-cousin-refractaire,83,8,0.12112500000000001,0.0963855421686747
+",29,gunther-dr-cousin-refractaire,83,8,0.12112500000000001,0.0963855421686747
 175,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1486,7 +1486,7 @@ Madame Nußbicker:
 Wenn er s geringscht d'rvun erfahrt, macht er Dir e Prozeß! So kann noch alles guet gehn.
 
         
-",gunther-dr-cousin-refractaire,20,3,0.336,0.15
+",29,gunther-dr-cousin-refractaire,20,3,0.336,0.15
 176,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1497,7 +1497,7 @@ Nix, nix, er derf nit erin! Ich geh de Schloofer fröije? Ich mach d'r Ysebahn i
  Nußbicker, jetz schlaat dinni groß Stund, jetz schlaat —
 
         
-",gunther-dr-cousin-refractaire,57,3,0.07033333333333333,0.05263157894736842
+",29,gunther-dr-cousin-refractaire,57,3,0.07033333333333333,0.05263157894736842
 177,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1511,7 +1511,7 @@ E Dunderwischbel noch emol, blie doch e-n-Auesblick stille! Ja, voilà, wie ?
  Avricourt verlangt Sie zu sprechen!
 
         
-",gunther-dr-cousin-refractaire,28,3,0.11466666666666665,0.10714285714285714
+",29,gunther-dr-cousin-refractaire,28,3,0.11466666666666665,0.10714285714285714
 178,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1523,7 +1523,7 @@ Nußbicker:
  Au revoir!
 
         
-",gunther-dr-cousin-refractaire,60,4,0.0,0.06666666666666667
+",29,gunther-dr-cousin-refractaire,60,4,0.0,0.06666666666666667
 179,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1534,7 +1534,7 @@ Was isch?
           
 
         
-",gunther-dr-cousin-refractaire,4,1,0.344,0.25
+",29,gunther-dr-cousin-refractaire,4,1,0.344,0.25
 180,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1543,7 +1543,7 @@ Nußbicker :
 V'rschpring! Er huckt schun in Avricourt un meint, daß 'r telegraphisch d'Permission bekummt! Eventuell kummt 'r schun mit em nächschte Zugg, ich soll awer fur d'Sicherheit gehn lueje uff em Minischterium!
 
         
-",gunther-dr-cousin-refractaire,34,4,0.29370802115648975,0.11764705882352941
+",30,gunther-dr-cousin-refractaire,34,4,0.29370802115648975,0.11764705882352941
 181,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1552,7 +1552,7 @@ Madame Nußbicker:
 Also isch nix ze mache! Geh, e Gottsnamme!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.344,0.1
+",30,gunther-dr-cousin-refractaire,10,1,0.344,0.1
 184,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1561,7 +1561,7 @@ Nußbicker :
 C'est ça! Die fehle m'r grad noch!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.28900000000000003,0.25
+",30,gunther-dr-cousin-refractaire,8,2,0.28900000000000003,0.25
 185,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1577,7 +1577,7 @@ Zeij nemm dem Soldat deß Dings ab un traa's in's Zahl- meischterszimmer! Do han
 !
 
         
-",gunther-dr-cousin-refractaire,82,8,0.2691093642960754,0.0975609756097561
+",30,gunther-dr-cousin-refractaire,82,8,0.2691093642960754,0.0975609756097561
 186,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1587,7 +1587,7 @@ Madame Nußbicker:
  V'rschteckle die Sache vum Zahlmeischter, fur aß sie d'Pariser nit sehn, wenn m'r ne d'Zimmer zeije!
 
         
-",gunther-dr-cousin-refractaire,24,3,0.302,0.125
+",31,gunther-dr-cousin-refractaire,24,3,0.302,0.125
 188,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1596,7 +1596,7 @@ Nußbicker :
 Ich gib mini Demission, ich loß mich scheide! Ich reis' im e Luftballon dirigeable furt! Wenn d'r René ins Ländel erinkummt, bin ich gepritscht!
 
         
-",gunther-dr-cousin-refractaire,25,1,0.0,0.04
+",31,gunther-dr-cousin-refractaire,25,1,0.0,0.04
 189,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1605,7 +1605,7 @@ Madame Nußbicker :
 Jetz v'rzwiefel doch nit glich! Ich will sunsch ken G'fälligkeite vun so Lytt, awer hätsch jetz nit könnte Diner Referendar um Rot angehn?!
 
         
-",gunther-dr-cousin-refractaire,25,2,0.4828515356337177,0.08
+",31,gunther-dr-cousin-refractaire,25,2,0.4828515356337177,0.08
 190,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1615,7 +1615,7 @@ Frau, Dü hesch de Längschte! Ja, nadierlich, d'r Referendar isch unseri Rettun
 (er klingelt)
 
         
-",gunther-dr-cousin-refractaire,18,2,0.2735,0.1111111111111111
+",31,gunther-dr-cousin-refractaire,18,2,0.2735,0.1111111111111111
 191,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -1624,7 +1624,7 @@ Kättel:
 Ju, Herr! Madame Nußbicker: Geh nuff zuem Herr Müller, ob er nit wott e-n-Auesblick herabkumme!
 
         
-",gunther-dr-cousin-refractaire,18,4,0.086,0.2222222222222222
+",31,gunther-dr-cousin-refractaire,18,4,0.086,0.2222222222222222
 192,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -1634,7 +1634,7 @@ Ju, Madam!
 (will ab)
 
         
-",gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
+",32,gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
 193,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1643,7 +1643,7 @@ Nußbicker:
 Halt, Kättel! Wenn m'r Visit bekumme, hesch Dü ’s Mül ze halte un mit kennem vun unsere Verwandte e Wort ze redde! Wenn Sie Dich ebbs fröije, saasch, de bisch daubstumm uff d'Welt kumme!
 
         
-",gunther-dr-cousin-refractaire,36,7,0.0,0.19444444444444445
+",32,gunther-dr-cousin-refractaire,36,7,0.0,0.19444444444444445
 194,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -1652,7 +1652,7 @@ Kättel:
 O Jesüs, main ünd alles!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",32,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 195,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1661,7 +1661,7 @@ Madame Nußbicker:
 : Männel, deß kannsch doch nit durichführe!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.172,0.25
+",32,gunther-dr-cousin-refractaire,8,2,0.172,0.25
 196,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1672,7 +1672,7 @@ M'r kann alles durichfüehre! M'r sauwe, m'r hans üs d'r Blödeanstalt vun Bisc
  Geh jetz min Herzel!
 
         
-",gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
+",32,gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
 197,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -1684,7 +1684,7 @@ Kättel:
 Oh Jesüs main ünd alles!
 
         
-",gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
+",32,gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
 198,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1695,7 +1695,7 @@ Madame Nußbicker:
 : Dü bisch viel ze enerviert, Männel! Hättsch mich lon mache! Ich hätt mit'm René geredd, alles expliziert un regliert! Dù kummsch jo als diefer nyn!
 
         
-",gunther-dr-cousin-refractaire,28,4,0.293,0.14285714285714285
+",33,gunther-dr-cousin-refractaire,28,4,0.293,0.14285714285714285
 200,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -1707,7 +1707,7 @@ Müller :
 Womit kann ich dienen, Herr Nußbicker ?
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",33,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 201,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1716,7 +1716,7 @@ Nußbicker:
 Sie könnte uns e großer G'falle dhuen, Herr Müller!
 
         
-",gunther-dr-cousin-refractaire,10,2,0.0,0.2
+",33,gunther-dr-cousin-refractaire,10,2,0.0,0.2
 202,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1725,7 +1725,7 @@ Madame Nußbicker :
 M'r bekumme Visit üs Paris!
 
         
-",gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
+",33,gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
 203,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1734,7 +1734,7 @@ Nußbicker:
 E lätzi Visit! Miner Cousin, ancien réfractaire kummt uff hie!
 
         
-",gunther-dr-cousin-refractaire,11,4,0.18175,0.36363636363636365
+",33,gunther-dr-cousin-refractaire,11,4,0.18175,0.36363636363636365
 204,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1743,7 +1743,7 @@ Madame Nußbicker:
 Un do müeßte m'r halt Démarches mache, for daß er nit erin derf, deß heißt, for daß er erin derf!
 
         
-",gunther-dr-cousin-refractaire,22,2,0.172,0.09090909090909091
+",34,gunther-dr-cousin-refractaire,22,2,0.172,0.09090909090909091
 205,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1752,7 +1752,7 @@ Nußbicker:
 Nit wohr, m'r duet halt alles for d'Familie, wenn's am a Schade macht!
 
         
-",gunther-dr-cousin-refractaire,16,5,0.2906,0.3125
+",34,gunther-dr-cousin-refractaire,16,5,0.2906,0.3125
 206,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1761,7 +1761,7 @@ Madame Nußbicker :
 Un wie Sie jo bekannt sin uff'm Minischterium . . .
 
         
-",gunther-dr-cousin-refractaire,11,4,0.39849999999999997,0.36363636363636365
+",34,gunther-dr-cousin-refractaire,11,4,0.39849999999999997,0.36363636363636365
 207,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1772,7 +1772,7 @@ Ewe un nit wohr, Sie han mine Döchter shun so manchi Artlichkeite erwiese .....
  M'r welle nit grad do d’rvun redde! Awer wenn d'r Cousin e paar Stund d'Permission bekämt.
 
         
-",gunther-dr-cousin-refractaire,37,6,0.40633333333333327,0.16216216216216217
+",34,gunther-dr-cousin-refractaire,37,6,0.40633333333333327,0.16216216216216217
 208,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1781,7 +1781,7 @@ Nußbicker:
 Ganz erecht, wohlv'rstande nurre e paar Schtund, e paar Schtund?
 
         
-",gunther-dr-cousin-refractaire,11,3,0.0,0.2727272727272727
+",34,gunther-dr-cousin-refractaire,11,3,0.0,0.2727272727272727
 209,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1790,7 +1790,7 @@ Müller:
 Es macht mich überglücklich, Ihnen gefällig sein zu dürfen. Bin ja augenblicklich im Ressort beschäftigt ! Nußbicker: : Jo, grad so! Sauwe Sie im Herr Ressort, viellicht hett 'r sin Begehre schun gelese, wo er ans Minischterium gemacht hett!
 
         
-",gunther-dr-cousin-refractaire,38,10,0.2563,0.2631578947368421
+",34,gunther-dr-cousin-refractaire,38,10,0.2563,0.2631578947368421
 210,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1799,7 +1799,7 @@ Müller:
 Ich werde mich mit Eifer der Sache annehmen. Ach, wenn Sie wüßten, wie gern. In besonders wichtigen Fällen, Todes- fall usw. werden in der Regel zwei Tage Aufenthalt bewilligt Ein Todesfall liegt nicht vor?
 
         
-",gunther-dr-cousin-refractaire,36,8,0.29073340321984165,0.2222222222222222
+",35,gunther-dr-cousin-refractaire,36,8,0.29073340321984165,0.2222222222222222
 211,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1813,7 +1813,7 @@ Zwei Daa!
  E Todsfall, leider nein! Kennt m'r nit sauwe sunscht e trürigi Familjeangelejeheit?
 
         
-",gunther-dr-cousin-refractaire,21,5,0.192,0.23809523809523808
+",35,gunther-dr-cousin-refractaire,21,5,0.192,0.23809523809523808
 212,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1822,7 +1822,7 @@ Madame Nußbicker :
 Miner Mann will nämlich ’s Hélène mit'm Filston vum Cousin fianciere!
 
         
-",gunther-dr-cousin-refractaire,14,3,0.357,0.21428571428571427
+",35,gunther-dr-cousin-refractaire,14,3,0.357,0.21428571428571427
 213,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -1831,7 +1831,7 @@ Müller :
 Ich eile auf Flügeln des Entzückens.
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",35,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 214,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -1840,7 +1840,7 @@ Nußbicker:
 Ah, 's pressiert gar nit, Herr Müller, nemme Sie sich ruejig Zytt, er soll wärte in Avricourt, deß isch au e ganz netti Gejed! Ach, in Avricourt wohnt Ihr Verwandter?
 
         
-",gunther-dr-cousin-refractaire,31,4,0.10900230142441035,0.12903225806451613
+",35,gunther-dr-cousin-refractaire,31,4,0.10900230142441035,0.12903225806451613
 216,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1849,7 +1849,7 @@ Madame Nußbicker:
 Abah! Miner Mann hett sich nurre v'rhuddelt. Er hett welle sauwe, daß d'r Cousin doch üewer Avricourt fahre mueß.
 
         
-",gunther-dr-cousin-refractaire,21,3,0.357,0.14285714285714285
+",36,gunther-dr-cousin-refractaire,21,3,0.357,0.14285714285714285
 217,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1860,7 +1860,7 @@ Nadierlich mueß 'r üewer Avricourt fahre! Soviel wäre Sie au üß d'r Natürg
           
 
         
-",gunther-dr-cousin-refractaire,17,1,0.0,0.058823529411764705
+",36,gunther-dr-cousin-refractaire,17,1,0.0,0.058823529411764705
 218,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -1869,7 +1869,7 @@ Müller:
 Ja, selbstverständlich, über Avricourt muß er fahren. Also ich eile!
 
         
-",gunther-dr-cousin-refractaire,11,2,0.0,0.18181818181818182
+",36,gunther-dr-cousin-refractaire,11,2,0.0,0.18181818181818182
 219,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1878,7 +1878,7 @@ Nußbicker :
 Adieu, Herr Müller! Awer wie g'saat, es hat gar keine Eile, gar keine Eile. Un wenn's nit ze mache geht, e Gottsnamme, mir sin halt armi Opfer vun de politische Verhältnisser ! Un wie gsaat, keine Eile, gar keine Eile!
 
         
-",gunther-dr-cousin-refractaire,41,10,0.0,0.24390243902439024
+",36,gunther-dr-cousin-refractaire,41,10,0.0,0.24390243902439024
 221,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1887,7 +1887,7 @@ Madame Nußbicker:
 Männel, was mainsch, wenn 'r numme zwei Daa erüewer derft, so lang könnte m'r em alles v'rscheckle! W'r lon ne nit züem Zimmer nüs!
 
         
-",gunther-dr-cousin-refractaire,26,4,0.13674999999999998,0.15384615384615385
+",36,gunther-dr-cousin-refractaire,26,4,0.13674999999999998,0.15384615384615385
 222,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1896,7 +1896,7 @@ Nußbicker :
 Wenn ’r numme zwei Daa bekummt, sin m'r sauviert! Wenn 'r sechs Monet bekämt als so e arms Opfer vun de politische Verhältnisser, wärde m'r sauvierter!
 
         
-",gunther-dr-cousin-refractaire,27,2,0.0,0.07407407407407407
+",37,gunther-dr-cousin-refractaire,27,2,0.0,0.07407407407407407
 224,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1907,7 +1907,7 @@ Wasser marsch!
  Permis de deux jours de séjours! Nous arrivons à Strasbourg à 4 heures le l’après- midi! Moment, le plus heureux de ma vie! René. Jetz isch's Fier im Kryzschtock!
 
         
-",gunther-dr-cousin-refractaire,40,1,0.0,0.025
+",37,gunther-dr-cousin-refractaire,40,1,0.0,0.025
 225,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -1916,7 +1916,7 @@ Madame Nußbicker:
 Zweij Daa hett ’r Permission !
 
         
-",gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
+",37,gunther-dr-cousin-refractaire,7,1,0.344,0.14285714285714285
 226,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1925,7 +1925,7 @@ Nußbicker :
 Die zweij Daa wurd 'r yng'schperrt un derf nit zuem Schlaa nüs. M'r mache Schonzytt fur alli Réfractaire! M'r lon ne in d'Isolierbaracke bringe uff em Polygon! Ich schpreng e Wasser- leitungsrohr in d'r Gaß! Ich mach de Gashahne uff! Ich v'rschnied de elektrisch Droht in d'r Nacht! Er derf nit erin, pardon, er derf nit erüs!
 
         
-",gunther-dr-cousin-refractaire,60,7,0.029,0.11666666666666667
+",37,gunther-dr-cousin-refractaire,60,7,0.029,0.11666666666666667
 227,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1936,7 +1936,7 @@ Gottfried! Dü wursch nix als Viehheite mache, ich maan, ich sieh's!
           
 
         
-",gunther-dr-cousin-refractaire,14,1,0.344,0.07142857142857142
+",37,gunther-dr-cousin-refractaire,14,1,0.344,0.07142857142857142
 228,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1945,7 +1945,7 @@ Nußbicker :
 Uff d'r Höche sollsch Dü mich sähn! Rusé wie e Fuchs un v’rschmitzter que le diable! Fünfundzwanzig Johr haw ich mit de nämliche Karte g'schpielt, ich gieb d'Trümpf nimmi üs d'r Hand! Nit erüs derf 'r m'r!
 
         
-",gunther-dr-cousin-refractaire,39,2,0.0,0.05128205128205128
+",38,gunther-dr-cousin-refractaire,39,2,0.0,0.05128205128205128
 229,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1954,7 +1954,7 @@ Madame Nußbicker :
 Es wurd alles an de Daa kumme! Denk an d'Kinder!
 
         
-",gunther-dr-cousin-refractaire,13,3,0.11466666666666665,0.23076923076923078
+",38,gunther-dr-cousin-refractaire,13,3,0.11466666666666665,0.23076923076923078
 230,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1963,7 +1963,7 @@ Nußbicker :
 Nix kummt an de Daa! Denn m'r lon ne nitt zum Hüß nüs! Mer muehn ne durchenander bringe! Zunterscht zewerscht! Er derf die zwei Daa kenn Luft bekumme! Wenn er schwarz saat, saasch Dü wiß un ich saa gäckelegäl! Mer mache ne meschugge! kryzwis un iewerzwerch! Mer muehn im alli Chikane sueche, die Reis uff Stroßburri soll ihm gedenke! Wenn die zwei Däj erum sin, mueß er im Herrgott uff de Kneij danke, daß er widder nüwer derf! Un jetz ans Werik!
 
         
-",gunther-dr-cousin-refractaire,83,13,0.08107692307692307,0.1566265060240964
+",38,gunther-dr-cousin-refractaire,83,13,0.08107692307692307,0.1566265060240964
 231,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -1972,7 +1972,7 @@ Madame Nußbicker :
 ’s müeßt halt ebber an de Ysebahn!
 
         
-",gunther-dr-cousin-refractaire,9,2,0.172,0.2222222222222222
+",38,gunther-dr-cousin-refractaire,9,2,0.172,0.2222222222222222
 232,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -1983,7 +1983,7 @@ M'r schicke de Alfred!
  Miner Sohn soll eruf kumme!
 
         
-",gunther-dr-cousin-refractaire,15,2,0.3635,0.13333333333333333
+",38,gunther-dr-cousin-refractaire,15,2,0.3635,0.13333333333333333
 233,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -1996,7 +1996,7 @@ Zu, Herr!
 (ab)
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",38,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 235,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -2005,7 +2005,7 @@ Madame Nußbicker:
 Dü maansch der, wie ’s Pulver erfunde hett?
 
         
-",gunther-dr-cousin-refractaire,10,1,0.344,0.1
+",39,gunther-dr-cousin-refractaire,10,1,0.344,0.1
 236,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2014,7 +2014,7 @@ Nußbicker :
 Ah jo, der het's nit erfunde! D’r Moltke maan ich! Frau, in mir siehsch de Moltke! Ich wurr die Schlacht lenke! Bumme un Granate selle drin fahre!
 
         
-",gunther-dr-cousin-refractaire,29,2,0.0,0.06896551724137931
+",39,gunther-dr-cousin-refractaire,29,2,0.0,0.06896551724137931
 237,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2025,7 +2025,7 @@ Ich maan, ich sieh, wie Dü d'rnewe schieße wursch!
           
 
         
-",gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
+",39,gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
 238,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2036,7 +2036,7 @@ Awer kenn Gedrummels ohne Soldate!
  Hélène, Noëmie!
 
         
-",gunther-dr-cousin-refractaire,13,1,0.0,0.07692307692307693
+",39,gunther-dr-cousin-refractaire,13,1,0.0,0.07692307692307693
 239,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2045,7 +2045,7 @@ Madame Nußbicker :
 Mann, diß einde bitt ich Dich, loß d'Kinder üß'm Schpiel!
 
         
-",gunther-dr-cousin-refractaire,14,5,0.0688,0.35714285714285715
+",39,gunther-dr-cousin-refractaire,14,5,0.0688,0.35714285714285715
 240,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2058,7 +2058,7 @@ Redd im Moltke nix ins Handwerik! Noëmie, Hélène und Alfred :
  Ich bin stolz uff Ejch! Un hab gedhon, was ich gekönnt hab — — fröje d'Mamme!
 
         
-",gunther-dr-cousin-refractaire,54,8,0.1669584084939613,0.14814814814814814
+",40,gunther-dr-cousin-refractaire,54,8,0.1669584084939613,0.14814814814814814
 241,comedy,René Vinbergé,M,,,,"
           
 Die Kinder:
@@ -2067,7 +2067,7 @@ Die Kinder:
 Un was soll sin?
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",40,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 242,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2076,7 +2076,7 @@ Nußbicker :
 Fröje gar nix un halte ’s Mül, wenn Ihr babble welle! Kinder, e ernschti, e schweri Schtund fur d'Familie Nußbicker! M'r freije in zwei Schtund Visit vum Unkel in Paris, ich hab mini Grüend, fur de Unkel un sini Familie fur die zwei Daa, wo er do isch, mit aller Herzlichkeit zue empfange, ich mueß ne même so attachiere, daß 'r kenn Minüt üs'm Hüs derf! Un do d'rzue muen Ihr mir helfe! Ihr fröije nit, Ihr g'horiche numme! Avant tout muen Ihr uff d'Schwowe schelte, bis d'r Himmel blöj wurd, diß hett d'r Unkel René gern. Schwöre in Ejrem Babbe diß!
 
         
-",gunther-dr-cousin-refractaire,107,18,0.13237094905308502,0.16822429906542055
+",40,gunther-dr-cousin-refractaire,107,18,0.13237094905308502,0.16822429906542055
 243,comedy,E Lehrbue,M,,,,"
           
 Ein Lehrjunge:
@@ -2085,7 +2085,7 @@ Ein Lehrjunge:
 Patron, d'r Herr Zahlemeischter will mit 'm redde!
 
         
-",gunther-dr-cousin-refractaire,10,3,0.39033333333333337,0.3
+",40,gunther-dr-cousin-refractaire,10,3,0.39033333333333337,0.3
 245,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -2094,7 +2094,7 @@ Madame Nußbicker:
 Kinder, denke dran, was ich Ejch g'saat hab — un horiche uff Ejre Babbe!
 
         
-",gunther-dr-cousin-refractaire,16,4,0.23249999999999998,0.25
+",40,gunther-dr-cousin-refractaire,16,4,0.23249999999999998,0.25
 246,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -2103,7 +2103,7 @@ Hélène:
 Naan, Maman, jetz handle mir emo! wie mir ’s fur guet finde! Unser Name soll ehrlich bliewe, ich schwör numme, so witt in mim Schweschterle sin Glueck nix d'rgeje steht!
 
         
-",gunther-dr-cousin-refractaire,32,4,0.21100000000000002,0.125
+",41,gunther-dr-cousin-refractaire,32,4,0.21100000000000002,0.125
 247,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -2112,7 +2112,7 @@ Noëmie :
 Maman, denksch Dü nimmi an de Brief, wo ich an's Kiesel- hagens hab schriewe muen ?! Au ich schwör numme unter de-näm- liche Conditione wie min Schweschterle !
 
         
-",gunther-dr-cousin-refractaire,30,1,0.0,0.03333333333333333
+",41,gunther-dr-cousin-refractaire,30,1,0.0,0.03333333333333333
 248,comedy,Alfred,M,,,,"
           
 Alfred :
@@ -2123,7 +2123,7 @@ Alfred :
  Nous jurons!
 
         
-",gunther-dr-cousin-refractaire,59,9,0.3556131209416826,0.15254237288135594
+",41,gunther-dr-cousin-refractaire,59,9,0.3556131209416826,0.15254237288135594
 249,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2139,7 +2139,7 @@ Gottlowedank, der Zahlemeischter isch ienverstande, er zejt ererscht üwwermorje
  Halt's Kättel isch noch nit vereidigt ! Kättel !
 
         
-",gunther-dr-cousin-refractaire,55,8,0.4010650561976896,0.14545454545454545
+",41,gunther-dr-cousin-refractaire,55,8,0.4010650561976896,0.14545454545454545
 250,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -2148,7 +2148,7 @@ Kättel:
 Was beliebt?
 
         
-",gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
+",41,gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
 251,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2157,7 +2157,7 @@ Nußbicker:
 Es kann die nächschte zwei Däj kumme wer will, un wenns der President vun d'r République isch, ze stellsch Dich daubstumm un saasch, mir sin nit d'heim!
 
         
-",gunther-dr-cousin-refractaire,29,1,0.0,0.034482758620689655
+",41,gunther-dr-cousin-refractaire,29,1,0.0,0.034482758620689655
 252,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -2166,7 +2166,7 @@ Kättel:
 Ob Jesüs main ünd alles! Diß ward jo gelöije, Herr, diß isch nit chrischtlich, su ebbs mach ich nit!
 
         
-",gunther-dr-cousin-refractaire,20,3,0.159,0.15
+",42,gunther-dr-cousin-refractaire,20,3,0.159,0.15
 253,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2175,7 +2175,7 @@ Nußbicker :
 D'no schmiß ich Dich zuem Tempel nüß! Diß wärd noch scheener ! Wenn Dü diß zu Moltke g'saat hättsch! So jetz kannsch widder abdanze !
 
         
-",gunther-dr-cousin-refractaire,25,1,0.4360044662715527,0.04
+",42,gunther-dr-cousin-refractaire,25,1,0.4360044662715527,0.04
 254,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -2189,7 +2189,7 @@ Oh Jesüs main ünd alles! Ich bin e so chrischtlichs Maidel !
           
 
         
-",gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
+",42,gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
 257,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2205,7 +2205,7 @@ Bühne frei! V'rschwinde, fur aß ich mich entwickle kann!
  So! Do wärd ich allein mit mine Gedanke — un hab kenni! E Klaue am Bein, d'r Cousin uff'm Hals — un alli Bariser im Mawe! Mais quand même, ich fuehls in mir, à la hauteur de la situation!
 
         
-",gunther-dr-cousin-refractaire,91,11,0.17554545454545456,0.12087912087912088
+",42,gunther-dr-cousin-refractaire,91,11,0.17554545454545456,0.12087912087912088
 258,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -2217,7 +2217,7 @@ Müller :
 Herr Nußbicker ! Es läßt sich herrlich viel in der Sache für Ihren Verwandten machen. Der Herr Minister bittet Sie, per- sönlich einen Augenblick vorzusprechen.
 
         
-",gunther-dr-cousin-refractaire,31,3,0.19533333333333333,0.0967741935483871
+",43,gunther-dr-cousin-refractaire,31,3,0.19533333333333333,0.0967741935483871
 259,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2227,7 +2227,7 @@ Was? So muehn Sie schaffe! No kann ich noch mini Fraid an Ihne erläwe !
 (Vorhang.)
 
         
-",gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
+",43,gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
 260,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2236,7 +2236,7 @@ Vinbergé:
 Nurre stille, ’s kummt als 'besser! Wie m'r geje s'Krone- burjer Tor kumme schlüdere, wie früejer als im Unkel Güschtav sin Hüs g'schtande isch, un ich nämm de appareil, for e ganz unschuldichi Uffnahm ze mache —
 
         
-",gunther-dr-cousin-refractaire,40,8,0.15725,0.2
+",43,gunther-dr-cousin-refractaire,40,8,0.15725,0.2
 261,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2245,7 +2245,7 @@ Nußbicker :
 Klein, nadierlich, awer propper!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",43,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 264,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2254,7 +2254,7 @@ Vinbergé:
 De Rescht wisse-n-Ihr jo! Abg'füehrt sous soupçon d'espionage! D' ganz Nacht d'hinte g'sesse in d'r Fadegaß. Wär d'r Alfred nit g'sin, däte m'r dato noch hucke. Mort bleu, on a des façons ici pour germaniser!
 
         
-",gunther-dr-cousin-refractaire,40,1,0.0,0.025
+",44,gunther-dr-cousin-refractaire,40,1,0.0,0.025
 265,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2265,7 +2265,7 @@ Cette affaire est une honte pour tous les pays! Il faut protester! Mâtin! Die k
           
 
         
-",gunther-dr-cousin-refractaire,24,2,0.1015,0.08333333333333333
+",44,gunther-dr-cousin-refractaire,24,2,0.1015,0.08333333333333333
 266,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2275,7 +2275,7 @@ Liewi Friend, stille! Hett m'r noch e soviel Stempeneije un Müehj, wenn m'r zer
 (er wischt sich die Augen)
 
         
-",gunther-dr-cousin-refractaire,47,7,0.26210024979524393,0.14893617021276595
+",44,gunther-dr-cousin-refractaire,47,7,0.26210024979524393,0.14893617021276595
 268,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2284,7 +2284,7 @@ Vinbergé :
 E armer Tejfel, wer sie nimmi sehne kann!
 
         
-",gunther-dr-cousin-refractaire,9,3,0.0,0.3333333333333333
+",44,gunther-dr-cousin-refractaire,9,3,0.0,0.3333333333333333
 270,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2293,7 +2293,7 @@ Vinbergé :
 D'r glüecklichscht Mensch awer uff d'r Welt, wer uff em Sitz vun sine Vätter am Läwesowe sini Kinder um sich v'rsammle un zue ne saawe kann: Halte fescht an d'r Heimet!
 
         
-",gunther-dr-cousin-refractaire,32,6,0.1886508900721295,0.1875
+",45,gunther-dr-cousin-refractaire,32,6,0.1886508900721295,0.1875
 272,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2302,7 +2302,7 @@ Vinbergé:
 Halte fescht am Erwe!
 
         
-",gunther-dr-cousin-refractaire,5,2,0.2729526702163885,0.4
+",45,gunther-dr-cousin-refractaire,5,2,0.2729526702163885,0.4
 273,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2311,7 +2311,7 @@ Nußbicker :
 Hein? Ah ja: Bravo!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",45,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 274,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2320,7 +2320,7 @@ Vinbergé:
 Bleibe im Lande und nähre Dich redlich! D’Heimet, d'alte Souvenier selle lewe hoch! un widder hoch! un noch emol hoch! un in alli Ewigkeit hoch!
 
         
-",gunther-dr-cousin-refractaire,28,9,0.25611111111111107,0.32142857142857145
+",45,gunther-dr-cousin-refractaire,28,9,0.25611111111111107,0.32142857142857145
 275,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -2329,7 +2329,7 @@ Alfred:
 Bravo, schön geredd, Unkel René!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.586,0.16666666666666666
+",45,gunther-dr-cousin-refractaire,6,1,0.586,0.16666666666666666
 279,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -2338,7 +2338,7 @@ Hélène:
 Cher cousin! Durcheinander: G'sundheit! G'sundheit! Vinbergé: Was isch, Alfred, schmeckt's ?
 
         
-",gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
+",46,gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
 280,comedy,Alfred,M,,,,"
           
 Alfred :
@@ -2348,7 +2348,7 @@ Wenn's schmecke dät, dät ich's nit esse, Unkel!
 (Gelächter)
 
         
-",gunther-dr-cousin-refractaire,14,1,0.609,0.07142857142857142
+",46,gunther-dr-cousin-refractaire,14,1,0.609,0.07142857142857142
 281,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2357,7 +2357,7 @@ Vinbergé:
 Ça c'est vrai! Mais, Gottfried! Was isch denn mit Dir? Machsch jo e G'sicht, aß wärdsch vum Omnibüs era g'falle!?
 
         
-",gunther-dr-cousin-refractaire,21,2,0.2615,0.09523809523809523
+",46,gunther-dr-cousin-refractaire,21,2,0.2615,0.09523809523809523
 282,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2366,7 +2366,7 @@ Nußbicker:
 Ah so, na jo! Deß Ding het mich elend ambetiert mit ejrer Verhaftung, et dire, daß jetzt schun anderthalwe Däj erumsin vun d'r Permission un Dü morje früej schun widder abdampfe muesch!
 
         
-",gunther-dr-cousin-refractaire,33,4,0.0,0.12121212121212122
+",47,gunther-dr-cousin-refractaire,33,4,0.0,0.12121212121212122
 283,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2375,7 +2375,7 @@ Vinbergé:
 Ja, leider, leider! Die Nacht uff d'r Wüehlung soll mir gedenke! Awer v'rzüerne mir uns nit, Dü, Gottfried, wursch Revanche nemme!
 
         
-",gunther-dr-cousin-refractaire,22,5,0.0,0.22727272727272727
+",47,gunther-dr-cousin-refractaire,22,5,0.0,0.22727272727272727
 284,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2385,7 +2385,7 @@ Nußbicker :
  Oh ja, oh ja!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.0,0.25
+",47,gunther-dr-cousin-refractaire,8,2,0.0,0.25
 285,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2394,7 +2394,7 @@ Vinbergé:
 Ich hoff, Dü wursch ’s ne stecke, un Diner Verein, wo Dü m'r g'saat hesch, aß de drinne bisch, la société de l'ancien régime, wurd au e Wörtel drinredde!
 
         
-",gunther-dr-cousin-refractaire,30,2,0.512,0.06666666666666667
+",47,gunther-dr-cousin-refractaire,30,2,0.512,0.06666666666666667
 286,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2403,7 +2403,7 @@ Nußbicker :
 Nurre ken Angscht, ich saa Dir, wenn ich köennt, wie ich wott, trink René. Hélène, donne toi de la peine, que Léon soit à son aise!
 
         
-",gunther-dr-cousin-refractaire,27,2,0.219,0.07407407407407407
+",47,gunther-dr-cousin-refractaire,27,2,0.219,0.07407407407407407
 288,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2415,7 +2415,7 @@ Enfin, lon m'r uns de Daa nit v'rderwe, nochher nemm, m'r e Kütsch un galeppere
           
 
         
-",gunther-dr-cousin-refractaire,45,5,0.21220089325431055,0.1111111111111111
+",48,gunther-dr-cousin-refractaire,45,5,0.21220089325431055,0.1111111111111111
 289,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2428,7 +2428,7 @@ Hein?
  Wenn numme d'Kütscher streike däte! Schöni Streich han m'r als üsg'füehrt ! Vinbergé; Wie m'r Dich als zuem Kuttler g'schickt han, Muckefett hole !
 
         
-",gunther-dr-cousin-refractaire,55,7,0.32142857142857134,0.12727272727272726
+",48,gunther-dr-cousin-refractaire,55,7,0.32142857142857134,0.12727272727272726
 290,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2437,7 +2437,7 @@ Nußbicker :
 Oder fur 2 Sü G'schlungs fur's Kätzel! Vinbergé: Un kenn Nerve drinne; d'r Babbe kann sie nit bisse.
 
         
-",gunther-dr-cousin-refractaire,20,3,0.19533333333333333,0.15
+",48,gunther-dr-cousin-refractaire,20,3,0.19533333333333333,0.15
 291,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2446,7 +2446,7 @@ Nußbicker :
 Elendi Kaiwe! Un waisch noch, wie m'r Dir Dinni erscht Liebschti eweckschpannt han ? Madame Hm, hm! Vinbergé: Um's Gottswille, babbel nit üs d'r Schuel! Ach könnt ich noch emol so V’rsteckels spiele um's Gartehiesel erum . . .
 
         
-",gunther-dr-cousin-refractaire,38,5,0.28600000000000003,0.13157894736842105
+",48,gunther-dr-cousin-refractaire,38,5,0.28600000000000003,0.13157894736842105
 292,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2455,7 +2455,7 @@ Nußbicker :
 Schöni Zytte, schöni Zytte! — Awer was isch dato in d'r Robertsau ze sähn? Welle m’r nit liewersch uff Kehl nüewer an de Rhin à la Fleure! Am nättschte wär doch, m'r däte scheen in aller Einigkeit denne Middaa d'heim bliewe, du moment, daß Dü morje früehj doch widder furt muesch!
 
         
-",gunther-dr-cousin-refractaire,53,5,0.3216008932543105,0.09433962264150944
+",48,gunther-dr-cousin-refractaire,53,5,0.3216008932543105,0.09433962264150944
 293,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2464,7 +2464,7 @@ Vinbergé :
 Jamais! In d'Robertsau nab fahre m'r! An alli die Plätzle will ich widder, wo ich d'schönschte Souvenier vun d'r Kindheit zeruckgelonn hab!
 
         
-",gunther-dr-cousin-refractaire,25,1,0.0,0.04
+",48,gunther-dr-cousin-refractaire,25,1,0.0,0.04
 295,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2475,7 +2475,7 @@ Mais, was isch denn diß, Ihr Madame un Mamselle? Jetz emol Bruederschaft mitnan
           
 
         
-",gunther-dr-cousin-refractaire,24,4,0.291,0.16666666666666666
+",49,gunther-dr-cousin-refractaire,24,4,0.291,0.16666666666666666
 296,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -2484,7 +2484,7 @@ Hélène:
 Bravo, Unkel Réné, ich v'rlang nit besser!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.0,0.125
+",49,gunther-dr-cousin-refractaire,8,1,0.0,0.125
 299,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2493,7 +2493,7 @@ Madame Nußbicker :
 A la bonne heure! Chère Victorine à ta santé!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
+",49,gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
 300,comedy,Léon,M,,,,"
           
 Léon:
@@ -2507,7 +2507,7 @@ Chère cousine, à notre fidèle amitié! Noëmie und Alfred: Uf Dü un Dü!
 (Gelächter)
 
         
-",gunther-dr-cousin-refractaire,45,2,0.0,0.044444444444444446
+",50,gunther-dr-cousin-refractaire,45,2,0.0,0.044444444444444446
 301,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2516,7 +2516,7 @@ Vinbergé:
 Un jetz Victorine, lon emol s'’franzeesche uff d'r Sitt un redde m'r unser liebs guets Stroßburjerditsch! Madame Nußbicker : Was, Dü kannsch Stroßburjerditsch redde, Victorine?
 
         
-",gunther-dr-cousin-refractaire,26,3,0.18233333333333332,0.11538461538461539
+",50,gunther-dr-cousin-refractaire,26,3,0.18233333333333332,0.11538461538461539
 302,comedy,Léon,M,,,,"
           
 Léon:
@@ -2525,7 +2525,7 @@ Léon:
 Deß wärd noch schöner, wenn m'rs nit köennte! Victorine : Bien sûr, awer sicher !
 
         
-",gunther-dr-cousin-refractaire,14,2,0.629,0.14285714285714285
+",50,gunther-dr-cousin-refractaire,14,2,0.629,0.14285714285714285
 304,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2542,7 +2542,7 @@ Do mueß ’s Kättel de Kaffee glich noch emol so starik koche! Ah, Ihr sin all
 (Die Kinder haben sich erhoben und unterhalten sich, spielen auf dem Klavier, trinken, lachen.)
 
         
-",gunther-dr-cousin-refractaire,81,14,0.14160843489108174,0.1728395061728395
+",50,gunther-dr-cousin-refractaire,81,14,0.14160843489108174,0.1728395061728395
 305,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2553,7 +2553,7 @@ Uff deß hin welle m'r in ere neije Budell de Hals erum dräje!
  Voll mueß 'r wäre!
 
         
-",gunther-dr-cousin-refractaire,22,3,0.0,0.13636363636363635
+",50,gunther-dr-cousin-refractaire,22,3,0.0,0.13636363636363635
 306,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2562,7 +2562,7 @@ Vinbergé:
 Diner Wyn isch nit schlecht! Isch der vun unserem Räwe- stüeckel vor'm Spitaltor?
 
         
-",gunther-dr-cousin-refractaire,16,1,0.0,0.0625
+",51,gunther-dr-cousin-refractaire,16,1,0.0,0.0625
 307,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -2574,7 +2574,7 @@ Hélène:
 Mann, Mann, hinte erum, hinte hängt d'r Vagebum!
 
         
-",gunther-dr-cousin-refractaire,19,4,0.0,0.21052631578947367
+",51,gunther-dr-cousin-refractaire,19,4,0.0,0.21052631578947367
 308,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2586,7 +2586,7 @@ Nußbicker :
 Was saawe Ihr do? Noëmie : M'r lehre im Léon vun unsere nättschte Stroßburjer Liedle!
 
         
-",gunther-dr-cousin-refractaire,23,2,0.488,0.08695652173913043
+",51,gunther-dr-cousin-refractaire,23,2,0.488,0.08695652173913043
 310,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2600,7 +2600,7 @@ E Wunder, do luej's Alter an!
           
 
         
-",gunther-dr-cousin-refractaire,17,3,0.33474902194178596,0.17647058823529413
+",51,gunther-dr-cousin-refractaire,17,3,0.33474902194178596,0.17647058823529413
 311,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2609,7 +2609,7 @@ Nußbicker :
 D'rwilscht sie üewer anderi schelte, han mir Ruehj ! Ich zaij Dir emol min Timbrealbum! Un will Dü morje doch schun widder furt muesch -
 
         
-",gunther-dr-cousin-refractaire,26,3,0.0,0.11538461538461539
+",51,gunther-dr-cousin-refractaire,26,3,0.0,0.11538461538461539
 312,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2618,7 +2618,7 @@ Vinbergé:
 A dunderlättel noch emol, Dü bisch wueti pressiert, mich los ze wäre, schpielsch glaawi Landnüstriewerles mit mir, alti G'schtunz !
 
         
-",gunther-dr-cousin-refractaire,20,2,0.5549999999999999,0.1
+",52,gunther-dr-cousin-refractaire,20,2,0.5549999999999999,0.1
 313,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2631,7 +2631,7 @@ Was denksch, alti Pflüm, was denksch, diß Ding isch mir arich genue!
  Waisch, mir han schun ebs durichgemacht, stille, ’s kumme widder anderi Zitte!
 
         
-",gunther-dr-cousin-refractaire,43,5,0.11240000000000001,0.11627906976744186
+",52,gunther-dr-cousin-refractaire,43,5,0.11240000000000001,0.11627906976744186
 314,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2640,7 +2640,7 @@ Vinbergé:
 Bravo, mon vieux, Dü reddsch m'r üß'm Herze! Amer alles was erächt isch: Diß Stroßburry, so viel ich hab sehn köenne, hett sich doch elend erüsgedachst, ich kann mich gar nit genue v'rstüme, viel isch schanschiert, sheen isch's worre, mueß ’s saawe! M'r kennt's küm widder! Am Ysebahn, am Theater, Herrschaft, isch diß ’s alte Strooßburry noch?!
 
         
-",gunther-dr-cousin-refractaire,61,6,0.24066741104525877,0.09836065573770492
+",52,gunther-dr-cousin-refractaire,61,6,0.24066741104525877,0.09836065573770492
 315,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2649,7 +2649,7 @@ Nußbicker:
 Na jo, m'r macht, was m'r kann!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.664,0.125
+",52,gunther-dr-cousin-refractaire,8,1,0.664,0.125
 316,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2658,7 +2658,7 @@ Vinbergé:
 Do isch allewäj mit de Litte g'hüst worre!? Un no hett m'r Kaiserspaläscht un Gedings druffgeböije, awer ich glaab, was e-n-echter Strooßburjer isch g'sin, hätt nit fur scheen Geld nurre e Quadratmeter vun sym Bodde here gänn! N'est-ce-pas, Gottfried?
 
         
-",gunther-dr-cousin-refractaire,43,4,0.5649759791264677,0.09302325581395349
+",52,gunther-dr-cousin-refractaire,43,4,0.5649759791264677,0.09302325581395349
 322,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2669,7 +2669,7 @@ Guet, gehn m'r! Zaij fetz Dich doch noch e bissel!
  Vun däm v'rsuechsch m'r z'erscht !
 
         
-",gunther-dr-cousin-refractaire,24,2,0.34,0.08333333333333333
+",53,gunther-dr-cousin-refractaire,24,2,0.34,0.08333333333333333
 325,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2681,7 +2681,7 @@ Madame Nußbicker :
 Ah so, ja! Victorine, ich mueß Dir doch unser Logement un alles genau gehn zaije !
 
         
-",gunther-dr-cousin-refractaire,25,3,0.322520996434745,0.12
+",54,gunther-dr-cousin-refractaire,25,3,0.322520996434745,0.12
 326,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -2691,7 +2691,7 @@ Ja, m'r han's jo schun g'sähn ? Madame Nußbicker : M'r kann so ebs nit oft gen
 (beide ab)
 
         
-",gunther-dr-cousin-refractaire,22,2,0.172,0.09090909090909091
+",54,gunther-dr-cousin-refractaire,22,2,0.172,0.09090909090909091
 327,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2700,7 +2700,7 @@ Vinbergé:
 Awer dummle Ejch e bissel, gäll? Unser Hiesel hesch guet in Stand? Nurre viel schanschiert! Umgeböije!
 
         
-",gunther-dr-cousin-refractaire,17,2,0.30618293917737766,0.11764705882352941
+",54,gunther-dr-cousin-refractaire,17,2,0.30618293917737766,0.11764705882352941
 330,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2716,7 +2716,7 @@ Die Canaille will förschle!
           
 
         
-",gunther-dr-cousin-refractaire,56,5,0.3385874921425095,0.08928571428571429
+",55,gunther-dr-cousin-refractaire,56,5,0.3385874921425095,0.08928571428571429
 331,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -2728,7 +2728,7 @@ Vinbergé :
 Mais, Dü hesch doch gueti Stroßburjer fur locataires un clientèle?
 
         
-",gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
+",55,gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
 332,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2737,7 +2737,7 @@ Nußbicker :
 Oh ja, nadierlich! Ich hab kenn Gemeinschaft mit ere andere Raß Litt, obwohl aß schwer fallt, hittzedaas noh echti Stroßburjer ze bekumme!
 
         
-",gunther-dr-cousin-refractaire,23,5,0.2734,0.21739130434782608
+",55,gunther-dr-cousin-refractaire,23,5,0.2734,0.21739130434782608
 334,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2746,7 +2746,7 @@ Nußbicker :
 Gottlowedank, er huckt! Ah es hett fascht kenni meh! Sisch schun alles durichenander hie, es sell mich nit wundere, wenn mer nächstens Japaner uff hie bekumme! Teildüür weiß ich selbscht nimmi, ob des noch Stroßburjerditsch isch, was ich redd! Odder ebbs sunsch e Wiertteberjer Dialekt isch! Tout est mêlé! Alles verschwäwelt in Stroßburj, selbscht der Schang und der Schakob redde deildür sächsisch odder berlinerisch! Incroyable! Wenn d'Franzose widder kämte, sie däte kenn Wort meh verstehn!
 
         
-",gunther-dr-cousin-refractaire,77,5,0.0,0.06493506493506493
+",55,gunther-dr-cousin-refractaire,77,5,0.0,0.06493506493506493
 336,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2755,7 +2755,7 @@ Nußbicker :
 Wie here kummt des?! Es giebt ken größer Unglieck, as wenn e Schwob hie sterbt !
 
         
-",gunther-dr-cousin-refractaire,16,3,0.12766666666666668,0.1875
+",56,gunther-dr-cousin-refractaire,16,3,0.12766666666666668,0.1875
 338,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2764,7 +2764,7 @@ Nußbicker :
 Bien sûr! Awer no kummt d'ganz Verwandschaft zue d'r Lycht un vergeßt widder zuruckgehn!
 
         
-",gunther-dr-cousin-refractaire,16,3,0.23966666666666667,0.1875
+",56,gunther-dr-cousin-refractaire,16,3,0.23966666666666667,0.1875
 340,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -2773,7 +2773,7 @@ Müller :
 Guten Tag. Eine gesegnete Mahlzeit den Herrschaften.
 
         
-",gunther-dr-cousin-refractaire,8,3,0.14066666666666666,0.375
+",56,gunther-dr-cousin-refractaire,8,3,0.14066666666666666,0.375
 341,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2784,7 +2784,7 @@ Mahlzeit, Mahlzeit!
  Dü hesch mir g'fehlt Männel!
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",56,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 342,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -2794,7 +2794,7 @@ Bonjour Fritz! In de Pariser Verwandte presentier ich do miner Kamerad Müller.
 (Einzelne Verbeugungen.)
 
         
-",gunther-dr-cousin-refractaire,17,3,0.4534473322847395,0.17647058823529413
+",57,gunther-dr-cousin-refractaire,17,3,0.4534473322847395,0.17647058823529413
 343,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2803,7 +2803,7 @@ Vinbergé:
 Dü Gottfried, mir bliewe doch unter uns denne Nomidda!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.0,0.1
+",57,gunther-dr-cousin-refractaire,10,1,0.0,0.1
 344,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2817,7 +2817,7 @@ Nadierlich, ’s isch e uffdringlicher Mensch där Müller.
  Ja, liewi Friend, d'r Herr Müller, wie em Minischterium schafft, isch so artlich g'sin, wäje Ejerm G'suech sich ze verwende. Victorine: Ah! Charmé, Monsieur, vun Ihrer Artlichkeit.
 
         
-",gunther-dr-cousin-refractaire,42,7,0.3435288212238154,0.16666666666666666
+",57,gunther-dr-cousin-refractaire,42,7,0.3435288212238154,0.16666666666666666
 345,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -2829,7 +2829,7 @@ Müller:
 Aber bitte sehr, ich bemühe mich ja um schönen Lohn. . .
 
         
-",gunther-dr-cousin-refractaire,17,7,0.1605720666102218,0.4117647058823529
+",57,gunther-dr-cousin-refractaire,17,7,0.1605720666102218,0.4117647058823529
 346,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2843,7 +2843,7 @@ Ja selbstverständlich kreje Sie ebbs d'rfur, d'Rechnung genn Sie mir.
  Mach ne widder nüs!
 
         
-",gunther-dr-cousin-refractaire,25,5,0.0979923979043541,0.2
+",57,gunther-dr-cousin-refractaire,25,5,0.0979923979043541,0.2
 347,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -2852,7 +2852,7 @@ Müller :
 Bitte nein, mich nicht mißzuverstehen. Ich hoffe Ihnen heute noch eine Ueberraschung bereiten zu können.
 
         
-",gunther-dr-cousin-refractaire,16,4,0.127,0.25
+",57,gunther-dr-cousin-refractaire,16,4,0.127,0.25
 348,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2868,7 +2868,7 @@ Der wurd mir doch kenn Dreck inger de Leime mache?
           
 
         
-",gunther-dr-cousin-refractaire,21,2,0.281,0.09523809523809523
+",58,gunther-dr-cousin-refractaire,21,2,0.281,0.09523809523809523
 349,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -2877,7 +2877,7 @@ Madame Nußbicker:
 M'r sin allewäj de ganze Nochmidda nit d'heim!
 
         
-",gunther-dr-cousin-refractaire,11,2,0.172,0.18181818181818182
+",58,gunther-dr-cousin-refractaire,11,2,0.172,0.18181818181818182
 351,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -2886,7 +2886,7 @@ Müller :
 Ich habe Hoffnung, daß die Aufenthaltserlaubnis Ihres Ver- wandten in Folge des unglücklichen Verhaftungszwischenfalls ver- längert wird.
 
         
-",gunther-dr-cousin-refractaire,20,3,0.22666666666666668,0.15
+",58,gunther-dr-cousin-refractaire,20,3,0.22666666666666668,0.15
 355,comedy,Léon,M,,,,"
           
 Léon :
@@ -2897,7 +2897,7 @@ Wo? Nußbicker : Ja, schaffe Sie als noch do dran? Do däte Sie uns awer e hunds
  Nüß mitem. Er sell sich unterstehn un sich in unseri Sache melire.
 
         
-",gunther-dr-cousin-refractaire,35,2,0.0,0.05714285714285714
+",59,gunther-dr-cousin-refractaire,35,2,0.0,0.05714285714285714
 356,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -2906,7 +2906,7 @@ Vinbergé:
 Horch, diß isch jo e netter junger Mensch.
 
         
-",gunther-dr-cousin-refractaire,9,2,0.2180046028488207,0.2222222222222222
+",59,gunther-dr-cousin-refractaire,9,2,0.2180046028488207,0.2222222222222222
 357,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -2915,7 +2915,7 @@ Nußbicker :
 Loß Dich nit v'rkohle! ich vermueth m'r e Chican d'rhinter. Amend soll der üshorche by uns. Hie isch m'r uff Schritt un Tritt in Deifels Kiche, b’sundersch wenn m'r e Cousin hett, wie Réfractaire isch.
 
         
-",gunther-dr-cousin-refractaire,37,4,0.07225,0.10810810810810811
+",59,gunther-dr-cousin-refractaire,37,4,0.07225,0.10810810810810811
 358,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -2927,7 +2927,7 @@ Alfred:
 Diß wär m'r halt e Plaisir, wenn e Gnadeg'suech succès hätt.
 
         
-",gunther-dr-cousin-refractaire,16,2,0.0,0.125
+",59,gunther-dr-cousin-refractaire,16,2,0.0,0.125
 359,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2940,7 +2940,7 @@ Welle Sie nit e Gläsel drinke, Herr Müller, un dr nomidaa by uns bliewe?
           
 
         
-",gunther-dr-cousin-refractaire,26,1,0.0,0.038461538461538464
+",59,gunther-dr-cousin-refractaire,26,1,0.0,0.038461538461538464
 360,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -2951,7 +2951,7 @@ Danke! Zunächst möchte ich nochmals beim Herrn Minister in Ihrer Sache vorstel
  Du weißt ja, warum es mich so glücklich macht, mich in die Gunst Deines Vaters zu setzen.
 
         
-",gunther-dr-cousin-refractaire,35,4,0.166,0.11428571428571428
+",60,gunther-dr-cousin-refractaire,35,4,0.166,0.11428571428571428
 361,comedy,Léon,M,,,,"
           
 Léon:
@@ -2960,7 +2960,7 @@ Léon:
 Il est très chic ce typ là.
 
         
-",gunther-dr-cousin-refractaire,8,1,0.0,0.125
+",60,gunther-dr-cousin-refractaire,8,1,0.0,0.125
 362,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -2970,7 +2970,7 @@ D'r Teyfel sell ne hole.
 (Es klingelt am Telephon.)
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",60,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 363,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -2979,7 +2979,7 @@ Madame Nußbicker :
 Le telephon qui sonne!
 
         
-",gunther-dr-cousin-refractaire,6,2,0.391,0.3333333333333333
+",60,gunther-dr-cousin-refractaire,6,2,0.391,0.3333333333333333
 365,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -2991,7 +2991,7 @@ Adieu, die Herrschaften, ich versuche mein möglichstes in der Angelegenheit. Nu
 (Es klingelt am Telephon)
 
         
-",gunther-dr-cousin-refractaire,32,6,0.1915,0.1875
+",60,gunther-dr-cousin-refractaire,32,6,0.1915,0.1875
 366,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3006,7 +3006,7 @@ Herrschaft, ich kum jo schun! René, so Schwede un d'r Telephon die kenne einem 
  Wejen warum? Wir werden Ihnen die Sachen heit noch annen schien! — Es soll for gewiß niht mehr vorkommen! — In die Hohenlohestraße ? — Ganz gut, es wird besorjt! Auf Wiedersehen Herr Rat!
 
         
-",gunther-dr-cousin-refractaire,108,14,0.12818426623413393,0.12962962962962962
+",61,gunther-dr-cousin-refractaire,108,14,0.12818426623413393,0.12962962962962962
 367,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3017,7 +3017,7 @@ Hohenlohestraße? Rat? Diß isch allewäj kenner üß em alte quartier?
           
 
         
-",gunther-dr-cousin-refractaire,11,2,0.625,0.18181818181818182
+",61,gunther-dr-cousin-refractaire,11,2,0.625,0.18181818181818182
 368,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3026,7 +3026,7 @@ Nußbicker :
 Die Kundschaft isch mir nitt angenehm. Er hett ang'halte, ich möcht ne doch d'Epicerie lieffere! Mer mueß allewil sehn, daß d'Kirich im Dorf bliet! Schun wäje der Polizej! D'Situation b'herrsche saa ich allewil.
 
         
-",gunther-dr-cousin-refractaire,37,5,0.3570687461960178,0.13513513513513514
+",61,gunther-dr-cousin-refractaire,37,5,0.3570687461960178,0.13513513513513514
 369,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3038,7 +3038,7 @@ Vinbergé:
 Ja, ja, des verstehwi! Nurre, will de mer als verzehlt hesch, Dü thäscht nie kem Schwob ebbs lieffere par principe!
 
         
-",gunther-dr-cousin-refractaire,25,3,0.18378124366002965,0.12
+",61,gunther-dr-cousin-refractaire,25,3,0.18378124366002965,0.12
 370,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3052,7 +3052,7 @@ Wie's als geht. Hesch jo g'sehn, daß ich ziemli grob bin gsin mit em?! N'est-ce
  ich greij's Grimme!
 
         
-",gunther-dr-cousin-refractaire,32,2,0.2424370272022268,0.0625
+",61,gunther-dr-cousin-refractaire,32,2,0.2424370272022268,0.0625
 371,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3061,7 +3061,7 @@ Vinbergé:
 Poh, es isch mer nit uffgfalle, jetz, wenn er exact bezahlt un nit uff's Büchel holt —
 
         
-",gunther-dr-cousin-refractaire,19,1,0.0,0.05263157894736842
+",61,gunther-dr-cousin-refractaire,19,1,0.0,0.05263157894736842
 372,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3072,7 +3072,7 @@ C'est ça, nit wohr, als Geschäftsmann mueß mer manches duen —
  Et dis, Léon, fahrsch au noch viel Velo in Paris?
 
         
-",gunther-dr-cousin-refractaire,31,2,0.5665,0.06451612903225806
+",62,gunther-dr-cousin-refractaire,31,2,0.5665,0.06451612903225806
 375,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3084,7 +3084,7 @@ Madame Nußbicker :
 Ihr fröje jo gar nit, was mer neijs han in Stroßburj!
 
         
-",gunther-dr-cousin-refractaire,20,1,0.344,0.05
+",62,gunther-dr-cousin-refractaire,20,1,0.344,0.05
 376,comedy,Alfred,M,,,,"
           
 Alfred :
@@ -3094,7 +3094,7 @@ Alfred :
 (Gelächter)
 
         
-",gunther-dr-cousin-refractaire,40,3,0.24733333333333332,0.075
+",62,gunther-dr-cousin-refractaire,40,3,0.24733333333333332,0.075
 377,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3105,7 +3105,7 @@ Herrschaft, mâtin noch emol, pressiert's denn eso!
  Ich enterb dich, wenn de nit ordre pariersch, Satan, nit zuem Hüs nüs selle sie!
 
         
-",gunther-dr-cousin-refractaire,29,3,0.14066666666666666,0.10344827586206896
+",62,gunther-dr-cousin-refractaire,29,3,0.14066666666666666,0.10344827586206896
 378,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3114,7 +3114,7 @@ Kättel:
 Madam, a Briäf vun d'r Madam Kieselhagen !
 
         
-",gunther-dr-cousin-refractaire,8,2,0.344,0.25
+",63,gunther-dr-cousin-refractaire,8,2,0.344,0.25
 379,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3123,7 +3123,7 @@ Nußbicker :
 Kumme, m'r gehn!
 
         
-",gunther-dr-cousin-refractaire,4,1,0.0,0.25
+",63,gunther-dr-cousin-refractaire,4,1,0.0,0.25
 380,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3132,7 +3132,7 @@ Kättel:
 D'locataire üs’m zweite Schtock, wo sie vor’s Tribünal bringe well!
 
         
-",gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
+",63,gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
 382,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3141,7 +3141,7 @@ Kättel:
 Oh Jesüs mäin ünd alles! Victorine : Ihr han locataire namens Kieselhagen? E fuerichter Namme!
 
         
-",gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
+",63,gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
 383,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3152,7 +3152,7 @@ Minsex, zue minere Zitt heit m'r vun denne noch nit hie g'hett!
  Nußbicker : Ah, jetz wart doch, bis daß de gern gehsch! Mir han de Namme au ererscht vor e paar Däij erfahre, par hasard! Sunscht hätte m'r sie nit genumme!
 
         
-",gunther-dr-cousin-refractaire,46,5,0.3393354165911061,0.10869565217391304
+",63,gunther-dr-cousin-refractaire,46,5,0.3393354165911061,0.10869565217391304
 384,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3161,7 +3161,7 @@ Madame Nußbicker :
 M'r han sie amer au schun widder gekünd, gäll Männel?
 
         
-",gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
+",64,gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
 385,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3172,7 +3172,7 @@ Oh ja, diß isch famos, die Fuer! Mini Frau hätte-n-er sotte sähn dies letscht
           
 
         
-",gunther-dr-cousin-refractaire,35,4,0.18175,0.11428571428571428
+",64,gunther-dr-cousin-refractaire,35,4,0.18175,0.11428571428571428
 386,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3182,7 +3182,7 @@ Mince! Jetz wenn sie guet zahle, wärd m'r jo e Narr, wenn m'r sie nit b'halte d
 (steht auf; die Mädchen suchen die unangenehme Situation zu beenden und spielen auf dem Klavier: „Komm Karline, komm Karline, komm!“ die Gesellschaft zieht sich langsam an)
 
         
-",gunther-dr-cousin-refractaire,56,11,0.049539768834936514,0.19642857142857142
+",64,gunther-dr-cousin-refractaire,56,11,0.049539768834936514,0.19642857142857142
 388,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3194,7 +3194,7 @@ Vinbergé :
 Viens poupoulele, viens poupoulele, viens!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",64,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 389,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3207,7 +3207,7 @@ Ujeh! ujeh! ujeh! B'schließe m'r liewersch d'Tüer! Hie han d'Wänd Ohre!
  Victorine : Also, en avant! Léon : En avant! Noëmie, Hélène, Alfred: En avant!
 
         
-",gunther-dr-cousin-refractaire,90,8,0.1423671821480377,0.08888888888888889
+",64,gunther-dr-cousin-refractaire,90,8,0.1423671821480377,0.08888888888888889
 390,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3216,7 +3216,7 @@ Nußbicker :
 Mache m'r, wie wenn m'r kenn Angscht hätte!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
+",65,gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
 391,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3225,7 +3225,7 @@ Vinbergé :
 Ich bin froh, daß m'r frischi Luft schöpfe.
 
         
-",gunther-dr-cousin-refractaire,9,2,0.293,0.2222222222222222
+",65,gunther-dr-cousin-refractaire,9,2,0.293,0.2222222222222222
 392,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3234,7 +3234,7 @@ Madame Nußbicker :
 D'r Herr sej mit uns!
 
         
-",gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
+",65,gunther-dr-cousin-refractaire,7,2,0.172,0.2857142857142857
 393,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3244,7 +3244,7 @@ Ihr sinn jetz au gar nit for e gemuetlichs Familjeläwe. En avant, marsch!
 (alle marschieren zur Türe)
 
         
-",gunther-dr-cousin-refractaire,20,1,0.0,0.05
+",65,gunther-dr-cousin-refractaire,20,1,0.0,0.05
 394,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3253,7 +3253,7 @@ Nußbicker :
 Halt!! Alle: Was isch?
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",65,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 395,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3262,7 +3262,7 @@ Nußbicker :
 DTuer isch b'schlosse! M'r hett uns yng'schperrt! Alle: Oha, herjerum! Was isch diß?
 
         
-",gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
+",65,gunther-dr-cousin-refractaire,14,1,0.0,0.07142857142857142
 397,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3275,7 +3275,7 @@ Ah, ’s isch jo wohr! Guet, Léon, daß Dir diß noch yng'falle isch. Wenn ich 
 (sucht unter einer Anzahl Schlüssel und wirft sein Portemonnaie unbemerkt unter's Kanapee)
 
         
-",gunther-dr-cousin-refractaire,49,6,0.3469677574348293,0.12244897959183673
+",66,gunther-dr-cousin-refractaire,49,6,0.3469677574348293,0.12244897959183673
 398,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -3284,7 +3284,7 @@ Alfred:
 Diß do isch 'r, Babbe!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.586,0.16666666666666666
+",66,gunther-dr-cousin-refractaire,6,1,0.586,0.16666666666666666
 399,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3300,7 +3300,7 @@ Miner Vatterfluech soll Dich treffe!
  Vinbergé: Diß wärd eso e G'schpaß g'sin, nit nüszekumme.
 
         
-",gunther-dr-cousin-refractaire,32,4,0.5195000000000001,0.125
+",66,gunther-dr-cousin-refractaire,32,4,0.5195000000000001,0.125
 401,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3312,7 +3312,7 @@ Jesüs mäin ünd alles! Gottsejdank, aß se hüsse sin. Was de Pariser e gueta 
           
 
         
-",gunther-dr-cousin-refractaire,36,3,0.19266666666666668,0.08333333333333333
+",66,gunther-dr-cousin-refractaire,36,3,0.19266666666666668,0.08333333333333333
 402,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3321,7 +3321,7 @@ Nußbicker:
 Kättel! D’Händ hoch! Dü hesch min Portemonnaie! Ich hab's do hinne v'rlore! Alfred: Ja, sie schluckt's grad nab!
 
         
-",gunther-dr-cousin-refractaire,22,4,0.14450000000000002,0.18181818181818182
+",67,gunther-dr-cousin-refractaire,22,4,0.14450000000000002,0.18181818181818182
 403,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3330,7 +3330,7 @@ Kättel:
 Awer, Herr, ich bin esu chrischtlichs Mäidel!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.0,0.25
+",67,gunther-dr-cousin-refractaire,8,2,0.0,0.25
 404,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3340,7 +3340,7 @@ Liewi Frind, helfe m'r sueche! Ich hab min ganz V'rmoeje drinne. Ewe haw-i ’s 
 (die Gesellschaft beginnt in allen Ecken und Enden zu suchen)
 
         
-",gunther-dr-cousin-refractaire,29,7,0.32567167836667255,0.2413793103448276
+",67,gunther-dr-cousin-refractaire,29,7,0.32567167836667255,0.2413793103448276
 406,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3349,7 +3349,7 @@ Nußbicker:
 Ich bin sicher, ’s Kättel hett's! Ich will's glich visitiere.
 
         
-",gunther-dr-cousin-refractaire,13,1,0.672,0.07692307692307693
+",67,gunther-dr-cousin-refractaire,13,1,0.672,0.07692307692307693
 407,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3358,7 +3358,7 @@ Madame Nußbicker :
 Zaij, diß losch absits. Diß kann ich au b'sorje!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
+",67,gunther-dr-cousin-refractaire,11,1,0.344,0.09090909090909091
 408,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3367,7 +3367,7 @@ Nußbicker:
 Mille tonnerres! Stille! D'r Moltke hett au selwer visitiert!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.0,0.1
+",68,gunther-dr-cousin-refractaire,10,1,0.0,0.1
 409,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -3379,7 +3379,7 @@ Hélène:
 Babbe, ich hab's! Hürrah!
 
         
-",gunther-dr-cousin-refractaire,13,3,0.19533333333333333,0.23076923076923078
+",68,gunther-dr-cousin-refractaire,13,3,0.19533333333333333,0.23076923076923078
 410,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3392,7 +3392,7 @@ Gottlowedank! Nußbicker:
  Ach, min Herzenskind, Gottsejdank, aß de ’s hesch.
 
         
-",gunther-dr-cousin-refractaire,30,4,0.28500000000000003,0.13333333333333333
+",68,gunther-dr-cousin-refractaire,30,4,0.28500000000000003,0.13333333333333333
 412,comedy,Léon,M,,,,"
           
 Léon:
@@ -3403,7 +3403,7 @@ En avant! Die ganze Gesellschaft: En avant!
  Was isch? Um's Gottswille! Gottfried! Babbe! Männel!
 
         
-",gunther-dr-cousin-refractaire,33,6,0.09766666666666667,0.18181818181818182
+",68,gunther-dr-cousin-refractaire,33,6,0.09766666666666667,0.18181818181818182
 413,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3413,7 +3413,7 @@ Uh! Oh! O Gott, o Gott!
 (hält sich den Bauch)
 
         
-",gunther-dr-cousin-refractaire,13,3,0.41133333333333333,0.23076923076923078
+",68,gunther-dr-cousin-refractaire,13,3,0.41133333333333333,0.23076923076923078
 414,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3422,7 +3422,7 @@ Vinbergé:
 Eh bien, Gottfried, was isch mit Dir?
 
         
-",gunther-dr-cousin-refractaire,8,1,0.6716750167449417,0.125
+",69,gunther-dr-cousin-refractaire,8,1,0.6716750167449417,0.125
 415,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -3431,7 +3431,7 @@ Madame Nußbicker:
 Männel, Dü machsch m'r Aengschte!
 
         
-",gunther-dr-cousin-refractaire,7,3,0.11466666666666665,0.42857142857142855
+",69,gunther-dr-cousin-refractaire,7,3,0.11466666666666665,0.42857142857142855
 416,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3440,7 +3440,7 @@ Nußbicker:
 Haw-i nit ewe g'saat, ich bekumms Grimme? Jetz haw-i ’s! Alle: Er hett ’s Grimme! Ich hab m'r de Mawe v'rstücht! Nurre e paar Minüte warte, wenn's beliebt. Frau, Hoffmannstropfe! Schnell !
 
         
-",gunther-dr-cousin-refractaire,33,3,0.159,0.09090909090909091
+",69,gunther-dr-cousin-refractaire,33,3,0.159,0.09090909090909091
 417,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3449,7 +3449,7 @@ Madame Nußbicker :
 Gewiß, Männel!
 
         
-",gunther-dr-cousin-refractaire,4,3,0.32219324242595826,0.75
+",69,gunther-dr-cousin-refractaire,4,3,0.32219324242595826,0.75
 420,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3458,7 +3458,7 @@ Nußbicker :
 Annoch! Un ob ’s mich hett. Uh, ah, o Gott, o Gott!
 
         
-",gunther-dr-cousin-refractaire,13,2,0.617,0.15384615384615385
+",70,gunther-dr-cousin-refractaire,13,2,0.617,0.15384615384615385
 422,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3471,7 +3471,7 @@ Ganz elend griserli!
  Alle erschrocken : Jerum, was isch diß?
 
         
-",gunther-dr-cousin-refractaire,33,7,0.05685714285714286,0.21212121212121213
+",70,gunther-dr-cousin-refractaire,33,7,0.05685714285714286,0.21212121212121213
 423,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3480,7 +3480,7 @@ Vinbergé:
 Die Visit in Stroosburri haw-i m'r ganz andersch vorg'schtellt !
 
         
-",gunther-dr-cousin-refractaire,10,1,0.0,0.1
+",70,gunther-dr-cousin-refractaire,10,1,0.0,0.1
 424,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -3489,7 +3489,7 @@ Victorine :
 Recht gemiedlich isch's do bym Cousin!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.289,0.25
+",70,gunther-dr-cousin-refractaire,8,2,0.289,0.25
 425,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -3501,7 +3501,7 @@ Kättel:
 Herr, diß isch uff d'r Staj gelaje. D'r Bursche hett m'r ’s gann, wu im Zimmer vum Herr Zahlmeischter Papierer hule will!
 
         
-",gunther-dr-cousin-refractaire,31,5,0.21039239790435413,0.16129032258064516
+",70,gunther-dr-cousin-refractaire,31,5,0.21039239790435413,0.16129032258064516
 426,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3510,7 +3510,7 @@ Nußbicker :
 E Bumb?
 
         
-",gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
+",71,gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
 427,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -3519,7 +3519,7 @@ Alfred:
 Ah jo, Babbe, e leeri Sardellebuechs!
 
         
-",gunther-dr-cousin-refractaire,7,2,0.293,0.2857142857142857
+",71,gunther-dr-cousin-refractaire,7,2,0.293,0.2857142857142857
 428,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3528,7 +3528,7 @@ Nußbicker :
 Wie kummt jetz die uff d'Stäj ?
 
         
-",gunther-dr-cousin-refractaire,8,1,0.0,0.125
+",71,gunther-dr-cousin-refractaire,8,1,0.0,0.125
 429,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -3539,7 +3539,7 @@ E Gottswille, wie geht's by Ejch zue! Ja, awer e Bursche? Léon: Amend e Kanonie
           
 
         
-",gunther-dr-cousin-refractaire,33,6,0.0,0.18181818181818182
+",71,gunther-dr-cousin-refractaire,33,6,0.0,0.18181818181818182
 430,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3553,7 +3553,7 @@ E unheimlichi boîte!
  Was hett denn e Zahlmeischter do hinne ze sueche?!
 
         
-",gunther-dr-cousin-refractaire,20,4,0.281,0.2
+",71,gunther-dr-cousin-refractaire,20,4,0.281,0.2
 431,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3564,7 +3564,7 @@ Soyez tranquilles, mes chers! Do nemmt mich ebber ins G'schirr! Was geht denn mi
  Er soll morje morje widder kumme nooch de-n-achte, saasch !
 
         
-",gunther-dr-cousin-refractaire,47,5,0.20389495770127164,0.10638297872340426
+",71,gunther-dr-cousin-refractaire,47,5,0.20389495770127164,0.10638297872340426
 432,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -3573,7 +3573,7 @@ Kättel :
 O Jesüs mäin ünd alles!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",72,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 433,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3584,7 +3584,7 @@ Der soll numme kumme morje! Schad, daß Dü am siewe furtfahrsch, René, kenntsc
  Ich schwitz Bluet!
 
         
-",gunther-dr-cousin-refractaire,28,7,0.0,0.25
+",72,gunther-dr-cousin-refractaire,28,7,0.0,0.25
 434,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3593,7 +3593,7 @@ Vinbergé:
 Ja saa, isch's noch nit besser mit Dim Grimme?
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",72,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 435,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3604,7 +3604,7 @@ Grad fangt's widder an! Uh, ah! o Gott! o Gott!
  Awwer ze setz dich doch noch e bissel. Redde mer vun ebbs andersch! Vun was kennt mer denn redde bis min Büchweh erum isch? Frau, zaij saa dü au emol ebbs! Uh, René dü hesch ziemlich Bagage mitgebroocht, isch sie schwer gsin? Was han er muehn am Zoll zahle ?
 
         
-",gunther-dr-cousin-refractaire,68,6,0.4736352519314592,0.08823529411764706
+",72,gunther-dr-cousin-refractaire,68,6,0.4736352519314592,0.08823529411764706
 437,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3616,7 +3616,7 @@ Madame Nußbicker :
 D'r Gottfried erinnert mich an Ejri Bagage. Im Yfer un in der Fraid han Ihr allewäj ganz vergesse, d'Presenter üßzepacke ?
 
         
-",gunther-dr-cousin-refractaire,29,4,0.086,0.13793103448275862
+",72,gunther-dr-cousin-refractaire,29,4,0.086,0.13793103448275862
 438,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3629,7 +3629,7 @@ Jetzt düürt's als länger! Mier an!
           
 
         
-",gunther-dr-cousin-refractaire,38,4,0.1581668169879226,0.10526315789473684
+",73,gunther-dr-cousin-refractaire,38,4,0.1581668169879226,0.10526315789473684
 439,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3638,7 +3638,7 @@ Nußbicker :
 Ja, so vun wittem, wenn sie so ritte, däterätätätä, schön, wirklich schön.
 
         
-",gunther-dr-cousin-refractaire,13,3,0.39066666666666666,0.23076923076923078
+",73,gunther-dr-cousin-refractaire,13,3,0.39066666666666666,0.23076923076923078
 440,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -3647,7 +3647,7 @@ Victorine:
 Denk vun nootem sin sie noch schöner!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.586,0.125
+",73,gunther-dr-cousin-refractaire,8,1,0.586,0.125
 441,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3658,7 +3658,7 @@ Ah, Dü mueschs wisse! Also Gottfried, e veritabli Cürassiers- üniform haw ich
  Was saasch?!
 
         
-",gunther-dr-cousin-refractaire,34,1,0.617692284397804,0.029411764705882353
+",73,gunther-dr-cousin-refractaire,34,1,0.617692284397804,0.029411764705882353
 442,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3667,7 +3667,7 @@ Nußbicker :
 Mich trefft der schönscht Schlaa! Léon: Wie maansch Unkel? Ich saa, diß isch e surprise, Herrschaft, wenn ich numme diß Grimme nit hett! 's isch doch ebbs schöns so roti Hosse! An die Hosse geht mer awer niemes dran, Frau! Die wäre in Ehre g'halte.
 
         
-",gunther-dr-cousin-refractaire,46,3,0.422,0.06521739130434782
+",73,gunther-dr-cousin-refractaire,46,3,0.422,0.06521739130434782
 443,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -3676,7 +3676,7 @@ Madame Nußbicker:
 Mais sont-ils superbes ces pantalons! Ça mouve!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.344,0.1111111111111111
+",73,gunther-dr-cousin-refractaire,9,1,0.344,0.1111111111111111
 444,comedy,Alfred,M,,,,"
           
 Alfred:
@@ -3688,7 +3688,7 @@ Alfred:
 In denne kann er gehn sini démarches mache fur Militär- lieferunge ze bekumme!
 
         
-",gunther-dr-cousin-refractaire,19,2,0.0,0.10526315789473684
+",74,gunther-dr-cousin-refractaire,19,2,0.0,0.10526315789473684
 445,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -3697,7 +3697,7 @@ Victorine :
 Ja, do leijt ebbs drinne! Elan, courage, force!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
+",74,gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
 447,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3708,7 +3708,7 @@ Ich kreij fascht ’s Heimweh uff Paris, wenn ich sie lang betracht
  Nümmero zweij, was saasch?
 
         
-",gunther-dr-cousin-refractaire,23,4,0.15625,0.17391304347826086
+",74,gunther-dr-cousin-refractaire,23,4,0.15625,0.17391304347826086
 450,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -3720,7 +3720,7 @@ Jetz will ich Ejch ebbs sauwe. Ihr Babbe un Mamme sin doch nit furtzebringe, ze 
 (holen Hut, Schirme, Stöcke)
 
         
-",gunther-dr-cousin-refractaire,39,7,0.37868245901530895,0.1794871794871795
+",75,gunther-dr-cousin-refractaire,39,7,0.37868245901530895,0.1794871794871795
 451,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3731,7 +3731,7 @@ Hein? Ah, Ihr allein?! C'est ça, ma fille, Kind Gottes! diß isch e gueter Idee
  Mir alti bliewe noch e bissel sitze un spiele e Partie Schafskopf, hein?
 
         
-",gunther-dr-cousin-refractaire,38,6,0.0795,0.15789473684210525
+",75,gunther-dr-cousin-refractaire,38,6,0.0795,0.15789473684210525
 452,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3740,7 +3740,7 @@ Vinbergé :
 Dü gehsch mir uff d'Nerve! Was schpiele mer?
 
         
-",gunther-dr-cousin-refractaire,10,3,0.0,0.3
+",75,gunther-dr-cousin-refractaire,10,3,0.0,0.3
 454,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3749,7 +3749,7 @@ Nußbicker :
 Ah, jetz mueß ich lache! Diß doch e Karteschpiel, wie hie zitter Siewezig viel gschpielt wurd!
 
         
-",gunther-dr-cousin-refractaire,17,2,0.2412590442375721,0.11764705882352941
+",75,gunther-dr-cousin-refractaire,17,2,0.2412590442375721,0.11764705882352941
 455,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -3758,7 +3758,7 @@ Vinbergé :
 Ja, ’s isch viel schanschiert, zitter as d'Schwowe do sin, schpiele n-Ihr Schafskopf mit ne!
 
         
-",gunther-dr-cousin-refractaire,18,2,0.0,0.1111111111111111
+",75,gunther-dr-cousin-refractaire,18,2,0.0,0.1111111111111111
 456,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -3767,7 +3767,7 @@ Hélène:
 Eh bien, au revoir Tante!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.6716750167449417,0.16666666666666666
+",76,gunther-dr-cousin-refractaire,6,1,0.6716750167449417,0.16666666666666666
 457,comedy,Noëmie,F,,,,"
           
 Noëmie:
@@ -3780,7 +3780,7 @@ Au revoir, Tante Victorine!
  Penses à tes ordres !
 
         
-",gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
+",76,gunther-dr-cousin-refractaire,18,1,0.0,0.05555555555555555
 459,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3789,7 +3789,7 @@ Nußbicker :
 Naan, saawich heilich noch emol! Gehn anne wo Ihr welle! Gehn uff d'r Contades kuejwarmi Gaisemilich irinke, awer nit in d'Orangerie nüs. D'aijene Kinder däte aane zuem Tod verurteile.
 
         
-",gunther-dr-cousin-refractaire,32,5,0.13440000000000002,0.15625
+",76,gunther-dr-cousin-refractaire,32,5,0.13440000000000002,0.15625
 461,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -3798,7 +3798,7 @@ Victorine :
 Léon, kumme ball zeruck! For aß mer noch in unser Gärtel köenne.
 
         
-",gunther-dr-cousin-refractaire,13,1,0.0,0.07692307692307693
+",76,gunther-dr-cousin-refractaire,13,1,0.0,0.07692307692307693
 462,comedy,Léon,M,,,,"
           
 Léon:
@@ -3808,7 +3808,7 @@ Oui, maman.
 (Victorine gibt ihm im Versteckten ein Paket)
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",77,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 463,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3817,7 +3817,7 @@ Madame Nußbicker :
 Adje Kinder.
 
         
-",gunther-dr-cousin-refractaire,4,3,0.11466666666666665,0.75
+",77,gunther-dr-cousin-refractaire,4,3,0.11466666666666665,0.75
 464,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -3826,7 +3826,7 @@ Hélène:
 Maman, adieu, amusez-vous bien!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",77,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 465,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -3835,7 +3835,7 @@ Nußbicker:
 Hélène, bsorj mer de Léon guet!
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",77,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 466,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -3844,7 +3844,7 @@ Madame Nußbicker:
 Kättel, d'r Kaffee!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.344,0.2
+",77,gunther-dr-cousin-refractaire,5,1,0.344,0.2
 468,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3856,7 +3856,7 @@ Nußbicker :
 Um der Himmelswille !
 
         
-",gunther-dr-cousin-refractaire,7,1,0.398,0.14285714285714285
+",78,gunther-dr-cousin-refractaire,7,1,0.398,0.14285714285714285
 469,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3865,7 +3865,7 @@ Vinbergé:
 Epattant! Gottfried, Dü muesch d'rote Hosse anzeije!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.617692284397804,0.1111111111111111
+",78,gunther-dr-cousin-refractaire,9,1,0.617692284397804,0.1111111111111111
 470,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3874,7 +3874,7 @@ Nußbicker :
 Je vous en prie! Kinder, Ihr han Infäll wie-e-n-alti Schyer !
 
         
-",gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
+",78,gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
 471,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3885,7 +3885,7 @@ Bedenke, er hett sinner Lebdesdaa kenn Üniform anghett! Du reste, es dät jo ni
           
 
         
-",gunther-dr-cousin-refractaire,26,1,0.344,0.038461538461538464
+",78,gunther-dr-cousin-refractaire,26,1,0.344,0.038461538461538464
 472,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3897,7 +3897,7 @@ Vinbergé:
 Enfin, Gottfried, jetz horich uff mich un mach was de witt!
 
         
-",gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
+",78,gunther-dr-cousin-refractaire,15,2,0.0,0.13333333333333333
 473,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3909,7 +3909,7 @@ Nußbicker :
 Naan, dies kann ich nit mache! Seij doch verständig René, ich hab nie gedient, ich hab 8-1-a g’hett in der Muschterung, allgemeine Körperschwäche un Plattfueß! Ich weiß jo gar nit wie mer die Hosse andüeht!
 
         
-",gunther-dr-cousin-refractaire,39,2,0.258,0.05128205128205128
+",78,gunther-dr-cousin-refractaire,39,2,0.258,0.05128205128205128
 474,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -3918,7 +3918,7 @@ Victorine:
 Allons, Gottfried, ich halt dran, ich helf sie Dir anduen !
 
         
-",gunther-dr-cousin-refractaire,11,2,0.324,0.18181818181818182
+",79,gunther-dr-cousin-refractaire,11,2,0.324,0.18181818181818182
 476,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3927,7 +3927,7 @@ Madame Nußbicker :
 Liewi Friend, mer welle's doch liewersch nit mache!
 
         
-",gunther-dr-cousin-refractaire,11,3,0.5309005828555692,0.2727272727272727
+",79,gunther-dr-cousin-refractaire,11,3,0.5309005828555692,0.2727272727272727
 478,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3943,7 +3943,7 @@ Ihr maane, ich hab Angst, fur in miene vier Wänd ze mache was ich will? Do sin 
  hett's nitt geklopft? Wer isch drüß?
 
         
-",gunther-dr-cousin-refractaire,98,7,0.10385714285714286,0.07142857142857142
+",79,gunther-dr-cousin-refractaire,98,7,0.10385714285714286,0.07142857142857142
 480,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -3957,7 +3957,7 @@ Liewi Friend, Ihr sehn, ich bin kenn Laaschele! Wenn ich d'Üniform nit anduen w
           
 
         
-",gunther-dr-cousin-refractaire,49,4,0.31217543714167695,0.08163265306122448
+",80,gunther-dr-cousin-refractaire,49,4,0.31217543714167695,0.08163265306122448
 481,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3966,7 +3966,7 @@ Madame Nußbicker :
 Jo allewäj, mir wäre doch nit händle wäje dere dauwe Üniform.
 
         
-",gunther-dr-cousin-refractaire,13,2,0.172,0.15384615384615385
+",80,gunther-dr-cousin-refractaire,13,2,0.172,0.15384615384615385
 483,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -3975,7 +3975,7 @@ Madame Nußbicker :
 Ich maan wäje mim dauwe Mann.
 
         
-",gunther-dr-cousin-refractaire,8,2,0.172,0.25
+",80,gunther-dr-cousin-refractaire,8,2,0.172,0.25
 485,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -3984,7 +3984,7 @@ Madame Nußbicker:
 Ich will sauwe, wäje so ere dauwe Idee!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.344,0.1
+",80,gunther-dr-cousin-refractaire,10,1,0.344,0.1
 486,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -3993,7 +3993,7 @@ Vinbergé:
 C'était mon idée! Madame Nusßbicker: Enfin, ich weiß jo nit, was ich sawe will!
 
         
-",gunther-dr-cousin-refractaire,15,1,0.344,0.06666666666666667
+",81,gunther-dr-cousin-refractaire,15,1,0.344,0.06666666666666667
 487,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4002,7 +4002,7 @@ Vinbergé :
 Bravo, drum mache mer jetzt Schluß mit unserer Sitzung. Ich sieh, im Gottfried ischs widder besser. Kättel, hole Sie e Kütsch un derno nab in d'Robertsau !
 
         
-",gunther-dr-cousin-refractaire,28,1,0.555,0.03571428571428571
+",81,gunther-dr-cousin-refractaire,28,1,0.555,0.03571428571428571
 488,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4011,7 +4011,7 @@ Nußbicker :
 Ja ’s isch e Klanigkeit besser.
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",81,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 489,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -4020,7 +4020,7 @@ Victorine :
 So isch eräht un hoere numme, for Eijch nit so viel ze okküpiere, haw-i denne Morje zwei Pfund Charcuterie mitgenumme, do mache mer am Owes drüsse in unserem Gärtel e famoses Picknick! Entendu?
 
         
-",gunther-dr-cousin-refractaire,34,3,0.125,0.08823529411764706
+",81,gunther-dr-cousin-refractaire,34,3,0.125,0.08823529411764706
 490,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4029,7 +4029,7 @@ Nußbicker:
 Deß heißt, e - mer sotte awer doch uff d'Kinder warte, voyons !
 
         
-",gunther-dr-cousin-refractaire,14,3,0.159,0.21428571428571427
+",81,gunther-dr-cousin-refractaire,14,3,0.159,0.21428571428571427
 491,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4040,7 +4040,7 @@ Alter Vocatives, mir han Ejch woelle e surprise mache, d'r Léon isch mit dere C
           
 
         
-",gunther-dr-cousin-refractaire,25,3,0.19533333333333333,0.12
+",81,gunther-dr-cousin-refractaire,25,3,0.19533333333333333,0.12
 492,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4050,7 +4050,7 @@ Do wurd'r Zitt brüche.
 (Kättel mit der Ordonnanz an der Türe; alle fahren erschrocken auf)
 
         
-",gunther-dr-cousin-refractaire,18,2,0.199,0.1111111111111111
+",82,gunther-dr-cousin-refractaire,18,2,0.199,0.1111111111111111
 493,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4062,7 +4062,7 @@ Kättel:
 Du isch ebber, Madam!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.344,0.125
+",82,gunther-dr-cousin-refractaire,8,1,0.344,0.125
 495,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4071,7 +4071,7 @@ Ordonnanz:
 Ich soll mit Waffengewalt ins Zimmer vom Herrn Zahlmeister eindringen und seine Papiere holen !
 
         
-",gunther-dr-cousin-refractaire,15,1,0.562,0.06666666666666667
+",82,gunther-dr-cousin-refractaire,15,1,0.562,0.06666666666666667
 496,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4082,7 +4082,7 @@ Uh, ich kreij min Grimme widder! Diß isch e Verruckter! Ich glaab, daß Ihne ni
  Awer hein, wie ich mit dem Schlitte fahr!
 
         
-",gunther-dr-cousin-refractaire,38,4,0.0,0.10526315789473684
+",82,gunther-dr-cousin-refractaire,38,4,0.0,0.10526315789473684
 497,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4091,7 +4091,7 @@ Vinbergé :
 Jetzt wurds mer ball ungemietlich! In miem Hüs wimmelts vun Pollacke!
 
         
-",gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
+",82,gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
 498,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4100,7 +4100,7 @@ Ordonnanz:
 Erlauwe Sie mol, Herr Nußbicker, wenn ich au e ganz gewöhnlicher Soldat bin, jo muen Sie nit maane, Sie sin minner Unteroffizier ! Vun so me krumme Gewächs wie Sie oft sich unseraans nit anpfiffe ! Verstande?!
 
         
-",gunther-dr-cousin-refractaire,36,4,0.0,0.1111111111111111
+",83,gunther-dr-cousin-refractaire,36,4,0.0,0.1111111111111111
 499,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4109,7 +4109,7 @@ Kättel:
 's S'isch wuhr, Herr, wann Sie inne so b'handele woelle, ze suech ich mir uff's Ziel e-n-andere Platz.
 
         
-",gunther-dr-cousin-refractaire,23,6,0.19979839940753638,0.2608695652173913
+",83,gunther-dr-cousin-refractaire,23,6,0.19979839940753638,0.2608695652173913
 500,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4118,7 +4118,7 @@ Madame Nußbicker :
 Kättel, wie kummt Sie mir denn vor?
 
         
-",gunther-dr-cousin-refractaire,9,1,0.344,0.1111111111111111
+",83,gunther-dr-cousin-refractaire,9,1,0.344,0.1111111111111111
 501,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4127,7 +4127,7 @@ Kättel:
 S'isch au wuhr! Unseraans hett au e Herz im Lieb vor im Käiser sini Soldate!
 
         
-",gunther-dr-cousin-refractaire,17,4,0.19725,0.23529411764705882
+",83,gunther-dr-cousin-refractaire,17,4,0.19725,0.23529411764705882
 502,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4138,7 +4138,7 @@ E netti Familie!
           
 
         
-",gunther-dr-cousin-refractaire,4,2,0.2180046028488207,0.5
+",83,gunther-dr-cousin-refractaire,4,2,0.2180046028488207,0.5
 503,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4152,7 +4152,7 @@ Awer propper! Sie excusiere Herr Gefreiter, ich hab jo nit gewißt, as Sie Elsä
 (ab mit Kättel und Ordonnanz)
 
         
-",gunther-dr-cousin-refractaire,43,1,0.0,0.023255813953488372
+",83,gunther-dr-cousin-refractaire,43,1,0.0,0.023255813953488372
 505,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -4161,7 +4161,7 @@ Madame Nußbicker:
 Vur Ejch d'Wohret ze sauwe, vor e paar Monet isch e Herr in de Garni gezöuje, wo sich später als Zahlmeischter erüs- gschtellt hett; er hett famos franzeesch geredd, un mir han nadierlich ken arigs derbie ghett! Jetz han mers erfahre, wies raucht un han ne nüsgepoltert un gekünd! Nadierlich suecht uns jetz der Mensch alli Schikane !
 
         
-",gunther-dr-cousin-refractaire,61,6,0.44016666666666665,0.09836065573770492
+",84,gunther-dr-cousin-refractaire,61,6,0.44016666666666665,0.09836065573770492
 506,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4175,7 +4175,7 @@ Gottlowedank, diß isch im Bleij!
  Mecht mer nit verknelle? D'Maidle han d'Papierer un alles zamme e so guet eweck gemacht, daß mer's nierix meh find!
 
         
-",gunther-dr-cousin-refractaire,37,5,0.1454,0.13513513513513514
+",84,gunther-dr-cousin-refractaire,37,5,0.1454,0.13513513513513514
 507,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -4184,7 +4184,7 @@ Victorine :
 Ja mit de Garni hett mer sini Plöj !
 
         
-",gunther-dr-cousin-refractaire,9,2,0.0,0.2222222222222222
+",84,gunther-dr-cousin-refractaire,9,2,0.0,0.2222222222222222
 508,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -4195,7 +4195,7 @@ Hesch erächt! Mer schaffe sie jetz au nooch und nooch ab!
  Sie wisse d'ganz G'schiht mit em Zahlmeischter.
 
         
-",gunther-dr-cousin-refractaire,25,3,0.302,0.12
+",84,gunther-dr-cousin-refractaire,25,3,0.302,0.12
 510,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4204,7 +4204,7 @@ Vinbergé:
 Ja, was hesch denn Gottfried?
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",85,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 511,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4213,7 +4213,7 @@ Nußbicker:
 Nix — ah, Ihr kenne die Geschicht mit em Zahlemeischter? Gottlowedank, ich hab schun gedenkt, Dü dätsch Dich arich verzuerne René, wursch verstehn, Militärlieferunge mache's G'schäft gehn.
 
         
-",gunther-dr-cousin-refractaire,29,2,0.281,0.06896551724137931
+",85,gunther-dr-cousin-refractaire,29,2,0.281,0.06896551724137931
 513,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4222,7 +4222,7 @@ Madame Nußbicker :
 Vun dem weiß er jo nix!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.344,0.125
+",85,gunther-dr-cousin-refractaire,8,1,0.344,0.125
 514,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4231,7 +4231,7 @@ Nußbicker :
 Oh, Dü Küeh! Ah, Ihr wisse nix vun dem Zahlmeischter? O min Grimme, min Grimme!
 
         
-",gunther-dr-cousin-refractaire,16,1,0.562,0.0625
+",85,gunther-dr-cousin-refractaire,16,1,0.562,0.0625
 515,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4240,7 +4240,7 @@ Vinbergé :
 Ja, um's Gottswille, rej Dich doch nit uff!
 
         
-",gunther-dr-cousin-refractaire,10,2,0.0,0.2
+",85,gunther-dr-cousin-refractaire,10,2,0.0,0.2
 516,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4251,7 +4251,7 @@ Ganz erächt, reje m'r uns nit uff!
  Ich glaab, ich beherrsch d'Sitüation nimmi!
 
         
-",gunther-dr-cousin-refractaire,19,3,0.0,0.15789473684210525
+",86,gunther-dr-cousin-refractaire,19,3,0.0,0.15789473684210525
 517,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4263,7 +4263,7 @@ Vinbergé:
 ’s geht uff de Owe! Welle m'r die hitzige accident vun hitt in d'r Schätte vun unserem Bierebaam v'rgesse! Dis donc, Gottfried, er schteht doch als noch, d'r Bierebaam mit de Madame- schenkel?
 
         
-",gunther-dr-cousin-refractaire,44,5,0.0688,0.11363636363636363
+",86,gunther-dr-cousin-refractaire,44,5,0.0688,0.11363636363636363
 519,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4272,7 +4272,7 @@ Madame Nußbicker :
 Ja nadierlich, Ihr wisse jo, d'r Gottfried isch vun jeher fur d'Madameschenkel g'sin!
 
         
-",gunther-dr-cousin-refractaire,16,2,0.172,0.125
+",86,gunther-dr-cousin-refractaire,16,2,0.172,0.125
 520,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4284,7 +4284,7 @@ Nußbicker:
 D'r Dodsschweiß kummt m'r, jetz mueß ich em alles saawe!
 
         
-",gunther-dr-cousin-refractaire,22,2,0.2412590442375721,0.09090909090909091
+",86,gunther-dr-cousin-refractaire,22,2,0.2412590442375721,0.09090909090909091
 522,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -4296,7 +4296,7 @@ Madame Nußbicker:
 Siehsch, Gottfried, wenn Dü ne vorher d'Fraid angedon hättsch, for d'Üniform anzezeje -
 
         
-",gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
+",87,gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
 523,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4311,7 +4311,7 @@ Ich mach jo alles, was Ihr welle! Ich spring mit samt d'r Uniform in de Rhin!
           
 
         
-",gunther-dr-cousin-refractaire,28,2,0.1015,0.07142857142857142
+",87,gunther-dr-cousin-refractaire,28,2,0.1015,0.07142857142857142
 524,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4320,7 +4320,7 @@ Vinbergé:
 Hoppla, m'r kumme als nit furt! Horich emol, Babett, wil grad d'r Bottfried nit do isch, ich glaab als, Dinner Mann isch nit eräch g'sund! Manchmol e so e klaaner Anfall?
 
         
-",gunther-dr-cousin-refractaire,32,6,0.22,0.1875
+",87,gunther-dr-cousin-refractaire,32,6,0.22,0.1875
 525,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4329,7 +4329,7 @@ Madame Nußbicker :
 Mais, der Mann isch numme zue g'iund!
 
         
-",gunther-dr-cousin-refractaire,9,2,0.172,0.2222222222222222
+",87,gunther-dr-cousin-refractaire,9,2,0.172,0.2222222222222222
 526,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4338,7 +4338,7 @@ Victorine:
 Miner Mann meint andersch! Die épicerie en gros, glaab ich, daß die ne doch ze viel enerviert!
 
         
-",gunther-dr-cousin-refractaire,18,3,0.375,0.16666666666666666
+",87,gunther-dr-cousin-refractaire,18,3,0.375,0.16666666666666666
 527,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4347,7 +4347,7 @@ Vinbergé :
 M'r sotte uns d'Verwaltung vum Hüs u. liewersch vun ebber andersch b'sorje lon!
 
         
-",gunther-dr-cousin-refractaire,15,2,0.1015,0.13333333333333333
+",87,gunther-dr-cousin-refractaire,15,2,0.1015,0.13333333333333333
 528,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -4356,7 +4356,7 @@ Madame Nußbicker:
 Nurre diß nit, diß wärd jo e Beleidigung fur inne!
 
         
-",gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
+",88,gunther-dr-cousin-refractaire,12,2,0.172,0.16666666666666666
 529,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4365,7 +4365,7 @@ Vinbergé:
 Stille, do isch ’r schun widder!
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",88,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 530,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4374,7 +4374,7 @@ Nußbicker:
 Möcht m'r nit v'rsüüre! Schteht's Fenschter sperrewitt offe! Un d'r Nochber brielt eruewer, daß ’s d'ganz Schtroß hört: Was isch, Nußbicker, witt uff de Maskeball gehn?!
 
         
-",gunther-dr-cousin-refractaire,29,4,0.13075,0.13793103448275862
+",88,gunther-dr-cousin-refractaire,29,4,0.13075,0.13793103448275862
 531,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4383,7 +4383,7 @@ Vinbergé:
 Hett der au schun g'schpanne, daß m'r d'Fasenacht han do hinne?
 
         
-",gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
+",88,gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
 532,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4392,7 +4392,7 @@ Nußbicker:
 Lon mich gehn! Min Grimme kummt schun widder zeruck! Awer d'Babett, haw-i gedenkt, könnt Ejch de G'falle dhuen, die dhuet d'Üniform an!
 
         
-",gunther-dr-cousin-refractaire,25,2,0.1015,0.08
+",88,gunther-dr-cousin-refractaire,25,2,0.1015,0.08
 533,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4401,7 +4401,7 @@ Madame Nußbicker :
 Gottfried!
 
         
-",gunther-dr-cousin-refractaire,3,1,0.344,0.3333333333333333
+",88,gunther-dr-cousin-refractaire,3,1,0.344,0.3333333333333333
 534,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4413,7 +4413,7 @@ Vinbergé:
 Cousin, Dü hesch Hitze!
 
         
-",gunther-dr-cousin-refractaire,8,2,0.0,0.25
+",89,gunther-dr-cousin-refractaire,8,2,0.0,0.25
 535,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4424,7 +4424,7 @@ Eh bien, merci!
           
 
         
-",gunther-dr-cousin-refractaire,4,1,0.6716750167449417,0.25
+",89,gunther-dr-cousin-refractaire,4,1,0.6716750167449417,0.25
 536,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4433,7 +4433,7 @@ Nußbicker:
 Doch, doch, doc, Ihr selle-n-Ejre Wille han, d'Babett zejt d'Üniform an! O Gott, min Grimme!
 
         
-",gunther-dr-cousin-refractaire,20,1,0.617,0.05
+",89,gunther-dr-cousin-refractaire,20,1,0.617,0.05
 537,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4442,7 +4442,7 @@ Madame Nußbicker :
 Awer Männel!
 
         
-",gunther-dr-cousin-refractaire,4,2,0.172,0.5
+",89,gunther-dr-cousin-refractaire,4,2,0.172,0.5
 538,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4452,7 +4452,7 @@ Nußbicker :
  Tes ordres! Himmel an d'r Bettlad noch emol!
 
         
-",gunther-dr-cousin-refractaire,12,3,0.35400000000000004,0.25
+",89,gunther-dr-cousin-refractaire,12,3,0.35400000000000004,0.25
 539,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4463,7 +4463,7 @@ Ich mach jo alles, was Dü witt! D'r Herr v'rzej m'r die Süend!
  Oh ja, min Männel hett ganz erächt, diß gitt jo e Mordsfuer! Kinder, eso han m'r uns schun lang nimmi amesiert, m'r sin jo unter uns!
 
         
-",gunther-dr-cousin-refractaire,45,12,0.028666666666666663,0.26666666666666666
+",89,gunther-dr-cousin-refractaire,45,12,0.028666666666666663,0.26666666666666666
 540,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4472,7 +4472,7 @@ Vinbergé:
 Total meschugge!
 
         
-",gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
+",90,gunther-dr-cousin-refractaire,3,1,0.0,0.3333333333333333
 541,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4481,7 +4481,7 @@ Victorine:
 Männel, die Litt sin krank!
 
         
-",gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
+",90,gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
 542,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4494,7 +4494,7 @@ Dummel Dich, Babett! Eso haw-i jo minner Läbdesdaa noch nit gelacht! Mini Frau 
 (lacht wie toll)
 
         
-",gunther-dr-cousin-refractaire,37,1,0.0,0.02702702702702703
+",90,gunther-dr-cousin-refractaire,37,1,0.0,0.02702702702702703
 544,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4506,7 +4506,7 @@ Victorine:
 In die Familli soll d'r Léon nyn hierothe?
 
         
-",gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
+",90,gunther-dr-cousin-refractaire,15,1,0.0,0.06666666666666667
 545,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4515,7 +4515,7 @@ Nußbicker:
 Ja, was han Ihr denn um’s Gottswille?! 's wurd Ejch doch nix bassiert sin?!
 
         
-",gunther-dr-cousin-refractaire,16,1,0.0,0.0625
+",90,gunther-dr-cousin-refractaire,16,1,0.0,0.0625
 546,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4526,7 +4526,7 @@ Blie ruehig, Gottfried! Ich bitt Dich! Blie ganz schtille schtehn! Witt de? Setz
           
 
         
-",gunther-dr-cousin-refractaire,37,4,0.0,0.10810810810810811
+",91,gunther-dr-cousin-refractaire,37,4,0.0,0.10810810810810811
 547,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4536,7 +4536,7 @@ Nußbicker :
  René, Dü gehsch mer nit zuem Hüs nüs! Was fallt Eijch denn yn? Mir fehlt doch nix!
 
         
-",gunther-dr-cousin-refractaire,25,4,0.0,0.16
+",91,gunther-dr-cousin-refractaire,25,4,0.0,0.16
 548,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4545,7 +4545,7 @@ Victorine:
 Ums Gottswille, der Mann isch iewwergschnappt !
 
         
-",gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
+",91,gunther-dr-cousin-refractaire,7,1,0.0,0.14285714285714285
 549,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4554,7 +4554,7 @@ Vinbergé:
 Stille, stille, mach doch kenn Läwesdaa. Diß isch d'Folje vum Gottfried sinnere große Fraid uewer unseri Visit.
 
         
-",gunther-dr-cousin-refractaire,19,3,0.0,0.15789473684210525
+",91,gunther-dr-cousin-refractaire,19,3,0.0,0.15789473684210525
 550,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4563,7 +4563,7 @@ Victorine:
 Mann gieb acht, geh nit zue not an inne ran.
 
         
-",gunther-dr-cousin-refractaire,11,2,0.0,0.18181818181818182
+",91,gunther-dr-cousin-refractaire,11,2,0.0,0.18181818181818182
 551,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4572,7 +4572,7 @@ Nußbicker:
 Ja, was düschle-n-Ihr Pariser denn? Ich Ejch e Schrüb los gange?
 
         
-",gunther-dr-cousin-refractaire,14,2,0.19149999999999995,0.14285714285714285
+",91,gunther-dr-cousin-refractaire,14,2,0.19149999999999995,0.14285714285714285
 552,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -4581,7 +4581,7 @@ Victorine :
 Mann, ich bruel um Hilf!
 
         
-",gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
+",92,gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
 553,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -4591,7 +4591,7 @@ Hastenteufel :
  Bongschur, na dat hätte ick ja jut getroffen! Habe die Ehre !
 
         
-",gunther-dr-cousin-refractaire,20,2,0.422,0.1
+",92,gunther-dr-cousin-refractaire,20,2,0.422,0.1
 554,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4600,7 +4600,7 @@ Nußbicker:
 So wurd’s m'r sin in mim letschte Schtündel! Was ver- schafft mer's Vergnüeje?
 
         
-",gunther-dr-cousin-refractaire,17,1,0.0,0.058823529411764705
+",92,gunther-dr-cousin-refractaire,17,1,0.0,0.058823529411764705
 555,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -4611,7 +4611,7 @@ Herr Nußbicker, ick habe die größten Unannehmlichkeiten durch Sie jehabt! Nun
           
 
         
-",gunther-dr-cousin-refractaire,49,10,0.17930141564707514,0.20408163265306123
+",92,gunther-dr-cousin-refractaire,49,10,0.17930141564707514,0.20408163265306123
 556,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -4620,7 +4620,7 @@ Hastenteufel :
 Ick verstehe jetzt keenen Spaß mehr, Herr Nußbicker, entweder, oder !
 
         
-",gunther-dr-cousin-refractaire,11,3,0.36466666666666664,0.2727272727272727
+",92,gunther-dr-cousin-refractaire,11,3,0.36466666666666664,0.2727272727272727
 557,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:  :
@@ -4633,7 +4633,7 @@ Me voila! Do bin i! Uh!
 (den Zahlmeister erblickend, läuft sie ins gegenüberliegende Zimmer)
 
         
-",gunther-dr-cousin-refractaire,21,2,0.453,0.09523809523809523
+",92,gunther-dr-cousin-refractaire,21,2,0.453,0.09523809523809523
 558,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -4642,7 +4642,7 @@ Hastenteufel :
 Ha! Was seh ich? Verrat!
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",93,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 559,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4651,7 +4651,7 @@ Nußbicker:
 Jetzt ischs Meß voll!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",93,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 560,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4662,7 +4662,7 @@ Ich sieh schun, ich schloof die Nacht widder uff der Wuehlung! Haftenteufel: Her
  Ordonnanz!
 
         
-",gunther-dr-cousin-refractaire,50,5,0.2672,0.1
+",93,gunther-dr-cousin-refractaire,50,5,0.2672,0.1
 561,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz :
@@ -4671,7 +4671,7 @@ Ordonnanz :
 Hier! Haftenteufel: Sofort den Polizeikommissar! Ordonnanz: Befehl Herr Zahlmeister!
 
         
-",gunther-dr-cousin-refractaire,10,2,0.281,0.2
+",93,gunther-dr-cousin-refractaire,10,2,0.281,0.2
 562,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4680,7 +4680,7 @@ Nußbicker :
 Awer erlaube Sie doch Herr Zahlmeischter — e unglücklichs Mißverschändnis, Sie wäre doch nit im Ernscht glauwe - — Vinbergé: Die Reis uff Schtroosburri soll mir gedenke! Haftenteufel: Ick gloowe Ihnen nischt, Herr Nußbicker, gar nischt !
 
         
-",gunther-dr-cousin-refractaire,37,10,0.2005298925957224,0.2702702702702703
+",93,gunther-dr-cousin-refractaire,37,10,0.2005298925957224,0.2702702702702703
 563,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine :
@@ -4691,7 +4691,7 @@ Herr Soldat, sin Sie galant genue, fur mir ze glauwe, daß es sich nit um e fran
           
 
         
-",gunther-dr-cousin-refractaire,51,12,0.432191577163102,0.23529411764705882
+",93,gunther-dr-cousin-refractaire,51,12,0.432191577163102,0.23529411764705882
 564,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4700,7 +4700,7 @@ Nußbicker :
 La recherche de la maternité est interdite! Unterstehn Sie sich vor nin ze gehn! Diß isch minni Frau gsinn, sie hett in der Gewohnet fur d'Hosse anzezeije. Fur im Hüß erum wurd sie in ere Cürassiersuniform gehn derfe, denk ich!
 
         
-",gunther-dr-cousin-refractaire,42,1,0.0,0.023809523809523808
+",94,gunther-dr-cousin-refractaire,42,1,0.0,0.023809523809523808
 565,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4712,7 +4712,7 @@ Kättel:
 Madam, es kumme pür Karl vum Gericht!
 
         
-",gunther-dr-cousin-refractaire,11,2,0.172,0.18181818181818182
+",94,gunther-dr-cousin-refractaire,11,2,0.172,0.18181818181818182
 566,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Polizeikommissar :
@@ -4721,7 +4721,7 @@ Polizeikommissar :
 Herr Zahlmeister, Verdacht bestätigt ?
 
         
-",gunther-dr-cousin-refractaire,5,4,0.3105,0.8
+",94,gunther-dr-cousin-refractaire,5,4,0.3105,0.8
 567,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -4730,7 +4730,7 @@ Hastenteufel :
 Janz und jar! Jck bitte Sie Herr Kommissar festzustellen, det in dem von mir jemieteten Zimmer en französischer Offizier sich aufhält.
 
         
-",gunther-dr-cousin-refractaire,22,3,0.20299999999999999,0.13636363636363635
+",94,gunther-dr-cousin-refractaire,22,3,0.20299999999999999,0.13636363636363635
 569,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4741,7 +4741,7 @@ Herr Kommissar, das ischt verschtunken und verlogen! Ich will Ihne de Bewies lie
  Babett, kum erüs! Madame Nußbicker: Nit ums Sterwe !
 
         
-",gunther-dr-cousin-refractaire,28,5,0.3274687461960178,0.17857142857142858
+",94,gunther-dr-cousin-refractaire,28,5,0.3274687461960178,0.17857142857142858
 570,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4754,7 +4754,7 @@ Eh bien, tot odder lawendig, ich mueß Dich han!
  Messieurs, sin Sie zefridde, odder genüejt deß a noch nitt? !
 
         
-",gunther-dr-cousin-refractaire,53,6,0.39044583612415695,0.11320754716981132
+",95,gunther-dr-cousin-refractaire,53,6,0.39044583612415695,0.11320754716981132
 571,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Polizeikommissar :
@@ -4763,7 +4763,7 @@ Polizeikommissar :
 Herr Nußbicker, Sie haben den Beweis an den Haaren herbeigezogen. Es tut mir leid, trotzdem eine Haussuchung bei Ihnen vornehmen zu müssen! Oeffnen Sie mir Ihre Zimmer!
 
         
-",gunther-dr-cousin-refractaire,28,3,0.2343333333333333,0.10714285714285714
+",95,gunther-dr-cousin-refractaire,28,3,0.2343333333333333,0.10714285714285714
 572,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -4775,7 +4775,7 @@ Vinbergé :
 Ich pack zamme un geh widder durich!
 
         
-",gunther-dr-cousin-refractaire,16,1,0.0,0.0625
+",95,gunther-dr-cousin-refractaire,16,1,0.0,0.0625
 573,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4784,7 +4784,7 @@ Nußbicker:
 Erlauwe Sie, Herr Kommissari e malentendu, die Papierer, alles isch do, mini Dochter het sie uffgerümt, im Moment wo sie kummt, isch alles am Platz!
 
         
-",gunther-dr-cousin-refractaire,26,2,0.0,0.07692307692307693
+",95,gunther-dr-cousin-refractaire,26,2,0.0,0.07692307692307693
 574,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Polizeikommissar :
@@ -4795,7 +4795,7 @@ Ich habe mich nur meines Auftrages zu erledigen!
  Sie bewachen die Türe!
 
         
-",gunther-dr-cousin-refractaire,17,1,0.5648080128282104,0.058823529411764705
+",95,gunther-dr-cousin-refractaire,17,1,0.5648080128282104,0.058823529411764705
 576,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4805,7 +4805,7 @@ Diß nennt m'r jetz die ditsch Gemietlichkeit! Wärde m'r doch in Paris gebliewe
 (geht nach rechts ihrem Mann ins Zimmer nach)
 
         
-",gunther-dr-cousin-refractaire,24,1,0.0,0.041666666666666664
+",96,gunther-dr-cousin-refractaire,24,1,0.0,0.041666666666666664
 577,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker :
@@ -4814,7 +4814,7 @@ Madame Nußbicker :
 En avant!
 
         
-",gunther-dr-cousin-refractaire,4,1,0.344,0.25
+",96,gunther-dr-cousin-refractaire,4,1,0.344,0.25
 578,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -4823,7 +4823,7 @@ Nußbicker:
 En avant! Un ’s schlimmschte schteht noch drüsse. Ans will ich ne sawe, Herr Kommissär, ich blos ne uff Ihri Grenzschperr!
 
         
-",gunther-dr-cousin-refractaire,22,3,0.0,0.13636363636363635
+",96,gunther-dr-cousin-refractaire,22,3,0.0,0.13636363636363635
 580,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4835,7 +4835,7 @@ Ordonnanz:
 Ich derf nit, Kättel, ich much d'Duer bewache !
 
         
-",gunther-dr-cousin-refractaire,29,3,0.362828614267954,0.10344827586206896
+",96,gunther-dr-cousin-refractaire,29,3,0.362828614267954,0.10344827586206896
 581,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4844,7 +4844,7 @@ Kättel:
 O Jesüs, mäin ünd alles! Wart, ze kumm ich zue Dir! Dü Korel, am Sunndi derf ich uff d'r Maßti!
 
         
-",gunther-dr-cousin-refractaire,21,4,0.11925,0.19047619047619047
+",96,gunther-dr-cousin-refractaire,21,4,0.11925,0.19047619047619047
 582,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4853,7 +4853,7 @@ Ordonnanz:
 Ich geh mit! Ich kumm Dich hole!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.0,0.125
+",97,gunther-dr-cousin-refractaire,8,1,0.0,0.125
 583,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -4862,7 +4862,7 @@ Kättel :
 M'r gehn durich d'r Wold, ich wäiß e scheener Waj!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.4360044662715527,0.09090909090909091
+",97,gunther-dr-cousin-refractaire,11,1,0.4360044662715527,0.09090909090909091
 585,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -4871,7 +4871,7 @@ Kättel :
 Aj ju! Ordonnanz: Do sieht's kenner, wenn ich Dir e Schmutz will genn!
 
         
-",gunther-dr-cousin-refractaire,15,4,0.28849049738044263,0.26666666666666666
+",97,gunther-dr-cousin-refractaire,15,4,0.28849049738044263,0.26666666666666666
 587,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4880,7 +4880,7 @@ Ordonnanz:
 Ei, ze kumm ganz noot!
 
         
-",gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
+",97,gunther-dr-cousin-refractaire,6,2,0.0,0.3333333333333333
 588,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -4891,7 +4891,7 @@ Kättel :
  
 
         
-",gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
+",98,gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
 589,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -4901,7 +4901,7 @@ Heiliger St. Joseph, ich schpiel nimmi mit, ich will minni G'schirrle widder!
 (läuft ins gegenüberliegende Zimmer)
 
         
-",gunther-dr-cousin-refractaire,19,2,0.336,0.10526315789473684
+",98,gunther-dr-cousin-refractaire,19,2,0.336,0.10526315789473684
 590,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4910,7 +4910,7 @@ Kättel:
 D'Pariser söje nix, Korel, die han a guater Chorokter! Do mitt noch äiner?!
 
         
-",gunther-dr-cousin-refractaire,15,1,0.6180803748460882,0.06666666666666667
+",98,gunther-dr-cousin-refractaire,15,1,0.6180803748460882,0.06666666666666667
 591,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz :
@@ -4920,7 +4920,7 @@ rum d'rmit!
 (wenn sie sich küssen, kommt Victorine angezogen zum Zimmer heraus und läuft ihrem Mann ins Zimmer nach)
 
         
-",gunther-dr-cousin-refractaire,23,2,0.0,0.08695652173913043
+",98,gunther-dr-cousin-refractaire,23,2,0.0,0.08695652173913043
 592,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Victorine:
@@ -4929,7 +4929,7 @@ Victorine:
 Herrschaft, hett deß Stroosburri schanschiert! Gottlowedank, daß unseri Permission denne Owe erum isch!
 
         
-",gunther-dr-cousin-refractaire,14,1,0.422,0.07142857142857142
+",98,gunther-dr-cousin-refractaire,14,1,0.422,0.07142857142857142
 594,comedy,Eine Ordonnanz,M,,,,"
           
 Ordonnanz:
@@ -4939,7 +4939,7 @@ Zu Befehl, Herr Zahlmeifter!
 (geht ins Zimmer ab)
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",99,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 595,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel:
@@ -4951,7 +4951,7 @@ Kättel:
 Am Sundi um dreje!
 
         
-",gunther-dr-cousin-refractaire,16,1,0.0,0.0625
+",99,gunther-dr-cousin-refractaire,16,1,0.0,0.0625
 596,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4965,7 +4965,7 @@ Herr, erbarme Dich unser!
  Nußbicker : Noëmie, Unglüecksmäidel, wo hesch denn d’Papierer vun dem uewerzweriche Zahlemeischter ? Noëmie : Ah, die schtecke jo im Hélène sim Bett!
 
         
-",gunther-dr-cousin-refractaire,37,4,0.1405,0.10810810810810811
+",99,gunther-dr-cousin-refractaire,37,4,0.1405,0.10810810810810811
 597,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -4974,7 +4974,7 @@ Nußbicker :
 D'eijene Kinder bringe-n-eine uff's Schaffot !
 
         
-",gunther-dr-cousin-refractaire,10,2,0.0,0.2
+",99,gunther-dr-cousin-refractaire,10,2,0.0,0.2
 598,comedy,Noëmie,F,,,,"
           
 Noëmie :
@@ -4984,7 +4984,7 @@ Ja, wie haw-ich denn diß wisse könne?!
 (beide weinend in betreffendes Zimmer ab)
 
         
-",gunther-dr-cousin-refractaire,16,2,0.0,0.125
+",99,gunther-dr-cousin-refractaire,16,2,0.0,0.125
 600,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -4993,7 +4993,7 @@ Müller:
 Herr Vinbergé, eine freudige Ueberraschung! Ihrem Ver- bleiben in Straßburg steht durchaus nichts im Wege! Das Bezirks- präsidium hat gegen Ihren Aufenthalt in Straßburg nicht das Geringste einzuwenden!
 
         
-",gunther-dr-cousin-refractaire,31,6,0.0,0.1935483870967742
+",100,gunther-dr-cousin-refractaire,31,6,0.0,0.1935483870967742
 602,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -5002,7 +5002,7 @@ Müller:
 Ich freue mid, daß Sie nach so vielen Jahren der Verbannung den Fuß wieder auf der heimatlichen Scholle niedersetzen dürfen.
 
         
-",gunther-dr-cousin-refractaire,21,2,0.0,0.09523809523809523
+",100,gunther-dr-cousin-refractaire,21,2,0.0,0.09523809523809523
 603,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5014,7 +5014,7 @@ Vinbergé:
  Deß isch d'r erscht anständig Schwob, wo ich mit'm geredd hab!
 
         
-",gunther-dr-cousin-refractaire,50,4,0.27925,0.08
+",100,gunther-dr-cousin-refractaire,50,4,0.27925,0.08
 604,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -5025,7 +5025,7 @@ Nicht Ursache für einen Dank! Hoffentlich ist es die Ver- anlassung zu einem ge
           
 
         
-",gunther-dr-cousin-refractaire,19,2,0.0,0.10526315789473684
+",100,gunther-dr-cousin-refractaire,19,2,0.0,0.10526315789473684
 605,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5038,7 +5038,7 @@ Ja, d'r Anfang wärd gemacht!
  He, Kättel!
 
         
-",gunther-dr-cousin-refractaire,38,5,0.1454,0.13157894736842105
+",100,gunther-dr-cousin-refractaire,38,5,0.1454,0.13157894736842105
 606,comedy,Kättel,F,domestic_worker,elementary_professions,lower_class,"
           
 Kättel :
@@ -5048,7 +5048,7 @@ Ich bin däubstumm! Ich soll nurre in d'r Madam ihri Kläider hule gehn!
 (Léon und Hélène per Arm ins Zimmer)
 
         
-",gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
+",101,gunther-dr-cousin-refractaire,23,2,0.172,0.08695652173913043
 610,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5057,7 +5057,7 @@ Vinbergé:
 Was hett diß ze beditte ?
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",101,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 611,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5068,7 +5068,7 @@ Permets, Léon!
  Unkel, Dü bisch e Mann vun Welt üß ere große Schtadt !
 
         
-",gunther-dr-cousin-refractaire,30,2,0.3088385414777653,0.06666666666666667
+",101,gunther-dr-cousin-refractaire,30,2,0.3088385414777653,0.06666666666666667
 615,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5079,7 +5079,7 @@ Ken Gärtel in d'r Robertsau! ’s isch schun lang v'rkauft, un uff de Grundstue
           
 
         
-",gunther-dr-cousin-refractaire,21,2,0.0,0.09523809523809523
+",102,gunther-dr-cousin-refractaire,21,2,0.0,0.09523809523809523
 616,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5091,7 +5091,7 @@ Vinbergé :
 Maidel, Dü reddsch Blech! Ach, jetz geht mir e Licht uff! Ah, wäje dem sitz im do zitter drej Schtund wie im Fort Chabrole un derf nit nüs! Gottfried, haw-i diß um Dich v'rdient?!
 
         
-",gunther-dr-cousin-refractaire,39,4,0.17775,0.10256410256410256
+",102,gunther-dr-cousin-refractaire,39,4,0.17775,0.10256410256410256
 617,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5100,7 +5100,7 @@ Hélène:
 Nit boes sin, Unkel, d'r Babbe het alles in beschter Absicht verkauft ohne Dinni Erlaubnis un het spekuliert !
 
         
-",gunther-dr-cousin-refractaire,19,3,0.4036666666666666,0.15789473684210525
+",102,gunther-dr-cousin-refractaire,19,3,0.4036666666666666,0.15789473684210525
 618,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5109,7 +5109,7 @@ Vinbergé:
 Un v'rlore nadierli!
 
         
-",gunther-dr-cousin-refractaire,4,1,0.0,0.25
+",103,gunther-dr-cousin-refractaire,4,1,0.0,0.25
 619,comedy,Hélène,F,,,,"
           
 Hélène :
@@ -5118,7 +5118,7 @@ Hélène :
 Naan, gewunne !
 
         
-",gunther-dr-cousin-refractaire,3,1,0.586,0.3333333333333333
+",103,gunther-dr-cousin-refractaire,3,1,0.586,0.3333333333333333
 620,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5127,7 +5127,7 @@ Vinbergé:
 Gewunne un het nit gedeilt mit mir?!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.586,0.125
+",103,gunther-dr-cousin-refractaire,8,1,0.586,0.125
 621,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5136,7 +5136,7 @@ Hélène:
 Din Andeil isch in Sicherheit! Im Babbe sin einzicher Fähler isch, er het gemaant, Dü haltsch so arich am Grund un Bodde, kannsch d'Schwowe nit schmecke un dhätsch 'm d'G'schäfter v'rdejfle. Un Dü v’rzejsh 'm, Unkel?
 
         
-",gunther-dr-cousin-refractaire,39,5,0.3551664169251918,0.1282051282051282
+",103,gunther-dr-cousin-refractaire,39,5,0.3551664169251918,0.1282051282051282
 622,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5145,7 +5145,7 @@ Vinbergé:
 Vrzeje? Ich will e furchtbars Stroofgericht halte.
 
         
-",gunther-dr-cousin-refractaire,8,2,0.2735,0.25
+",103,gunther-dr-cousin-refractaire,8,2,0.2735,0.25
 623,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5155,7 +5155,7 @@ Oh, Léon, diß han m'r jetz vun unserer Ehrlichkeit!
 (läuft weinend ins Zimmer)
 
         
-",gunther-dr-cousin-refractaire,16,2,0.422,0.125
+",103,gunther-dr-cousin-refractaire,16,2,0.422,0.125
 624,comedy,Léon,M,,,,"
           
 Léon :
@@ -5167,7 +5167,7 @@ Léon :
 Papa, ich hab mich mit'm Helene fianciert!
 
         
-",gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
+",104,gunther-dr-cousin-refractaire,12,1,0.0,0.08333333333333333
 625,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5177,7 +5177,7 @@ Dü hefch noch mim G’schmack choisiert! Bue! Ich denk nit dran, böes ze sin. 
 (Umarmung)
 
         
-",gunther-dr-cousin-refractaire,38,6,0.18157474522993558,0.15789473684210525
+",104,gunther-dr-cousin-refractaire,38,6,0.18157474522993558,0.15789473684210525
 626,comedy,Léon,M,,,,"
           
 Léon:
@@ -5189,7 +5189,7 @@ Was e Fraid, was e Fraid!
           
 
         
-",gunther-dr-cousin-refractaire,21,3,0.0,0.14285714285714285
+",104,gunther-dr-cousin-refractaire,21,3,0.0,0.14285714285714285
 629,comedy,Hastenteufel,M,,,,"
           
 Hastenteufel :
@@ -5198,7 +5198,7 @@ Hastenteufel :
 Chose is wieder glatt. Ick verzeije Ihnen allens, Herr Nußbicker!
 
         
-",gunther-dr-cousin-refractaire,11,2,0.2735,0.18181818181818182
+",104,gunther-dr-cousin-refractaire,11,2,0.2735,0.18181818181818182
 630,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5207,7 +5207,7 @@ Nußbicker :
 Zue frindlich! Awer nit wohr, Sie derangiere uns nit länger!
 
         
-",gunther-dr-cousin-refractaire,11,3,0.4243333333333334,0.2727272727272727
+",105,gunther-dr-cousin-refractaire,11,3,0.4243333333333334,0.2727272727272727
 631,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5216,7 +5216,7 @@ Vinbergé:
 Horich, Gottfried, der Herr isch doch in siem guede Recht gsin mit sini Papierer !
 
         
-",gunther-dr-cousin-refractaire,15,3,0.3986934582820294,0.2
+",105,gunther-dr-cousin-refractaire,15,3,0.3986934582820294,0.2
 632,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5227,7 +5227,7 @@ Ja, wenn Dü so maansch —
  No kennt jo d'r Zahl- meischter ’s Zimmer widder nämme? Vinbergé: Ich lad au contraire die Herre in, fur bie uns z'nacht ze-n-esse!
 
         
-",gunther-dr-cousin-refractaire,38,3,0.18164581906143387,0.07894736842105263
+",105,gunther-dr-cousin-refractaire,38,3,0.18164581906143387,0.07894736842105263
 633,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5236,7 +5236,7 @@ Nußbicker :
 Sunsch nix? Hastenteufel: Danke!
 
         
-",gunther-dr-cousin-refractaire,5,1,0.0,0.2
+",105,gunther-dr-cousin-refractaire,5,1,0.0,0.2
 634,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Polizeikommissar:
@@ -5245,7 +5245,7 @@ Polizeikommissar:
 Nein nein, besten Dank, bin leider beruflich verhindert! Adieu, Adieu. Nußbicker: Jetz lad der d'Polizeij noch yn, wo-ne gescht am Wickel genumme het.
 
         
-",gunther-dr-cousin-refractaire,25,7,0.09714285714285716,0.28
+",105,gunther-dr-cousin-refractaire,25,7,0.09714285714285716,0.28
 635,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5255,7 +5255,7 @@ Vinbergé:
 (Kommissar, Zahlmeister und Ordonnanz ab, von Frau Nußbicker begleitet.)
 
         
-",gunther-dr-cousin-refractaire,27,4,0.4186354291999113,0.14814814814814814
+",105,gunther-dr-cousin-refractaire,27,4,0.4186354291999113,0.14814814814814814
 637,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5264,7 +5264,7 @@ Vinbergé :
 Ja! Hm! Nußbicker: Wie maansch?
 
         
-",gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
+",106,gunther-dr-cousin-refractaire,6,1,0.0,0.16666666666666666
 639,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5276,7 +5276,7 @@ Nußbicker :
 Was isch, gfall ich der eso guet? Vinbergé : Jo wajer, Dü gfallsch mer, Dü bisch gemutzt!
 
         
-",gunther-dr-cousin-refractaire,23,3,0.0,0.13043478260869565
+",106,gunther-dr-cousin-refractaire,23,3,0.0,0.13043478260869565
 640,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5288,7 +5288,7 @@ Hélène:
 Unkel, muesch ne nimmi quäle!
 
         
-",gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
+",106,gunther-dr-cousin-refractaire,9,1,0.0,0.1111111111111111
 641,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5297,7 +5297,7 @@ Vinbergé:
 Gottfried, ich hab jetz gschpanne, wie ’s in bem Hüs zuegeht !
 
         
-",gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
+",106,gunther-dr-cousin-refractaire,12,2,0.0,0.16666666666666666
 645,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5306,7 +5306,7 @@ Vinbergé :
 Dü hesch mich schändlich angschmiert, Gottfried, Dü elender Tartüff as de bisch!
 
         
-",gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
+",107,gunther-dr-cousin-refractaire,13,2,0.0,0.15384615384615385
 646,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -5315,7 +5315,7 @@ Nußbicker:
 Ich hab schun gemaant, Dü tätsch mer böes wäre derweije!
 
         
-",gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
+",107,gunther-dr-cousin-refractaire,11,1,0.0,0.09090909090909091
 648,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker:
@@ -5324,7 +5324,7 @@ Nußbicker:
 René, wenn ich mich gstraibt hätt, Bodde ze v'ryssere, ze wärd ich uff d'schwarz Lischt kumme. Ich bin so schun als staatsg'fährlich verschröije. Au hab ich e gueter Zweck im Au ghett, ich hab —
 
         
-",gunther-dr-cousin-refractaire,37,4,0.0,0.10810810810810811
+",108,gunther-dr-cousin-refractaire,37,4,0.0,0.10810810810810811
 649,comedy,René Vinbergé,M,,,,"
           
 Vinbergé:
@@ -5333,7 +5333,7 @@ Vinbergé:
 Adje, pagnier, der guet Zweck hab ich schun gschpanieft, do luej die Zweij an!(zeigt auf Hélène und Léon, die sich gerade einen Kuß geben.
 
         
-",gunther-dr-cousin-refractaire,27,4,0.14450000000000002,0.14814814814814814
+",108,gunther-dr-cousin-refractaire,27,4,0.14450000000000002,0.14814814814814814
 650,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5342,7 +5342,7 @@ Nußbicker :
 Hein? Ja isch mejlich? Siesch deß haw ich allewill so welle han!
 
         
-",gunther-dr-cousin-refractaire,13,2,0.3085,0.15384615384615385
+",108,gunther-dr-cousin-refractaire,13,2,0.3085,0.15384615384615385
 651,comedy,Gottfried Nussbicker,M,,,,"
           
 Madame Nußbicker:
@@ -5351,7 +5351,7 @@ Madame Nußbicker:
 Hélène, mien Maidel, besser hättsch nit schwoisiere kenne! Denk die Fraid, Männel, d'r Herr Müller hett die Sach mit's Kiesel- hagens ins Bleij gebroocht.
 
         
-",gunther-dr-cousin-refractaire,28,5,0.0688,0.17857142857142858
+",108,gunther-dr-cousin-refractaire,28,5,0.0688,0.17857142857142858
 652,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -5365,7 +5365,7 @@ Guten Abend!
  Ich habe mir Mühe gegeben, Sie in meine Schuld zu setzen! Nußbicker: Deß wärd hitt niemes schwer gfalle!
 
         
-",gunther-dr-cousin-refractaire,28,5,0.2803473419337836,0.17857142857142858
+",108,gunther-dr-cousin-refractaire,28,5,0.2803473419337836,0.17857142857142858
 653,comedy,Fritz Müller,M,,,,"
           
 Müller :
@@ -5374,7 +5374,7 @@ Müller :
 Sie wissen, Herr Vinbergé hat unumschränkte Anfenthalts- erlaubnis!
 
         
-",gunther-dr-cousin-refractaire,10,2,0.3125,0.2
+",108,gunther-dr-cousin-refractaire,10,2,0.3125,0.2
 654,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5383,7 +5383,7 @@ Nußbicker :
 Dunderschdaa un Fridda, fur sicher un gewiß? Ah diß frait mich jetz, diß han Sie großartich gemacht, diß isch vun jeh min Herzenswunsch gsin, je te gratule, alter Vase! Jetz gehsch mer nimmi üß em Hüs vor der Hand!
 
         
-",gunther-dr-cousin-refractaire,40,8,0.32594746590973434,0.2
+",109,gunther-dr-cousin-refractaire,40,8,0.32594746590973434,0.2
 655,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5392,7 +5392,7 @@ Vinbergé :
 Ah noh, merci, ich hab jetz grad genue Bahnsteigsperre!
 
         
-",gunther-dr-cousin-refractaire,10,1,0.5780000000000001,0.1
+",109,gunther-dr-cousin-refractaire,10,1,0.5780000000000001,0.1
 656,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -5403,7 +5403,7 @@ Ich möchte natürlich nicht umsonst gearbeitet haben, wollen Sie mir ein Honora
           
 
         
-",gunther-dr-cousin-refractaire,16,1,0.0,0.0625
+",109,gunther-dr-cousin-refractaire,16,1,0.0,0.0625
 658,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -5413,7 +5413,7 @@ Damit ist mir nicht gedient! Wenn Sie mir bitte das hier quittieren möchten ?
 (er hat Noëmie bei der Hand genommen)
 
         
-",gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
+",109,gunther-dr-cousin-refractaire,23,1,0.0,0.043478260869565216
 660,comedy,Fritz Müller,M,,,,"
           
 Müller:
@@ -5424,7 +5424,7 @@ Ich möchte mich mit Ihrem Fräulein Tochter verloben! Noëmie: Oh ja Babbe! Nu�
  es macht viellicht e gueter Indruck bie der Regierung.
 
         
-",gunther-dr-cousin-refractaire,99,21,0.18071247569151286,0.21212121212121213
+",110,gunther-dr-cousin-refractaire,99,21,0.18071247569151286,0.21212121212121213
 662,comedy,Alfred,M,,,,"
           
 Alfred :
@@ -5435,7 +5435,7 @@ Ja, isch's Gewitter schun erum ?
           
 
         
-",gunther-dr-cousin-refractaire,7,2,0.0,0.2857142857142857
+",110,gunther-dr-cousin-refractaire,7,2,0.0,0.2857142857142857
 663,comedy,Hélène,F,,,,"
           
 Hélène:
@@ -5444,7 +5444,7 @@ Hélène:
 Amer nurre durich uns! Wenn's Nußbickers ihri Döechter nit hätte. Alfred : Gut, grad hoer ich, mir soelles Hüs v'rkaufe fur e nej Boulevardprojekt!?
 
         
-",gunther-dr-cousin-refractaire,25,3,0.19266666666666668,0.12
+",110,gunther-dr-cousin-refractaire,25,3,0.19266666666666668,0.12
 666,comedy,René Vinbergé,M,,,,"
           
 Vinbergé :
@@ -5453,7 +5453,7 @@ Vinbergé :
 Ynverstande, m'r mueß mit d'r Entwicklung gehn!
 
         
-",gunther-dr-cousin-refractaire,8,1,0.6615204495815168,0.125
+",111,gunther-dr-cousin-refractaire,8,1,0.6615204495815168,0.125
 667,comedy,Gottfried Nussbicker,M,,,,"
           
 Nußbicker :
@@ -5463,4 +5463,4 @@ Ynverstande! M'r mueß d'Situation b'herrsche!
 (Vorhang.)
 
         
-",gunther-dr-cousin-refractaire,10,1,0.6615204495815168,0.1
+",111,gunther-dr-cousin-refractaire,10,1,0.6615204495815168,0.1

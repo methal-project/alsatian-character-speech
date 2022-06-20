@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -28,7 +28,7 @@ Joseph
                     
 
         
-",lustig-drei-schwarze-liebschafte,151,14,0.537562479291369,0.09271523178807947
+",0,lustig-drei-schwarze-liebschafte,151,14,0.537562479291369,0.09271523178807947
 1,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -40,7 +40,7 @@ Kàtele
 Bisch allei, Joseph?
 
         
-",lustig-drei-schwarze-liebschafte,11,1,0.2007839064646092,0.09090909090909091
+",0,lustig-drei-schwarze-liebschafte,11,1,0.2007839064646092,0.09090909090909091
 2,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -49,7 +49,7 @@ Joseph.
 Jà, liewe Fraü... kumm nur ine.
 
         
-",lustig-drei-schwarze-liebschafte,7,2,0.4946173832094362,0.2857142857142857
+",1,lustig-drei-schwarze-liebschafte,7,2,0.4946173832094362,0.2857142857142857
 4,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -60,7 +60,7 @@ Los, Kàtele... sag em doch nitt allewil dr Alt, im Herr
                     
 
         
-",lustig-drei-schwarze-liebschafte,19,6,0.47321050254427294,0.3157894736842105
+",2,lustig-drei-schwarze-liebschafte,19,6,0.47321050254427294,0.3157894736842105
 5,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -72,7 +72,7 @@ Oh! loss mi geh mit dim Herr... Dü machsch Dich jo als
                     
 
         
-",lustig-drei-schwarze-liebschafte,25,3,0.5112284612836414,0.12
+",2,lustig-drei-schwarze-liebschafte,25,3,0.5112284612836414,0.12
 6,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -85,7 +85,7 @@ Ich müess awer o ebbes höre allewil... erst gestert hat
                     
 
         
-",lustig-drei-schwarze-liebschafte,37,1,0.4931147079616885,0.02702702702702703
+",3,lustig-drei-schwarze-liebschafte,37,1,0.4931147079616885,0.02702702702702703
 7,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -96,7 +96,7 @@ Das glicht em wieder... me ka jo sage so wit as me
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,1,0.4165438181100936,0.05
+",3,lustig-drei-schwarze-liebschafte,20,1,0.4165438181100936,0.05
 11,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -105,7 +105,7 @@ Kàtele.
 Er isch doch sunscht nitt eso g'spràchig, dr Herr.
 
         
-",lustig-drei-schwarze-liebschafte,10,1,0.408435494808788,0.1
+",5,lustig-drei-schwarze-liebschafte,10,1,0.408435494808788,0.1
 12,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -119,7 +119,7 @@ Jà, sunscht bringt me-n-em kei Wort züem Mül üse... awer
                     
 
         
-",lustig-drei-schwarze-liebschafte,49,8,0.4563900742773469,0.16326530612244897
+",6,lustig-drei-schwarze-liebschafte,49,8,0.4563900742773469,0.16326530612244897
 13,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -131,7 +131,7 @@ Kàtele
 Ich's möglig, ass dr Mensch eso wit awe ka ku!
 
         
-",lustig-drei-schwarze-liebschafte,19,1,0.4247459181933735,0.05263157894736842
+",6,lustig-drei-schwarze-liebschafte,19,1,0.4247459181933735,0.05263157894736842
 14,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -140,7 +140,7 @@ Joseph.
 Un wie gross meinsch Dü, ass er isch, dr Mond?
 
         
-",lustig-drei-schwarze-liebschafte,11,1,0.6380889953692928,0.09090909090909091
+",7,lustig-drei-schwarze-liebschafte,11,1,0.6380889953692928,0.09090909090909091
 15,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -151,7 +151,7 @@ Dr Mond... wie mi kleine Pfanne ung'fàhr... do brücht me
                     
 
         
-",lustig-drei-schwarze-liebschafte,17,2,0.5330455410789318,0.11764705882352941
+",7,lustig-drei-schwarze-liebschafte,17,2,0.5330455410789318,0.11764705882352941
 16,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -166,7 +166,7 @@ Ich weiss nitt, wie gross as Di kleine Pfanne-n-isch,
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,6,0.5219241434243506,0.11538461538461539
+",8,lustig-drei-schwarze-liebschafte,52,6,0.5219241434243506,0.11538461538461539
 17,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -180,7 +180,7 @@ Ah!... hasch Dü das o bemerkt?... 's isch mr doch
                     
 
         
-",lustig-drei-schwarze-liebschafte,46,5,0.5440627380671038,0.10869565217391304
+",8,lustig-drei-schwarze-liebschafte,46,5,0.5440627380671038,0.10869565217391304
 18,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -195,7 +195,7 @@ Nitt wohr? Erst gestert ha-n-ich g'hört, ass er
                     
 
         
-",lustig-drei-schwarze-liebschafte,56,6,0.3844257257649706,0.10714285714285714
+",9,lustig-drei-schwarze-liebschafte,56,6,0.3844257257649706,0.10714285714285714
 19,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -209,7 +209,7 @@ Ah!... voilà... do hat er schint's e Brief biku vo-n-
                     
 
         
-",lustig-drei-schwarze-liebschafte,48,5,0.5239743463664153,0.10416666666666667
+",9,lustig-drei-schwarze-liebschafte,48,5,0.5239743463664153,0.10416666666666667
 20,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -223,7 +223,7 @@ Nei, awer uf das kasch Dü nitt geh... Venüs isch
           
 
         
-",lustig-drei-schwarze-liebschafte,22,1,0.441,0.045454545454545456
+",10,lustig-drei-schwarze-liebschafte,22,1,0.441,0.045454545454545456
 21,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -237,7 +237,7 @@ Aha... still... jetz kunnt mr ebbes i... 's Marie, wo
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,8,0.3845512259072321,0.15384615384615385
+",10,lustig-drei-schwarze-liebschafte,52,8,0.3845512259072321,0.15384615384615385
 22,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -249,7 +249,7 @@ Jà... derno wàr halt unsere schöne Zit umme!... awer er
                     
 
         
-",lustig-drei-schwarze-liebschafte,23,4,0.37559498516614387,0.17391304347826086
+",11,lustig-drei-schwarze-liebschafte,23,4,0.37559498516614387,0.17391304347826086
 24,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -274,7 +274,7 @@ Sie thàt uns G'setze schriwe
           
 
         
-",lustig-drei-schwarze-liebschafte,28,2,0.48707402626567375,0.07142857142857142
+",12,lustig-drei-schwarze-liebschafte,28,2,0.48707402626567375,0.07142857142857142
 25,comedy,JOSEPH KÜTZ,M,,,,"
           
 (Mitnander)
@@ -299,7 +299,7 @@ Wo si ne Mann soll nàh.
           
 
         
-",lustig-drei-schwarze-liebschafte,27,3,0.4355675623764488,0.1111111111111111
+",12,lustig-drei-schwarze-liebschafte,27,3,0.4355675623764488,0.1111111111111111
 26,comedy,KÀTELE,F,,,,"
           
 (Mitnander)
@@ -324,7 +324,7 @@ Wo si ne Mann soll nàh.
           
 
         
-",lustig-drei-schwarze-liebschafte,27,3,0.4355675623764488,0.1111111111111111
+",13,lustig-drei-schwarze-liebschafte,27,3,0.4355675623764488,0.1111111111111111
 27,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -335,7 +335,7 @@ Un züedem hà mir o noch d'Chance fir z'erwe, wenn er
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,2,0.6625193246224568,0.125
+",13,lustig-drei-schwarze-liebschafte,16,2,0.6625193246224568,0.125
 28,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -346,7 +346,7 @@ Tiens... 's isch jo wohr... er hat jo glaüb keine
                     
 
         
-",lustig-drei-schwarze-liebschafte,12,3,0.3879288237537102,0.25
+",14,lustig-drei-schwarze-liebschafte,12,3,0.3879288237537102,0.25
 29,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -362,7 +362,7 @@ jetz kunnt mr ebbes
                     
 
         
-",lustig-drei-schwarze-liebschafte,63,3,0.4320560641597078,0.047619047619047616
+",14,lustig-drei-schwarze-liebschafte,63,3,0.4320560641597078,0.047619047619047616
 30,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -373,7 +373,7 @@ Eh... das isch an si Venüs gsi... wege dem kunnt se
                     
 
         
-",lustig-drei-schwarze-liebschafte,14,2,0.4523305382852834,0.14285714285714285
+",15,lustig-drei-schwarze-liebschafte,14,2,0.4523305382852834,0.14285714285714285
 31,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -387,7 +387,7 @@ Joseph.
                     
 
         
-",lustig-drei-schwarze-liebschafte,28,2,0.3904316330647828,0.07142857142857142
+",15,lustig-drei-schwarze-liebschafte,28,2,0.3904316330647828,0.07142857142857142
 32,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -403,7 +403,7 @@ Aha... sin Ihr do Joseph?... was doch das ebbes schön's
                     
 
         
-",lustig-drei-schwarze-liebschafte,75,10,0.5025706814660141,0.13333333333333333
+",16,lustig-drei-schwarze-liebschafte,75,10,0.5025706814660141,0.13333333333333333
 33,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -417,7 +417,7 @@ Aha!... jetz packt's en wieder a... ich will em e wenig
                     
 
         
-",lustig-drei-schwarze-liebschafte,27,5,0.4627263648194493,0.18518518518518517
+",16,lustig-drei-schwarze-liebschafte,27,5,0.4627263648194493,0.18518518518518517
 34,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -434,7 +434,7 @@ grad wie Gufe, wo
                     
 
         
-",lustig-drei-schwarze-liebschafte,75,7,0.3516763535410456,0.09333333333333334
+",17,lustig-drei-schwarze-liebschafte,75,7,0.3516763535410456,0.09333333333333334
 35,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -446,7 +446,7 @@ Das isch alles recht... awer, wie kunnts denn derno, ass
                     
 
         
-",lustig-drei-schwarze-liebschafte,27,2,0.36517333283904874,0.07407407407407407
+",17,lustig-drei-schwarze-liebschafte,27,2,0.36517333283904874,0.07407407407407407
 36,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -457,7 +457,7 @@ Das kunnt her, will d'Erde-n-alle Gegestànd an sich
                     
 
         
-",lustig-drei-schwarze-liebschafte,19,2,0.3696412778216486,0.10526315789473684
+",18,lustig-drei-schwarze-liebschafte,19,2,0.3696412778216486,0.10526315789473684
 37,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -470,7 +470,7 @@ Dass müess si... denn se hat mich diemol o azoge
                     
 
         
-",lustig-drei-schwarze-liebschafte,40,1,0.333,0.025
+",18,lustig-drei-schwarze-liebschafte,40,1,0.333,0.025
 38,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -483,7 +483,7 @@ Un Ihr meine noch, eb's o Lit hat dert owe!...
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,5,0.4670433595776006,0.11904761904761904
+",19,lustig-drei-schwarze-liebschafte,42,5,0.4670433595776006,0.11904761904761904
 39,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -494,7 +494,7 @@ Jo... un dà müess noch voll si, bis ass er e wenig
                     
 
         
-",lustig-drei-schwarze-liebschafte,15,2,0.7280341196678288,0.13333333333333333
+",19,lustig-drei-schwarze-liebschafte,15,2,0.7280341196678288,0.13333333333333333
 40,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -509,7 +509,7 @@ Was isch denn derno dr Mensch uf dr Erde, Joseph... uf
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,7,0.40690703263309086,0.1346153846153846
+",20,lustig-drei-schwarze-liebschafte,52,7,0.40690703263309086,0.1346153846153846
 41,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -525,7 +525,7 @@ Ich bi nitt vo dr gliche Meinung... wenn jetz nur er
                     
 
         
-",lustig-drei-schwarze-liebschafte,40,4,0.4354813669783921,0.1
+",20,lustig-drei-schwarze-liebschafte,40,4,0.4354813669783921,0.1
 42,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -534,7 +534,7 @@ Herr Himmel.
 Nit, Joseph...
 
         
-",lustig-drei-schwarze-liebschafte,4,2,0.3696412778216486,0.5
+",21,lustig-drei-schwarze-liebschafte,4,2,0.3696412778216486,0.5
 43,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -546,7 +546,7 @@ Joseph
 Hein!... worum nitt...
 
         
-",lustig-drei-schwarze-liebschafte,8,1,0.5175892949686224,0.125
+",21,lustig-drei-schwarze-liebschafte,8,1,0.5175892949686224,0.125
 44,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -557,7 +557,7 @@ Nit thüet dr Geist so in d'Höche schwinge, wie
                     
 
         
-",lustig-drei-schwarze-liebschafte,14,3,0.3716774588054152,0.21428571428571427
+",22,lustig-drei-schwarze-liebschafte,14,3,0.3716774588054152,0.21428571428571427
 45,comedy,Herr HIMMEL,M,,,,"
             
 
@@ -588,7 +588,7 @@ Sin ihr viellicht 's g'lobte Land?
             
 
           
-",lustig-drei-schwarze-liebschafte,42,7,0.403451514654126,0.16666666666666666
+",22,lustig-drei-schwarze-liebschafte,42,7,0.403451514654126,0.16666666666666666
 46,comedy,JOSEPH KÜTZ,M,,,,"
             
 Joseph
@@ -637,7 +637,7 @@ Wird me's wisse doch.
             
 
           
-",lustig-drei-schwarze-liebschafte,84,8,0.5270082527568026,0.09523809523809523
+",23,lustig-drei-schwarze-liebschafte,84,8,0.5270082527568026,0.09523809523809523
 47,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -660,7 +660,7 @@ Zeige jetz, Joseph... mache-n-ass Ihr fertig werde un
                     
 
         
-",lustig-drei-schwarze-liebschafte,74,11,0.4210393805018813,0.14864864864864866
+",23,lustig-drei-schwarze-liebschafte,74,11,0.4210393805018813,0.14864864864864866
 48,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -678,7 +678,7 @@ Also am Zehne-n-un 17 Minüte... güet... ich will jetz
                     
 
         
-",lustig-drei-schwarze-liebschafte,44,5,0.595473513018629,0.11363636363636363
+",24,lustig-drei-schwarze-liebschafte,44,5,0.595473513018629,0.11363636363636363
 49,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -727,7 +727,7 @@ Nei... 's isch güet,
                     
 
         
-",lustig-drei-schwarze-liebschafte,278,29,0.4807520651793651,0.10431654676258993
+",24,lustig-drei-schwarze-liebschafte,278,29,0.4807520651793651,0.10431654676258993
 54,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -742,7 +742,7 @@ D'Jumpfer Venüs denn!... 's isch e schöne, grosse
                     
 
         
-",lustig-drei-schwarze-liebschafte,57,7,0.42535772730765053,0.12280701754385964
+",27,lustig-drei-schwarze-liebschafte,57,7,0.42535772730765053,0.12280701754385964
 55,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -753,7 +753,7 @@ Ah so! Dü gehsch geh uf d'schöne Jumpfraüe passe un
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,3,0.37899316797332894,0.16666666666666666
+",27,lustig-drei-schwarze-liebschafte,18,3,0.37899316797332894,0.16666666666666666
 56,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -765,7 +765,7 @@ Joseph.
                     
 
         
-",lustig-drei-schwarze-liebschafte,27,2,0.7041334070365597,0.07407407407407407
+",28,lustig-drei-schwarze-liebschafte,27,2,0.7041334070365597,0.07407407407407407
 57,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -776,7 +776,7 @@ Jà meinsch Dü wirklig, ass dr Herr im Sinn hat
                     
 
         
-",lustig-drei-schwarze-liebschafte,13,2,0.41424884562661657,0.15384615384615385
+",28,lustig-drei-schwarze-liebschafte,13,2,0.41424884562661657,0.15384615384615385
 58,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -799,7 +799,7 @@ Eb er im Sinn hat z'hirothe!... er isch jo ganz firig un
                     
 
         
-",lustig-drei-schwarze-liebschafte,119,8,0.48532810895481304,0.06722689075630252
+",29,lustig-drei-schwarze-liebschafte,119,8,0.48532810895481304,0.06722689075630252
 59,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -810,7 +810,7 @@ Oh! Joseph... wenn nur Dü o noch so wàrsch gege Di
                     
 
         
-",lustig-drei-schwarze-liebschafte,13,1,0.4696838101224185,0.07692307692307693
+",29,lustig-drei-schwarze-liebschafte,13,1,0.4696838101224185,0.07692307692307693
 60,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -822,7 +822,7 @@ Vor allem z'àmme, Kàtele, wà mr z'erst lüege, wie mr in
                     
 
         
-",lustig-drei-schwarze-liebschafte,30,3,0.4334101233267354,0.1
+",30,lustig-drei-schwarze-liebschafte,30,3,0.4334101233267354,0.1
 61,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -837,7 +837,7 @@ Still!... ich hör 's Kleine grine... 's hat Mundfile, dà
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,4,0.36934601513299264,0.13793103448275862
+",30,lustig-drei-schwarze-liebschafte,29,4,0.36934601513299264,0.13793103448275862
 63,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -849,7 +849,7 @@ Kàtele
 Un Dü... was bisch Dü anders!
 
         
-",lustig-drei-schwarze-liebschafte,10,2,0.6231541966714577,0.2
+",31,lustig-drei-schwarze-liebschafte,10,2,0.6231541966714577,0.2
 64,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -858,7 +858,7 @@ Joseph.
 Alleweg emol si Müetter nitt... sàll isch sicher!
 
         
-",lustig-drei-schwarze-liebschafte,9,1,0.38657381727647,0.1111111111111111
+",32,lustig-drei-schwarze-liebschafte,9,1,0.38657381727647,0.1111111111111111
 65,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -871,7 +871,7 @@ Dü bisch e dummer Gàiferi, ass De's nur weisch!
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,1,0.4047137068345491,0.05555555555555555
+",32,lustig-drei-schwarze-liebschafte,18,1,0.4047137068345491,0.05555555555555555
 66,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -885,7 +885,7 @@ Die Hiroth... die Hiroth steckt mr im Kopf... was isch
                     
 
         
-",lustig-drei-schwarze-liebschafte,25,1,0.7088646669245691,0.04
+",33,lustig-drei-schwarze-liebschafte,25,1,0.7088646669245691,0.04
 67,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -902,7 +902,7 @@ Do isch e junger Mensch, Joseph, wo mit Dir rede wott
                     
 
         
-",lustig-drei-schwarze-liebschafte,33,4,0.5103693030578897,0.12121212121212122
+",33,lustig-drei-schwarze-liebschafte,33,4,0.5103693030578897,0.12121212121212122
 68,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -911,7 +911,7 @@ Joseph.
 So, so... un was wàr Ihne g'fàllig, güeter Frind?
 
         
-",lustig-drei-schwarze-liebschafte,10,2,0.44650698260417765,0.2
+",34,lustig-drei-schwarze-liebschafte,10,2,0.44650698260417765,0.2
 69,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -925,7 +925,7 @@ Sie sin dr Herr Kütz?... ich hätt Ene do ne Brief abz'gà
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,4,0.39681228243971023,0.2
+",34,lustig-drei-schwarze-liebschafte,20,4,0.39681228243971023,0.2
 70,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -941,7 +941,7 @@ Eh, tiens!... 's isch jo wohr... Sie sin jo mi
                     
 
         
-",lustig-drei-schwarze-liebschafte,45,9,0.4583327536589244,0.2
+",35,lustig-drei-schwarze-liebschafte,45,9,0.4583327536589244,0.2
 71,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -950,7 +950,7 @@ Herr Silwer.
 Jo... 's wird jetz zeh Johr.
 
         
-",lustig-drei-schwarze-liebschafte,8,2,0.41721318236859717,0.25
+",35,lustig-drei-schwarze-liebschafte,8,2,0.41721318236859717,0.25
 72,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -964,7 +964,7 @@ Ihre Vater hat Ene schint's g'sàit, Sie solle sich an
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,6,0.4563015485209722,0.14285714285714285
+",36,lustig-drei-schwarze-liebschafte,42,6,0.4563015485209722,0.14285714285714285
 73,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -977,7 +977,7 @@ Herr Silwer.
           
 
         
-",lustig-drei-schwarze-liebschafte,14,4,0.3866693141449725,0.2857142857142857
+",36,lustig-drei-schwarze-liebschafte,14,4,0.3866693141449725,0.2857142857142857
 74,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -992,7 +992,7 @@ Güet, güet... ich merk's scho... 's wird e-n-àime ne
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,3,0.5142439760245431,0.07692307692307693
+",37,lustig-drei-schwarze-liebschafte,39,3,0.5142439760245431,0.07692307692307693
 75,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1009,7 +1009,7 @@ Eh bien... ich will ufrichtig si... als güeter Frind vo
                     
 
         
-",lustig-drei-schwarze-liebschafte,80,18,0.4473580377844788,0.225
+",37,lustig-drei-schwarze-liebschafte,80,18,0.4473580377844788,0.225
 76,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1020,7 +1020,7 @@ Se hàn's o nitt welle ha, wil Sie ne wenig lichtsinnig
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,3,0.5018919815001057,0.1875
+",38,lustig-drei-schwarze-liebschafte,16,3,0.5018919815001057,0.1875
 77,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1075,7 +1075,7 @@ Denn dis nutzt jo doch nit,
           
 
         
-",lustig-drei-schwarze-liebschafte,86,15,0.5286298952067151,0.1744186046511628
+",38,lustig-drei-schwarze-liebschafte,86,15,0.5286298952067151,0.1744186046511628
 78,comedy,Herr SILWER,M,,,,"
           
 (Mitnander)
@@ -1097,7 +1097,7 @@ Denn das nutzt jo doch alles nitt,
           
 
         
-",lustig-drei-schwarze-liebschafte,27,4,0.539483329806208,0.14814814814814814
+",39,lustig-drei-schwarze-liebschafte,27,4,0.539483329806208,0.14814814814814814
 79,comedy,JOSEPH KÜTZ,M,,,,"
           
 (Mitnander)
@@ -1119,7 +1119,7 @@ Denn das nutzt jo doch alles nitt,
           
 
         
-",lustig-drei-schwarze-liebschafte,27,4,0.539483329806208,0.14814814814814814
+",39,lustig-drei-schwarze-liebschafte,27,4,0.539483329806208,0.14814814814814814
 80,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1130,7 +1130,7 @@ So, so... un do sin Sie also uf Milhüse ku, fir sich e
                     
 
         
-",lustig-drei-schwarze-liebschafte,17,4,0.47982644553165676,0.23529411764705882
+",40,lustig-drei-schwarze-liebschafte,17,4,0.47982644553165676,0.23529411764705882
 81,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1141,7 +1141,7 @@ Un fir ebbes z'verdiene... denn ich müess Ihne g'steh,
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,4,0.5594237673891665,0.2
+",40,lustig-drei-schwarze-liebschafte,20,4,0.5594237673891665,0.2
 82,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1153,7 +1153,7 @@ Diable, diable!... zeig, Kàtele, Dü wo mit alle
                     
 
         
-",lustig-drei-schwarze-liebschafte,22,2,0.5836556892663114,0.09090909090909091
+",41,lustig-drei-schwarze-liebschafte,22,2,0.5836556892663114,0.09090909090909091
 83,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1166,7 +1166,7 @@ Wart... ich müess mi b'sinne...
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,3,0.4297309865873831,0.1875
+",41,lustig-drei-schwarze-liebschafte,16,3,0.4297309865873831,0.1875
 85,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1175,7 +1175,7 @@ Kàtele.
 Ich müess doch lüege, züe was as er güet möcht si
 
         
-",lustig-drei-schwarze-liebschafte,12,1,0.4974327231143904,0.08333333333333333
+",42,lustig-drei-schwarze-liebschafte,12,1,0.4974327231143904,0.08333333333333333
 86,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1184,7 +1184,7 @@ Joseph.
 In sim Alter isch me fir alles güet.
 
         
-",lustig-drei-schwarze-liebschafte,9,3,0.49185126932408324,0.3333333333333333
+",43,lustig-drei-schwarze-liebschafte,9,3,0.49185126932408324,0.3333333333333333
 87,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1195,7 +1195,7 @@ Aha, still!... ich weiss ebbes... dr Seiler dert unte
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,3,0.4024196178662307,0.16666666666666666
+",43,lustig-drei-schwarze-liebschafte,18,3,0.4024196178662307,0.16666666666666666
 88,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1208,7 +1208,7 @@ Das war eso ebbes, junger Mensch... 's isch nitt
           
 
         
-",lustig-drei-schwarze-liebschafte,12,1,0.4584467116080536,0.08333333333333333
+",44,lustig-drei-schwarze-liebschafte,12,1,0.4584467116080536,0.08333333333333333
 89,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1219,7 +1219,7 @@ Ich 's Rad dràihe!... par Exemple... merçi, worum nitt
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,2,0.41721318236859717,0.125
+",44,lustig-drei-schwarze-liebschafte,16,2,0.41721318236859717,0.125
 90,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1228,7 +1228,7 @@ Joseph.
 Ebbes anders denn... Kàtele, Dü hasch 's Wort.
 
         
-",lustig-drei-schwarze-liebschafte,9,2,0.5201097321048193,0.2222222222222222
+",45,lustig-drei-schwarze-liebschafte,9,2,0.5201097321048193,0.2222222222222222
 91,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1239,7 +1239,7 @@ Dà Rentier do nàwes will in sim Kleine d'Müsik lehre
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,5,0.4287937454317382,0.3125
+",45,lustig-drei-schwarze-liebschafte,16,5,0.4287937454317382,0.3125
 92,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1251,7 +1251,7 @@ Aha!... voilà... das wàr ebbes bessers... nitt wohr,
                     
 
         
-",lustig-drei-schwarze-liebschafte,25,5,0.4458951761724924,0.2
+",46,lustig-drei-schwarze-liebschafte,25,5,0.4458951761724924,0.2
 93,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1260,7 +1260,7 @@ Herr Silwer.
 E wenig, jo... ich ha ne Zit lang d'Gige g'lehrt.
 
         
-",lustig-drei-schwarze-liebschafte,13,4,0.3969152113895448,0.3076923076923077
+",46,lustig-drei-schwarze-liebschafte,13,4,0.3969152113895448,0.3076923076923077
 94,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1271,7 +1271,7 @@ Eh parbleu... das isch, was Se brüche... wenn Sie d'Gige
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,4,0.4693270111321893,0.19047619047619047
+",47,lustig-drei-schwarze-liebschafte,21,4,0.4693270111321893,0.19047619047619047
 95,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1282,7 +1282,7 @@ Oho!... 's isch jo gar kei Verglich zwische dàne zwei
                     
 
         
-",lustig-drei-schwarze-liebschafte,13,2,0.41721318236859717,0.15384615384615385
+",47,lustig-drei-schwarze-liebschafte,13,2,0.41721318236859717,0.15384615384615385
 96,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1297,7 +1297,7 @@ Joseph.
                     
 
         
-",lustig-drei-schwarze-liebschafte,58,5,0.4239629143074226,0.08620689655172414
+",48,lustig-drei-schwarze-liebschafte,58,5,0.4239629143074226,0.08620689655172414
 97,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1308,7 +1308,7 @@ Das geht nitt... ich kenn jo gar nit vom Klavier.. ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,2,0.41721318236859717,0.09523809523809523
+",48,lustig-drei-schwarze-liebschafte,21,2,0.41721318236859717,0.09523809523809523
 98,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1317,7 +1317,7 @@ Kàtele.
 Sie froge-n-Ihre-n-Elève... er weisst viellicht.
 
         
-",lustig-drei-schwarze-liebschafte,10,1,0.3300618280273141,0.1
+",49,lustig-drei-schwarze-liebschafte,10,1,0.3300618280273141,0.1
 99,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1326,7 +1326,7 @@ Herr Silwer.
 Do wàr's also mi Élève, wo mir Lectione gàb?
 
         
-",lustig-drei-schwarze-liebschafte,12,2,0.41721318236859717,0.16666666666666666
+",49,lustig-drei-schwarze-liebschafte,12,2,0.41721318236859717,0.16666666666666666
 100,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1337,7 +1337,7 @@ Das hat me scho vielmol g'sàh, ass dr Elève stärker isch
                     
 
         
-",lustig-drei-schwarze-liebschafte,15,2,0.7018207486562837,0.13333333333333333
+",50,lustig-drei-schwarze-liebschafte,15,2,0.7018207486562837,0.13333333333333333
 101,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1346,7 +1346,7 @@ Herr Silwer.
 Das isch e wenig z'stark... ich traü's nitt z'woge.
 
         
-",lustig-drei-schwarze-liebschafte,14,3,0.5122367334233244,0.21428571428571427
+",50,lustig-drei-schwarze-liebschafte,14,3,0.5122367334233244,0.21428571428571427
 102,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1358,7 +1358,7 @@ Junger Mensch, ich sieh scho, dr güete Wille fehlt
                     
 
         
-",lustig-drei-schwarze-liebschafte,22,3,0.465551271716443,0.13636363636363635
+",51,lustig-drei-schwarze-liebschafte,22,3,0.465551271716443,0.13636363636363635
 103,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1370,7 +1370,7 @@ Herr Silwer
 Possige Plàtz, wo-n-er mir do atràit.
 
         
-",lustig-drei-schwarze-liebschafte,14,3,0.5144303438872545,0.21428571428571427
+",51,lustig-drei-schwarze-liebschafte,14,3,0.5144303438872545,0.21428571428571427
 104,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1379,7 +1379,7 @@ Joseph.
 Voyons, Kàtele... hasch viellicht noch ebbes anders?
 
         
-",lustig-drei-schwarze-liebschafte,8,2,0.3751406461184763,0.25
+",52,lustig-drei-schwarze-liebschafte,8,2,0.3751406461184763,0.25
 105,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1393,7 +1393,7 @@ Jetz gr ad nitt... still! 's kunnt ebber 's wird doch
                     
 
         
-",lustig-drei-schwarze-liebschafte,34,2,0.3144524439052251,0.058823529411764705
+",52,lustig-drei-schwarze-liebschafte,34,2,0.3144524439052251,0.058823529411764705
 106,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1404,7 +1404,7 @@ We me hitigstags will Geld verdiene, so derf me nitt so
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,4,0.6456114962492736,0.2222222222222222
+",53,lustig-drei-schwarze-liebschafte,18,4,0.6456114962492736,0.2222222222222222
 107,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -1421,7 +1421,7 @@ Kàtele
                     
 
         
-",lustig-drei-schwarze-liebschafte,51,7,0.48872702763866244,0.13725490196078433
+",53,lustig-drei-schwarze-liebschafte,51,7,0.48872702763866244,0.13725490196078433
 108,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1432,7 +1432,7 @@ D'Madame Frindlig... isch sie selbst ufe ku?
           
 
         
-",lustig-drei-schwarze-liebschafte,9,2,0.4378619838498514,0.2222222222222222
+",54,lustig-drei-schwarze-liebschafte,9,2,0.4378619838498514,0.2222222222222222
 110,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1447,7 +1447,7 @@ Mach se-n-uf dr Stell ine z'ku... ne riche Dame, wo nitt
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,7,0.4703263918871366,0.1794871794871795
+",55,lustig-drei-schwarze-liebschafte,39,7,0.4703263918871366,0.1794871794871795
 111,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1459,7 +1459,7 @@ Herr Silwer
 Mir?... ich verstand Se nitt.
 
         
-",lustig-drei-schwarze-liebschafte,10,3,0.40218290444781535,0.3
+",55,lustig-drei-schwarze-liebschafte,10,3,0.40218290444781535,0.3
 112,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -1475,7 +1475,7 @@ Sie sin jung un stark un hàn e solide Hand... me brücht
                     
 
         
-",lustig-drei-schwarze-liebschafte,48,7,0.5927655270384518,0.14583333333333334
+",56,lustig-drei-schwarze-liebschafte,48,7,0.5927655270384518,0.14583333333333334
 113,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Siwer.
@@ -1486,7 +1486,7 @@ Ich e Zahn üszieh!... was denke Se... ich ha jo kei Idee
                     
 
         
-",lustig-drei-schwarze-liebschafte,22,2,0.43990622611289704,0.09090909090909091
+",56,lustig-drei-schwarze-liebschafte,22,2,0.43990622611289704,0.09090909090909091
 114,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1499,7 +1499,7 @@ Joseph.
                     
 
         
-",lustig-drei-schwarze-liebschafte,32,1,0.426066672788339,0.03125
+",57,lustig-drei-schwarze-liebschafte,32,1,0.426066672788339,0.03125
 115,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1508,7 +1508,7 @@ Herr Silwer.
 Das isch awer jetz...
 
         
-",lustig-drei-schwarze-liebschafte,6,2,0.41721318236859717,0.3333333333333333
+",57,lustig-drei-schwarze-liebschafte,6,2,0.41721318236859717,0.3333333333333333
 116,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1521,7 +1521,7 @@ Scht!... still! do isch se.
                     
 
         
-",lustig-drei-schwarze-liebschafte,22,3,0.3658380384321102,0.13636363636363635
+",58,lustig-drei-schwarze-liebschafte,22,3,0.3658380384321102,0.13636363636363635
 117,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -1535,7 +1535,7 @@ Was ha-n-i erfahre, Madame Frindlig, Sie heb eso arg 's
                     
 
         
-",lustig-drei-schwarze-liebschafte,30,3,0.5308445331179855,0.1
+",58,lustig-drei-schwarze-liebschafte,30,3,0.5308445331179855,0.1
 118,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -1551,7 +1551,7 @@ Oh, jo... jo... ich bi ganz decidiert... ich ka nimmig
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,4,0.5107005973174079,0.09523809523809523
+",59,lustig-drei-schwarze-liebschafte,42,4,0.5107005973174079,0.09523809523809523
 119,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1562,7 +1562,7 @@ In dem Quartier nitt... Se miesst scho ziemlig wit
                     
 
         
-",lustig-drei-schwarze-liebschafte,11,1,0.400059253369866,0.09090909090909091
+",59,lustig-drei-schwarze-liebschafte,11,1,0.400059253369866,0.09090909090909091
 120,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1572,7 +1572,7 @@ O Gott!... isch's möglig... un ich ha-n-eso Schmerze!
                     
 
         
-",lustig-drei-schwarze-liebschafte,13,3,0.5500713688950524,0.23076923076923078
+",60,lustig-drei-schwarze-liebschafte,13,3,0.5500713688950524,0.23076923076923078
 121,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1586,7 +1586,7 @@ Berüehige Sie sich, liewe Nochbere... dr Züefall thüet
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,5,0.45874046105902977,0.1282051282051282
+",60,lustig-drei-schwarze-liebschafte,39,5,0.45874046105902977,0.1282051282051282
 122,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1597,7 +1597,7 @@ Was, dà junge Herr isch Zahnarzt? .. er schint mr awer
                     
 
         
-",lustig-drei-schwarze-liebschafte,15,4,0.4440767418828062,0.26666666666666666
+",61,lustig-drei-schwarze-liebschafte,15,4,0.4440767418828062,0.26666666666666666
 123,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1614,7 +1614,7 @@ Er isch noch jung, 's isch wohr... awer stark wie ne
           
 
         
-",lustig-drei-schwarze-liebschafte,55,10,0.49558832644224643,0.18181818181818182
+",61,lustig-drei-schwarze-liebschafte,55,10,0.49558832644224643,0.18181818181818182
 124,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1628,7 +1628,7 @@ Ne Zahn g'fehlt... nei, ich ka herzhaft sage, ass ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,25,3,0.38000480933551256,0.12
+",62,lustig-drei-schwarze-liebschafte,25,3,0.38000480933551256,0.12
 125,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1637,7 +1637,7 @@ Joseph.
 Güet, Güet... do hört Se's, Madame Frindlig.
 
         
-",lustig-drei-schwarze-liebschafte,9,3,0.48194783191170343,0.3333333333333333
+",62,lustig-drei-schwarze-liebschafte,9,3,0.48194783191170343,0.3333333333333333
 126,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1652,7 +1652,7 @@ Eh bien... wil dà Herr denn eso g'schickt isch so will
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,11,0.46316131839338953,0.2619047619047619
+",63,lustig-drei-schwarze-liebschafte,42,11,0.46316131839338953,0.2619047619047619
 127,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1665,7 +1665,7 @@ Natirlig ka-n-er do operiere... er hat
                     
 
         
-",lustig-drei-schwarze-liebschafte,40,5,0.4669117483965833,0.125
+",63,lustig-drei-schwarze-liebschafte,40,5,0.4669117483965833,0.125
 128,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1674,7 +1674,7 @@ Madame Frindlig.
 Jà, was heischt denn dr Herr fir e Zahn üsz'zieh?
 
         
-",lustig-drei-schwarze-liebschafte,12,3,0.5227594037465622,0.25
+",64,lustig-drei-schwarze-liebschafte,12,3,0.5227594037465622,0.25
 129,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -1683,7 +1683,7 @@ Herr Silwer.
 Ich...
 
         
-",lustig-drei-schwarze-liebschafte,3,2,0.41721318236859717,0.6666666666666666
+",64,lustig-drei-schwarze-liebschafte,3,2,0.41721318236859717,0.6666666666666666
 130,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -1695,7 +1695,7 @@ Joseph
 Zeh Franke... nie weniger.
 
         
-",lustig-drei-schwarze-liebschafte,9,1,0.5175892949686224,0.1111111111111111
+",65,lustig-drei-schwarze-liebschafte,9,1,0.5175892949686224,0.1111111111111111
 131,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1706,7 +1706,7 @@ Zeh Franke!... mi Magd hat mr doch g'sàit, sie heb Ein
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,3,0.544837326655999,0.16666666666666666
+",65,lustig-drei-schwarze-liebschafte,18,3,0.544837326655999,0.16666666666666666
 132,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1719,7 +1719,7 @@ Das isch licht möglig un wohrschinlig o noch e Stick vo
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,6,0.42327985237881544,0.15384615384615385
+",66,lustig-drei-schwarze-liebschafte,39,6,0.42327985237881544,0.15384615384615385
 133,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1739,7 +1739,7 @@ Diable! fir 10 Franke kännt me's viellicht doch woge,
                     
 
         
-",lustig-drei-schwarze-liebschafte,55,7,0.526709369920115,0.12727272727272726
+",66,lustig-drei-schwarze-liebschafte,55,7,0.526709369920115,0.12727272727272726
 134,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -1756,7 +1756,7 @@ Aha! 's Geld macht si Effect
                     
 
         
-",lustig-drei-schwarze-liebschafte,33,5,0.5565400211634759,0.15151515151515152
+",67,lustig-drei-schwarze-liebschafte,33,5,0.5565400211634759,0.15151515151515152
 135,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -1765,7 +1765,7 @@ Madame Frindlig.
 Awer zeh Franke, fir eim e Zahn z'nàh!
 
         
-",lustig-drei-schwarze-liebschafte,11,2,0.5799213582154492,0.18181818181818182
+",67,lustig-drei-schwarze-liebschafte,11,2,0.5799213582154492,0.18181818181818182
 136,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -1777,7 +1777,7 @@ Er git's ene jo wieder... un wenn se-n-emol üsg'risse
                     
 
         
-",lustig-drei-schwarze-liebschafte,35,4,0.6263903156312984,0.11428571428571428
+",68,lustig-drei-schwarze-liebschafte,35,4,0.6263903156312984,0.11428571428571428
 137,comedy,JOSEPH KÜTZ,M,,,,"
           
 
@@ -1823,7 +1823,7 @@ Ass Sie ne güeter Zahnarzt hat.
           
 
         
-",lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
+",68,lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
 138,comedy,KÀTELE,F,,,,"
           
 
@@ -1869,7 +1869,7 @@ Ass Sie ne güeter Zahnarzt hat.
           
 
         
-",lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
+",69,lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
 139,comedy,Herr SILWER,M,,,,"
           
 
@@ -1915,7 +1915,7 @@ Ass Sie ne güeter Zahnarzt hat.
           
 
         
-",lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
+",69,lustig-drei-schwarze-liebschafte,99,16,0.5399068422004699,0.16161616161616163
 140,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -1934,7 +1934,7 @@ Oh!... jetz packt's mi wieder uf e frisch's a!... nu, so
           
 
         
-",lustig-drei-schwarze-liebschafte,42,5,0.49443270054400246,0.11904761904761904
+",70,lustig-drei-schwarze-liebschafte,42,5,0.49443270054400246,0.11904761904761904
 141,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -1951,7 +1951,7 @@ Allons, junger Mensch, nàmme Se-n-Ihre Instrumente un
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,6,0.5019933581021563,0.15384615384615385
+",70,lustig-drei-schwarze-liebschafte,39,6,0.5019933581021563,0.15384615384615385
 142,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1965,7 +1965,7 @@ Enfin... wenn's denn si müess, so wà mr's liewer glich
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,4,0.5269449699718156,0.2
+",71,lustig-drei-schwarze-liebschafte,20,4,0.5269449699718156,0.2
 143,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -1977,7 +1977,7 @@ Madame Frindlig
 's isch dà do... sàhn Se, Herr...
 
         
-",lustig-drei-schwarze-liebschafte,15,5,0.4428770421227404,0.3333333333333333
+",71,lustig-drei-schwarze-liebschafte,15,5,0.4428770421227404,0.3333333333333333
 144,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -1989,7 +1989,7 @@ Herr Silwer
 Aha... ga go... jà jà... ich sieh-n-en.
 
         
-",lustig-drei-schwarze-liebschafte,15,3,0.4045452549399898,0.2
+",72,lustig-drei-schwarze-liebschafte,15,3,0.4045452549399898,0.2
 145,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig.
@@ -2003,7 +2003,7 @@ Riehre Sie ne e klei wenig a, fir ass ich sicher bi;
                     
 
         
-",lustig-drei-schwarze-liebschafte,32,4,0.5638203001579843,0.125
+",72,lustig-drei-schwarze-liebschafte,32,4,0.5638203001579843,0.125
 146,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2014,7 +2014,7 @@ Dà wà mr jetz glich ha... ka Sie 's Mül nitt noch e
                     
 
         
-",lustig-drei-schwarze-liebschafte,19,4,0.3923565911842986,0.21052631578947367
+",73,lustig-drei-schwarze-liebschafte,19,4,0.3923565911842986,0.21052631578947367
 147,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2030,7 +2030,7 @@ Courage, Fraü Nochbere... ich will se ne wenig hewe-n-an
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,3,0.4660111647752996,0.057692307692307696
+",73,lustig-drei-schwarze-liebschafte,52,3,0.4660111647752996,0.057692307692307696
 148,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2047,7 +2047,7 @@ Ich weiss sicher nitt, welle ass ich nàh sott... 's
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,6,0.46331176466750557,0.14285714285714285
+",74,lustig-drei-schwarze-liebschafte,42,6,0.46331176466750557,0.14285714285714285
 149,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -2062,7 +2062,7 @@ Eh bien, Herr Zahnarzt... uf was warte Se?... Se
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,7,0.5071939526332779,0.2413793103448276
+",74,lustig-drei-schwarze-liebschafte,29,7,0.5071939526332779,0.2413793103448276
 150,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2079,7 +2079,7 @@ Ma foi, tant pis!... ich nimm d'Bisszange
                     
 
         
-",lustig-drei-schwarze-liebschafte,38,6,0.5251616529548504,0.15789473684210525
+",75,lustig-drei-schwarze-liebschafte,38,6,0.5251616529548504,0.15789473684210525
 151,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -2095,7 +2095,7 @@ Oh là là!... aïe aïe!... Se hà mr jo d'ganze
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,3,0.48984313619760284,0.10344827586206896
+",75,lustig-drei-schwarze-liebschafte,29,3,0.48984313619760284,0.10344827586206896
 152,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2109,7 +2109,7 @@ Herr Silwer
 Voilà!... ça y est!... ich ha-n-en!
 
         
-",lustig-drei-schwarze-liebschafte,21,3,0.5122367334233244,0.14285714285714285
+",76,lustig-drei-schwarze-liebschafte,21,3,0.5122367334233244,0.14285714285714285
 153,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -2127,7 +2127,7 @@ Sapristi, er müess schint's famos g'hebt ha, dà Zahn...
                     
 
         
-",lustig-drei-schwarze-liebschafte,62,9,0.4368065625161815,0.14516129032258066
+",76,lustig-drei-schwarze-liebschafte,62,9,0.4368065625161815,0.14516129032258066
 154,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2139,7 +2139,7 @@ Herr Silwer
 Do... schaüe Se-n-emol!
 
         
-",lustig-drei-schwarze-liebschafte,15,2,0.41721318236859717,0.13333333333333333
+",77,lustig-drei-schwarze-liebschafte,15,2,0.41721318236859717,0.13333333333333333
 155,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2155,7 +2155,7 @@ Was sieh-n-i!... thien mich mine Aüge nitt trumpiere?...
                     
 
         
-",lustig-drei-schwarze-liebschafte,49,3,0.5530018521259438,0.061224489795918366
+",77,lustig-drei-schwarze-liebschafte,49,3,0.5530018521259438,0.061224489795918366
 156,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -2172,7 +2172,7 @@ Drei Zähn!... ah, wege dem isch mi ganze
           
 
         
-",lustig-drei-schwarze-liebschafte,32,5,0.5192872242319849,0.15625
+",78,lustig-drei-schwarze-liebschafte,32,5,0.5192872242319849,0.15625
 157,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2193,7 +2193,7 @@ Jetz heisst's awer Toupet zeigt!
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,9,0.47153663721966255,0.17307692307692307
+",78,lustig-drei-schwarze-liebschafte,52,9,0.47153663721966255,0.17307692307692307
 158,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2212,7 +2212,7 @@ Das isch sicher... b'schaüe Se-n-emol... alle drei sin
                     
 
         
-",lustig-drei-schwarze-liebschafte,99,16,0.5112202232177869,0.16161616161616163
+",79,lustig-drei-schwarze-liebschafte,99,16,0.5112202232177869,0.16161616161616163
 159,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -2228,7 +2228,7 @@ Drissig Franke!... par exemple!... drissig Franke, fir
                     
 
         
-",lustig-drei-schwarze-liebschafte,30,8,0.47227463918304746,0.26666666666666666
+",79,lustig-drei-schwarze-liebschafte,30,8,0.47227463918304746,0.26666666666666666
 160,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2243,7 +2243,7 @@ Me hat Ihne gar nit vermassakriert... liewe Nochbere...
                     
 
         
-",lustig-drei-schwarze-liebschafte,63,8,0.48414067084987444,0.12698412698412698
+",80,lustig-drei-schwarze-liebschafte,63,8,0.48414067084987444,0.12698412698412698
 161,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2254,7 +2254,7 @@ Do sin se, Ihre Zähn, Madame Frindlig... Sie sieht, ass
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,3,0.42846813808117457,0.15
+",80,lustig-drei-schwarze-liebschafte,20,3,0.42846813808117457,0.15
 162,comedy,Madame FRINDLIG,F,,,,"
           
 Madame Frindlig
@@ -2273,7 +2273,7 @@ Madame Frindlig
                     
 
         
-",lustig-drei-schwarze-liebschafte,54,5,0.46597217244277533,0.09259259259259259
+",81,lustig-drei-schwarze-liebschafte,54,5,0.46597217244277533,0.09259259259259259
 163,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2287,7 +2287,7 @@ Kàtele, gib doch unsrer werthe Nochbere dr Arm un
                     
 
         
-",lustig-drei-schwarze-liebschafte,24,4,0.4226480684663837,0.16666666666666666
+",81,lustig-drei-schwarze-liebschafte,24,4,0.4226480684663837,0.16666666666666666
 164,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2299,7 +2299,7 @@ Herr Silwer
 Isch das shön Geld... hein!
 
         
-",lustig-drei-schwarze-liebschafte,15,5,0.4311227766567979,0.3333333333333333
+",82,lustig-drei-schwarze-liebschafte,15,5,0.4311227766567979,0.3333333333333333
 165,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -2314,7 +2314,7 @@ Jetz hà mir's mitnander... güeter Frind... ich bi
                     
 
         
-",lustig-drei-schwarze-liebschafte,33,6,0.4549394069097594,0.18181818181818182
+",82,lustig-drei-schwarze-liebschafte,33,6,0.4549394069097594,0.18181818181818182
 166,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2326,7 +2326,7 @@ Herr Silwer
 Ah!... Sie wànn theile?
 
         
-",lustig-drei-schwarze-liebschafte,9,3,0.42440915658944833,0.3333333333333333
+",83,lustig-drei-schwarze-liebschafte,9,3,0.42440915658944833,0.3333333333333333
 167,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2338,7 +2338,7 @@ Natirlig... worum hat me-n-Ihne drissig Franke gà? Wil
                     
 
         
-",lustig-drei-schwarze-liebschafte,25,6,0.36547182680507,0.24
+",83,lustig-drei-schwarze-liebschafte,25,6,0.36547182680507,0.24
 168,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2350,7 +2350,7 @@ Nitt ganz... Sie hà mir g'rothe, ne Zahn üsz'zieh... ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,30,3,0.4201643458418444,0.1
+",84,lustig-drei-schwarze-liebschafte,30,3,0.4201643458418444,0.1
 169,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2362,7 +2362,7 @@ Das isch alles recht... awer wenn ich Sie nitt engagiert
                     
 
         
-",lustig-drei-schwarze-liebschafte,32,4,0.4907320394729303,0.125
+",84,lustig-drei-schwarze-liebschafte,32,4,0.4907320394729303,0.125
 170,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2371,7 +2371,7 @@ Herr Silwer.
 Eh bien... so gàn Se mir 15 Franke un dermit fertig.
 
         
-",lustig-drei-schwarze-liebschafte,13,3,0.4696752044268157,0.23076923076923078
+",85,lustig-drei-schwarze-liebschafte,13,3,0.4696752044268157,0.23076923076923078
 171,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2384,7 +2384,7 @@ Geduld, Geduld, junger Mensch... Sie gehn gar
           
 
         
-",lustig-drei-schwarze-liebschafte,17,1,0.4584467116080536,0.058823529411764705
+",85,lustig-drei-schwarze-liebschafte,17,1,0.4584467116080536,0.058823529411764705
 172,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2395,7 +2395,7 @@ D'Unkoste!... Was fir Unkoste... wo sàhn Sie Unkoste do
                     
 
         
-",lustig-drei-schwarze-liebschafte,13,3,0.5144303438872545,0.23076923076923078
+",86,lustig-drei-schwarze-liebschafte,13,3,0.5144303438872545,0.23076923076923078
 173,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2407,7 +2407,7 @@ Das werde Sie jetz glich sàlwer sàh... me hat erstens in
                     
 
         
-",lustig-drei-schwarze-liebschafte,24,4,0.4582630291284184,0.16666666666666666
+",86,lustig-drei-schwarze-liebschafte,24,4,0.4582630291284184,0.16666666666666666
 174,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2416,7 +2416,7 @@ Herr Silwer.
 Mache Sie das Glas Wàsser z'zahle!
 
         
-",lustig-drei-schwarze-liebschafte,9,3,0.4248400688695458,0.3333333333333333
+",87,lustig-drei-schwarze-liebschafte,9,3,0.4248400688695458,0.3333333333333333
 175,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2429,7 +2429,7 @@ Warte Se doch nur... derno ne Cuvette, fir 's Wasser dri
                     
 
         
-",lustig-drei-schwarze-liebschafte,44,5,0.5275266322723987,0.11363636363636363
+",87,lustig-drei-schwarze-liebschafte,44,5,0.5275266322723987,0.11363636363636363
 176,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2443,7 +2443,7 @@ Nu denn... so gàn Sie mr mine 13 Franke, ass es züem
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,4,0.4019289309109022,0.19047619047619047
+",88,lustig-drei-schwarze-liebschafte,21,4,0.4019289309109022,0.19047619047619047
 177,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2456,7 +2456,7 @@ Nur g'mach, nur g'mach... Sie sin doch züe arg
                     
 
         
-",lustig-drei-schwarze-liebschafte,34,3,0.43326288507196525,0.08823529411764706
+",88,lustig-drei-schwarze-liebschafte,34,3,0.43326288507196525,0.08823529411764706
 178,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -2470,7 +2470,7 @@ Jo, un ich ha noch alles Wasser in's G'sicht biku un uf
                     
 
         
-",lustig-drei-schwarze-liebschafte,28,4,0.40881445599910193,0.14285714285714285
+",89,lustig-drei-schwarze-liebschafte,28,4,0.40881445599910193,0.14285714285714285
 179,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2481,7 +2481,7 @@ Eh bien, so mache Se-n-emol fertig un sage Se mr, eb ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,26,4,0.4766145840987094,0.15384615384615385
+",89,lustig-drei-schwarze-liebschafte,26,4,0.4766145840987094,0.15384615384615385
 180,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2493,7 +2493,7 @@ Là là, güeter Frind... nur nitt so vif... mr wànn nur 5
                     
 
         
-",lustig-drei-schwarze-liebschafte,28,3,0.5339595440443081,0.10714285714285714
+",90,lustig-drei-schwarze-liebschafte,28,3,0.5339595440443081,0.10714285714285714
 181,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2514,7 +2514,7 @@ Ich will mi glich dervo mache mit, sunscht git's am End
                     
 
         
-",lustig-drei-schwarze-liebschafte,41,7,0.5072481966412752,0.17073170731707318
+",90,lustig-drei-schwarze-liebschafte,41,7,0.5072481966412752,0.17073170731707318
 182,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -2529,7 +2529,7 @@ E-n-Idee!... we mir dà junge Mensch thàte mache
                     
 
         
-",lustig-drei-schwarze-liebschafte,26,4,0.3947628383735038,0.15384615384615385
+",91,lustig-drei-schwarze-liebschafte,26,4,0.3947628383735038,0.15384615384615385
 183,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -2540,7 +2540,7 @@ Das wàr alles Recht... awer wenn d'Jumpfer Venüs nur
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,3,0.47010317504709515,0.15
+",91,lustig-drei-schwarze-liebschafte,20,3,0.47010317504709515,0.15
 184,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2569,7 +2569,7 @@ Das will ich scho ifàdle... ich süech mit ere z'rede...
                     
 
         
-",lustig-drei-schwarze-liebschafte,155,17,0.4558172830056373,0.10967741935483871
+",92,lustig-drei-schwarze-liebschafte,155,17,0.4558172830056373,0.10967741935483871
 185,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -2583,7 +2583,7 @@ Do isch er... awer nitt ohne Mieih! er hat z'erst nit
                     
 
         
-",lustig-drei-schwarze-liebschafte,35,4,0.589220996135338,0.11428571428571428
+",92,lustig-drei-schwarze-liebschafte,35,4,0.589220996135338,0.11428571428571428
 186,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2598,7 +2598,7 @@ schlag
                     
 
         
-",lustig-drei-schwarze-liebschafte,51,7,0.6046937849403428,0.13725490196078433
+",93,lustig-drei-schwarze-liebschafte,51,7,0.6046937849403428,0.13725490196078433
 187,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2615,7 +2615,7 @@ Mir!
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,3,0.5144303438872545,0.10344827586206896
+",93,lustig-drei-schwarze-liebschafte,29,3,0.5144303438872545,0.10344827586206896
 188,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2634,7 +2634,7 @@ Ihne, jà... un 's isch serios... Unser Nochber dert àne
                     
 
         
-",lustig-drei-schwarze-liebschafte,106,17,0.4657767018076528,0.16037735849056603
+",94,lustig-drei-schwarze-liebschafte,106,17,0.4657767018076528,0.16037735849056603
 189,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2653,7 +2653,7 @@ Do steckt ebbes derhinter... ich bi kurios, was er fir
                     
 
         
-",lustig-drei-schwarze-liebschafte,55,8,0.5392231047152487,0.14545454545454545
+",94,lustig-drei-schwarze-liebschafte,55,8,0.5392231047152487,0.14545454545454545
 190,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2666,7 +2666,7 @@ Ah... Sie meine, 's isch üs Interesse, ass, ich Ihne dà
                     
 
         
-",lustig-drei-schwarze-liebschafte,41,3,0.40677972720042205,0.07317073170731707
+",95,lustig-drei-schwarze-liebschafte,41,3,0.40677972720042205,0.07317073170731707
 191,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -2687,7 +2687,7 @@ Décidément, 's g'fallt mr allewil weniger... ich will
                     
 
         
-",lustig-drei-schwarze-liebschafte,71,10,0.5174573661187464,0.14084507042253522
+",95,lustig-drei-schwarze-liebschafte,71,10,0.5174573661187464,0.14084507042253522
 192,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2700,7 +2700,7 @@ Oh! Sie derfe se b'schaüe.. ich ha noch nie kei schönere
                     
 
         
-",lustig-drei-schwarze-liebschafte,33,1,0.4951955974553775,0.030303030303030304
+",96,lustig-drei-schwarze-liebschafte,33,1,0.4951955974553775,0.030303030303030304
 193,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2711,7 +2711,7 @@ Güet... also z'Owe
 .
 
         
-",lustig-drei-schwarze-liebschafte,13,4,0.45038572449350084,0.3076923076923077
+",96,lustig-drei-schwarze-liebschafte,13,4,0.45038572449350084,0.3076923076923077
 194,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -2720,7 +2720,7 @@ Joseph.
 Un fehle Se nitt.
 
         
-",lustig-drei-schwarze-liebschafte,5,1,0.5056188183821976,0.2
+",97,lustig-drei-schwarze-liebschafte,5,1,0.5056188183821976,0.2
 195,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -2731,7 +2731,7 @@ Herr Silwer.
 .
 
         
-",lustig-drei-schwarze-liebschafte,14,3,0.5408087882457314,0.21428571428571427
+",97,lustig-drei-schwarze-liebschafte,14,3,0.5408087882457314,0.21428571428571427
 196,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -2788,7 +2788,7 @@ tiens, 's isch jo nimmig do!... 's wird 's Kind umme trage!... ich will glich pr
           
 
         
-",lustig-drei-schwarze-liebschafte,159,21,0.49221678977242245,0.1320754716981132
+",98,lustig-drei-schwarze-liebschafte,159,21,0.49221678977242245,0.1320754716981132
 197,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -2819,7 +2819,7 @@ Allons, bon jetz isch er furt... in dr Triwel
                     
 
         
-",lustig-drei-schwarze-liebschafte,127,11,0.524037836801278,0.08661417322834646
+",98,lustig-drei-schwarze-liebschafte,127,11,0.524037836801278,0.08661417322834646
 198,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix
@@ -2835,7 +2835,7 @@ Tiens... isch's denn nitt do?
                     
 
         
-",lustig-drei-schwarze-liebschafte,27,1,0.4509780495063294,0.037037037037037035
+",99,lustig-drei-schwarze-liebschafte,27,1,0.4509780495063294,0.037037037037037035
 199,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -2849,7 +2849,7 @@ Jà, jà... Ihr kämme grad recht... do, hiete mr e wenig
                     
 
         
-",lustig-drei-schwarze-liebschafte,34,7,0.4230639111000736,0.20588235294117646
+",99,lustig-drei-schwarze-liebschafte,34,7,0.4230639111000736,0.20588235294117646
 201,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -2860,7 +2860,7 @@ Ihr brüche-n-em nitt z'trinke gà... 's schloft jetz
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,2,0.544037033503672,0.09523809523809523
+",100,lustig-drei-schwarze-liebschafte,21,2,0.544037033503672,0.09523809523809523
 203,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -2885,7 +2885,7 @@ Ihr hàn am meiste Chance, ass es nitt pflànnt, wenn
                     
 
         
-",lustig-drei-schwarze-liebschafte,82,11,0.5036539944015697,0.13414634146341464
+",101,lustig-drei-schwarze-liebschafte,82,11,0.5036539944015697,0.13414634146341464
 204,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3000,7 +3000,7 @@ voilà... das Ding isch schwer!...
  bsch, wsch, wsch...
 
         
-",lustig-drei-schwarze-liebschafte,257,29,0.517468364192888,0.11284046692607004
+",102,lustig-drei-schwarze-liebschafte,257,29,0.517468364192888,0.11284046692607004
 205,comedy,Im Porte-faix si Fraü,F,,,,"
           
 D'Fraü
@@ -3016,7 +3016,7 @@ Ah so!... verwitsch i Di jetz endlig emol!... 's
                     
 
         
-",lustig-drei-schwarze-liebschafte,45,3,0.45994784593083854,0.06666666666666667
+",102,lustig-drei-schwarze-liebschafte,45,3,0.45994784593083854,0.06666666666666667
 206,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3027,7 +3027,7 @@ Was isch Dr, Fraü... ich, glaüb Dü traümsch... 's isch
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,1,0.3561173479361921,0.05
+",103,lustig-drei-schwarze-liebschafte,20,1,0.3561173479361921,0.05
 207,comedy,Im Porte-faix si Fraü,F,,,,"
           
 D'Fraü
@@ -3041,7 +3041,7 @@ Ne süfere Cummission! jà, jà... gàll, d'heim witt als
                     
 
         
-",lustig-drei-schwarze-liebschafte,49,6,0.5071037259790709,0.12244897959183673
+",103,lustig-drei-schwarze-liebschafte,49,6,0.5071037259790709,0.12244897959183673
 208,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3052,7 +3052,7 @@ Los, Fraü... De machsch mi z'lache... 's g'hört jo im
                     
 
         
-",lustig-drei-schwarze-liebschafte,14,4,0.4994410649797121,0.2857142857142857
+",104,lustig-drei-schwarze-liebschafte,14,4,0.4994410649797121,0.2857142857142857
 209,comedy,Im Porte-faix si Fraü,F,,,,"
           
 D'Fraü
@@ -3067,7 +3067,7 @@ Awer ich lach nitt!... ich gang Di geh verklage, ass De
                     
 
         
-",lustig-drei-schwarze-liebschafte,34,2,0.48213284648733973,0.058823529411764705
+",104,lustig-drei-schwarze-liebschafte,34,2,0.48213284648733973,0.058823529411764705
 210,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3079,7 +3079,7 @@ Nei, nei, liewe Fraü... ich ha genüe biku an eim Mol...
                     
 
         
-",lustig-drei-schwarze-liebschafte,23,4,0.61017664555271,0.17391304347826086
+",105,lustig-drei-schwarze-liebschafte,23,4,0.61017664555271,0.17391304347826086
 211,comedy,Im Porte-faix si Fraü,F,,,,"
           
 D'Fraü
@@ -3091,7 +3091,7 @@ Scho güet... ich weiss jetz, was ich wisse will, ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,1,0.4974327231143904,0.047619047619047616
+",105,lustig-drei-schwarze-liebschafte,21,1,0.4974327231143904,0.047619047619047616
 212,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3106,7 +3106,7 @@ Gang züem Kückück wege mir!... me kunnt nitt züem Wort
                     
 
         
-",lustig-drei-schwarze-liebschafte,53,7,0.4322828721994707,0.1320754716981132
+",106,lustig-drei-schwarze-liebschafte,53,7,0.4322828721994707,0.1320754716981132
 213,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3125,7 +3125,7 @@ Dass ka nimmig eso geh mit dere-n-Amsle!... Joseph, gehn
                     
 
         
-",lustig-drei-schwarze-liebschafte,64,7,0.4832592445858756,0.109375
+",106,lustig-drei-schwarze-liebschafte,64,7,0.4832592445858756,0.109375
 214,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix
@@ -3137,7 +3137,7 @@ Porte-faix
 Bsch, wsch, wsch...
 
         
-",lustig-drei-schwarze-liebschafte,10,1,0.4730366448298597,0.1
+",107,lustig-drei-schwarze-liebschafte,10,1,0.4730366448298597,0.1
 215,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3150,7 +3150,7 @@ Tiens!... ich ha g'meint 's seig dr Joseph... was dr
                     
 
         
-",lustig-drei-schwarze-liebschafte,40,8,0.4579101643350634,0.2
+",107,lustig-drei-schwarze-liebschafte,40,8,0.4579101643350634,0.2
 217,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3161,7 +3161,7 @@ Ah ça... güeter Frind, was mache-n-Ihr eigentlig do? was
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,6,0.4690329721010136,0.3333333333333333
+",108,lustig-drei-schwarze-liebschafte,18,6,0.4690329721010136,0.3333333333333333
 218,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3172,7 +3172,7 @@ Ihres, parbleu... Sie sin jo dr Herr Schimmel, nitt
                     
 
         
-",lustig-drei-schwarze-liebschafte,11,3,0.3736111163551692,0.2727272727272727
+",109,lustig-drei-schwarze-liebschafte,11,3,0.3736111163551692,0.2727272727272727
 219,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3181,7 +3181,7 @@ Herr Himmel.
 Himmel.
 
         
-",lustig-drei-schwarze-liebschafte,3,3,0.35670987215926875,1.0
+",109,lustig-drei-schwarze-liebschafte,3,3,0.35670987215926875,1.0
 220,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix.
@@ -3192,7 +3192,7 @@ Himmel wege mir... wege me Sch wà mr nitt dispetiere...
                     
 
         
-",lustig-drei-schwarze-liebschafte,14,1,0.3308470608345092,0.07142857142857142
+",110,lustig-drei-schwarze-liebschafte,14,1,0.3308470608345092,0.07142857142857142
 221,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3242,7 +3242,7 @@ Wie lang gieng's derno, bis ass do uf dr Erde 's Lewe
                     
 
         
-",lustig-drei-schwarze-liebschafte,328,29,0.4866128696939515,0.08841463414634146
+",110,lustig-drei-schwarze-liebschafte,328,29,0.4866128696939515,0.08841463414634146
 222,comedy,Ne Porte-Faix,M,,,,"
           
 Porte-faix
@@ -3259,7 +3259,7 @@ Dà Mann isch e Narr... ich will liewer mine 15 Sü
                     
 
         
-",lustig-drei-schwarze-liebschafte,40,8,0.5355456024838051,0.2
+",111,lustig-drei-schwarze-liebschafte,40,8,0.5355456024838051,0.2
 223,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3287,7 +3287,7 @@ Ich find mich doch efange-n-alt un allei!... ich ha
           
 
         
-",lustig-drei-schwarze-liebschafte,109,14,0.46856815766721954,0.12844036697247707
+",111,lustig-drei-schwarze-liebschafte,109,14,0.46856815766721954,0.12844036697247707
 224,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -3309,7 +3309,7 @@ Ah çà... wo isch er, dà Porte-faix mit mim Kind?... ich
                     
 
         
-",lustig-drei-schwarze-liebschafte,77,8,0.4663132023672908,0.1038961038961039
+",112,lustig-drei-schwarze-liebschafte,77,8,0.4663132023672908,0.1038961038961039
 225,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3321,7 +3321,7 @@ Joseph
 Eh!... tràisch's noch allewil umme?
 
         
-",lustig-drei-schwarze-liebschafte,13,2,0.5338569782524706,0.15384615384615385
+",112,lustig-drei-schwarze-liebschafte,13,2,0.5338569782524706,0.15384615384615385
 226,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -3337,7 +3337,7 @@ Dà g'fallt mr jetz o noch!...
                     
 
         
-",lustig-drei-schwarze-liebschafte,24,2,0.6813173401226988,0.08333333333333333
+",113,lustig-drei-schwarze-liebschafte,24,2,0.6813173401226988,0.08333333333333333
 227,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3352,7 +3352,7 @@ Ich bi g'schwind ku laüfe... ich ha dr Herr Silwer g'sàh
                     
 
         
-",lustig-drei-schwarze-liebschafte,61,7,0.4569786960692212,0.11475409836065574
+",113,lustig-drei-schwarze-liebschafte,61,7,0.4569786960692212,0.11475409836065574
 228,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -3365,7 +3365,7 @@ Wart e wenig... ich will nur g'schwind geh 's Kind lege
                     
 
         
-",lustig-drei-schwarze-liebschafte,18,2,0.4639016199274074,0.1111111111111111
+",114,lustig-drei-schwarze-liebschafte,18,2,0.4639016199274074,0.1111111111111111
 229,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3381,7 +3381,7 @@ Aha... do isch dr Herr Silwer... er isch pressiert, me
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,6,0.41199910634852116,0.14285714285714285
+",114,lustig-drei-schwarze-liebschafte,42,6,0.41199910634852116,0.14285714285714285
 230,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3403,7 +3403,7 @@ Schiergar, jà... denn 's isch mr ebbes possigs
                     
 
         
-",lustig-drei-schwarze-liebschafte,113,11,0.4355708610897549,0.09734513274336283
+",115,lustig-drei-schwarze-liebschafte,113,11,0.4355708610897549,0.09734513274336283
 231,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3422,7 +3422,7 @@ Eh, das isch jo pràchtig, junger Mensch... denn wenn Sie
                     
 
         
-",lustig-drei-schwarze-liebschafte,57,8,0.5152663910876668,0.14035087719298245
+",115,lustig-drei-schwarze-liebschafte,57,8,0.5152663910876668,0.14035087719298245
 232,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3434,7 +3434,7 @@ Herr Silwer
 's Frànzele!
 
         
-",lustig-drei-schwarze-liebschafte,15,3,0.5322249940141685,0.2
+",116,lustig-drei-schwarze-liebschafte,15,3,0.5322249940141685,0.2
 233,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3445,7 +3445,7 @@ Joseph.
                     
 
         
-",lustig-drei-schwarze-liebschafte,11,1,0.7088646669245691,0.09090909090909091
+",116,lustig-drei-schwarze-liebschafte,11,1,0.7088646669245691,0.09090909090909091
 234,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3463,7 +3463,7 @@ Ich kenn se un kenn se nitt... ich ha se scho g'sàh in
                     
 
         
-",lustig-drei-schwarze-liebschafte,43,7,0.522183777589327,0.16279069767441862
+",117,lustig-drei-schwarze-liebschafte,43,7,0.522183777589327,0.16279069767441862
 235,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3474,7 +3474,7 @@ Un... was sage Se derzüe... isch's nitt e schöne
                     
 
         
-",lustig-drei-schwarze-liebschafte,12,1,0.4951955974553775,0.08333333333333333
+",117,lustig-drei-schwarze-liebschafte,12,1,0.4951955974553775,0.08333333333333333
 236,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3489,7 +3489,7 @@ Pràchtig!
           
 
         
-",lustig-drei-schwarze-liebschafte,14,4,0.5452800066479566,0.2857142857142857
+",118,lustig-drei-schwarze-liebschafte,14,4,0.5452800066479566,0.2857142857142857
 237,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3498,7 +3498,7 @@ Joseph.
 Ich ha wohl g'wisst, ass Se-n-Ihne g'falle wird.
 
         
-",lustig-drei-schwarze-liebschafte,11,2,0.35612544592134787,0.18181818181818182
+",118,lustig-drei-schwarze-liebschafte,11,2,0.35612544592134787,0.18181818181818182
 238,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3507,7 +3507,7 @@ Herr Silwer.
 Un Sie sage, se heisst?...
 
         
-",lustig-drei-schwarze-liebschafte,7,2,0.41721318236859717,0.2857142857142857
+",119,lustig-drei-schwarze-liebschafte,7,2,0.41721318236859717,0.2857142857142857
 240,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3523,7 +3523,7 @@ Ich ha se küm kennt vom sàh.
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,7,0.522150876012329,0.1794871794871795
+",120,lustig-drei-schwarze-liebschafte,39,7,0.522150876012329,0.1794871794871795
 241,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3532,7 +3532,7 @@ Joseph.
 Eh, vo mim Herr... vom Herr Himmel.
 
         
-",lustig-drei-schwarze-liebschafte,8,4,0.43057932474883454,0.5
+",120,lustig-drei-schwarze-liebschafte,8,4,0.43057932474883454,0.5
 242,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3544,7 +3544,7 @@ Tiens!... mi Oncle heisst o Himmel... un grad wege dem
                     
 
         
-",lustig-drei-schwarze-liebschafte,31,8,0.4291040826871446,0.25806451612903225
+",121,lustig-drei-schwarze-liebschafte,31,8,0.4291040826871446,0.25806451612903225
 243,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph.
@@ -3553,7 +3553,7 @@ Joseph.
 Was!... dr Herr Himmel isch Ihre-n-Oncle?
 
         
-",lustig-drei-schwarze-liebschafte,9,2,0.3696412778216486,0.2222222222222222
+",121,lustig-drei-schwarze-liebschafte,9,2,0.3696412778216486,0.2222222222222222
 244,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3565,7 +3565,7 @@ Herr Himmel
 Wer red' vom Herr Himmel do... was isch mit em?
 
         
-",lustig-drei-schwarze-liebschafte,18,4,0.3696412778216486,0.2222222222222222
+",122,lustig-drei-schwarze-liebschafte,18,4,0.3696412778216486,0.2222222222222222
 245,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3579,7 +3579,7 @@ Oncle!... liewer Oncle!... ich ha Dich glich erkennt,
                     
 
         
-",lustig-drei-schwarze-liebschafte,22,3,0.46630507098756446,0.13636363636363635
+",122,lustig-drei-schwarze-liebschafte,22,3,0.46630507098756446,0.13636363636363635
 246,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3591,7 +3591,7 @@ Was!... Dü scho do? .. das isch jetz emol brav vo Dir,
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,5,0.35831980642245764,0.1724137931034483
+",123,lustig-drei-schwarze-liebschafte,29,5,0.35831980642245764,0.1724137931034483
 247,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3602,7 +3602,7 @@ Recht gern... awer sag mr, liewer Oncle, Dü witt mich
                     
 
         
-",lustig-drei-schwarze-liebschafte,16,7,0.48744170208973786,0.4375
+",123,lustig-drei-schwarze-liebschafte,16,7,0.48744170208973786,0.4375
 248,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3614,7 +3614,7 @@ Herr Himmel
 Wenn's in mine Kräfte steht... jo.
 
         
-",lustig-drei-schwarze-liebschafte,12,5,0.5525208417377063,0.4166666666666667
+",124,lustig-drei-schwarze-liebschafte,12,5,0.5525208417377063,0.4166666666666667
 249,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3625,7 +3625,7 @@ Eh bien, so mach mich 's Frànzele z'hirothe denn ohne
                     
 
         
-",lustig-drei-schwarze-liebschafte,20,4,0.5130743434707681,0.2
+",124,lustig-drei-schwarze-liebschafte,20,4,0.5130743434707681,0.2
 250,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3640,7 +3640,7 @@ Un er will do im Hüs bliwe mit ere?... Ah... 's isch die
                     
 
         
-",lustig-drei-schwarze-liebschafte,38,6,0.4144279201857211,0.15789473684210525
+",125,lustig-drei-schwarze-liebschafte,38,6,0.4144279201857211,0.15789473684210525
 251,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3651,7 +3651,7 @@ Wenn's e-n-ordlige Jumpfre isch, so will ich mache, was
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,2,0.3696412778216486,0.09523809523809523
+",125,lustig-drei-schwarze-liebschafte,21,2,0.3696412778216486,0.09523809523809523
 252,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3664,7 +3664,7 @@ Oh... nitt wit vo do!... in dem Moment wohnt's dert àne
                     
 
         
-",lustig-drei-schwarze-liebschafte,19,2,0.41721318236859717,0.10526315789473684
+",126,lustig-drei-schwarze-liebschafte,19,2,0.41721318236859717,0.10526315789473684
 253,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3684,7 +3684,7 @@ Achtung!... jetz git's Mischbes... züem Glick, ass sie's
                     
 
         
-",lustig-drei-schwarze-liebschafte,57,10,0.46871059052915676,0.17543859649122806
+",126,lustig-drei-schwarze-liebschafte,57,10,0.46871059052915676,0.17543859649122806
 254,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3695,7 +3695,7 @@ Was! küm do, un scho ne Liebschaft!
           
 
         
-",lustig-drei-schwarze-liebschafte,9,2,0.3696412778216486,0.2222222222222222
+",127,lustig-drei-schwarze-liebschafte,9,2,0.3696412778216486,0.2222222222222222
 255,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer.
@@ -3707,7 +3707,7 @@ Herr Silwer.
                     
 
         
-",lustig-drei-schwarze-liebschafte,29,7,0.4389343051111711,0.2413793103448276
+",127,lustig-drei-schwarze-liebschafte,29,7,0.4389343051111711,0.2413793103448276
 256,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3722,7 +3722,7 @@ Er sàit nitt emol nit!... Gott!... wie isch dà Astronom
                     
 
         
-",lustig-drei-schwarze-liebschafte,28,3,0.543859457919706,0.10714285714285714
+",128,lustig-drei-schwarze-liebschafte,28,3,0.543859457919706,0.10714285714285714
 257,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -3734,7 +3734,7 @@ Kàtele
 Do isch e Brief vom Herr Nochber dert àne.
 
         
-",lustig-drei-schwarze-liebschafte,20,4,0.3989295126130213,0.2
+",128,lustig-drei-schwarze-liebschafte,20,4,0.3989295126130213,0.2
 258,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3751,7 +3751,7 @@ Ah! endlig will er mir se jetz doch gà!... wenn ich ihm
                     
 
         
-",lustig-drei-schwarze-liebschafte,39,7,0.4645060291608828,0.1794871794871795
+",129,lustig-drei-schwarze-liebschafte,39,7,0.4645060291608828,0.1794871794871795
 259,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3772,7 +3772,7 @@ Er... un se güet b'sorge!... das wird e schöne
                     
 
         
-",lustig-drei-schwarze-liebschafte,50,12,0.5116013149704224,0.24
+",129,lustig-drei-schwarze-liebschafte,50,12,0.5116013149704224,0.24
 260,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel
@@ -3784,7 +3784,7 @@ Herr Himmel
 Er?... was will er mache?
 
         
-",lustig-drei-schwarze-liebschafte,10,2,0.3696412778216486,0.2
+",130,lustig-drei-schwarze-liebschafte,10,2,0.3696412778216486,0.2
 261,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3802,7 +3802,7 @@ Was er mit mache will?... hi hi hi...
                     
 
         
-",lustig-drei-schwarze-liebschafte,42,4,0.5189694231771507,0.09523809523809523
+",130,lustig-drei-schwarze-liebschafte,42,4,0.5189694231771507,0.09523809523809523
 262,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3814,7 +3814,7 @@ Herr Silwer
 Was!... Sie, Oncle?
 
         
-",lustig-drei-schwarze-liebschafte,10,4,0.3934272300951229,0.4
+",131,lustig-drei-schwarze-liebschafte,10,4,0.3934272300951229,0.4
 263,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3823,7 +3823,7 @@ Herr Himmel.
 's Frànzele... ah, se heisst Frànzele?
 
         
-",lustig-drei-schwarze-liebschafte,8,2,0.3696412778216486,0.25
+",131,lustig-drei-schwarze-liebschafte,8,2,0.3696412778216486,0.25
 264,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3839,7 +3839,7 @@ Isch er verstopft, dà Mann!...
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,3,0.6061732697233304,0.14285714285714285
+",132,lustig-drei-schwarze-liebschafte,21,3,0.6061732697233304,0.14285714285714285
 265,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3851,7 +3851,7 @@ Ah çà... Joseph... hàn Ihr eigentlig z'tief in's Glas
                     
 
         
-",lustig-drei-schwarze-liebschafte,32,2,0.3696412778216486,0.0625
+",132,lustig-drei-schwarze-liebschafte,32,2,0.3696412778216486,0.0625
 266,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3863,7 +3863,7 @@ Herr Silwer
 Weller vo dàne zwei isch eigentlig g'schittelt?...
 
         
-",lustig-drei-schwarze-liebschafte,13,3,0.5144303438872545,0.23076923076923078
+",133,lustig-drei-schwarze-liebschafte,13,3,0.5144303438872545,0.23076923076923078
 267,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -3877,7 +3877,7 @@ Frànzele... Amsle... Venüs?... was hàn se... was hàn
                     
 
         
-",lustig-drei-schwarze-liebschafte,14,1,0.7088646669245691,0.07142857142857142
+",133,lustig-drei-schwarze-liebschafte,14,1,0.7088646669245691,0.07142857142857142
 268,comedy,JOSEPH KÜTZ,M,,,,"
           
 Joseph
@@ -3896,7 +3896,7 @@ Er schàmt si jetz vor sim Neveu, un will sich üsrede,
                     
 
         
-",lustig-drei-schwarze-liebschafte,52,9,0.5344283515586928,0.17307692307692307
+",134,lustig-drei-schwarze-liebschafte,52,9,0.5344283515586928,0.17307692307692307
 269,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3918,7 +3918,7 @@ Ah!... jetz merk ich glaüb ebbes!...
                     
 
         
-",lustig-drei-schwarze-liebschafte,94,15,0.3842913270113023,0.1595744680851064
+",134,lustig-drei-schwarze-liebschafte,94,15,0.3842913270113023,0.1595744680851064
 270,comedy,Herr SILWER,M,,,,"
           
 Herr Silwer
@@ -3932,7 +3932,7 @@ Aha... jetz merk ich, worum ass er mich hat welle
                     
 
         
-",lustig-drei-schwarze-liebschafte,21,4,0.481153279476107,0.19047619047619047
+",135,lustig-drei-schwarze-liebschafte,21,4,0.481153279476107,0.19047619047619047
 271,comedy,Herr HIMMEL,M,,,,"
           
 Herr Himmel.
@@ -3946,7 +3946,7 @@ Herr Himmel.
           
 
         
-",lustig-drei-schwarze-liebschafte,26,4,0.36004413159200455,0.15384615384615385
+",135,lustig-drei-schwarze-liebschafte,26,4,0.36004413159200455,0.15384615384615385
 274,comedy,KÀTELE,F,,,,"
           
 (Kàtele un Joseph mitnander)
@@ -3974,7 +3974,7 @@ Dà hätt fir uns z'viel G'fohre.
           
 
         
-",lustig-drei-schwarze-liebschafte,36,7,0.6239499003768466,0.19444444444444445
+",137,lustig-drei-schwarze-liebschafte,36,7,0.6239499003768466,0.19444444444444445
 275,comedy,JOSEPH KÜTZ,M,,,,"
           
 (Kàtele un Joseph mitnander)
@@ -4002,7 +4002,7 @@ Dà hätt fir uns z'viel G'fohre.
           
 
         
-",lustig-drei-schwarze-liebschafte,36,7,0.6239499003768466,0.19444444444444445
+",137,lustig-drei-schwarze-liebschafte,36,7,0.6239499003768466,0.19444444444444445
 276,comedy,JOSEPH KÜTZ,M,,,,"
             
 (Joseph un 's Kàtele).
@@ -4021,7 +4021,7 @@ So si mir halt verlore.
             
 
           
-",lustig-drei-schwarze-liebschafte,24,5,0.42180538323434236,0.20833333333333334
+",138,lustig-drei-schwarze-liebschafte,24,5,0.42180538323434236,0.20833333333333334
 277,comedy,KÀTELE,F,,,,"
             
 (Joseph un 's Kàtele).
@@ -4040,7 +4040,7 @@ So si mir halt verlore.
             
 
           
-",lustig-drei-schwarze-liebschafte,24,5,0.42180538323434236,0.20833333333333334
+",138,lustig-drei-schwarze-liebschafte,24,5,0.42180538323434236,0.20833333333333334
 278,comedy,Herr HIMMEL,M,,,,"
             
 (Herr Himmel un Herr Silwer).
@@ -4059,7 +4059,7 @@ So sin Ihr halt verlore.
             
 
           
-",lustig-drei-schwarze-liebschafte,23,7,0.4204933258441294,0.30434782608695654
+",139,lustig-drei-schwarze-liebschafte,23,7,0.4204933258441294,0.30434782608695654
 279,comedy,Herr SILWER,M,,,,"
             
 (Herr Himmel un Herr Silwer).
@@ -4078,4 +4078,4 @@ So sin Ihr halt verlore.
             
 
           
-",lustig-drei-schwarze-liebschafte,23,7,0.4204933258441294,0.30434782608695654
+",139,lustig-drei-schwarze-liebschafte,23,7,0.4204933258441294,0.30434782608695654

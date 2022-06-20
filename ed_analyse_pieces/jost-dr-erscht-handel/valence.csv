@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -10,7 +10,7 @@ LUCIE :
 Dü beeser Mann, ze witt de mich also denne Oowe schun widder ellein lonn ?
 
           
-",jost-dr-erscht-handel,18,4,0.3800230285210297,0.2222222222222222
+",0,jost-dr-erscht-handel,18,4,0.3800230285210297,0.2222222222222222
 1,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -22,7 +22,7 @@ PIERRE :
 Ich muess, lieb’s Lucie ! Mir hann in d'r Societät e pressanti Vorstandssitzung.
 
           
-",jost-dr-erscht-handel,17,2,0.8006909615333561,0.11764705882352941
+",0,jost-dr-erscht-handel,17,2,0.8006909615333561,0.11764705882352941
 2,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -37,7 +37,7 @@ Pierre, wo mir awer noch fianciert sinn g’sinn, hesch de als g’saat: «Die i
 (Hyllt.)
 
           
-",jost-dr-erscht-handel,68,5,0.6411719509548698,0.07352941176470588
+",1,jost-dr-erscht-handel,68,5,0.6411719509548698,0.07352941176470588
 3,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -53,7 +53,7 @@ Wo denksch dü anne, dü Närrele ? Ich habb dich noch grad so lieb wie am ersch
               goldiche Wyewele sinn! Gell, myn Schatzele ?
 
           
-",jost-dr-erscht-handel,74,5,0.7107171886817519,0.06756756756756757
+",1,jost-dr-erscht-handel,74,5,0.7107171886817519,0.06756756756756757
 4,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -63,7 +63,7 @@ Wie wär diss doch so scheen, myn lieb’s Männele, unn gar noch, wenn mir ’s
               im Crédit National gewinne d’häte !
 
           
-",jost-dr-erscht-handel,25,7,0.7300998185755029,0.28
+",2,jost-dr-erscht-handel,25,7,0.7300998185755029,0.28
 5,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -72,7 +72,7 @@ PIERRE:
 Ah, dü meinsch, wyll ich vor vierzeh Daa so e Babierele kauft habb !
 
           
-",jost-dr-erscht-handel,14,1,0.2258885156657865,0.07142857142857142
+",2,jost-dr-erscht-handel,14,1,0.2258885156657865,0.07142857142857142
 6,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -85,7 +85,7 @@ Ja, unn morje isch d’Tirasch
               bekumme ! Wie kennte mir do glicklich läwe !
 
           
-",jost-dr-erscht-handel,36,6,0.7755649040855265,0.16666666666666666
+",3,jost-dr-erscht-handel,36,6,0.7755649040855265,0.16666666666666666
 7,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -95,7 +95,7 @@ Lieb’s Kind, mir hann au ohne e Million, was mir zuem Läwe brüche. Unn wenn 
               dezue noch arich lieb hesch, ze pfyff ich uff alli Millione vun d'r Welt !
 
           
-",jost-dr-erscht-handel,33,5,0.8383272779928411,0.15151515151515152
+",3,jost-dr-erscht-handel,33,5,0.8383272779928411,0.15151515151515152
 8,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -108,7 +108,7 @@ O, dü Liewer !
               anfang, wenn mir ’s grosse Los gewinne.
 
           
-",jost-dr-erscht-handel,41,8,0.7475441394035449,0.1951219512195122
+",4,jost-dr-erscht-handel,41,8,0.7475441394035449,0.1951219512195122
 9,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -122,7 +122,7 @@ Jetzert isch die Frau wajer schun am Gewinne unn hett erscht noch vor zwei Minü
               !
 
           
-",jost-dr-erscht-handel,38,5,0.755590861665666,0.13157894736842105
+",4,jost-dr-erscht-handel,38,5,0.755590861665666,0.13157894736842105
 10,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -132,7 +132,7 @@ Warum au nitt ? Zue mym grosse Glick in d'r Lieb basst numme ’s gross Los im C
               National! Jetzt saa awer emool, Alterle, wie dü diss viele Geld anleije dhätsch ?
 
           
-",jost-dr-erscht-handel,31,7,0.7155204416598894,0.22580645161290322
+",5,jost-dr-erscht-handel,31,7,0.7155204416598894,0.22580645161290322
 11,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -142,7 +142,7 @@ Na, Lucie, dir zelieb will ich emool annemme, ’s wär so wytt! Uff jede Fall d
               mir defur bombe- sicheri Staats- unn Indüschtriebabierer kaufe.
 
           
-",jost-dr-erscht-handel,28,3,0.6232026569470442,0.10714285714285714
+",5,jost-dr-erscht-handel,28,3,0.6232026569470442,0.10714285714285714
 12,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -151,7 +151,7 @@ LUCIE :
 Diss will ich gelte lonn.
 
           
-",jost-dr-erscht-handel,6,2,0.4639022815996394,0.3333333333333333
+",6,jost-dr-erscht-handel,6,2,0.4639022815996394,0.3333333333333333
 14,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -165,7 +165,7 @@ Ynbruchssicher ? Um’s Gott's Will, so e Kaschte kummt nitt in unseri Wohnung !
               nimmi sicher !
 
           
-",jost-dr-erscht-handel,38,5,0.5971369885136179,0.13157894736842105
+",7,jost-dr-erscht-handel,38,5,0.5971369885136179,0.13157894736842105
 15,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -178,7 +178,7 @@ Dü hesch erächt, Lucie! M'r läst jo dato nix meh als wie vun Ynbrich, Mord un
                 begeischtert worre vum Gedanke, ’s gross Los schun gewunne ze hann.)
 
           
-",jost-dr-erscht-handel,58,5,0.5491910258459172,0.08620689655172414
+",7,jost-dr-erscht-handel,58,5,0.5491910258459172,0.08620689655172414
 16,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -191,7 +191,7 @@ Gewiss, Pierre, diss isch’s sicherscht Middel! So wurd’s gemacht !
               dem viele Geld numme an ?
 
           
-",jost-dr-erscht-handel,35,5,0.6302223664849698,0.14285714285714285
+",8,jost-dr-erscht-handel,35,5,0.6302223664849698,0.14285714285714285
 17,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -200,7 +200,7 @@ PIERRE :
 Diss will guet iwerleijt sinn !
 
           
-",jost-dr-erscht-handel,6,2,0.7583180872258617,0.3333333333333333
+",8,jost-dr-erscht-handel,6,2,0.7583180872258617,0.3333333333333333
 18,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -209,7 +209,7 @@ LUCIE :
 Arich guet sogar !
 
           
-",jost-dr-erscht-handel,4,1,0.8496361744517235,0.25
+",9,jost-dr-erscht-handel,4,1,0.8496361744517235,0.25
 21,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -218,7 +218,7 @@ PIERRE :
 Bekanntlich läwe d’amerikanische Millionär au ganz einfach !
 
           
-",jost-dr-erscht-handel,9,3,0.7696904478959475,0.3333333333333333
+",10,jost-dr-erscht-handel,9,3,0.7696904478959475,0.3333333333333333
 22,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -227,7 +227,7 @@ LUCIE :
 Ei, ’s isch jo wohr ! Mir zähle jo au zue de Mil- lionär !
 
           
-",jost-dr-erscht-handel,15,2,0.7367709147687017,0.13333333333333333
+",11,jost-dr-erscht-handel,15,2,0.7367709147687017,0.13333333333333333
 23,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -237,7 +237,7 @@ Unn wie die, so mache mir’s au ! D’r wohr Rych- dum zeijt sich in d'r Einfac
               !
 
           
-",jost-dr-erscht-handel,19,1,0.8235551257078202,0.05263157894736842
+",11,jost-dr-erscht-handel,19,1,0.8235551257078202,0.05263157894736842
 24,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -246,7 +246,7 @@ LUCIE :
 Awer so alle Johr e kleini Erholungsreis kenne mir uns doch gunne ?
 
           
-",jost-dr-erscht-handel,13,1,0.4500714498188866,0.07692307692307693
+",12,jost-dr-erscht-handel,13,1,0.4500714498188866,0.07692307692307693
 26,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -257,7 +257,7 @@ Do bin ich d'accord mit dir, Mann. Awer weisch, liewer Pierre, e bissel guet ang
               denne wunderbar Belzmantel, wo mir gescht in d'r Stadt g’sähn hann ?
 
           
-",jost-dr-erscht-handel,43,9,0.7304534963255627,0.20930232558139536
+",13,jost-dr-erscht-handel,43,9,0.7304534963255627,0.20930232558139536
 27,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -266,7 +266,7 @@ PIERRE :
 Denne kennte mir uns im Notfall noch leischte !
 
           
-",jost-dr-erscht-handel,9,2,0.5033937706172024,0.2222222222222222
+",13,jost-dr-erscht-handel,9,2,0.5033937706172024,0.2222222222222222
 29,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -276,7 +276,7 @@ Lucie, ich bin zwar fur’s Spare, awer zue’me Belzmantel g’heert nadierlich
               anständiger Huet.
 
           
-",jost-dr-erscht-handel,17,1,0.7526753128891448,0.058823529411764705
+",14,jost-dr-erscht-handel,17,1,0.7526753128891448,0.058823529411764705
 30,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -287,7 +287,7 @@ Unn denne syedich Morjerock muess ich partout au hann! Ich schwärm schun lang d
               rüscht unn kracht !
 
           
-",jost-dr-erscht-handel,35,5,0.5345733403003019,0.14285714285714285
+",15,jost-dr-erscht-handel,35,5,0.5345733403003019,0.14285714285714285
 31,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -297,7 +297,7 @@ Frau, heer uff! Meinsch denn dü, myni Million isch ohne End oder e Schlang, wo 
               in de Waddel bysst ?
 
           
-",jost-dr-erscht-handel,21,2,0.44499999999999995,0.09523809523809523
+",15,jost-dr-erscht-handel,21,2,0.44499999999999995,0.09523809523809523
 32,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -311,7 +311,7 @@ Unn e greesseri Wohnung miehn mir jetzt au hann — numme so sechs, siwe Zimmer 
               tapeziert, unn no noch...
 
           
-",jost-dr-erscht-handel,42,3,0.696003442916845,0.07142857142857142
+",16,jost-dr-erscht-handel,42,3,0.696003442916845,0.07142857142857142
 33,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -326,7 +326,7 @@ Frau, du rüiniersch mich jo noch!
  Hesch dü am End noch meh so Winsch ?
 
           
-",jost-dr-erscht-handel,33,2,0.4638532159151274,0.06060606060606061
+",16,jost-dr-erscht-handel,33,2,0.4638532159151274,0.06060606060606061
 34,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -338,7 +338,7 @@ LUCIE :
 E Automobil muess nadier- lich au noch fur mich here !
 
           
-",jost-dr-erscht-handel,17,1,0.5530432699903417,0.058823529411764705
+",17,jost-dr-erscht-handel,17,1,0.5530432699903417,0.058823529411764705
 35,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -351,7 +351,7 @@ So? Isch diss jetzt endlich alles, was de witt ? Diss fangt jo schun scheen an !
               unn ich, unn ich ? Ich bin wohl Essi !
 
           
-",jost-dr-erscht-handel,28,5,0.6115741735647885,0.17857142857142858
+",17,jost-dr-erscht-handel,28,5,0.6115741735647885,0.17857142857142858
 36,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -363,7 +363,7 @@ LUCIE :
 Awer Pierre! In was fur eme Ton reddsch denn dü uff’s Mool mit mir ?
 
           
-",jost-dr-erscht-handel,19,1,0.714,0.05263157894736842
+",18,jost-dr-erscht-handel,19,1,0.714,0.05263157894736842
 37,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -375,7 +375,7 @@ PIERRE :
               !
 
           
-",jost-dr-erscht-handel,50,4,0.7017294310134521,0.08
+",18,jost-dr-erscht-handel,50,4,0.7017294310134521,0.08
 38,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -384,7 +384,7 @@ LUCIE :
 Mir miehn awer doch als vun Zytt ze Zytt G’sell- schafte gänn ?
 
           
-",jost-dr-erscht-handel,14,1,0.5311555130794368,0.07142857142857142
+",19,jost-dr-erscht-handel,14,1,0.5311555130794368,0.07142857142857142
 39,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -395,7 +395,7 @@ Nix do! Mir sinn Millionär unn läwe waje dem ganz einfach ! Uess dem Grund wur
               fresse dhuet. Awer e grosser Ra- dio-Apperat kummt mir ins Hüss !
 
           
-",jost-dr-erscht-handel,44,7,0.6447228355374156,0.1590909090909091
+",19,jost-dr-erscht-handel,44,7,0.6447228355374156,0.1590909090909091
 41,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -408,7 +408,7 @@ Gewiss, Kind! Weisch, ich bin allewyl arich müsikalisch g’sinn ! Wie scheen u
 :
 
           
-",jost-dr-erscht-handel,34,4,0.7605905722292835,0.11764705882352941
+",20,jost-dr-erscht-handel,34,4,0.7605905722292835,0.11764705882352941
 42,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -421,7 +421,7 @@ Ach geh! Loss mich gehn ! So e bleeder Babbelkaschte ! Ich will iwer- haupt kein
               Müsik heere !
 
           
-",jost-dr-erscht-handel,25,3,0.43885884360579985,0.12
+",21,jost-dr-erscht-handel,25,3,0.43885884360579985,0.12
 43,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -433,7 +433,7 @@ PIERRE :
 Awer Lucie !
 
           
-",jost-dr-erscht-handel,6,1,0.685667296580669,0.16666666666666666
+",21,jost-dr-erscht-handel,6,1,0.685667296580669,0.16666666666666666
 44,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -444,7 +444,7 @@ Unn no, wo solle mir denne Apperat iwerhaupt annestelle? Mir hann jo schun so ke
               !
 
           
-",jost-dr-erscht-handel,33,2,0.6378673043666719,0.06060606060606061
+",22,jost-dr-erscht-handel,33,2,0.6378673043666719,0.06060606060606061
 45,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -459,7 +459,7 @@ Babbel nitt so daub, Lucie! Am Platz fählt’s nitt. Im Notfall wärfe mir einf
                 Kaschte.)
 
           
-",jost-dr-erscht-handel,39,7,0.4821418260047529,0.1794871794871795
+",22,jost-dr-erscht-handel,39,7,0.4821418260047529,0.1794871794871795
 46,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -472,7 +472,7 @@ Was saasch dü do, Pierre ? Alter Grimpel? Was meinsch dü mit dem Üssdruck ? D
               am End gar...
 
           
-",jost-dr-erscht-handel,23,3,0.309433518439646,0.13043478260869565
+",23,jost-dr-erscht-handel,23,3,0.309433518439646,0.13043478260869565
 47,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -490,7 +490,7 @@ Sej doch nitt so komisch, Lucie! Na- dierlich mein ich dyni beriehmt, heilich Ko
               brüche, wo mir uns yngericht hann.
 
           
-",jost-dr-erscht-handel,68,11,0.632920078065527,0.16176470588235295
+",23,jost-dr-erscht-handel,68,11,0.632920078065527,0.16176470588235295
 48,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -503,7 +503,7 @@ Ah, jetzt erfahrt m'r erscht, ass der Herr andersch redd, als wie’r denke dhue
               Diss hätt ich vor d'r Hochzytt wisse sotte !
 
           
-",jost-dr-erscht-handel,26,3,0.5415861273731635,0.11538461538461539
+",24,jost-dr-erscht-handel,26,3,0.5415861273731635,0.11538461538461539
 49,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -513,7 +513,7 @@ Geh, Lucie, verstell dich nitt so! Dü denksch jo au nitt andersch als wie ich !
               Alterdum in Ehre, awer fur so moderni Lytt wie mir isch’r nix. Mir läwe liewer
 
           
-",jost-dr-erscht-handel,32,4,0.8055235682082208,0.125
+",24,jost-dr-erscht-handel,32,4,0.8055235682082208,0.125
 50,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -532,7 +532,7 @@ Was ? E alti, wacklichti Kischt ? Grum- beerekischt ?
               dem ehrwirdige Meewel hängt myni ganz Kinderzytt mit z’samme !
 
           
-",jost-dr-erscht-handel,53,5,0.5053036932637651,0.09433962264150944
+",25,jost-dr-erscht-handel,53,5,0.5053036932637651,0.09433962264150944
 51,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -546,7 +546,7 @@ Herrgott ! Wär numme nitt au noch senti- mental, Lucie ! Stell myntwäje denne 
               emool so e Iwerspanntheit er- läbt !
 
           
-",jost-dr-erscht-handel,41,5,0.49637022980780277,0.12195121951219512
+",25,jost-dr-erscht-handel,41,5,0.49637022980780277,0.12195121951219512
 53,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -559,7 +559,7 @@ Ja, Iwerspanntheit ! E Radio-Apperat wurd ang’schafft, und die Arche Noah dort
               verschwind, unn dodemit basta !
 
           
-",jost-dr-erscht-handel,19,2,0.4830095321773557,0.10526315789473684
+",26,jost-dr-erscht-handel,19,2,0.4830095321773557,0.10526315789473684
 54,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -574,7 +574,7 @@ Unn die Kommod
               do!
 
           
-",jost-dr-erscht-handel,22,1,0.5235804264063065,0.045454545454545456
+",27,jost-dr-erscht-handel,22,1,0.5235804264063065,0.045454545454545456
 57,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -588,7 +588,7 @@ Dyni Schwell? Dyni? Na, ich will dir zeije, wer dohinne ze kummediere hett !
               wurmstichig Stickel Meewel dort furtkummt, unn ich, will, ass mir g’foljt wurd!
 
           
-",jost-dr-erscht-handel,56,3,0.6542858494881386,0.05357142857142857
+",28,jost-dr-erscht-handel,56,3,0.6542858494881386,0.05357142857142857
 58,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -599,7 +599,7 @@ Dü do Herr unn Meischter ? Dü machsch mich jo lache! Wo wohnsch denn dü iwerh
               mitgebroocht ! 50 000 Franke sinn’s g’sinn !
 
           
-",jost-dr-erscht-handel,41,4,0.6934900332635637,0.0975609756097561
+",29,jost-dr-erscht-handel,41,4,0.6934900332635637,0.0975609756097561
 59,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -612,7 +612,7 @@ Nein, numme 49 999 Franke, denn e Franke hett d'r Quittungstimbre koscht, wo mir
               Mamme abgeknepft hett! LUCIE ! O, dü Undankbarer !
 
           
-",jost-dr-erscht-handel,26,2,0.5095201031688095,0.07692307692307693
+",29,jost-dr-erscht-handel,26,2,0.5095201031688095,0.07692307692307693
 63,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -621,7 +621,7 @@ LUCIE :
 O, dü Schlächter! Awer myni Mamme hett mich jo allewyll vor dir gewarnt !
 
           
-",jost-dr-erscht-handel,14,3,0.4148543146604857,0.21428571428571427
+",31,jost-dr-erscht-handel,14,3,0.4148543146604857,0.21428571428571427
 64,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -632,7 +632,7 @@ Allewäj ? Die guet Frau! Ich hätt nie gedenkt, ass sie’s so guet mit mir mei
 (Ab nooch hinte unn schlaat d’Dier zue.)
 
           
-",jost-dr-erscht-handel,27,2,0.8496361744517235,0.07407407407407407
+",32,jost-dr-erscht-handel,27,2,0.8496361744517235,0.07407407407407407
 65,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -646,7 +646,7 @@ O, wie bin ich doch so arich unglicklich ! Unn so härzlos verfahrt myner Mann m
               !
 
           
-",jost-dr-erscht-handel,42,6,0.5331101560658155,0.14285714285714285
+",32,jost-dr-erscht-handel,42,6,0.5331101560658155,0.14285714285714285
 66,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -661,7 +661,7 @@ Unn nitt ass de dich jetzt stundelang annehucksch unn plärrsch ! Die Arweit kan
                 unn schlaat d’Dier zue.)
 
           
-",jost-dr-erscht-handel,48,3,0.7050517730950404,0.0625
+",33,jost-dr-erscht-handel,48,3,0.7050517730950404,0.0625
 67,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -726,7 +726,7 @@ Oho-o-o! Unn diss soll ich mir biete lonn ! So redd myn Mann mit mir — der Man
                 rächts.)
 
           
-",jost-dr-erscht-handel,519,67,0.5401639357389661,0.12909441233140656
+",33,jost-dr-erscht-handel,519,67,0.5401639357389661,0.12909441233140656
 68,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -739,7 +739,7 @@ Na, isch denn by mym Schweschterle niemes d’heim ? Steckt am End ’s jung, ve
               Ehpärel noch odder schun widder in de Feddere? Ah, do kummt schynnt’s ebber !
 
           
-",jost-dr-erscht-handel,43,2,0.7500019138596096,0.046511627906976744
+",34,jost-dr-erscht-handel,43,2,0.7500019138596096,0.046511627906976744
 69,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -759,7 +759,7 @@ Worum kann denn ich nitt au emool im Salon odder im Fremdezimmer schloofe ! Ja, 
               dü bisch’s, liewer Brueder! Wo kummsch denn dü so unverhofft here ?
 
           
-",jost-dr-erscht-handel,79,11,0.594297040288258,0.13924050632911392
+",34,jost-dr-erscht-handel,79,11,0.594297040288258,0.13924050632911392
 70,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -770,7 +770,7 @@ Direkt üss Amerika, lieb’s Schweschterle ! Unser Schiff isch dato uff’re Eu
               gedohn, ass ich nitt by dynere Hoch- zytt habb kenne sinn !
 
           
-",jost-dr-erscht-handel,42,5,0.5523296411254447,0.11904761904761904
+",35,jost-dr-erscht-handel,42,5,0.5523296411254447,0.11904761904761904
 72,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -779,7 +779,7 @@ ALBERT :
 Hoffetlich lehr ich jetzt hytt dyne Mann kenne ?
 
           
-",jost-dr-erscht-handel,9,2,0.6888128222742155,0.2222222222222222
+",36,jost-dr-erscht-handel,9,2,0.6888128222742155,0.2222222222222222
 74,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -789,7 +789,7 @@ Awer was sieh ich denn ? Dü hesch jo ganz ver- hyllti Aue! Hett’s am End e Ge
               gänn am Eh- standshimmel ?
 
           
-",jost-dr-erscht-handel,25,4,0.5854822045094628,0.16
+",37,jost-dr-erscht-handel,25,4,0.5854822045094628,0.16
 75,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -801,7 +801,7 @@ LUCIE :
 Jo, Albert, wo denksch dü anne !
 
           
-",jost-dr-erscht-handel,10,1,0.229,0.1
+",37,jost-dr-erscht-handel,10,1,0.229,0.1
 76,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -811,7 +811,7 @@ Na, na! Sej doch ehrlich, Lucie ! Box gitt’s jo in jedere Eh emool, unn zuedem
               jo ’s Boxe e ganz moderner, erlaubter unn au guet bezahlter Sport !
 
           
-",jost-dr-erscht-handel,30,6,0.6934950021254264,0.2
+",38,jost-dr-erscht-handel,30,6,0.6934950021254264,0.2
 77,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -820,7 +820,7 @@ LUCIE :
 Geh, Albert, loss die Plän uff d'r Sytt !
 
           
-",jost-dr-erscht-handel,9,3,0.5550680096693329,0.3333333333333333
+",38,jost-dr-erscht-handel,9,3,0.5550680096693329,0.3333333333333333
 78,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -830,7 +830,7 @@ Unn was soll do diss Bett-Inventar bedytte ? Maidel, ich root dir, mach liewer d
               kein Plän!
 
           
-",jost-dr-erscht-handel,17,4,0.7469714119677039,0.23529411764705882
+",39,jost-dr-erscht-handel,17,4,0.7469714119677039,0.23529411764705882
 79,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -841,7 +841,7 @@ Wo denksch dü anne ! Kumm, setz dich liewer unn verzehl, was dü alles erläbt 
               Albert, saa emool, was fur e Läwe fiehre denn dorte d’Fraue ?
 
           
-",jost-dr-erscht-handel,45,6,0.7011895200820969,0.13333333333333333
+",39,jost-dr-erscht-handel,45,6,0.7011895200820969,0.13333333333333333
 80,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -850,7 +850,7 @@ ALBERT :
 Hm, sie sinn au nitt schlächter, awer au nitt bes- ser als wie unseri.
 
           
-",jost-dr-erscht-handel,16,2,0.19794523477004314,0.125
+",40,jost-dr-erscht-handel,16,2,0.19794523477004314,0.125
 81,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -859,7 +859,7 @@ LUCIE :
 Diss will ich nitt wisse ! Ich mein, wie s’e vun de Männer b’handelt wäre ?
 
           
-",jost-dr-erscht-handel,16,2,0.699926220017024,0.125
+",40,jost-dr-erscht-handel,16,2,0.699926220017024,0.125
 82,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -869,7 +869,7 @@ Ah so! Hm, wemm’r s’e lieb hett, arich guet ; wenn nitt, ze gitt m'r sich iw
               nitt mit’ne ab!
 
           
-",jost-dr-erscht-handel,21,2,0.8744388537154619,0.09523809523809523
+",41,jost-dr-erscht-handel,21,2,0.8744388537154619,0.09523809523809523
 83,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -885,7 +885,7 @@ Diss letscht stimmt exakt uff de Pierre ! Kein Zwyefel meh, ass’r mich nimmi l
               ?
 
           
-",jost-dr-erscht-handel,31,5,0.8337391604579439,0.16129032258064516
+",41,jost-dr-erscht-handel,31,5,0.8337391604579439,0.16129032258064516
 84,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -894,7 +894,7 @@ ALBERT:
 Ich glaub jetzt doch ball, ass de mit dym Mann Kippes hesch, Lucie ?
 
           
-",jost-dr-erscht-handel,14,3,0.5595976742252938,0.21428571428571427
+",42,jost-dr-erscht-handel,14,3,0.5595976742252938,0.21428571428571427
 85,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -906,7 +906,7 @@ LUCIE :
 Gibb mir Antwort uff myni Fröj, Albert !
 
           
-",jost-dr-erscht-handel,11,3,0.6044172361686271,0.2727272727272727
+",42,jost-dr-erscht-handel,11,3,0.6044172361686271,0.2727272727272727
 86,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -916,7 +916,7 @@ Wie d’Madame kummediere kann ! Also, d’ameri- kanisch Frau hett’s nämlich
               wie d'r Mann.
 
           
-",jost-dr-erscht-handel,20,3,0.7054433145558979,0.15
+",43,jost-dr-erscht-handel,20,3,0.7054433145558979,0.15
 87,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -931,7 +931,7 @@ Aha! Numme mir sinn noch zeh Stund hinter'm Mond d’heim !
               muess s’e au de Bossel mache in d'r Hüsshaltung so wie by uns ?
 
           
-",jost-dr-erscht-handel,35,1,0.7272892855744911,0.02857142857142857
+",43,jost-dr-erscht-handel,35,1,0.7272892855744911,0.02857142857142857
 88,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -943,7 +943,7 @@ ALBERT :
 Na, ihr zwei miehn mir jo e wieschti Ba- taille g’schlaawe hann!
 
           
-",jost-dr-erscht-handel,17,3,0.44674102145233735,0.17647058823529413
+",44,jost-dr-erscht-handel,17,3,0.44674102145233735,0.17647058823529413
 90,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -954,7 +954,7 @@ Nitt noch meh? Diss G’ständnis langt mir ! Fur awer d’Wohret ze redde, ze m
               d'r Mann au schafft.
 
           
-",jost-dr-erscht-handel,35,3,0.7735051402463063,0.08571428571428572
+",45,jost-dr-erscht-handel,35,3,0.7735051402463063,0.08571428571428572
 92,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -964,7 +964,7 @@ Au do hett sich in letschter Zytt e Usswäj g’funde. ’s gitt nämlich jetzt 
               männlichi Dienscht- maidle.
 
           
-",jost-dr-erscht-handel,21,1,0.6041521774765466,0.047619047619047616
+",46,jost-dr-erscht-handel,21,1,0.6041521774765466,0.047619047619047616
 93,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -976,7 +976,7 @@ LUCIE :
 ` Was dü nitt saasch, Albert !
 
           
-",jost-dr-erscht-handel,10,1,0.5575756464635403,0.1
+",46,jost-dr-erscht-handel,10,1,0.5575756464635403,0.1
 94,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -989,7 +989,7 @@ Ja, so isch’s en effet! Diss sinn Männer üss’m Volk, wo sich, so wie by un
               hesch!
 
           
-",jost-dr-erscht-handel,72,8,0.6357251880536576,0.1111111111111111
+",47,jost-dr-erscht-handel,72,8,0.6357251880536576,0.1111111111111111
 95,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1001,7 +1001,7 @@ LUCIE :
 Ganz erächt so!
 
           
-",jost-dr-erscht-handel,8,1,0.8004800063959763,0.125
+",47,jost-dr-erscht-handel,8,1,0.8004800063959763,0.125
 96,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -1012,7 +1012,7 @@ Unn wer weiss, wie lang ass’s noch geht, bis der Mode au by uns yng’fiehrt w
               de Männer an !
 
           
-",jost-dr-erscht-handel,42,7,0.6097725020583354,0.16666666666666666
+",48,jost-dr-erscht-handel,42,7,0.6097725020583354,0.16666666666666666
 97,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1028,7 +1028,7 @@ Halt, e'n Idee! Ja, so wurd’s gemacht ! Uff e letschter Versuech will ich’s 
               ich mit mym Mann unneins bin unn ass ich glaub, ass er mich nimm lieb hett!
 
           
-",jost-dr-erscht-handel,55,13,0.638194441685698,0.23636363636363636
+",48,jost-dr-erscht-handel,55,13,0.638194441685698,0.23636363636363636
 99,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1037,7 +1037,7 @@ LUCIE :
 Diss will ich jo grad sähn, unn waje dem sollsch dü mir hälfe deby.
 
           
-",jost-dr-erscht-handel,15,2,0.7661825730244102,0.13333333333333333
+",49,jost-dr-erscht-handel,15,2,0.7661825730244102,0.13333333333333333
 100,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1054,7 +1054,7 @@ Ich? Ich mecht wisse, wie? Weisch, ’s isch allewyll g’fährlich, wemm’r de
               üssfindisch mache, wo im nämliche Coupé mit mir uff hie g’fahre isch !
 
           
-",jost-dr-erscht-handel,54,7,0.5008687067778231,0.12962962962962962
+",50,jost-dr-erscht-handel,54,7,0.5008687067778231,0.12962962962962962
 101,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1063,7 +1063,7 @@ LUCIE :
 Allons, Albert, fur so e Liewesdienscht hett m'r doch allewyl Zytt !
 
           
-",jost-dr-erscht-handel,12,1,0.6185883572349138,0.08333333333333333
+",50,jost-dr-erscht-handel,12,1,0.6185883572349138,0.08333333333333333
 103,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1072,7 +1072,7 @@ LUCIE :
 Ganz einfach : Dü spielsch myn Dienschtmaidel !
 
           
-",jost-dr-erscht-handel,7,2,0.7184284214734238,0.2857142857142857
+",51,jost-dr-erscht-handel,7,2,0.7184284214734238,0.2857142857142857
 105,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1081,7 +1081,7 @@ LUCIE:
 Worum nitt? Grad so wie in Amerika !
 
           
-",jost-dr-erscht-handel,8,1,0.6993651460488204,0.125
+",52,jost-dr-erscht-handel,8,1,0.6993651460488204,0.125
 106,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1094,7 +1094,7 @@ Nein, do mach ich nitt mit! Ich bin nitt so rächtshawerisch, ass ich, in andere
               ihri Rächter eweggnemm, nitt emool in de Fraue ihre Rächt uff Pflicht !
 
           
-",jost-dr-erscht-handel,36,5,0.6681951314369792,0.1388888888888889
+",53,jost-dr-erscht-handel,36,5,0.6681951314369792,0.1388888888888889
 107,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1108,7 +1108,7 @@ Albert, ich bitt dich! ’s isch jo nitt fur lang, numme fur e Daa odder zwei. B
               !
 
           
-",jost-dr-erscht-handel,39,5,0.5568732035976117,0.1282051282051282
+",53,jost-dr-erscht-handel,39,5,0.5568732035976117,0.1282051282051282
 109,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1123,7 +1123,7 @@ Erschtens durch diss, ass ich wie d’Amerikanere mir e männlich’s Dienschtma
               unn losst mich nitt mit’m ellein !
 
           
-",jost-dr-erscht-handel,65,8,0.6007983579550416,0.12307692307692308
+",54,jost-dr-erscht-handel,65,8,0.6007983579550416,0.12307692307692308
 110,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -1132,7 +1132,7 @@ ALBERT:
 Diss kann jo Mord unn Doodschlaa gänn !
 
           
-",jost-dr-erscht-handel,8,2,0.28537631782700307,0.25
+",55,jost-dr-erscht-handel,8,2,0.28537631782700307,0.25
 111,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1143,7 +1143,7 @@ Loss mich numme mache, unn’s wurd schun nix bassiere ! D’Hauptroll haw ich z
               verhalte hann.
 
           
-",jost-dr-erscht-handel,36,4,0.5219130612227344,0.1111111111111111
+",55,jost-dr-erscht-handel,36,4,0.5219130612227344,0.1111111111111111
 112,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1159,7 +1159,7 @@ Mir an! Mir soll awer noch emool einer saawe, ass numme Amerika ellein ’s Land
 (Schluss vum erschte Akt.)
 
           
-",jost-dr-erscht-handel,52,2,0.43659098553163556,0.038461538461538464
+",56,jost-dr-erscht-handel,52,2,0.43659098553163556,0.038461538461538464
 113,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1201,7 +1201,7 @@ Heilich, wie dhuet mir d'r Kopf brumme ! Diss isch mir gescht oowe widder emool 
               fröje kenne, wenn s’e mit d'r Arweit nimmi ellein ferti wurd unn e Hilf brücht !
 
           
-",jost-dr-erscht-handel,306,22,0.524795629898416,0.0718954248366013
+",56,jost-dr-erscht-handel,306,22,0.524795629898416,0.0718954248366013
 114,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1213,7 +1213,7 @@ ALBERT :
 Guete Morje, Herr!
 
           
-",jost-dr-erscht-handel,10,4,0.5761423153120856,0.4
+",57,jost-dr-erscht-handel,10,4,0.5761423153120856,0.4
 115,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1226,7 +1226,7 @@ Was isch denn diss? Wie kummt diss Mannsbild in myni Wohnung ? Bin ich denn im K
               noch nitt ganz klar ?
 
           
-",jost-dr-erscht-handel,25,2,0.7881845090072837,0.08
+",57,jost-dr-erscht-handel,25,2,0.7881845090072837,0.08
 116,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1235,7 +1235,7 @@ ALBERT :
 Do bring ich de Café, Herr !
 
           
-",jost-dr-erscht-handel,7,1,0.578708951845571,0.14285714285714285
+",58,jost-dr-erscht-handel,7,1,0.578708951845571,0.14285714285714285
 117,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1245,7 +1245,7 @@ Ja, wer sinn Sie denn iwerhaupt? Sinn Sie e Maidel, wo Hosse an hett, oder sinn 
               Bue, wo d’Hoor g’schnitte hett ? Wie heisse Sie denn ?
 
           
-",jost-dr-erscht-handel,29,4,0.5849632807548858,0.13793103448275862
+",58,jost-dr-erscht-handel,29,4,0.5849632807548858,0.13793103448275862
 118,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1254,7 +1254,7 @@ ALBERT :
 Albert, Herr !
 
           
-",jost-dr-erscht-handel,3,1,0.578708951845571,0.3333333333333333
+",59,jost-dr-erscht-handel,3,1,0.578708951845571,0.3333333333333333
 119,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1264,7 +1264,7 @@ Also doch e Mannsstick ! Ja, Mensch, was sueche Sie denn no do in mynere
               Gerechtigkeit ?
 
           
-",jost-dr-erscht-handel,16,3,0.7032208588058898,0.1875
+",59,jost-dr-erscht-handel,16,3,0.7032208588058898,0.1875
 120,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -1273,7 +1273,7 @@ ALBERT:
 Ei, ich bin ’s nej Dienschtmaidel, Herr !
 
           
-",jost-dr-erscht-handel,8,1,0.578708951845571,0.125
+",60,jost-dr-erscht-handel,8,1,0.578708951845571,0.125
 121,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1289,7 +1289,7 @@ Jetzt schlaat’s dryzeh ! Wenn’r s’wennischt noch « Dienschtmann » g’sa
               Sie mir zuem Dembel nüsskumme !
 
           
-",jost-dr-erscht-handel,48,3,0.5713900305061294,0.0625
+",60,jost-dr-erscht-handel,48,3,0.5713900305061294,0.0625
 122,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -1298,7 +1298,7 @@ ALBERT:
 ’s dhuet mir leid. awer ich folj numme in d’r Madame, wo mich angaschiert hett.
 
           
-",jost-dr-erscht-handel,16,2,0.3656921081434974,0.125
+",61,jost-dr-erscht-handel,16,2,0.3656921081434974,0.125
 123,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1307,7 +1307,7 @@ PIERRE:
 Wie? Was? Angaschiert? Sie — als Mann ?
 
           
-",jost-dr-erscht-handel,8,1,0.6823910126043574,0.125
+",61,jost-dr-erscht-handel,8,1,0.6823910126043574,0.125
 124,comedy,Albert,M,,,,"
             
 ALBERT:
@@ -1317,7 +1317,7 @@ Nein, Herr, nitt als Mann, awer als Dienschtmaidel, wie ich jo vorig schun g’s
               habb.
 
           
-",jost-dr-erscht-handel,16,2,0.6305499822249643,0.125
+",62,jost-dr-erscht-handel,16,2,0.6305499822249643,0.125
 125,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1329,7 +1329,7 @@ PIERRE :
 Jetzt isch awer Hei genue hunte! Nüss, saa ich, als nüss !
 
           
-",jost-dr-erscht-handel,24,2,0.7931540784486504,0.08333333333333333
+",62,jost-dr-erscht-handel,24,2,0.7931540784486504,0.08333333333333333
 126,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1342,7 +1342,7 @@ Jetzt heisst’s laufe !
 (Gschwind ab nooch links.)
 
           
-",jost-dr-erscht-handel,17,1,0.2581124706883619,0.058823529411764705
+",63,jost-dr-erscht-handel,17,1,0.2581124706883619,0.058823529411764705
 127,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1353,7 +1353,7 @@ Diss kapier, wer will! — Au, myner Kopf ! — Ich wurr nitt schlöj drüss ! D
               redde — ah, do kummt s’e jo!
 
           
-",jost-dr-erscht-handel,41,4,0.6836296505184104,0.0975609756097561
+",63,jost-dr-erscht-handel,41,4,0.6836296505184104,0.0975609756097561
 128,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1365,7 +1365,7 @@ LUCIE :
 Kein liewe Blick unn kein guet’s Wort gunn ich’m, bis ich ne so wytt habb !
 
           
-",jost-dr-erscht-handel,22,4,0.6911238594260699,0.18181818181818182
+",64,jost-dr-erscht-handel,22,4,0.6911238594260699,0.18181818181818182
 130,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1374,7 +1374,7 @@ LUCIE :
 Ich habb’s jo uff diss Babier g’schriwe, also stimmt’s au!
 
           
-",jost-dr-erscht-handel,13,1,0.714,0.07692307692307693
+",65,jost-dr-erscht-handel,13,1,0.714,0.07692307692307693
 131,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1383,7 +1383,7 @@ PIERRE :
 Wenn dü e Hilf brüchsch, ze will ich jo nix degeje hann .....
 
           
-",jost-dr-erscht-handel,13,1,0.3289476186734883,0.07692307692307693
+",65,jost-dr-erscht-handel,13,1,0.3289476186734883,0.07692307692307693
 134,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1392,7 +1392,7 @@ LUCIE :
 Monsieur, diss isch jo grad myn Dienschtmaidel !
 
           
-",jost-dr-erscht-handel,8,1,0.6993651460488204,0.125
+",67,jost-dr-erscht-handel,8,1,0.6993651460488204,0.125
 135,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1404,7 +1404,7 @@ Ass ich verruckt bin, meine Sie, Monsieur ? Nitt ass Sie sich drumbiere ! Zwisch
               Rächter als wie ihr Männer!
 
           
-",jost-dr-erscht-handel,53,11,0.5520171957674771,0.20754716981132076
+",67,jost-dr-erscht-handel,53,11,0.5520171957674771,0.20754716981132076
 136,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1413,7 +1413,7 @@ PIERRE:
 Gewiss, liewi Lucie, myn guet’s Wyewele, ich gibb jo...
 
           
-",jost-dr-erscht-handel,11,2,0.8860851062185511,0.18181818181818182
+",68,jost-dr-erscht-handel,11,2,0.8860851062185511,0.18181818181818182
 137,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1422,7 +1422,7 @@ LUCIE:
 So Zärtlichkeite kenne Sie wo andersch ver- schwende, Monsieur !
 
           
-",jost-dr-erscht-handel,11,1,0.8216957411711424,0.09090909090909091
+",68,jost-dr-erscht-handel,11,1,0.8216957411711424,0.09090909090909091
 139,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1433,7 +1433,7 @@ Ah, Sie meine, ich bin unverninftig ? Gewiss, ich bin’s g’sinn, so lang als 
               ich au !
 
           
-",jost-dr-erscht-handel,35,4,0.5164587840819941,0.11428571428571428
+",69,jost-dr-erscht-handel,35,4,0.5164587840819941,0.11428571428571428
 140,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1443,7 +1443,7 @@ Guet, ich gibb jo alles zue, awer was hett diss alles mit dem Mannsbild im Hüss
               schaffe ?
 
           
-",jost-dr-erscht-handel,19,2,0.759892385535284,0.10526315789473684
+",70,jost-dr-erscht-handel,19,2,0.759892385535284,0.10526315789473684
 141,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1453,7 +1453,7 @@ Was ? Ei, ich habb min halt wie alli moderni Ameri- kanere e männlich’s
               Dienschtmaidel zuegeleijt !
 
           
-",jost-dr-erscht-handel,18,2,0.4857504001994637,0.1111111111111111
+",70,jost-dr-erscht-handel,18,2,0.4857504001994637,0.1111111111111111
 142,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1463,7 +1463,7 @@ Hett m'r schun emool so ebbs g’heert ! Diss duld ich nitt ! Uff d'r G’stell 
               mir nüss !
 
           
-",jost-dr-erscht-handel,18,2,0.6711844669411702,0.1111111111111111
+",71,jost-dr-erscht-handel,18,2,0.6711844669411702,0.1111111111111111
 143,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1472,7 +1472,7 @@ LUCIE :
 Mir ellein isch’r G’horsam schuldi.
 
           
-",jost-dr-erscht-handel,6,2,0.3413490397952522,0.3333333333333333
+",71,jost-dr-erscht-handel,6,2,0.3413490397952522,0.3333333333333333
 144,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1481,7 +1481,7 @@ PIERRE:
 Ich bin Herr im Hüss !
 
           
-",jost-dr-erscht-handel,6,2,0.6244287742322079,0.3333333333333333
+",72,jost-dr-erscht-handel,6,2,0.6244287742322079,0.3333333333333333
 145,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1490,7 +1490,7 @@ LUCIE:
 Unn ich habb grad so viell Rächter als wie d'r Mann !
 
           
-",jost-dr-erscht-handel,12,3,0.7294969224621739,0.25
+",72,jost-dr-erscht-handel,12,3,0.7294969224621739,0.25
 147,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1505,7 +1505,7 @@ Aha, er wurd schun schalu!
               ganzi Nächt drüsse rumflieje !
 
           
-",jost-dr-erscht-handel,24,2,0.7638846459852338,0.08333333333333333
+",73,jost-dr-erscht-handel,24,2,0.7638846459852338,0.08333333333333333
 148,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1514,7 +1514,7 @@ PIERRE :
 Ich werf ejch alli zwei zuem Hüss nüss !
 
           
-",jost-dr-erscht-handel,9,1,0.6701485966188446,0.1111111111111111
+",74,jost-dr-erscht-handel,9,1,0.6701485966188446,0.1111111111111111
 150,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1523,7 +1523,7 @@ PIERRE :
 No geh einfach ich !
 
           
-",jost-dr-erscht-handel,5,1,0.6363768365508712,0.2
+",75,jost-dr-erscht-handel,5,1,0.6363768365508712,0.2
 151,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1533,7 +1533,7 @@ Wie d'r Herr will !
 (Hochmietig ab nooch links.)
 
           
-",jost-dr-erscht-handel,11,2,0.4238582681191062,0.18181818181818182
+",75,jost-dr-erscht-handel,11,2,0.4238582681191062,0.18181818181818182
 152,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1549,7 +1549,7 @@ Mir steht d'r Verstand still! Ich habb iwer myni Frau schynnt’s alli Gewalt ve
               offe b’halt !
 
           
-",jost-dr-erscht-handel,120,18,0.5694818290297224,0.15
+",76,jost-dr-erscht-handel,120,18,0.5694818290297224,0.15
 153,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1564,7 +1564,7 @@ Do haw ich mich jo in e nätti Affär yn- gelonn !
               d’Poscht, Herr !
 
           
-",jost-dr-erscht-handel,25,3,0.7086026928999866,0.12
+",76,jost-dr-erscht-handel,25,3,0.7086026928999866,0.12
 154,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1579,7 +1579,7 @@ Was, dü bisch als noch do ? Wart, dir will ich zeije, wo d'r Zimmermann ’s Lo
                 zeruck.)
 
           
-",jost-dr-erscht-handel,39,4,0.44372225866623133,0.10256410256410256
+",77,jost-dr-erscht-handel,39,4,0.44372225866623133,0.10256410256410256
 156,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1604,7 +1604,7 @@ Dü hesch grad noch Zytt g’hett, Birschtel ! Ich will numme sähn, was diss no
               !
 
           
-",jost-dr-erscht-handel,113,11,0.5509723343207283,0.09734513274336283
+",78,jost-dr-erscht-handel,113,11,0.5509723343207283,0.09734513274336283
 158,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1615,7 +1615,7 @@ Was ? Dü bisch’s, Cousinel Alice ? Wie kummsch denn dü uff hie ?
                 begriesse sich.)
 
           
-",jost-dr-erscht-handel,18,2,0.4241124627929309,0.1111111111111111
+",79,jost-dr-erscht-handel,18,2,0.4241124627929309,0.1111111111111111
 159,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1627,7 +1627,7 @@ Ei, mit d'r Ysebahn nadierlich, wyll mir d’Fliejerej doch noch nitt sicher gen
               gern emool kenne lehre.
 
           
-",jost-dr-erscht-handel,52,7,0.5695650685918021,0.1346153846153846
+",79,jost-dr-erscht-handel,52,7,0.5695650685918021,0.1346153846153846
 160,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1639,7 +1639,7 @@ PIERRE :
 Diss isch jetzt grad dr rächt Moment dezue !
 
           
-",jost-dr-erscht-handel,13,2,0.7530498773910821,0.15384615384615385
+",80,jost-dr-erscht-handel,13,2,0.7530498773910821,0.15384615384615385
 161,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1648,7 +1648,7 @@ ALICE :
 Na, was machsch de denn fur e G’sicht ? Isch dyni Frau dehn nitt do ?
 
           
-",jost-dr-erscht-handel,15,1,0.590952176462202,0.06666666666666667
+",80,jost-dr-erscht-handel,15,1,0.590952176462202,0.06666666666666667
 162,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1663,7 +1663,7 @@ Ich glabb, sie kummt grad !
               mir jetzt zue allem «ja» unn « Amen », egal was bassiert !
 
           
-",jost-dr-erscht-handel,44,8,0.6037544649363404,0.18181818181818182
+",81,jost-dr-erscht-handel,44,8,0.6037544649363404,0.18181818181818182
 163,comedy,Alice,M,,,,"
             
 ALICE:
@@ -1672,7 +1672,7 @@ ALICE:
 Was soll diss heisse, Pierre ?
 
           
-",jost-dr-erscht-handel,6,1,0.5093656120010462,0.16666666666666666
+",81,jost-dr-erscht-handel,6,1,0.5093656120010462,0.16666666666666666
 164,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1682,7 +1682,7 @@ Stille, sie kummt! Ich explizier's dir noochher. Dü begehsch kein Verbreche ; �
               numme fur myn Glick !
 
           
-",jost-dr-erscht-handel,19,2,0.675704938639796,0.10526315789473684
+",82,jost-dr-erscht-handel,19,2,0.675704938639796,0.10526315789473684
 165,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1695,7 +1695,7 @@ Was sieh ich denn do ? Wer isch denn die Person, wo so verliebt mit mym Mann ze
               büschbre hett ?
 
           
-",jost-dr-erscht-handel,28,3,0.6334608215992934,0.10714285714285714
+",82,jost-dr-erscht-handel,28,3,0.6334608215992934,0.10714285714285714
 166,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1708,7 +1708,7 @@ Wie mich diss fraid, lieb’s Kind, ass dü kumme bisch ! Hesch dü mich denn au
               gern ?
 
           
-",jost-dr-erscht-handel,26,5,0.7433483298640572,0.19230769230769232
+",83,jost-dr-erscht-handel,26,5,0.7433483298640572,0.19230769230769232
 167,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1719,7 +1719,7 @@ Gewiss, Pierre !
 : Lieb awer haw ich e’n andere !
 
           
-",jost-dr-erscht-handel,13,1,0.8992415329792003,0.07692307692307693
+",83,jost-dr-erscht-handel,13,1,0.8992415329792003,0.07692307692307693
 168,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1733,7 +1733,7 @@ Nein, diss iwerläw ich nitt!
               zue.)
 
           
-",jost-dr-erscht-handel,19,1,0.714,0.05263157894736842
+",84,jost-dr-erscht-handel,19,1,0.714,0.05263157894736842
 169,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1745,7 +1745,7 @@ PIERRE :
 Wie meine Sie, Madame ?
 
           
-",jost-dr-erscht-handel,15,3,0.676154669758231,0.2
+",84,jost-dr-erscht-handel,15,3,0.676154669758231,0.2
 171,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1754,7 +1754,7 @@ ALICE :
 Awer Madame !
 
           
-",jost-dr-erscht-handel,3,1,0.6272043223299923,0.3333333333333333
+",85,jost-dr-erscht-handel,3,1,0.6272043223299923,0.3333333333333333
 172,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1766,7 +1766,7 @@ Madame, diss isch myn Kammerdiener !
               weich mache !
 
           
-",jost-dr-erscht-handel,17,2,0.6381049777977087,0.11764705882352941
+",86,jost-dr-erscht-handel,17,2,0.6381049777977087,0.11764705882352941
 173,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1776,7 +1776,7 @@ Nein, diss geht ze witt! Liewer Pierre, myn guet’s Männele, ich gibb jo zue, 
               .....
 
           
-",jost-dr-erscht-handel,17,3,0.8094381150079569,0.17647058823529413
+",86,jost-dr-erscht-handel,17,3,0.8094381150079569,0.17647058823529413
 174,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1788,7 +1788,7 @@ Madame, so Zärtlichkeite kenne Sie sich spare !
               wurd schun zahm !
 
           
-",jost-dr-erscht-handel,17,3,0.7338584587967598,0.17647058823529413
+",87,jost-dr-erscht-handel,17,3,0.7338584587967598,0.17647058823529413
 176,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1799,7 +1799,7 @@ O, ich bin ganz verninftig ! Ich bin ’s numme so- lang nitt g’sinn, wo ich n
               Wyebsbild im Hüss ! Uff d'r G’stell fliejt s’e mir nüss !
 
           
-",jost-dr-erscht-handel,43,9,0.671897821214183,0.20930232558139536
+",88,jost-dr-erscht-handel,43,9,0.671897821214183,0.20930232558139536
 177,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1808,7 +1808,7 @@ PIERRE :
 Mir ellein isch s’e G’horsam schuldi !
 
           
-",jost-dr-erscht-handel,8,2,0.3413490397952522,0.25
+",88,jost-dr-erscht-handel,8,2,0.3413490397952522,0.25
 178,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1817,7 +1817,7 @@ LUCIE :
 So e Dienschtbott schickt sich nitt fur e Mann !
 
           
-",jost-dr-erscht-handel,10,1,0.6823910126043574,0.1
+",89,jost-dr-erscht-handel,10,1,0.6823910126043574,0.1
 180,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1826,7 +1826,7 @@ LUCIE :
 Ich werf ejch alli zwei zuem Hüss nüss !
 
           
-",jost-dr-erscht-handel,9,1,0.6701485966188446,0.1111111111111111
+",90,jost-dr-erscht-handel,9,1,0.6701485966188446,0.1111111111111111
 181,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -1835,7 +1835,7 @@ PIERRE:
 Do bin ich d’heim, Madame !
 
           
-",jost-dr-erscht-handel,7,1,0.6272043223299923,0.14285714285714285
+",90,jost-dr-erscht-handel,7,1,0.6272043223299923,0.14285714285714285
 182,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1844,7 +1844,7 @@ LUCIE:
 No geh einfach ich !
 
           
-",jost-dr-erscht-handel,5,1,0.6363768365508712,0.2
+",91,jost-dr-erscht-handel,5,1,0.6363768365508712,0.2
 183,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1853,7 +1853,7 @@ PIERRE :
 Wie d’Madame will !
 
           
-",jost-dr-erscht-handel,5,1,0.6272043223299923,0.2
+",91,jost-dr-erscht-handel,5,1,0.6272043223299923,0.2
 185,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -1865,7 +1865,7 @@ Diss d’hät ejch zwei so g’falle! Nein, ich wych unn wank nitt. Unn Ihnne, S
                 wietig uff d'Alice los, wo sich hinter de Pierre retiriert.)
 
           
-",jost-dr-erscht-handel,43,5,0.5703136868514471,0.11627906976744186
+",92,jost-dr-erscht-handel,43,5,0.5703136868514471,0.11627906976744186
 186,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1874,7 +1874,7 @@ ALICE :
 Oh, Madame, ich habb au e Rächt am Pierre !
 
           
-",jost-dr-erscht-handel,10,2,0.7169694655316681,0.2
+",93,jost-dr-erscht-handel,10,2,0.7169694655316681,0.2
 187,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1889,7 +1889,7 @@ Diss hett s’e guet g’saat!
               Mamsell schun länger als wie Sie.
 
           
-",jost-dr-erscht-handel,27,4,0.6830344662055354,0.14814814814814814
+",93,jost-dr-erscht-handel,27,4,0.6830344662055354,0.14814814814814814
 188,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1904,7 +1904,7 @@ O, ich habb’s jo schun lang g’ahnt, ass dü mich hintergehsch ! Dü hesch so
                 schunscht.)
 
           
-",jost-dr-erscht-handel,35,3,0.7307805519787794,0.08571428571428572
+",94,jost-dr-erscht-handel,35,3,0.7307805519787794,0.08571428571428572
 189,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -1919,7 +1919,7 @@ Lucie, ich habb jetzt d’Nas voll! Dü hebbsch mich kein Minütt meh ! Dyner Al
                 )
 
           
-",jost-dr-erscht-handel,39,2,0.4762698886573765,0.05128205128205128
+",94,jost-dr-erscht-handel,39,2,0.4762698886573765,0.05128205128205128
 190,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -1934,7 +1934,7 @@ Was heer ich do! «Lucie » unn «dü »? Ah, do lehrt m'r jo die trej Madame ke
                 nooch.)
 
           
-",jost-dr-erscht-handel,42,3,0.5536179517229748,0.07142857142857142
+",95,jost-dr-erscht-handel,42,3,0.5536179517229748,0.07142857142857142
 191,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1947,7 +1947,7 @@ Grosser Gott, er wurd’m doch nix andhuen !
 (G’schwind links ab.)
 
           
-",jost-dr-erscht-handel,17,1,0.758,0.058823529411764705
+",95,jost-dr-erscht-handel,17,1,0.758,0.058823529411764705
 192,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1961,7 +1961,7 @@ Diss soll mir kein Theater sinn in dem Hüss ! Awer was haw ich denn g’sähn !
               denn der ins Hüss vun mym Cousin ?
 
           
-",jost-dr-erscht-handel,43,3,0.6794032950785214,0.06976744186046512
+",96,jost-dr-erscht-handel,43,3,0.6794032950785214,0.06976744186046512
 193,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -1975,7 +1975,7 @@ Mon Dieu, ich kann die zwei Männer im ganze Hüss nierigs finde ! Wenn diss num
 (Geht uff s’e los.)
 
           
-",jost-dr-erscht-handel,44,9,0.5813893773386208,0.20454545454545456
+",96,jost-dr-erscht-handel,44,9,0.5813893773386208,0.20454545454545456
 194,comedy,Alice,M,,,,"
             
 ALICE :
@@ -1989,7 +1989,7 @@ Die bringt mich noch um in ihrem Röjes! Pierre, hälf m'r!
                 hinte.)
 
           
-",jost-dr-erscht-handel,24,2,0.5569999999999999,0.08333333333333333
+",97,jost-dr-erscht-handel,24,2,0.5569999999999999,0.08333333333333333
 195,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2003,7 +2003,7 @@ Wart, dü Lueder, dich will ich « be- pierrele » !
               hinte.)
 
           
-",jost-dr-erscht-handel,21,1,0.5037982132484474,0.047619047619047616
+",97,jost-dr-erscht-handel,21,1,0.5037982132484474,0.047619047619047616
 197,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2015,7 +2015,7 @@ ALBERT :
 Endlich haw ich’ne kenne ab- schittle !
 
           
-",jost-dr-erscht-handel,13,2,0.48118827889229704,0.15384615384615385
+",98,jost-dr-erscht-handel,13,2,0.48118827889229704,0.15384615384615385
 198,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2027,7 +2027,7 @@ ALICE :
 Luft! Ich kann nimmi !
 
           
-",jost-dr-erscht-handel,10,1,0.3793765577845941,0.1
+",99,jost-dr-erscht-handel,10,1,0.3793765577845941,0.1
 199,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2039,7 +2039,7 @@ ALBERT :
 Ja — ja — was isch denn diss ? Sieh ich denn erächt ?
 
           
-",jost-dr-erscht-handel,26,2,0.731982479119855,0.07692307692307693
+",99,jost-dr-erscht-handel,26,2,0.731982479119855,0.07692307692307693
 200,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2051,7 +2051,7 @@ ALICE :
 Mon Dieu, wie bin ich jetzt verschrocke !
 
           
-",jost-dr-erscht-handel,12,2,0.44986881246301946,0.16666666666666666
+",100,jost-dr-erscht-handel,12,2,0.44986881246301946,0.16666666666666666
 201,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2067,7 +2067,7 @@ Diss isch jo die nett Mamsell, wo gescht mit mir g’fahre isch !
               widdersieh ! In eim furt haw ich an Sie denke miehn !
 
           
-",jost-dr-erscht-handel,40,5,0.6770847790202932,0.125
+",100,jost-dr-erscht-handel,40,5,0.6770847790202932,0.125
 202,comedy,Alice,M,,,,"
             
 ALICE:
@@ -2076,7 +2076,7 @@ ALICE:
 Unn diss soll ich glauwe nooch dem allem, was ich do in dem Hüss erläbt habb ?
 
           
-",jost-dr-erscht-handel,17,2,0.7497747367884409,0.11764705882352941
+",101,jost-dr-erscht-handel,17,2,0.7497747367884409,0.11764705882352941
 203,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2087,7 +2087,7 @@ Ich schweer’s'ne, Mademoiselle ! D’r Schynn isch jo allerdings geje mich, aw
               nitt verwitsche lonn, ebb ass alles klar g’stellt isch.
 
           
-",jost-dr-erscht-handel,38,4,0.47260448533261024,0.10526315789473684
+",101,jost-dr-erscht-handel,38,4,0.47260448533261024,0.10526315789473684
 205,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2097,7 +2097,7 @@ Unn no mecht ich au gern erfahre, wellem Glicks- stern ass ich’s ze verdanke h
               Sie do so unverhofft ze finde.
 
           
-",jost-dr-erscht-handel,24,4,0.604221998041713,0.16666666666666666
+",102,jost-dr-erscht-handel,24,4,0.604221998041713,0.16666666666666666
 208,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2106,7 +2106,7 @@ PIERRE :
 Der Schuft isch rein wie verschwunde !
 
           
-",jost-dr-erscht-handel,7,1,0.2340365852348564,0.14285714285714285
+",104,jost-dr-erscht-handel,7,1,0.2340365852348564,0.14285714285714285
 209,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -2115,7 +2115,7 @@ LUCIE:
 Ich mecht numme wisse, wo sich diss raffiniert Mensch versteckelt hett !
 
           
-",jost-dr-erscht-handel,12,1,0.344,0.08333333333333333
+",104,jost-dr-erscht-handel,12,1,0.344,0.08333333333333333
 210,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2127,7 +2127,7 @@ PIERRE :
 Ah, do isch jo myni süfer Frau !
 
           
-",jost-dr-erscht-handel,12,1,0.7357928813855046,0.08333333333333333
+",105,jost-dr-erscht-handel,12,1,0.7357928813855046,0.08333333333333333
 211,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2142,7 +2142,7 @@ Ah, do isch jo myn proprer Mann !
                 sich ».)
 
           
-",jost-dr-erscht-handel,40,2,0.6981955063021787,0.05
+",105,jost-dr-erscht-handel,40,2,0.6981955063021787,0.05
 213,comedy,Lucie,F,,,,"
             
 LUCIE:
@@ -2153,7 +2153,7 @@ Hieser hätt ich uff’ne geböjt! Bedracht sich im e anderi hett kenne vergaffe
 (Geht widder uff unn ab.)
 
           
-",jost-dr-erscht-handel,28,3,0.5773813468755286,0.10714285714285714
+",106,jost-dr-erscht-handel,28,3,0.5773813468755286,0.10714285714285714
 214,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -2168,7 +2168,7 @@ D’bescht Frau isch nix nutz.
  Was soll ich numme mache ?
 
           
-",jost-dr-erscht-handel,46,7,0.6729307669451011,0.15217391304347827
+",107,jost-dr-erscht-handel,46,7,0.6729307669451011,0.15217391304347827
 215,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2177,7 +2177,7 @@ LUCIE :
 Wenn ich mir numme e Root wisst !
 
           
-",jost-dr-erscht-handel,8,1,0.7878130921936306,0.125
+",107,jost-dr-erscht-handel,8,1,0.7878130921936306,0.125
 216,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2187,7 +2187,7 @@ Denn was nutzt’s au, wenn ich’re bycht, ass’s Alice myn Cousinel unn alles
               Farce isch ! Die Affär mit ihrem Liebhawer blyet jo no doch b’stehn !
 
           
-",jost-dr-erscht-handel,30,1,0.3005646094598559,0.03333333333333333
+",108,jost-dr-erscht-handel,30,1,0.3005646094598559,0.03333333333333333
 217,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2198,7 +2198,7 @@ LUCIE :
               nitt üss d'r Welt g’schafft !
 
           
-",jost-dr-erscht-handel,39,2,0.7022249682635335,0.05128205128205128
+",108,jost-dr-erscht-handel,39,2,0.7022249682635335,0.05128205128205128
 218,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2210,7 +2210,7 @@ PIERRE :
 Ja, Madame, mir mache am beschte Schluss !
 
           
-",jost-dr-erscht-handel,12,4,0.6815011014248716,0.3333333333333333
+",109,jost-dr-erscht-handel,12,4,0.6815011014248716,0.3333333333333333
 219,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2221,7 +2221,7 @@ LUCIE :
 (Hyllt.)
 
           
-",jost-dr-erscht-handel,21,1,0.5939802281423323,0.047619047619047616
+",109,jost-dr-erscht-handel,21,1,0.5939802281423323,0.047619047619047616
 220,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -2230,7 +2230,7 @@ PIERRE:
 Unn ich zue mym Babbe !
 
           
-",jost-dr-erscht-handel,6,1,0.784256236269689,0.16666666666666666
+",110,jost-dr-erscht-handel,6,1,0.784256236269689,0.16666666666666666
 221,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2239,7 +2239,7 @@ LUCIE :
 Ich verlang Trennung vun Disch unn Bett!
 
           
-",jost-dr-erscht-handel,8,2,0.4526929188147819,0.25
+",110,jost-dr-erscht-handel,8,2,0.4526929188147819,0.25
 222,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2248,7 +2248,7 @@ PIERRE :
 No schloof ich uff’m Divan unn ess uff'm Kommod!
 
           
-",jost-dr-erscht-handel,12,2,0.714,0.16666666666666666
+",111,jost-dr-erscht-handel,12,2,0.714,0.16666666666666666
 223,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2257,7 +2257,7 @@ LUCIE :
 Ich loss mich scheide !
 
           
-",jost-dr-erscht-handel,5,1,0.2778176887927389,0.2
+",111,jost-dr-erscht-handel,5,1,0.2778176887927389,0.2
 224,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -2266,7 +2266,7 @@ PIERRE:
 Mit Fraide !
 
           
-",jost-dr-erscht-handel,3,1,0.8651395651417643,0.3333333333333333
+",112,jost-dr-erscht-handel,3,1,0.8651395651417643,0.3333333333333333
 225,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2278,7 +2278,7 @@ PIERRE :
 Gott sej Dank, ass alles so kumme isch !
 
           
-",jost-dr-erscht-handel,16,4,0.6219376104423597,0.25
+",112,jost-dr-erscht-handel,16,4,0.6219376104423597,0.25
 226,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2287,7 +2287,7 @@ ALICE :
 O, wie bin ich so glicklich !
 
           
-",jost-dr-erscht-handel,7,1,0.99,0.14285714285714285
+",113,jost-dr-erscht-handel,7,1,0.99,0.14285714285714285
 227,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2299,7 +2299,7 @@ PIERRE :
 Ja, draim ich denn ?
 
           
-",jost-dr-erscht-handel,10,2,0.7869302781744067,0.2
+",113,jost-dr-erscht-handel,10,2,0.7869302781744067,0.2
 229,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2311,7 +2311,7 @@ ALBERT :
 So? Unn worum sinn Sie denn glick- lich, Mamsell Alice ?
 
           
-",jost-dr-erscht-handel,16,1,0.7670238935268203,0.0625
+",114,jost-dr-erscht-handel,16,1,0.7670238935268203,0.0625
 230,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2323,7 +2323,7 @@ ALICE :
 Ei — ei — wyll...
 
           
-",jost-dr-erscht-handel,9,1,0.229,0.1111111111111111
+",115,jost-dr-erscht-handel,9,1,0.229,0.1111111111111111
 231,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2337,7 +2337,7 @@ ALBERT :
               s’e.)
 
           
-",jost-dr-erscht-handel,26,3,0.7712340917032211,0.11538461538461539
+",115,jost-dr-erscht-handel,26,3,0.7712340917032211,0.11538461538461539
 232,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2349,7 +2349,7 @@ PIERRE :
 Nein, diss geht jetzt doch ze wytt!
 
           
-",jost-dr-erscht-handel,11,1,0.7272892855744911,0.09090909090909091
+",116,jost-dr-erscht-handel,11,1,0.7272892855744911,0.09090909090909091
 233,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2361,7 +2361,7 @@ LUCIE :
 Mir steht d'r Verstand still !
 
           
-",jost-dr-erscht-handel,9,2,0.6693461222830395,0.2222222222222222
+",116,jost-dr-erscht-handel,9,2,0.6693461222830395,0.2222222222222222
 234,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2373,7 +2373,7 @@ PIERRE :
 Sähn Sie, Madame, was fur e trejer Galan ass Sie hann !
 
           
-",jost-dr-erscht-handel,22,2,0.6706021611649962,0.09090909090909091
+",117,jost-dr-erscht-handel,22,2,0.6706021611649962,0.09090909090909091
 235,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2385,7 +2385,7 @@ LUCIE :
 Sähn Sie, Monsieur, wie uffrichtig ass’s die Mamsell do mit Ihnne meint !
 
           
-",jost-dr-erscht-handel,23,1,0.667670612083746,0.043478260869565216
+",117,jost-dr-erscht-handel,23,1,0.667670612083746,0.043478260869565216
 236,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2394,7 +2394,7 @@ ALBERT :
 Awer ich bitt Sie, Monsieur ! ’s isch endlich Zytt, ass...
 
           
-",jost-dr-erscht-handel,11,2,0.4375,0.18181818181818182
+",118,jost-dr-erscht-handel,11,2,0.4375,0.18181818181818182
 237,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2407,7 +2407,7 @@ PIERRE :
               uffzesetze ?
 
           
-",jost-dr-erscht-handel,18,1,0.1406701938308152,0.05555555555555555
+",118,jost-dr-erscht-handel,18,1,0.1406701938308152,0.05555555555555555
 238,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2416,7 +2416,7 @@ ALICE :
 Lonn uns doch numme üssredde !
 
           
-",jost-dr-erscht-handel,6,1,0.2778176887927389,0.16666666666666666
+",119,jost-dr-erscht-handel,6,1,0.2778176887927389,0.16666666666666666
 239,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2428,7 +2428,7 @@ LUCIE :
 Diss hett’s ball: Was fallt Ihnne erschtens yn, mir Herner uffzesetze ?
 
           
-",jost-dr-erscht-handel,18,1,0.1406701938308152,0.05555555555555555
+",119,jost-dr-erscht-handel,18,1,0.1406701938308152,0.05555555555555555
 241,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2440,7 +2440,7 @@ LUCIE :
 Was fallt Ihnne zweitens yn, myne Mann mit dem Monsieur do ze hintergehn ?
 
           
-",jost-dr-erscht-handel,18,1,0.6823910126043574,0.05555555555555555
+",120,jost-dr-erscht-handel,18,1,0.6823910126043574,0.05555555555555555
 242,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2452,7 +2452,7 @@ ALBERT :
 O, Lucie, wie hesch dü dich vun dym Mann am Narreseil erumfiehre lonn !
 
           
-",jost-dr-erscht-handel,17,3,0.5907362337990321,0.17647058823529413
+",121,jost-dr-erscht-handel,17,3,0.5907362337990321,0.17647058823529413
 243,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2464,7 +2464,7 @@ ALICE :
 O, Pierre, dü hesch dich vun dynere Frau scheen nynleije lonn !
 
           
-",jost-dr-erscht-handel,16,3,0.6062720055302054,0.1875
+",121,jost-dr-erscht-handel,16,3,0.6062720055302054,0.1875
 246,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2476,7 +2476,7 @@ ALBERT :
 Awer nitt, ass ich d'r Brueder vum Lucie bin !
 
           
-",jost-dr-erscht-handel,14,1,0.8663948436837723,0.07142857142857142
+",123,jost-dr-erscht-handel,14,1,0.8663948436837723,0.07142857142857142
 248,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2485,7 +2485,7 @@ ALBERT :
 Ja, unn myni lieb fiancée !
 
           
-",jost-dr-erscht-handel,6,2,0.8156120060495277,0.3333333333333333
+",124,jost-dr-erscht-handel,6,2,0.8156120060495277,0.3333333333333333
 249,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2497,7 +2497,7 @@ LUCIE :
 PIERRE unn Isch’s denn mej- lich ? Worum denn no diss ganz Theater ?
 
           
-",jost-dr-erscht-handel,21,2,0.6451860335354378,0.09523809523809523
+",124,jost-dr-erscht-handel,21,2,0.6451860335354378,0.09523809523809523
 250,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2509,7 +2509,7 @@ LUCIE :
 Ei, wyll ich dich schallu habb welle mache!
 
           
-",jost-dr-erscht-handel,12,1,0.229,0.08333333333333333
+",125,jost-dr-erscht-handel,12,1,0.229,0.08333333333333333
 251,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -2519,7 +2519,7 @@ Unn ich dich au, lieb’s Wyewele ! O, wie sinn mir alli zwei doch so arich dumm
               ! Welle mir uns wieder verdraawe unn alles vergesse ?
 
           
-",jost-dr-erscht-handel,27,4,0.49696315821432735,0.14814814814814814
+",125,jost-dr-erscht-handel,27,4,0.49696315821432735,0.14814814814814814
 252,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2531,7 +2531,7 @@ LUCIE :
 Vun Härze gern ! Mir welle uns awer au allewyll widder verdröje unn .....
 
           
-",jost-dr-erscht-handel,18,3,0.8074800333823665,0.16666666666666666
+",126,jost-dr-erscht-handel,18,3,0.8074800333823665,0.16666666666666666
 253,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2545,7 +2545,7 @@ PIERRE :
                 stehn.)
 
           
-",jost-dr-erscht-handel,22,1,0.688,0.045454545454545456
+",126,jost-dr-erscht-handel,22,1,0.688,0.045454545454545456
 254,comedy,Alice,M,,,,"
             
 ALICE :
@@ -2557,7 +2557,7 @@ ALICE :
 Was isch, liewer Albert, welle mir uns e Lehr dran nemme ?
 
           
-",jost-dr-erscht-handel,17,2,0.8088843349647261,0.11764705882352941
+",127,jost-dr-erscht-handel,17,2,0.8088843349647261,0.11764705882352941
 256,comedy,E Facteur,M,messenger/deliverer/helper,service_and_sales,lower_class,"
             
 FACTEUR :
@@ -2570,7 +2570,7 @@ Bonjour, bysamme ! Do isch e Brief ! Au revoir !
 (Ab.)
 
           
-",jost-dr-erscht-handel,19,1,0.8004800063959763,0.05263157894736842
+",128,jost-dr-erscht-handel,19,1,0.8004800063959763,0.05263157894736842
 257,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2579,7 +2579,7 @@ PIERRE :
 (macht uff unn zejt e Zyttungsblatt erüss ; läst.)
 
           
-",jost-dr-erscht-handel,11,2,0.698899129757505,0.18181818181818182
+",128,jost-dr-erscht-handel,11,2,0.698899129757505,0.18181818181818182
 261,comedy,Pierre,M,,,,"
             
 PIERRE :
@@ -2591,7 +2591,7 @@ PIERRE :
 Mir hann ’s gross Los — nitt gewunne !
 
           
-",jost-dr-erscht-handel,12,3,0.7177715788882248,0.25
+",130,jost-dr-erscht-handel,12,3,0.7177715788882248,0.25
 262,comedy,Lucie,F,,,,"
             
 LUCIE :
@@ -2601,7 +2601,7 @@ Gott sej Dank ! Mir wäre d’unglicklichschte Mensche g’sinn, wenn mir gewunn
               !
 
           
-",jost-dr-erscht-handel,14,3,0.768511402565744,0.21428571428571427
+",131,jost-dr-erscht-handel,14,3,0.768511402565744,0.21428571428571427
 263,comedy,Pierre,M,,,,"
             
 PIERRE:
@@ -2611,7 +2611,7 @@ Dü hesch erächt, Lucie! ’s gitt numme ein gross Los uff dere Welt ! Der hett
               gewunne, wo e bravi Frau unn e gueti Mamme fur syni Kinder g’funde hett !
 
           
-",jost-dr-erscht-handel,31,8,0.7699534174671885,0.25806451612903225
+",131,jost-dr-erscht-handel,31,8,0.7699534174671885,0.25806451612903225
 264,comedy,Albert,M,,,,"
             
 ALBERT :
@@ -2628,4 +2628,4 @@ In dem Fall haw ich hytt in alle mejliche Lotterie vun d'r Welt gewunne !
  FINIS.
 
           
-",jost-dr-erscht-handel,29,4,0.6647309864895024,0.13793103448275862
+",132,jost-dr-erscht-handel,29,4,0.6647309864895024,0.13793103448275862

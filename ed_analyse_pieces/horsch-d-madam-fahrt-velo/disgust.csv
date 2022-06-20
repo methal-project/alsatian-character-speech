@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 1,comedy,Colette,F,,,,"
             
 Colette:
@@ -8,7 +8,7 @@ Was beliebt, — ah Sapristi, d'r Alphonsel isch's ! Wart Knedes, ich will dr d'
             !
 
           
-",horsch-d-madam-fahrt-velo,19,3,0.19869790156633707,0.15789473684210525
+",0,horsch-d-madam-fahrt-velo,19,3,0.19869790156633707,0.15789473684210525
 3,comedy,Colette,F,,,,"
             
 Colette :
@@ -17,7 +17,7 @@ Colette :
 Dü kleiner Saperlot ! — Hesch de schun widder eins?
 
           
-",horsch-d-madam-fahrt-velo,10,1,0.0,0.1
+",1,horsch-d-madam-fahrt-velo,10,1,0.0,0.1
 4,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -26,7 +26,7 @@ Alphonsel:
 Ja, do isch's.
 
           
-",horsch-d-madam-fahrt-velo,5,1,0.0,0.2
+",2,horsch-d-madam-fahrt-velo,5,1,0.0,0.2
 6,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -35,7 +35,7 @@ Alphonsel:
 Ich, ich kenn' ne guet.
 
           
-",horsch-d-madam-fahrt-velo,6,1,0.0,0.16666666666666666
+",3,horsch-d-madam-fahrt-velo,6,1,0.0,0.16666666666666666
 7,comedy,Colette,F,,,,"
             
 Colette:
@@ -44,7 +44,7 @@ Colette:
 So — dü kennsch ne guet?
 
           
-",horsch-d-madam-fahrt-velo,7,1,0.0,0.14285714285714285
+",3,horsch-d-madam-fahrt-velo,7,1,0.0,0.14285714285714285
 8,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -54,7 +54,7 @@ Heijo, bring ich nit allewyl sinni Briefle do here? — un d'rno hawi ne schun o
             fahre sehn.
 
           
-",horsch-d-madam-fahrt-velo,23,3,0.0,0.13043478260869565
+",4,horsch-d-madam-fahrt-velo,23,3,0.0,0.13043478260869565
 9,comedy,Colette,F,,,,"
             
 Colette:
@@ -64,7 +64,7 @@ Jo, dü hesch erecht, hein, der kann's ? E épatanter Typ. De Kilometer macht 'r
             3/4 Sekunde, départ lancé.
 
           
-",horsch-d-madam-fahrt-velo,25,1,0.0,0.04
+",4,horsch-d-madam-fahrt-velo,25,1,0.0,0.04
 10,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -74,7 +74,7 @@ Ja, ich weiß, diß letscht hett 'r sogar emol e Weltrecord um e Viertelsekund v
             nit so, Mamsell Colette ?
 
           
-",horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
+",5,horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
 11,comedy,Colette,F,,,,"
             
 Colette:
@@ -83,7 +83,7 @@ Colette:
 Doch, dü kleiner Hosselottl. Fahrsch dü au schun Velo, daß de dich so interessirsch?
 
           
-",horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
+",5,horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
 12,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -93,7 +93,7 @@ A noch, wisse Sie, ich helf als im Herr Blotzmeier driwwe d'Velo uffbumbe un sch
             'r m'r als eine vun sinne alte Kärich. Sie sotte emol sehn, wie ich schun loszeij.
 
           
-",horsch-d-madam-fahrt-velo,36,5,0.0376,0.1388888888888889
+",6,horsch-d-madam-fahrt-velo,36,5,0.0376,0.1388888888888889
 13,comedy,Colette,F,,,,"
             
 Colette:
@@ -103,7 +103,7 @@ Ha ha ha, do wursch dü halt au am e schöne Daa e Champion oder e Recordman gen
             wäre ?
 
           
-",horsch-d-madam-fahrt-velo,23,4,0.07025,0.17391304347826086
+",6,horsch-d-madam-fahrt-velo,23,4,0.07025,0.17391304347826086
 14,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -112,7 +112,7 @@ Alphonsel:
 Sie hann's grad geroothe, — Rennfahrer wurr i, sunsch nix.
 
           
-",horsch-d-madam-fahrt-velo,12,2,0.0,0.16666666666666666
+",7,horsch-d-madam-fahrt-velo,12,2,0.0,0.16666666666666666
 15,comedy,Colette,F,,,,"
             
 Colette:
@@ -125,7 +125,7 @@ Voyons, was schriebt m'r min Shatz?
             mache, daß i e Minütt for ne hab? Diß isch nit möjli!!
 
           
-",horsch-d-madam-fahrt-velo,39,2,0.0,0.05128205128205128
+",7,horsch-d-madam-fahrt-velo,39,2,0.0,0.05128205128205128
 17,comedy,Colette,F,,,,"
             
 Colette:
@@ -136,7 +136,7 @@ Ja, do isch gueter Roth dier. I mueß jo mit d'r Madam furt uff Allerheilige. He
             Allerheilige !
 
           
-",horsch-d-madam-fahrt-velo,41,8,0.05475,0.1951219512195122
+",8,horsch-d-madam-fahrt-velo,41,8,0.05475,0.1951219512195122
 18,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -145,7 +145,7 @@ Alphonsel:
 Guet Mamsell, — Adje.
 
           
-",horsch-d-madam-fahrt-velo,5,2,0.0,0.4
+",9,horsch-d-madam-fahrt-velo,5,2,0.0,0.4
 19,comedy,Colette,F,,,,"
             
 Colette:
@@ -162,7 +162,7 @@ Wart, säh, do hesch for e Wecke.
             Bis dort anne isch s'Nescht per Rad üsgflöije.
 
           
-",horsch-d-madam-fahrt-velo,60,3,0.09366666666666668,0.05
+",9,horsch-d-madam-fahrt-velo,60,3,0.09366666666666668,0.05
 21,comedy,Colette,F,,,,"
             
 Colette:
@@ -171,7 +171,7 @@ Colette:
 Au revoir, Alphonsel — un e schön's Kumpliment, vergiß's nit!
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
+",10,horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
 23,comedy,Contre,M,,,,"
             
 Contre
@@ -188,7 +188,7 @@ Elle w'est pas gênée! Hm, hm.
             Colette, wo isch d'Madam? isch sie schun zeruck? Denn do steht schun widder min cauchemar.
 
           
-",horsch-d-madam-fahrt-velo,61,3,0.073,0.04918032786885246
+",11,horsch-d-madam-fahrt-velo,61,3,0.073,0.04918032786885246
 24,comedy,Colette,F,,,,"
             
 Colette:
@@ -197,7 +197,7 @@ Colette:
 Grad isch d'Madam kumme, vor e paar Minüte.
 
           
-",horsch-d-madam-fahrt-velo,10,3,0.073,0.3
+",12,horsch-d-madam-fahrt-velo,10,3,0.073,0.3
 26,comedy,Colette,F,,,,"
             
 Colette:
@@ -206,7 +206,7 @@ Colette:
 In ihrem Zimmer, sie düet e paar anderi Hosse an, denn d'andere sinn denne Morje.....
 
           
-",horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
+",13,horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
 28,comedy,Colette,F,,,,"
             
 Colette:
@@ -218,7 +218,7 @@ Ja, d'andere han e Schade gelitte. Madame a ramassée une pelle, mais une pelle!
 (Zeigt mit den Händen.)
 
           
-",horsch-d-madam-fahrt-velo,33,6,0.0365,0.18181818181818182
+",14,horsch-d-madam-fahrt-velo,33,6,0.0365,0.18181818181818182
 29,comedy,Contre,M,,,,"
             
 Contre:
@@ -227,7 +227,7 @@ Contre:
 Isch d'Madam g'falle ? Sie wurd sich doch nit weh gedohn hann?
 
           
-",horsch-d-madam-fahrt-velo,13,3,0.20566666666666666,0.23076923076923078
+",14,horsch-d-madam-fahrt-velo,13,3,0.20566666666666666,0.23076923076923078
 30,comedy,Colette,F,,,,"
             
 Colette :
@@ -238,7 +238,7 @@ O nein Herr, seije Sie nurre getroscht, d'Madam hett's hüsse, wenn sie fallt, d
 nit weh, denn sie isch's jo gewöhnt, un no isch sie flink as wie e Katz.
 
           
-",horsch-d-madam-fahrt-velo,36,3,0.26833333333333337,0.08333333333333333
+",15,horsch-d-madam-fahrt-velo,36,3,0.26833333333333337,0.08333333333333333
 32,comedy,Colette,F,,,,"
             
 Colette:
@@ -247,7 +247,7 @@ Colette:
 Pour sür, s'isch ere fascht nix g'schehn. Elle a une veine bleue.
 
           
-",horsch-d-madam-fahrt-velo,14,1,0.414,0.07142857142857142
+",16,horsch-d-madam-fahrt-velo,14,1,0.414,0.07142857142857142
 33,comedy,Contre,M,,,,"
             
 Contre
@@ -262,7 +262,7 @@ Décidément, elle est émancipée cette fille.
  Nit emol s'Velo isch hin? flûte alors! So e Glück hawi keins.
 
           
-",horsch-d-madam-fahrt-velo,27,2,0.0,0.07407407407407407
+",16,horsch-d-madam-fahrt-velo,27,2,0.0,0.07407407407407407
 34,comedy,Colette,F,,,,"
             
 Colette:
@@ -272,7 +272,7 @@ S'isch nix dran. Ein pedale isch e bissel faussiert g'sinn, awer d'r Herr Blotzm
             unterwäij's reparirt. Jetzt fehlt ere nur noh e bissel Luft.
 
           
-",horsch-d-madam-fahrt-velo,29,2,0.094,0.06896551724137931
+",17,horsch-d-madam-fahrt-velo,29,2,0.094,0.06896551724137931
 35,comedy,Contre,M,,,,"
             
 Contre:
@@ -284,7 +284,7 @@ Kein Luft? Was saat Sie jeht diß erersch. Hett sie eng? Do isch sie amend doch 
 (Will abgehen.)
 
           
-",horsch-d-madam-fahrt-velo,28,3,0.2142031179469013,0.10714285714285714
+",17,horsch-d-madam-fahrt-velo,28,3,0.2142031179469013,0.10714285714285714
 36,comedy,Colette,F,,,,"
             
 Colette:
@@ -294,7 +294,7 @@ Halte Sie, halte Sie, s'isch jo nur d'r Maschin, wo Luft fehlt, — do hawi d'Lu
             gerischt.
 
           
-",horsch-d-madam-fahrt-velo,21,4,0.1405,0.19047619047619047
+",18,horsch-d-madam-fahrt-velo,21,4,0.1405,0.19047619047619047
 38,comedy,Colette,F,,,,"
             
 Colette:
@@ -304,7 +304,7 @@ D'Madam hett g'saat, Sie solle ne nurr ellein trinke, sie hett ne schun denne Mo
             Fuchsebuckel genumme, entre deux enlevages! —
 
           
-",horsch-d-madam-fahrt-velo,26,4,0.129,0.15384615384615385
+",19,horsch-d-madam-fahrt-velo,26,4,0.129,0.15384615384615385
 40,comedy,Colette,F,,,,"
             
 Colette:
@@ -316,7 +316,7 @@ Oui Monsieur, un petit emballage, un i bin in-e-ere Minüt un fünf Sekunde widd
 (Ab.)
 
           
-",horsch-d-madam-fahrt-velo,24,1,0.0,0.041666666666666664
+",20,horsch-d-madam-fahrt-velo,24,1,0.0,0.041666666666666664
 41,comedy,Contre,M,,,,"
             
 Contre:
@@ -331,7 +331,7 @@ D'r Tortino? — e-n-emballage? — Die wurd m'r noch verrukt. O mit dere nundeb
             Menasch!
 
           
-",horsch-d-madam-fahrt-velo,72,5,0.059399999999999994,0.06944444444444445
+",20,horsch-d-madam-fahrt-velo,72,5,0.059399999999999994,0.06944444444444445
 42,comedy,Colette,F,,,,"
             
 Colette
@@ -344,7 +344,7 @@ Voilà Monsieur, do isch Ihr café! Awer jetzt mueß i s'Rad g'schwind butze, d'
             kumme for's abzehole, sie will widder furt, un ich bin au noch nit gerischt.
 
           
-",horsch-d-madam-fahrt-velo,41,4,0.05475,0.0975609756097561
+",21,horsch-d-madam-fahrt-velo,41,4,0.05475,0.0975609756097561
 44,comedy,Colette,F,,,,"
             
 Colette:
@@ -354,7 +354,7 @@ Za do käm ich schön an. In d'r Küche könnte jo Fettflecke od'r Wasserspriber
             Gang, do sinn Debbi mit Näjel angemacht, on pourrait crever un pneu. Nein d'Madam lyd's nit.
 
           
-",horsch-d-madam-fahrt-velo,36,2,0.1095,0.05555555555555555
+",22,horsch-d-madam-fahrt-velo,36,2,0.1095,0.05555555555555555
 45,comedy,Contre,M,,,,"
             
 Contre:
@@ -366,7 +366,7 @@ Hm, 's wundert mi ball, daß sie diß Möwel nit im Salon oder im Schloofzimmer 
             fertig.)
 
           
-",horsch-d-madam-fahrt-velo,37,2,0.0,0.05405405405405406
+",22,horsch-d-madam-fahrt-velo,37,2,0.0,0.05405405405405406
 46,comedy,Juliette,F,,,,"
             
 Juliette
@@ -380,7 +380,7 @@ Isch min Rad widder propper ? — Sie brücht jo e-n-Ewigkeit dezue! — Ah, bon
 (Colette ist fertig, ab.)
 
           
-",horsch-d-madam-fahrt-velo,28,1,0.0,0.03571428571428571
+",23,horsch-d-madam-fahrt-velo,28,1,0.0,0.03571428571428571
 47,comedy,Contre,M,,,,"
             
 Contre:
@@ -392,7 +392,7 @@ Bonjour Madame, bisch de schun widder g'stisselt un g'spoort? Wo geht denn d'Rei
             g'schlaaue hesch. Tu n'as pas mal?
 
           
-",horsch-d-madam-fahrt-velo,63,4,0.05475,0.06349206349206349
+",23,horsch-d-madam-fahrt-velo,63,4,0.05475,0.06349206349206349
 48,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -403,7 +403,7 @@ Ach, fangsch de schun widder an? Non, je n'ai rien, sunsch dät i jo d'heime bli
             versproche mit em Zuck nochzekumme. Un jetzt saasch, que je devrai rester là?
 
           
-",horsch-d-madam-fahrt-velo,53,3,0.0,0.05660377358490566
+",24,horsch-d-madam-fahrt-velo,53,3,0.0,0.05660377358490566
 49,comedy,Contre,M,,,,"
             
 Contre:
@@ -413,7 +413,7 @@ Ma chère, diß hawi wohl g'saat, mais enfin, tu sais, diß ewig geräddels, ce 
             goût, je n'aime pas ga. M'r könnte jo au sunsch ienes anne gehn.
 
           
-",horsch-d-madam-fahrt-velo,35,3,0.0,0.08571428571428572
+",24,horsch-d-madam-fahrt-velo,35,3,0.0,0.08571428571428572
 50,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -425,7 +425,7 @@ Wybsbild e Fraid an ebs hett, ze-n-isch's Euch e Dorn im Au. Dü bisch wie alli 
             kein Hoor besser, — c'est vraiment vrai.
 
           
-",horsch-d-madam-fahrt-velo,45,5,0.20779999999999998,0.1111111111111111
+",25,horsch-d-madam-fahrt-velo,45,5,0.20779999999999998,0.1111111111111111
 51,comedy,Contre,M,,,,"
             
 Contre:
@@ -436,7 +436,7 @@ Bon, voilà que ça recommence. — So hawi 's nit gemeint! Unn wenn i ebs d'rge
             Lytt.
 
           
-",horsch-d-madam-fahrt-velo,45,1,0.0,0.022222222222222223
+",25,horsch-d-madam-fahrt-velo,45,1,0.0,0.022222222222222223
 52,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -446,7 +446,7 @@ Mit andere Lytt? mit minnere Mamme, mit dinnere Schweschter, mit'm Colette, voil
             heisch dü mit andere Lytt?
 
           
-",horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
+",26,horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
 53,comedy,Contre,M,,,,"
             
 Contre:
@@ -455,7 +455,7 @@ Contre:
 Ma chère, dü hesch einer vergesse, — d'r Herr Blotzmeier !
 
           
-",horsch-d-madam-fahrt-velo,11,2,0.094,0.18181818181818182
+",26,horsch-d-madam-fahrt-velo,11,2,0.094,0.18181818181818182
 55,comedy,Contre,M,,,,"
             
 Contre:
@@ -472,7 +472,7 @@ haw' ich de Broote. Der hett dich fahre lehre, un gehsch dü emol furt, na, — 
             der Herr allewyl debie.
 
           
-",horsch-d-madam-fahrt-velo,134,15,0.05840000000000001,0.11194029850746269
+",27,horsch-d-madam-fahrt-velo,134,15,0.05840000000000001,0.11194029850746269
 57,comedy,Contre,M,,,,"
             
 Contre:
@@ -483,7 +483,7 @@ Moi, non Madame, vun dem isch kein Redd. Awer ich find, daß sich diß nit allew
             sümme.
 
           
-",horsch-d-madam-fahrt-velo,40,4,0.19525,0.1
+",28,horsch-d-madam-fahrt-velo,40,4,0.19525,0.1
 58,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -492,7 +492,7 @@ Juliette:
 Was d'Eytt drüwer fauue, je me demande quoi, — do leij ich fein Werth druff.
 
           
-",horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
+",29,horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
 59,comedy,Contre,M,,,,"
             
 Contre:
@@ -502,7 +502,7 @@ Ich au nit, awer doch mueß m'r mit dem reche. D'böse Miller erfinde, was sie n
             m'r schun e Manichs an d'Ohre kumme, wo.....
 
           
-",horsch-d-madam-fahrt-velo,31,2,0.2973177501811625,0.06451612903225806
+",29,horsch-d-madam-fahrt-velo,31,2,0.2973177501811625,0.06451612903225806
 60,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -512,7 +512,7 @@ Ah, ah, i glaub dü spionirsch mi üs, oder soll diß verlicht heiße, daß i ni
             od'r soll, — wäje de Lytt ?
 
           
-",horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
+",30,horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
 61,comedy,Contre,M,,,,"
             
 Contre:
@@ -523,7 +523,7 @@ Dü hesch verlicht erecht, — doch verbiete — nein, diß will i d'r jo grad n
             du tout.
 
           
-",horsch-d-madam-fahrt-velo,43,4,0.0,0.09302325581395349
+",30,horsch-d-madam-fahrt-velo,43,4,0.0,0.09302325581395349
 63,comedy,Contre,M,,,,"
             
 Contre:
@@ -535,7 +535,7 @@ So, meinsch, eh bien, hör, ich hab doch schun ebbs netters g'sehn, as e frauezi
             springe als sie nuff kumme isch.
 
           
-",horsch-d-madam-fahrt-velo,59,8,0.06824539775441482,0.13559322033898305
+",31,horsch-d-madam-fahrt-velo,59,8,0.06824539775441482,0.13559322033898305
 64,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -547,7 +547,7 @@ Ich weiß absolument nit, was dü do dran üszesetze hesch. Soll e Frau nit au d
             d'Kinder.....
 
           
-",horsch-d-madam-fahrt-velo,55,4,0.047,0.07272727272727272
+",32,horsch-d-madam-fahrt-velo,55,4,0.047,0.07272727272727272
 66,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -556,7 +556,7 @@ Juliette:
 Ich — ja — nein.
 
           
-",horsch-d-madam-fahrt-velo,6,1,0.0,0.16666666666666666
+",33,horsch-d-madam-fahrt-velo,6,1,0.0,0.16666666666666666
 68,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -565,7 +565,7 @@ Juliette:
 Ja un wurum solle m'r nit Velo fahre ?
 
           
-",horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
+",34,horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
 70,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -575,7 +575,7 @@ Esthétique! Ah, dü bisch esthétique, ça c'est du nouveau. Eh bien, was finds
             non-esthétique dran? I bin wunderfitzi.
 
           
-",horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
+",35,horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
 71,comedy,Contre,M,,,,"
             
 Contre :
@@ -587,7 +587,7 @@ awer so! — hm — i hab gescht eini g'sehn, e Dicki, e Dicki, — mit Hoffe an
             zweithüriger Kaschte, e Feschtung, e Mehlsack, e Blotzständel, e-n-Omnibus, e..... Dampfwalz.
 
           
-",horsch-d-madam-fahrt-velo,52,5,0.0,0.09615384615384616
+",35,horsch-d-madam-fahrt-velo,52,5,0.0,0.09615384615384616
 73,comedy,Contre,M,,,,"
             
 Contre:
@@ -599,7 +599,7 @@ Bref, e Monstrum, quoi! Ulli Lytt hann ere nochgelueijt, un hann sich geringelt.
             Spatzeschaich. Extremitäte wie Sandschiffle an de Shwewelhölzle, autrement dit — Bein!
 
           
-",horsch-d-madam-fahrt-velo,66,3,0.0,0.045454545454545456
+",36,horsch-d-madam-fahrt-velo,66,3,0.0,0.045454545454545456
 75,comedy,Contre,M,,,,"
             
 Contre:
@@ -610,7 +610,7 @@ A bah — s'isch d'Wohrheit. Wo sieht m'r alti, jungi, kurzi, dinni G'schteller,
             Abtheilung für Velowomen.
 
           
-",horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
+",37,horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
 77,comedy,Contre,M,,,,"
             
 Contre:
@@ -625,7 +625,7 @@ wenn sie am Morje üs'em Karich schlupft. Wenn dü diß alles schön findsch, ma
             compliments.
 
           
-",horsch-d-madam-fahrt-velo,81,9,0.19280901977794415,0.1111111111111111
+",38,horsch-d-madam-fahrt-velo,81,9,0.19280901977794415,0.1111111111111111
 78,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -636,7 +636,7 @@ Hör Jean, wenn de m'r nix andersch ze sauue hesch als wie diß! — Dü bisch a
             gejenüwer, i mueß 's g'stehn un sauue.
 
           
-",horsch-d-madam-fahrt-velo,44,1,0.188,0.022727272727272728
+",39,horsch-d-madam-fahrt-velo,44,1,0.188,0.022727272727272728
 80,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -647,7 +647,7 @@ Jean! — A moi — ah non, c'est trop fort! Do bisch de awer uff 'm Holzwäij. 
             i ihm nit erlauwe, do dät 'r nit ung'strooft durichschlupfe, — do kennt 'r mi awer noch nit.
 
           
-",horsch-d-madam-fahrt-velo,61,3,0.0,0.04918032786885246
+",40,horsch-d-madam-fahrt-velo,61,3,0.0,0.04918032786885246
 82,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -658,7 +658,7 @@ I hab d'r jo vori schun g'saat, dü bisch schallü. Arms Männel — je mueß i 
             d'ganz Zytt hinter dinnere Schweschter her isch.
 
           
-",horsch-d-madam-fahrt-velo,53,2,0.0,0.03773584905660377
+",41,horsch-d-madam-fahrt-velo,53,2,0.0,0.03773584905660377
 84,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -668,7 +668,7 @@ Un wenn de so gueti Aue hettsch, wie de meinsch, ze mueschte schun g'sehn han, d
             mit dinnere Schweschter redd, un e-re gewalti hoffiert ?
 
           
-",horsch-d-madam-fahrt-velo,29,4,0.0,0.13793103448275862
+",42,horsch-d-madam-fahrt-velo,29,4,0.0,0.13793103448275862
 85,comedy,Contre,M,,,,"
             
 Contre:
@@ -678,7 +678,7 @@ Od'r sie ihm! Mit minnere Schweschter, la bonne farce, die isch jo zehn Johr äl
             Geh' mach m'r fen Plän, ich weiß, was ich weiß. Diß alles isch e excuse, — so g'scheit bin i au.
 
           
-",horsch-d-madam-fahrt-velo,40,4,0.13609546763559704,0.1
+",42,horsch-d-madam-fahrt-velo,40,4,0.13609546763559704,0.1
 88,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -689,7 +689,7 @@ Ach, mais, diß isch nit üwel. Glaubt der dumm Mann, daß ich -! Mon cher Jean,
             dinni lieb, klein Frau? —
 
           
-",horsch-d-madam-fahrt-velo,46,5,0.0,0.10869565217391304
+",44,horsch-d-madam-fahrt-velo,46,5,0.0,0.10869565217391304
 89,comedy,Contre,M,,,,"
             
 Contre:
@@ -701,7 +701,7 @@ Gewiß, gewiß — i tröj d'r jo! Awer der schnied dir e cour numéro Pfiff, un
             hell, un wenn's ze bunt kommt, no guetnacht.
 
           
-",horsch-d-madam-fahrt-velo,68,7,0.05028571428571428,0.10294117647058823
+",44,horsch-d-madam-fahrt-velo,68,7,0.05028571428571428,0.10294117647058823
 90,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -711,7 +711,7 @@ Allons, allons Jean, calmier dich, un redd dich doch nit in d'Hitz nin, ça ne v
             peine.
 
           
-",horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
+",45,horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
 91,comedy,Contre,M,,,,"
             
 Contre:
@@ -721,7 +721,7 @@ Hesch erecht, — s'isch wohr, i hab e Röijes wie e Hüß ! Tiens lueij, i wei�
             mit euch fahre soll od'r nit?
 
           
-",horsch-d-madam-fahrt-velo,29,2,0.0,0.06896551724137931
+",45,horsch-d-madam-fahrt-velo,29,2,0.0,0.06896551724137931
 92,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -732,7 +732,7 @@ Diß derfsh nit mache, denn dü hesch m'r's versproche. D'Mamme un's Ursule wär
             kenne Sundaa meh g'hett.
 
           
-",horsch-d-madam-fahrt-velo,44,6,0.10283333333333333,0.13636363636363635
+",46,horsch-d-madam-fahrt-velo,44,6,0.10283333333333333,0.13636363636363635
 93,comedy,Contre,M,,,,"
             
 Contre:
@@ -741,7 +741,7 @@ Contre:
 Do hawi am meischte Fraid dran, daß diß au fahrt. —
 
           
-",horsch-d-madam-fahrt-velo,12,1,0.0,0.08333333333333333
+",46,horsch-d-madam-fahrt-velo,12,1,0.0,0.08333333333333333
 96,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -750,7 +750,7 @@ Juliette:
 Wer weiß, s'wurd am End nimmi lang düüre, ze sitsch dü au uff so e-re Maschin.
 
           
-",horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
+",48,horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
 97,comedy,Colette,F,,,,"
             
 Colette
@@ -762,7 +762,7 @@ Colette
 D'r Herr Blotzmeier isch drunte un fröijt ob Sie gerischt sinn?
 
           
-",horsch-d-madam-fahrt-velo,19,2,0.094,0.10526315789473684
+",48,horsch-d-madam-fahrt-velo,19,2,0.094,0.10526315789473684
 98,comedy,Contre,M,,,,"
             
 Contre
@@ -774,7 +774,7 @@ Contre
 Wenn'r nur bi de Kannibale wär, der Geck!
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.898,0.07692307692307693
+",49,horsch-d-madam-fahrt-velo,13,1,0.898,0.07692307692307693
 99,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -787,7 +787,7 @@ Ah, très bien, — er soll eruf kumme.
             isch au noch nit do.
 
           
-",horsch-d-madam-fahrt-velo,34,4,0.08295222479919645,0.11764705882352941
+",49,horsch-d-madam-fahrt-velo,34,4,0.08295222479919645,0.11764705882352941
 105,comedy,Juliette,F,,,,"
             
 Juliette :
@@ -796,7 +796,7 @@ Juliette :
 Kumme Sie nurre eryn, — nemme Sie Platz dort uff zellem Faudell.
 
           
-",horsch-d-madam-fahrt-velo,13,2,0.0,0.15384615384615385
+",52,horsch-d-madam-fahrt-velo,13,2,0.0,0.15384615384615385
 106,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -806,7 +806,7 @@ Wie geht's Inne, Herr Contre, wie steht's Befinde. Immer munter, wohl schunn e S
             ?
 
           
-",horsch-d-madam-fahrt-velo,18,5,0.0376,0.2777777777777778
+",53,horsch-d-madam-fahrt-velo,18,5,0.0376,0.2777777777777778
 107,comedy,Contre,M,,,,"
             
 Contre:
@@ -824,7 +824,7 @@ s'geht so, merci, — un bi Inne — au? So isch recht, nemme Sie doch Platz.
 (Ab.)
 
           
-",horsch-d-madam-fahrt-velo,66,9,0.0,0.13636363636363635
+",53,horsch-d-madam-fahrt-velo,66,9,0.0,0.13636363636363635
 108,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -836,7 +836,7 @@ Fraid mich sehr, gnädigi Madam, Sie so frisch ze sehn. Hoffentlich hann Sie sic
             Hauptsach', ohne Shade ze nemme, diß nenn' ich e Glück, e fawelhaft's Glück.
 
           
-",horsch-d-madam-fahrt-velo,66,17,0.08102638784640312,0.25757575757575757
+",54,horsch-d-madam-fahrt-velo,66,17,0.08102638784640312,0.25757575757575757
 109,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -846,7 +846,7 @@ Jo, i hab chance g'hett, i hab awer au denne Bachstein, wo mitte uff d'r Stroß 
             erersch g'sehn wo i schunn dran bin g'finn. M'r meint grad, so Sache sinn expreß gemacht.
 
           
-",horsch-d-madam-fahrt-velo,35,4,0.0,0.11428571428571428
+",54,horsch-d-madam-fahrt-velo,35,4,0.0,0.11428571428571428
 110,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -858,7 +858,7 @@ Gewiß, sehr möijli. Die Lytt in d'r Umgejed sinn unverschämt genue, so ebbs z
             Hosse stehn Inne reizend. Einfach großartig.
 
           
-",horsch-d-madam-fahrt-velo,59,14,0.08115298733776909,0.23728813559322035
+",55,horsch-d-madam-fahrt-velo,59,14,0.08115298733776909,0.23728813559322035
 111,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -870,7 +870,7 @@ s'sinn Hosse, nit meh un nit wenjer.
  Min Mann hätt diß sotte höre!
 
           
-",horsch-d-madam-fahrt-velo,19,1,0.0,0.05263157894736842
+",55,horsch-d-madam-fahrt-velo,19,1,0.0,0.05263157894736842
 112,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -880,7 +880,7 @@ Ja, gewiß, Sie hann entschiede recht, d'Dame hann üwerhaupt immer recht. — A
             verstehn dieselbe ze trauue, oh ganz entschiede, wie kenn Anderi ! Sie sinn großartig.
 
           
-",horsch-d-madam-fahrt-velo,31,8,0.05475,0.25806451612903225
+",56,horsch-d-madam-fahrt-velo,31,8,0.05475,0.25806451612903225
 113,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -889,7 +889,7 @@ Juliette:
 Wie Sie meine.
 
           
-",horsch-d-madam-fahrt-velo,4,1,0.0,0.25
+",56,horsch-d-madam-fahrt-velo,4,1,0.0,0.25
 114,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -899,7 +899,7 @@ O doch, ich wiederhol, Frau Contre, Sie sinn entzükend als Radlerin, als Huldig
             Radsport. Sie sinn e Göttin uff'm Rad.
 
           
-",horsch-d-madam-fahrt-velo,24,1,0.0,0.041666666666666664
+",57,horsch-d-madam-fahrt-velo,24,1,0.0,0.041666666666666664
 115,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -909,7 +909,7 @@ I mein, Sie üwertriewe awer doch e bissel mit Ihre Kumplemente. Ich bin angedoh
             au. Do find i nix abartigs dran.
 
           
-",horsch-d-madam-fahrt-velo,25,2,0.281,0.08
+",57,horsch-d-madam-fahrt-velo,25,2,0.281,0.08
 116,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -918,7 +918,7 @@ Blotzmeier :
 Ja, awer Sie hann e chic, Madam, e chic, e ganz abartiger chic..... großartig!
 
           
-",horsch-d-madam-fahrt-velo,15,7,0.031285714285714285,0.4666666666666667
+",58,horsch-d-madam-fahrt-velo,15,7,0.031285714285714285,0.4666666666666667
 117,comedy,Juliette,F,,,,"
             
 Juliette
@@ -930,7 +930,7 @@ Juliette
 Allez, der kummt gar nimm vun simm chic erab! — Sie sinn zue galant.
 
           
-",horsch-d-madam-fahrt-velo,19,1,0.0,0.05263157894736842
+",58,horsch-d-madam-fahrt-velo,19,1,0.0,0.05263157894736842
 118,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -940,7 +940,7 @@ Ich wett döuisig geje eins, daß sämmtliche Stroßburjer Radfahrerinne Sie dü
             Haltung uff'm Rad — graziös, anmüthi, delicat — oh — — — —
 
           
-",horsch-d-madam-fahrt-velo,29,3,0.0,0.10344827586206896
+",59,horsch-d-madam-fahrt-velo,29,3,0.0,0.10344827586206896
 119,comedy,Juliette,F,,,,"
             
 Juliette
@@ -955,7 +955,7 @@ Min Mann hett recht! —
  Die Andere kumme awer lang nit.
 
           
-",horsch-d-madam-fahrt-velo,19,5,0.0,0.2631578947368421
+",59,horsch-d-madam-fahrt-velo,19,5,0.0,0.2631578947368421
 120,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -967,7 +967,7 @@ nein, min Bluet dräijt sich mit doppelter Schnelligkeit in minne Odere, un min 
             pedaliert in minnere Bruscht vor Glück un Seligkeit, so, so — großartig!
 
           
-",horsch-d-madam-fahrt-velo,44,10,0.09828866546158958,0.22727272727272727
+",60,horsch-d-madam-fahrt-velo,44,10,0.09828866546158958,0.22727272727272727
 121,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -976,7 +976,7 @@ Juliette:
 Jetzt isch awwer genue, — Herr Blotzmeier Sie fawle.
 
           
-",horsch-d-madam-fahrt-velo,10,1,0.188,0.1
+",60,horsch-d-madam-fahrt-velo,10,1,0.188,0.1
 122,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -986,7 +986,7 @@ Uff Ehr, Madame, s'isch min Ernscht, min ganzer Ernscht. Ich bin kenn Babbler, d
             selbscht, i saa nurr was wohr isch. Oh, wie gern dät ich noch viel meh sauwe. —
 
           
-",horsch-d-madam-fahrt-velo,36,7,0.031285714285714285,0.19444444444444445
+",61,horsch-d-madam-fahrt-velo,36,7,0.031285714285714285,0.19444444444444445
 123,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1002,7 +1002,7 @@ Um's Himmelswille. —
             vous en prie.
 
           
-",horsch-d-madam-fahrt-velo,31,3,0.0,0.0967741935483871
+",61,horsch-d-madam-fahrt-velo,31,3,0.0,0.0967741935483871
 124,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1014,7 +1014,7 @@ Sehn Sie, Madame Contre —
  Shade!
 
           
-",horsch-d-madam-fahrt-velo,13,3,0.073,0.23076923076923078
+",62,horsch-d-madam-fahrt-velo,13,3,0.073,0.23076923076923078
 126,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1027,7 +1027,7 @@ Ah parfait, c'est charmant, daß 'r jeht do sinn. Jett kenne m'r uffpacke, wie '
  Colette, hopp isch Sie ferti, dummelt Sie sich.
 
           
-",horsch-d-madam-fahrt-velo,34,1,0.0,0.029411764705882353
+",63,horsch-d-madam-fahrt-velo,34,1,0.0,0.029411764705882353
 127,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett:
@@ -1037,7 +1037,7 @@ Wie geht's, ma fille. — Isch wohr bisch dü g'falle? M'r sieht d'r jo gar nix 
             gemacht.
 
           
-",horsch-d-madam-fahrt-velo,25,5,0.0796,0.2
+",63,horsch-d-madam-fahrt-velo,25,5,0.0796,0.2
 129,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett :
@@ -1047,7 +1047,7 @@ Grad wo i d'Gaß eryn g'fahre bin, isch s'Ursule vun d'r ander Sytt kumme, et no
             d'r Herr Blotzmeier?
 
           
-",horsch-d-madam-fahrt-velo,26,4,0.047,0.15384615384615385
+",64,horsch-d-madam-fahrt-velo,26,4,0.047,0.15384615384615385
 130,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1059,7 +1059,7 @@ Blotzmeier
 Entschuldige Sie, ihr Dame, i bin schun e gewissi Zitt do.
 
           
-",horsch-d-madam-fahrt-velo,15,2,0.1095,0.13333333333333333
+",65,horsch-d-madam-fahrt-velo,15,2,0.1095,0.13333333333333333
 132,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett:
@@ -1068,7 +1068,7 @@ Mme. Trett:
 Un ich au nit. — Das stecke Sie au do hinte.
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
+",66,horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
 133,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1077,7 +1077,7 @@ Blotzmeier:
 Ich, ich hab d' Begrüßung nit störe wölle.
 
           
-",horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
+",66,horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
 135,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1089,7 +1089,7 @@ Sehr shmeichelhaft, Mademoiselle. —
  Daß die immer mit mueßl
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.2729815910176593,0.14285714285714285
+",67,horsch-d-madam-fahrt-velo,14,2,0.2729815910176593,0.14285714285714285
 136,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1098,7 +1098,7 @@ Ursule:
 Ja un wie geht's, cher Monsieur, ich hab Sie jo schun lang nimm g'sehn?
 
           
-",horsch-d-madam-fahrt-velo,16,2,0.0,0.125
+",68,horsch-d-madam-fahrt-velo,16,2,0.0,0.125
 137,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1107,7 +1107,7 @@ Blotzmeier:
 Oh, ich bitt Sie — zitter vorgescht.
 
           
-",horsch-d-madam-fahrt-velo,8,1,0.0,0.125
+",68,horsch-d-madam-fahrt-velo,8,1,0.0,0.125
 138,comedy,Mme. Trett,F,,,,"
             
 Mme Trett:
@@ -1117,7 +1117,7 @@ Wo isch d'r Jean, — wo steckt 'r? Isch 'r als noch nit bekehrt. Wie schön wä
             mit radle dät! Nit wohr ?
 
           
-",horsch-d-madam-fahrt-velo,29,4,0.0,0.13793103448275862
+",69,horsch-d-madam-fahrt-velo,29,4,0.0,0.13793103448275862
 141,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett:
@@ -1126,7 +1126,7 @@ Mme. Trett:
 C'est incroyable, cet homme. Hett 'r widder üwer uns losgezöije, hein ?
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
+",70,horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
 142,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1136,7 +1136,7 @@ Na i saa dir, Mamme, diß hättsch höre sotte. I hab, diß heißt, mir hann gri
             Mumpfel meh an uns gebliewe.
 
           
-",horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
+",71,horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
 143,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1146,7 +1146,7 @@ D'r Herr Contre isch unbegrifflich. Er isch geje de Furtschritt. Er isch nit mod
             ha, ha, ha, unglaublich.
 
           
-",horsch-d-madam-fahrt-velo,22,4,0.047,0.18181818181818182
+",71,horsch-d-madam-fahrt-velo,22,4,0.047,0.18181818181818182
 144,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1155,7 +1155,7 @@ Juliette:
 Maman, hesch schun diß neij blouse gsehn, wo i m'r uff de nächste Sundaa selbscht fawrizier.
 
           
-",horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
+",72,horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
 145,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett:
@@ -1164,7 +1164,7 @@ Mme. Trett:
 Non, ma fille.
 
           
-",horsch-d-madam-fahrt-velo,5,1,0.0,0.2
+",72,horsch-d-madam-fahrt-velo,5,1,0.0,0.2
 146,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1176,7 +1176,7 @@ Oh, charmant, i hab e Surah entdeckt, so hesch noch keiner g'sehn. Kumm in d'and
 (Beide ab.)
 
           
-",horsch-d-madam-fahrt-velo,26,3,0.0,0.11538461538461539
+",73,horsch-d-madam-fahrt-velo,26,3,0.0,0.11538461538461539
 147,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1186,7 +1186,7 @@ Herr Blotzmeier, Sie han m'r ewe üs'm Herze g'sproche, Sie hann ganz erecht, mi
             altfränkisch, ich bin ganz von Ihrer Meinung, genn Sie m'r d'Hand.
 
           
-",horsch-d-madam-fahrt-velo,30,7,0.026857142857142857,0.23333333333333334
+",73,horsch-d-madam-fahrt-velo,30,7,0.026857142857142857,0.23333333333333334
 148,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -1200,7 +1200,7 @@ S'isch nit derwerth, Fräulein.-
             schönschte Vergnüge, dem gröschte Genuß.
 
           
-",horsch-d-madam-fahrt-velo,48,5,0.07039999999999999,0.10416666666666667
+",74,horsch-d-madam-fahrt-velo,48,5,0.07039999999999999,0.10416666666666667
 149,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1215,7 +1215,7 @@ S'wurd g'fährli!
  Sie schwärme, Fräulein.
 
           
-",horsch-d-madam-fahrt-velo,14,4,0.10549999999999997,0.2857142857142857
+",74,horsch-d-madam-fahrt-velo,14,4,0.10549999999999997,0.2857142857142857
 150,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1226,7 +1226,7 @@ Do mueß d'Lieb üwerhand nemme! Finde Sie nit au, Herr Blotzmeier. Ich kann m'r
             Sie's könne, so wär's m'r am liebschte. So einer dät m'r am beschte g'falle.
 
           
-",horsch-d-madam-fahrt-velo,53,9,0.08333333333333333,0.16981132075471697
+",75,horsch-d-madam-fahrt-velo,53,9,0.08333333333333333,0.16981132075471697
 151,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1235,7 +1235,7 @@ Blotzmeier:
 Awer, ich bitt Sie, Mamsell ! Ich kann — — —
 
           
-",horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
+",75,horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
 152,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1250,7 +1250,7 @@ Wäije durichführt. Wisse Sie noch, wie Sie mi vor vierzeh Daa zwische-n-eme Sa
             weiß i nit, was bassirt wär.
 
           
-",horsch-d-madam-fahrt-velo,86,6,0.07416666666666667,0.06976744186046512
+",76,horsch-d-madam-fahrt-velo,86,6,0.07416666666666667,0.06976744186046512
 153,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1265,7 +1265,7 @@ Alti Retsch !
  Oh, die alt G'schicht, s'isch nit derwerth, daß m'r dervun redd.
 
           
-",horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
+",76,horsch-d-madam-fahrt-velo,22,1,0.0,0.045454545454545456
 154,comedy,Ursule,F,,,,"
             
 Ursule
@@ -1279,7 +1279,7 @@ Nit derwerth, par exemple, oh doch! Un wo Sie mi derno sescht am Arm g'hebbt han
             mich schun sicher üs dere böse Affär zeije wäre.
 
           
-",horsch-d-madam-fahrt-velo,52,6,0.09910591672705417,0.11538461538461539
+",77,horsch-d-madam-fahrt-velo,52,6,0.09910591672705417,0.11538461538461539
 155,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1291,7 +1291,7 @@ So g'fährli isch's jo nit g'sinn.
  Alti Chrestier! —
 
           
-",horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
+",77,horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
 156,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1301,7 +1301,7 @@ Min ganz Lewe wurr i do dran denke, der Moment wurd m'r unvergeßli sinn, un ich
             dankbar.
 
           
-",horsch-d-madam-fahrt-velo,21,5,0.0,0.23809523809523808
+",78,horsch-d-madam-fahrt-velo,21,5,0.0,0.23809523809523808
 157,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1317,7 +1317,7 @@ I schwitz Bluet! —
             do nurre s'kleinscht Wörtel driwer ze verliere.
 
           
-",horsch-d-madam-fahrt-velo,34,5,0.31997733092317915,0.14705882352941177
+",78,horsch-d-madam-fahrt-velo,34,5,0.31997733092317915,0.14705882352941177
 158,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1329,7 +1329,7 @@ danke könne fur die Heldethat, will i noch nit erecht de Zytt hab g'hett. Awer 
             isch's mini Pflicht un möcht's nit verfehle. Ich dank ne vun ganzem Herze. Do sin minni Händ! —
 
           
-",horsch-d-madam-fahrt-velo,56,5,0.0,0.08928571428571429
+",79,horsch-d-madam-fahrt-velo,56,5,0.0,0.08928571428571429
 159,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -1339,7 +1339,7 @@ Awer — Mademoiselle — Fräulein — ihri Händ ? Ah, Sie wölle m'r d'Händ 
             jetzt die G'schicht erledigt.
 
           
-",horsch-d-madam-fahrt-velo,25,3,0.0,0.12
+",79,horsch-d-madam-fahrt-velo,25,3,0.0,0.12
 160,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1351,7 +1351,7 @@ Merci, liewer, gueter, einziger Mann.
             bleibt erstaunt stehen.)
 
           
-",horsch-d-madam-fahrt-velo,25,6,0.0,0.24
+",80,horsch-d-madam-fahrt-velo,25,6,0.0,0.24
 161,comedy,Contre,M,,,,"
             
 Contre
@@ -1365,7 +1365,7 @@ Tiens, mais — do versteh i au nix weh.
 (Ab.)
 
           
-",horsch-d-madam-fahrt-velo,17,1,0.398,0.058823529411764705
+",80,horsch-d-madam-fahrt-velo,17,1,0.398,0.058823529411764705
 162,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett
@@ -1378,7 +1378,7 @@ Nous voilà. Eh bien, ma fille, jetz mein i awer, daß 's Zytt wär uffzepacke, 
             einmol din Mann mit d'r Isebahn vor uns dort, wenn 'r au später aß mir furtfahrt.
 
           
-",horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
+",81,horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
 163,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1387,7 +1387,7 @@ Juliette:
 C'est vrai, Maman, mit sinn gerischt, — na un ihr?
 
           
-",horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
+",81,horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
 164,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1402,7 +1402,7 @@ Na, un obb!
  Bewiß, gnädigi Hüsfrau mir stehn zue Dienschte, — je ender je liewer.
 
           
-",horsch-d-madam-fahrt-velo,23,3,0.0,0.13043478260869565
+",82,horsch-d-madam-fahrt-velo,23,3,0.0,0.13043478260869565
 165,comedy,Colette,F,,,,"
             
 Colette
@@ -1414,7 +1414,7 @@ Colette
 Madame, i kann d'Partie nit mitmache.
 
           
-",horsch-d-madam-fahrt-velo,17,2,0.1095,0.11764705882352941
+",82,horsch-d-madam-fahrt-velo,17,2,0.1095,0.11764705882352941
 167,comedy,Colette,F,,,,"
             
 Colette :
@@ -1424,7 +1424,7 @@ Madame, minner vorderscht pneu isch leer geloffe, un halt kein Luft meh, — i h
             Morje wo i zuem Metzjer g'fahre bin, e Nauel uffg'hebt.
 
           
-",horsch-d-madam-fahrt-velo,28,5,0.3078,0.17857142857142858
+",83,horsch-d-madam-fahrt-velo,28,5,0.3078,0.17857142857142858
 168,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1434,7 +1434,7 @@ Ja, dü liewer Gott — was mache, mir könne jetzt nimm länger warte, — do m
             d'heime bliewe?
 
           
-",horsch-d-madam-fahrt-velo,23,6,0.04683333333333334,0.2608695652173913
+",84,horsch-d-madam-fahrt-velo,23,6,0.04683333333333334,0.2608695652173913
 169,comedy,Colette,F,,,,"
             
 Colette:
@@ -1446,7 +1446,7 @@ s'macht nix, Madame. —
  Ich hab selwer mit ere Nodel ning'stoche !
 
           
-",horsch-d-madam-fahrt-velo,17,2,0.1095,0.11764705882352941
+",84,horsch-d-madam-fahrt-velo,17,2,0.1095,0.11764705882352941
 171,comedy,Colette,F,,,,"
             
 Colette :
@@ -1455,7 +1455,7 @@ Colette :
 Ja, Madam.
 
           
-",horsch-d-madam-fahrt-velo,3,2,0.1095,0.6666666666666666
+",85,horsch-d-madam-fahrt-velo,3,2,0.1095,0.6666666666666666
 173,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1464,7 +1464,7 @@ Ursule:
 Lewesretter, genn Sie mir de Arm bis nab?
 
           
-",horsch-d-madam-fahrt-velo,9,2,0.0,0.2222222222222222
+",86,horsch-d-madam-fahrt-velo,9,2,0.0,0.2222222222222222
 174,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -1479,7 +1479,7 @@ Daß de versüürsch !
  Mit Vergnüje.
 
           
-",horsch-d-madam-fahrt-velo,13,2,0.0,0.15384615384615385
+",87,horsch-d-madam-fahrt-velo,13,2,0.0,0.15384615384615385
 175,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1490,7 +1490,7 @@ Wenn min Mann kummt, saat Sie ihm, wurum daß Sie nit mitkann.
 (Alle ab bis auf Colette.)
 
           
-",horsch-d-madam-fahrt-velo,20,2,0.0,0.1
+",87,horsch-d-madam-fahrt-velo,20,2,0.0,0.1
 176,comedy,Colette,F,,,,"
             
 Colette:
@@ -1503,7 +1503,7 @@ Adje, bon voyage. All Heil! S'isch Zytt, daß sie los sinn, d'r Tortino mueß al
             kumme.
 
           
-",horsch-d-madam-fahrt-velo,23,4,0.0,0.17391304347826086
+",88,horsch-d-madam-fahrt-velo,23,4,0.0,0.17391304347826086
 178,comedy,Colette,F,,,,"
             
 Colette :
@@ -1512,7 +1512,7 @@ Colette :
 Grad sinn sie do d'Thür nüs.
 
           
-",horsch-d-madam-fahrt-velo,8,1,0.0,0.125
+",89,horsch-d-madam-fahrt-velo,8,1,0.0,0.125
 179,comedy,Contre,M,,,,"
             
 Contre:
@@ -1522,7 +1522,7 @@ Bon, — tiens, sans me dire adieu? Do hett's allewäj widder emol pressiert. We
             partie... ja, un Sie, was macht Sie denn au derno noch do, in Ihre Hosse ?
 
           
-",horsch-d-madam-fahrt-velo,35,3,0.0,0.08571428571428572
+",89,horsch-d-madam-fahrt-velo,35,3,0.0,0.08571428571428572
 180,comedy,Colette,F,,,,"
             
 Colette:
@@ -1532,7 +1532,7 @@ Wo i angedohn bin g'finn, hawi g'fehn, daß min pneu e Loch hett, i kann nit mit
             lang uffg'halte. D'Madam hett g'saat, daß ich's ne üsrichte soll.
 
           
-",horsch-d-madam-fahrt-velo,34,2,0.1095,0.058823529411764705
+",90,horsch-d-madam-fahrt-velo,34,2,0.1095,0.058823529411764705
 181,comedy,Contre,M,,,,"
             
 Contre :
@@ -1547,7 +1547,7 @@ Bon, bon. —
             heim.
 
           
-",horsch-d-madam-fahrt-velo,63,7,0.031285714285714285,0.1111111111111111
+",90,horsch-d-madam-fahrt-velo,63,7,0.031285714285714285,0.1111111111111111
 182,comedy,Colette,F,,,,"
             
 Colette:
@@ -1562,7 +1562,7 @@ Guet, Herr.
  Ah, jetzt kummt 'r. — Entrez!
 
           
-",horsch-d-madam-fahrt-velo,25,4,0.047,0.16
+",91,horsch-d-madam-fahrt-velo,25,4,0.047,0.16
 183,comedy,Alphonsel,M,,,,"
             
 Alphonsel
@@ -1574,7 +1574,7 @@ Alphonsel
 Do bin i schun widder, Mamsell Colette — i bin d'klein Stäij eruff.
 
           
-",horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
+",91,horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
 184,comedy,Colette,F,,,,"
             
 Colette:
@@ -1583,7 +1583,7 @@ Colette:
 Comment, dü bisch's — ja was isch denn jetzt schun widder los ?
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
+",92,horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
 185,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1592,7 +1592,7 @@ Alphonsel:
 Gar nix! — E schöner Grueß vum Herr Tortino, un es isch'm arri Leid — — —
 
           
-",horsch-d-madam-fahrt-velo,19,4,0.1921919138127135,0.21052631578947367
+",92,horsch-d-madam-fahrt-velo,19,4,0.1921919138127135,0.21052631578947367
 187,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1602,7 +1602,7 @@ Alphonsel:
             course in Sicht.
 
           
-",horsch-d-madam-fahrt-velo,24,3,0.0,0.125
+",93,horsch-d-madam-fahrt-velo,24,3,0.0,0.125
 188,comedy,Colette,F,,,,"
             
 Colette :
@@ -1611,7 +1611,7 @@ Colette :
 Ja hätt'r nit e Sprung kumme könne!
 
           
-",horsch-d-madam-fahrt-velo,8,2,0.0,0.25
+",94,horsch-d-madam-fahrt-velo,8,2,0.0,0.25
 189,comedy,Alphonsel,M,,,,"
             
 Alphonsel :
@@ -1621,7 +1621,7 @@ Nein er hett g'saat, daß 'r kümm d'r Zytt hett an d'Isebahn ze gehn. Do hett '
             Lädel genn, wo er selbscht het welle bringe, er hett g'saat i soll's ne genn.
 
           
-",horsch-d-madam-fahrt-velo,39,2,0.0,0.05128205128205128
+",94,horsch-d-madam-fahrt-velo,39,2,0.0,0.05128205128205128
 190,comedy,Colette,F,,,,"
             
 Colette:
@@ -1631,7 +1631,7 @@ Merci Kind. — Ah, diß isch awer nett, e broche, e kleins Velo! — Ja d'r Tor
             was schön isch un er denkt au allewyl an mi. Er isch zue artli, e g'fitzter Typ.
 
           
-",horsch-d-madam-fahrt-velo,39,5,0.0,0.1282051282051282
+",95,horsch-d-madam-fahrt-velo,39,5,0.0,0.1282051282051282
 191,comedy,Alphonsel,M,,,,"
             
 Alphonsel :
@@ -1640,7 +1640,7 @@ Alphonsel :
 Sie han erecht, Mamsell Colette — er hett m'r sogar e halwer Marik Trinkgeld genn.
 
           
-",horsch-d-madam-fahrt-velo,16,1,0.0,0.0625
+",95,horsch-d-madam-fahrt-velo,16,1,0.0,0.0625
 192,comedy,Colette,F,,,,"
             
 Colette :
@@ -1649,7 +1649,7 @@ Colette :
 Glückspilz, kleiner. Sä, do hesch noh e halwer.
 
           
-",horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
+",96,horsch-d-madam-fahrt-velo,9,1,0.0,0.1111111111111111
 193,comedy,Alphonsel,M,,,,"
             
 Alphonsel
@@ -1661,7 +1661,7 @@ Alphonsel
 Zwei halwi macht e Ganzer, so hamm'rs in d'r Schuel gelehrt. Nit Mamsell Colette?
 
           
-",horsch-d-madam-fahrt-velo,18,3,0.0,0.16666666666666666
+",96,horsch-d-madam-fahrt-velo,18,3,0.0,0.16666666666666666
 195,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1670,7 +1670,7 @@ Alphonsel:
 Ja, er hett m'r noch ebs g'faat, awer — — — —
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
+",97,horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
 200,comedy,Colette,F,,,,"
             
 Colette:
@@ -1679,7 +1679,7 @@ Colette:
 Voyons, Monsieur Alphonse, e so großer Bue, fascht e Mann !
 
           
-",horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
+",100,horsch-d-madam-fahrt-velo,11,1,0.0,0.09090909090909091
 201,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1688,7 +1688,7 @@ Alphonsel:
 Er hett m'r e Shmutz genn un hett — — g'saat — — — —
 
           
-",horsch-d-madam-fahrt-velo,16,2,0.0,0.125
+",100,horsch-d-madam-fahrt-velo,16,2,0.0,0.125
 203,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1697,7 +1697,7 @@ Alphonsel:
 Jo, er hett gemeint, i soll ne Inne an simm Platz genn.
 
           
-",horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
+",101,horsch-d-madam-fahrt-velo,13,1,0.0,0.07692307692307693
 204,comedy,Colette,F,,,,"
             
 Colette:
@@ -1707,7 +1707,7 @@ Ah, ah, epatanter Typ, d'r Tortino, — e famosi Idee. Sunsch nix — un do mach
             Allons komm her un gib m'r ne.
 
           
-",horsch-d-madam-fahrt-velo,27,2,0.0,0.07407407407407407
+",102,horsch-d-madam-fahrt-velo,27,2,0.0,0.07407407407407407
 205,comedy,Alphonsel,M,,,,"
             
 Alphonsel
@@ -1719,7 +1719,7 @@ Alphonsel
 Ja macht diß nix, i hab gemeint — — —
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
+",102,horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
 206,comedy,Colette,F,,,,"
             
 Colette:
@@ -1729,7 +1729,7 @@ Ulle, i sich schunn, s'geht nit andersch. — Do hesch noch e große Nickel — 
             Shmutz.
 
           
-",horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
+",103,horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
 208,comedy,Colette,F,,,,"
             
 Colette
@@ -1742,7 +1742,7 @@ Merci lieb's Alphonsel, — dü machsch doch wenigschtens dinni Commissione so g
             jetzt griesch au noh einer vun mir, hytt hesch alles im doppelte G'schirr.
 
           
-",horsch-d-madam-fahrt-velo,33,4,0.0,0.12121212121212122
+",104,horsch-d-madam-fahrt-velo,33,4,0.0,0.12121212121212122
 209,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1753,7 +1753,7 @@ Ja Mamsell, hytt griej i alles zwei Mol. Zwei halwi Marik hawi kriejt un zwei Sh
             furtblie — un do rauchts als.
 
           
-",horsch-d-madam-fahrt-velo,45,4,0.0,0.08888888888888889
+",104,horsch-d-madam-fahrt-velo,45,4,0.0,0.08888888888888889
 210,comedy,Colette,F,,,,"
             
 Colette :
@@ -1762,7 +1762,7 @@ Colette :
 Wurum nit gar. Hesch Angscht, griesch denn als noch Schläij, so e großer Bue?
 
           
-",horsch-d-madam-fahrt-velo,15,2,0.0,0.13333333333333333
+",105,horsch-d-madam-fahrt-velo,15,2,0.0,0.13333333333333333
 212,comedy,Colette,F,,,,"
             
 Colette:
@@ -1771,7 +1771,7 @@ Colette:
 Jo nein, au guet, wurum denn als ?
 
           
-",horsch-d-madam-fahrt-velo,8,1,0.0,0.125
+",106,horsch-d-madam-fahrt-velo,8,1,0.0,0.125
 213,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1781,7 +1781,7 @@ Ja d'r Babbe meint glich widder, i bin Velo g'fahre, un er will's nit hann, — 
             brech' m'r noch emol de Hals, er kann 's uewerhaupt nit verbutze.
 
           
-",horsch-d-madam-fahrt-velo,34,4,0.0,0.11764705882352941
+",106,horsch-d-madam-fahrt-velo,34,4,0.0,0.11764705882352941
 214,comedy,Colette,F,,,,"
             
 Colette:
@@ -1791,7 +1791,7 @@ Tiens, der isch grad wie minner Herr, — un wer weiß, ob die wo drüwer schelt
             fahre?
 
           
-",horsch-d-madam-fahrt-velo,21,3,0.06266666666666666,0.14285714285714285
+",107,horsch-d-madam-fahrt-velo,21,3,0.06266666666666666,0.14285714285714285
 215,comedy,Alphonsel,M,,,,"
             
 Afphonsel:
@@ -1803,7 +1803,7 @@ Diß isch sicher, Mamsell, do wott i fascht wette!
  Schellt's bi Inne! Do geh' i los!
 
           
-",horsch-d-madam-fahrt-velo,22,2,0.0,0.09090909090909091
+",107,horsch-d-madam-fahrt-velo,22,2,0.0,0.09090909090909091
 216,comedy,Colette,F,,,,"
             
 Colette:
@@ -1823,7 +1823,7 @@ d'Schell erunter? I mueß emol uff de Gang, s'Fenschter nüs lueije.
 (Kommt herein.)
 
           
-",horsch-d-madam-fahrt-velo,68,8,0.1688703977544148,0.11764705882352941
+",108,horsch-d-madam-fahrt-velo,68,8,0.1688703977544148,0.11764705882352941
 217,comedy,Alphonsel,M,,,,"
             
 Alphonsel:
@@ -1835,7 +1835,7 @@ Was isch denn Mamsell Colette, wie sehn Sie üß, isch's nit g'hier? Ich riß ü
 (Ab durch die Küche.)
 
           
-",horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
+",108,horsch-d-madam-fahrt-velo,26,2,0.0,0.07692307692307693
 218,comedy,Colette,F,,,,"
             
 Colette
@@ -1847,7 +1847,7 @@ Colette
 Awer Madam, awer Madam! —
 
           
-",horsch-d-madam-fahrt-velo,12,2,0.219,0.16666666666666666
+",109,horsch-d-madam-fahrt-velo,12,2,0.219,0.16666666666666666
 220,comedy,Colette,F,,,,"
             
 Colette:
@@ -1856,7 +1856,7 @@ Colette:
 Madame, um's Gotteswille, was isch g'schehn ?
 
           
-",horsch-d-madam-fahrt-velo,8,1,0.219,0.125
+",110,horsch-d-madam-fahrt-velo,8,1,0.219,0.125
 221,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1865,7 +1865,7 @@ Blotzmeier:
 Ja mir han hitt kein Glück, mir sinn Alli g'stürzt, Alli,
 
           
-",horsch-d-madam-fahrt-velo,12,2,0.0,0.16666666666666666
+",110,horsch-d-madam-fahrt-velo,12,2,0.0,0.16666666666666666
 222,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett:
@@ -1874,7 +1874,7 @@ Mme. Trett:
 Minner Arm, — er ish üssenand! Oh, uh, ah!
 
           
-",horsch-d-madam-fahrt-velo,11,2,0.0,0.18181818181818182
+",111,horsch-d-madam-fahrt-velo,11,2,0.0,0.18181818181818182
 223,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1884,7 +1884,7 @@ Un min Bake brennt wie Fiehr! Mini Zähn lottle m'r im Müül erum. Colette, spr
             als Sie kann zuem Dokter, d'Madam hett amend de Fueß gebroche.
 
           
-",horsch-d-madam-fahrt-velo,31,5,0.0438,0.16129032258064516
+",111,horsch-d-madam-fahrt-velo,31,5,0.0438,0.16129032258064516
 224,comedy,Colette,F,,,,"
             
 Colette:
@@ -1895,7 +1895,7 @@ Jesses nein, isch diß e G'schicht, i lauf was i kann.
 (Ab.)
 
           
-",horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
+",112,horsch-d-madam-fahrt-velo,15,1,0.0,0.06666666666666667
 225,comedy,Kütscher,M,,,,"
             
 Kütscher:
@@ -1904,7 +1904,7 @@ Kütscher:
 Heh, wo soll i denn die kapütene Velo anne keije, i hab' sie drunte im Gang.
 
           
-",horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
+",112,horsch-d-madam-fahrt-velo,17,1,0.0,0.058823529411764705
 226,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1913,7 +1913,7 @@ Juliette:
 Lonn Sie, — oh, mon pied, — lonn Sie nur dorte.
 
           
-",horsch-d-madam-fahrt-velo,12,2,0.3318088991967858,0.16666666666666666
+",113,horsch-d-madam-fahrt-velo,12,2,0.3318088991967858,0.16666666666666666
 227,comedy,Kütscher,M,,,,"
             
 Kütscher :
@@ -1922,7 +1922,7 @@ Kütscher :
 Jo s'isch doch nur noch e Hüffe alt's Ise. Disch ish ebbs for in's Mischtfässel. — Adje.
 
           
-",horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
+",113,horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
 228,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett :
@@ -1931,7 +1931,7 @@ Mme. Trett :
 Warte Kütscher. — Ma fille, i geh, i fahr direkt in d'Langstrooß zue mimm masseur.
 
           
-",horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
+",114,horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
 229,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1940,7 +1940,7 @@ Ursule:
 I fahr au mit, direkt zuem Abbedeeker, un hol m'r e Hebbpflaschter, au bin i so drecket.
 
           
-",horsch-d-madam-fahrt-velo,18,2,0.3635,0.1111111111111111
+",114,horsch-d-madam-fahrt-velo,18,2,0.3635,0.1111111111111111
 230,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1950,7 +1950,7 @@ S'isch nit nöthi. Geh nurr nüwwer in minn Zimmer, do findsch was de brüchsch 
             Gehn — au! — gehn — soignez-vous.
 
           
-",horsch-d-madam-fahrt-velo,26,1,0.5901786406934486,0.038461538461538464
+",115,horsch-d-madam-fahrt-velo,26,1,0.5901786406934486,0.038461538461538464
 231,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett :
@@ -1959,7 +1959,7 @@ Mme. Trett :
 Ja liebs Kind, do mueß i di jo ellein lonn.
 
           
-",horsch-d-madam-fahrt-velo,12,5,0.12576177983935716,0.4166666666666667
+",115,horsch-d-madam-fahrt-velo,12,5,0.12576177983935716,0.4166666666666667
 232,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -1968,7 +1968,7 @@ Blotzmeier:
 Ach wenn Sie's erlauwe, — so wurr i bi d'r Madame Contre bliewe, bis d'r Dokter kummt.
 
           
-",horsch-d-madam-fahrt-velo,19,2,0.1095,0.10526315789473684
+",116,horsch-d-madam-fahrt-velo,19,2,0.1095,0.10526315789473684
 233,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -1977,7 +1977,7 @@ Ursule:
 Sie sinn e ritterlicher, liewer Mensch. — Juliette i geh nüwwer.
 
           
-",horsch-d-madam-fahrt-velo,12,1,0.0,0.08333333333333333
+",116,horsch-d-madam-fahrt-velo,12,1,0.0,0.08333333333333333
 234,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett :
@@ -1987,7 +1987,7 @@ I geh au. Ma fille, schicksch uns glich nouvelle, wie's geht, gell, wenn d'r Dok
             g'sinn.
 
           
-",horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
+",117,horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
 236,comedy,Mme. Trett,F,,,,"
             
 Mme. Trett, Ursule:
@@ -1998,7 +1998,7 @@ Au revoir.
 (Ursule ab durch die Seite, Mme, Trett ab durch die Mitte.)
 
           
-",horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
+",118,horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
 237,comedy,Ursule,F,,,,"
             
 Mme. Trett, Ursule:
@@ -2009,7 +2009,7 @@ Au revoir.
 (Ursule ab durch die Seite, Mme, Trett ab durch die Mitte.)
 
           
-",horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
+",118,horsch-d-madam-fahrt-velo,18,2,0.0,0.1111111111111111
 238,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -2025,7 +2025,7 @@ Ellein ! —
             Sie gemacht han, han Sie dem Milichkärichel nit üswiche kenne ?
 
           
-",horsch-d-madam-fahrt-velo,35,7,0.07371428571428572,0.2
+",119,horsch-d-madam-fahrt-velo,35,7,0.07371428571428572,0.2
 240,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -2035,7 +2035,7 @@ I hab Sie noch warne welle. Un d'r Germania sin Sie mit Ihrem Rad d'rvun g'schos
             Fleijel hätte. Sie sin g'fahre wie e-n-Engel, awer zue schnell.
 
           
-",horsch-d-madam-fahrt-velo,33,3,0.0,0.09090909090909091
+",120,horsch-d-madam-fahrt-velo,33,3,0.0,0.09090909090909091
 241,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2046,7 +2046,7 @@ I wär jo durichkumme, awer en même temps isch uns uff minnere Sytt die Kütsch
 ergeje kumme, un d'rno d'r tramway, — no weiß i nimm — wie's gange-n-isch !
 
           
-",horsch-d-madam-fahrt-velo,34,2,0.0,0.058823529411764705
+",120,horsch-d-madam-fahrt-velo,34,2,0.0,0.058823529411764705
 242,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -2057,7 +2057,7 @@ Ja, d'rno sinn Sie an's Kärichel angerennt, un mir wo dicht hinte noch kumme si
             de Kneij.
 
           
-",horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
+",121,horsch-d-madam-fahrt-velo,42,5,0.0,0.11904761904761904
 243,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2067,7 +2067,7 @@ Ich, Sie armer Mann — was, ja wurum hann Sie denn diß noch nit g'saat? gehn S
             sich verbinde.
 
           
-",horsch-d-madam-fahrt-velo,24,5,0.06636177983935716,0.20833333333333334
+",121,horsch-d-madam-fahrt-velo,24,5,0.06636177983935716,0.20833333333333334
 244,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -2083,7 +2083,7 @@ Awer ich bitt Sie.
             Tod!
 
           
-",horsch-d-madam-fahrt-velo,35,8,0.15085111239959823,0.22857142857142856
+",122,horsch-d-madam-fahrt-velo,35,8,0.15085111239959823,0.22857142857142856
 245,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2099,7 +2099,7 @@ Was packt denne?
             Herrjeh, wie if min Fueß g'schwolle.
 
           
-",horsch-d-madam-fahrt-velo,33,6,0.0,0.18181818181818182
+",122,horsch-d-madam-fahrt-velo,33,6,0.0,0.18181818181818182
 246,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2109,7 +2109,7 @@ Awer Frau Contre, Ihr Mann kann do nix dergeje saue. Wenn 'r Sie so Iiede sieht,
             so roh sinn.
 
           
-",horsch-d-madam-fahrt-velo,24,2,0.3013702540760462,0.08333333333333333
+",123,horsch-d-madam-fahrt-velo,24,2,0.3013702540760462,0.08333333333333333
 247,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2119,7 +2119,7 @@ Ja meine Sie — er wo's nit sehn kann, daß i — oh min Füeßel — es sticht
             erersch denne Schueh üshätt. Diß wurd bös gehn.
 
           
-",horsch-d-madam-fahrt-velo,33,4,0.14865887509058126,0.12121212121212122
+",123,horsch-d-madam-fahrt-velo,33,4,0.14865887509058126,0.12121212121212122
 248,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2130,7 +2130,7 @@ Es sticht, Madame, es sticht — ja mir sticht's au in's Herz nin, wenn i an Ihr
 Schmerze denk. G'statte Sie mir verlicht, daß ich ne e bissel b'hilfli bin?
 
           
-",horsch-d-madam-fahrt-velo,33,4,0.20007854567445413,0.12121212121212122
+",124,horsch-d-madam-fahrt-velo,33,4,0.20007854567445413,0.12121212121212122
 251,comedy,Juliette,F,,,,"
             
 Juliette :
@@ -2139,7 +2139,7 @@ Juliette :
 S'isch wohr, wäje mir, i kann's jetzt doch fascht nimm üshalte.
 
           
-",horsch-d-madam-fahrt-velo,14,1,0.0,0.07142857142857142
+",125,horsch-d-madam-fahrt-velo,14,1,0.0,0.07142857142857142
 252,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2152,7 +2152,7 @@ Ich bin üwerglückli.
             klein!
 
           
-",horsch-d-madam-fahrt-velo,24,6,0.114934892306784,0.25
+",126,horsch-d-madam-fahrt-velo,24,6,0.114934892306784,0.25
 253,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2161,7 +2161,7 @@ Juliette:
 Au — mache Sie jetzt kein Plän.
 
           
-",horsch-d-madam-fahrt-velo,8,1,0.0,0.125
+",126,horsch-d-madam-fahrt-velo,8,1,0.0,0.125
 254,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2170,7 +2170,7 @@ Blotzmeier:
 Hab i ne weh gedohn, — nurre vum blose anfasse? Sehn Sie, i benied Ihre Mann.
 
           
-",horsch-d-madam-fahrt-velo,17,5,0.1468,0.29411764705882354
+",127,horsch-d-madam-fahrt-velo,17,5,0.1468,0.29411764705882354
 255,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2179,7 +2179,7 @@ Juliette:
 Ja wurum denn?
 
           
-",horsch-d-madam-fahrt-velo,4,1,0.0,0.25
+",127,horsch-d-madam-fahrt-velo,4,1,0.0,0.25
 256,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2189,7 +2189,7 @@ Gewiß, er isch ze beniede, so e schöns Frauchen ze hann. Wie kann 'r nurr so s
             schön's Wywele.
 
           
-",horsch-d-madam-fahrt-velo,25,3,0.0,0.12
+",128,horsch-d-madam-fahrt-velo,25,3,0.0,0.12
 257,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2205,7 +2205,7 @@ Ah, ah, — wart nur !
             widder uff.
 
           
-",horsch-d-madam-fahrt-velo,30,4,0.0,0.13333333333333333
+",128,horsch-d-madam-fahrt-velo,30,4,0.0,0.13333333333333333
 258,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2217,7 +2217,7 @@ Sie verstehn mi nit? Wurum verbiet er Inne ze radle. Kammer im e so e göttliche
 d'r Bruscht hann, awer kein Herz. Oh, Madame — Juliette —
 
           
-",horsch-d-madam-fahrt-velo,37,7,0.1562857142857143,0.1891891891891892
+",129,horsch-d-madam-fahrt-velo,37,7,0.1562857142857143,0.1891891891891892
 259,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2232,7 +2232,7 @@ Oh, diß isch jo e Deklaration.
  Höre Sie, minn Mann isch — ah non, c'est trop fort!
 
           
-",horsch-d-madam-fahrt-velo,25,2,0.0,0.08
+",129,horsch-d-madam-fahrt-velo,25,2,0.0,0.08
 260,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier :
@@ -2241,7 +2241,7 @@ Blotzmeier :
 Hann Sie so weh? Arm's Kind.
 
           
-",horsch-d-madam-fahrt-velo,8,3,0.13266666666666668,0.375
+",130,horsch-d-madam-fahrt-velo,8,3,0.13266666666666668,0.375
 262,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier:
@@ -2250,7 +2250,7 @@ Blotzmeier:
 Nur noch ein Wort, schöni Madam, nurr e klein's Wörtel möcht i 'ne saue.
 
           
-",horsch-d-madam-fahrt-velo,16,4,0.05475,0.25
+",131,horsch-d-madam-fahrt-velo,16,4,0.05475,0.25
 263,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2265,7 +2265,7 @@ I friej Angscht! —
  Jetzt isch genue. Kein Wort meh, od'r i ruef! —
 
           
-",horsch-d-madam-fahrt-velo,22,3,0.0,0.13636363636363635
+",131,horsch-d-madam-fahrt-velo,22,3,0.0,0.13636363636363635
 265,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -2279,7 +2279,7 @@ D'r Deifel! — Oh weh!
 (Steht auf.)
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.5137143154408272,0.14285714285714285
+",132,horsch-d-madam-fahrt-velo,14,2,0.5137143154408272,0.14285714285714285
 266,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -2293,7 +2293,7 @@ diß heiße? —
  Juliette — Juliette! -? —
 
           
-",horsch-d-madam-fahrt-velo,28,3,0.06266666666666666,0.10714285714285714
+",133,horsch-d-madam-fahrt-velo,28,3,0.06266666666666666,0.10714285714285714
 267,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2309,7 +2309,7 @@ Jetzt will i mi räche. —
             félicite!
 
           
-",horsch-d-madam-fahrt-velo,31,3,0.216,0.0967741935483871
+",133,horsch-d-madam-fahrt-velo,31,3,0.216,0.0967741935483871
 270,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2319,7 +2319,7 @@ Eh bien, denk emol was e surprise, — e Surprise, wo dich angeht. D'r Herr Blot
             ewe sinni Lieb — zue dir g'ftande un hett bi mir uff de Kneij um dinni Hand ang'halte.
 
           
-",horsch-d-madam-fahrt-velo,38,5,0.0376,0.13157894736842105
+",135,horsch-d-madam-fahrt-velo,38,5,0.0376,0.13157894736842105
 273,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2328,7 +2328,7 @@ Juliette:
 Ich hab ihm versproche ze helfe, un hab'm g'saat, daß 'r hoffe kann.
 
           
-",horsch-d-madam-fahrt-velo,15,3,0.0,0.2
+",136,horsch-d-madam-fahrt-velo,15,3,0.0,0.2
 274,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -2343,7 +2343,7 @@ Was, — ich! —
  Ja — — ja — -!
 
           
-",horsch-d-madam-fahrt-velo,19,4,0.0,0.21052631578947367
+",137,horsch-d-madam-fahrt-velo,19,4,0.0,0.21052631578947367
 276,comedy,Ursule,F,,,,"
             
 Ursule
@@ -2356,7 +2356,7 @@ Ja, s'isch wohr, er saat ja. Ah, mon Dieu, isch's möjli, — diß Glück? Oh ou
             hab's g'spiert, daß 'r mi gern hett.
 
           
-",horsch-d-madam-fahrt-velo,35,7,0.0,0.2
+",138,horsch-d-madam-fahrt-velo,35,7,0.0,0.2
 277,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -2371,7 +2371,7 @@ Himmel hilf! —
  Fräulein Ursule, ich —
 
           
-",horsch-d-madam-fahrt-velo,15,3,0.0,0.2
+",138,horsch-d-madam-fahrt-velo,15,3,0.0,0.2
 278,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -2384,7 +2384,7 @@ Was, Fräulein, do gitts kein Fräulein meh.
             acceptier, ich acceptier. Tiens, i bin ganz dinne, du lieb's, verzuckert's Männel!
 
           
-",horsch-d-madam-fahrt-velo,39,5,0.0,0.1282051282051282
+",139,horsch-d-madam-fahrt-velo,39,5,0.0,0.1282051282051282
 281,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2396,7 +2396,7 @@ Juliette
 Sie müehn, — diß sinn Sie mir schuldi.
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
+",140,horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
 282,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -2405,7 +2405,7 @@ Ursule:
 Oh, quel bonheur, in bin ganz verzwirwelt im Kopf.
 
           
-",horsch-d-madam-fahrt-velo,10,1,0.0,0.1
+",141,horsch-d-madam-fahrt-velo,10,1,0.0,0.1
 284,comedy,Juliette,F,,,,"
             
 Juliette
@@ -2417,7 +2417,7 @@ Juliette
 Noch e Wort, un i saa Alles mim Mann.
 
           
-",horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
+",142,horsch-d-madam-fahrt-velo,14,2,0.0,0.14285714285714285
 285,comedy,Blotzmeier,M,,,,"
             
 Blotzmeier
@@ -2432,7 +2432,7 @@ Oh weh, — oh weh! —
  Fräulein Ursule, i möcht ne doch — — —
 
           
-",horsch-d-madam-fahrt-velo,23,4,0.199,0.17391304347826086
+",142,horsch-d-madam-fahrt-velo,23,4,0.199,0.17391304347826086
 286,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -2445,7 +2445,7 @@ Was denn, Schätz'l? Oh, ich weiß schunn, was dü mir sauwe witt. Tu m'aimes, i
 (Sie umarmt ihn, indem er noch widerstrebt.)
 
           
-",horsch-d-madam-fahrt-velo,59,4,0.0,0.06779661016949153
+",143,horsch-d-madam-fahrt-velo,59,4,0.0,0.06779661016949153
 287,comedy,Contre,M,,,,"
             
 Contre
@@ -2462,7 +2462,7 @@ Was Gücksels, qu'est-ce que c'est qu'ça? — Sieh i erecht? —
             verrenkt? As-tu mal ?
 
           
-",horsch-d-madam-fahrt-velo,56,3,0.13266666666666668,0.05357142857142857
+",143,horsch-d-madam-fahrt-velo,56,3,0.13266666666666668,0.05357142857142857
 289,comedy,Contre,M,,,,"
             
 Contre:
@@ -2475,7 +2475,7 @@ Mais oui, i hab's Colette do vorne in d'r Gaß angetroffe, i weiß Alles! Oh, ma
  voilà, — mais, saa mol, was isch denn do loß?
 
           
-",horsch-d-madam-fahrt-velo,46,1,0.0,0.021739130434782608
+",144,horsch-d-madam-fahrt-velo,46,1,0.0,0.021739130434782608
 291,comedy,Contre,M,,,,"
             
 Contre :
@@ -2487,7 +2487,7 @@ Ah bah! — nit möjli? —
  Tiens, tiens, enfin — minni beschte Wünsch, i gratelier! —
 
           
-",horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
+",145,horsch-d-madam-fahrt-velo,21,1,0.0,0.047619047619047616
 292,comedy,Ursule,F,,,,"
             
 Ursule:
@@ -2498,7 +2498,7 @@ Merci, merci.
 (Sie spricht mit Blotzmeier, welcher ganz verdutzt darein schaut.)
 
           
-",horsch-d-madam-fahrt-velo,14,1,0.0,0.07142857142857142
+",146,horsch-d-madam-fahrt-velo,14,1,0.0,0.07142857142857142
 293,comedy,Contre,M,,,,"
             
 Contre
@@ -2510,7 +2510,7 @@ Contre
 Eh bien, ma femme, was haltsch de jetzt vum Velofahre. Fahrsch später widder ohne dinne Mann?
 
           
-",horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
+",146,horsch-d-madam-fahrt-velo,21,2,0.0,0.09523809523809523
 294,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -2521,7 +2521,7 @@ I weiß nit, nein. — Dü hesch allewyll erecht g'hett. E Frau isch in zue viel
 G'sohre üßg'setzt. I blick jetzt d'heim in minnere Menasch, bi dir.
 
           
-",horsch-d-madam-fahrt-velo,29,1,0.0,0.034482758620689655
+",147,horsch-d-madam-fahrt-velo,29,1,0.0,0.034482758620689655
 295,comedy,Contre,M,,,,"
             
 Contre:
@@ -2530,7 +2530,7 @@ Contre:
 A la bonne heure, un ich hab widder minni klein Frau, min lieb Wywele.
 
           
-",horsch-d-madam-fahrt-velo,15,2,0.0,0.13333333333333333
+",147,horsch-d-madam-fahrt-velo,15,2,0.0,0.13333333333333333
 296,comedy,Colette,F,,,,"
             
 Colette:
@@ -2539,7 +2539,7 @@ Colette:
 D'r Herr Dokter isch im salon.
 
           
-",horsch-d-madam-fahrt-velo,7,3,0.06266666666666666,0.42857142857142855
+",148,horsch-d-madam-fahrt-velo,7,3,0.06266666666666666,0.42857142857142855
 297,comedy,Contre,M,,,,"
             
 Contre :
@@ -2548,4 +2548,4 @@ Contre :
 D'r Dokter, hm, — führt Sie ne glich eryn.
 
           
-",horsch-d-madam-fahrt-velo,10,1,0.0,0.1
+",148,horsch-d-madam-fahrt-velo,10,1,0.0,0.1

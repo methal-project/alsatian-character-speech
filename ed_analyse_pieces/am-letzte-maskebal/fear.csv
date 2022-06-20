@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Ne Pierrot,M,,,,"
           
 Pierrot
@@ -37,7 +37,7 @@ Denn das müess ich dr Fraü abinde,
 's isch d'beste-n- Üsred, wo-n-ich kenn.
 
         
-",lustig-am-letzte-maskebal,84,10,0.15478019304674068,0.11904761904761904
+",0,lustig-am-letzte-maskebal,84,10,0.15478019304674068,0.11904761904761904
 2,comedy,Ne Pierrot,M,,,,"
           
 Pierrot.
@@ -72,7 +72,7 @@ Di Nastüech dert...
           
 
         
-",lustig-am-letzte-maskebal,66,12,0.18252018155313485,0.18181818181818182
+",2,lustig-am-letzte-maskebal,66,12,0.18252018155313485,0.18181818181818182
 3,comedy,ne Domino,M,,,,"
           
 Domino
@@ -102,7 +102,7 @@ Denn vo mim Mann isch's halt e G'schenk.
 Fir ass ich immer an en denk...
 
         
-",lustig-am-letzte-maskebal,62,6,0.10149999999999999,0.0967741935483871
+",3,lustig-am-letzte-maskebal,62,6,0.10149999999999999,0.0967741935483871
 4,comedy,Ne Pierrot,M,,,,"
           
 Pierrot.
@@ -126,7 +126,7 @@ Ich kenn's... un do isch's zeichent jo!
 (er laüft im Zimmer umme wie verruckt)
 
         
-",lustig-am-letzte-maskebal,54,4,0.0665,0.07407407407407407
+",4,lustig-am-letzte-maskebal,54,4,0.0665,0.07407407407407407
 5,comedy,ne Domino,M,,,,"
           
 Domino.
@@ -144,7 +144,7 @@ De wirsch wahrhaft ganz roth un blaü -
 Me meint, 's g'hört Diner eig'ne Fraü!
 
         
-",lustig-am-letzte-maskebal,31,4,0.1181924818986229,0.12903225806451613
+",5,lustig-am-letzte-maskebal,31,4,0.1181924818986229,0.12903225806451613
 6,comedy,Ne Pierrot,M,,,,"
           
 Pierrot
@@ -156,7 +156,7 @@ Pierrot
 Dü hasch's errothe!...
 
         
-",lustig-am-letzte-maskebal,8,1,0.566539725384232,0.125
+",6,lustig-am-letzte-maskebal,8,1,0.566539725384232,0.125
 7,comedy,ne Domino,M,,,,"
           
 Domino
@@ -216,7 +216,7 @@ Kei Wort... hasch g'hört... red' mich nitt a,
 Nitt. ass er mich erkenne ka!...
 
         
-",lustig-am-letzte-maskebal,125,17,0.07070588235294117,0.136
+",7,lustig-am-letzte-maskebal,125,17,0.07070588235294117,0.136
 8,comedy,ne Mehlgeist,M,,,,"
           
 Mehlgeist
@@ -237,7 +237,7 @@ Fir ku ne Nastüech z'hole do,
 Wo mir vorher hàn lige lo...
 
         
-",lustig-am-letzte-maskebal,32,6,0.3150344886759707,0.1875
+",8,lustig-am-letzte-maskebal,32,6,0.3150344886759707,0.1875
 9,comedy,Ne Pierrot,M,,,,"
           
 Pierrot
@@ -249,7 +249,7 @@ Pierrot
 Do isch's...
 
         
-",lustig-am-letzte-maskebal,14,1,0.0,0.07142857142857142
+",9,lustig-am-letzte-maskebal,14,1,0.0,0.07142857142857142
 10,comedy,ne Mehlgeist,M,,,,"
           
 Mehlgeist
@@ -270,7 +270,7 @@ Hein!... was!... thüe-n-ich mich nitt trumpiere!
 Was soll das heisse!...
 
         
-",lustig-am-letzte-maskebal,30,3,0.09899999999999999,0.1
+",10,lustig-am-letzte-maskebal,30,3,0.09899999999999999,0.1
 11,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Pierrot.
@@ -288,4 +288,4 @@ Anstatt als so ne Ding az'hànke,
 Thien mir an d'Fasenacht z'ruck denke!
 
         
-",lustig-am-letzte-maskebal,23,2,0.3595,0.08695652173913043
+",11,lustig-am-letzte-maskebal,23,2,0.3595,0.08695652173913043

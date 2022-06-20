@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -12,7 +12,7 @@ voilà, loon 's Uch gschmecke, Andrees
 (will einschenken.)
 
           
-",riff-sainte-barbe,24,3,0.6070201757827415,0.125
+",0,riff-sainte-barbe,24,3,0.6070201757827415,0.125
 1,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -30,7 +30,7 @@ Andrees:
             alte Daaj, daß mir ünseri Casque un Kepi wied'r hingeviri höön derfe hole
 
           
-",riff-sainte-barbe,72,6,0.38311046528079773,0.08333333333333333
+",0,riff-sainte-barbe,72,6,0.38311046528079773,0.08333333333333333
 3,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -39,7 +39,7 @@ Andrees:
 Vive la France! — Lissel, ich könnt grood hyle vor lütter Fräid!
 
           
-",riff-sainte-barbe,13,3,0.5284179989480573,0.23076923076923078
+",0,riff-sainte-barbe,13,3,0.5284179989480573,0.23076923076923078
 4,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -48,7 +48,7 @@ Lissel:
 Ich kann's guet v'rstehn, Andrees.
 
           
-",riff-sainte-barbe,7,2,0.45882609366201443,0.2857142857142857
+",1,riff-sainte-barbe,7,2,0.45882609366201443,0.2857142857142857
 5,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -64,7 +64,7 @@ Nee, Mäide, dies v'rstehsch Dü juschtemand lang nit so wie Uenseräiner. Do mu
             ghylt wie d'kläine King, d'Burjerslytt un d'Saldote, un wie d'rnoo — — — o pauvre, pauvre Alsace!
 
           
-",riff-sainte-barbe,109,8,0.49863864976908234,0.07339449541284404
+",1,riff-sainte-barbe,109,8,0.49863864976908234,0.07339449541284404
 6,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -73,7 +73,7 @@ Lissel:
 Kalmiere-n-Uch, Andrees. D'Franzose sin jo jetz wied'r do.
 
           
-",riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
+",1,riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
 7,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -84,7 +84,7 @@ Gott sej Dank, Lissel, Gott sej Dank!
 (setzt sich wieder).
 
           
-",riff-sainte-barbe,13,5,0.47005638620780743,0.38461538461538464
+",1,riff-sainte-barbe,13,5,0.47005638620780743,0.38461538461538464
 8,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -96,7 +96,7 @@ Andrees:
 Guete-n-Owe Harr Brandmäischter!
 
           
-",riff-sainte-barbe,17,2,0.45882609366201443,0.11764705882352941
+",2,riff-sainte-barbe,17,2,0.45882609366201443,0.11764705882352941
 9,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -108,7 +108,7 @@ Schorsch:
 — Guete-n-Owe Andrees. — Au schun do?
 
           
-",riff-sainte-barbe,13,3,0.45921739577467635,0.23076923076923078
+",2,riff-sainte-barbe,13,3,0.45921739577467635,0.23076923076923078
 10,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -120,7 +120,7 @@ Andrees:
 — Ja, Harr Brandmäischter.
 
           
-",riff-sainte-barbe,8,2,0.5302148573856891,0.25
+",2,riff-sainte-barbe,8,2,0.5302148573856891,0.25
 11,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -130,7 +130,7 @@ Raacht so, Andrees, raacht so. — Setze-n-Uch numme. — Aha, un öijeri nöj D
             schun uff?
 
           
-",riff-sainte-barbe,21,4,0.4207570429535924,0.19047619047619047
+",2,riff-sainte-barbe,21,4,0.4207570429535924,0.19047619047619047
 12,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -142,7 +142,7 @@ Andrees:
 — M'r sin jo jetz franzeesch, Harr Brandmäischter.
 
           
-",riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
+",3,riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
 13,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -154,7 +154,7 @@ Schorsch:
 — Raacht so, Andrees, raacht so.
 
           
-",riff-sainte-barbe,10,4,0.46425888764000645,0.4
+",3,riff-sainte-barbe,10,4,0.46425888764000645,0.4
 14,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -166,7 +166,7 @@ Daniel:
 — Uff dane Momant het'r schun lang gewoort. Galte, Andrees?
 
           
-",riff-sainte-barbe,16,4,0.43676051332846577,0.25
+",3,riff-sainte-barbe,16,4,0.43676051332846577,0.25
 15,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -175,7 +175,7 @@ Andrees:
 Jo wajer.
 
           
-",riff-sainte-barbe,3,1,0.4202194642096385,0.3333333333333333
+",3,riff-sainte-barbe,3,1,0.4202194642096385,0.3333333333333333
 16,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -184,7 +184,7 @@ Schorsch:
 Aw'r mit ere Engelsgeduld, galte, Andrees?
 
           
-",riff-sainte-barbe,7,2,0.430156611741518,0.2857142857142857
+",4,riff-sainte-barbe,7,2,0.430156611741518,0.2857142857142857
 17,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -197,7 +197,7 @@ Andrees:
             Harr Brandmäischter — — — —
 
           
-",riff-sainte-barbe,26,1,0.4202194642096385,0.038461538461538464
+",4,riff-sainte-barbe,26,1,0.4202194642096385,0.038461538461538464
 18,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -209,7 +209,7 @@ Lissel:
 — Bliewe doch emol sitze, Andrees, m'r sin jo jetz franzeesch!
 
           
-",riff-sainte-barbe,20,3,0.405613319213966,0.15
+",4,riff-sainte-barbe,20,3,0.405613319213966,0.15
 19,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -218,7 +218,7 @@ Daniel:
 Zall mäin ich doch äu. Dar prejßisch Mode mueß emol v'rschwinde.
 
           
-",riff-sainte-barbe,12,2,0.5182156035953855,0.16666666666666666
+",4,riff-sainte-barbe,12,2,0.5182156035953855,0.16666666666666666
 20,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -229,7 +229,7 @@ Raacht so! — M'r het dies prejßische Kasarne-Trarifari ingfiehre muehn un het
             Glaasel ing.
 
           
-",riff-sainte-barbe,34,5,0.4817262315716885,0.14705882352941177
+",5,riff-sainte-barbe,34,5,0.4817262315716885,0.14705882352941177
 21,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -241,7 +241,7 @@ Daniel:
 — Aw'r Andrees!
 
           
-",riff-sainte-barbe,10,2,0.5301097321048193,0.2
+",5,riff-sainte-barbe,10,2,0.5301097321048193,0.2
 22,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -251,7 +251,7 @@ Ich maach jo e franzeescher Salü! — Het m'r nit lang genuej druff woorte mueh
             Johr, ihr Manner, siewenevierzig Johr!
 
           
-",riff-sainte-barbe,23,4,0.4854583557412647,0.17391304347826086
+",5,riff-sainte-barbe,23,4,0.4854583557412647,0.17391304347826086
 23,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -260,7 +260,7 @@ Schorsch:
 Na, no loon'm die Plasier.
 
           
-",riff-sainte-barbe,7,2,0.6295304561662125,0.2857142857142857
+",5,riff-sainte-barbe,7,2,0.6295304561662125,0.2857142857142857
 24,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -269,7 +269,7 @@ Lissel:
 Trinke doch jetz emol laar, Andrees.
 
           
-",riff-sainte-barbe,7,2,0.33976763892678363,0.2857142857142857
+",6,riff-sainte-barbe,7,2,0.33976763892678363,0.2857142857142857
 25,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -281,7 +281,7 @@ Andrees:
 — oui, mademoiselle!
 
           
-",riff-sainte-barbe,7,1,0.4202194642096385,0.14285714285714285
+",6,riff-sainte-barbe,7,1,0.4202194642096385,0.14285714285714285
 26,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -290,7 +290,7 @@ Lissel:
 Loon m'r die Däubhäite ewack, un trinke.
 
           
-",riff-sainte-barbe,8,1,0.5647444901015128,0.125
+",6,riff-sainte-barbe,8,1,0.5647444901015128,0.125
 27,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -299,7 +299,7 @@ Andrees:
 Däubhäite?! — Do v'rstehn ihr Wybslytt halt nix devun.
 
           
-",riff-sainte-barbe,10,2,0.4253208692476942,0.2
+",6,riff-sainte-barbe,10,2,0.4253208692476942,0.2
 28,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -310,7 +310,7 @@ Mientwaje!
 (Andrees trinkt leer, Lissel schenkt neu ein.)
 
           
-",riff-sainte-barbe,11,2,0.33976763892678363,0.18181818181818182
+",7,riff-sainte-barbe,11,2,0.33976763892678363,0.18181818181818182
 32,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -319,7 +319,7 @@ Schorsch:
 Jaaa, wisse-n-'r, inger ünsere Bumbié sin e poor dringer — — —
 
           
-",riff-sainte-barbe,15,2,0.6926051252808698,0.13333333333333333
+",8,riff-sainte-barbe,15,2,0.6926051252808698,0.13333333333333333
 33,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -328,7 +328,7 @@ Daniel:
 Un wann se-n-e Appetit höön wie d'Drescher — — — — sie asse üns nit zem Löönd nüs.
 
           
-",riff-sainte-barbe,22,1,0.5139335982158005,0.045454545454545456
+",8,riff-sainte-barbe,22,1,0.5139335982158005,0.045454545454545456
 35,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -339,7 +339,7 @@ Sankt-Barwere-Äier! — Üs lüter Plasier, daß d'Franzose do sin! — Gsündh
 (trinkt.)
 
           
-",riff-sainte-barbe,17,4,0.5709527028005937,0.23529411764705882
+",8,riff-sainte-barbe,17,4,0.5709527028005937,0.23529411764705882
 36,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -350,7 +350,7 @@ Schorsch:
             Dienschtjübiläum, dies kummt numme äinmol im Lawe.
 
           
-",riff-sainte-barbe,45,2,0.5744452894924115,0.044444444444444446
+",9,riff-sainte-barbe,45,2,0.5744452894924115,0.044444444444444446
 37,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -359,7 +359,7 @@ Daniel:
 Ho zall!
 
           
-",riff-sainte-barbe,3,1,0.4933565078605325,0.3333333333333333
+",9,riff-sainte-barbe,3,1,0.4933565078605325,0.3333333333333333
 38,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -368,7 +368,7 @@ Lissel:
 Mir zähle noch uff e fuffzigjahrigs.
 
           
-",riff-sainte-barbe,7,2,0.4405469209357215,0.2857142857142857
+",9,riff-sainte-barbe,7,2,0.4405469209357215,0.2857142857142857
 40,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -380,7 +380,7 @@ Andrees:
 — M'r kann's nit wisse, Harr Brandmäischter.
 
           
-",riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
+",10,riff-sainte-barbe,12,1,0.4202194642096385,0.08333333333333333
 41,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -393,7 +393,7 @@ Schorsch:
             wäre äu älter —
 
           
-",riff-sainte-barbe,31,4,0.40096355841448017,0.12903225806451613
+",10,riff-sainte-barbe,31,4,0.40096355841448017,0.12903225806451613
 42,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -402,7 +402,7 @@ Lissel:
 Un welle äu emol ebs wäre in d'r Gemäin.
 
           
-",riff-sainte-barbe,10,1,0.6396629312289852,0.1
+",10,riff-sainte-barbe,10,1,0.6396629312289852,0.1
 44,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -412,7 +412,7 @@ M'r welle's aw'r nit hoffe, daß Uch d'Junge iewwer de Kopf nüs woose! — Un z
             kann doch nit grood Jeder spiele.
 
           
-",riff-sainte-barbe,26,4,0.500186132531852,0.15384615384615385
+",11,riff-sainte-barbe,26,4,0.500186132531852,0.15384615384615385
 45,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -421,7 +421,7 @@ Daniel:
 Un wann'r noch so guet franzeesch kann.
 
           
-",riff-sainte-barbe,8,1,0.4974327231143904,0.125
+",11,riff-sainte-barbe,8,1,0.4974327231143904,0.125
 46,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -430,7 +430,7 @@ Andrees:
 As isch nit eso äinfach, ihr liewi Lytt! — Jaja.
 
           
-",riff-sainte-barbe,11,3,0.40217250732890664,0.2727272727272727
+",11,riff-sainte-barbe,11,3,0.40217250732890664,0.2727272727272727
 47,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -440,7 +440,7 @@ Naja, so lang wie's noch geht, v'rsahn m'r ünsere Dienscht jo wyttersch. Wann's
             d'rnoo heere m'r vunaase uff. — Lissel schenk im Andrees noch e Glaasel ing.
 
           
-",riff-sainte-barbe,34,3,0.4356494313468218,0.08823529411764706
+",11,riff-sainte-barbe,34,3,0.4356494313468218,0.08823529411764706
 48,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -449,7 +449,7 @@ Lissel:
 Trinke laar, Andrees.
 
           
-",riff-sainte-barbe,4,2,0.33976763892678363,0.5
+",12,riff-sainte-barbe,4,2,0.33976763892678363,0.5
 49,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -461,7 +461,7 @@ Andrees:
 — Noch emol? — 's isch jo schun lang laar.
 
           
-",riff-sainte-barbe,14,3,0.3750880358947981,0.21428571428571427
+",12,riff-sainte-barbe,14,3,0.3750880358947981,0.21428571428571427
 54,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -470,7 +470,7 @@ Schorsch:
 ""Ebs"" schun, ja, aw'r nimmi viel, bin ken junger Hottel meh, dies mueß m'r bedenke.
 
           
-",riff-sainte-barbe,16,2,0.5493284810848966,0.125
+",13,riff-sainte-barbe,16,2,0.5493284810848966,0.125
 55,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -486,7 +486,7 @@ Andrees:
 (trinkt.)
 
           
-",riff-sainte-barbe,57,12,0.5332571352642012,0.21052631578947367
+",13,riff-sainte-barbe,57,12,0.5332571352642012,0.21052631578947367
 56,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch, Daniel, Lissel:
@@ -495,7 +495,7 @@ Schorsch, Daniel, Lissel:
 Gsündhäit Andrees!
 
           
-",riff-sainte-barbe,5,2,0.4236097321048192,0.4
+",14,riff-sainte-barbe,5,2,0.4236097321048192,0.4
 57,comedy,Daniel Wendling,M,,,,"
             
 Schorsch, Daniel, Lissel:
@@ -504,7 +504,7 @@ Schorsch, Daniel, Lissel:
 Gsündhäit Andrees!
 
           
-",riff-sainte-barbe,5,2,0.4236097321048192,0.4
+",14,riff-sainte-barbe,5,2,0.4236097321048192,0.4
 58,comedy,Lissel,F,,,,"
             
 Schorsch, Daniel, Lissel:
@@ -513,7 +513,7 @@ Schorsch, Daniel, Lissel:
 Gsündhäit Andrees!
 
           
-",riff-sainte-barbe,5,2,0.4236097321048192,0.4
+",14,riff-sainte-barbe,5,2,0.4236097321048192,0.4
 59,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -526,7 +526,7 @@ Schorsch:
             Stampeneje!
 
           
-",riff-sainte-barbe,26,2,0.3597534987938248,0.07692307692307693
+",14,riff-sainte-barbe,26,2,0.3597534987938248,0.07692307692307693
 60,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -535,7 +535,7 @@ Daniel:
 Wieviel fremdi Offizier sin dann kumme?
 
           
-",riff-sainte-barbe,7,2,0.4273729590966867,0.2857142857142857
+",15,riff-sainte-barbe,7,2,0.4273729590966867,0.2857142857142857
 61,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -547,7 +547,7 @@ Schorsch:
 — Im Göönze: zwäijedrißig.!
 
           
-",riff-sainte-barbe,8,1,0.634,0.125
+",15,riff-sainte-barbe,8,1,0.634,0.125
 62,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -559,7 +559,7 @@ Andrees:
 — Sackerwalt!
 
           
-",riff-sainte-barbe,6,1,0.4202194642096385,0.16666666666666666
+",15,riff-sainte-barbe,6,1,0.4202194642096385,0.16666666666666666
 64,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -571,7 +571,7 @@ Schorsch:
 — Äij jo, aw'r — — bie dane wie jischt 'num läufe zich ich nit hott erum! — V'rstehn'r?!
 
           
-",riff-sainte-barbe,23,1,0.64,0.043478260869565216
+",16,riff-sainte-barbe,23,1,0.64,0.043478260869565216
 65,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -585,7 +585,7 @@ Andrees:
 (trinkt leer.)
 
           
-",riff-sainte-barbe,16,4,0.36263381946339185,0.25
+",16,riff-sainte-barbe,16,4,0.36263381946339185,0.25
 66,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -594,7 +594,7 @@ Lissel:
 Trinke-n-'r noch e Glaasel, Andrees?
 
           
-",riff-sainte-barbe,8,1,0.4202194642096385,0.125
+",16,riff-sainte-barbe,8,1,0.4202194642096385,0.125
 67,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -603,7 +603,7 @@ Andrees:
 Numme nit ze blitzi, sunsch wur ich hitzi! — Hähähä!
 
           
-",riff-sainte-barbe,11,1,0.4202194642096385,0.09090909090909091
+",16,riff-sainte-barbe,11,1,0.4202194642096385,0.09090909090909091
 69,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -614,7 +614,7 @@ Jaja, d'v Andrees v'rträät's.
 (schenkt ein.)
 
           
-",riff-sainte-barbe,11,1,0.4202194642096385,0.09090909090909091
+",17,riff-sainte-barbe,11,1,0.4202194642096385,0.09090909090909091
 70,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -623,7 +623,7 @@ Daniel:
 Was trinksch denn fer e Tröpfel, Andrees?
 
           
-",riff-sainte-barbe,8,2,0.5541097321048192,0.25
+",17,riff-sainte-barbe,8,2,0.5541097321048192,0.25
 71,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -632,7 +632,7 @@ Andrees:
 ""Langsamer Salbschtmord.""
 
           
-",riff-sainte-barbe,3,2,0.6466097321048192,0.6666666666666666
+",17,riff-sainte-barbe,3,2,0.6466097321048192,0.6666666666666666
 74,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -641,7 +641,7 @@ Daniel:
 Aw'r Andrees, dies v'rträäsch Dü jo goor nit!
 
           
-",riff-sainte-barbe,9,1,0.4202194642096385,0.1111111111111111
+",18,riff-sainte-barbe,9,1,0.4202194642096385,0.1111111111111111
 75,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -656,7 +656,7 @@ Andrees:
 (trinki rasch ein Schlückchen, und salutiert.)
 
           
-",riff-sainte-barbe,33,4,0.4419072248174115,0.12121212121212122
+",18,riff-sainte-barbe,33,4,0.4419072248174115,0.12121212121212122
 76,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -665,7 +665,7 @@ Schorsch:
 Wann's Uch numme gschmeckt, Andrees.
 
           
-",riff-sainte-barbe,7,1,0.4202194642096385,0.14285714285714285
+",19,riff-sainte-barbe,7,1,0.4202194642096385,0.14285714285714285
 77,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -677,7 +677,7 @@ Andrees:
 — Hähähähähä!
 
           
-",riff-sainte-barbe,10,1,0.4202194642096385,0.1
+",19,riff-sainte-barbe,10,1,0.4202194642096385,0.1
 79,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -687,7 +687,7 @@ Dü hattsch aw'r Trawere trinke sotte, Andrees. — Jine bisch gewohnt vun Kings
             do v'rträuejsch doch nit. —
 
           
-",riff-sainte-barbe,22,1,0.4202194642096385,0.045454545454545456
+",19,riff-sainte-barbe,22,1,0.4202194642096385,0.045454545454545456
 80,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -696,7 +696,7 @@ Andrees:
 Ho zall!
 
           
-",riff-sainte-barbe,3,2,0.4567879860350855,0.6666666666666666
+",20,riff-sainte-barbe,3,2,0.4567879860350855,0.6666666666666666
 81,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -705,7 +705,7 @@ Daniel:
 Ich wäiß's! — Maach m'r numme ken Sätz!
 
           
-",riff-sainte-barbe,10,1,0.3474221770286607,0.1
+",20,riff-sainte-barbe,10,1,0.3474221770286607,0.1
 83,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -717,7 +717,7 @@ Andrees:
 — Göönz mini Mäinung, Harr Brandmäischter!
 
           
-",riff-sainte-barbe,12,2,0.37865038063932566,0.16666666666666666
+",20,riff-sainte-barbe,12,2,0.37865038063932566,0.16666666666666666
 84,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -729,7 +729,7 @@ Schorsch:
 — Andrees, mir bliewe biem Kirschewasser.
 
           
-",riff-sainte-barbe,14,1,0.4202194642096385,0.07142857142857142
+",21,riff-sainte-barbe,14,1,0.4202194642096385,0.07142857142857142
 85,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -741,7 +741,7 @@ Andrees:
 — Un wann d'halb Gurjel druff geht, Harr Brandmäischter.
 
           
-",riff-sainte-barbe,15,1,0.4202194642096385,0.06666666666666667
+",21,riff-sainte-barbe,15,1,0.4202194642096385,0.06666666666666667
 86,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -753,7 +753,7 @@ Lissel:
 — Dies kann jo guet wäre.
 
           
-",riff-sainte-barbe,10,2,0.5687163615571952,0.2
+",21,riff-sainte-barbe,10,2,0.5687163615571952,0.2
 87,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -765,7 +765,7 @@ Daniel:
 — Jojo!
 
           
-",riff-sainte-barbe,6,1,0.64,0.16666666666666666
+",21,riff-sainte-barbe,6,1,0.64,0.16666666666666666
 88,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -774,7 +774,7 @@ Andrees:
 Laache nit. — Lissel, schenk ing!
 
           
-",riff-sainte-barbe,7,2,0.5019613537018888,0.2857142857142857
+",22,riff-sainte-barbe,7,2,0.5019613537018888,0.2857142857142857
 89,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -783,7 +783,7 @@ Lissel:
 Trinke doch zerscht laar!
 
           
-",riff-sainte-barbe,5,1,0.2593158136439288,0.2
+",22,riff-sainte-barbe,5,1,0.2593158136439288,0.2
 90,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -795,7 +795,7 @@ Ah 's isch noch ebs drinne? — Öha! — Hou-rupp!
  Hoppla! — 's rutscht noch! Inggschankt!
 
           
-",riff-sainte-barbe,21,1,0.4202194642096385,0.047619047619047616
+",22,riff-sainte-barbe,21,1,0.4202194642096385,0.047619047619047616
 91,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -807,7 +807,7 @@ Schorsch:
 — Ar het e gueter Zugg, d'r Andrees.
 
           
-",riff-sainte-barbe,12,3,0.5192173957746763,0.25
+",22,riff-sainte-barbe,12,3,0.5192173957746763,0.25
 92,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -819,7 +819,7 @@ Lissel:
 — Dies sell mir nix sin!
 
           
-",riff-sainte-barbe,10,1,0.64,0.1
+",23,riff-sainte-barbe,10,1,0.64,0.1
 93,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -828,7 +828,7 @@ Daniel:
 Setze-n-Uch aw'r jetz nahder geje d'r Dhüer zü, Andrees.
 
           
-",riff-sainte-barbe,12,2,0.4449516371660285,0.16666666666666666
+",23,riff-sainte-barbe,12,2,0.4449516371660285,0.16666666666666666
 94,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -837,7 +837,7 @@ Andrees:
 Waje was dies?
 
           
-",riff-sainte-barbe,4,1,0.4202194642096385,0.25
+",23,riff-sainte-barbe,4,1,0.4202194642096385,0.25
 96,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -851,7 +851,7 @@ Andrees:
             wie Iir, gall Lissel?!
 
           
-",riff-sainte-barbe,45,2,0.43060973210481923,0.044444444444444446
+",24,riff-sainte-barbe,45,2,0.43060973210481923,0.044444444444444446
 97,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -863,7 +863,7 @@ Lissel:
 — Hoffetli sin mir dies!
 
           
-",riff-sainte-barbe,9,1,0.64,0.1111111111111111
+",24,riff-sainte-barbe,9,1,0.64,0.1111111111111111
 99,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -872,7 +872,7 @@ Daniel:
 Zall will ich mäine!
 
           
-",riff-sainte-barbe,5,2,0.4894678814968265,0.4
+",24,riff-sainte-barbe,5,2,0.4894678814968265,0.4
 101,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -882,7 +882,7 @@ Wäisch, Daniel, daß ich's nit v'rgiß: m'r höön um e gueti Trinkkraft zügen
             Philipp het sich wied'r in d'Kumpenie uffnahme loon.
 
           
-",riff-sainte-barbe,26,3,0.4873632994822792,0.11538461538461539
+",25,riff-sainte-barbe,26,3,0.4873632994822792,0.11538461538461539
 106,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -894,7 +894,7 @@ Andrees:
 — Iewri bliewe derf nix! — Hupp! — Sackerwalt! — Hupp!
 
           
-",riff-sainte-barbe,21,1,0.4202194642096385,0.047619047619047616
+",26,riff-sainte-barbe,21,1,0.4202194642096385,0.047619047619047616
 107,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -906,7 +906,7 @@ Lissel:
 — E stockfinschteri Noocht. — Un still isch's im Dörfel!
 
           
-",riff-sainte-barbe,18,1,0.2204693930016622,0.05555555555555555
+",26,riff-sainte-barbe,18,1,0.2204693930016622,0.05555555555555555
 108,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -920,7 +920,7 @@ Andrees:
 (trinkt).
 
           
-",riff-sainte-barbe,32,3,0.48907315473654617,0.09375
+",27,riff-sainte-barbe,32,3,0.48907315473654617,0.09375
 110,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -932,7 +932,7 @@ Sackerwalt! Jetz mueß ich aw'r gehn! — Also, Daniel, d'r Koschtepunkt spielt 
             Stawalters Philipp.
 
           
-",riff-sainte-barbe,55,1,0.4558851289245935,0.01818181818181818
+",27,riff-sainte-barbe,55,1,0.4558851289245935,0.01818181818181818
 111,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -944,7 +944,7 @@ Lissel:
 — Oh, oh, oh! — D'r Andrees — —
 
           
-",riff-sainte-barbe,13,2,0.6470894978181532,0.15384615384615385
+",27,riff-sainte-barbe,13,2,0.6470894978181532,0.15384615384615385
 113,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -956,7 +956,7 @@ Andrees:
 — Gsündhäit! — Hupp!
 
           
-",riff-sainte-barbe,10,2,0.4236097321048192,0.2
+",28,riff-sainte-barbe,10,2,0.4236097321048192,0.2
 114,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -965,7 +965,7 @@ Daniel:
 Maach'm hurtli d'Dhüer uff, Lissel! — Hopp, räij Dich!
 
           
-",riff-sainte-barbe,12,1,0.441,0.08333333333333333
+",28,riff-sainte-barbe,12,1,0.441,0.08333333333333333
 115,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -977,7 +977,7 @@ Lissel:
 — Wann 'r m'r aw'r — — — ?!
 
           
-",riff-sainte-barbe,12,1,0.875,0.08333333333333333
+",28,riff-sainte-barbe,12,1,0.875,0.08333333333333333
 117,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -989,7 +989,7 @@ Ich — — ich — — ich brüch niemes! — Hupp! Ich ich kann —
             Dunkel der Nacht.)
 
           
-",riff-sainte-barbe,38,2,0.45313675599023945,0.05263157894736842
+",29,riff-sainte-barbe,38,2,0.45313675599023945,0.05263157894736842
 119,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1002,7 +1002,7 @@ Jaja. —
             schun raacht natt oon!
 
           
-",riff-sainte-barbe,25,3,0.4345419688575362,0.12
+",29,riff-sainte-barbe,25,3,0.4345419688575362,0.12
 121,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1014,7 +1014,7 @@ Hawich's nit gsäit wie's kumme wurd?! — Ich kenn mini Lytt! — Lissel, stell
 (geschieht.)
 
           
-",riff-sainte-barbe,31,2,0.39352060020523205,0.06451612903225806
+",30,riff-sainte-barbe,31,2,0.39352060020523205,0.06451612903225806
 122,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1024,7 +1024,7 @@ Bier derfe mini Bumbié trinke, was in se ning geht. — Numme de V'rstöönd se
             vrsüffe.
 
           
-",riff-sainte-barbe,19,2,0.6315250194147637,0.10526315789473684
+",30,riff-sainte-barbe,19,2,0.6315250194147637,0.10526315789473684
 125,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1034,7 +1034,7 @@ Mir isch's häuptsachli waje de fremde Harre Offizier, wie hynt Owe noch Alli do
             äu waje minere Fräu!
 
           
-",riff-sainte-barbe,24,4,0.4371299286640259,0.16666666666666666
+",31,riff-sainte-barbe,24,4,0.4371299286640259,0.16666666666666666
 127,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1044,7 +1044,7 @@ Aw'r salbschtv'rstandli! — Do daat sich d'Theres dhäime nit hewwe loon. — D
             Sainte-Barbe! Un min finfezwanzigjahrigs Dienschtjübiläum! — Ah ihr mäine?!
 
           
-",riff-sainte-barbe,26,2,0.5251618726173167,0.07692307692307693
+",31,riff-sainte-barbe,26,2,0.5251618726173167,0.07692307692307693
 129,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1055,7 +1055,7 @@ Aw'r sicher! — Un wann äiner od'r d'r öönder nit kunterbiere will — — �
 (spuckt in die Hände und streift die Aermel zurück).
 
           
-",riff-sainte-barbe,29,1,0.38657381727647,0.034482758620689655
+",32,riff-sainte-barbe,29,1,0.38657381727647,0.034482758620689655
 130,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1067,7 +1067,7 @@ Schorsch:
 — Na, sowyt wurd's doch hoffetli nit kumme?
 
           
-",riff-sainte-barbe,13,2,0.5323729590966868,0.15384615384615385
+",32,riff-sainte-barbe,13,2,0.5323729590966868,0.15384615384615385
 133,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1081,7 +1081,7 @@ Sie ware jetz am Dessert sin. Uff dies hawich v'rzicht. Vum Gschlacks bin ich ke
  — Bis dert anne wurd ünseri Kumpenie äu do sin.
 
           
-",riff-sainte-barbe,58,5,0.39917203534341494,0.08620689655172414
+",33,riff-sainte-barbe,58,5,0.39917203534341494,0.08620689655172414
 134,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1090,7 +1090,7 @@ Daniel:
 Ja un d'Harre Offizier?
 
           
-",riff-sainte-barbe,6,3,0.49288191512350915,0.5
+",33,riff-sainte-barbe,6,3,0.49288191512350915,0.5
 135,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1099,7 +1099,7 @@ Schorsch:
 Die kumme Alli mitnöönd hare, mit Müsik.
 
           
-",riff-sainte-barbe,8,2,0.4779753666145329,0.25
+",33,riff-sainte-barbe,8,2,0.4779753666145329,0.25
 136,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1108,7 +1108,7 @@ Lissel:
 Ja, hingenooch wied'r, wann do d'r göönz Marikt v'rloffe-n-isch.
 
           
-",riff-sainte-barbe,12,1,0.6402102505617395,0.08333333333333333
+",34,riff-sainte-barbe,12,1,0.6402102505617395,0.08333333333333333
 137,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1118,7 +1118,7 @@ Oha! — Wann mir kumme, fangt d'r Marikt erscht raacht oon! Bedenke's doch: d'e
             Sainte-Barbe, un d'rzü min finfezwanzigjahrig Dienschtjübiläum!
 
           
-",riff-sainte-barbe,25,2,0.4178251359978695,0.08
+",34,riff-sainte-barbe,25,2,0.4178251359978695,0.08
 138,comedy,Theres,F,,,,"
             
 Theres:
@@ -1127,7 +1127,7 @@ Theres:
 Ja, wie räucht's dann do hinne?!
 
           
-",riff-sainte-barbe,8,1,0.6402102505617395,0.125
+",34,riff-sainte-barbe,8,1,0.6402102505617395,0.125
 141,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1139,7 +1139,7 @@ Schorsch:
 — Ja, Theres, ja.
 
           
-",riff-sainte-barbe,10,2,0.6402102505617395,0.2
+",35,riff-sainte-barbe,10,2,0.6402102505617395,0.2
 142,comedy,Theres,F,,,,"
             
 Theres:
@@ -1151,7 +1151,7 @@ Theres:
 — Wyt vum Gschütz gitt alti Saldote! — Un iewerhäupt, los jetz! — Marsch! — en route!
 
           
-",riff-sainte-barbe,21,2,0.7066577744450875,0.09523809523809523
+",35,riff-sainte-barbe,21,2,0.7066577744450875,0.09523809523809523
 143,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1162,7 +1162,7 @@ Ja, Theres, ja. — Kum, min Harzkaferle! —
 (will sie umarmen.)
 
           
-",riff-sainte-barbe,14,2,0.6402102505617395,0.14285714285714285
+",35,riff-sainte-barbe,14,2,0.6402102505617395,0.14285714285714285
 146,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1174,7 +1174,7 @@ Lissel:
 — Aw'r finschter isch's drüsse, wie im e Sack.
 
           
-",riff-sainte-barbe,17,1,0.4940655078348597,0.058823529411764705
+",36,riff-sainte-barbe,17,1,0.4940655078348597,0.058823529411764705
 148,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1183,7 +1183,7 @@ Lissel:
 Jo, m'r sin warzi lang genuej im Dunkle gedappt iewwer de Kriej!
 
           
-",riff-sainte-barbe,13,3,0.6014473696026622,0.23076923076923078
+",37,riff-sainte-barbe,13,3,0.6014473696026622,0.23076923076923078
 149,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1192,7 +1192,7 @@ Daniel:
 Vor lütter Sainte-Barbe denke ünseri Harre Genieköpf im Gemäinerooth an nix Gschieds meh.
 
           
-",riff-sainte-barbe,14,2,0.38260310859396907,0.14285714285714285
+",37,riff-sainte-barbe,14,2,0.38260310859396907,0.14285714285714285
 151,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1202,7 +1202,7 @@ Petrol? — 's Elektrisch mueß hare! — Mir könne's üns läischte! — 's Ga
             d'Stadtlytt gebroocht.
 
           
-",riff-sainte-barbe,23,3,0.5603077032053997,0.13043478260869565
+",37,riff-sainte-barbe,23,3,0.5603077032053997,0.13043478260869565
 152,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1214,7 +1214,7 @@ Schorsch:
 — Driewwe uff d'r Strooß — — mittle im diefschte Drack drinne — — — lejt d'r Noochtwaachter!
 
           
-",riff-sainte-barbe,22,4,0.49076537712540136,0.18181818181818182
+",38,riff-sainte-barbe,22,4,0.49076537712540136,0.18181818181818182
 153,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1223,7 +1223,7 @@ Lissel:
 Oh Schrecke!
 
           
-",riff-sainte-barbe,3,1,0.8160000000000001,0.3333333333333333
+",38,riff-sainte-barbe,3,1,0.8160000000000001,0.3333333333333333
 155,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1232,7 +1232,7 @@ Schorsch:
 Äij jo, zall schun. — Hilf aw'r z'erscht, daß m'r 'ne uff d'Bäin stelle könne.
 
           
-",riff-sainte-barbe,17,3,0.4322172633592077,0.17647058823529413
+",38,riff-sainte-barbe,17,3,0.4322172633592077,0.17647058823529413
 156,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1244,7 +1244,7 @@ Lissel:
 Ich hab m'r's inggebildt, daß's eso kumme wurd.
 
           
-",riff-sainte-barbe,14,2,0.5323729590966868,0.14285714285714285
+",39,riff-sainte-barbe,14,2,0.5323729590966868,0.14285714285714285
 158,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1253,7 +1253,7 @@ Schorsch:
 Allons, kumm jetzt ich mueß häim!
 
           
-",riff-sainte-barbe,7,1,0.4247459181933735,0.14285714285714285
+",39,riff-sainte-barbe,7,1,0.4247459181933735,0.14285714285714285
 159,comedy,Theres,F,,,,"
             
 Theres:
@@ -1265,7 +1265,7 @@ Theres:
 — Ja, wurd's jetz bööl, od'r welle m'r do iewer Noocht bliewe?
 
           
-",riff-sainte-barbe,21,2,0.4590675221171001,0.09523809523809523
+",39,riff-sainte-barbe,21,2,0.4590675221171001,0.09523809523809523
 160,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -1274,7 +1274,7 @@ Schorsch:
 Kumm doch, Daniel.
 
           
-",riff-sainte-barbe,4,1,0.4247459181933735,0.25
+",40,riff-sainte-barbe,4,1,0.4247459181933735,0.25
 162,comedy,Theres,F,,,,"
             
 Theres:
@@ -1287,7 +1287,7 @@ Theres:
             Dreien zu, und schaut gebückt zum Schlüsselloch hinaus.)
 
           
-",riff-sainte-barbe,51,4,0.5670440341620747,0.0784313725490196
+",40,riff-sainte-barbe,51,4,0.5670440341620747,0.0784313725490196
 164,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1296,7 +1296,7 @@ Lissel:
 Philipp! — Hesch ken gröeßeri Viehhäit könne maache?!
 
           
-",riff-sainte-barbe,9,1,0.6151593896562078,0.1111111111111111
+",41,riff-sainte-barbe,9,1,0.6151593896562078,0.1111111111111111
 165,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1308,7 +1308,7 @@ Philipp:
 — Wann d'Kutte nit im Waj warde gewahn, no hatt's besser geklatscht.
 
           
-",riff-sainte-barbe,18,1,0.4547665950249551,0.05555555555555555
+",41,riff-sainte-barbe,18,1,0.4547665950249551,0.05555555555555555
 166,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1317,7 +1317,7 @@ Lissel:
 Stiermaaßi genuej d'rzü wärdsch halt allewiel noch fer ebs eso ze maache.
 
           
-",riff-sainte-barbe,14,2,0.4617684911237192,0.14285714285714285
+",41,riff-sainte-barbe,14,2,0.4617684911237192,0.14285714285714285
 167,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1329,7 +1329,7 @@ Philipp:
 — Ja, mäinsch viellicht, daß Ünseräiner durch de Kriej fiener wär worre?
 
           
-",riff-sainte-barbe,16,3,0.6142771032651243,0.1875
+",41,riff-sainte-barbe,16,3,0.6142771032651243,0.1875
 169,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1338,7 +1338,7 @@ Philipp:
 Lissel, beläidig ünser Bumbié-Chorps nit!
 
           
-",riff-sainte-barbe,6,1,0.6997389821743148,0.16666666666666666
+",42,riff-sainte-barbe,6,1,0.6997389821743148,0.16666666666666666
 170,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1347,7 +1347,7 @@ Lissel:
 Wärdsch ewack gebliewe vun ene! — Mit Dir läje se sich warzi wenni Ehr ing!
 
           
-",riff-sainte-barbe,16,1,0.6442244755318589,0.0625
+",42,riff-sainte-barbe,16,1,0.6442244755318589,0.0625
 171,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1368,7 +1368,7 @@ Philipp:
             gehsch!""
 
           
-",riff-sainte-barbe,87,7,0.5343678965361031,0.08045977011494253
+",42,riff-sainte-barbe,87,7,0.5343678965361031,0.08045977011494253
 173,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1381,7 +1381,7 @@ Was isch los?! — Gück D'r emol dies Discheck oon! — Ain Sträich mit d'r F�
  — Wie hoch gilt d'Wett?! — Äin Sträich!
 
           
-",riff-sainte-barbe,48,3,0.6391362325361009,0.0625
+",43,riff-sainte-barbe,48,3,0.6391362325361009,0.0625
 174,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1393,7 +1393,7 @@ Lissel:
 — Ingersteh Dich jo nit!
 
           
-",riff-sainte-barbe,9,1,0.923,0.1111111111111111
+",43,riff-sainte-barbe,9,1,0.923,0.1111111111111111
 177,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1402,7 +1402,7 @@ Philipp:
 Ich woort uff d'Ööndere.
 
           
-",riff-sainte-barbe,6,1,0.441,0.16666666666666666
+",44,riff-sainte-barbe,6,1,0.441,0.16666666666666666
 179,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1414,7 +1414,7 @@ Philipp:
 — Drüsse lejt'r im Drack!
 
           
-",riff-sainte-barbe,10,2,0.5259767479833737,0.2
+",44,riff-sainte-barbe,10,2,0.5259767479833737,0.2
 180,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1424,7 +1424,7 @@ Nee ar lejt nit! — D'r Brandmäischter un d'Theres höön 'ne mit häim genumm
             ünser Vorstand.
 
           
-",riff-sainte-barbe,22,1,0.4131016901969639,0.045454545454545456
+",45,riff-sainte-barbe,22,1,0.4131016901969639,0.045454545454545456
 183,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1436,7 +1436,7 @@ Lissel:
 — Ja, wartsch aw'r noch e weng, bis Alli do sin.
 
           
-",riff-sainte-barbe,15,2,0.7182437696859638,0.13333333333333333
+",45,riff-sainte-barbe,15,2,0.7182437696859638,0.13333333333333333
 184,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1447,7 +1447,7 @@ Ho, hol — Numme nit eso kürios, Lissel, un maach wied'r emol e öönders Gsic
 (will Lissel tätscheln.)
 
           
-",riff-sainte-barbe,22,3,0.38321035088270056,0.13636363636363635
+",46,riff-sainte-barbe,22,3,0.38321035088270056,0.13636363636363635
 190,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1456,7 +1456,7 @@ Philipp:
 Hyt isch fer uns Bumbié e Fyrdi, un sogar e doppelter. — Do kenn ich ken Dienscht.
 
           
-",riff-sainte-barbe,18,1,0.745,0.05555555555555555
+",47,riff-sainte-barbe,18,1,0.745,0.05555555555555555
 191,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1466,7 +1466,7 @@ Fyrdi hin, Fyrdi har — Dienscht od'r ken Dienscht — Kummando isch Kummando u
             V'rstange?! — Dies isch emol mini Mainung!
 
           
-",riff-sainte-barbe,25,2,0.440086878800951,0.08
+",47,riff-sainte-barbe,25,2,0.440086878800951,0.08
 192,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1475,7 +1475,7 @@ Philipp:
 Äij jo, zall schun.
 
           
-",riff-sainte-barbe,5,1,0.4933565078605325,0.2
+",48,riff-sainte-barbe,5,1,0.4933565078605325,0.2
 193,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1484,7 +1484,7 @@ Daniel:
 Ja, aw'r Dü muesch bie jedere Gelajehäit ebs extras maache.
 
           
-",riff-sainte-barbe,11,1,0.6402102505617395,0.09090909090909091
+",48,riff-sainte-barbe,11,1,0.6402102505617395,0.09090909090909091
 195,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1496,7 +1496,7 @@ Lissel:
 — Ja, öönderi Lytt vun hinge iewerfalle un grüen un blöij häueje.
 
           
-",riff-sainte-barbe,19,4,0.6024017071866474,0.21052631578947367
+",48,riff-sainte-barbe,19,4,0.6024017071866474,0.21052631578947367
 196,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1509,7 +1509,7 @@ Philipp:
             Sträich — — — sahn'r, dies isch ebs extras!
 
           
-",riff-sainte-barbe,31,1,0.5488635310505765,0.03225806451612903
+",49,riff-sainte-barbe,31,1,0.5488635310505765,0.03225806451612903
 198,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1522,7 +1522,7 @@ Welle-n-r 's emol sahne? —
             hoch gilt d'Wett?
 
           
-",riff-sainte-barbe,30,2,0.6060465743590638,0.06666666666666667
+",49,riff-sainte-barbe,30,2,0.6060465743590638,0.06666666666666667
 200,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1535,7 +1535,7 @@ Philipp:
             het!
 
           
-",riff-sainte-barbe,32,2,0.6378419050612093,0.0625
+",50,riff-sainte-barbe,32,2,0.6378419050612093,0.0625
 202,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1545,7 +1545,7 @@ Frisch gewöijt, isch halb gewunne, wer nit setzt, kann nix bekumme! — Also: F
             niemes Kürasch? — Wer setzt d'rgeje?
 
           
-",riff-sainte-barbe,25,3,0.6217250690039061,0.12
+",50,riff-sainte-barbe,25,3,0.6217250690039061,0.12
 203,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1557,7 +1557,7 @@ Daniel:
 — Hesch jetz Ruehj od'r nit, Gäuckelhirn, iewerzwarchs?!
 
           
-",riff-sainte-barbe,23,1,0.206409506654411,0.043478260869565216
+",50,riff-sainte-barbe,23,1,0.206409506654411,0.043478260869565216
 205,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1566,7 +1566,7 @@ Daniel:
 Loß 'ne leje, dane Narr!
 
           
-",riff-sainte-barbe,6,2,0.6958139936862537,0.3333333333333333
+",51,riff-sainte-barbe,6,2,0.6958139936862537,0.3333333333333333
 206,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1578,7 +1578,7 @@ Philipp:
 — Un dies Discheck mueß hyt doch noch droon gläuwe! — V'rloon Uch druff!
 
           
-",riff-sainte-barbe,22,1,0.3561173479361921,0.045454545454545456
+",51,riff-sainte-barbe,22,1,0.3561173479361921,0.045454545454545456
 207,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1590,7 +1590,7 @@ Lissel:
 — D'Bumbié kumme! — D'Bumbié kumme!
 
           
-",riff-sainte-barbe,21,7,0.6501773036384629,0.3333333333333333
+",51,riff-sainte-barbe,21,7,0.6501773036384629,0.3333333333333333
 208,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1599,7 +1599,7 @@ Daniel:
 Loß m'r die Dhüer zü! — Hesch noch nie ken Bumbié gsahne?
 
           
-",riff-sainte-barbe,13,1,0.745,0.07692307692307693
+",52,riff-sainte-barbe,13,1,0.745,0.07692307692307693
 210,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1614,7 +1614,7 @@ Na, no maach nit eso v'rruckt. —
 (mit dem brennenden Licht ab Türe links.)
 
           
-",riff-sainte-barbe,41,5,0.47237322916008473,0.12195121951219512
+",52,riff-sainte-barbe,41,5,0.47237322916008473,0.12195121951219512
 211,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1628,7 +1628,7 @@ Philipp:
             Lissel? — Löij, e jeder Mensch het sini Fahler, un ich bin äu e fahlerhafter Mensch — — — —
 
           
-",riff-sainte-barbe,66,4,0.50300924131035,0.06060606060606061
+",52,riff-sainte-barbe,66,4,0.50300924131035,0.06060606060606061
 213,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1640,7 +1640,7 @@ Juhuuuuuh! — Lissel, mit Dir döönz ich hyt Owe de-r-erschte Walzer! —
             hinter sich schließend, ins Freie.)
 
           
-",riff-sainte-barbe,34,3,0.5538800077557229,0.08823529411764706
+",53,riff-sainte-barbe,34,3,0.5538800077557229,0.08823529411764706
 214,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1652,7 +1652,7 @@ Danz mit's Däifels Grooßel, no rannsch äu ken Häiligi um! —
             aus der Ferne zu hören.)
 
           
-",riff-sainte-barbe,33,3,0.5958579569334718,0.09090909090909091
+",53,riff-sainte-barbe,33,3,0.5958579569334718,0.09090909090909091
 215,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1661,7 +1661,7 @@ Lissel:
 Halt!! — — Halt!! — Halt!! — 's derf niemes ering!
 
           
-",riff-sainte-barbe,12,3,0.4304222742857499,0.25
+",53,riff-sainte-barbe,12,3,0.4304222742857499,0.25
 216,comedy,buureburscht,M,,,,"
             
 Die Burschen:
@@ -1670,7 +1670,7 @@ Die Burschen:
 Oho! — Zall müeßt sin?!
 
           
-",riff-sainte-barbe,7,1,0.4933565078605325,0.14285714285714285
+",54,riff-sainte-barbe,7,1,0.4933565078605325,0.14285714285714285
 217,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1680,7 +1680,7 @@ Lissel:
             bedenke Uch numme nit lang. — D'Harre Offizier kumme äu noch! — Numme wied'r los!
 
           
-",riff-sainte-barbe,34,6,0.5265376319538605,0.17647058823529413
+",54,riff-sainte-barbe,34,6,0.5265376319538605,0.17647058823529413
 218,comedy,buuremaidle,F,,,,"
             
 Die Mädchen:
@@ -1692,7 +1692,7 @@ Die Mädchen:
 — Kumme, mir gehn!
 
           
-",riff-sainte-barbe,11,1,0.4247459181933735,0.09090909090909091
+",54,riff-sainte-barbe,11,1,0.4247459181933735,0.09090909090909091
 221,comedy,buuremaidle,F,,,,"
             
 Die Mädchen:
@@ -1704,7 +1704,7 @@ Die Mädchen:
 — Un dogebliewe wurd jetz. — Grood zeläid!
 
           
-",riff-sainte-barbe,13,1,0.64,0.07692307692307693
+",55,riff-sainte-barbe,13,1,0.64,0.07692307692307693
 222,comedy,Ein Bursche,M,,,,"
             
 Ein Bursche:
@@ -1713,7 +1713,7 @@ Ein Bursche:
 Mir könne äu Sainte-Barbe fiehre, so stolz wie d'Bumbié.
 
           
-",riff-sainte-barbe,12,3,0.633490390757914,0.25
+",55,riff-sainte-barbe,12,3,0.633490390757914,0.25
 224,comedy,buureburscht,M,,,,"
             
 Die Burschen:
@@ -1724,7 +1724,7 @@ Kumme, ihr Mäide!
 (Alle placieren sich rasch am hintersten Tisch der Gaststube.)
 
           
-",riff-sainte-barbe,16,2,0.44975648087805986,0.125
+",56,riff-sainte-barbe,16,2,0.44975648087805986,0.125
 226,comedy,buureburscht,M,,,,"
             
 Die Burschen und Mädchen:
@@ -1736,7 +1736,7 @@ Die Burschen und Mädchen:
 — Jo wajer!
 
           
-",riff-sainte-barbe,10,1,0.64,0.1
+",56,riff-sainte-barbe,10,1,0.64,0.1
 227,comedy,buuremaidle,F,,,,"
             
 Die Burschen und Mädchen:
@@ -1748,7 +1748,7 @@ Die Burschen und Mädchen:
 — Jo wajer!
 
           
-",riff-sainte-barbe,10,1,0.64,0.1
+",56,riff-sainte-barbe,10,1,0.64,0.1
 228,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1760,7 +1760,7 @@ Mir lejt's nit oon. — Maache was'r welle.
             der Wirtschaft an.)
 
           
-",riff-sainte-barbe,29,3,0.45866968054167456,0.10344827586206896
+",57,riff-sainte-barbe,29,3,0.45866968054167456,0.10344827586206896
 229,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -1769,7 +1769,7 @@ Michel:
 Kompagnie — halt! — entrer! — remplacer! — commencer! — arriver! — fouler à coups de piéd!
 
           
-",riff-sainte-barbe,18,1,0.4304222742857499,0.05555555555555555
+",57,riff-sainte-barbe,18,1,0.4304222742857499,0.05555555555555555
 230,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1783,7 +1783,7 @@ Lissel:
             un d'Fräu Brandmäischtere!
 
           
-",riff-sainte-barbe,47,7,0.42338673030376794,0.14893617021276595
+",57,riff-sainte-barbe,47,7,0.42338673030376794,0.14893617021276595
 231,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -1795,7 +1795,7 @@ Velde:
 — Do hätt m'r aw'r äu zwäi Fauteuil anne stelle könne.
 
           
-",riff-sainte-barbe,15,2,0.4536476411085454,0.13333333333333333
+",57,riff-sainte-barbe,15,2,0.4536476411085454,0.13333333333333333
 232,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1805,7 +1805,7 @@ Na jetzt ware numme nit schun wied'r gifti. — Ich mueß jo äu maache, was ich
             Sitze-n-'r jetz bööl Alli?!
 
           
-",riff-sainte-barbe,26,1,0.8613790338326972,0.038461538461538464
+",58,riff-sainte-barbe,26,1,0.8613790338326972,0.038461538461538464
 233,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -1814,7 +1814,7 @@ Michel:
 Jetz warde m'r Alli bienöönd, bis uff dane v'rlottelte Stawalters-Philipp.
 
           
-",riff-sainte-barbe,11,2,0.4478832975124776,0.18181818181818182
+",58,riff-sainte-barbe,11,2,0.4478832975124776,0.18181818181818182
 234,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1823,7 +1823,7 @@ Philipp:
 So?! — Ja, wo stackt dann dar Allerwaltslottel wied'r?
 
           
-",riff-sainte-barbe,10,1,0.6402102505617395,0.1
+",58,riff-sainte-barbe,10,1,0.6402102505617395,0.1
 235,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -1835,7 +1835,7 @@ Michel:
 — Wo kummsch dann Dü jetz uff eesmols haregschliche?
 
           
-",riff-sainte-barbe,13,1,0.441,0.07692307692307693
+",58,riff-sainte-barbe,13,1,0.441,0.07692307692307693
 236,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1847,7 +1847,7 @@ Philipp:
 — Hahaha! — Jetz wurd's Däuej! — Höön'r mich drowwe am Spritzehüs nit gsahne?
 
           
-",riff-sainte-barbe,27,2,0.6974317655252882,0.07407407407407407
+",59,riff-sainte-barbe,27,2,0.6974317655252882,0.07407407407407407
 237,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -1856,7 +1856,7 @@ Michel:
 Biem Apall uff kene Fall
 
           
-",riff-sainte-barbe,6,2,0.534,0.3333333333333333
+",59,riff-sainte-barbe,6,2,0.534,0.3333333333333333
 238,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1867,7 +1867,7 @@ Aw'r glich druff bin ich kumme. — Isch''s imstöönd nit so, Herr Korperal?
 (zwinkert Velde mit den Augen zu.)
 
           
-",riff-sainte-barbe,23,2,0.41659070650108077,0.08695652173913043
+",59,riff-sainte-barbe,23,2,0.41659070650108077,0.08695652173913043
 239,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -1876,7 +1876,7 @@ Velde:
 Grood wie m'r ewack marschiert sin, isch'r noochzeranne kumme. Zall isch wohr.
 
           
-",riff-sainte-barbe,13,3,0.44339676909495984,0.23076923076923078
+",59,riff-sainte-barbe,13,3,0.44339676909495984,0.23076923076923078
 241,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1890,7 +1890,7 @@ Philipp:
             d'Füeß! — Mir sin jetz franzeesch, wann'r 's je noch nit wisse, v'rstange?!
 
           
-",riff-sainte-barbe,54,1,0.402,0.018518518518518517
+",60,riff-sainte-barbe,54,1,0.402,0.018518518518518517
 242,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1899,7 +1899,7 @@ Daniel:
 Guete-n-Owe bienöönd.
 
           
-",riff-sainte-barbe,5,1,0.4974327231143904,0.2
+",60,riff-sainte-barbe,5,1,0.4974327231143904,0.2
 245,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1908,7 +1908,7 @@ Lissel:
 Numme emol de Hahne uff un d'Gleeser gfillt. An mir sell's nit fahle.
 
           
-",riff-sainte-barbe,16,2,0.47330940919109876,0.125
+",61,riff-sainte-barbe,16,2,0.47330940919109876,0.125
 247,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1917,7 +1917,7 @@ Lissel:
 Dü muesch halt wied'r d'r Erscht sin, wie's Mül uffrißt.
 
           
-",riff-sainte-barbe,12,2,0.36221113714287495,0.16666666666666666
+",61,riff-sainte-barbe,12,2,0.36221113714287495,0.16666666666666666
 250,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -1926,7 +1926,7 @@ D'Bumbié:
 Bravo! — Bravo!
 
           
-",riff-sainte-barbe,5,1,0.745,0.2
+",62,riff-sainte-barbe,5,1,0.745,0.2
 252,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -1935,7 +1935,7 @@ Lissel:
 Drej Kiwwel voll Grümbeeresalot.
 
           
-",riff-sainte-barbe,5,1,0.8360965730370732,0.2
+",63,riff-sainte-barbe,5,1,0.8360965730370732,0.2
 253,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -1944,7 +1944,7 @@ D'Bumbié:
 Bravo!
 
           
-",riff-sainte-barbe,3,1,0.745,0.3333333333333333
+",63,riff-sainte-barbe,3,1,0.745,0.3333333333333333
 254,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1953,7 +1953,7 @@ Daniel:
 Zwäi Meter fuffzig Brootwurscht uff de Mann.
 
           
-",riff-sainte-barbe,8,2,0.44844256446229674,0.25
+",63,riff-sainte-barbe,8,2,0.44844256446229674,0.25
 255,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -1962,7 +1962,7 @@ D'Bumbié:
 Bravo!
 
           
-",riff-sainte-barbe,3,1,0.745,0.3333333333333333
+",63,riff-sainte-barbe,3,1,0.745,0.3333333333333333
 257,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -1971,7 +1971,7 @@ Daniel:
 E Säichkaschte voll, mit Respakt ze malde.
 
           
-",riff-sainte-barbe,8,2,0.5900482865185366,0.25
+",64,riff-sainte-barbe,8,2,0.5900482865185366,0.25
 258,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -1980,7 +1980,7 @@ D'Bumbié:
 Bravo!
 
           
-",riff-sainte-barbe,3,1,0.745,0.3333333333333333
+",64,riff-sainte-barbe,3,1,0.745,0.3333333333333333
 259,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -1992,7 +1992,7 @@ Philipp:
 — Kamerade! — Gsündhäit!
 
           
-",riff-sainte-barbe,10,2,0.46869570315455855,0.2
+",64,riff-sainte-barbe,10,2,0.46869570315455855,0.2
 260,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -2003,7 +2003,7 @@ Gsündhäit!
 (sie trinken.)
 
           
-",riff-sainte-barbe,7,2,0.586,0.2857142857142857
+",65,riff-sainte-barbe,7,2,0.586,0.2857142857142857
 261,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2017,7 +2017,7 @@ Kamerade! — Sahn'r dies Discheck do? —
             d'rgeje?!
 
           
-",riff-sainte-barbe,46,3,0.5924338701337543,0.06521739130434782
+",65,riff-sainte-barbe,46,3,0.5924338701337543,0.06521739130434782
 263,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2026,7 +2026,7 @@ Michel:
 Wrinke m'r äins, ihr Manner!
 
           
-",riff-sainte-barbe,6,1,0.4558851289245935,0.16666666666666666
+",65,riff-sainte-barbe,6,1,0.4558851289245935,0.16666666666666666
 264,comedy,buureburscht,M,,,,"
             
 Ein Bauernbursche:
@@ -2035,7 +2035,7 @@ Ein Bauernbursche:
 Unseri Bumbié selle lawe!
 
           
-",riff-sainte-barbe,6,2,0.6941358803013127,0.3333333333333333
+",66,riff-sainte-barbe,6,2,0.6941358803013127,0.3333333333333333
 266,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2044,7 +2044,7 @@ Michel:
 's erscht Glas hatte m'r äijetli uff's Wohl vun ünserem Brandmäischter laartrinke selle.
 
           
-",riff-sainte-barbe,15,2,0.3586566074300459,0.13333333333333333
+",66,riff-sainte-barbe,15,2,0.3586566074300459,0.13333333333333333
 271,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2055,7 +2055,7 @@ Kamerade! — Fünfezwanzig Johr steht hyt ünser Brandmäischter uff siem schwa
 Fünfezwanzig Johr sin sozesäueje e Stick Menschealter — — — —
 
           
-",riff-sainte-barbe,25,3,0.495843824271937,0.12
+",67,riff-sainte-barbe,25,3,0.495843824271937,0.12
 272,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2068,7 +2068,7 @@ Velde:
             ning falle, aw'r — — — was Raacht isch, mueß Raacht bliewe!
 
           
-",riff-sainte-barbe,34,5,0.4422787892847726,0.14705882352941177
+",68,riff-sainte-barbe,34,5,0.4422787892847726,0.14705882352941177
 274,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2078,7 +2078,7 @@ Ich bin jo noch nit ferti — Kamerade! — Ünser Harr Brandmaischter loßt sic
             schwar's Stick Gald koschte — — —
 
           
-",riff-sainte-barbe,27,3,0.49097329120398747,0.1111111111111111
+",68,riff-sainte-barbe,27,3,0.49097329120398747,0.1111111111111111
 275,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -2087,7 +2087,7 @@ D'Bumbié:
 Bravo! — Vive!
 
           
-",riff-sainte-barbe,5,1,0.745,0.2
+",68,riff-sainte-barbe,5,1,0.745,0.2
 276,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2096,7 +2096,7 @@ Michel:
 Ja, Velde, ich bin doch am redde.
 
           
-",riff-sainte-barbe,8,1,0.6402102505617395,0.125
+",69,riff-sainte-barbe,8,1,0.6402102505617395,0.125
 278,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2105,7 +2105,7 @@ Michel:
 Dies isch e ordinäri Inbüssion!
 
           
-",riff-sainte-barbe,6,1,0.685002004676651,0.16666666666666666
+",69,riff-sainte-barbe,6,1,0.685002004676651,0.16666666666666666
 279,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2115,7 +2115,7 @@ In-sub-or-di-na-tion! säit m'r d'rzü, wann m'r latinisch babble will. Wann m'r
             genuej isch d'rzü, d'rnoo halt m'r scheen sin däub Mül un trinkt sin Bier.
 
           
-",riff-sainte-barbe,33,4,0.4420823838113479,0.12121212121212122
+",69,riff-sainte-barbe,33,4,0.4420823838113479,0.12121212121212122
 281,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2128,7 +2128,7 @@ Michel:
             ich!
 
           
-",riff-sainte-barbe,23,4,0.504511283986419,0.17391304347826086
+",70,riff-sainte-barbe,23,4,0.504511283986419,0.17391304347826086
 282,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2137,7 +2137,7 @@ Philipp:
 Gsündhäit!
 
           
-",riff-sainte-barbe,2,1,0.427,0.5
+",70,riff-sainte-barbe,2,1,0.427,0.5
 283,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2146,7 +2146,7 @@ Daniel:
 Ruehji, ruehji! — Fange doch nit schun so an!
 
           
-",riff-sainte-barbe,10,3,0.2840651986956397,0.3
+",70,riff-sainte-barbe,10,3,0.2840651986956397,0.3
 284,comedy,buureburscht,M,,,,"
             
 Die Burschen und Mädchen:
@@ -2158,7 +2158,7 @@ Die Burschen und Mädchen:
 — Nür äinmal blüht, wenn's niemand sieht, nür äinmal im Leben die Liebe!
 
           
-",riff-sainte-barbe,21,3,0.5994824225074301,0.14285714285714285
+",71,riff-sainte-barbe,21,3,0.5994824225074301,0.14285714285714285
 285,comedy,buuremaidle,F,,,,"
             
 Die Burschen und Mädchen:
@@ -2170,7 +2170,7 @@ Die Burschen und Mädchen:
 — Nür äinmal blüht, wenn's niemand sieht, nür äinmal im Leben die Liebe!
 
           
-",riff-sainte-barbe,21,3,0.5994824225074301,0.14285714285714285
+",71,riff-sainte-barbe,21,3,0.5994824225074301,0.14285714285714285
 286,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2182,7 +2182,7 @@ Michel:
 — Ja, wo bliet dann do noch d'Majorität?!
 
           
-",riff-sainte-barbe,13,2,0.7437857881924985,0.15384615384615385
+",71,riff-sainte-barbe,13,2,0.7437857881924985,0.15384615384615385
 288,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2194,7 +2194,7 @@ Philipp:
 — Do mueß jo e Gückelhahn laache! — Lissel, räich Bier eriewwer!
 
           
-",riff-sainte-barbe,21,1,0.5837032431941391,0.047619047619047616
+",72,riff-sainte-barbe,21,1,0.5837032431941391,0.047619047619047616
 290,comedy,Velde Umecker,M,,,,"
             
 Die Mädchen:
@@ -2203,7 +2203,7 @@ Die Mädchen:
 Gsündhäit!
 
           
-",riff-sainte-barbe,3,1,0.427,0.3333333333333333
+",72,riff-sainte-barbe,3,1,0.427,0.3333333333333333
 292,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -2212,7 +2212,7 @@ D'Bumbié:
 Gsündhäit!
 
           
-",riff-sainte-barbe,3,2,0.586,0.6666666666666666
+",73,riff-sainte-barbe,3,2,0.586,0.6666666666666666
 293,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2221,7 +2221,7 @@ Velde:
 Kamerade!
 
           
-",riff-sainte-barbe,2,1,0.5103914063091171,0.5
+",73,riff-sainte-barbe,2,1,0.5103914063091171,0.5
 295,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2230,7 +2230,7 @@ Velde:
 Mir fiere hyt Sainte-Barbe un zeglich 's Jübiläum vun ünserem Harr Brandmäischter.
 
           
-",riff-sainte-barbe,13,1,0.5,0.07692307692307693
+",73,riff-sainte-barbe,13,1,0.5,0.07692307692307693
 303,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2242,7 +2242,7 @@ Kamerade! Mir sin v'rgnüejt bienöönd, mir, ja. — Aw'r — — — wo sin ü
 (Beistimmendes Gemurmel.)
 
           
-",riff-sainte-barbe,25,4,0.49725928791991114,0.16
+",75,riff-sainte-barbe,25,4,0.49725928791991114,0.16
 305,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2256,7 +2256,7 @@ Velde:
 (Gelächter allseits.)
 
           
-",riff-sainte-barbe,14,1,0.64,0.07142857142857142
+",76,riff-sainte-barbe,14,1,0.64,0.07142857142857142
 306,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2265,7 +2265,7 @@ Daniel:
 Ruehji!
 
           
-",riff-sainte-barbe,2,1,0.206409506654411,0.5
+",76,riff-sainte-barbe,2,1,0.206409506654411,0.5
 308,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -2274,7 +2274,7 @@ Lissel:
 M'r daats aw'r bööl mäine.
 
           
-",riff-sainte-barbe,6,1,0.4855792551331206,0.16666666666666666
+",77,riff-sainte-barbe,6,1,0.4855792551331206,0.16666666666666666
 309,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2283,7 +2283,7 @@ Philipp:
 Lissel, ich hab Durscht.
 
           
-",riff-sainte-barbe,5,1,0.519,0.2
+",77,riff-sainte-barbe,5,1,0.519,0.2
 311,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2292,7 +2292,7 @@ Velde:
 Ich fröij noch emol: wo sin ünseri Harre Offizier?!
 
           
-",riff-sainte-barbe,10,3,0.4527118022642975,0.3
+",77,riff-sainte-barbe,10,3,0.4527118022642975,0.3
 312,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2301,7 +2301,7 @@ Michel:
 Velde, jetz nimm ich Dir's Wort!
 
           
-",riff-sainte-barbe,8,1,0.62,0.125
+",78,riff-sainte-barbe,8,1,0.62,0.125
 313,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2310,7 +2310,7 @@ Velde:
 E Drack kannsch Dü mir nahme, v'rstange?!
 
           
-",riff-sainte-barbe,8,1,0.5030899649161708,0.125
+",78,riff-sainte-barbe,8,1,0.5030899649161708,0.125
 315,comedy,bumbie,U,,,,"
             
 D'Bumbié:
@@ -2319,7 +2319,7 @@ D'Bumbié:
 's isch Sainte-Barbe!
 
           
-",riff-sainte-barbe,5,1,0.745,0.2
+",78,riff-sainte-barbe,5,1,0.745,0.2
 316,comedy,buureburscht,M,,,,"
             
 Die Burschen und Mädchen:
@@ -2331,7 +2331,7 @@ Die Burschen und Mädchen:
 — Schön isch die Jü-ügend, sie kommt nicht mehr!
 
           
-",riff-sainte-barbe,16,3,0.581852627894341,0.1875
+",79,riff-sainte-barbe,16,3,0.581852627894341,0.1875
 317,comedy,buuremaidle,F,,,,"
             
 Die Burschen und Mädchen:
@@ -2343,7 +2343,7 @@ Die Burschen und Mädchen:
 — Schön isch die Jü-ügend, sie kommt nicht mehr!
 
           
-",riff-sainte-barbe,16,3,0.581852627894341,0.1875
+",79,riff-sainte-barbe,16,3,0.581852627894341,0.1875
 318,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2352,7 +2352,7 @@ Michel:
 D'Glycerin mueß hoch ghalte ware!
 
           
-",riff-sainte-barbe,7,1,0.6060465743590638,0.14285714285714285
+",79,riff-sainte-barbe,7,1,0.6060465743590638,0.14285714285714285
 320,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2361,7 +2361,7 @@ Daniel:
 Jetz loon doch emol die ewige Stupfereje ewack!
 
           
-",riff-sainte-barbe,9,2,0.5104645545512277,0.2222222222222222
+",80,riff-sainte-barbe,9,2,0.5104645545512277,0.2222222222222222
 322,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2370,7 +2370,7 @@ Michel:
 Silence! — Ünser Harr Brandmäischter sell lawe!
 
           
-",riff-sainte-barbe,8,1,0.6432717606026254,0.125
+",80,riff-sainte-barbe,8,1,0.6432717606026254,0.125
 324,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2382,7 +2382,7 @@ Na, het noch Kener d'Kürasch?! —
  — Mit äim Sträich! — Hoppla! -Wer setzt d'rgeje?!
 
           
-",riff-sainte-barbe,25,1,0.6060465743590638,0.04
+",81,riff-sainte-barbe,25,1,0.6060465743590638,0.04
 327,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2392,7 +2392,7 @@ Wann noochhare ünseri Offizier kumme, Michel, no will ich hoffe, daß Dü mine 
             v'rtrittsch — — —
 
           
-",riff-sainte-barbe,19,4,0.44262364793220504,0.21052631578947367
+",81,riff-sainte-barbe,19,4,0.44262364793220504,0.21052631578947367
 328,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2401,7 +2401,7 @@ Michel:
 Bisch jetz bööl emol still?!
 
           
-",riff-sainte-barbe,6,1,0.2204693930016622,0.16666666666666666
+",82,riff-sainte-barbe,6,1,0.2204693930016622,0.16666666666666666
 329,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2410,7 +2410,7 @@ Velde:
 Noch lang nit!
 
           
-",riff-sainte-barbe,4,1,0.445728829830827,0.25
+",82,riff-sainte-barbe,4,1,0.445728829830827,0.25
 331,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2419,7 +2419,7 @@ Velde:
 Fer mich hesch Dü ken Abfüehrmittel!
 
           
-",riff-sainte-barbe,7,1,0.55,0.14285714285714285
+",82,riff-sainte-barbe,7,1,0.55,0.14285714285714285
 332,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2428,7 +2428,7 @@ Daniel:
 Wenn's jetz ken Ruehj gitt, no bloos ich d'Lampe üs! — E Starnsapeprmant nochemol!
 
           
-",riff-sainte-barbe,17,3,0.412687212118018,0.17647058823529413
+",83,riff-sainte-barbe,17,3,0.412687212118018,0.17647058823529413
 333,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2440,7 +2440,7 @@ Velde:
 — So wyt geht d'Narrhäit noch nit bie Dir, Daniel. —
 
           
-",riff-sainte-barbe,21,1,0.6150073787456561,0.047619047619047616
+",83,riff-sainte-barbe,21,1,0.6150073787456561,0.047619047619047616
 334,comedy,buureburscht,M,,,,"
             
 Die Burschen und Mädchen:
@@ -2452,7 +2452,7 @@ Die Burschen und Mädchen:
 — O Süsanne, wie isch das Leben doch so schön! — O Süsanna, wie isch das Leben schön!
 
           
-",riff-sainte-barbe,25,4,0.5692336790290015,0.16
+",83,riff-sainte-barbe,25,4,0.5692336790290015,0.16
 335,comedy,buuremaidle,F,,,,"
             
 Die Burschen und Mädchen:
@@ -2464,7 +2464,7 @@ Die Burschen und Mädchen:
 — O Süsanne, wie isch das Leben doch so schön! — O Süsanna, wie isch das Leben schön!
 
           
-",riff-sainte-barbe,25,4,0.5692336790290015,0.16
+",83,riff-sainte-barbe,25,4,0.5692336790290015,0.16
 336,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -2477,7 +2477,7 @@ Lissel:
             Uch!
 
           
-",riff-sainte-barbe,37,1,0.206409506654411,0.02702702702702703
+",84,riff-sainte-barbe,37,1,0.206409506654411,0.02702702702702703
 339,comedy,buureburscht,M,,,,"
             
 Die Burschen und Mädchen:
@@ -2486,7 +2486,7 @@ Die Burschen und Mädchen:
 (singen.) — Röslein, Röslein, Röslein rot! Röslein auf der Heiden!
 
           
-",riff-sainte-barbe,16,2,0.5207629290599173,0.125
+",84,riff-sainte-barbe,16,2,0.5207629290599173,0.125
 340,comedy,buuremaidle,F,,,,"
             
 Die Burschen und Mädchen:
@@ -2495,7 +2495,7 @@ Die Burschen und Mädchen:
 (singen.) — Röslein, Röslein, Röslein rot! Röslein auf der Heiden!
 
           
-",riff-sainte-barbe,16,2,0.5207629290599173,0.125
+",85,riff-sainte-barbe,16,2,0.5207629290599173,0.125
 341,comedy,chorus,U,,,,"
             
 Chorus:
@@ -2507,7 +2507,7 @@ Chorus:
 — Röslein, Röslein, Röslein rot! Röslein auf der Heide !
 
           
-",riff-sainte-barbe,13,1,0.3991635718921891,0.07692307692307693
+",85,riff-sainte-barbe,13,1,0.3991635718921891,0.07692307692307693
 342,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2516,7 +2516,7 @@ Schorsch:
 à la bonheur! — Do geht's jo schun raacht luschdi zü!
 
           
-",riff-sainte-barbe,13,2,0.5307424896537017,0.15384615384615385
+",85,riff-sainte-barbe,13,2,0.5307424896537017,0.15384615384615385
 343,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2525,7 +2525,7 @@ Michel:
 Kamerade! — Ünser Harr Brandmäischter un d'Fräu Brandmäischtere selle lawe!
 
           
-",riff-sainte-barbe,12,2,0.5768315834558713,0.16666666666666666
+",85,riff-sainte-barbe,12,2,0.5768315834558713,0.16666666666666666
 346,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2537,7 +2537,7 @@ Schorsch:
 — Deraschiere Uch numme nit. Numme luschti druff los.
 
           
-",riff-sainte-barbe,13,3,0.6964972849731486,0.23076923076923078
+",86,riff-sainte-barbe,13,3,0.6964972849731486,0.23076923076923078
 347,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2547,7 +2547,7 @@ Dies isch äu mini Mäinung. — Harr Brandmäischter, betraachte die Füscht, u
             Discheck. — Äin Sträich vun mir vun owwera — — — — —
 
           
-",riff-sainte-barbe,28,3,0.3763095378206323,0.10714285714285714
+",86,riff-sainte-barbe,28,3,0.3763095378206323,0.10714285714285714
 349,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2556,7 +2556,7 @@ Schorsch:
 Warm isch's do hinne, Theres, grießerli warm.
 
           
-",riff-sainte-barbe,9,2,0.4368542538873953,0.2222222222222222
+",87,riff-sainte-barbe,9,2,0.4368542538873953,0.2222222222222222
 350,comedy,Theres,F,,,,"
             
 Theres:
@@ -2566,7 +2566,7 @@ Hawich D'r's nit allewiel gsäit, Dü sellsch nit zeviel trinke? — Un no dar K
             hatt ewack sotte bliewe.
 
           
-",riff-sainte-barbe,22,1,0.4931147079616885,0.045454545454545456
+",87,riff-sainte-barbe,22,1,0.4931147079616885,0.045454545454545456
 354,comedy,Theres,F,,,,"
             
 Theres:
@@ -2575,7 +2575,7 @@ Theres:
 Na, viellicht äu zwäi, aw'r höchschtens drej.
 
           
-",riff-sainte-barbe,8,1,0.3300618280273141,0.125
+",88,riff-sainte-barbe,8,1,0.3300618280273141,0.125
 355,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2584,7 +2584,7 @@ Schorsch:
 Ja, ohni d'r Rascht!
 
           
-",riff-sainte-barbe,5,1,0.6402102505617395,0.2
+",88,riff-sainte-barbe,5,1,0.6402102505617395,0.2
 357,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2596,7 +2596,7 @@ Schorsch:
 — Ich kriej bööl ken Luft meh.
 
           
-",riff-sainte-barbe,11,1,0.8725592312063194,0.09090909090909091
+",89,riff-sainte-barbe,11,1,0.8725592312063194,0.09090909090909091
 358,comedy,Theres,F,,,,"
             
 Theres:
@@ -2607,7 +2607,7 @@ Maach de Kräueje uff un d'Knepf am Frack.
 (geschieht.)
 
           
-",riff-sainte-barbe,13,1,0.441,0.07692307692307693
+",89,riff-sainte-barbe,13,1,0.441,0.07692307692307693
 359,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2617,7 +2617,7 @@ Michel, entweder säesch jetzt was ze säueje isch, od'r ich fang oon. — Aw'r 
             vor's Mül genumme.
 
           
-",riff-sainte-barbe,23,2,0.36668829138904846,0.08695652173913043
+",89,riff-sainte-barbe,23,2,0.36668829138904846,0.08695652173913043
 360,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2626,7 +2626,7 @@ Michel:
 Sej zefridde, Velde, ich träe's schun vor.
 
           
-",riff-sainte-barbe,9,1,0.611381250605775,0.1111111111111111
+",90,riff-sainte-barbe,9,1,0.611381250605775,0.1111111111111111
 362,comedy,Theres,F,,,,"
             
 Theres:
@@ -2637,7 +2637,7 @@ Als noch? — Lissel, maach irjes uff un loß frischi Luft ering. —
 (Lissel öffnet ein Fenster.)
 
           
-",riff-sainte-barbe,20,2,0.5700458056711201,0.1
+",90,riff-sainte-barbe,20,2,0.5700458056711201,0.1
 363,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2646,7 +2646,7 @@ Daniel:
 Trinke ihr Harrschafte äu Bier?
 
           
-",riff-sainte-barbe,6,1,0.6972339352170577,0.16666666666666666
+",90,riff-sainte-barbe,6,1,0.6972339352170577,0.16666666666666666
 368,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2655,7 +2655,7 @@ Velde:
 Aha! — Andli!
 
           
-",riff-sainte-barbe,4,1,0.433,0.25
+",92,riff-sainte-barbe,4,1,0.433,0.25
 369,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2665,7 +2665,7 @@ Hochv'rehrti Fräu Brandmäischtere un Jübilarin! — Liewi Kamerade! — As is
             üns Alli zamme —
 
           
-",riff-sainte-barbe,21,3,0.49761460862071955,0.14285714285714285
+",92,riff-sainte-barbe,21,3,0.49761460862071955,0.14285714285714285
 370,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2674,7 +2674,7 @@ Velde:
 D'Offizier! — D'Offizier!
 
           
-",riff-sainte-barbe,6,2,0.43,0.3333333333333333
+",92,riff-sainte-barbe,6,2,0.43,0.3333333333333333
 371,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2683,7 +2683,7 @@ Michel:
 Un dorum selle ünseri Harre Offizier, un vor allem ünserer Harr Jübilar lawe! — vive!
 
           
-",riff-sainte-barbe,16,3,0.49390241847047117,0.1875
+",92,riff-sainte-barbe,16,3,0.49390241847047117,0.1875
 373,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2695,7 +2695,7 @@ Velde:
 — Na wart numme!
 
           
-",riff-sainte-barbe,8,1,0.4547665950249551,0.125
+",93,riff-sainte-barbe,8,1,0.4547665950249551,0.125
 374,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2707,7 +2707,7 @@ Schorsch:
 — Theres, mir wurd's schlaacht! Ich mueß an d'Luft!
 
           
-",riff-sainte-barbe,15,2,0.5402276839372232,0.13333333333333333
+",93,riff-sainte-barbe,15,2,0.5402276839372232,0.13333333333333333
 375,comedy,Theres,F,,,,"
             
 Theres:
@@ -2716,7 +2716,7 @@ Theres:
 Zerscht muesch noch e Red halte. — 's isch Dini Pflicht.
 
           
-",riff-sainte-barbe,12,1,0.4304222742857499,0.08333333333333333
+",93,riff-sainte-barbe,12,1,0.4304222742857499,0.08333333333333333
 377,comedy,Theres,F,,,,"
             
 Theres:
@@ -2725,7 +2725,7 @@ Theres:
 Riß Dich zamme.
 
           
-",riff-sainte-barbe,4,1,0.4179635713275427,0.25
+",94,riff-sainte-barbe,4,1,0.4179635713275427,0.25
 380,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2739,7 +2739,7 @@ Schorsch:
             iewel — — as — — as — as wurd m'r unpaßli!
 
           
-",riff-sainte-barbe,62,4,0.5099937722808571,0.06451612903225806
+",95,riff-sainte-barbe,62,4,0.5099937722808571,0.06451612903225806
 382,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -2751,7 +2751,7 @@ Lissel:
 — Steht's schlimm, Harr Brandmäischter?
 
           
-",riff-sainte-barbe,10,2,0.629494807186606,0.2
+",95,riff-sainte-barbe,10,2,0.629494807186606,0.2
 383,comedy,Schorsch Peterhänsel,M,,,,"
             
 Schorsch:
@@ -2765,7 +2765,7 @@ Schorsch:
 (taumelt zur Tür rechts hinaus in den Hof).
 
           
-",riff-sainte-barbe,24,3,0.5198861328684506,0.125
+",95,riff-sainte-barbe,24,3,0.5198861328684506,0.125
 384,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2774,7 +2774,7 @@ Velde:
 Wann'r halt Bier getrunke hatt, wie Ünseräiner — — —
 
           
-",riff-sainte-barbe,11,1,0.4304222742857499,0.09090909090909091
+",96,riff-sainte-barbe,11,1,0.4304222742857499,0.09090909090909091
 387,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2783,7 +2783,7 @@ Michel:
 Silence! — D'Fräu Brandmäischtere het's Wort!
 
           
-",riff-sainte-barbe,9,1,0.62,0.1111111111111111
+",96,riff-sainte-barbe,9,1,0.62,0.1111111111111111
 388,comedy,Theres,F,,,,"
             
 Theres:
@@ -2793,7 +2793,7 @@ Ihr Manner! — Vun jehar hawich mich fer ünseri Fäierwehr intressiert, un um 
             BumbiéAngelajehäite oongenumme.
 
           
-",riff-sainte-barbe,17,1,0.4558851289245935,0.058823529411764705
+",97,riff-sainte-barbe,17,1,0.4558851289245935,0.058823529411764705
 390,comedy,Theres,F,,,,"
             
 Theres:
@@ -2805,7 +2805,7 @@ Theres:
 — Fünfezwanzig Johr stehn mir uff ünserem Poschte.
 
           
-",riff-sainte-barbe,16,1,0.441,0.0625
+",97,riff-sainte-barbe,16,1,0.441,0.0625
 392,comedy,Theres,F,,,,"
             
 Theres:
@@ -2817,7 +2817,7 @@ Theres:
 — Mit Stolz un Fräid, trotz Gift un Näid, höön mir ünser Amt gewissehaft bekläidt.
 
           
-",riff-sainte-barbe,23,6,0.7115945068872214,0.2608695652173913
+",98,riff-sainte-barbe,23,6,0.7115945068872214,0.2608695652173913
 400,comedy,Theres,F,,,,"
             
 Theres:
@@ -2832,7 +2832,7 @@ Theres:
  — Mir!
 
           
-",riff-sainte-barbe,34,3,0.6728979552324829,0.08823529411764706
+",100,riff-sainte-barbe,34,3,0.6728979552324829,0.08823529411764706
 402,comedy,Theres,F,,,,"
             
 Theres:
@@ -2841,7 +2841,7 @@ Theres:
 Un d'Harre Offizier vun ünserer Kumpenie —
 
           
-",riff-sainte-barbe,9,2,0.419217747404394,0.2222222222222222
+",100,riff-sainte-barbe,9,2,0.419217747404394,0.2222222222222222
 403,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2853,7 +2853,7 @@ Velde:
 — Ja?! — Wo sin se, ünseri Harre Offizier?! — Wo sin se?!
 
           
-",riff-sainte-barbe,18,4,0.5514645932112702,0.2222222222222222
+",100,riff-sainte-barbe,18,4,0.5514645932112702,0.2222222222222222
 404,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2862,7 +2862,7 @@ Michel:
 Velde, jetz isch's awr genuej! — Bie dr nachschte V'rsammlung stell ich de Anträuej — —
 
           
-",riff-sainte-barbe,18,2,0.42888355284748636,0.1111111111111111
+",101,riff-sainte-barbe,18,2,0.42888355284748636,0.1111111111111111
 405,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2874,7 +2874,7 @@ Daniel:
 — Stille, stille, stille!
 
           
-",riff-sainte-barbe,8,3,0.2204693930016622,0.375
+",101,riff-sainte-barbe,8,3,0.2204693930016622,0.375
 406,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2883,7 +2883,7 @@ Velde:
 In d'r nachschte V'rsammlung haltsch Dü Din Mül, v'rstange?!
 
           
-",riff-sainte-barbe,10,2,0.39473591173894107,0.2
+",101,riff-sainte-barbe,10,2,0.39473591173894107,0.2
 407,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2892,7 +2892,7 @@ Daniel:
 Bliewe doch ruehji jetz.
 
           
-",riff-sainte-barbe,5,1,0.206409506654411,0.2
+",101,riff-sainte-barbe,5,1,0.206409506654411,0.2
 408,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -2902,7 +2902,7 @@ Bild D'r numme nit ze viel ing uff Dine Spritzemäischter! — Fräu Brandmäisc
             gare emol Ööntwort uff die Fröij, wo ünseri Harre Offizier sin?!
 
           
-",riff-sainte-barbe,28,5,0.44802708135857855,0.17857142857142858
+",102,riff-sainte-barbe,28,5,0.44802708135857855,0.17857142857142858
 409,comedy,Theres,F,,,,"
             
 Theres:
@@ -2916,7 +2916,7 @@ Theres:
             ooooh! — — oooh! ooooooh !
 
           
-",riff-sainte-barbe,62,5,0.5356605515152782,0.08064516129032258
+",102,riff-sainte-barbe,62,5,0.5356605515152782,0.08064516129032258
 410,comedy,Lissel,F,,,,"
             
 Lissel:
@@ -2930,7 +2930,7 @@ Lissel:
 (geleitet die Schwankende zur Tür rechts hinaus in den Hof.)
 
           
-",riff-sainte-barbe,27,2,0.4274576682978498,0.07407407407407407
+",102,riff-sainte-barbe,27,2,0.4274576682978498,0.07407407407407407
 412,comedy,Daniel Wendling,M,,,,"
             
 Daniel:
@@ -2939,7 +2939,7 @@ Daniel:
 D'Rachnung zahlsch, un wann se noch so gsalze wurd!
 
           
-",riff-sainte-barbe,11,1,0.4662170546004218,0.09090909090909091
+",103,riff-sainte-barbe,11,1,0.4662170546004218,0.09090909090909091
 413,comedy,Philipp Stawalter,M,,,,"
             
 Philipp:
@@ -2951,7 +2951,7 @@ Philipp:
 — Mir zahle se! — Numme ken Angscht!
 
           
-",riff-sainte-barbe,12,3,0.6059936473218962,0.25
+",103,riff-sainte-barbe,12,3,0.6059936473218962,0.25
 414,comedy,alle,U,,,,"
             
 Alle:
@@ -2963,7 +2963,7 @@ Alle:
 — D'Offizier kumme! — D'Offizier kumme!
 
           
-",riff-sainte-barbe,12,5,0.4704983672773494,0.4166666666666667
+",103,riff-sainte-barbe,12,5,0.4704983672773494,0.4166666666666667
 415,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2982,7 +2982,7 @@ Michel:
             Gasse gebildet ist. — Die Musik ist inzwischen vor der Wirtschaft angelangt.)
 
           
-",riff-sainte-barbe,60,3,0.5374232919212952,0.05
+",103,riff-sainte-barbe,60,3,0.5374232919212952,0.05
 416,comedy,Michel Ohlmershans,M,,,,"
             
 Michel:
@@ -2996,7 +2996,7 @@ salutiert. — Die Musik bricht mit einem schaudervollen Mißakkord ab. — Alle
             berechtigter Spannung nach der geöffneten Tür.)
 
           
-",riff-sainte-barbe,38,3,0.7136989712048627,0.07894736842105263
+",104,riff-sainte-barbe,38,3,0.7136989712048627,0.07894736842105263
 417,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -3006,7 +3006,7 @@ Hähähä — — — ihr Manner — — hähähä — — — ihr — — — h
             — — hupp — — — ünseri Harrer Offizier — — — —
 
           
-",riff-sainte-barbe,42,3,0.4353681977114106,0.07142857142857142
+",104,riff-sainte-barbe,42,3,0.4353681977114106,0.07142857142857142
 418,comedy,Velde Umecker,M,,,,"
             
 Velde:
@@ -3015,7 +3015,7 @@ Velde:
 Oha?! — Was isch mit ünsere Harre Offizier?! — — — — Kumme se?!
 
           
-",riff-sainte-barbe,15,3,0.42106047100072047,0.2
+",104,riff-sainte-barbe,15,3,0.42106047100072047,0.2
 419,comedy,Andrees Bottjuckel,M,,,,"
             
 Andrees:
@@ -3025,4 +3025,4 @@ Nee — — — — sie könne nit kumme — — — hähähä — — — sie s
             — hupp! — — hähähä!
 
           
-",riff-sainte-barbe,36,3,0.5603539851466951,0.08333333333333333
+",104,riff-sainte-barbe,36,3,0.5603539851466951,0.08333333333333333

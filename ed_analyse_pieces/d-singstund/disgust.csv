@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -20,7 +20,7 @@ Güet, jetz thüet er si schwarze Nase noch in mi hintere
                         wohl denke, ass mi Kàmi nitt alle Tag z'putze-n-isch...
 
         
-",lustig-d-singstund,86,9,0.020888888888888887,0.10465116279069768
+",0,lustig-d-singstund,86,9,0.020888888888888887,0.10465116279069768
 1,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -32,7 +32,7 @@ Herr Tannezapfe
 Marie!...
 
         
-",lustig-d-singstund,7,1,0.188,0.14285714285714285
+",0,lustig-d-singstund,7,1,0.188,0.14285714285714285
 2,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -45,7 +45,7 @@ Höre-n'-r!... dr Herr, wo mr rieft...
 Was b'liebt, Herr?
 
         
-",lustig-d-singstund,15,2,0.188,0.13333333333333333
+",0,lustig-d-singstund,15,2,0.188,0.13333333333333333
 3,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -57,7 +57,7 @@ Herr Tannezapfe
 Wo hasch mine Hosetràger ane tho?
 
         
-",lustig-d-singstund,11,2,0.094,0.18181818181818182
+",1,lustig-d-singstund,11,2,0.094,0.18181818181818182
 4,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -79,7 +79,7 @@ in dr
                         das thàt sàh...
 
         
-",lustig-d-singstund,66,7,0.08057142857142859,0.10606060606060606
+",1,lustig-d-singstund,66,7,0.08057142857142859,0.10606060606060606
 5,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -88,7 +88,7 @@ Schlüch.
 Eüer Herr, Marie, Eüer Herr Tannebibele.
 
         
-",lustig-d-singstund,7,2,0.188,0.2857142857142857
+",1,lustig-d-singstund,7,2,0.188,0.2857142857142857
 7,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -101,7 +101,7 @@ Eüer Zapfe, das isch mir doch eithüen, wo-n-Ihr alles
                         ha dr Zit... nur noch e Wort, Marie...
 
         
-",lustig-d-singstund,52,3,0.0,0.057692307692307696
+",2,lustig-d-singstund,52,3,0.0,0.057692307692307696
 9,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -112,7 +112,7 @@ Grad ha-n-i d'Kuche ne wenig g'mustert, als Kàmifeger
                         gern wisse, was dert hinte ne so güet's druf brotet?...
 
         
-",lustig-d-singstund,34,4,0.0,0.11764705882352941
+",3,lustig-d-singstund,34,4,0.0,0.11764705882352941
 11,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -122,7 +122,7 @@ Kännt' ich em nitt e wenig Milhüserditsch lehre im Platz
                         vo Eürem Herr?...
 
         
-",lustig-d-singstund,14,2,0.094,0.14285714285714285
+",3,lustig-d-singstund,14,2,0.094,0.14285714285714285
 15,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -132,7 +132,7 @@ I ha ebbes versüecht, wo dert mischotiert im e Hafe uf
                         em Ofe, was mag das si?
 
         
-",lustig-d-singstund,18,3,0.2552050575370333,0.16666666666666666
+",5,lustig-d-singstund,18,3,0.2552050575370333,0.16666666666666666
 16,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -141,7 +141,7 @@ Marie.
 Ah! un wie finde-n-ihr das Ding?
 
         
-",lustig-d-singstund,9,1,0.562,0.1111111111111111
+",5,lustig-d-singstund,9,1,0.562,0.1111111111111111
 17,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -150,7 +150,7 @@ Schlüch.
 Fin, delizios!...
 
         
-",lustig-d-singstund,3,1,0.0,0.3333333333333333
+",5,lustig-d-singstund,3,1,0.0,0.3333333333333333
 18,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -160,7 +160,7 @@ Das isch Caout wie dr Kückücks sàit em doch dr Herr
                         wieder? Caout... Caout...
 
         
-",lustig-d-singstund,15,1,0.188,0.06666666666666667
+",6,lustig-d-singstund,15,1,0.188,0.06666666666666667
 20,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -169,7 +169,7 @@ Marie.
 Jo, i glaüb; der Herr hat das Ding kaüft.
 
         
-",lustig-d-singstund,10,2,0.094,0.2
+",6,lustig-d-singstund,10,2,0.094,0.2
 21,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -181,7 +181,7 @@ Schlüch
 Ne Caoutchouc-Suppe?...
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",7,lustig-d-singstund,7,1,0.0,0.14285714285714285
 22,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -192,7 +192,7 @@ Dr Herr sàit, 's thàt eim feist mache... Das wàr nit fir
                         schlupfe!...
 
         
-",lustig-d-singstund,23,2,0.094,0.08695652173913043
+",7,lustig-d-singstund,23,2,0.094,0.08695652173913043
 23,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -251,7 +251,7 @@ Ka me jetz in d'Kuche nàmme,
           
 
         
-",lustig-d-singstund,89,13,0.0673076923076923,0.14606741573033707
+",7,lustig-d-singstund,89,13,0.0673076923076923,0.14606741573033707
 24,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -264,7 +264,7 @@ Zeige, fahre-n-ab jetz in d'Halle, Ihr kämme wieder,
                         wenn dr Herr furt isch...
 
         
-",lustig-d-singstund,23,1,0.188,0.043478260869565216
+",8,lustig-d-singstund,23,1,0.188,0.043478260869565216
 26,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -276,7 +276,7 @@ Glich, wie-n-er z'Nacht g'gesse hat... er geht in's
                         kämme.
 
         
-",lustig-d-singstund,35,3,0.125,0.08571428571428572
+",8,lustig-d-singstund,35,3,0.125,0.08571428571428572
 27,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -285,7 +285,7 @@ Schlüch.
 Bekumm i e Stätzle vom Hahne?
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",9,lustig-d-singstund,7,1,0.0,0.14285714285714285
 28,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -295,7 +295,7 @@ Besser noch... dr ganze Hahne un dr Caoutchouc noch
                         drzüe....
 
         
-",lustig-d-singstund,11,1,0.0,0.09090909090909091
+",9,lustig-d-singstund,11,1,0.0,0.09090909090909091
 29,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -306,7 +306,7 @@ Was! 's Nachtesse vo Eürem Herr?... o Marie, wenn Ihr
                         gang gli Morn uf's G'meinhüs, fir is lo aschlage.
 
         
-",lustig-d-singstund,30,5,0.10396177983935714,0.16666666666666666
+",9,lustig-d-singstund,30,5,0.10396177983935714,0.16666666666666666
 31,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -318,7 +318,7 @@ Herr Tannezapfe
 Marie!
 
         
-",lustig-d-singstund,6,1,0.188,0.16666666666666666
+",10,lustig-d-singstund,6,1,0.188,0.16666666666666666
 32,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -327,7 +327,7 @@ Marie.
 Was b'liebt, Herr?
 
         
-",lustig-d-singstund,4,1,0.188,0.25
+",10,lustig-d-singstund,4,1,0.188,0.25
 33,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -339,7 +339,7 @@ Herr Tannezapfe
 I find' mine Hàndschig niene.
 
         
-",lustig-d-singstund,10,2,0.094,0.2
+",11,lustig-d-singstund,10,2,0.094,0.2
 34,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -351,7 +351,7 @@ Bigr! er isch scho an de Hàndschig... jetz isch's glaüb
                         isch...
 
         
-",lustig-d-singstund,35,4,0.0,0.11428571428571428
+",11,lustig-d-singstund,35,4,0.0,0.11428571428571428
 35,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -363,7 +363,7 @@ Herr Tannezapfe
 Awer Marie...
 
         
-",lustig-d-singstund,7,1,0.188,0.14285714285714285
+",11,lustig-d-singstund,7,1,0.188,0.14285714285714285
 37,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -376,7 +376,7 @@ Er geht hinte-n-üse, rechts. 's Marie thüet d'Läffel
                         uf's Tischle rechts.
 
         
-",lustig-d-singstund,17,2,0.0,0.11764705882352941
+",12,lustig-d-singstund,17,2,0.0,0.11764705882352941
 39,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -393,7 +393,7 @@ He, Marie... ah! de bisch do Màgdle. Ich ha Dr g'rüefe,
           
 
         
-",lustig-d-singstund,41,3,0.06266666666666666,0.07317073170731707
+",13,lustig-d-singstund,41,3,0.06266666666666666,0.07317073170731707
 40,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -402,7 +402,7 @@ Marie.
 Ich ha 's G'hör halt e wenig härt...
 
         
-",lustig-d-singstund,9,1,0.281,0.1111111111111111
+",13,lustig-d-singstund,9,1,0.281,0.1111111111111111
 41,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -411,7 +411,7 @@ Herr Tannezapfe.
 Wenn nur Di Herz nitt so härt isch, as wie 's G'hör.
 
         
-",lustig-d-singstund,14,2,0.094,0.14285714285714285
+",13,lustig-d-singstund,14,2,0.094,0.14285714285714285
 42,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -420,7 +420,7 @@ Marie.
 Wo will das üse, Herr...
 
         
-",lustig-d-singstund,6,1,0.188,0.16666666666666666
+",14,lustig-d-singstund,6,1,0.188,0.16666666666666666
 43,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -430,7 +430,7 @@ Zeig, Marie, bisch doch nitt so spröd, ich bi jo ledig
                         un ha ne ziemlig rund Vermöge, wie De weisch...
 
         
-",lustig-d-singstund,22,2,0.094,0.09090909090909091
+",14,lustig-d-singstund,22,2,0.094,0.09090909090909091
 44,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -441,7 +441,7 @@ Jo, awer Sie lehn sich allewil iwerschwàtze vo Ihrer
                         verzehlt iwer mich...
 
         
-",lustig-d-singstund,23,5,0.0876,0.21739130434782608
+",14,lustig-d-singstund,23,5,0.0876,0.21739130434782608
 45,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -451,7 +451,7 @@ Was frogsch cloch Dü no miner Cüsine un no dem, was sie
                         sàit, Marie!...
 
         
-",lustig-d-singstund,16,2,0.094,0.125
+",15,lustig-d-singstund,16,2,0.094,0.125
 46,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -460,7 +460,7 @@ Marie.
 Oh! ich ha nit z'ferchte, ich bi ne brave Person.
 
         
-",lustig-d-singstund,12,2,0.0,0.16666666666666666
+",15,lustig-d-singstund,12,2,0.0,0.16666666666666666
 47,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -471,7 +471,7 @@ Ich weiss es, wege dem g'fallsch mr eso... denk' nur,
                         Liebster g'ha...
 
         
-",lustig-d-singstund,26,2,0.094,0.07692307692307693
+",15,lustig-d-singstund,26,2,0.094,0.07692307692307693
 49,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -480,7 +480,7 @@ Herr Tannezapfe.
 Soldate-n-un so Dings...
 
         
-",lustig-d-singstund,7,2,0.094,0.2857142857142857
+",16,lustig-d-singstund,7,2,0.094,0.2857142857142857
 51,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -492,7 +492,7 @@ O bi-n-i als gli fertig gsi mit Ihne : mi Cüsine hat als
                         Marie, Dü bisch brav...
 
         
-",lustig-d-singstund,42,2,0.094,0.047619047619047616
+",17,lustig-d-singstund,42,2,0.094,0.047619047619047616
 52,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -502,7 +502,7 @@ Uf jedefall, Herr, bi-n-i brav, un wenn i mr wott lo dr
                         Hof mache vo Eim, so wàr's nur fir dr bon motif...
 
         
-",lustig-d-singstund,27,6,0.08663481653279763,0.2222222222222222
+",17,lustig-d-singstund,27,6,0.08663481653279763,0.2222222222222222
 53,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -511,7 +511,7 @@ Herr Tannezapfe.
 Heisch Dü d'Hiroth dr bon motif?
 
         
-",lustig-d-singstund,9,1,0.188,0.1111111111111111
+",17,lustig-d-singstund,9,1,0.188,0.1111111111111111
 54,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -520,7 +520,7 @@ Marie.
 Natirlig, Herr, was meine Sie denn?
 
         
-",lustig-d-singstund,7,2,0.094,0.2857142857142857
+",18,lustig-d-singstund,7,2,0.094,0.2857142857142857
 55,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -530,7 +530,7 @@ Dü hasch ganz recht, Marie, doch möcht i jetz z'Nacht
                         esse
 
         
-",lustig-d-singstund,14,3,0.06266666666666666,0.21428571428571427
+",18,lustig-d-singstund,14,3,0.06266666666666666,0.21428571428571427
 56,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -546,7 +546,7 @@ Jetz geht's los.
                         müess ewe lang koche.
 
         
-",lustig-d-singstund,32,5,0.0984,0.15625
+",18,lustig-d-singstund,32,5,0.0984,0.15625
 57,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -561,7 +561,7 @@ Wie sàisch, Caoutchouc?... Racahout witt sage... 's isch
                         er im Racahout z'verdanke...
 
         
-",lustig-d-singstund,74,4,0.047,0.05405405405405406
+",19,lustig-d-singstund,74,4,0.047,0.05405405405405406
 58,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -572,7 +572,7 @@ Ass Sie-n-en scho sa lang nimm g'sàh hàn, Herr?
           
 
         
-",lustig-d-singstund,12,2,0.094,0.16666666666666666
+",19,lustig-d-singstund,12,2,0.094,0.16666666666666666
 59,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -582,7 +582,7 @@ Nei, ass er so dick worde-n-isch... Dü serviersch mir
                         jetz alle Tag dervo, Marie.
 
         
-",lustig-d-singstund,18,1,0.188,0.05555555555555555
+",19,lustig-d-singstund,18,1,0.188,0.05555555555555555
 60,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -593,7 +593,7 @@ Jo, Herr, awer e-n-andermol müess i frieiher afange
                         känne z'Nacht esse.
 
         
-",lustig-d-singstund,26,4,0.16999999999999998,0.15384615384615385
+",20,lustig-d-singstund,26,4,0.16999999999999998,0.15384615384615385
 61,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -644,7 +644,7 @@ Awer wege dem gieng ich doch nitt gern mit em leere
                             geh' esse?...
 
         
-",lustig-d-singstund,120,15,0.0578,0.125
+",20,lustig-d-singstund,120,15,0.0578,0.125
 62,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -659,7 +659,7 @@ Endlig packt's jetz emol...
                         Herr thàt viel besser.
 
         
-",lustig-d-singstund,22,4,0.047,0.18181818181818182
+",20,lustig-d-singstund,22,4,0.047,0.18181818181818182
 63,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -668,7 +668,7 @@ Herr Tannezapfe.
 C'est çà!
 
         
-",lustig-d-singstund,4,1,0.188,0.25
+",21,lustig-d-singstund,4,1,0.188,0.25
 64,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -677,7 +677,7 @@ Marie.
 Awer Ihr Nachtesse, wo jetz uf em Fir isch?
 
         
-",lustig-d-singstund,10,2,0.0,0.2
+",21,lustig-d-singstund,10,2,0.0,0.2
 65,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -689,7 +689,7 @@ Ich loss Dir's, Mariettle, stell mr nur e wenig Racahout
                         un si Stock un geht.)
 
         
-",lustig-d-singstund,32,6,0.14913481653279761,0.1875
+",21,lustig-d-singstund,32,6,0.14913481653279761,0.1875
 66,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -698,7 +698,7 @@ Marie.
 Jo, Herr.
 
         
-",lustig-d-singstund,3,1,0.188,0.3333333333333333
+",22,lustig-d-singstund,3,1,0.188,0.3333333333333333
 67,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -709,7 +709,7 @@ Ah! i ha doch g'wisst, ass mr ebbes fehlt! mine
                         vergesse.
 
         
-",lustig-d-singstund,24,5,0.0376,0.20833333333333334
+",22,lustig-d-singstund,24,5,0.0376,0.20833333333333334
 68,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -718,7 +718,7 @@ Marie.
 Sie brüche se jo nitt, Herr, Se hàn je Ihre Lorgnette.
 
         
-",lustig-d-singstund,12,1,0.188,0.08333333333333333
+",22,lustig-d-singstund,12,1,0.188,0.08333333333333333
 69,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Tahnezapfe
@@ -731,7 +731,7 @@ Jo, 's isch wohr... un mi Hüsschlissel... i ha-n-en...
                         güet, De brüchsch nitt uf mi z'warte.
 
         
-",lustig-d-singstund,26,5,0.0376,0.19230769230769232
+",23,lustig-d-singstund,26,5,0.0376,0.19230769230769232
 71,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -740,7 +740,7 @@ Herr Tannezapfe.
 Merci Mariettle.
 
         
-",lustig-d-singstund,4,1,0.188,0.25
+",23,lustig-d-singstund,4,1,0.188,0.25
 72,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -749,7 +749,7 @@ Marie.
 Amüsiere Sie sich güet.
 
         
-",lustig-d-singstund,5,2,0.0,0.4
+",24,lustig-d-singstund,5,2,0.0,0.4
 73,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -759,7 +759,7 @@ Oh, im Concert in dr Bourse ha-n-ich nie kei lange
                         Zit.
 
         
-",lustig-d-singstund,15,3,0.06266666666666666,0.2
+",24,lustig-d-singstund,15,3,0.06266666666666666,0.2
 74,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -769,7 +769,7 @@ Ich fir mi Theil gang liewer in dr Cercle... 's isch
                         viel luschtiger dert.
 
         
-",lustig-d-singstund,15,4,0.0,0.26666666666666666
+",24,lustig-d-singstund,15,4,0.0,0.26666666666666666
 75,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -785,7 +785,7 @@ Bol Siewene... i ha grad noch dr Zit, ane z'ku... i
           
 
         
-",lustig-d-singstund,34,8,0.058625000000000003,0.23529411764705882
+",25,lustig-d-singstund,34,8,0.058625000000000003,0.23529411764705882
 76,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -819,7 +819,7 @@ Ich wärm Ene derwilst Ihr Bett.
           
 
         
-",lustig-d-singstund,38,7,0.026857142857142857,0.18421052631578946
+",25,lustig-d-singstund,38,7,0.026857142857142857,0.18421052631578946
 77,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -832,7 +832,7 @@ Dü kunnsch in's Testament, Mariett',
           
 
         
-",lustig-d-singstund,8,2,0.094,0.25
+",25,lustig-d-singstund,8,2,0.094,0.25
 78,comedy,Marie,F,cook,service_and_sales,,"
           
 Beide.
@@ -851,7 +851,7 @@ Denn 's isch misegs noch wit.
           
 
         
-",lustig-d-singstund,21,2,0.094,0.09523809523809523
+",26,lustig-d-singstund,21,2,0.094,0.09523809523809523
 79,comedy,Herr TANNEZAPFE,M,,,,"
           
 Beide.
@@ -870,7 +870,7 @@ Denn 's isch misegs noch wit.
           
 
         
-",lustig-d-singstund,21,2,0.094,0.09523809523809523
+",26,lustig-d-singstund,21,2,0.094,0.09523809523809523
 80,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -940,7 +940,7 @@ So, jetz isch dr Tisch deckt, jetz wird mi dr Schlüch
                         Schritt scho no Rüess... Entrez!...
 
         
-",lustig-d-singstund,270,26,0.06553846153846153,0.0962962962962963
+",26,lustig-d-singstund,270,26,0.06553846153846153,0.0962962962962963
 81,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -952,7 +952,7 @@ Marie
 Was sieh-n-i? mi Kàmifeger üs der Frescheweid!
 
         
-",lustig-d-singstund,14,1,0.0,0.07142857142857142
+",27,lustig-d-singstund,14,1,0.0,0.07142857142857142
 83,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -963,7 +963,7 @@ Herr Gager!
           
 
         
-",lustig-d-singstund,3,1,0.188,0.3333333333333333
+",27,lustig-d-singstund,3,1,0.188,0.3333333333333333
 84,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -973,7 +973,7 @@ Jà, dr Gager, dr unglicklige Gager! dass isch nitt schön
                         vo Eüch, Jumpfer Marie!
 
         
-",lustig-d-singstund,15,2,0.0,0.13333333333333333
+",28,lustig-d-singstund,15,2,0.0,0.13333333333333333
 86,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -987,7 +987,7 @@ Ihr hàn g'wiss schlecht g'handelt gege mir... Ich, wo
                         Ihr hàn Eüch g'wiss schlecht ufg'fiehrt gege mir...
 
         
-",lustig-d-singstund,60,8,0.0,0.13333333333333333
+",28,lustig-d-singstund,60,8,0.0,0.13333333333333333
 87,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -999,7 +999,7 @@ Ich will's I expliziere, Herr Gager...
                         Herrje, wenn der Schlüch jetz kunnt.
 
         
-",lustig-d-singstund,18,2,0.094,0.1111111111111111
+",29,lustig-d-singstund,18,2,0.094,0.1111111111111111
 88,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1011,7 +1011,7 @@ Tag un Nacht ha-n-i g'frogt und g'süecht un ha endlig
                         glich uf dr Weg g'macht, un do bi-n-i...
 
         
-",lustig-d-singstund,45,7,0.11042857142857143,0.15555555555555556
+",29,lustig-d-singstund,45,7,0.11042857142857143,0.15555555555555556
 89,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1020,7 +1020,7 @@ Marie.
 Ohne mich z'preveniere...
 
         
-",lustig-d-singstund,5,1,0.0,0.2
+",29,lustig-d-singstund,5,1,0.0,0.2
 90,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1029,7 +1029,7 @@ Gager.
 Bi-n-i ebbe nitt recht ku, oder bi-n-i z'viel do?
 
         
-",lustig-d-singstund,15,2,0.0,0.13333333333333333
+",30,lustig-d-singstund,15,2,0.0,0.13333333333333333
 92,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1038,7 +1038,7 @@ Gager.
 Isch dr Alt viellicht e Hitzkopf?
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",30,lustig-d-singstund,7,1,0.0,0.14285714285714285
 94,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1050,7 +1050,7 @@ Marie, ich sieh scho, siter ass ich do bi, thien Ihr
                         bi Euch?
 
         
-",lustig-d-singstund,29,1,0.0,0.034482758620689655
+",31,lustig-d-singstund,29,1,0.0,0.034482758620689655
 95,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1059,7 +1059,7 @@ Marie.
 Herr Gager!
 
         
-",lustig-d-singstund,3,1,0.188,0.3333333333333333
+",31,lustig-d-singstund,3,1,0.188,0.3333333333333333
 96,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1070,7 +1070,7 @@ Ah! jetz kunnt's mr... 's wird dà Kàmifeger üs dr Cité
                         schade thüet...
 
         
-",lustig-d-singstund,27,3,0.0,0.1111111111111111
+",32,lustig-d-singstund,27,3,0.0,0.1111111111111111
 97,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1082,7 +1082,7 @@ Marie
 Was, er weisst's?
 
         
-",lustig-d-singstund,9,1,0.0,0.1111111111111111
+",32,lustig-d-singstund,9,1,0.0,0.1111111111111111
 98,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1093,7 +1093,7 @@ Ich kenn 'n nitt, awer ich will Achtung gà uf sine
                         er si letscht Kàmi üsg'rackelt...
 
         
-",lustig-d-singstund,27,3,0.0,0.1111111111111111
+",32,lustig-d-singstund,27,3,0.0,0.1111111111111111
 99,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1108,7 +1108,7 @@ Nu jo! wenn er dr Schlüch sieht...
                         awer...
 
         
-",lustig-d-singstund,18,2,0.0,0.1111111111111111
+",33,lustig-d-singstund,18,2,0.0,0.1111111111111111
 100,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1117,7 +1117,7 @@ Gager.
 Kalt mach i ne, Nun-de-bib noch emol!
 
         
-",lustig-d-singstund,8,1,0.266,0.125
+",33,lustig-d-singstund,8,1,0.266,0.125
 101,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1131,7 +1131,7 @@ Jà, worum denn mache-n-Ihr ne kalt, dà Mann? wil er
                         offriert hat?
 
         
-",lustig-d-singstund,31,4,0.0665,0.12903225806451613
+",33,lustig-d-singstund,31,4,0.0665,0.12903225806451613
 103,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1143,7 +1143,7 @@ Eh bien, jà, i bi g'hirothe, un wenn Eüch mi Mann do
           
 
         
-",lustig-d-singstund,14,2,0.0,0.14285714285714285
+",34,lustig-d-singstund,14,2,0.0,0.14285714285714285
 104,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1159,7 +1159,7 @@ Ah! derno isch's ebbes anders... Do blibt mr nur noch,
                         ne Dummheit hätt Kein g'macht üs dr Frescheweid.
 
         
-",lustig-d-singstund,37,5,0.0,0.13513513513513514
+",34,lustig-d-singstund,37,5,0.0,0.13513513513513514
 106,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -1171,7 +1171,7 @@ Gager.
 . Was ha-n-i g'sàit?
 
         
-",lustig-d-singstund,21,3,0.06266666666666666,0.14285714285714285
+",35,lustig-d-singstund,21,3,0.06266666666666666,0.14285714285714285
 107,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1183,7 +1183,7 @@ Marie
 O je!... mi Feger üs der Cité...
 
         
-",lustig-d-singstund,12,1,0.0,0.08333333333333333
+",35,lustig-d-singstund,12,1,0.0,0.08333333333333333
 108,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1195,7 +1195,7 @@ Papegài
 Ne Co... Colleg!
 
         
-",lustig-d-singstund,8,1,0.0,0.125
+",36,lustig-d-singstund,8,1,0.0,0.125
 109,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1208,7 +1208,7 @@ Ihr brüche kei Angst z'ha... I will I nitt
                         compromettiere.
 
         
-",lustig-d-singstund,17,1,0.0,0.058823529411764705
+",36,lustig-d-singstund,17,1,0.0,0.058823529411764705
 110,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1220,7 +1220,7 @@ Marie
 Mi Mann!
 
         
-",lustig-d-singstund,12,2,0.0,0.16666666666666666
+",36,lustig-d-singstund,12,2,0.0,0.16666666666666666
 112,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1235,7 +1235,7 @@ Siter drei Monet
                         z'friede, ass Ihr do sin...
 
         
-",lustig-d-singstund,24,2,0.0,0.08333333333333333
+",37,lustig-d-singstund,24,2,0.0,0.08333333333333333
 113,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1247,7 +1247,7 @@ Gager
 Ich glaüb's scho.
 
         
-",lustig-d-singstund,9,2,0.0,0.2222222222222222
+",37,lustig-d-singstund,9,2,0.0,0.2222222222222222
 114,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1259,7 +1259,7 @@ Marie
 's geht 'm glaüb nur halwer, Eüch do az'treffe.
 
         
-",lustig-d-singstund,15,1,0.0,0.06666666666666667
+",38,lustig-d-singstund,15,1,0.0,0.06666666666666667
 115,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1271,7 +1271,7 @@ Papegài
 Ich dà... dà... danks wohl.
 
         
-",lustig-d-singstund,10,2,0.0,0.2
+",38,lustig-d-singstund,10,2,0.0,0.2
 116,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1287,7 +1287,7 @@ Sin still... sin still...
                         Mann...
 
         
-",lustig-d-singstund,29,5,0.0,0.1724137931034483
+",38,lustig-d-singstund,29,5,0.0,0.1724137931034483
 117,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1299,7 +1299,7 @@ Gager
 Se thüet 'm e Bàre-n-abinde.
 
         
-",lustig-d-singstund,12,1,0.0,0.08333333333333333
+",39,lustig-d-singstund,12,1,0.0,0.08333333333333333
 118,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1311,7 +1311,7 @@ Papegài
 Se losst en bla... bla... blaü alaüfe.
 
         
-",lustig-d-singstund,12,1,0.0,0.08333333333333333
+",39,lustig-d-singstund,12,1,0.0,0.08333333333333333
 119,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1321,7 +1321,7 @@ Dà Herr isch dr Cüsin, wo-n-ich Dr scho vielmol vo-n-'m
                         g'redt ha...
 
         
-",lustig-d-singstund,17,1,0.188,0.058823529411764705
+",39,lustig-d-singstund,17,1,0.188,0.058823529411764705
 120,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1333,7 +1333,7 @@ Gager
 Ich bi-n-en, dr Cüsin...
 
         
-",lustig-d-singstund,11,1,0.0,0.09090909090909091
+",40,lustig-d-singstund,11,1,0.0,0.09090909090909091
 121,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1345,7 +1345,7 @@ Papegài
 Ich bi dr Cü... Cü...
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",40,lustig-d-singstund,10,1,0.0,0.1
 122,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1357,7 +1357,7 @@ Er isch mr ku ne kleine Visite abstatte. 's isch
 g'wiss 's erstemol. Dü sàisch nit?...
 
         
-",lustig-d-singstund,17,2,0.0,0.11764705882352941
+",40,lustig-d-singstund,17,2,0.0,0.11764705882352941
 123,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1369,7 +1369,7 @@ Papegài
 Er isch we... we... wexiert.
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",41,lustig-d-singstund,10,1,0.0,0.1
 124,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1381,7 +1381,7 @@ Gager
 Was fir e Hundscharacter!
 
         
-",lustig-d-singstund,9,2,0.0,0.2222222222222222
+",41,lustig-d-singstund,9,2,0.0,0.2222222222222222
 125,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1393,7 +1393,7 @@ Dü brietelsch ebbes... ich kenn Di... De wirsch jetz
           
 
         
-",lustig-d-singstund,20,3,0.0,0.15
+",41,lustig-d-singstund,20,3,0.0,0.15
 126,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1405,7 +1405,7 @@ Papegài
 Bi-biger...
 
         
-",lustig-d-singstund,6,1,0.0,0.16666666666666666
+",42,lustig-d-singstund,6,1,0.0,0.16666666666666666
 127,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1420,7 +1420,7 @@ Er isch in sim Recht... 's isch dr Mann .. . ich will mi
                         Thüre).
 
         
-",lustig-d-singstund,31,5,0.0,0.16129032258064516
+",42,lustig-d-singstund,31,5,0.0,0.16129032258064516
 128,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1433,7 +1433,7 @@ Ich gang a-ab...
 (Er macht 's Gliche).
 
         
-",lustig-d-singstund,14,2,0.0,0.14285714285714285
+",42,lustig-d-singstund,14,2,0.0,0.14285714285714285
 129,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1445,7 +1445,7 @@ Marie
 Güet!... se mache si dervo.
 
         
-",lustig-d-singstund,10,2,0.0,0.2
+",43,lustig-d-singstund,10,2,0.0,0.2
 131,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1461,7 +1461,7 @@ Das isch im Schlüch si Stimm'.
                         findet...
 
         
-",lustig-d-singstund,29,4,0.047,0.13793103448275862
+",43,lustig-d-singstund,29,4,0.047,0.13793103448275862
 133,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1475,7 +1475,7 @@ Do in das Cabinet...
  Un Ihr...
 
         
-",lustig-d-singstund,25,3,0.3925505366311546,0.12
+",44,lustig-d-singstund,25,3,0.3925505366311546,0.12
 134,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -1484,7 +1484,7 @@ Papegài.
 Thien mi nur nitt züe Eürem Ha-halbwilde vo Mann...
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",44,lustig-d-singstund,10,1,0.0,0.1
 135,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1496,7 +1496,7 @@ Marie
 In das do, un mücke-n-I nitt...
 
         
-",lustig-d-singstund,18,4,0.14720645123668297,0.2222222222222222
+",45,lustig-d-singstund,18,4,0.14720645123668297,0.2222222222222222
 136,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1511,7 +1511,7 @@ He... Marie!
 (Marie macht d'Thüre-n-nf hinte, rechts.)
 
         
-",lustig-d-singstund,16,1,0.0,0.0625
+",45,lustig-d-singstund,16,1,0.0,0.0625
 137,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1525,7 +1525,7 @@ Do bi-n-i jetz... fröhlig wie ne Vogel in dr Luft... un
                         Tisch?...
 
         
-",lustig-d-singstund,30,1,0.0,0.03333333333333333
+",45,lustig-d-singstund,30,1,0.0,0.03333333333333333
 138,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1534,7 +1534,7 @@ Marie.
 's isch unmöglich fir hit z'Owe, dr Herr isst d'heim..
 
         
-",lustig-d-singstund,13,3,0.06266666666666666,0.23076923076923078
+",46,lustig-d-singstund,13,3,0.06266666666666666,0.23076923076923078
 139,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1544,7 +1544,7 @@ Was verzähle-n-Ihr do!... i ha-n-en grad g'sah abfahre
                         in's Concert.
 
         
-",lustig-d-singstund,16,1,0.0,0.0625
+",46,lustig-d-singstund,16,1,0.0,0.0625
 140,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1553,7 +1553,7 @@ Marie.
 's macht nit, er kunnt wieder...
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",46,lustig-d-singstund,7,1,0.0,0.14285714285714285
 143,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1563,7 +1563,7 @@ Sunscht gang i uns geh lo abschla' uf em G'meinhüs...
                         Kei Hahne, kei Hochzit!...
 
         
-",lustig-d-singstund,15,3,0.1106029663989286,0.2
+",47,lustig-d-singstund,15,3,0.1106029663989286,0.2
 144,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1575,7 +1575,7 @@ Marie
 Un d'Andere, wo dert inne krüppe!...
 
         
-",lustig-d-singstund,12,1,0.0,0.08333333333333333
+",48,lustig-d-singstund,12,1,0.0,0.08333333333333333
 147,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1586,7 +1586,7 @@ Das isch gli g'schàh.
                         rechts.)
 
         
-",lustig-d-singstund,15,1,0.0,0.06666666666666667
+",49,lustig-d-singstund,15,1,0.0,0.06666666666666667
 148,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1598,7 +1598,7 @@ Marie
 Dr Herr wird jetz gli an dr Tisch geh.
 
         
-",lustig-d-singstund,18,1,0.188,0.05555555555555555
+",49,lustig-d-singstund,18,1,0.188,0.05555555555555555
 149,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1610,7 +1610,7 @@ Papegài
 Sa-sapristi... ich verstick...
 
         
-",lustig-d-singstund,8,1,0.0,0.125
+",49,lustig-d-singstund,8,1,0.0,0.125
 150,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1622,7 +1622,7 @@ Marie
 s' isch der Herr, wo kunnt zu z'Nacht esse
 
         
-",lustig-d-singstund,18,1,0.188,0.05555555555555555
+",50,lustig-d-singstund,18,1,0.188,0.05555555555555555
 152,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1636,7 +1636,7 @@ Do isch das Dings, 's schint mr nitt iwel g'rothe
 (Er stellt alles uf dr Tisch.)
 
         
-",lustig-d-singstund,32,2,0.28965235775530335,0.0625
+",50,lustig-d-singstund,32,2,0.28965235775530335,0.0625
 153,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1647,7 +1647,7 @@ Das stopft... me müess e-n-aparter Mage ha fir dr
 (Se mache dr Tisch in d'Mittle.)
 
         
-",lustig-d-singstund,22,2,0.0,0.09090909090909091
+",51,lustig-d-singstund,22,2,0.0,0.09090909090909091
 155,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1664,7 +1664,7 @@ Jo, un g'schwind e wenig.
                         Herr...
 
         
-",lustig-d-singstund,44,2,0.094,0.045454545454545456
+",51,lustig-d-singstund,44,2,0.094,0.045454545454545456
 156,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1673,7 +1673,7 @@ Schlüch.
 Fir was, Ihr mache-n-'m e-n-andere...
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",52,lustig-d-singstund,10,1,0.0,0.1
 157,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -1686,7 +1686,7 @@ Das isch e G'schrnàckle... nun-de-bib...
 (macht züe).
 
         
-",lustig-d-singstund,18,3,0.0,0.16666666666666666
+",52,lustig-d-singstund,18,3,0.0,0.16666666666666666
 159,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -1699,7 +1699,7 @@ Das schmeckt fi- fi-fin
 (Er macht wieder züe).
 
         
-",lustig-d-singstund,18,3,0.0,0.16666666666666666
+",53,lustig-d-singstund,18,3,0.0,0.16666666666666666
 160,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1714,7 +1714,7 @@ So, jetz isch d'Schüssle süfer... wenn Eüer Herr do wàr,
 (Er film si Teller.)
 
         
-",lustig-d-singstund,40,5,0.0376,0.125
+",53,lustig-d-singstund,40,5,0.0376,0.125
 162,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1728,7 +1728,7 @@ Awer z'erscht, vor allem, wà mr nf Eüre G'sundhcit
 (Se stosse-n-a).
 
         
-",lustig-d-singstund,27,3,0.0,0.1111111111111111
+",54,lustig-d-singstund,27,3,0.0,0.1111111111111111
 163,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1759,7 +1759,7 @@ Mr wànn's nimm üse schiewe.
           
 
         
-",lustig-d-singstund,32,11,0.0,0.34375
+",54,lustig-d-singstund,32,11,0.0,0.34375
 164,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1783,7 +1783,7 @@ Wo sie thüet z'sàmme binde.
           
 
         
-",lustig-d-singstund,28,6,0.09366666666666668,0.21428571428571427
+",54,lustig-d-singstund,28,6,0.09366666666666668,0.21428571428571427
 165,comedy,Marie,F,cook,service_and_sales,,"
           
 Beide.
@@ -1808,7 +1808,7 @@ Bol wà mr glicklig si.
 (Se schlage an ihre Gläser dr Tact.)
 
         
-",lustig-d-singstund,31,9,0.0,0.2903225806451613
+",55,lustig-d-singstund,31,9,0.0,0.2903225806451613
 166,comedy,Herr SCHLÜCH,M,,,,"
           
 Beide.
@@ -1833,7 +1833,7 @@ Bol wà mr glicklig si.
 (Se schlage an ihre Gläser dr Tact.)
 
         
-",lustig-d-singstund,31,9,0.0,0.2903225806451613
+",55,lustig-d-singstund,31,9,0.0,0.2903225806451613
 167,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -1845,7 +1845,7 @@ Herr Tannezapfe
 Was sieh-n-i do?
 
         
-",lustig-d-singstund,13,1,0.188,0.07692307692307693
+",55,lustig-d-singstund,13,1,0.188,0.07692307692307693
 168,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1855,7 +1855,7 @@ Dr Herr!
 (Se steht uf.)
 
         
-",lustig-d-singstund,8,2,0.094,0.25
+",56,lustig-d-singstund,8,2,0.094,0.25
 169,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1867,7 +1867,7 @@ Schlüch
 Dr Herr... i bi verwischt!
 
         
-",lustig-d-singstund,12,1,0.188,0.08333333333333333
+",56,lustig-d-singstund,12,1,0.188,0.08333333333333333
 170,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -1879,7 +1879,7 @@ Herr Tannezapfe
 Ne Kàmifeger an mim Tisch?
 
         
-",lustig-d-singstund,11,1,0.188,0.09090909090909091
+",56,lustig-d-singstund,11,1,0.188,0.09090909090909091
 171,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1888,7 +1888,7 @@ Schlüch.
 Derangiere Sie sieh nitt wege mir, Herr Tannebi...
 
         
-",lustig-d-singstund,9,1,0.188,0.1111111111111111
+",57,lustig-d-singstund,9,1,0.188,0.1111111111111111
 172,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -1900,7 +1900,7 @@ Herr Tannezapfe
 So, so... kasch Dü mir expliziere, Marie...
 
         
-",lustig-d-singstund,13,1,0.188,0.07692307692307693
+",57,lustig-d-singstund,13,1,0.188,0.07692307692307693
 173,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1912,7 +1912,7 @@ Schlüch
 Ich will's Ihne sage, Herr...
 
         
-",lustig-d-singstund,12,3,0.2517958464394796,0.25
+",57,lustig-d-singstund,12,3,0.2517958464394796,0.25
 174,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -1921,7 +1921,7 @@ Herr Tannezapfe.
 Ich red' nitt mit Eüch...
 
         
-",lustig-d-singstund,7,1,0.188,0.14285714285714285
+",58,lustig-d-singstund,7,1,0.188,0.14285714285714285
 175,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -1931,7 +1931,7 @@ Herr... ich ha's Ihne nitt traüe sage bis dohi.. eh
                         bien...
 
         
-",lustig-d-singstund,13,2,0.094,0.15384615384615385
+",58,lustig-d-singstund,13,2,0.094,0.15384615384615385
 176,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -1940,7 +1940,7 @@ Herr Tannezapfe.
 Eh bien?
 
         
-",lustig-d-singstund,4,2,0.094,0.5
+",58,lustig-d-singstund,4,2,0.094,0.5
 178,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -1949,7 +1949,7 @@ Herr Tannezapfe.
 Ich bi... er isch... kunnt's bol üse-n-endlig?
 
         
-",lustig-d-singstund,12,1,0.188,0.08333333333333333
+",59,lustig-d-singstund,12,1,0.188,0.08333333333333333
 179,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -1958,7 +1958,7 @@ Marie
 Mi Mann!
 
         
-",lustig-d-singstund,3,1,0.0,0.3333333333333333
+",59,lustig-d-singstund,3,1,0.0,0.3333333333333333
 180,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -1967,7 +1967,7 @@ Herr Tannezapfe.
 Di Mann?
 
         
-",lustig-d-singstund,4,2,0.094,0.5
+",60,lustig-d-singstund,4,2,0.094,0.5
 181,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -1976,7 +1976,7 @@ Schlüch.
 Das isch jetz wieder emol e güete...
 
         
-",lustig-d-singstund,8,1,0.0,0.125
+",60,lustig-d-singstund,8,1,0.0,0.125
 182,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -1985,7 +1985,7 @@ Herr Tannezapfe.
 Hein?
 
         
-",lustig-d-singstund,3,1,0.188,0.3333333333333333
+",60,lustig-d-singstund,3,1,0.188,0.3333333333333333
 183,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -1999,7 +1999,7 @@ I ha die Hüehn do 'g'meint
                         allewil furt un furt).
 
         
-",lustig-d-singstund,23,2,0.0,0.08695652173913043
+",61,lustig-d-singstund,23,2,0.0,0.08695652173913043
 184,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2010,7 +2010,7 @@ Jo, Herr, verzeihe Se mr, wenn ich's Ihne nitt frieiher
                         d'g'hirothene Màgd nitt gern hàn...
 
         
-",lustig-d-singstund,27,3,0.06266666666666666,0.1111111111111111
+",61,lustig-d-singstund,27,3,0.06266666666666666,0.1111111111111111
 185,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2028,7 +2028,7 @@ Doch, doch, ich ha se recht gern... ich ha Dr jo sogar
  Derangier Di nitt, mi Liewer, mach nur furt.
 
         
-",lustig-d-singstund,48,7,0.026857142857142857,0.14583333333333334
+",61,lustig-d-singstund,48,7,0.026857142857142857,0.14583333333333334
 186,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -2040,7 +2040,7 @@ Schlüch
 Sie sin gar sa güet...
 
         
-",lustig-d-singstund,11,3,0.18912917977281296,0.2727272727272727
+",62,lustig-d-singstund,11,3,0.18912917977281296,0.2727272727272727
 187,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2054,7 +2054,7 @@ kei
 (Er sitzt am Marie si Platz.)
 
         
-",lustig-d-singstund,40,7,0.19456288798184737,0.175
+",62,lustig-d-singstund,40,7,0.19456288798184737,0.175
 188,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2068,7 +2068,7 @@ Was, Sie erlaüwe?... O, was sin Sie fir e güeter Herr.
 (Se sitzt in d'Mittle.)
 
         
-",lustig-d-singstund,27,4,0.047,0.14814814814814814
+",62,lustig-d-singstund,27,4,0.047,0.14814814814814814
 189,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2077,7 +2077,7 @@ Schlüch.
 Das isch wohr... 's isch g'wiss e-n-Ehr...
 
         
-",lustig-d-singstund,10,2,0.0,0.2
+",63,lustig-d-singstund,10,2,0.0,0.2
 191,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2093,7 +2093,7 @@ Doch, doch... das heisst, i bi scho uf em neüe
                         ka...
 
         
-",lustig-d-singstund,85,10,0.0688,0.11764705882352941
+",63,lustig-d-singstund,85,10,0.0688,0.11764705882352941
 193,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2104,7 +2104,7 @@ Jà do, was witt halt... un derno ha-n-i o denkt, mi
                         d'Suppeschüssle passiere...
 
         
-",lustig-d-singstund,25,3,0.15633333333333335,0.12
+",64,lustig-d-singstund,25,3,0.15633333333333335,0.12
 195,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2114,7 +2114,7 @@ D'Suppeschüssle?... do isch se, Herr...
 (Er git's 'm.)
 
         
-",lustig-d-singstund,13,1,0.188,0.07692307692307693
+",65,lustig-d-singstund,13,1,0.188,0.07692307692307693
 196,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2126,7 +2126,7 @@ Herr Tannezapfe
 's isch jo gar nit drin !
 
         
-",lustig-d-singstund,13,1,0.188,0.07692307692307693
+",65,lustig-d-singstund,13,1,0.188,0.07692307692307693
 197,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2135,7 +2135,7 @@ Marie.
 's isch halt mi Mann... Herr...
 
         
-",lustig-d-singstund,7,3,0.15633333333333335,0.42857142857142855
+",65,lustig-d-singstund,7,3,0.15633333333333335,0.42857142857142855
 198,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2144,7 +2144,7 @@ Herr Tannezapfe.
 Ah! mi Alter, Dü hasch alle g'gesse.
 
         
-",lustig-d-singstund,9,2,0.094,0.2222222222222222
+",66,lustig-d-singstund,9,2,0.094,0.2222222222222222
 199,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2154,7 +2154,7 @@ Se mien mr halt verzeihe, Herr, 's Marie hat mr ewe
                         g'sàit, se thàt eirn feisst mache...
 
         
-",lustig-d-singstund,18,3,0.15633333333333335,0.16666666666666666
+",66,lustig-d-singstund,18,3,0.15633333333333335,0.16666666666666666
 200,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2164,7 +2164,7 @@ Herr Tannezapfe.
                         nit, làng mr dr Hahne...
 
         
-",lustig-d-singstund,18,3,0.06266666666666666,0.16666666666666666
+",66,lustig-d-singstund,18,3,0.06266666666666666,0.16666666666666666
 201,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2173,7 +2173,7 @@ Marie.
 Mi Mann hàt en grad entàmiert; wo Sie ine ku sin...
 
         
-",lustig-d-singstund,12,3,0.0,0.25
+",67,lustig-d-singstund,12,3,0.0,0.25
 202,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2183,7 +2183,7 @@ I ha noch nit dervo g'gesse as zwei Stätzle., zwei
                         Fattig, d'Làwere un 's Hintere...
 
         
-",lustig-d-singstund,17,1,0.617,0.058823529411764705
+",67,lustig-d-singstund,17,1,0.617,0.058823529411764705
 203,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2192,7 +2192,7 @@ Herr Tannezapfe.
 Un 's G'stell, das wird doch noch bliwe?
 
         
-",lustig-d-singstund,10,1,0.188,0.1
+",67,lustig-d-singstund,10,1,0.188,0.1
 204,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2203,7 +2203,7 @@ Mr wànn's hoffe... Mr theile's mitnander.
                         dr Herr Tannezapfe un sich nochher.)
 
         
-",lustig-d-singstund,19,4,0.047,0.21052631578947367
+",68,lustig-d-singstund,19,4,0.047,0.21052631578947367
 205,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2215,7 +2215,7 @@ Herr Tannezapfe
 Er hat e güeter Schluck, si Mann.
 
         
-",lustig-d-singstund,13,5,0.0376,0.38461538461538464
+",68,lustig-d-singstund,13,5,0.0376,0.38461538461538464
 206,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2227,7 +2227,7 @@ Marie
 Das geht e Länge, un d'Andere...
 
         
-",lustig-d-singstund,12,1,0.0,0.08333333333333333
+",68,lustig-d-singstund,12,1,0.0,0.08333333333333333
 207,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -2242,7 +2242,7 @@ G'sundheit, Herr... ich weiss nitt... awer Sie geh'nr
           
 
         
-",lustig-d-singstund,22,4,0.047,0.18181818181818182
+",69,lustig-d-singstund,22,4,0.047,0.18181818181818182
 208,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2254,7 +2254,7 @@ Herr Tannezapfe
 Er findet, ich heb e güeter Keigel...
 
         
-",lustig-d-singstund,12,3,0.06266666666666666,0.25
+",69,lustig-d-singstund,12,3,0.06266666666666666,0.25
 209,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2263,7 +2263,7 @@ Schlüch.
 Wo Sie inne ku sin, so ha-n-ich grad 's Marie...
 
         
-",lustig-d-singstund,13,2,0.0,0.15384615384615385
+",69,lustig-d-singstund,13,2,0.0,0.15384615384615385
 210,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2272,7 +2272,7 @@ Herr Tannezapfe.
 So hasch Dü grad 's Marie?...
 
         
-",lustig-d-singstund,8,2,0.094,0.25
+",70,lustig-d-singstund,8,2,0.094,0.25
 211,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2281,7 +2281,7 @@ Schlüch.
 Mache singe, 's isch schad, ass Sie's nitt g'hört hàn.
 
         
-",lustig-d-singstund,12,2,0.0,0.16666666666666666
+",70,lustig-d-singstund,12,2,0.0,0.16666666666666666
 212,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2290,7 +2290,7 @@ Herr Tannezapfe.
 Eh bien! singe's noch emol...
 
         
-",lustig-d-singstund,8,3,0.06266666666666666,0.375
+",70,lustig-d-singstund,8,3,0.06266666666666666,0.375
 214,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2318,7 +2318,7 @@ Wo sie thüet z'sàmme binde.
           
 
         
-",lustig-d-singstund,34,7,0.0802857142857143,0.20588235294117646
+",71,lustig-d-singstund,34,7,0.0802857142857143,0.20588235294117646
 215,comedy,Marie,F,cook,service_and_sales,,"
           
 Mitnander.
@@ -2343,7 +2343,7 @@ Wenn d'Liewe-n-isch ihr Band.
           
 
         
-",lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
+",71,lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
 216,comedy,Herr TANNEZAPFE,M,,,,"
           
 Mitnander.
@@ -2368,7 +2368,7 @@ Wenn d'Liewe-n-isch ihr Band.
           
 
         
-",lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
+",72,lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
 217,comedy,Herr SCHLÜCH,M,,,,"
           
 Mitnander.
@@ -2393,7 +2393,7 @@ Wenn d'Liewe-n-isch ihr Band.
           
 
         
-",lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
+",72,lustig-d-singstund,38,10,0.05620000000000001,0.2631578947368421
 218,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2402,7 +2402,7 @@ Herr Tannezapfe.
 Eh bien! güeter Frind, Dü gehsch mr jetz...
 
         
-",lustig-d-singstund,10,4,0.047,0.4
+",72,lustig-d-singstund,10,4,0.047,0.4
 220,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2412,7 +2412,7 @@ Sag emol, mi Held, verzähl mr emol, was Dich azoge hat,
                         fir Kàmifeger z'lehre...
 
         
-",lustig-d-singstund,17,4,0.047,0.23529411764705882
+",73,lustig-d-singstund,17,4,0.047,0.23529411764705882
 221,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -2425,7 +2425,7 @@ Tiens, dr Herr isst mit em Mann
 (macht züe).
 
         
-",lustig-d-singstund,20,6,0.03133333333333333,0.3
+",73,lustig-d-singstund,20,6,0.03133333333333333,0.3
 222,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2435,7 +2435,7 @@ Was i ho nie ha kanne begriffe, das isch, ass Ihr frieih
                         scho so schwarz sin, vor ebb Ihr im e Kàmi gsi sin.
 
         
-",lustig-d-singstund,26,3,0.06266666666666666,0.11538461538461539
+",74,lustig-d-singstund,26,3,0.06266666666666666,0.11538461538461539
 223,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2446,7 +2446,7 @@ Eh! grad das mache mr, ass mr in de Kàmi nitt schwarz
                         afange?...
 
         
-",lustig-d-singstund,22,4,0.0,0.18181818181818182
+",74,lustig-d-singstund,22,4,0.0,0.18181818181818182
 224,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2459,7 +2459,7 @@ Die schwàtze doch noch bis morn am Morge... das isch
                         sicher...
 
         
-",lustig-d-singstund,16,4,0.0,0.25
+",74,lustig-d-singstund,16,4,0.0,0.25
 225,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2469,7 +2469,7 @@ Das Ding wird interessant... Wart e wenig... 's Marie
                         holt jetz 's Kaffee... Trinksch Dü's gern, 's Kaffee?
 
         
-",lustig-d-singstund,21,3,0.06266666666666666,0.14285714285714285
+",75,lustig-d-singstund,21,3,0.06266666666666666,0.14285714285714285
 226,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -2478,7 +2478,7 @@ Schlüch.
 Ich spei grad nitt druf...
 
         
-",lustig-d-singstund,6,1,0.0,0.16666666666666666
+",75,lustig-d-singstund,6,1,0.0,0.16666666666666666
 227,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2488,7 +2488,7 @@ Wàhrend der Zit will ich geh mi Frack üszieh' un dr
                         Nachtrock alege...
 
         
-",lustig-d-singstund,15,2,0.094,0.13333333333333333
+",75,lustig-d-singstund,15,2,0.094,0.13333333333333333
 229,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2501,7 +2501,7 @@ Wart mr do... nur zwei Minüte.
           
 
         
-",lustig-d-singstund,17,2,0.094,0.11764705882352941
+",76,lustig-d-singstund,17,2,0.094,0.11764705882352941
 230,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2513,7 +2513,7 @@ Jetz fahre-n-ab...
                         üsrisse...
 
         
-",lustig-d-singstund,15,1,0.0,0.06666666666666667
+",76,lustig-d-singstund,15,1,0.0,0.06666666666666667
 232,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2527,7 +2527,7 @@ Ich kenn ewe dr Herr Tannezapfe, er wird nie fertig mit
                         furt, derno geht er geh schlofe, un nochher...
 
         
-",lustig-d-singstund,43,2,0.094,0.046511627906976744
+",77,lustig-d-singstund,43,2,0.094,0.046511627906976744
 234,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2542,7 +2542,7 @@ Jo, jo, sin z'friede
 . Un jetz g'schwind furt mit de-n-Andere.
 
         
-",lustig-d-singstund,28,2,0.0,0.07142857142857142
+",78,lustig-d-singstund,28,2,0.0,0.07142857142857142
 235,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2554,7 +2554,7 @@ Herr Tannezapfe
 Do bi-n-i jetz wieder.
 
         
-",lustig-d-singstund,11,1,0.188,0.09090909090909091
+",78,lustig-d-singstund,11,1,0.188,0.09090909090909091
 236,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2568,7 +2568,7 @@ Marie
                         rechts.)
 
         
-",lustig-d-singstund,20,1,0.375,0.05
+",78,lustig-d-singstund,20,1,0.375,0.05
 237,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -2581,7 +2581,7 @@ Er will jetz noch 's Kaffee nàh?.. Nun-de-bib! was fir e
                         Faction!
 
         
-",lustig-d-singstund,19,3,0.0,0.15789473684210525
+",79,lustig-d-singstund,19,3,0.0,0.15789473684210525
 238,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -2596,7 +2596,7 @@ Me-n-isch doch wiethig schlecht: do inne... I will
                         macht d'Thüre züe.)
 
         
-",lustig-d-singstund,33,5,0.11776516098934638,0.15151515151515152
+",79,lustig-d-singstund,33,5,0.11776516098934638,0.15151515151515152
 239,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -2612,7 +2612,7 @@ Oho! dr Mann!
                         g'schwind si Thüre züe.)
 
         
-",lustig-d-singstund,27,5,0.11776516098934638,0.18518518518518517
+",79,lustig-d-singstund,27,5,0.11776516098934638,0.18518518518518517
 240,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2624,7 +2624,7 @@ Herr Tannezapfe
 Eh bien! Marie, isch 's Kaffee g'rischtet?...
 
         
-",lustig-d-singstund,13,2,0.094,0.15384615384615385
+",80,lustig-d-singstund,13,2,0.094,0.15384615384615385
 241,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -2637,7 +2637,7 @@ Oho! dr He-err
 (er blibt hinte steh).
 
         
-",lustig-d-singstund,14,1,0.0,0.07142857142857142
+",80,lustig-d-singstund,14,1,0.0,0.07142857142857142
 242,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2649,7 +2649,7 @@ Herr Tannezapfe
 Allons, mi Alter, kumm setz Di an Tisch.
 
         
-",lustig-d-singstund,21,4,0.047,0.19047619047619047
+",80,lustig-d-singstund,21,4,0.047,0.19047619047619047
 244,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2659,7 +2659,7 @@ Zeig... kumm... sitz wieder an Di Platz
 (er setzt si).
 
         
-",lustig-d-singstund,14,2,0.094,0.14285714285714285
+",81,lustig-d-singstund,14,2,0.094,0.14285714285714285
 245,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -2670,7 +2670,7 @@ I-i kumm
  er nimmt mi fir dr A-Ander...
 
         
-",lustig-d-singstund,13,3,0.0,0.23076923076923078
+",81,lustig-d-singstund,13,3,0.0,0.23076923076923078
 246,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2681,7 +2681,7 @@ Allons denn!
           
 
         
-",lustig-d-singstund,4,1,0.188,0.25
+",82,lustig-d-singstund,4,1,0.188,0.25
 247,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -2696,7 +2696,7 @@ We-wenn's halt nitt anderscht ka si...
                         Teller.)
 
         
-",lustig-d-singstund,29,5,0.05620000000000001,0.1724137931034483
+",82,lustig-d-singstund,29,5,0.05620000000000001,0.1724137931034483
 248,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2705,7 +2705,7 @@ Herr Tannezapfe.
 Marie, eh bien! kunnt das Kaffee bol?...
 
         
-",lustig-d-singstund,9,2,0.094,0.2222222222222222
+",82,lustig-d-singstund,9,2,0.094,0.2222222222222222
 249,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2722,7 +2722,7 @@ Do, Herr...
 (Se stellt dr Plateau uf dr Tisch.)
 
         
-",lustig-d-singstund,41,3,0.06266666666666666,0.07317073170731707
+",83,lustig-d-singstund,41,3,0.06266666666666666,0.07317073170731707
 250,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2735,7 +2735,7 @@ Ah ça... er fangt wieder a z'esse, halt' 'n doch ab...
                         er macht si sunscht weh...
 
         
-",lustig-d-singstund,26,4,0.21675,0.15384615384615385
+",83,lustig-d-singstund,26,4,0.21675,0.15384615384615385
 251,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2753,7 +2753,7 @@ Ihr verspringe noch, 's isch sicher
                         z'ruck.)
 
         
-",lustig-d-singstund,46,8,0.070375,0.17391304347826086
+",83,lustig-d-singstund,46,8,0.070375,0.17391304347826086
 252,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2769,7 +2769,7 @@ Versüech mr jetz emol das Kaffee do... mr wànn lüege,
 . Eh bien! was haltsch dervo?
 
         
-",lustig-d-singstund,39,3,0.06266666666666666,0.07692307692307693
+",84,lustig-d-singstund,39,3,0.06266666666666666,0.07692307692307693
 253,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -2778,7 +2778,7 @@ Papegài.
 's isch güet, Ihr' Ka-Ka...
 
         
-",lustig-d-singstund,6,1,0.0,0.16666666666666666
+",84,lustig-d-singstund,6,1,0.0,0.16666666666666666
 254,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2787,7 +2787,7 @@ Herr Tannezapfe.
 Hein?
 
         
-",lustig-d-singstund,3,1,0.188,0.3333333333333333
+",84,lustig-d-singstund,3,1,0.188,0.3333333333333333
 256,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2796,7 +2796,7 @@ Herr Tannezapfe.
 Er redt eso possig, was hat er denn?
 
         
-",lustig-d-singstund,10,1,0.188,0.1
+",85,lustig-d-singstund,10,1,0.188,0.1
 258,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2810,7 +2810,7 @@ Herr Tannezapfe.
                         isch's 'n nitt!...
 
         
-",lustig-d-singstund,36,7,0.07425841417096939,0.19444444444444445
+",86,lustig-d-singstund,36,7,0.07425841417096939,0.19444444444444445
 259,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2824,7 +2824,7 @@ Do hà mr's...
  Wer das, Herr?...
 
         
-",lustig-d-singstund,17,3,0.06266666666666666,0.17647058823529413
+",86,lustig-d-singstund,17,3,0.06266666666666666,0.17647058823529413
 260,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2833,7 +2833,7 @@ Herr Tannezapfe.
 Di Mann!
 
         
-",lustig-d-singstund,4,2,0.094,0.5
+",86,lustig-d-singstund,4,2,0.094,0.5
 262,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2842,7 +2842,7 @@ Herr Tannezapfe.
 Eh,lüeg emol, 's isch dà Kàmifeger nitt vo vorig.
 
         
-",lustig-d-singstund,12,2,0.094,0.16666666666666666
+",87,lustig-d-singstund,12,2,0.094,0.16666666666666666
 263,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2851,7 +2851,7 @@ Marie.
 Dr Herr will mich glaüb ha?
 
         
-",lustig-d-singstund,7,2,0.094,0.2857142857142857
+",87,lustig-d-singstund,7,2,0.094,0.2857142857142857
 264,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -2860,7 +2860,7 @@ Papegài.
 Dr Herr spa-spa-spasst.
 
         
-",lustig-d-singstund,4,1,0.188,0.25
+",88,lustig-d-singstund,4,1,0.188,0.25
 266,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2870,7 +2870,7 @@ Ich ha halt mine Brille nitt. Enfin, wenn Dü sicher
                         bisch...
 
         
-",lustig-d-singstund,13,4,0.11725000000000001,0.3076923076923077
+",88,lustig-d-singstund,13,4,0.11725000000000001,0.3076923076923077
 267,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2882,7 +2882,7 @@ Natirlig bi-n-i sicher... awer 's isch jetz glaüb Zit,
           
 
         
-",lustig-d-singstund,16,3,0.0,0.1875
+",89,lustig-d-singstund,16,3,0.0,0.1875
 268,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -2894,7 +2894,7 @@ Papegài
 I ga-gang...
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",89,lustig-d-singstund,7,1,0.0,0.14285714285714285
 269,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2903,7 +2903,7 @@ Herr Tannezapfe.
 Nitt, vor eb er mir die G'schichte verzählt hat.
 
         
-",lustig-d-singstund,11,1,0.188,0.09090909090909091
+",89,lustig-d-singstund,11,1,0.188,0.09090909090909091
 270,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -2912,7 +2912,7 @@ Papegài.
 Was fir e G'schi-G'schi-G'schichte?
 
         
-",lustig-d-singstund,5,1,0.0,0.2
+",90,lustig-d-singstund,5,1,0.0,0.2
 271,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2921,7 +2921,7 @@ Herr Tannezapfe.
 Ah ça, er stosst glaüb a jetz?
 
         
-",lustig-d-singstund,9,2,0.094,0.2222222222222222
+",90,lustig-d-singstund,9,2,0.094,0.2222222222222222
 273,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -2933,7 +2933,7 @@ Papegài
 Güe - güetnacht...
 
         
-",lustig-d-singstund,8,1,0.0,0.125
+",91,lustig-d-singstund,8,1,0.0,0.125
 274,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -2948,7 +2948,7 @@ Nur noch e wenig... das alles ist nitt recht klar
  gib mr mine Brille...
 
         
-",lustig-d-singstund,26,5,0.0376,0.19230769230769232
+",91,lustig-d-singstund,26,5,0.0376,0.19230769230769232
 275,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -2961,7 +2961,7 @@ Ihre Brille... i ha se verlegt... weiss nitt, wo se
                         sìn...
 
         
-",lustig-d-singstund,15,1,0.0,0.06666666666666667
+",91,lustig-d-singstund,15,1,0.0,0.06666666666666667
 276,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2970,7 +2970,7 @@ Herr Tannezapfe.
 Ich will se scho finde... Zind mr...
 
         
-",lustig-d-singstund,9,2,0.375,0.2222222222222222
+",92,lustig-d-singstund,9,2,0.375,0.2222222222222222
 278,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -2979,7 +2979,7 @@ Herr Tannezapfe.
 Hör'sch mi oder nitt?...
 
         
-",lustig-d-singstund,6,1,0.188,0.16666666666666666
+",92,lustig-d-singstund,6,1,0.188,0.16666666666666666
 279,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -2994,7 +2994,7 @@ Jo, Herr
           
 
         
-",lustig-d-singstund,26,3,0.211,0.11538461538461539
+",93,lustig-d-singstund,26,3,0.211,0.11538461538461539
 280,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3016,7 +3016,7 @@ Thüet widersteh.
           
 
         
-",lustig-d-singstund,19,3,0.06266666666666666,0.15789473684210525
+",93,lustig-d-singstund,19,3,0.06266666666666666,0.15789473684210525
 281,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3038,7 +3038,7 @@ Glaübt wiss wie Schnee.
           
 
         
-",lustig-d-singstund,20,1,0.0,0.05
+",93,lustig-d-singstund,20,1,0.0,0.05
 282,comedy,Herr PAPEGAI,M,,,,"
           
 Papegai.
@@ -3060,7 +3060,7 @@ Blib nitt do steh.
           
 
         
-",lustig-d-singstund,20,2,0.0,0.1
+",94,lustig-d-singstund,20,2,0.0,0.1
 283,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -3072,7 +3072,7 @@ Kunnsch mo-orn dure, ass ich do wart... wo isch d'Thüre?
                         verbi.)
 
         
-",lustig-d-singstund,24,1,0.0,0.041666666666666664
+",94,lustig-d-singstund,24,1,0.0,0.041666666666666664
 284,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3091,7 +3091,7 @@ Ich gieng jetz gern emol ab
                         hintere Zimmer üse, links, un geht rechts.)
 
         
-",lustig-d-singstund,48,5,0.20056516098934635,0.10416666666666667
+",94,lustig-d-singstund,48,5,0.20056516098934635,0.10416666666666667
 285,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -3103,7 +3103,7 @@ Schlüch
 Wenn i nur d'Kuche kännt finde...
 
         
-",lustig-d-singstund,14,2,0.281,0.14285714285714285
+",95,lustig-d-singstund,14,2,0.281,0.14285714285714285
 286,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3115,7 +3115,7 @@ Herr Tannezapfe
 Jetz wà mr emol sàh...
 
         
-",lustig-d-singstund,10,1,0.188,0.1
+",95,lustig-d-singstund,10,1,0.188,0.1
 288,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3126,7 +3126,7 @@ G'schwind do ine.
                         d'Thüre-n-uf isch.)
 
         
-",lustig-d-singstund,18,2,0.29441290247336593,0.1111111111111111
+",96,lustig-d-singstund,18,2,0.29441290247336593,0.1111111111111111
 289,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài.
@@ -3136,7 +3136,7 @@ Dert...
 (Er geht links ine, erster Plan.)
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",96,lustig-d-singstund,10,1,0.0,0.1
 290,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -3147,7 +3147,7 @@ Schlüch.
                         Alle mache-n-ihre Thüre züe.)
 
         
-",lustig-d-singstund,20,1,0.0,0.05
+",96,lustig-d-singstund,20,1,0.0,0.05
 291,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3161,7 +3161,7 @@ Ah! er isch furt!
 ('s Theater wird heiter.)
 
         
-",lustig-d-singstund,27,2,0.0,0.07407407407407407
+",97,lustig-d-singstund,27,2,0.0,0.07407407407407407
 292,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3176,7 +3176,7 @@ Jetz, wo-n-i mine Brille ha, wà mr emol lüege... Eh
                         ebbes... Marie... do steckt ebbes derhinter.
 
         
-",lustig-d-singstund,53,6,0.03133333333333333,0.11320754716981132
+",97,lustig-d-singstund,53,6,0.03133333333333333,0.11320754716981132
 293,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3186,7 +3186,7 @@ Ich merk' o, ass Sie nitt heiter sàhn un ass Sie allewil
                         Sache fire bringe...
 
         
-",lustig-d-singstund,16,2,0.0,0.125
+",97,lustig-d-singstund,16,2,0.0,0.125
 294,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3195,7 +3195,7 @@ Herr Tannezapfe.
 Worum isch er denn furt, das bezigt doch...
 
         
-",lustig-d-singstund,10,1,0.188,0.1
+",98,lustig-d-singstund,10,1,0.188,0.1
 295,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3212,7 +3212,7 @@ Das bezigt gar nit
                         Cabinet hinte links.)
 
         
-",lustig-d-singstund,42,4,0.14720645123668297,0.09523809523809523
+",98,lustig-d-singstund,42,4,0.14720645123668297,0.09523809523809523
 296,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3221,7 +3221,7 @@ Herr Tannezapfe.
 In Dim Zimmer?
 
         
-",lustig-d-singstund,5,1,0.188,0.2
+",98,lustig-d-singstund,5,1,0.188,0.2
 297,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3230,7 +3230,7 @@ Marie.
 Worum nitt, mi Mann?
 
         
-",lustig-d-singstund,5,1,0.0,0.2
+",99,lustig-d-singstund,5,1,0.0,0.2
 298,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3240,7 +3240,7 @@ Eh bien, zeig, rief 'm...
 (er geht links).
 
         
-",lustig-d-singstund,12,2,0.094,0.16666666666666666
+",99,lustig-d-singstund,12,2,0.094,0.16666666666666666
 299,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3259,7 +3259,7 @@ Wenn Se nur das brüche, fir sich z'versichere... putze
                         Gager bi dr Hand un fiehrt 'n ine.)
 
         
-",lustig-d-singstund,60,9,0.08631397832741465,0.15
+",99,lustig-d-singstund,60,9,0.08631397832741465,0.15
 300,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3268,7 +3268,7 @@ Herr Tannezapfe.
 Kumm emol nächer, güeter Frind...
 
         
-",lustig-d-singstund,7,4,0.047,0.5714285714285714
+",100,lustig-d-singstund,7,4,0.047,0.5714285714285714
 302,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3280,7 +3280,7 @@ Herr Tannezapfe
 Scho wieder e-n-Anderer?...
 
         
-",lustig-d-singstund,13,2,0.094,0.15384615384615385
+",100,lustig-d-singstund,13,2,0.094,0.15384615384615385
 304,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3349,7 +3349,7 @@ Eh bien, Marie?
           
 
         
-",lustig-d-singstund,106,11,0.0,0.10377358490566038
+",101,lustig-d-singstund,106,11,0.0,0.10377358490566038
 305,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3358,7 +3358,7 @@ Marie.
 Eh bien... was?
 
         
-",lustig-d-singstund,4,1,0.0,0.25
+",101,lustig-d-singstund,4,1,0.0,0.25
 306,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3367,7 +3367,7 @@ Herr Tannezapfe.
 Isch en jetz das o, Di Mann?...
 
         
-",lustig-d-singstund,9,2,0.094,0.2222222222222222
+",102,lustig-d-singstund,9,2,0.094,0.2222222222222222
 307,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3379,7 +3379,7 @@ Marie
 I mein's emol, Herr, ass es ne isch...
 
         
-",lustig-d-singstund,15,2,0.094,0.13333333333333333
+",102,lustig-d-singstund,15,2,0.094,0.13333333333333333
 308,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -3391,7 +3391,7 @@ Gager
 Verstande...
 
         
-",lustig-d-singstund,7,1,0.0,0.14285714285714285
+",102,lustig-d-singstund,7,1,0.0,0.14285714285714285
 309,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3400,7 +3400,7 @@ Herr Tannezapfe.
 Was... dà Dicke do?
 
         
-",lustig-d-singstund,6,1,0.188,0.16666666666666666
+",103,lustig-d-singstund,6,1,0.188,0.16666666666666666
 310,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3413,7 +3413,7 @@ Isch's e Wunder, Herr? Sie hàn 'n so viel mache
 (Se stupft dr Gager.)
 
         
-",lustig-d-singstund,20,2,0.094,0.1
+",103,lustig-d-singstund,20,2,0.094,0.1
 311,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3423,7 +3423,7 @@ Nun-de-bib noch emol... das isch wohr... Se hà mich
                             g'schoppt...
 
         
-",lustig-d-singstund,11,1,0.0,0.09090909090909091
+",103,lustig-d-singstund,11,1,0.0,0.09090909090909091
 312,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3432,7 +3432,7 @@ Herr Tannezapfe.
 Was... Dü bisch's, wo...
 
         
-",lustig-d-singstund,7,1,0.188,0.14285714285714285
+",104,lustig-d-singstund,7,1,0.188,0.14285714285714285
 317,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3445,7 +3445,7 @@ Hout.
 (Se geht in d'Mittle hinter dr Tisch.)
 
         
-",lustig-d-singstund,16,1,0.0,0.0625
+",105,lustig-d-singstund,16,1,0.0,0.0625
 318,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3455,7 +3455,7 @@ Un dr Racahout... un 's hat mi nitt iwel uftriwe...
                             Nun-de-bib noch emol!
 
         
-",lustig-d-singstund,14,1,0.5793047155106067,0.07142857142857142
+",106,lustig-d-singstund,14,1,0.5793047155106067,0.07142857142857142
 319,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3468,7 +3468,7 @@ Do hat mi denn mi Schüelkamerad nitt trumpiert... 's
           
 
         
-",lustig-d-singstund,24,2,0.094,0.08333333333333333
+",106,lustig-d-singstund,24,2,0.094,0.08333333333333333
 320,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3478,7 +3478,7 @@ Eh bien, mr wànn wieder an dr Tisch sitze. Nunde-bib
                             noch emol...
 
         
-",lustig-d-singstund,13,1,0.0,0.07692307692307693
+",106,lustig-d-singstund,13,1,0.0,0.07692307692307693
 321,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3488,7 +3488,7 @@ Herr Tannezapfe.
                             az'stosse.
 
         
-",lustig-d-singstund,12,2,0.27349999999999997,0.16666666666666666
+",107,lustig-d-singstund,12,2,0.27349999999999997,0.16666666666666666
 323,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3499,7 +3499,7 @@ Ich ha das nitt ungern... Eh bien, 's isch mr recht,
                             schwàtze.
 
         
-",lustig-d-singstund,23,5,0.0376,0.21739130434782608
+",107,lustig-d-singstund,23,5,0.0376,0.21739130434782608
 324,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3510,7 +3510,7 @@ C'est ça
  Kännt i viellicht die Platte ha dert?
 
         
-",lustig-d-singstund,20,1,0.0,0.05
+",108,lustig-d-singstund,20,1,0.0,0.05
 325,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3525,7 +3525,7 @@ do, rüm das alles eweg...
 (Marie tràit's ufs Tischle links, mit dr Bouteille.)
 
         
-",lustig-d-singstund,36,3,0.2813333333333333,0.08333333333333333
+",108,lustig-d-singstund,36,3,0.2813333333333333,0.08333333333333333
 327,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3538,7 +3538,7 @@ Nimm o d'Kaffeekanne furt...
 (Marie nimmt dr Plateau mit em Kaffee.)
 
         
-",lustig-d-singstund,36,4,0.047,0.1111111111111111
+",109,lustig-d-singstund,36,4,0.047,0.1111111111111111
 329,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3549,7 +3549,7 @@ Jo, jo... Dü hasch Di Kaffee g'ha... De nimmsch jetz
                             eim das Ding als wieder e wenig vertriwe...
 
         
-",lustig-d-singstund,31,2,0.2895,0.06451612903225806
+",109,lustig-d-singstund,31,2,0.2895,0.06451612903225806
 330,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3558,7 +3558,7 @@ Gager.
 Bi mir isch nit z'vertriwe-n-as dr Hunger...
 
         
-",lustig-d-singstund,11,2,0.1955,0.18181818181818182
+",110,lustig-d-singstund,11,2,0.1955,0.18181818181818182
 331,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3568,7 +3568,7 @@ A propos... De hasch mr die G'schichte noch allewil
                             nitt verzahlt!...
 
         
-",lustig-d-singstund,13,2,0.094,0.15384615384615385
+",110,lustig-d-singstund,13,2,0.094,0.15384615384615385
 332,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3583,7 +3583,7 @@ Allons, bon
 Sage-n-Ihr hewe 's Zahnweh un mache-n-I fremd...
 
         
-",lustig-d-singstund,34,1,0.0,0.029411764705882353
+",110,lustig-d-singstund,34,1,0.0,0.029411764705882353
 334,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3592,7 +3592,7 @@ Herr Tannezapfe.
 Wo fehlt's?...
 
         
-",lustig-d-singstund,5,2,0.094,0.4
+",111,lustig-d-singstund,5,2,0.094,0.4
 335,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -3607,7 +3607,7 @@ Mi Zahn, wo mr scho so lang Malàschte macht... awer
                             er üse...
 
         
-",lustig-d-singstund,38,6,0.0553014831994643,0.15789473684210525
+",111,lustig-d-singstund,38,6,0.0553014831994643,0.15789473684210525
 336,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3617,7 +3617,7 @@ Das isch jetz doch ärgerlig, enfin, De kunnsch
                             wieder.
 
         
-",lustig-d-singstund,11,1,0.188,0.09090909090909091
+",112,lustig-d-singstund,11,1,0.188,0.09090909090909091
 337,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3628,7 +3628,7 @@ Eb i wieder kumm!
  derno...
 
         
-",lustig-d-singstund,11,1,0.0,0.09090909090909091
+",112,lustig-d-singstund,11,1,0.0,0.09090909090909091
 340,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3644,7 +3644,7 @@ Do, nimm noch e Gläsle Rhum, 's isch o güet fir's
           
 
         
-",lustig-d-singstund,29,3,0.06266666666666666,0.10344827586206896
+",113,lustig-d-singstund,29,3,0.06266666666666666,0.10344827586206896
 342,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3656,7 +3656,7 @@ Marie
 Das isch emol e Feger!...
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",114,lustig-d-singstund,10,1,0.0,0.1
 343,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3665,7 +3665,7 @@ Gager.
 Allons... Güetnacht Herr Tannebibele.
 
         
-",lustig-d-singstund,5,1,0.188,0.2
+",114,lustig-d-singstund,5,1,0.188,0.2
 344,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3674,7 +3674,7 @@ Herr Tannezapfe.
 Tannezapfe, güeter Frind, Herkül Tannezapfe...
 
         
-",lustig-d-singstund,7,3,0.06266666666666666,0.42857142857142855
+",114,lustig-d-singstund,7,3,0.06266666666666666,0.42857142857142855
 345,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -3688,7 +3688,7 @@ Ah! Sie sin e Herkül, Sie
  Farceur...
 
         
-",lustig-d-singstund,23,2,0.0,0.08695652173913043
+",115,lustig-d-singstund,23,2,0.0,0.08695652173913043
 346,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3700,7 +3700,7 @@ Herr Tannezapfe
 Er isch charmant... un ganz güet uferzoge...
 
         
-",lustig-d-singstund,13,4,0.047,0.3076923076923077
+",115,lustig-d-singstund,13,4,0.047,0.3076923076923077
 347,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3725,7 +3725,7 @@ Er möcht noch ebbes esse hit...
 Ich will emol prawiere, in d'Kuche z'witsche...
 
         
-",lustig-d-singstund,46,4,0.047,0.08695652173913043
+",115,lustig-d-singstund,46,4,0.047,0.08695652173913043
 348,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -3754,7 +3754,7 @@ Verderbt isch jetz mi Freid.
           
 
         
-",lustig-d-singstund,35,3,0.326255885083618,0.08571428571428572
+",116,lustig-d-singstund,35,3,0.326255885083618,0.08571428571428572
 349,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie, Herr Tannezapfe.
@@ -3774,7 +3774,7 @@ Verderbt isch unser Freid.
 (Dr Gager macht dr gliche, as gieng er furt un schlicht awer in d'Kuche, zweite Thüre rechts).
 
         
-",lustig-d-singstund,34,4,0.1921919138127135,0.11764705882352941
+",116,lustig-d-singstund,34,4,0.1921919138127135,0.11764705882352941
 350,comedy,Herr TANNEZAPFE,M,,,,"
           
 Marie, Herr Tannezapfe.
@@ -3794,7 +3794,7 @@ Verderbt isch unser Freid.
 (Dr Gager macht dr gliche, as gieng er furt un schlicht awer in d'Kuche, zweite Thüre rechts).
 
         
-",lustig-d-singstund,34,4,0.1921919138127135,0.11764705882352941
+",116,lustig-d-singstund,34,4,0.1921919138127135,0.11764705882352941
 351,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3805,7 +3805,7 @@ Endlig ha-n-i Di jetz ab
  's isch efange spot, Herr... wenn Se jetz giengte geh schlofe?...
 
         
-",lustig-d-singstund,22,4,0.10549999999999998,0.18181818181818182
+",117,lustig-d-singstund,22,4,0.10549999999999998,0.18181818181818182
 352,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3817,7 +3817,7 @@ Sag... Marie... 's isch doch possig... grad denk i
                             me viellicht noch versteh...
 
         
-",lustig-d-singstund,34,4,0.047,0.11764705882352941
+",117,lustig-d-singstund,34,4,0.047,0.11764705882352941
 353,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3826,7 +3826,7 @@ Marie.
 Jo... dr Herr hat's jo g'sàh.
 
         
-",lustig-d-singstund,8,1,0.188,0.125
+",117,lustig-d-singstund,8,1,0.188,0.125
 354,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3837,7 +3837,7 @@ Di Mann hat Racahout g'gesse, güet, awer explizier
                             hàn, sich känne versteh züem eso ne Wachsthum?
 
         
-",lustig-d-singstund,27,3,0.06266666666666666,0.1111111111111111
+",118,lustig-d-singstund,27,3,0.06266666666666666,0.1111111111111111
 356,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3852,7 +3852,7 @@ Tiens, dà do isch vo miner Cüsine Ribise
 (er steckt dr ander wieder in Sack)
 
         
-",lustig-d-singstund,64,6,0.03133333333333333,0.09375
+",118,lustig-d-singstund,64,6,0.03133333333333333,0.09375
 357,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -3862,7 +3862,7 @@ Se wird wieder e Bosheit ufbringe... lese Sie's
                             morn.
 
         
-",lustig-d-singstund,11,2,0.2775,0.18181818181818182
+",119,lustig-d-singstund,11,2,0.2775,0.18181818181818182
 358,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3876,7 +3876,7 @@ Liewer Cüsin, ich ha schöne Sache erfahre iwer Eüer Marie
  Hein?
 
         
-",lustig-d-singstund,37,5,0.0376,0.13513513513513514
+",119,lustig-d-singstund,37,5,0.0376,0.13513513513513514
 359,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3891,7 +3891,7 @@ Aïe! aïe!
 (Se zieht 's Liecht z'ruck.)
 
         
-",lustig-d-singstund,15,2,0.1875,0.13333333333333333
+",119,lustig-d-singstund,15,2,0.1875,0.13333333333333333
 360,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3902,7 +3902,7 @@ Zind mr denn
 Se hat schint's Liebschafte...
 
         
-",lustig-d-singstund,13,1,0.188,0.07692307692307693
+",120,lustig-d-singstund,13,1,0.188,0.07692307692307693
 361,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3914,7 +3914,7 @@ Marie
 Die hat wohrschinlig alles erfahre!...
 
         
-",lustig-d-singstund,15,2,0.0,0.13333333333333333
+",120,lustig-d-singstund,15,2,0.0,0.13333333333333333
 362,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3927,7 +3927,7 @@ Mit drei Kàm...
 (er kehrt 's Blätt um).
 
         
-",lustig-d-singstund,15,1,0.188,0.06666666666666667
+",120,lustig-d-singstund,15,1,0.188,0.06666666666666667
 363,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3941,7 +3941,7 @@ Ich bi verlore
 Ah !
 
         
-",lustig-d-singstund,16,2,0.2225,0.125
+",121,lustig-d-singstund,16,2,0.2225,0.125
 364,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3950,7 +3950,7 @@ Herr Tannezapfe.
 Mit drei Kàm... was will se mit dem sage?
 
         
-",lustig-d-singstund,11,1,0.188,0.09090909090909091
+",121,lustig-d-singstund,11,1,0.188,0.09090909090909091
 365,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -3962,7 +3962,7 @@ Marie
 Oh! Bosheite will se sage.
 
         
-",lustig-d-singstund,12,1,0.555,0.08333333333333333
+",121,lustig-d-singstund,12,1,0.555,0.08333333333333333
 366,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -3974,7 +3974,7 @@ Firio! Firio!...
 (Er wirft dr Brief an Bode un schreit, wie wenn 's ganze Hüs in Flamme wàr. Uf si Gschrei kämme-n-alle drei Kàmifeger üse ku z'springe uf dr Herr Tannezapfe.)
 
         
-",lustig-d-singstund,50,9,0.07896624050389689,0.18
+",122,lustig-d-singstund,50,9,0.07896624050389689,0.18
 367,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -3986,7 +3986,7 @@ Schlüch
 Firio!
 
         
-",lustig-d-singstund,8,1,0.0,0.125
+",122,lustig-d-singstund,8,1,0.0,0.125
 370,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -3998,7 +3998,7 @@ Herr Tannezapfe
 A ça... schneits denn Kàmifeger hit?
 
         
-",lustig-d-singstund,12,2,0.094,0.16666666666666666
+",123,lustig-d-singstund,12,2,0.094,0.16666666666666666
 371,comedy,Herr SCHLÜCH,M,,,,"
           
 Mitnander.
@@ -4028,7 +4028,7 @@ Ich verstand kei Wort dervo,
 Was die mache do!
 
         
-",lustig-d-singstund,41,5,0.0,0.12195121951219512
+",123,lustig-d-singstund,41,5,0.0,0.12195121951219512
 372,comedy,Herr GAGER,M,,,,"
           
 Mitnander.
@@ -4058,7 +4058,7 @@ Ich verstand kei Wort dervo,
 Was die mache do!
 
         
-",lustig-d-singstund,41,5,0.0,0.12195121951219512
+",124,lustig-d-singstund,41,5,0.0,0.12195121951219512
 373,comedy,Herr PAPEGAI,M,,,,"
           
 Mitnander.
@@ -4088,7 +4088,7 @@ Ich verstand kei Wort dervo,
 Was die mache do!
 
         
-",lustig-d-singstund,41,5,0.0,0.12195121951219512
+",124,lustig-d-singstund,41,5,0.0,0.12195121951219512
 374,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -4100,7 +4100,7 @@ Marie
 Das isch 's Bouquet!
 
         
-",lustig-d-singstund,9,1,0.0,0.1111111111111111
+",124,lustig-d-singstund,9,1,0.0,0.1111111111111111
 375,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe
@@ -4112,7 +4112,7 @@ Herr Tannezapfe
 Was will das sage?...
 
         
-",lustig-d-singstund,9,1,0.188,0.1111111111111111
+",125,lustig-d-singstund,9,1,0.188,0.1111111111111111
 377,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -4124,7 +4124,7 @@ Drei Kàm... mi Cüsine hat schint's recht g'ha in
           
 
         
-",lustig-d-singstund,14,2,0.094,0.14285714285714285
+",125,lustig-d-singstund,14,2,0.094,0.14285714285714285
 378,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -4137,7 +4137,7 @@ Eh bien, Herr... ich will Ihne liewer gli d'ganze
                             Wohret sage.
 
         
-",lustig-d-singstund,19,6,0.03133333333333333,0.3157894736842105
+",126,lustig-d-singstund,19,6,0.03133333333333333,0.3157894736842105
 379,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -4149,7 +4149,7 @@ Gager
 Das will i o höre!
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",126,lustig-d-singstund,10,1,0.0,0.1
 380,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -4160,7 +4160,7 @@ Marie.
 Awer das isch dà, wo-n-i hiroth mit dr Eh'stir, wo Sie mir versproche hàn...
 
         
-",lustig-d-singstund,31,2,0.0,0.06451612903225806
+",126,lustig-d-singstund,31,2,0.0,0.06451612903225806
 381,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch
@@ -4172,7 +4172,7 @@ Schlüch
 Ah! 's git e-n-Eh'stir?...
 
         
-",lustig-d-singstund,11,1,0.0,0.09090909090909091
+",127,lustig-d-singstund,11,1,0.0,0.09090909090909091
 382,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -4181,7 +4181,7 @@ Herr Tannezapfe.
 Ich ha Dir e-n-Eh'stir versproche?
 
         
-",lustig-d-singstund,9,2,0.094,0.2222222222222222
+",127,lustig-d-singstund,9,2,0.094,0.2222222222222222
 383,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -4192,7 +4192,7 @@ Jo, Herr!...
 Dr Herr Schlüch üs em Didemergàssle, d'andere zwei sin mine Cüsin, mi Cüsin Gager un mi Cüsin Pagepài.
 
         
-",lustig-d-singstund,27,3,0.12533333333333332,0.1111111111111111
+",127,lustig-d-singstund,27,3,0.12533333333333332,0.1111111111111111
 384,comedy,Herr PAPEGAI,M,,,,"
           
 Papegài
@@ -4204,7 +4204,7 @@ Papegài
 Si Cü - Cüsin?
 
         
-",lustig-d-singstund,9,1,0.0,0.1111111111111111
+",128,lustig-d-singstund,9,1,0.0,0.1111111111111111
 385,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -4213,7 +4213,7 @@ Gager.
 Verstande!...
 
         
-",lustig-d-singstund,2,1,0.0,0.5
+",128,lustig-d-singstund,2,1,0.0,0.5
 386,comedy,Herr SCHLÜCH,M,,,,"
           
 Schlüch.
@@ -4223,7 +4223,7 @@ Wo mine zwei Zige gàn.
 (Dr Gager git 'm d'Hand).
 
         
-",lustig-d-singstund,14,1,0.0,0.07142857142857142
+",128,lustig-d-singstund,14,1,0.0,0.07142857142857142
 387,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -4236,7 +4236,7 @@ De hättsch's denn gli sotte sage. Eh bien, morn isch
                             lislig.)
 
         
-",lustig-d-singstund,45,4,0.11725000000000001,0.08888888888888889
+",129,lustig-d-singstund,45,4,0.11725000000000001,0.08888888888888889
 388,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie
@@ -4248,7 +4248,7 @@ Marie
 Wenn's nur nitt wieder...
 
         
-",lustig-d-singstund,10,1,0.0,0.1
+",129,lustig-d-singstund,10,1,0.0,0.1
 389,comedy,Herr TANNEZAPFE,M,,,,"
           
 Herr Tannezapfe.
@@ -4262,7 +4262,7 @@ Wie-n-i gsàit ha, Ihr Herre-n-un Dame, morn isch 's
 Was frog ich derno, ich zieh's im Marie ab vo dr Eh'stir...
 
         
-",lustig-d-singstund,64,14,0.042499999999999996,0.21875
+",129,lustig-d-singstund,64,14,0.042499999999999996,0.21875
 390,comedy,Marie,F,cook,service_and_sales,,"
           
 Marie.
@@ -4280,7 +4280,7 @@ So thien ihr in d'Hànd recht schla
 Un riefe Bravo! Alle.
 
         
-",lustig-d-singstund,27,3,0.0,0.1111111111111111
+",130,lustig-d-singstund,27,3,0.0,0.1111111111111111
 391,comedy,Herr PAPEGAI,M,,,,"
           
 Mitnander.
@@ -4298,7 +4298,7 @@ So thien ihr in d' Hànd recht schla,
 So stark as Jeder ka.
 
         
-",lustig-d-singstund,28,5,0.0,0.17857142857142858
+",130,lustig-d-singstund,28,5,0.0,0.17857142857142858
 392,comedy,Herr GAGER,M,,,,"
           
 Mitnander.
@@ -4316,7 +4316,7 @@ So thien ihr in d' Hànd recht schla,
 So stark as Jeder ka.
 
         
-",lustig-d-singstund,28,5,0.0,0.17857142857142858
+",130,lustig-d-singstund,28,5,0.0,0.17857142857142858
 393,comedy,Herr SCHLÜCH,M,,,,"
           
 Mitnander.
@@ -4334,7 +4334,7 @@ So thien ihr in d' Hànd recht schla,
 So stark as Jeder ka.
 
         
-",lustig-d-singstund,28,5,0.0,0.17857142857142858
+",131,lustig-d-singstund,28,5,0.0,0.17857142857142858
 394,comedy,Herr TANNEZAPFE,M,,,,"
           
 Mitnander.
@@ -4352,7 +4352,7 @@ So thien ihr in d' Hànd recht schla,
 So stark as Jeder ka.
 
         
-",lustig-d-singstund,28,5,0.0,0.17857142857142858
+",131,lustig-d-singstund,28,5,0.0,0.17857142857142858
 395,comedy,Marie,F,cook,service_and_sales,,"
           
 Mitnander.
@@ -4370,4 +4370,4 @@ So thien ihr in d' Hànd recht schla,
 So stark as Jeder ka.
 
         
-",lustig-d-singstund,28,5,0.0,0.17857142857142858
+",131,lustig-d-singstund,28,5,0.0,0.17857142857142858

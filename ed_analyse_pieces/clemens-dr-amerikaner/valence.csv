@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 1,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -10,7 +10,7 @@ Maire :
 Aloys, ihr hann doch d’Ge- mäinderotsharre uf 6 Ühre do häre b’stellt ? — — Es isch jetz schun 20 Minüte üewer sechs un noch nieme losst sich sahn !
 
         
-",clemens-dr-amerikaner,45,3,0.6575709058991603,0.06666666666666667
+",0,clemens-dr-amerikaner,45,3,0.6575709058991603,0.06666666666666667
 2,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -19,7 +19,7 @@ Aloys :
 Ich hab's alle g’säit!... Awer bi danne häisst’s äu : „Kumm i hitt nit, ze kumm i mor’n“, wie zaller g'säit hett ...
 
         
-",clemens-dr-amerikaner,26,3,0.5628629390501474,0.11538461538461539
+",0,clemens-dr-amerikaner,26,3,0.5628629390501474,0.11538461538461539
 3,comedy,Matter,M,,,,"
           
 Matter :
@@ -32,7 +32,7 @@ Noch kener do ? ! Müess dann ich allewill d'r erscht sinn ? ! — Wann i diss g
 (wischt sich den Schweiss ab.)
 
         
-",clemens-dr-amerikaner,37,4,0.4379336088333954,0.10810810810810811
+",0,clemens-dr-amerikaner,37,4,0.4379336088333954,0.10810810810810811
 4,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -44,7 +44,7 @@ Maire :
 Guete-n-Owe Matter! Äner muess d'r erscht sinn, d'andere wäre äu glich kumme. — Was gitt’s Neij’s, Matter ?
 
         
-",clemens-dr-amerikaner,26,4,0.5095033360422543,0.15384615384615385
+",0,clemens-dr-amerikaner,26,4,0.5095033360422543,0.15384615384615385
 5,comedy,Matter,M,,,,"
           
 Matter:
@@ -56,7 +56,7 @@ Matter:
 Neij’s?! Ich hab noch genuej am Alte...
 
         
-",clemens-dr-amerikaner,12,3,0.3872794339982561,0.25
+",1,clemens-dr-amerikaner,12,3,0.3872794339982561,0.25
 6,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -68,7 +68,7 @@ Schierejerry :
 Guete-n-Owe bienand ! — Do wärde m'r ... Ju, ju — hitt wärmt’s famos.
 
         
-",clemens-dr-amerikaner,28,5,0.7416162278174819,0.17857142857142858
+",1,clemens-dr-amerikaner,28,5,0.7416162278174819,0.17857142857142858
 7,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -77,7 +77,7 @@ Maire :
 Ja, es macht warm schun ebbene 14 Däj häre.
 
         
-",clemens-dr-amerikaner,10,3,0.6977933033700184,0.3
+",1,clemens-dr-amerikaner,10,3,0.6977933033700184,0.3
 8,comedy,Matter,M,,,,"
           
 Matter :
@@ -86,7 +86,7 @@ Matter :
 Numme zü warm ; as isch viel ze drucket drüsse im Fald — d'r Büür derf halt ken Glüeck hann — —
 
         
-",clemens-dr-amerikaner,22,4,0.5240090995996717,0.18181818181818182
+",1,clemens-dr-amerikaner,22,4,0.5240090995996717,0.18181818181818182
 9,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -96,7 +96,7 @@ Jo, hiele nurre nit eb’r d'’ Schläj hann, wie zaller g'säit hett ! — As 
 (kommen zusammen herein ; Schollesepp isch schwerhörig. - Groshans spricht schnell und prahlt gern.)
 
         
-",clemens-dr-amerikaner,41,7,0.5789266112503076,0.17073170731707318
+",1,clemens-dr-amerikaner,41,7,0.5789266112503076,0.17073170731707318
 10,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -106,7 +106,7 @@ Salü biesamme !
 (setzt sich an den Tisch an seinen Platz.)
 
         
-",clemens-dr-amerikaner,13,1,0.8004800063959763,0.07692307692307693
+",2,clemens-dr-amerikaner,13,1,0.8004800063959763,0.07692307692307693
 11,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -118,7 +118,7 @@ Groshans :
 Guete-n-Owe, Herr Maire ! Guete-n-Ovre, Schierejerry ! — Bonjour Mat- ter, wie geht’s allewill ?
 
         
-",clemens-dr-amerikaner,25,4,0.7241424144959829,0.16
+",2,clemens-dr-amerikaner,25,4,0.7241424144959829,0.16
 12,comedy,Matter,M,,,,"
           
 Matter :
@@ -127,7 +127,7 @@ Matter :
 Poh — wie mr’s triebt !
 
         
-",clemens-dr-amerikaner,7,1,0.3403067737358356,0.14285714285714285
+",2,clemens-dr-amerikaner,7,1,0.3403067737358356,0.14285714285714285
 13,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -136,7 +136,7 @@ Groshans :
 Bisch kurz angebunge hitt. — Wie fahlt’s ?
 
         
-",clemens-dr-amerikaner,9,1,0.2503825744582609,0.1111111111111111
+",2,clemens-dr-amerikaner,9,1,0.2503825744582609,0.1111111111111111
 15,comedy,Matter,M,,,,"
           
 Matter :
@@ -145,7 +145,7 @@ Matter :
 Ich kann zuem Bett ra, mit well'm Fuess ass ich will, ze gitt’s dich nix an, verstange !? — Un ich mäin, mir kennte anfange, Herr Maire, uf d’andere brüche m'r nit ze warte, e Nuntebuckel noch-emol ! Un ich möecht gar wisse, wäje was ass m'r z'samme müen kumme ?
 
         
-",clemens-dr-amerikaner,53,6,0.5397596315363015,0.11320754716981132
+",3,clemens-dr-amerikaner,53,6,0.5397596315363015,0.11320754716981132
 16,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -155,7 +155,7 @@ Jo — warte m'r nimm länger, fange m'r an. D’r Sohler kummt noch, dar isch a
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,38,5,0.5806467849983501,0.13157894736842105
+",3,clemens-dr-amerikaner,38,5,0.5806467849983501,0.13157894736842105
 18,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -164,7 +164,7 @@ Schierejerry :
 Ju, ju, ar meint ar kummt in d’Höll, wann’r am e Wurtshüs verbie geht.
 
         
-",clemens-dr-amerikaner,16,3,0.4985431279032217,0.1875
+",3,clemens-dr-amerikaner,16,3,0.4985431279032217,0.1875
 19,comedy,Sohler,M,,,,"
           
 Sohler:
@@ -175,7 +175,7 @@ Sohler:
  
 
         
-",clemens-dr-amerikaner,8,1,0.8878367806195323,0.125
+",3,clemens-dr-amerikaner,8,1,0.8878367806195323,0.125
 21,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -187,7 +187,7 @@ Sohler :
 Salü bien, de Herrschafte ! Oho, sinn’r schun alli do ?
 
         
-",clemens-dr-amerikaner,15,1,0.6026393431862074,0.06666666666666667
+",4,clemens-dr-amerikaner,15,1,0.6026393431862074,0.06666666666666667
 22,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -196,7 +196,7 @@ Maire :
 Alle, alle, Sohler ! As isch ken Plan diss, am halwer siewe ze kumme, wann m'r uf sechts b’stellt wurd. M’r kummt jo an ken And!
 
         
-",clemens-dr-amerikaner,26,3,0.6317166541536274,0.11538461538461539
+",4,clemens-dr-amerikaner,26,3,0.6317166541536274,0.11538461538461539
 23,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -206,7 +206,7 @@ Exküse Herr Maire — ich hab noch schnell e Paar Schueh ferti muen mache.
 (setzt sich an seinen Platz, vorn am Tische links.)
 
         
-",clemens-dr-amerikaner,26,2,0.6450809567775435,0.07692307692307693
+",4,clemens-dr-amerikaner,26,2,0.6450809567775435,0.07692307692307693
 24,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -218,7 +218,7 @@ Alle :
 Ju, ju — war’s gläubt ! Biem Kronewirt isch’r g’huckt !
 
         
-",clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
+",4,clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
 25,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -230,7 +230,7 @@ Maire :
 Rühe!! Ihr Harre, mir fange an; as sinn alli do. — D’r Adjunkt Sürkopf isch entschuldigt, ar isch uf’m Gericht, waje simm Prozass mit’m Wewerlanz. D’r Greffier, dem isch so arich huttlächt — ar hetts hingerschi un vierschi...
 
         
-",clemens-dr-amerikaner,46,5,0.5865813248350603,0.10869565217391304
+",5,clemens-dr-amerikaner,46,5,0.5865813248350603,0.10869565217391304
 26,comedy,Matter,M,,,,"
           
 Matter :
@@ -239,7 +239,7 @@ Matter :
 Dar hett äu alle bezitte ebs.
 
         
-",clemens-dr-amerikaner,7,1,0.3403067737358356,0.14285714285714285
+",5,clemens-dr-amerikaner,7,1,0.3403067737358356,0.14285714285714285
 28,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -251,7 +251,7 @@ Sohler :
 Was isch, Schollesepp, was mache eijeri Söij, duen-r-se ball metze ?
 
         
-",clemens-dr-amerikaner,15,1,0.4205955425853835,0.06666666666666667
+",5,clemens-dr-amerikaner,15,1,0.4205955425853835,0.06666666666666667
 30,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -262,7 +262,7 @@ Naan, bliewe doch! Ich maan — wenn’r d’Söij metze
  metze ? !
 
         
-",clemens-dr-amerikaner,16,1,0.4205955425853835,0.0625
+",6,clemens-dr-amerikaner,16,1,0.4205955425853835,0.0625
 31,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -271,7 +271,7 @@ Schollesepp :
 Galle ihr basse uf d’Kuttelsupp? Am nächschte Samschti !
 
         
-",clemens-dr-amerikaner,10,1,0.714,0.1
+",6,clemens-dr-amerikaner,10,1,0.714,0.1
 32,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -280,7 +280,7 @@ Groshans :
 Do sotte ihr emol mini Kalwe sahn — die macht sich ; — e Ütter hett-se, ich lüej nit, wie e Küewel. Wenn ich die uf d’Üsstellung mach, be- kumm ich sicher de erschte Pris.
 
         
-",clemens-dr-amerikaner,37,5,0.671239678767018,0.13513513513513514
+",6,clemens-dr-amerikaner,37,5,0.671239678767018,0.13513513513513514
 33,comedy,Matter,M,,,,"
           
 Matter :
@@ -292,7 +292,7 @@ Matter :
 ’s wurd nit so g’fährli sinn ; dinni Eier hann äu alli zwäi Dutter.
 
         
-",clemens-dr-amerikaner,17,3,0.29870821956112087,0.17647058823529413
+",6,clemens-dr-amerikaner,17,3,0.29870821956112087,0.17647058823529413
 34,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -304,7 +304,7 @@ Groshans :
 Wäisch Matter, mini Küehj gehn nit an de Krucke — bie mir wurd nit g’spart am Fue- der, galle Schierejerry !
 
         
-",clemens-dr-amerikaner,25,1,0.3403067737358356,0.04
+",6,clemens-dr-amerikaner,25,1,0.3403067737358356,0.04
 35,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -314,7 +314,7 @@ Ju, ju — ich sää a soviel — un a soviel derf m'r säuje...
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,18,2,0.731982479119855,0.1111111111111111
+",7,clemens-dr-amerikaner,18,2,0.731982479119855,0.1111111111111111
 36,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -328,7 +328,7 @@ Zür Sache ! Ihr Harre, ich hab ejch z'samme kumme lonn
  „betreffs Besprechüng, wegen Einführung des elektrischen Licht’s“. — Hann’r mich verstange, Schollesepp ?
 
         
-",clemens-dr-amerikaner,35,5,0.5204171287201601,0.14285714285714285
+",7,clemens-dr-amerikaner,35,5,0.5204171287201601,0.14285714285714285
 37,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -337,7 +337,7 @@ Schollesepp :
 Ja, ja, ganz genäu — ich höer schun e Zitt hare wieder ganz guet. — Ja, was füer e Licht isch ? War isch g’schtorwe ?
 
         
-",clemens-dr-amerikaner,25,10,0.6770063183245162,0.4
+",7,clemens-dr-amerikaner,25,10,0.6770063183245162,0.4
 38,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -346,7 +346,7 @@ Maire :
 Vun-ere Licht hett nieme geredt...
 
         
-",clemens-dr-amerikaner,6,1,0.6840230397266208,0.16666666666666666
+",7,clemens-dr-amerikaner,6,1,0.6840230397266208,0.16666666666666666
 39,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -355,7 +355,7 @@ Schollesepp :
 Doch, — ihr hann’s jo grad ewe gelase vun dare Licht, war isch gschtorwe ?
 
         
-",clemens-dr-amerikaner,16,3,0.5272287515495786,0.1875
+",7,clemens-dr-amerikaner,16,3,0.5272287515495786,0.1875
 40,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -364,7 +364,7 @@ Maire :
 Näin, ich hab g’säit : — „Einführung des elek- trischen Licht’s“ !
 
         
-",clemens-dr-amerikaner,15,1,0.6840230397266208,0.06666666666666667
+",8,clemens-dr-amerikaner,15,1,0.6840230397266208,0.06666666666666667
 41,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -375,7 +375,7 @@ Hä ? ! Ihr rede ze liesli. Matter : Na, alle!
  Vum elektrische Licht !
 
         
-",clemens-dr-amerikaner,15,4,0.48220513692414424,0.26666666666666666
+",8,clemens-dr-amerikaner,15,4,0.48220513692414424,0.26666666666666666
 43,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -387,7 +387,7 @@ Schollesepp :
 Ach, ’s elektrisch Licht. — Ja, was isch mit ?
 
         
-",clemens-dr-amerikaner,13,3,0.6565926199455743,0.23076923076923078
+",8,clemens-dr-amerikaner,13,3,0.6565926199455743,0.23076923076923078
 44,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -396,7 +396,7 @@ Maire :
 Do isch e Schriewes kumme vum Elektrisitäts- werk üss Strossburri, ob ünseri Gemäind nit äu ’s elektrisch Licht wott inrichte lonn, un ob...
 
         
-",clemens-dr-amerikaner,25,5,0.5312309007695654,0.2
+",8,clemens-dr-amerikaner,25,5,0.5312309007695654,0.2
 45,comedy,Matter,M,,,,"
           
 Matter :
@@ -408,7 +408,7 @@ Matter :
 Mir hann’s bis jetzt gemacht ohne ’s elektrisch Licht, — — ich bin d’rgeje !
 
         
-",clemens-dr-amerikaner,21,5,0.5119656969388194,0.23809523809523808
+",9,clemens-dr-amerikaner,21,5,0.5119656969388194,0.23809523809523808
 46,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -417,7 +417,7 @@ Maire :
 Ich mäin, as wär awer gar nit schlacht, wann m'r die Sach in-ere andere Gemäind emol an daht sahn, wie sich’s macht, — no kennt m'r jo drüewer jügiere....
 
         
-",clemens-dr-amerikaner,31,3,0.4831920238692024,0.0967741935483871
+",9,clemens-dr-amerikaner,31,3,0.4831920238692024,0.0967741935483871
 47,comedy,Matter,M,,,,"
           
 Matter :
@@ -426,7 +426,7 @@ Matter :
 Ich hab kenn Zitt, erum ze läufe ; wann d'r Herr Maire Zitt hett, sell ar gehn, wäje dem bin ich doch directement d’rgeje ! Un wann...
 
         
-",clemens-dr-amerikaner,27,4,0.505042223395592,0.14814814814814814
+",9,clemens-dr-amerikaner,27,4,0.505042223395592,0.14814814814814814
 49,comedy,Matter,M,,,,"
           
 Matter:
@@ -435,7 +435,7 @@ Matter:
 Dü kannsch mir d'r Buckel nuf rutsche mit dim „Hahaha“. — Hesch e Wuet, dass ich d’Schuehj nit bie d'r mache loss ? !
 
         
-",clemens-dr-amerikaner,26,4,0.31058143102335894,0.15384615384615385
+",9,clemens-dr-amerikaner,26,4,0.31058143102335894,0.15384615384615385
 50,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -444,7 +444,7 @@ Maire :
 Ken Beleidigunge, Matter ! Ihr sinn wieder gifti hit; as kann doch jeder sini Mäinung säuje...
 
         
-",clemens-dr-amerikaner,16,4,0.34139215656905264,0.25
+",10,clemens-dr-amerikaner,16,4,0.34139215656905264,0.25
 51,comedy,Matter,M,,,,"
           
 Matter :
@@ -453,7 +453,7 @@ Matter :
 Ich wäiss jo, ass ihr äu e Wuet hann üewer mich, will ich ken Kunschtmischt bie eijch b’stell.
 
         
-",clemens-dr-amerikaner,19,2,0.2404884837833254,0.10526315789473684
+",10,clemens-dr-amerikaner,19,2,0.2404884837833254,0.10526315789473684
 52,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -462,7 +462,7 @@ Groshans :
 Ah — will’rs grad vum Kunschtmischt hann, — ich bin racht zefriede mit ; grad ’s doppelt Frucht haw-ich gemacht wie sunscht Johre... Schierejerry, ihr sotte’s äu browiere mit, was mäine-n’r ?...
 
         
-",clemens-dr-amerikaner,32,5,0.7660033728740743,0.15625
+",10,clemens-dr-amerikaner,32,5,0.7660033728740743,0.15625
 53,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -471,7 +471,7 @@ Schierejerry :
 Ju, ju… Ich sää nitt ’s Conträr — ich säu äu nit ’s Gejedäil — — awer ich mäin, e gueter, g’schmackichter Büüremischt vun ünserem Vieh, isch doch noch allewill ’s Bescht gewann.
 
         
-",clemens-dr-amerikaner,34,5,0.7240378979852695,0.14705882352941177
+",10,clemens-dr-amerikaner,34,5,0.7240378979852695,0.14705882352941177
 55,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -480,7 +480,7 @@ Maire :
 Ich sää noch emol — ich kann eijch d'r Kunscht- mischt nit warm genuej an ’s Harz läje...
 
         
-",clemens-dr-amerikaner,20,4,0.6075317239219287,0.2
+",11,clemens-dr-amerikaner,20,4,0.6075317239219287,0.2
 56,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -491,7 +491,7 @@ Zur Sache! — Mir hann Sitzung weje-nem elektrische Licht un nit weje-nem Kunsc
  Do verstehn ihr jo nix d’rvun!... Also, ihr Harre, war will in Sache vum elektrische Licht ’s Wort zur Debatte ?
 
         
-",clemens-dr-amerikaner,40,7,0.5839441689621958,0.175
+",11,clemens-dr-amerikaner,40,7,0.5839441689621958,0.175
 57,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -503,7 +503,7 @@ Groshans :
 Ich, Herr Maire ! — Ihr Harre — mini Mäinung isch die, ― m'r do gar kenn grossi Mäinung brücht ze hann. — — Füer was brüche mir 's elektrisch Licht ? — Füer gar nix brüche mr’s!... Ünseri Grosseltere hann nix gewüesst vun dam elek- trische Licht un sie hann’s doch gemacht — ja! — Sie han änfach ihr Gängelöellampel branne g’hett un hann grad genuej g’sahne...
 
         
-",clemens-dr-amerikaner,73,11,0.6497711765989433,0.1506849315068493
+",11,clemens-dr-amerikaner,73,11,0.6497711765989433,0.1506849315068493
 58,comedy,Matter,M,,,,"
           
 Matter :
@@ -515,7 +515,7 @@ Matter :
 Ja, grad genuej hann se g’sahne !!
 
         
-",clemens-dr-amerikaner,10,3,0.5905514663015037,0.3
+",11,clemens-dr-amerikaner,10,3,0.5905514663015037,0.3
 60,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -527,7 +527,7 @@ Groshans :
 Was „hört, hört!“ — — Un mir alli, wie mir do sitze — mir sinn alli mit d'r Petrol- lamp ufgezöije worre un sinn gross un starik d’rbie — — Un ich hab erscht am letschte Herbscht in d'r Stadt inger d'r Erbseläub e Petrollamp käuft — die sott-n’r sahn! Ganz vergold un zuem nuff- un ra- ziche. — Ja, sahn’r, ihr Harre, die macht haller as ’s elektrisch Licht ; un wie se nimmi branne will, ze isch’s e Zäiche, ― kenn Petroll meh drinne isch — no macht mer frisch ning, drähjt de Wieche e bissel in d'’ Höeh, un sie brannt wieder glöeckelhall....
 
         
-",clemens-dr-amerikaner,118,14,0.6133052809952478,0.11864406779661017
+",12,clemens-dr-amerikaner,118,14,0.6133052809952478,0.11864406779661017
 61,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -536,7 +536,7 @@ Schierejerry :
 E racht geredt — e Müll hett’r wie e-n- Advokat.
 
         
-",clemens-dr-amerikaner,12,3,0.700893508396034,0.25
+",12,clemens-dr-amerikaner,12,3,0.700893508396034,0.25
 62,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -549,7 +549,7 @@ Un drum, ihr Harre, isch mini Mäinung die Mäinung, ― mir kenn elektrisch Lic
 (setzt sich.)
 
         
-",clemens-dr-amerikaner,23,5,0.6268052978593275,0.21739130434782608
+",12,clemens-dr-amerikaner,23,5,0.6268052978593275,0.21739130434782608
 63,comedy,Matter,M,,,,"
           
 Matter:
@@ -561,7 +561,7 @@ Matter:
 Diss mäin ich äu!.... As isch nit viel wart, un alli neije Mode sinn nix nutz.
 
         
-",clemens-dr-amerikaner,20,2,0.4220524934921415,0.1
+",12,clemens-dr-amerikaner,20,2,0.4220524934921415,0.1
 64,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -573,7 +573,7 @@ Maire :
 Schollesepp ! Was mäine ihr d’rzü ?
 
         
-",clemens-dr-amerikaner,10,1,0.7174614274296905,0.1
+",12,clemens-dr-amerikaner,10,1,0.7174614274296905,0.1
 67,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -586,7 +586,7 @@ G’sündheit !
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,9,2,0.509,0.2222222222222222
+",13,clemens-dr-amerikaner,9,2,0.509,0.2222222222222222
 68,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -595,7 +595,7 @@ Sohler :
 Wie isch eijeri Meinung — was hann ihr dran üszesetze ?
 
         
-",clemens-dr-amerikaner,11,1,0.6587610783670992,0.09090909090909091
+",13,clemens-dr-amerikaner,11,1,0.6587610783670992,0.09090909090909091
 69,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -604,7 +604,7 @@ Schollesepp :
 Metze ? Am Samschti — ihr ware warte kenne !
 
         
-",clemens-dr-amerikaner,9,1,0.5037982132484474,0.1111111111111111
+",13,clemens-dr-amerikaner,9,1,0.5037982132484474,0.1111111111111111
 70,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -616,7 +616,7 @@ Maire :
 Ob ihr derfüer sinn, ass m'r ’s elek- trisch Licht nahme ?
 
         
-",clemens-dr-amerikaner,17,3,0.6295726903646549,0.17647058823529413
+",14,clemens-dr-amerikaner,17,3,0.6295726903646549,0.17647058823529413
 72,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -628,7 +628,7 @@ Maire :
 Rühe ! — Un ihr Schierejerry ?
 
         
-",clemens-dr-amerikaner,9,1,0.7165908744208438,0.1111111111111111
+",14,clemens-dr-amerikaner,9,1,0.7165908744208438,0.1111111111111111
 73,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -637,7 +637,7 @@ Schierejerry :
 Ju, ju… Einsteils bin ich jo d’rgeje — awer as kann jo äu ganz guet sinn, diss elektrisch Licht... as kann awer äu schlacht sinn ; ich hab ewe noch kenn’s g’sahne. Zuend mr’s dann äu mit Schwä- wehöelzle an ?
 
         
-",clemens-dr-amerikaner,44,7,0.6406966456863253,0.1590909090909091
+",14,clemens-dr-amerikaner,44,7,0.6406966456863253,0.1590909090909091
 74,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -649,7 +649,7 @@ Naan, naan, sinn ihr dumm! Do brücht m'r kaan Schwäwlhöelzle, — Sehn-r so g
 (zeigt es an der Wand.)
 
         
-",clemens-dr-amerikaner,71,6,0.5143303173282131,0.08450704225352113
+",14,clemens-dr-amerikaner,71,6,0.5143303173282131,0.08450704225352113
 76,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -666,7 +666,7 @@ Jawohl. — Do isch jetz so e schwarzes Knepfel — wie ich no diss Knepfel rum 
  Ganz anfach, awer m'r muess’s verstehn.
 
         
-",clemens-dr-amerikaner,88,9,0.5138935629816257,0.10227272727272728
+",15,clemens-dr-amerikaner,88,9,0.5138935629816257,0.10227272727272728
 77,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -675,7 +675,7 @@ Schierejerry :
 Ju, ju… diss isch jo e räin’s Hexewärik, diss haw ich nit ’s Harz ze mache ; näin, näin !
 
         
-",clemens-dr-amerikaner,20,3,0.7567290433980854,0.15
+",15,clemens-dr-amerikaner,20,3,0.7567290433980854,0.15
 78,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -686,7 +686,7 @@ Schollesepp :
  
 
         
-",clemens-dr-amerikaner,49,5,0.4741795336243467,0.10204081632653061
+",15,clemens-dr-amerikaner,49,5,0.4741795336243467,0.10204081632653061
 79,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -698,7 +698,7 @@ Sohler :
 Nit 's Harz ze mache! — Do kann m'r sehn, wie daub ― ihr Büüre sinn.
 
         
-",clemens-dr-amerikaner,20,2,0.7514390697220972,0.1
+",15,clemens-dr-amerikaner,20,2,0.7514390697220972,0.1
 80,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Alli :
@@ -708,7 +708,7 @@ Alli :
  Oho ! Was säit dar ? Nüss mit’m ! Dü Haregeloffener !...
 
         
-",clemens-dr-amerikaner,13,1,0.6566453679504511,0.07692307692307693
+",16,clemens-dr-amerikaner,13,1,0.6566453679504511,0.07692307692307693
 81,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -718,7 +718,7 @@ Was Hergeloffener ?!... Ich bin e Elsässer, verstande ! Minn’r Vatter isch ü
 (Grosses Gelächter.)
 
         
-",clemens-dr-amerikaner,34,5,0.7223729542007715,0.14705882352941177
+",16,clemens-dr-amerikaner,34,5,0.7223729542007715,0.14705882352941177
 82,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -730,7 +730,7 @@ Maire :
 Rühe !... Hann’r g’höert ? ! — Sohler, namme die Beleidigung zeruck, diss derfe-n-ihr nit säuje, ― m'r däuwi Büüre sinn.
 
         
-",clemens-dr-amerikaner,24,2,0.42528473017340507,0.08333333333333333
+",16,clemens-dr-amerikaner,24,2,0.42528473017340507,0.08333333333333333
 83,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -740,7 +740,7 @@ Sohler :
 (setzt sich stolz.)
 
         
-",clemens-dr-amerikaner,157,25,0.5795840661841636,0.1592356687898089
+",16,clemens-dr-amerikaner,157,25,0.5795840661841636,0.1592356687898089
 84,comedy,Matter,M,,,,"
           
 Matter :
@@ -752,7 +752,7 @@ Matter :
 Was?! d' Untermatter bekumme’s äu?!
 
         
-",clemens-dr-amerikaner,10,3,0.38148842362397833,0.3
+",16,clemens-dr-amerikaner,10,3,0.38148842362397833,0.3
 86,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -761,7 +761,7 @@ Maire :
 Isch diss wohr; Sohler ? Diss isch nit mejli !
 
         
-",clemens-dr-amerikaner,9,1,0.8235551257078202,0.1111111111111111
+",17,clemens-dr-amerikaner,9,1,0.8235551257078202,0.1111111111111111
 87,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -772,7 +772,7 @@ Un doch isch’s mejli. D’r Möischele hett mr’s g' saat.
  „Oser, hott’r gsaat, d' Unter- matter bekumme ’s Elektrisch ingerischt üss Stross- burri. Sie nemme’s numme for d’Owermatter ze fuxe.""
 
         
-",clemens-dr-amerikaner,42,5,0.5187178687532825,0.11904761904761904
+",17,clemens-dr-amerikaner,42,5,0.5187178687532825,0.11904761904761904
 88,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -784,7 +784,7 @@ Alle :
 Oho ! Füer uns ze fuxe ! Denne welle mr’s zäije ! Mir wele’s äu, grad ze läid ! Grad ze läid !
 
         
-",clemens-dr-amerikaner,24,2,0.6993651460488204,0.08333333333333333
+",17,clemens-dr-amerikaner,24,2,0.6993651460488204,0.08333333333333333
 89,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -798,7 +798,7 @@ Herr Maire, ich bitt um’s Wort! Ihr Harre, mini Mäinung isch die, dass ’s e
 .
 
         
-",clemens-dr-amerikaner,84,11,0.5037476048340968,0.13095238095238096
+",17,clemens-dr-amerikaner,84,11,0.5037476048340968,0.13095238095238096
 90,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -807,7 +807,7 @@ Sohler :
 Bravo !! Beifall links !
 
         
-",clemens-dr-amerikaner,4,1,0.8956440796612551,0.25
+",18,clemens-dr-amerikaner,4,1,0.8956440796612551,0.25
 91,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -816,7 +816,7 @@ Maire :
 Ich bin ganz ingverstange mit dam was d'r Gros- hans g’säit hett — un ihr Matter ?
 
         
-",clemens-dr-amerikaner,18,3,0.5722898046470586,0.16666666666666666
+",18,clemens-dr-amerikaner,18,3,0.5722898046470586,0.16666666666666666
 92,comedy,Matter,M,,,,"
           
 Matter :
@@ -825,7 +825,7 @@ Matter :
 Ich bin ganz vun sinere Mäinung ; mir müen’s hann waje de Untermatter, dann wann die’s erfahre, gehn se vor Wüet an de glatte Wänd nuf.
 
         
-",clemens-dr-amerikaner,28,5,0.5454254673719002,0.17857142857142858
+",18,clemens-dr-amerikaner,28,5,0.5454254673719002,0.17857142857142858
 93,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -834,7 +834,7 @@ Alle :
 Die gehn vor Wuet an de Wänd nuf.
 
         
-",clemens-dr-amerikaner,9,1,0.1406701938308152,0.1111111111111111
+",18,clemens-dr-amerikaner,9,1,0.1406701938308152,0.1111111111111111
 94,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -843,7 +843,7 @@ Schierejerry :
 Ju, ju… wisse-n-r', ich wäiss jo nix d'r- geje ze säuje — awer wann’s d' Untermatter nahme un ken Ängschte hann, no isch’s äu ken Haxewärik un ich hab no äu kenn Ängschte derfüer.
 
         
-",clemens-dr-amerikaner,40,5,0.4452510683520412,0.125
+",18,clemens-dr-amerikaner,40,5,0.4452510683520412,0.125
 95,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -853,7 +853,7 @@ A la bonheur, Schierejerry ! Zustimmung links und im ganzen Haus!
 (alle geben Schierejerry ihre Zustimmung.)
 
         
-",clemens-dr-amerikaner,18,4,0.7353458384155763,0.2222222222222222
+",19,clemens-dr-amerikaner,18,4,0.7353458384155763,0.2222222222222222
 96,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -865,7 +865,7 @@ Maire :
 Wie ich üss eijere Rede, wie ihr do gered hann, vernumme hab, sinn ihr alli derfüer, dass mir ’s elektrische Licht inrichte Ionn un ich loss jetz drüewer abstimme. — Wecke m'r z’erscht noch de Schollesepp, dar schloft schun wieder.
 
         
-",clemens-dr-amerikaner,45,3,0.5052043565032022,0.06666666666666667
+",19,clemens-dr-amerikaner,45,3,0.5052043565032022,0.06666666666666667
 99,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -874,7 +874,7 @@ Maire :
 Also... ihr Harre, war d’rfüer isch, füer ’s elek- trisch Licht, dar lüepft d' Hand in d' Heh, war d’rgeje isch... losst se drunte.
 
         
-",clemens-dr-amerikaner,28,2,0.631365995786096,0.07142857142857142
+",19,clemens-dr-amerikaner,28,2,0.631365995786096,0.07142857142857142
 101,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -885,7 +885,7 @@ Schollesepp :
  
 
         
-",clemens-dr-amerikaner,17,1,0.3111065596608406,0.058823529411764705
+",20,clemens-dr-amerikaner,17,1,0.3111065596608406,0.058823529411764705
 102,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -896,7 +896,7 @@ Schollesepp ihr brüche nit ze schwöere, m'r gläuwe’s doch...
  Ja — Sohler, wie isch’s ? !... Sieh ich racht ?... Ihr sinn d’rgeje ? !
 
         
-",clemens-dr-amerikaner,27,3,0.7893726549370786,0.1111111111111111
+",20,clemens-dr-amerikaner,27,3,0.7893726549370786,0.1111111111111111
 103,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -905,7 +905,7 @@ Sohler :
 Jawohl!... Wenn alli d'rfor sinn — müess ich d’rgeje sinn ; ich bin d’Oppositionspartei. Ich hab mine Wähler Opposition versproche... also bin ich d’rgeje.
 
         
-",clemens-dr-amerikaner,28,4,0.5450306393657653,0.14285714285714285
+",20,clemens-dr-amerikaner,28,4,0.5450306393657653,0.14285714285714285
 104,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -916,7 +916,7 @@ Alle:
  
 
         
-",clemens-dr-amerikaner,6,1,0.8952774323956044,0.16666666666666666
+",20,clemens-dr-amerikaner,6,1,0.8952774323956044,0.16666666666666666
 105,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -928,7 +928,7 @@ Maire :
 Rühe !... Ihr Harre ! Das elektrische Licht für die Gemeinde Obermatten ist mit fünf gegen eine Stimme angenommen. — Vielmols merci, ihr Harre !
 
         
-",clemens-dr-amerikaner,26,7,0.5819327985135627,0.2692307692307692
+",21,clemens-dr-amerikaner,26,7,0.5819327985135627,0.2692307692307692
 106,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -940,7 +940,7 @@ Alle:
 Bravo!! So isch’s racht, jetz bekumme m'r ’s elektrisch Licht !...
 
         
-",clemens-dr-amerikaner,16,4,0.677004573188874,0.25
+",21,clemens-dr-amerikaner,16,4,0.677004573188874,0.25
 107,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -950,7 +950,7 @@ Beifall im Zentrum !... Zischen links !
 (zischt.)
 
         
-",clemens-dr-amerikaner,9,3,0.6282900196077262,0.3333333333333333
+",21,clemens-dr-amerikaner,9,3,0.6282900196077262,0.3333333333333333
 108,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -962,7 +962,7 @@ Maire :
 Sohler, lonn die dumme Plän unterwäjs-
 
         
-",clemens-dr-amerikaner,11,3,0.40054994274251204,0.2727272727272727
+",21,clemens-dr-amerikaner,11,3,0.40054994274251204,0.2727272727272727
 109,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -971,7 +971,7 @@ Sohler :
 Was ? ! Dumme Plän ? In d'r Kammer mache’s vornehmeri Herre wie ich — — un im Name vun d'r Oppositionspartej proteschtir ich geje denne Ord- nungsruef vum Herr Maire !
 
         
-",clemens-dr-amerikaner,31,5,0.48203953235988556,0.16129032258064516
+",21,clemens-dr-amerikaner,31,5,0.48203953235988556,0.16129032258064516
 111,comedy,Matter,M,,,,"
           
 Matter :
@@ -980,7 +980,7 @@ Matter :
 Dü hesch din Müll ze halte, sunsch fliejt d’ganz Oppositionspartej zuem Tampel nüss !
 
         
-",clemens-dr-amerikaner,15,4,0.5464733349481632,0.26666666666666666
+",22,clemens-dr-amerikaner,15,4,0.5464733349481632,0.26666666666666666
 112,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -992,7 +992,7 @@ Schollesepp :
 War kummt nüss ?....
 
         
-",clemens-dr-amerikaner,12,1,0.5117384753857362,0.08333333333333333
+",22,clemens-dr-amerikaner,12,1,0.5117384753857362,0.08333333333333333
 113,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1004,7 +1004,7 @@ Schierejerry :
 Ju, ju Sepp, sitze doch, as isch nix — d'r Sohler dischpetiert als weje- nem elektrische Licht.
 
         
-",clemens-dr-amerikaner,24,5,0.6359051466310122,0.20833333333333334
+",22,clemens-dr-amerikaner,24,5,0.6359051466310122,0.20833333333333334
 114,comedy,Schollesepp,M,,,,"
           
 Schollesepp:
@@ -1013,7 +1013,7 @@ Schollesepp:
 Was?! Dar Bächknippe... mir brüche kenn elektrisch Licht !! Guet — jetz bekummt ar äu kenn Kuttelsupp am Samschti...
 
         
-",clemens-dr-amerikaner,19,3,0.6958105183895303,0.15789473684210525
+",22,clemens-dr-amerikaner,19,3,0.6958105183895303,0.15789473684210525
 115,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1027,7 +1027,7 @@ Rühe ! Also, as isch jetz b’schlosseni Sach, dass m'r ’s elektrisch Licht n
  do häisst’s jetzt : „für ein Dorf in der Grösse wie Obermatten genügen 50 Lampen vollständig“. .....
 
         
-",clemens-dr-amerikaner,59,5,0.5768675883132277,0.0847457627118644
+",23,clemens-dr-amerikaner,59,5,0.5768675883132277,0.0847457627118644
 116,comedy,Matter,M,,,,"
           
 Matter :
@@ -1039,7 +1039,7 @@ Matter :
 49 lange äu !
 
         
-",clemens-dr-amerikaner,7,2,0.43415742810088515,0.2857142857142857
+",23,clemens-dr-amerikaner,7,2,0.43415742810088515,0.2857142857142857
 117,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1048,7 +1048,7 @@ Maire :
 Wie kenne dann ihr diss wisse ? Ich denk bis mir üewerall hall hann, ze sinn 50 Lampe nit ze viel.
 
         
-",clemens-dr-amerikaner,21,2,0.6479865337444256,0.09523809523809523
+",23,clemens-dr-amerikaner,21,2,0.6479865337444256,0.09523809523809523
 118,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1057,7 +1057,7 @@ Groshans :
 In erschter Linie stell ich d'r Anträuj, dass jeder vun de Gemäinderotsharre eini an’s Hüs be- kummt.
 
         
-",clemens-dr-amerikaner,20,2,0.6190577597683055,0.1
+",23,clemens-dr-amerikaner,20,2,0.6190577597683055,0.1
 120,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1066,7 +1066,7 @@ Maire :
 D’ Lampe wäre e so verdäilt, ass üewerall hall isch, kem züe Lieb un kem züe Leid... ich dank e so... alle ebbene 150 bis 200 Meter e Lamp. — — Am Märikplatz müen-m’r e Stücker 4 hann, — e Stücker 8 in d'r Kirich, 2 vorne am Ingang un 6 inne- wändi....
 
         
-",clemens-dr-amerikaner,55,6,0.6011634332297483,0.10909090909090909
+",24,clemens-dr-amerikaner,55,6,0.6011634332297483,0.10909090909090909
 121,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1075,7 +1075,7 @@ Sohler :
 In d'r Kirich brüche-m’r kenn Lampe, m'r halt d' Kirich am Daa — wenn’s hell isch.
 
         
-",clemens-dr-amerikaner,18,3,0.5356932090498973,0.16666666666666666
+",24,clemens-dr-amerikaner,18,3,0.5356932090498973,0.16666666666666666
 122,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1084,7 +1084,7 @@ Maire :
 So — ja un d' Chrischtmette, halt m'r die äu am Däuj ab?! — Un d' Oweandachte ? — Es bliet bie denne 8 Lampe. — D’r Harr Pfarrer müess 5 Lampe hann... 1 im Ass’zimmer. 1 im Stüdierzimmer, 1 in d'r Küeche, 1 im Framdezimmer un 1 im Schlof- Zimmer ....
 
         
-",clemens-dr-amerikaner,52,5,0.5088568007123107,0.09615384615384616
+",24,clemens-dr-amerikaner,52,5,0.5088568007123107,0.09615384615384616
 123,comedy,Matter,M,,,,"
           
 Matter :
@@ -1093,7 +1093,7 @@ Matter :
 Im Schlofzimmer brücht’r kenni — z’nachts schloft m'r.
 
         
-",clemens-dr-amerikaner,10,1,0.3403067737358356,0.1
+",24,clemens-dr-amerikaner,10,1,0.3403067737358356,0.1
 124,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1105,7 +1105,7 @@ Maire :
 Lonn die Redensarte. — Im Herr Lehrer müen m'r äu ebbene 4 Lampe gänn....
 
         
-",clemens-dr-amerikaner,18,6,0.46843504122587004,0.3333333333333333
+",24,clemens-dr-amerikaner,18,6,0.46843504122587004,0.3333333333333333
 125,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1117,7 +1117,7 @@ Groshans :
 Do bin ich directement d'r- geje... ar hett-m’r äu mine Naz’l verhäuje, ass ar ganzi Relle hinte hett g’hett...
 
         
-",clemens-dr-amerikaner,24,3,0.615629684166385,0.125
+",25,clemens-dr-amerikaner,24,3,0.615629684166385,0.125
 127,comedy,Matter,M,,,,"
           
 Matter :
@@ -1129,7 +1129,7 @@ Matter :
 Herr Maire, ich bitt um’s Wort!... Eins ihr Litt kommt mir jetz ing, eb m'r d' Lampe verdäile un drüewer dischpetiere, ob m'r 49 oder 50 brüche... Wie dihr kommt die Sach ? — Galle, do hett noch kenner dran gedankt?
 
         
-",clemens-dr-amerikaner,45,7,0.5060188512690189,0.15555555555555556
+",25,clemens-dr-amerikaner,45,7,0.5060188512690189,0.15555555555555556
 128,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1138,7 +1138,7 @@ Sohler :
 Was nit... Grad hab ich die Fröij au welle stelle.
 
         
-",clemens-dr-amerikaner,11,3,0.5756851529324399,0.2727272727272727
+",25,clemens-dr-amerikaner,11,3,0.5756851529324399,0.2727272727272727
 129,comedy,Matter,M,,,,"
           
 Matter :
@@ -1150,7 +1150,7 @@ Matter :
 Ass ihr allewill eijer Müll vorne dran müen hann.
 
         
-",clemens-dr-amerikaner,14,3,0.5642983769902498,0.21428571428571427
+",25,clemens-dr-amerikaner,14,3,0.5642983769902498,0.21428571428571427
 130,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1160,7 +1160,7 @@ Ju, ju… Wann’r e Fräu hatt wie mini, war ar äu düssma.
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,16,2,0.731982479119855,0.125
+",26,clemens-dr-amerikaner,16,2,0.731982479119855,0.125
 133,comedy,Matter,M,,,,"
           
 Matter:
@@ -1169,7 +1169,7 @@ Matter:
 Was?! Diss sinn jo jährlich 1000 livres !! As isch ze viel! Wie selle mir’s Gald hare namme ?
 
         
-",clemens-dr-amerikaner,19,2,0.46073900993974454,0.10526315789473684
+",26,clemens-dr-amerikaner,19,2,0.46073900993974454,0.10526315789473684
 134,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1178,7 +1178,7 @@ Groshans :
 Mir war's jüscht nit waje-nem Gald... awer d' Gemäind isch arm ; — köennte sie’s nit füer ebbene 200 Mark mache ? !
 
         
-",clemens-dr-amerikaner,23,3,0.4904085194264262,0.13043478260869565
+",26,clemens-dr-amerikaner,23,3,0.4904085194264262,0.13043478260869565
 135,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1190,7 +1190,7 @@ Sohler :
 Jo, worum nit, sie mache’s eijch noch umesunscht. Ihr Büüre sinn jo rich genue, ihr kene’s bezahle....
 
         
-",clemens-dr-amerikaner,23,1,0.8590579616595467,0.043478260869565216
+",27,clemens-dr-amerikaner,23,1,0.8590579616595467,0.043478260869565216
 137,comedy,Matter,M,,,,"
           
 Matter :
@@ -1203,7 +1203,7 @@ Mir müen genuej Styre un Abgawe bezahle...
  Diss gitt eijch nix an, eich bin ich nix schuldi, verstande !.... Awer diss isch d' Politik vun eijch Agrarier un Grossgrundb'sitzer, d' Styre un Abgawe uf d' Schultere vum arme Arweiter abze- wälze... Bravo links !
 
         
-",clemens-dr-amerikaner,61,7,0.5035404867263297,0.11475409836065574
+",27,clemens-dr-amerikaner,61,7,0.5035404867263297,0.11475409836065574
 138,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1212,7 +1212,7 @@ Maire :
 Sohler, ich lied nit, dass ihr so staatsg’fahr- lichi Redesarte füere...
 
         
-",clemens-dr-amerikaner,13,1,0.5164786628521122,0.07692307692307693
+",27,clemens-dr-amerikaner,13,1,0.5164786628521122,0.07692307692307693
 139,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -1224,7 +1224,7 @@ Alle :
 Racht so, Herr Maire !
 
         
-",clemens-dr-amerikaner,9,2,0.6927217802894574,0.2222222222222222
+",27,clemens-dr-amerikaner,9,2,0.6927217802894574,0.2222222222222222
 140,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1233,7 +1233,7 @@ Maire :
 Ihr Harre, mir hann ’s elektrisch Licht ange- numme, jetz müen m'r äu ’s Gald derfüer hare schaffe .....
 
         
-",clemens-dr-amerikaner,20,4,0.5994188946765231,0.2
+",28,clemens-dr-amerikaner,20,4,0.5994188946765231,0.2
 141,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1242,7 +1242,7 @@ Aloys :
 Ja, ja, war d' Gäis annimmt, müess se äu hüete, wie zäller g’säit hett.
 
         
-",clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
+",28,clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
 142,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1251,7 +1251,7 @@ Maire :
 Aloys, halte ’s Müll, wann ich red... Aloys : Ich halt’s jo, Harr Maire — awer ich mäin doch...
 
         
-",clemens-dr-amerikaner,20,3,0.4520710397738938,0.15
+",28,clemens-dr-amerikaner,20,3,0.4520710397738938,0.15
 144,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1263,7 +1263,7 @@ Maire :
 Die Sach isch jo nit so schlimm un so arm isch ünseri Gemäind äu nit... un bedanke, as wär e grosser, Vortäil... e grosser Vortäil füer ünseri Gemäind. — Un so guet wie d' Untermatter kennte mir’s äu bezahle... zuem Bäischpiel wie’s anderi Gemäinde äu mache, mit Züeschlöijs- pfänni...
 
         
-",clemens-dr-amerikaner,56,6,0.5526547490052706,0.10714285714285714
+",28,clemens-dr-amerikaner,56,6,0.5526547490052706,0.10714285714285714
 146,comedy,Matter,M,,,,"
           
 Matter :
@@ -1275,7 +1275,7 @@ Matter :
 Ehnder welle-mr’s Elektrisch nit !.. D’ Untermatter selle Schulde mache ...
 
         
-",clemens-dr-amerikaner,14,3,0.35499038880719985,0.21428571428571427
+",29,clemens-dr-amerikaner,14,3,0.35499038880719985,0.21428571428571427
 147,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1284,7 +1284,7 @@ Groshans :
 Minere Mäinung noch brüche mir de Unter- matter nitt alles noch ze mache... ünseri Gemäind kann's äu ohne ’s Elektrisch mache un wann d'r Mond schient, isch so wie so hall — nit Schierejerry ?
 
         
-",clemens-dr-amerikaner,37,6,0.5659986312075017,0.16216216216216217
+",29,clemens-dr-amerikaner,37,6,0.5659986312075017,0.16216216216216217
 148,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1293,7 +1293,7 @@ Schierejerry :
 Ju, ju… nit — ich sää halt eso : „G’spart isch g’spart !“... Ich hab nit gedankt, ass’s so viel koscht.
 
         
-",clemens-dr-amerikaner,23,3,0.5916905059668502,0.13043478260869565
+",29,clemens-dr-amerikaner,23,3,0.5916905059668502,0.13043478260869565
 149,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1302,7 +1302,7 @@ Sohler :
 Hört, hört, links! Ja — wenn’s an de Geld- sack geht, sinn se nitt ze hann.
 
         
-",clemens-dr-amerikaner,19,2,0.6909846767631975,0.10526315789473684
+",29,clemens-dr-amerikaner,19,2,0.6909846767631975,0.10526315789473684
 150,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1311,7 +1311,7 @@ Maire :
 Awer, awer — wie kann m'r numme so schnall d’Flint in’s Korn warfe!... Z’erscht mache-n’r e grosses G’schräij un sinn alli d’rfüer — jetz wie’s e paar Livres koscht, sinnr alli d’rgeje. Stimme m'r noch emol ab. — — —Schollesepp, welle-n’ihr ’s elek- trisch Licht oder welle-n-ihr's nit ?
 
         
-",clemens-dr-amerikaner,61,6,0.4935278338977154,0.09836065573770492
+",30,clemens-dr-amerikaner,61,6,0.4935278338977154,0.09836065573770492
 151,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -1320,7 +1320,7 @@ Schollesepp :
 Ich hab jo schun emol g’säit ich bin d'r- geje... awer jetz mache ass’r ferti wäre, ich hab e läid’s Hunger.
 
         
-",clemens-dr-amerikaner,24,2,0.20597380933674417,0.08333333333333333
+",30,clemens-dr-amerikaner,24,2,0.20597380933674417,0.08333333333333333
 152,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1333,7 +1333,7 @@ Glich, Schollesepp.... also, ihr Harre... war isch d’rfüer?!...
  Ah, ihr Sohler ! Ihr stimme jetzt d’rfüer ?
 
         
-",clemens-dr-amerikaner,43,5,0.3957721521255967,0.11627906976744186
+",30,clemens-dr-amerikaner,43,5,0.3957721521255967,0.11627906976744186
 153,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1343,7 +1343,7 @@ Jawohl ! Wenn ihr alli d’rgeje sinn, no isch d' Oppositionspartej d’rfuer un
 (Grosses Gelächter.)
 
         
-",clemens-dr-amerikaner,29,2,0.6188976903584339,0.06896551724137931
+",30,clemens-dr-amerikaner,29,2,0.6188976903584339,0.06896551724137931
 154,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1355,7 +1355,7 @@ Maire :
 Rühe ! — Lonn im Sohler sini Plä- sir !... Also, ihr Harre... as isch abgemacht, ünser Ort bekummt ’s elektrisch Licht nit. Jetz sinn m'r grad sowit wie im Anfang un war diss ganz Gebab- bels nit notwandi gewann.
 
         
-",clemens-dr-amerikaner,44,8,0.6130922845453938,0.18181818181818182
+",30,clemens-dr-amerikaner,44,8,0.6130922845453938,0.18181818181818182
 156,comedy,Matter,M,,,,"
           
 Matter :
@@ -1368,7 +1368,7 @@ Bezahl doch dü’s!!
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,11,1,0.3403067737358356,0.09090909090909091
+",31,clemens-dr-amerikaner,11,1,0.3403067737358356,0.09090909090909091
 158,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1377,7 +1377,7 @@ Sohler :
 Ihr kenne mir gratis de Buckel nuf rutsche un franko runter — voilà !
 
         
-",clemens-dr-amerikaner,14,2,0.6229213762857856,0.14285714285714285
+",31,clemens-dr-amerikaner,14,2,0.6229213762857856,0.14285714285714285
 159,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -1390,7 +1390,7 @@ Oho ! Schmisse-ne nüss ! !
 (Grosser Tumult.)
 
         
-",clemens-dr-amerikaner,12,1,0.271,0.08333333333333333
+",31,clemens-dr-amerikaner,12,1,0.271,0.08333333333333333
 160,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1402,7 +1402,7 @@ Maire :
 Rühe! Ihr selle ruehj sinn oder ich heb d' Sitzung uf, hann’r g’höert !!
 
         
-",clemens-dr-amerikaner,20,5,0.7000029937877477,0.25
+",32,clemens-dr-amerikaner,20,5,0.7000029937877477,0.25
 162,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1412,7 +1412,7 @@ Gann hare, Aloys !
 (Geht vom Tisch weg, öffnet den Brief, liest interessiert.)
 
         
-",clemens-dr-amerikaner,15,2,0.38899888810884675,0.13333333333333333
+",32,clemens-dr-amerikaner,15,2,0.38899888810884675,0.13333333333333333
 163,comedy,Matter,M,,,,"
           
 Matter :
@@ -1424,7 +1424,7 @@ Matter :
 A Brief mit-eme fremde Täber — wie kann dar hare sinn ?
 
         
-",clemens-dr-amerikaner,16,1,0.3403067737358356,0.0625
+",32,clemens-dr-amerikaner,16,1,0.3403067737358356,0.0625
 164,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1433,7 +1433,7 @@ Groshans :
 Wunderfitzi bin i nit grod, awer ich dhät’s doch gare wisse.
 
         
-",clemens-dr-amerikaner,13,1,0.2971885015316475,0.07692307692307693
+",32,clemens-dr-amerikaner,13,1,0.2971885015316475,0.07692307692307693
 165,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1442,7 +1442,7 @@ Schierejerry :
 Ju, ju — nit! Was m'r nit wäiss, kann m'r nitt wisse... nit?
 
         
-",clemens-dr-amerikaner,14,2,0.731982479119855,0.14285714285714285
+",33,clemens-dr-amerikaner,14,2,0.731982479119855,0.14285714285714285
 166,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -1454,7 +1454,7 @@ Schollesepp :
 Ich will numme sahn, wie viel ass die Söij wiegt... so ebbene zwäi Zentner alle- waj ?
 
         
-",clemens-dr-amerikaner,22,1,0.4205955425853835,0.045454545454545456
+",33,clemens-dr-amerikaner,22,1,0.4205955425853835,0.045454545454545456
 169,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1465,7 +1465,7 @@ Dar isch äu net latz verrisse, awer böes ze flicke, wie zaller g’säit hett.
 .
 
         
-",clemens-dr-amerikaner,18,2,0.1762897469603743,0.1111111111111111
+",33,clemens-dr-amerikaner,18,2,0.1762897469603743,0.1111111111111111
 170,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1477,7 +1477,7 @@ Maire :
 Ihr Harre, e grossi surprise ! Dar Brief isch üs Amerika vum mim Cousin Antoine — wisse-n’r vom Schnell Antoine, wie zallemols uf Amerika isch!...
 
         
-",clemens-dr-amerikaner,33,5,0.666263462329158,0.15151515151515152
+",34,clemens-dr-amerikaner,33,5,0.666263462329158,0.15151515151515152
 171,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -1489,7 +1489,7 @@ Alle :
 Ju! Vum Antoine ?! Harrjeh ! Isch mejli ? :
 
         
-",clemens-dr-amerikaner,10,1,0.731982479119855,0.1
+",34,clemens-dr-amerikaner,10,1,0.731982479119855,0.1
 172,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1498,7 +1498,7 @@ Maire :
 Es sinn jetzt 30 Johr hare... ar schriebt do: „Ass’r kumme will, in sini Häimet... ar will sich doch e Hüs böije un d'r Gemäind viel Guet’s mache... ar isch so arrich rich — in 30 Däj, diss isch am 13. Mai, isch’r do,“ schribt’r ..... Näin, was e Pläsir !... 30 Johr haw ich ’ne nimmi g’sahne... Ar isch doch e gueter Mansch, wann’r äu in sine junge Johre e bissel licht- sinni isch gewann.
 
         
-",clemens-dr-amerikaner,79,10,0.6901686396352467,0.12658227848101267
+",34,clemens-dr-amerikaner,79,10,0.6901686396352467,0.12658227848101267
 173,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -1510,7 +1510,7 @@ Alle:
 Ja, d'r Antoine ! Do kann m'r sahn ! Un rich isch’r ! Un böije will’r äu ?!
 
         
-",clemens-dr-amerikaner,18,2,0.5899912395599275,0.1111111111111111
+",34,clemens-dr-amerikaner,18,2,0.5899912395599275,0.1111111111111111
 174,comedy,Matter,M,,,,"
           
 Matter :
@@ -1519,7 +1519,7 @@ Matter :
 Mir gedankt’s noch ganz guet wie’r z'sallemols, furt isch, wie’r alles verjübelt hett g’hett... un zitter hett m'r nix meh vum g’höert.
 
         
-",clemens-dr-amerikaner,25,3,0.6634743181945119,0.12
+",34,clemens-dr-amerikaner,25,3,0.6634743181945119,0.12
 175,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1528,7 +1528,7 @@ Maire :
 Ar isch verzöije worre als junger Bue schun.... Sinn Vater, min Schwöijer sali, hett viel Gald anne kehrt, ar hett ebs üss’m welle mache... Ar isch ’s änzig King gewann, no hettr eb’s Hoch’s selle wäre... Awer ar isch lichtsinni gewann un d' Mue- der...nit, wie’s als geht... hett'm hinterwärts noch züeg’stopft was se kennt hett... un wie no sini Eltere schnall hinterenand g’storwe sinn, isch nimmi viel do gewann.
 
         
-",clemens-dr-amerikaner,78,7,0.5786700263750647,0.08974358974358974
+",35,clemens-dr-amerikaner,78,7,0.5786700263750647,0.08974358974358974
 176,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1537,7 +1537,7 @@ Schierejerry :
 Ju, ju… ich wäiss... as isch no schnall barri-ab gange.
 
         
-",clemens-dr-amerikaner,11,3,0.725139306649742,0.2727272727272727
+",35,clemens-dr-amerikaner,11,3,0.725139306649742,0.2727272727272727
 177,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1546,7 +1546,7 @@ Maire :
 Ja — — d'r Antoine hett no alles verstäije lonn, het noch e zittlang guet gelabt vun dam Gald un am e schöene Däuj isch’r furt... Na, ar isch nit ver- dorwe, ar hett noch e gueter Karne in sich g’hett... ar isch halt verzöije gewann, schint’s in Amerika isch’r andersch worre... un e haller Kopf isch’r jo gewann un jetz hett’r sinn Glüeck gemacht drüewe... ar schriebt vun zwäij Millione...
 
         
-",clemens-dr-amerikaner,74,11,0.6710336152927155,0.14864864864864866
+",35,clemens-dr-amerikaner,74,11,0.6710336152927155,0.14864864864864866
 180,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1555,7 +1555,7 @@ Groshans :
 Jaa — d'r Antoine! Ich bin mitm in d'r Muschterung gewann — ar isch freij worre... mir hann eb’s Sträich geliefert mitnand... ar isch e lusch- tiger Kamerad gewann — un jetz isch’r so arrich rich ? Na, as g’schied-em racht !
 
         
-",clemens-dr-amerikaner,43,4,0.7659784115020051,0.09302325581395349
+",36,clemens-dr-amerikaner,43,4,0.7659784115020051,0.09302325581395349
 181,comedy,Matter,M,,,,"
           
 Matter :
@@ -1564,7 +1564,7 @@ Matter :
 Ar hett awer allewil vun dam Amerika ge- babbelt, diss isch’m allewill im Schädel g'stackt... Mir hann’em nurre noch „D’r Amerikaner“ gsäit... Na, jetz isch’r jo e'n „Amerikaner“.
 
         
-",clemens-dr-amerikaner,35,3,0.5258278294018878,0.08571428571428572
+",36,clemens-dr-amerikaner,35,3,0.5258278294018878,0.08571428571428572
 183,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1578,7 +1578,7 @@ Herr Maire...
  ich hab... e Idee! — Dr. Antoine schriebt do in sim Brief... ar will d'r Gemäind viel Guet’s dhuen... Jetz hab ich e Idee!... Ihr Harre, was mäine-n’r dezüe ?!... Galle do spanne-n’r, ass ich so e Idee im Schädel hab... ich mäin... wann jetz d'r „Amerikaner“ ’s elektrisch Licht bezahle d’hat ? !
 
         
-",clemens-dr-amerikaner,68,6,0.6462712118253885,0.08823529411764706
+",36,clemens-dr-amerikaner,68,6,0.6462712118253885,0.08823529411764706
 184,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -1587,7 +1587,7 @@ Alle:
 Bravo !! D’r Schierejerry hett racht ! Ihr hann de Fade !
 
         
-",clemens-dr-amerikaner,10,1,0.8067346087333439,0.1
+",36,clemens-dr-amerikaner,10,1,0.8067346087333439,0.1
 185,comedy,Matter,M,,,,"
           
 Matter :
@@ -1596,7 +1596,7 @@ Matter :
 Schierejerry, dü bisch e Kaib... Als Ameri- kaner wurd ar ’s Licht äu welle — no sell-r’s äu be- zahle, ar hett Gald genuej !...
 
         
-",clemens-dr-amerikaner,28,5,0.5124847521273435,0.17857142857142858
+",37,clemens-dr-amerikaner,28,5,0.5124847521273435,0.17857142857142858
 186,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -1605,7 +1605,7 @@ Groshans :
 Un hündert... näin, an jed’s Hüs muess e Lamp ... un natti Lampe, uf de höechschte Mode, mit goldiche Knepfle züem „Gräck“ mache.
 
         
-",clemens-dr-amerikaner,26,5,0.6267820248654339,0.19230769230769232
+",37,clemens-dr-amerikaner,26,5,0.6267820248654339,0.19230769230769232
 187,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -1614,7 +1614,7 @@ Sohler :
 Grosser Beifall links !... Mini Partej hett nix d’rgeje inzewende.
 
         
-",clemens-dr-amerikaner,11,1,0.8956440796612551,0.09090909090909091
+",37,clemens-dr-amerikaner,11,1,0.8956440796612551,0.09090909090909091
 188,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1626,7 +1626,7 @@ Maire :
 Diss fräit inich jetz üngemäin, dass d' Opposition äu d’rfür isch, wann’s nix koscht!...
 
         
-",clemens-dr-amerikaner,20,2,0.4334448487117966,0.1
+",37,clemens-dr-amerikaner,20,2,0.4334448487117966,0.1
 189,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -1635,7 +1635,7 @@ Schollesepp :
 A Dünderwatter, isch ball ferti !... Ich hab jetz äu noch Durscht zue mim Hunger !
 
         
-",clemens-dr-amerikaner,15,2,0.1905,0.13333333333333333
+",37,clemens-dr-amerikaner,15,2,0.1905,0.13333333333333333
 190,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1644,7 +1644,7 @@ Maire :
 Ihr Harre... ich find denne Vorschläuj vum Schierejerry ganz güet un ich gläub, ass d'r Antoine, oder wie ihr ’ne getäift hann, d'r „Amerikaner“... ’s elektrisch Licht bezahle wurd. Wann mir’s-em racht an ’s Harz läije, ze wurd’s-em schun ninläichte un ar wurd die paar Livres gare bezahle... Un m'r welle Schluss mache !... Drum ihr Harre, war isch d’rfüer, ass d'r Amerikaner ’s elektrisch Licht bezahle derf?!...
 
         
-",clemens-dr-amerikaner,75,12,0.652597530005612,0.16
+",38,clemens-dr-amerikaner,75,12,0.652597530005612,0.16
 191,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -1654,7 +1654,7 @@ Alle :
 .
 
         
-",clemens-dr-amerikaner,8,1,0.5117384753857362,0.125
+",38,clemens-dr-amerikaner,8,1,0.5117384753857362,0.125
 192,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -1665,7 +1665,7 @@ A Moment ..... bis mini Pfiff brannt.
  So, jetz hett’s-es !
 
         
-",clemens-dr-amerikaner,26,2,0.6074999999999999,0.07692307692307693
+",38,clemens-dr-amerikaner,26,2,0.6074999999999999,0.07692307692307693
 193,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1676,7 +1676,7 @@ Also, noch-emol... Sinn ihr alli d’rfüer, ass d'r Amerikaner ’s Elektrisch 
 .
 
         
-",clemens-dr-amerikaner,32,2,0.4470395573630413,0.0625
+",38,clemens-dr-amerikaner,32,2,0.4470395573630413,0.0625
 194,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -1688,7 +1688,7 @@ Schollesepp :
 Adjeh... Guete Appedit !! Vorhang fällt rasch. Bühnen- und Personenbeschreibung im 2. Aufzug. Die Bühne stellt vor : Wohnzimmer beim Maire. Rechts und links eine Tür. Türe links führt auf eine Strasse, die rechts in den Hof und in die Küche usw. Rechts vorn steht ein viereckiger Bauerntisch mit Stühlen, an der Wand vorn rechts ein Lehnstuhl. An der hinteren Wand steht ein Kachelofen, sowie Baenke, an den Wenden Bilder usw. Maire, sonntaeglich gekleidet, dunkle, geblümte Weste, langer Bauernfrack, weisser Leinenkragen mit schwarzer Hals- binde, runder Bauernhut. Aloys, wie im ersten Aufzug. Gemeinderatsherren, wie im ersten Aufzug. Streifer, grauer Zylinder, langer, brauner Reisemantel, hoher Stehkragen, Sammthosen ; glattes Gesicht mit Eng- lænder-Backenbart, helle Handschuhe, etwa 40 Jahre, graue Perücke. Klüwer, als Neger, schwarze Hosen mit Silberstreifen, Dienerlivré mit Mütze, traegt eine kleine Reisetasche oder Koffer, etwa 40 Jahre alt. Die Conscrits, weisse Hosen, rote Weste, Bauernfrack, runde Bauernhüte mit Straeusschen und Baendern verziert.
 
         
-",clemens-dr-amerikaner,179,14,0.5069897885606397,0.0782122905027933
+",38,clemens-dr-amerikaner,179,14,0.5069897885606397,0.0782122905027933
 195,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1700,7 +1700,7 @@ Maire :
 Alleh, alleh, Aloys, schicke- n-eijch e bissel. — — So — also, ich geh jetzt uf d' Mairie — — ich kumm soball wie mejli. Wann zitter d'r Amerikaner, d'r Antoine, kumme sott, ze säuje-n’r ich bin uf d'r Mairie, as isch Generalmuschterung ... un hole glich e Krichel Win eruf un ebs ze-n-asse — hann’r g’höert ?
 
         
-",clemens-dr-amerikaner,65,5,0.5382630689809024,0.07692307692307693
+",39,clemens-dr-amerikaner,65,5,0.5382630689809024,0.07692307692307693
 196,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -1709,7 +1709,7 @@ Aloys:
 As wurd b’sorijt, Harr Maire, nit ’s Dipfele vum „i“ derf fahle, wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,19,1,0.5027153172801108,0.05263157894736842
+",39,clemens-dr-amerikaner,19,1,0.5027153172801108,0.05263157894736842
 197,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1720,7 +1720,7 @@ Haw-i äu alles ? !— Ja — halt ! Noch d' Schärp .. Aloys :
  Ich lang se — e Momant .....
 
         
-",clemens-dr-amerikaner,22,3,0.5236990404155435,0.13636363636363635
+",39,clemens-dr-amerikaner,22,3,0.5236990404155435,0.13636363636363635
 198,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1731,7 +1731,7 @@ Hitt kummt'r jetzt as isch d'r 13. Mai — — ar hett e Depesch g’schickt, as
  Aloys!... Ei, ei, Aloys ! !
 
         
-",clemens-dr-amerikaner,54,5,0.7367437834580335,0.09259259259259259
+",39,clemens-dr-amerikaner,54,5,0.7367437834580335,0.09259259259259259
 201,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1743,7 +1743,7 @@ Abah, e Stüecker drejmol langt’s schun .....
 (schaut zum Fenster hinaus.)
 
         
-",clemens-dr-amerikaner,32,4,0.752421507929313,0.125
+",40,clemens-dr-amerikaner,32,4,0.752421507929313,0.125
 202,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -1754,7 +1754,7 @@ Ich geh jetz — as isch höechschti Zitt; ihr mache wie g’säit, Aloys!
  Halt!, d'r Huet — Aloys, hopp, hopp, hopp !...
 
         
-",clemens-dr-amerikaner,34,3,0.5243787017902791,0.08823529411764706
+",40,clemens-dr-amerikaner,34,3,0.5243787017902791,0.08823529411764706
 203,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -1766,7 +1766,7 @@ Aloys:
 Numme nit gejäscht un hopp hopp gemacht, wie zaller g’säit hett... Diss wurd m'r a Trafari gann mit dam Amerikaner ; do wurd g’sotte un gebache... will’r Gald hett. Wann’r e armer Deifel war, dhat ’ne kenn Mansch angücke ..... Mir kann’s egal sinn ; hoffentlich fällt äu ebs ab für mich un diss isch d' Häuptsach, dass d' Häuptsach d' Häuptsach isch, wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,76,8,0.45870336286603886,0.10526315789473684
+",40,clemens-dr-amerikaner,76,8,0.45870336286603886,0.10526315789473684
 205,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1775,7 +1775,7 @@ Aloys :
 Grad isch'r nüss, Harr Adjunkt... was hann’r mitm gewellt ?
 
         
-",clemens-dr-amerikaner,10,1,0.6993651460488204,0.1
+",41,clemens-dr-amerikaner,10,1,0.6993651460488204,0.1
 206,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1786,7 +1786,7 @@ Ich hab'ne ebs welle fröje.... Mäine-nr, fahrt m'r d'r Länzmichel mit'm racht
  üewer mini Matt, d’hinge im Stäinköepfel — un ar hett Platz genuej, awer ar labt m'r ze läid... Diss gitt a Prozass, ich will’s-m zäije dam Niss- kräuje !
 
         
-",clemens-dr-amerikaner,63,3,0.36959147186951263,0.047619047619047616
+",41,clemens-dr-amerikaner,63,3,0.36959147186951263,0.047619047619047616
 207,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1795,7 +1795,7 @@ Aloys :
 Waje dam welle-nr prozasse ? Ihr hann jo erscht de letschte Prozass geje de Wewer verlore!...
 
         
-",clemens-dr-amerikaner,16,4,0.2996949659110106,0.25
+",41,clemens-dr-amerikaner,16,4,0.2996949659110106,0.25
 208,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1804,7 +1804,7 @@ Sürkopf :
 Was häisst verlore ?! Minn’r Advokat isch nix gewann. — Na, as macht nix, ich nimm e-n-andere un diss mit dare Matt, diss gitt e neijer Prozass ; danne gewinn ich ! Ihr sinn m'r e'gueter Zeje !
 
         
-",clemens-dr-amerikaner,37,7,0.4831272883069844,0.1891891891891892
+",41,clemens-dr-amerikaner,37,7,0.4831272883069844,0.1891891891891892
 209,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1816,7 +1816,7 @@ Aloys :
 Ich,! Ja, ich hab jo nix g’höert un nix g’sahne!....
 
         
-",clemens-dr-amerikaner,14,1,0.731982479119855,0.07142857142857142
+",41,clemens-dr-amerikaner,14,1,0.731982479119855,0.07142857142857142
 210,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1825,7 +1825,7 @@ Sürkopf :
 ’s hett nix ze säuje, eijch haw-ich’s z’erscht g’säit... Was ich säuje will... hett d'r Harr Maire denne Säildänzer Parmission gann füer am Sunnti ze spiele,
 
         
-",clemens-dr-amerikaner,29,2,0.5886132234660063,0.06896551724137931
+",42,clemens-dr-amerikaner,29,2,0.5886132234660063,0.06896551724137931
 211,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1834,7 +1834,7 @@ Aloys :
 Näin — mir hann genuej Amüsement im Dorf. Mir hann jo erscht die Wuch e Mondfinschternis g’hett, jetz morje schun wieder d' Säildänzler ? ! Näin, näin ! Wie geht's, Harr Adjunkt? Was macht d' Gsundhäit ?
 
         
-",clemens-dr-amerikaner,35,4,0.7830092989973588,0.11428571428571428
+",42,clemens-dr-amerikaner,35,4,0.7830092989973588,0.11428571428571428
 212,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1843,7 +1843,7 @@ Sürkopf :
 As gang sowit... wann-i numme diss kaiwe Stache nitt hatt im Kriz un diss Risse in de Wade un diss Jucke in de Ärm, gar nix hatt'i ze kläuje ..... nurre mit'm Appedit bin ich nit racht zefriede.
 
         
-",clemens-dr-amerikaner,39,4,0.6193223875466563,0.10256410256410256
+",42,clemens-dr-amerikaner,39,4,0.6193223875466563,0.10256410256410256
 213,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1852,7 +1852,7 @@ Aloys :
 Oho! D'r Appedit fahlt ? — Do isch böes Mahl an de Knepfle, wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,17,2,0.20571637883809823,0.11764705882352941
+",42,clemens-dr-amerikaner,17,2,0.20571637883809823,0.11764705882352941
 214,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1863,7 +1863,7 @@ Sahn’r Aloys, vor'm Zmiddäujasse haw-ich do,
  do im Mäuje so e G’füehl — grad ass wann ich nix drinne hatt. Ess ich no numme zwäi Taller voll Supp, a Taller voll Gemües — un numme so e Stüeckele Brotwurscht... no isch d'r Appedit ewack... wie ich g’asse hab, haw-ich’s im Mäuje....
 
         
-",clemens-dr-amerikaner,58,4,0.4074963928036485,0.06896551724137931
+",42,clemens-dr-amerikaner,58,4,0.4074963928036485,0.06896551724137931
 215,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -1872,7 +1872,7 @@ Aloys:
 Gehn doch emol zuem Schlofer ... nutzt’s nix, ze schad’s nix, wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,17,1,0.1573031831829046,0.058823529411764705
+",43,clemens-dr-amerikaner,17,1,0.1573031831829046,0.058823529411764705
 216,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -1882,7 +1882,7 @@ Erscht noch, diss will ich mache... Do hann’r e Bries !... Adje Aloys, ich kum
 (links ab.)
 
         
-",clemens-dr-amerikaner,31,4,0.5147172902288911,0.12903225806451613
+",43,clemens-dr-amerikaner,31,4,0.5147172902288911,0.12903225806451613
 217,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -1892,7 +1892,7 @@ Un ich will de Hoft propper mache, ass alles in Ordnung isch, wann d'r Amerikane
 (ab rechts. Die Bühne bleibt eine Weile leer. Dann kom- men von links zwei Personen hereingeschlichen, schauen sich vorsichtig um ; es ist Streifer und Klü- wer in der angegebenen Kleidung.)
 
         
-",clemens-dr-amerikaner,51,4,0.5073891849918598,0.0784313725490196
+",43,clemens-dr-amerikaner,51,4,0.5073891849918598,0.0784313725490196
 218,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -1905,7 +1905,7 @@ Es isch nieme do.
  Also ich heiss : „Antoine Schnell“, uf amerikanisch „Mister Snell“... Dü bisch minr Domestique un heisch „Wambo“!.... Hahaha!! pst, nit so lütt !...
 
         
-",clemens-dr-amerikaner,80,9,0.590076708554144,0.1125
+",43,clemens-dr-amerikaner,80,9,0.590076708554144,0.1125
 219,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -1914,7 +1914,7 @@ Klüwer :
 Mansch wie d'r Monsieur Schnell geluejt hett, wie er ufgewacht isch im Wartsaal in Strossburri un hett kan Geld, kan Kuffer un kan Bardessü meh... hahaha !
 
         
-",clemens-dr-amerikaner,27,3,0.698201446981691,0.1111111111111111
+",43,clemens-dr-amerikaner,27,3,0.698201446981691,0.1111111111111111
 220,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -1923,7 +1923,7 @@ Streifer :
 Was schloft er au, wenn mir um de Wäj sinn... Schad, dass’r nit meh Geld bie sich hett g’hett... 120 Franke isch’nit d’rwärt...
 
         
-",clemens-dr-amerikaner,25,3,0.43543307601810594,0.12
+",44,clemens-dr-amerikaner,25,3,0.43543307601810594,0.12
 221,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -1932,7 +1932,7 @@ Klüwer :
 D’ riche Litt hann alli ihri Scheckbüecher, no hole sie uf d'r Bank, was sie ung’fähr brüche. Uf was füer e Bank hett denn d'r Schnell sinn Geld ze hole ? Luej emol im Scheckbuech.
 
         
-",clemens-dr-amerikaner,35,4,0.6973599590290139,0.11428571428571428
+",44,clemens-dr-amerikaner,35,4,0.6973599590290139,0.11428571428571428
 222,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -1944,7 +1944,7 @@ Streifer :
 Uf d'r Bank d’Alsace-Lorraine... ei, ei, ei, do kenne m'r kan Geld hole, sunsch sinn m'r glich gepäckelt...
 
         
-",clemens-dr-amerikaner,28,3,0.6209986816238043,0.10714285714285714
+",44,clemens-dr-amerikaner,28,3,0.6209986816238043,0.10714285714285714
 223,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -1953,7 +1953,7 @@ Klüwer :
 Na, es isch doch guet, ass d'r Schnell in sinn Notizbüechel alles ufnotiert hett, was m'r wisse müen; ass er vun Amerika kummt, üss Chigago — dass er zu sim Cousin will, wo Maire isch in Obermatte usw. Wie heisst d'r Maire ?
 
         
-",clemens-dr-amerikaner,43,2,0.7805445680806198,0.046511627906976744
+",44,clemens-dr-amerikaner,43,2,0.7805445680806198,0.046511627906976744
 224,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -1965,7 +1965,7 @@ Streifer :
 Schakob Ürbach... Also, unser Plan isch jetz so: Ich bin d'r Antoine Schnell, dü bisch miner Domestique Wambo... mir spiele jetzt d' Roll vum rechte Antoine Schnell, wo zuem Maire kumme will... no spio- niere m'r üss, wo d'r Maire sinn Geld hett... lonn’s uns do guet schmecke un morje bie d'r erschte beschte Geläjehäit gramse m'r im Maire sinn Geld un ver- dufte — un wenn d'r recht Amerikaner kummt, sinn m'r üewer alli Berri. Nurre guet acht genn un nit verbabbelt....
 
         
-",clemens-dr-amerikaner,92,17,0.6370152936612534,0.18478260869565216
+",44,clemens-dr-amerikaner,92,17,0.6370152936612534,0.18478260869565216
 225,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -1974,7 +1974,7 @@ Klüwer :
 Nurre kan Angscht, diss b’sorrisch dü, dü hesch e besseri Schnuffel wie ich, Dü müesch die Litt so verkohle un verschwindle, ass sie gar nit zur B’sin- nung kumme.
 
         
-",clemens-dr-amerikaner,31,4,0.4140260228809798,0.12903225806451613
+",45,clemens-dr-amerikaner,31,4,0.4140260228809798,0.12903225806451613
 226,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -1990,7 +1990,7 @@ Ich verzähl ’ne als vun Amerika — — ich redd ganz langsam elsässisch, mi
 .
 
         
-",clemens-dr-amerikaner,66,5,0.7588805567416355,0.07575757575757576
+",45,clemens-dr-amerikaner,66,5,0.7588805567416355,0.07575757575757576
 227,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2000,7 +2000,7 @@ Diss wurd gelunge!... Pst!... Ich man es kummt ebber.
 (Sie stellen sich an die Türe, Streifer vor Klüwer.)
 
         
-",clemens-dr-amerikaner,21,4,0.6745917764967492,0.19047619047619047
+",45,clemens-dr-amerikaner,21,4,0.6745917764967492,0.19047619047619047
 228,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -2015,7 +2015,7 @@ Ich hab ebber g’höert!
 (putzt sich die Hände an den Hosen ab.)
 
         
-",clemens-dr-amerikaner,27,2,0.5388590611552221,0.07407407407407407
+",45,clemens-dr-amerikaner,27,2,0.5388590611552221,0.07407407407407407
 229,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2024,7 +2024,7 @@ Streifer :
 All right !... Komm an miner Herz, Cousin !
 
         
-",clemens-dr-amerikaner,8,4,0.6326140980236832,0.5
+",45,clemens-dr-amerikaner,8,4,0.6326140980236832,0.5
 230,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2036,7 +2036,7 @@ Aloys :
 Harrjeh ! E Teifel! Halfe !..
 
         
-",clemens-dr-amerikaner,10,2,0.5147373623113536,0.2
+",46,clemens-dr-amerikaner,10,2,0.5147373623113536,0.2
 231,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2045,7 +2045,7 @@ Streifer :
 Oh — er macht dir nix, es isch jo e Neger... es isch mini Domestique Wambo...
 
         
-",clemens-dr-amerikaner,17,2,0.5914037149899416,0.11764705882352941
+",46,clemens-dr-amerikaner,17,2,0.5914037149899416,0.11764705882352941
 232,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -2054,7 +2054,7 @@ Aloys:
 Macht’r nix? Uf Ehr un Gewisse ?!
 
         
-",clemens-dr-amerikaner,7,3,0.7553767250695782,0.42857142857142855
+",46,clemens-dr-amerikaner,7,3,0.7553767250695782,0.42857142857142855
 233,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2067,7 +2067,7 @@ Uf Ehr un Gewisse, yes !... Un jetz loss dich umarme.
  Wie geht’s dir allewill, Cousin ?
 
         
-",clemens-dr-amerikaner,38,8,0.5731636752373073,0.21052631578947367
+",46,clemens-dr-amerikaner,38,8,0.5731636752373073,0.21052631578947367
 234,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2076,7 +2076,7 @@ Aloys :
 Cousin ? ! Öha Mann, ihr sinn latz !... Ihr sinn doch d'r Antoine, d'r Amerikaner, wie hitt kumme sell ?
 
         
-",clemens-dr-amerikaner,18,3,0.4605613151842644,0.16666666666666666
+",46,clemens-dr-amerikaner,18,3,0.4605613151842644,0.16666666666666666
 235,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2085,7 +2085,7 @@ Streifer :
 Yes, der bin ich!... Kännsch dini Cousin glauwi nimmi ?....
 
         
-",clemens-dr-amerikaner,10,2,0.6491238895821351,0.2
+",47,clemens-dr-amerikaner,10,2,0.6491238895821351,0.2
 237,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -2094,7 +2094,7 @@ Aloys:
 Ja — d'r Harr Maire isch nit do, ar kummt glich, ich bin d'r Aloys — im Maire sini racht Hand, wie zaller g'säit hett.
 
         
-",clemens-dr-amerikaner,26,2,0.7693585439265995,0.07692307692307693
+",47,clemens-dr-amerikaner,26,2,0.7693585439265995,0.07692307692307693
 238,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2108,7 +2108,7 @@ Do hann m'r uns ani ge- wunke
  Ah... ihr sinn d'r Aloys... frejt mich ass ihr sinn Aloys !... Was macht d'r Herr Maire... wo isch’r ?
 
         
-",clemens-dr-amerikaner,35,4,0.6222014168499863,0.11428571428571428
+",47,clemens-dr-amerikaner,35,4,0.6222014168499863,0.11428571428571428
 239,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2117,7 +2117,7 @@ Aloys :
 Ar isch uf d'r Mairie, ar kummt hall... Awer namme Platz... was welle-nr asse ? Warte ich hol emol e Krichel Win eruf !
 
         
-",clemens-dr-amerikaner,23,4,0.5853589284646991,0.17391304347826086
+",47,clemens-dr-amerikaner,23,4,0.5853589284646991,0.17391304347826086
 240,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2128,7 +2128,7 @@ Denk you... pressiert nit... Aloys höere emol!
  Weiss d'r Herr Maire, ass ich kumm ?... Wisse’s au Litt im Dorf ?
 
         
-",clemens-dr-amerikaner,24,3,0.5284939148520222,0.125
+",48,clemens-dr-amerikaner,24,3,0.5284939148520222,0.125
 241,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2137,7 +2137,7 @@ Aloys :
 Ja, ja, d'r Harr Maire basst mit Schmarze uf eizch un’s ganze Dorf isch rewalisch.
 
         
-",clemens-dr-amerikaner,17,6,0.6111735387874203,0.35294117647058826
+",48,clemens-dr-amerikaner,17,6,0.6111735387874203,0.35294117647058826
 242,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2146,7 +2146,7 @@ Streifer :
 So, so... wer hett denn g’saat, ass ich hitt kumm ?
 
         
-",clemens-dr-amerikaner,11,2,0.5033863963552478,0.18181818181818182
+",48,clemens-dr-amerikaner,11,2,0.5033863963552478,0.18181818181818182
 243,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2155,7 +2155,7 @@ Aloys :
 Ihr sinn jetz g’spassi... ihr hann e Depesch g’schickt !...
 
         
-",clemens-dr-amerikaner,10,2,0.5413392101529784,0.2
+",48,clemens-dr-amerikaner,10,2,0.5413392101529784,0.2
 244,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2164,7 +2164,7 @@ Streifer :
 Ah ja, yes — stimmt... un was macht im Herr Maire sinni Fräu ?
 
         
-",clemens-dr-amerikaner,14,4,0.6233747152363274,0.2857142857142857
+",48,clemens-dr-amerikaner,14,4,0.6233747152363274,0.2857142857142857
 245,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2173,7 +2173,7 @@ Aloys :
 Die isch vor 5 Johr g’storwe — ar het nieme meh im Hüs as mich un d' Köche.
 
         
-",clemens-dr-amerikaner,19,1,0.6701485966188446,0.05263157894736842
+",49,clemens-dr-amerikaner,19,1,0.6701485966188446,0.05263157894736842
 246,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2182,7 +2182,7 @@ Streifer :
 Diss isch famos !... Äh, ich hab welle saue.. es isch schad füer die schöen, guet Frau... un d'r Herr Maire isch rich ? Hett viel Geld ?...
 
         
-",clemens-dr-amerikaner,26,6,0.5772737803582483,0.23076923076923078
+",49,clemens-dr-amerikaner,26,6,0.5772737803582483,0.23076923076923078
 247,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -2191,7 +2191,7 @@ Aloys :
 Äu noch, ebber Gald hett ! Gar dato hett’r viel im Hüs, ar hett 80 Ohme alter Win verkäuft d’letscht Wuch un ’s Gald vum Kunschtmischt, wie’r verkäuft hett, hett-r äu do.
 
         
-",clemens-dr-amerikaner,33,4,0.5812508859529557,0.12121212121212122
+",49,clemens-dr-amerikaner,33,4,0.5812508859529557,0.12121212121212122
 248,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2207,7 +2207,7 @@ Diss isch g’fitzt.
  Vor Eijch, hahaha !.... Näin, näin.... Z’erscht müesch wisse, wie huckt, wie zaller g’säit hett !... Ar hett’s guet ing’schlosse im Sekretär, in d'r zwäite Schüblad rachts — hahaha !!
 
         
-",clemens-dr-amerikaner,69,12,0.622674354023794,0.17391304347826086
+",49,clemens-dr-amerikaner,69,12,0.622674354023794,0.17391304347826086
 249,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2218,7 +2218,7 @@ No isch guet... Do Aloys, hann’r au e kleiner Trinkgeld...
 .
 
         
-",clemens-dr-amerikaner,18,3,0.5995722649118277,0.16666666666666666
+",49,clemens-dr-amerikaner,18,3,0.5995722649118277,0.16666666666666666
 250,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -2232,7 +2232,7 @@ Näin, näin, ’s isch gare g'schahn....20 Franke !...As isch ze viel..
  Diss kann i nit annahme... Klüwer : O yes! Mister Snell, sehr gute Herr — hat so viel Geld.... wülle, wülle quack !
 
         
-",clemens-dr-amerikaner,47,8,0.5463346503230653,0.1702127659574468
+",50,clemens-dr-amerikaner,47,8,0.5463346503230653,0.1702127659574468
 251,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2246,7 +2246,7 @@ Ah — Antoine !...
  Ja, bisch’s oder bisch’s nit ?
 
         
-",clemens-dr-amerikaner,20,2,0.5699108917413436,0.1
+",50,clemens-dr-amerikaner,20,2,0.5699108917413436,0.1
 252,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2261,7 +2261,7 @@ Jetzt frech !
 (umarmt ihn.)
 
         
-",clemens-dr-amerikaner,32,6,0.6340952751484152,0.1875
+",50,clemens-dr-amerikaner,32,6,0.6340952751484152,0.1875
 253,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2273,7 +2273,7 @@ Herzlich Willkumme in d'r Häimet .....
 (Aloys rechts ab.)
 
         
-",clemens-dr-amerikaner,54,4,0.742265484249657,0.07407407407407407
+",50,clemens-dr-amerikaner,54,4,0.742265484249657,0.07407407407407407
 254,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2282,7 +2282,7 @@ Streifer :
 Yes... diss isch miner Domestique Wambo... Wambo mach dini Komplimento !
 
         
-",clemens-dr-amerikaner,11,2,0.6082352989472818,0.18181818181818182
+",50,clemens-dr-amerikaner,11,2,0.6082352989472818,0.18181818181818182
 255,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2294,7 +2294,7 @@ Klüwer :
 Tsching-ko, ging-ko Wambo !
 
         
-",clemens-dr-amerikaner,10,1,0.68379825951501,0.1
+",51,clemens-dr-amerikaner,10,1,0.68379825951501,0.1
 256,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2307,7 +2307,7 @@ Bonjour Wambo rataschinko. — Diss isch e gelungener Burscht... awer nahme Plat
 (Streifer setzt sich an den Tisch an die Ecke rechts, ganz vorn, Klüwer hinter ihn.)
 
         
-",clemens-dr-amerikaner,56,3,0.6831630589536165,0.05357142857142857
+",51,clemens-dr-amerikaner,56,3,0.6831630589536165,0.05357142857142857
 258,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2325,7 +2325,7 @@ So, jetz welle m'r emol G’sünd- häit trinke — Gsündhäit!!
 .
 
         
-",clemens-dr-amerikaner,79,9,0.5814856036870223,0.11392405063291139
+",51,clemens-dr-amerikaner,79,9,0.5814856036870223,0.11392405063291139
 259,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2334,7 +2334,7 @@ Maire :
 kumme ering... do isch d'r Antoine !
 
         
-",clemens-dr-amerikaner,7,1,0.5077636222456227,0.14285714285714285
+",51,clemens-dr-amerikaner,7,1,0.5077636222456227,0.14285714285714285
 262,comedy,Matter,M,,,,"
           
 Matter :
@@ -2343,7 +2343,7 @@ Matter :
 Diss esch d'r Antoine nit, d'r Harr Maire will üns äini nüewerstelle !
 
         
-",clemens-dr-amerikaner,13,1,0.3403067737358356,0.07692307692307693
+",52,clemens-dr-amerikaner,13,1,0.3403067737358356,0.07692307692307693
 263,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2355,7 +2355,7 @@ Klüwer :
 „Wö !“
 
         
-",clemens-dr-amerikaner,22,4,0.4581964901331502,0.18181818181818182
+",52,clemens-dr-amerikaner,22,4,0.4581964901331502,0.18181818181818182
 264,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -2367,7 +2367,7 @@ Alle :
 Jerum, a Schwarzer !! A Ka- minfajer !!
 
         
-",clemens-dr-amerikaner,12,3,0.3290344916290205,0.25
+",52,clemens-dr-amerikaner,12,3,0.3290344916290205,0.25
 265,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2378,7 +2378,7 @@ Wambo, ruhig !
  Nur ken Angscht, er macht nix, no...
 
         
-",clemens-dr-amerikaner,14,3,0.4664929374677957,0.21428571428571427
+",53,clemens-dr-amerikaner,14,3,0.4664929374677957,0.21428571428571427
 266,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2387,7 +2387,7 @@ Maire :
 Allehopp !... Matter ! Groshans ! Schierejerry ! ..... kumme hare un trinke äins G’sündhäit mit'm An- toine !
 
         
-",clemens-dr-amerikaner,16,3,0.5943567986604861,0.1875
+",53,clemens-dr-amerikaner,16,3,0.5943567986604861,0.1875
 267,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2402,7 +2402,7 @@ Yes — wo isch Matter ?
 .
 
         
-",clemens-dr-amerikaner,61,6,0.43958783656202777,0.09836065573770492
+",53,clemens-dr-amerikaner,61,6,0.43958783656202777,0.09836065573770492
 268,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -2411,7 +2411,7 @@ Schierejerry :
 Müesch mir’s nit in Üewel nahme, ich hab dich nimmi kannt... ju, ju!
 
         
-",clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
+",53,clemens-dr-amerikaner,15,2,0.731982479119855,0.13333333333333333
 271,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2420,7 +2420,7 @@ Streifer :
 Yes — glaub ich, dass ihr mich nimmi kenne... in Amerika verändert m'r sich kolosal... un ich bin schun 25 Johr furt...
 
         
-",clemens-dr-amerikaner,23,2,0.6642050237114551,0.08695652173913043
+",54,clemens-dr-amerikaner,23,2,0.6642050237114551,0.08695652173913043
 273,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2432,7 +2432,7 @@ Klüwer :
 Gieb doch acht !
 
         
-",clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
+",54,clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
 274,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2441,7 +2441,7 @@ Streifer :
 Yes — schun 30 Johr! Wie d'r Zitt erum geht... m'r wurd so vergesslich in Amerika, well !
 
         
-",clemens-dr-amerikaner,18,3,0.42986191815511793,0.16666666666666666
+",54,clemens-dr-amerikaner,18,3,0.42986191815511793,0.16666666666666666
 275,comedy,Matter,M,,,,"
           
 Matter :
@@ -2453,7 +2453,7 @@ Matter :
 As will m'r nitt in de Schädel ning, ass dü d'r Antoine bisch... Dü glich’sch dir ken Bresele meh, dü hesch e ganz ander’s G’sicht !
 
         
-",clemens-dr-amerikaner,33,4,0.5576870317647218,0.12121212121212122
+",55,clemens-dr-amerikaner,33,4,0.5576870317647218,0.12121212121212122
 276,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2463,7 +2463,7 @@ Ja — diss macht d'r Bart... Awer do, dass’r sehn, do sinn mini Babierer.
 (gibt ihnen seine Pa- piere.)
 
         
-",clemens-dr-amerikaner,23,4,0.6528614691473466,0.17391304347826086
+",55,clemens-dr-amerikaner,23,4,0.6528614691473466,0.17391304347826086
 278,comedy,Matter,M,,,,"
           
 Matter :
@@ -2472,7 +2472,7 @@ Matter :
 D’r Geburtsschin, e Scheckbuech füer uf d' Bank d’Alsace-Lorraine... Ar isch’s !
 
         
-",clemens-dr-amerikaner,14,2,0.5271533868679178,0.14285714285714285
+",55,clemens-dr-amerikaner,14,2,0.5271533868679178,0.14285714285714285
 279,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -2481,7 +2481,7 @@ Alle :
 Ja, ja, ar isch’s — kenn Zwiefel!...
 
         
-",clemens-dr-amerikaner,9,2,0.731982479119855,0.2222222222222222
+",55,clemens-dr-amerikaner,9,2,0.731982479119855,0.2222222222222222
 280,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -2496,7 +2496,7 @@ Bonjour la compagnie ! Do verzehle se im Dorf d'r „Amerikaner“ isch ankumme,
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,58,3,0.7392196541215618,0.05172413793103448
+",56,clemens-dr-amerikaner,58,3,0.7392196541215618,0.05172413793103448
 281,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2505,7 +2505,7 @@ Streifer :
 Yes, Mister Sohler — ich brüech sehr viel Schuehj un wur mich an Sie halte.
 
         
-",clemens-dr-amerikaner,16,3,0.4291738253061888,0.1875
+",56,clemens-dr-amerikaner,16,3,0.4291738253061888,0.1875
 282,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2517,7 +2517,7 @@ Maire :
 Do, Antoine, nimm d'r e Stüeckel Kueche — numme nit scharniert... do nimm diss Stüeckel, as isch’s gröescht... Wambo, kannsch du auch Kuchen essen ?
 
         
-",clemens-dr-amerikaner,29,1,0.722054949727584,0.034482758620689655
+",56,clemens-dr-amerikaner,29,1,0.722054949727584,0.034482758620689655
 283,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2529,7 +2529,7 @@ Klüwer :
 O yes, Wambo essen Kuchen, Fleisch, Feuer, Steine, alles !
 
         
-",clemens-dr-amerikaner,16,2,0.3082847832558369,0.125
+",56,clemens-dr-amerikaner,16,2,0.3082847832558369,0.125
 284,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -2541,7 +2541,7 @@ Alle:
 Dar isch guet halte... Guete Appedit !
 
         
-",clemens-dr-amerikaner,10,4,0.726414085239973,0.4
+",56,clemens-dr-amerikaner,10,4,0.726414085239973,0.4
 285,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -2553,7 +2553,7 @@ Groshans :
 Hesch denne üs Amerika mit- gebrocht ?
 
         
-",clemens-dr-amerikaner,12,1,0.4990091704648731,0.08333333333333333
+",57,clemens-dr-amerikaner,12,1,0.4990091704648731,0.08333333333333333
 286,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2562,7 +2562,7 @@ Streifer :
 Yes !... Ich hab’ne mit müen nehme, er hett’s nit andersch gedon... gell Wambo ?
 
         
-",clemens-dr-amerikaner,15,1,0.4990091704648731,0.06666666666666667
+",57,clemens-dr-amerikaner,15,1,0.4990091704648731,0.06666666666666667
 287,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2573,7 +2573,7 @@ O yes — Mister Snell sein sähr gute Herr zu arme Nigger, haut nicht mit Stock
 .
 
         
-",clemens-dr-amerikaner,35,4,0.5282104313742907,0.11428571428571428
+",57,clemens-dr-amerikaner,35,4,0.5282104313742907,0.11428571428571428
 288,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -2582,7 +2582,7 @@ Schierejerry :
 Antoine — isch wohr, ass äim in Amerika im Wald d’Affe Gockelsnusse uf de Schäddel schmisse ?
 
         
-",clemens-dr-amerikaner,18,2,0.7687775628539101,0.1111111111111111
+",57,clemens-dr-amerikaner,18,2,0.7687775628539101,0.1111111111111111
 289,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2591,7 +2591,7 @@ Streifer :
 Yes, ohne Paraplui kann m'r nit in de Wald gehn, no.
 
         
-",clemens-dr-amerikaner,12,1,0.4990091704648731,0.08333333333333333
+",57,clemens-dr-amerikaner,12,1,0.4990091704648731,0.08333333333333333
 290,comedy,Matter,M,,,,"
           
 Matter :
@@ -2600,7 +2600,7 @@ Matter :
 Jo — diss gläuwi jetz doch nit...
 
         
-",clemens-dr-amerikaner,8,2,0.5697726912176163,0.25
+",58,clemens-dr-amerikaner,8,2,0.5697726912176163,0.25
 291,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2609,7 +2609,7 @@ Streifer :
 Doch, doch — isch wohr ! Gell Wambo ?
 
         
-",clemens-dr-amerikaner,8,2,0.6612821480863467,0.25
+",58,clemens-dr-amerikaner,8,2,0.6612821480863467,0.25
 292,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2618,7 +2618,7 @@ Klüwer :
 O yes, yes — Mister Snell kann nix lügen, ist so liebe, gute Herr !
 
         
-",clemens-dr-amerikaner,15,4,0.6294264530132933,0.26666666666666666
+",58,clemens-dr-amerikaner,15,4,0.6294264530132933,0.26666666666666666
 293,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -2627,7 +2627,7 @@ Sohler :
 Doch, Matter, es isch wohr, ich hab’s au schun gelese in de Büecher !
 
         
-",clemens-dr-amerikaner,15,2,0.5819309497218279,0.13333333333333333
+",58,clemens-dr-amerikaner,15,2,0.5819309497218279,0.13333333333333333
 294,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -2639,7 +2639,7 @@ Schollesepp :
 Guete Däuj bienand.. isch wohr isch d'r Antoine do üss Amerika ?
 
         
-",clemens-dr-amerikaner,17,3,0.8245571021851733,0.17647058823529413
+",58,clemens-dr-amerikaner,17,3,0.8245571021851733,0.17647058823529413
 295,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2648,7 +2648,7 @@ Maire :
 Ja, ja — do isch’r !... Antoine, kannsch denne noch ? Dar isch doch mit d'r üss d'r Schuel komme !
 
         
-",clemens-dr-amerikaner,19,4,0.6601737624626635,0.21052631578947367
+",59,clemens-dr-amerikaner,19,4,0.6601737624626635,0.21052631578947367
 296,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2660,7 +2660,7 @@ Streifer :
 Yes, well... natirlich kenn ich ne noch !... D’r Name fahrt m'r im Müll erum, er heisst... na... Herrschaft .....
 
         
-",clemens-dr-amerikaner,23,5,0.5084108518887867,0.21739130434782608
+",59,clemens-dr-amerikaner,23,5,0.5084108518887867,0.21739130434782608
 299,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2672,7 +2672,7 @@ Streifer :
 Yes ..... D'r Schollesepp isch’s jo... Ich wär nit um ’s Starwe uf de Name kumme. Bonjour Mister Schollé... All right!
 
         
-",clemens-dr-amerikaner,25,4,0.629193198177624,0.16
+",59,clemens-dr-amerikaner,25,4,0.629193198177624,0.16
 301,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2684,7 +2684,7 @@ Maire :
 Müesch lütter rede, er höert üewel.
 
         
-",clemens-dr-amerikaner,11,2,0.41550171121587204,0.18181818181818182
+",60,clemens-dr-amerikaner,11,2,0.41550171121587204,0.18181818181818182
 302,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2696,7 +2696,7 @@ Streifer :
 Bonjour, Mister Schollé !... Wie geht’s, alter Schuelkamerad ?
 
         
-",clemens-dr-amerikaner,12,3,0.5729369703150118,0.25
+",60,clemens-dr-amerikaner,12,3,0.5729369703150118,0.25
 303,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -2709,7 +2709,7 @@ Po, as geht so... Vor 4 Woche hawi ge- metzt, a Söij vun 240 Pfünd... Un dir g
 .
 
         
-",clemens-dr-amerikaner,72,11,0.6297135810459826,0.1527777777777778
+",60,clemens-dr-amerikaner,72,11,0.6297135810459826,0.1527777777777778
 304,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2723,7 +2723,7 @@ Näin, so e Dolle!
 .
 
         
-",clemens-dr-amerikaner,15,4,0.2722954717072491,0.26666666666666666
+",60,clemens-dr-amerikaner,15,4,0.2722954717072491,0.26666666666666666
 305,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2732,7 +2732,7 @@ Streifer :
 Was meint’r do mit'm elektrische Licht ?... Schakob, was isch denn ? Red’ doch !
 
         
-",clemens-dr-amerikaner,14,3,0.5789348503939137,0.21428571428571427
+",61,clemens-dr-amerikaner,14,3,0.5789348503939137,0.21428571428571427
 306,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2741,7 +2741,7 @@ Maire :
 Ai jo... ar wäis nit was’r babbelt — diss säit ar so üss sich... mir hann ’s elektrisch Licht welle inrichte lonn im Dorf... awer d’Gemäind isch arm...
 
         
-",clemens-dr-amerikaner,30,6,0.5103854582659473,0.2
+",61,clemens-dr-amerikaner,30,6,0.5103854582659473,0.2
 307,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2750,7 +2750,7 @@ Streifer :
 Ach, guet, ass ich’s weiss... ich bezahl’s... was koscht’s! Natirlich muess elektrisch Licht ins Dorf, koscht’s was will !
 
         
-",clemens-dr-amerikaner,23,4,0.6466101814083661,0.17391304347826086
+",61,clemens-dr-amerikaner,23,4,0.6466101814083661,0.17391304347826086
 308,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -2762,7 +2762,7 @@ Alle:
 Bravo !... Merci, Antoine, jetzt isch Lawe !... Wann diss d' Untermatter erfahre !
 
         
-",clemens-dr-amerikaner,16,4,0.7793823827659058,0.25
+",61,clemens-dr-amerikaner,16,4,0.7793823827659058,0.25
 309,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -2771,7 +2771,7 @@ Sohler :
 Im Name vun dr Oppositionsparteij mine uf- gewärmschte Dank !
 
         
-",clemens-dr-amerikaner,11,3,0.7580238963896374,0.2727272727272727
+",61,clemens-dr-amerikaner,11,3,0.7580238963896374,0.2727272727272727
 310,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -2781,7 +2781,7 @@ Antoine, dü duesch uns do e grosser G’falle — Im Name von d'r Gemäind viel
 (Alles stösst mit Streifer an.)
 
         
-",clemens-dr-amerikaner,27,3,0.5246620178274107,0.1111111111111111
+",62,clemens-dr-amerikaner,27,3,0.5246620178274107,0.1111111111111111
 311,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2792,7 +2792,7 @@ Mache doch kenn so Lewesdaa... ich hab’s jo... un wenn diss uf isch, hole m'r 
  Mänsch, wann diss dinn’r Vatter sali sahn dat un d’Mueder... danksch noch an dini junge Johre ?
 
         
-",clemens-dr-amerikaner,41,6,0.7072262494248513,0.14634146341463414
+",62,clemens-dr-amerikaner,41,6,0.7072262494248513,0.14634146341463414
 312,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2801,7 +2801,7 @@ Streifer :
 Lonn m'r vergesse, was rum isch... ich red nit gern d’rvun, no, no.
 
         
-",clemens-dr-amerikaner,15,4,0.4552752056073226,0.26666666666666666
+",62,clemens-dr-amerikaner,15,4,0.4552752056073226,0.26666666666666666
 314,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2810,7 +2810,7 @@ Streifer :
 Yes!... ja’s Meer isch furchtbar gross und nix wie Wasser, Wasser un Wasser.
 
         
-",clemens-dr-amerikaner,15,4,0.49579129682051404,0.26666666666666666
+",62,clemens-dr-amerikaner,15,4,0.49579129682051404,0.26666666666666666
 315,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -2821,7 +2821,7 @@ Brrr... seije m'r still, ze viel Wasser isch un- g’sund... trinke m'r liewer W
 .
 
         
-",clemens-dr-amerikaner,19,4,0.6919800054345375,0.21052631578947367
+",63,clemens-dr-amerikaner,19,4,0.6919800054345375,0.21052631578947367
 316,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2830,7 +2830,7 @@ Streifer :
 Wenn m'r no in Amerika ankummt, ze geht m'r e grossi breiti Stäij nuf, ganz üss wiss’m Marmor. Wenn m'r no recht’s in Amerika nin kommt, isch links glich e Hotel... do haw-ich glich d'r erschte Pudding g’esse.
 
         
-",clemens-dr-amerikaner,41,3,0.6465256091829099,0.07317073170731707
+",63,clemens-dr-amerikaner,41,3,0.6465256091829099,0.07317073170731707
 317,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -2839,7 +2839,7 @@ Schierejerry :
 Isch diss ebs guet’s, Pudding ?
 
         
-",clemens-dr-amerikaner,7,1,0.8496361744517235,0.14285714285714285
+",63,clemens-dr-amerikaner,7,1,0.8496361744517235,0.14285714285714285
 319,comedy,Matter,M,,,,"
           
 Matter :
@@ -2848,7 +2848,7 @@ Matter :
 Ass dü diss schun wieder wäisch ..... hesch dann dü schun g’asse ? !
 
         
-",clemens-dr-amerikaner,12,1,0.3403067737358356,0.08333333333333333
+",63,clemens-dr-amerikaner,12,1,0.3403067737358356,0.08333333333333333
 320,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -2858,7 +2858,7 @@ Naan, zell noch nit, awer gelese haw-ich’s.
 (Lachen.)
 
         
-",clemens-dr-amerikaner,12,1,0.8952774323956044,0.08333333333333333
+",64,clemens-dr-amerikaner,12,1,0.8952774323956044,0.08333333333333333
 321,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -2870,7 +2870,7 @@ Groshans :
 Wie hesch’s dann ang’fange, ass de viel Gald verdient hesch ?
 
         
-",clemens-dr-amerikaner,16,3,0.5886721027752843,0.1875
+",64,clemens-dr-amerikaner,16,3,0.5886721027752843,0.1875
 322,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2879,7 +2879,7 @@ Streifer :
 O diss isch in Amerika e Kleinigkeit, well... do leijt ’s Gald uf d'r Stross !
 
         
-",clemens-dr-amerikaner,16,3,0.5980601388695088,0.1875
+",64,clemens-dr-amerikaner,16,3,0.5980601388695088,0.1875
 323,comedy,Matter,M,,,,"
           
 Matter :
@@ -2888,7 +2888,7 @@ Matter :
 Oho! zall gläuwi jetz doch nit !
 
         
-",clemens-dr-amerikaner,7,3,0.5178648824526928,0.42857142857142855
+",64,clemens-dr-amerikaner,7,3,0.5178648824526928,0.42857142857142855
 324,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2904,7 +2904,7 @@ Lüej
  Yes, Mister Snell sagt nur Wahr- heit... tut nix lügen.
 
         
-",clemens-dr-amerikaner,30,4,0.4016341903981802,0.13333333333333333
+",64,clemens-dr-amerikaner,30,4,0.4016341903981802,0.13333333333333333
 325,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2913,7 +2913,7 @@ Streifer :
 Ja, ihr Litt, ihr muen mich recht verstehn.... diss heisst, m'r muess wisse, wie m’rs anfangt. Z’erscht fangt m'r an als Schuehputzer...
 
         
-",clemens-dr-amerikaner,24,3,0.6236931000908695,0.125
+",65,clemens-dr-amerikaner,24,3,0.6236931000908695,0.125
 327,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2922,7 +2922,7 @@ Streifer :
 Awer diss isch mir ze dumm worre... Felix, haw-ich gedenkt, jetz duesch eb’s erfinde...
 
         
-",clemens-dr-amerikaner,16,2,0.3747274848422053,0.125
+",65,clemens-dr-amerikaner,16,2,0.3747274848422053,0.125
 329,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2931,7 +2931,7 @@ Streifer :
 Ei, diss bin doch ich !
 
         
-",clemens-dr-amerikaner,6,1,0.4990091704648731,0.16666666666666666
+",65,clemens-dr-amerikaner,6,1,0.4990091704648731,0.16666666666666666
 330,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -2943,7 +2943,7 @@ Klüwer :
 Verbabbel dich doch nit !
 
         
-",clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
+",66,clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
 331,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2954,7 +2954,7 @@ Ich hab welle sauwe „Antoine“, yes An- toine. No haw ich mich so anne g’st
  un hab simuliert un als simuliert... Groshanns : Was wohr isch... as derf äner kenn Simpel sinn in Amerika...
 
         
-",clemens-dr-amerikaner,48,3,0.5339576810705522,0.0625
+",66,clemens-dr-amerikaner,48,3,0.5339576810705522,0.0625
 332,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -2963,7 +2963,7 @@ Schierejerry :
 Ju, ju...ich war schun nix füer nüewer.
 
         
-",clemens-dr-amerikaner,9,2,0.731982479119855,0.2222222222222222
+",66,clemens-dr-amerikaner,9,2,0.731982479119855,0.2222222222222222
 333,comedy,Matter,M,,,,"
           
 Maire:
@@ -2977,7 +2977,7 @@ Halte-la! Was sieh ich? ....
  Antoine, exküsier ass ich so vergasslich bin... awer s’isch d’Fräid ..... kumm zeij dich doch üss un mach dr’s bequam. Zeij d'r Bardessü üss un d' Schuehj... D’r Aloys sell e paar Schlappe lange vun mir.
 
         
-",clemens-dr-amerikaner,53,9,0.4894676777944085,0.16981132075471697
+",66,clemens-dr-amerikaner,53,9,0.4894676777944085,0.16981132075471697
 334,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -2991,7 +2991,7 @@ Ich hab jokenn Strümpf an!...
  No, no... as isch nit notwendich....
 
         
-",clemens-dr-amerikaner,22,3,0.47555697830552757,0.13636363636363635
+",66,clemens-dr-amerikaner,22,3,0.47555697830552757,0.13636363636363635
 335,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3001,7 +3001,7 @@ Nix ze mache ! — Aloys hol d' Schlappe... un d'r Bardessü üssgezöije!...
 (Zwei Bauern wollen Streifer auf den Stuhl niederdrücken und den Über- zieher ausziehen.)
 
         
-",clemens-dr-amerikaner,29,4,0.3334691621521959,0.13793103448275862
+",67,clemens-dr-amerikaner,29,4,0.3334691621521959,0.13793103448275862
 336,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3015,7 +3015,7 @@ Wö!!
 .
 
         
-",clemens-dr-amerikaner,16,3,0.223330097127174,0.1875
+",67,clemens-dr-amerikaner,16,3,0.223330097127174,0.1875
 337,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3024,7 +3024,7 @@ Streifer :
 Ihr muen mir’s nit in Üwel ufnehme ..... awer ich bin’s nit andersch gewohnt. In Amerika zejt m'r nix üss, m'r lejt sogar mit d'r Schuehj un mit'm Bardessü in’s Bett.
 
         
-",clemens-dr-amerikaner,35,2,0.5762166923887155,0.05714285714285714
+",67,clemens-dr-amerikaner,35,2,0.5762166923887155,0.05714285714285714
 338,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -3038,7 +3038,7 @@ Diss isch echt amerikanisch.
 .
 
         
-",clemens-dr-amerikaner,17,3,0.6142567398480271,0.17647058823529413
+",67,clemens-dr-amerikaner,17,3,0.6142567398480271,0.17647058823529413
 339,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3047,7 +3047,7 @@ Streifer :
 Was isch diss?... Müsik ? !
 
         
-",clemens-dr-amerikaner,5,2,0.6609997875991659,0.4
+",67,clemens-dr-amerikaner,5,2,0.6609997875991659,0.4
 340,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3057,7 +3057,7 @@ O Musik ! — Wambo sein grosse Freund vun die grosse Bum-bum-bum !
 (markiert die grosse Trommel.)
 
         
-",clemens-dr-amerikaner,18,3,0.7403597704778176,0.16666666666666666
+",68,clemens-dr-amerikaner,18,3,0.7403597704778176,0.16666666666666666
 341,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -3068,7 +3068,7 @@ Aloys :
 (Die Musik ist ganz nahe, die Bauern stehen auf und gehen gegen die Türe links.)
 
         
-",clemens-dr-amerikaner,30,4,0.6150454130121364,0.13333333333333333
+",68,clemens-dr-amerikaner,30,4,0.6150454130121364,0.13333333333333333
 342,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3077,7 +3077,7 @@ Klüwer :
 Jetz wäre m'r doch Ruehj hann
 
         
-",clemens-dr-amerikaner,7,1,0.7075237506409877,0.14285714285714285
+",68,clemens-dr-amerikaner,7,1,0.7075237506409877,0.14285714285714285
 343,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3086,7 +3086,7 @@ Streifer :
 Jo, ich hab ebs zamme lüeje müen !
 
         
-",clemens-dr-amerikaner,8,2,0.6584883462368556,0.25
+",68,clemens-dr-amerikaner,8,2,0.6584883462368556,0.25
 344,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3099,7 +3099,7 @@ kumme ering ihr Burscht un trinke äins!
 (Maire und Bauern gehen zurück an ihre Plätze.)
 
         
-",clemens-dr-amerikaner,24,1,0.5077636222456227,0.041666666666666664
+",68,clemens-dr-amerikaner,24,1,0.5077636222456227,0.041666666666666664
 345,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Die Conskrits :
@@ -3111,7 +3111,7 @@ Die Conskrits :
 Vornher der Tambour- major, dann 4 Mann Musik, d'r Fähnrich mit der Fahne rot-weiss. Es folgen 6 bis 8 Burschen in der angegebenen Kleidung, sie sind sehr lustig, singen und jauchzen. Die Musik spielt fort, bis der Tam- bourmajor kommandiert „Halt“. Alsdann tritt Michel als Tambourmajor vor und kommandiert die Cons- krits.
 
         
-",clemens-dr-amerikaner,63,10,0.6035772338554362,0.15873015873015872
+",69,clemens-dr-amerikaner,63,10,0.6035772338554362,0.15873015873015872
 346,comedy,"Michel, Tambourmajor",M,,,,"
           
 Michel :
@@ -3124,7 +3124,7 @@ Achtung ! Richt euch, ihr Krummstiefel !
  Un Harr Maire, mir hatte gäre Parmission füer hitt Owe bis am zwöelfe... m'r welle üns e bissel amesiere...
 
         
-",clemens-dr-amerikaner,52,11,0.6071864288130185,0.21153846153846154
+",69,clemens-dr-amerikaner,52,11,0.6071864288130185,0.21153846153846154
 347,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3133,7 +3133,7 @@ Maire :
 Diss selle-nr hann... awer anstandi un nit uf d'r Stross erumbrüele un händle, Sohler : Was hann sie denn au mit eijch gemacht, ihr Militäranwärter ?
 
         
-",clemens-dr-amerikaner,25,3,0.5054348341468731,0.12
+",69,clemens-dr-amerikaner,25,3,0.5054348341468731,0.12
 348,comedy,Gabriel,M,,,,"
           
 Gabriel :
@@ -3145,7 +3145,7 @@ Gabriel :
 Ich bin frej! Ich war nit zue de Soldate, ehnder frass ich Duehledeckel ! Andres: Dich kenne se jo nit brüche, Krüttstorze... awer mich! Ich kumm zue de Wassersoldate uf’s Schiff...
 
         
-",clemens-dr-amerikaner,37,6,0.5528861216468667,0.16216216216216217
+",69,clemens-dr-amerikaner,37,6,0.5528861216468667,0.16216216216216217
 349,comedy,Gabriel,M,,,,"
           
 Gabriel:
@@ -3155,7 +3155,7 @@ Dü hesch jo Angscht vor'm Wasser !
 (Ge- lächter.)
 
         
-",clemens-dr-amerikaner,13,1,0.2166713824235038,0.07692307692307693
+",69,clemens-dr-amerikaner,13,1,0.2166713824235038,0.07692307692307693
 350,comedy,Schambediss,M,,,,"
           
 Schambediss :
@@ -3165,7 +3165,7 @@ Ich kumm zue de Ritter unter d' Ross... d’Juchhuu !
 (tanzt herum, die andern halten ihn dann.)
 
         
-",clemens-dr-amerikaner,20,2,0.4435700900151084,0.1
+",70,clemens-dr-amerikaner,20,2,0.4435700900151084,0.1
 351,comedy,Christian,M,,,,"
           
 Chrischtian :
@@ -3174,7 +3174,7 @@ Chrischtian :
 Vatter loss mich wüete... Müeder, lang m'r d'r Millichhafe, ich verläch !!
 
         
-",clemens-dr-amerikaner,12,7,0.5191844075763452,0.5833333333333334
+",70,clemens-dr-amerikaner,12,7,0.5191844075763452,0.5833333333333334
 352,comedy,Matter,M,,,,"
           
 Matter:
@@ -3183,7 +3183,7 @@ Matter:
 As schad eich nix, wann se ejch ejeri stiffi Knoche e bissel glichi macha.
 
         
-",clemens-dr-amerikaner,15,2,0.2488049784593701,0.13333333333333333
+",70,clemens-dr-amerikaner,15,2,0.2488049784593701,0.13333333333333333
 353,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Die Conskrits:
@@ -3195,7 +3195,7 @@ Die Conskrits:
 Mir hann kenn Angscht, mir ferchte üns nit !!...
 
         
-",clemens-dr-amerikaner,14,2,0.20103191496659184,0.14285714285714285
+",70,clemens-dr-amerikaner,14,2,0.20103191496659184,0.14285714285714285
 354,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3207,7 +3207,7 @@ Klüwer :
 bemerkten, springt in die Höhe) Wö!...
 
         
-",clemens-dr-amerikaner,21,2,0.6140037491313752,0.09523809523809523
+",70,clemens-dr-amerikaner,21,2,0.6140037491313752,0.09523809523809523
 355,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Die Conskrits :
@@ -3221,7 +3221,7 @@ Harrjeh !! D’r Teifel !
 .
 
         
-",clemens-dr-amerikaner,13,2,0.13973736231135356,0.15384615384615385
+",71,clemens-dr-amerikaner,13,2,0.13973736231135356,0.15384615384615385
 356,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3233,7 +3233,7 @@ Maire :
 Ich hab gemäint, ihr ferchte eijch vor nix ?
 
         
-",clemens-dr-amerikaner,12,2,0.46769622375483993,0.16666666666666666
+",71,clemens-dr-amerikaner,12,2,0.46769622375483993,0.16666666666666666
 359,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Die Conskrits :
@@ -3244,7 +3244,7 @@ A-n-Amerikaner ?
  Bonjour Herr Amerikaner ! G’sündhäit ! Alle Gebott santé.
 
         
-",clemens-dr-amerikaner,16,3,0.670906040770148,0.1875
+",71,clemens-dr-amerikaner,16,3,0.670906040770148,0.1875
 360,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -3253,7 +3253,7 @@ Schierejerry :
 Zäije jetzt stille e weng... Ar sell eijch emol ebs vun Amerika verzehle... do spanne-nr !...
 
         
-",clemens-dr-amerikaner,16,1,0.5843859837527715,0.0625
+",72,clemens-dr-amerikaner,16,1,0.5843859837527715,0.0625
 361,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3267,7 +3267,7 @@ E Nuntebuckel, ’s geht schun wieder los.
  No, no, e-n-andermol... es isch ze langwillich, yes!...
 
         
-",clemens-dr-amerikaner,26,4,0.5757940191161345,0.15384615384615385
+",72,clemens-dr-amerikaner,26,4,0.5757940191161345,0.15384615384615385
 363,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3276,7 +3276,7 @@ Streifer :
 No...awer d'r Wambo, der soll ebs los lonn...
 
         
-",clemens-dr-amerikaner,10,3,0.5497116720516375,0.3
+",72,clemens-dr-amerikaner,10,3,0.5497116720516375,0.3
 364,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -3285,7 +3285,7 @@ Alle :
 Ja, erscht noch... ar sell äiner los lonn !
 
         
-",clemens-dr-amerikaner,9,3,0.6273694416032981,0.3333333333333333
+",72,clemens-dr-amerikaner,9,3,0.6273694416032981,0.3333333333333333
 365,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3294,7 +3294,7 @@ Maire :
 Alleh, Wambo... bekummsch äuch noch ein Stüeckel Küchen. Streifer : Wambo... tanz emol e Niggertanz !
 
         
-",clemens-dr-amerikaner,15,2,0.6723357150921289,0.13333333333333333
+",73,clemens-dr-amerikaner,15,2,0.6723357150921289,0.13333333333333333
 366,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3311,7 +3311,7 @@ Wenn’r numme d' Kränk bekämte !
 (Die Musik spielt einen Polka in schnellem Tempo, Klüwer tanzt nach Negerart, singt dazu einen belie- bigen Text, ungefähr so: Hei-ho günne hei, ho-ho tschinkel, tschankel, tschunkel hei, usw.)
 
         
-",clemens-dr-amerikaner,79,12,0.6679719754418314,0.1518987341772152
+",73,clemens-dr-amerikaner,79,12,0.6679719754418314,0.1518987341772152
 367,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Die Conskrits :
@@ -3322,7 +3322,7 @@ Die Conskrits :
  
 
         
-",clemens-dr-amerikaner,21,1,0.8650000000000001,0.047619047619047616
+",73,clemens-dr-amerikaner,21,1,0.8650000000000001,0.047619047619047616
 369,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3333,7 +3333,7 @@ Klüwer :
  
 
         
-",clemens-dr-amerikaner,17,4,0.4988220103865465,0.23529411764705882
+",73,clemens-dr-amerikaner,17,4,0.4988220103865465,0.23529411764705882
 370,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3345,7 +3345,7 @@ Streifer :
 D’r Schandarm ?! . Kommt der do here ?
 
         
-",clemens-dr-amerikaner,10,3,0.42944323000074025,0.3
+",74,clemens-dr-amerikaner,10,3,0.42944323000074025,0.3
 372,comedy,Matter,M,,,,"
           
 Matter :
@@ -3357,7 +3357,7 @@ Matter :
 Hett dann dar so Angscht vor de Schandarme ?
 
         
-",clemens-dr-amerikaner,13,4,0.39107696154039007,0.3076923076923077
+",74,clemens-dr-amerikaner,13,4,0.39107696154039007,0.3076923076923077
 373,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3371,7 +3371,7 @@ Kenn Wunder !
  D’ Neger hann alli so Angscht vor d'r Polizei, yes !
 
         
-",clemens-dr-amerikaner,19,4,0.5737642822962999,0.21052631578947367
+",74,clemens-dr-amerikaner,19,4,0.5737642822962999,0.21052631578947367
 374,comedy,Gabriel,M,,,,"
           
 Gabriel :
@@ -3382,7 +3382,7 @@ Ah, was fröje mir noch’m Schandarm, mir sinn hitt Conskrits!
  Und wenn Reserve Rühe hat usw.
 
         
-",clemens-dr-amerikaner,21,2,0.6124556969790957,0.09523809523809523
+",74,clemens-dr-amerikaner,21,2,0.6124556969790957,0.09523809523809523
 375,comedy,Schambediss,M,,,,"
           
 Schambediss :
@@ -3398,7 +3398,7 @@ Dü hesch üewer- häupt kenn Reservelieder ze singe, dü Staats- krüeppel!... 
  Bravo !!
 
         
-",clemens-dr-amerikaner,92,19,0.7060260815115179,0.20652173913043478
+",75,clemens-dr-amerikaner,92,19,0.7060260815115179,0.20652173913043478
 376,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3407,7 +3407,7 @@ Sohler :
 Wieder e Grund zum trinke, Gsündhäit ! ! Schön ist die Jugend, sie kommt nicht mehr...
 
         
-",clemens-dr-amerikaner,15,3,0.8784770738709913,0.2
+",75,clemens-dr-amerikaner,15,3,0.8784770738709913,0.2
 377,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -3419,7 +3419,7 @@ Alle:
 G’sündhäit ! D’r Elsässer Win soll läwe !!!
 
         
-",clemens-dr-amerikaner,11,3,0.7409242888715181,0.2727272727272727
+",75,clemens-dr-amerikaner,11,3,0.7409242888715181,0.2727272727272727
 379,comedy,Bauern,U,,,,"
           
 Bauern :
@@ -3430,7 +3430,7 @@ Schun die Zitt ?
  Ja, ze welle-m’r.
 
         
-",clemens-dr-amerikaner,10,2,0.6412795315601678,0.2
+",75,clemens-dr-amerikaner,10,2,0.6412795315601678,0.2
 380,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -3439,7 +3439,7 @@ Schollesepp :
 Antoine, am Zieschti duesch bie mir Zmiddäuj asse, as gitt Sürkrütt un Spack vun dare Söij vun 240 Pfünd !
 
         
-",clemens-dr-amerikaner,20,2,0.4952977712926917,0.1
+",76,clemens-dr-amerikaner,20,2,0.4952977712926917,0.1
 381,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3448,7 +3448,7 @@ Streifer :
 Yes... angenumme, ich komm.
 
         
-",clemens-dr-amerikaner,5,2,0.5033863963552478,0.4
+",76,clemens-dr-amerikaner,5,2,0.5033863963552478,0.4
 382,comedy,"Michel, Tambourmajor",M,,,,"
           
 Michel:
@@ -3458,7 +3458,7 @@ Alleh, ihr Conskrits... a Station wittersch, mir hann noch viel ze läischte hit
 (gibt ihm die Hand.)
 
         
-",clemens-dr-amerikaner,26,4,0.5667364823699234,0.15384615384615385
+",76,clemens-dr-amerikaner,26,4,0.5667364823699234,0.15384615384615385
 383,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3467,7 +3467,7 @@ Streifer :
 Noch e Wort, ihr Herre!... Ihr Conskrits kenne denne Owe in ejere Wirtschaft, wo ihr bienand sinn, trinke, soviel ihr welle, saue nur, d'r „Ameri- kaner“ bezahlt’s !
 
         
-",clemens-dr-amerikaner,32,4,0.5665495321766051,0.125
+",76,clemens-dr-amerikaner,32,4,0.5665495321766051,0.125
 385,comedy,"Michel, Tambourmajor",M,,,,"
           
 Michel:
@@ -3476,7 +3476,7 @@ Michel:
 Vielmols merci... un ich lad eijch inn, äu e bissel ze kumme.
 
         
-",clemens-dr-amerikaner,13,1,0.5077636222456227,0.07692307692307693
+",77,clemens-dr-amerikaner,13,1,0.5077636222456227,0.07692307692307693
 386,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3485,7 +3485,7 @@ Streifer :
 No... ich bin ze müed vun d'r Reis, yes. Un uf morje Sundaamidda sinn ihr alli Burjer vun hie ingelade, noch d'r Vesper, saue m'r um 4 Ühr, do bim Herr Maire im Hoft ’s Wiedersehn ze fiere... Alli solle kumme, ich zahl alles ...nix as Win vum Aller- beschte !
 
         
-",clemens-dr-amerikaner,52,11,0.5396990313718629,0.21153846153846154
+",77,clemens-dr-amerikaner,52,11,0.5396990313718629,0.21153846153846154
 387,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3501,7 +3501,7 @@ Vorhang fällt rasch.
 .
 
         
-",clemens-dr-amerikaner,21,5,0.6460840663263325,0.23809523809523808
+",77,clemens-dr-amerikaner,21,5,0.6460840663263325,0.23809523809523808
 388,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -3513,7 +3513,7 @@ Aloys :
 Diss hesch grossarti ge- macht, Aloys... Ja... wann d'r Aloys ebs im Kopf hett, ze hett’rs nit im grosse Zeh... wie zaller g’säit hett. Hoffetli gitts do äu e schöens Trinkgald vum Amerikaner .....
 
         
-",clemens-dr-amerikaner,40,3,0.7787735309783678,0.075
+",77,clemens-dr-amerikaner,40,3,0.7787735309783678,0.075
 389,comedy,Otto Klüwer,M,,,,"
           
 Streifer und Klüwer :
@@ -3523,7 +3523,7 @@ Streifer und Klüwer :
 .
 
         
-",clemens-dr-amerikaner,18,1,0.4990091704648731,0.05555555555555555
+",77,clemens-dr-amerikaner,18,1,0.4990091704648731,0.05555555555555555
 390,comedy,Felix Streifer,M,,,,"
           
 Streifer:
@@ -3535,7 +3535,7 @@ Streifer:
 Ach, Aloys, bravo!... grossartig hann’r geziert, yes !
 
         
-",clemens-dr-amerikaner,13,2,0.7097745123825555,0.15384615384615385
+",78,clemens-dr-amerikaner,13,2,0.7097745123825555,0.15384615384615385
 391,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -3544,7 +3544,7 @@ Aloys :
 Galle, ich hab ebs los ! — — Hein, Wambo, do stellsch dini Salzbüechsle ?
 
         
-",clemens-dr-amerikaner,14,1,0.8723081568973007,0.07142857142857142
+",78,clemens-dr-amerikaner,14,1,0.8723081568973007,0.07142857142857142
 392,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3558,7 +3558,7 @@ Oh, wie schöen ! Wambo ist ganz meschügge... wülle, wülle, gei ! Streifer : 
 .
 
         
-",clemens-dr-amerikaner,31,6,0.5213698432995586,0.1935483870967742
+",78,clemens-dr-amerikaner,31,6,0.5213698432995586,0.1935483870967742
 393,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -3572,7 +3572,7 @@ Näin, näin, as isch nit un- neti... ich hab welle säue... as isch nit neti.
  As isch als wieder diss, wann’s d’häim isch, wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,45,4,0.45628174247356423,0.08888888888888889
+",78,clemens-dr-amerikaner,45,4,0.45628174247356423,0.08888888888888889
 394,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3584,7 +3584,7 @@ Maire :
 Ah... ihr sinn schun im Hoft !... Was isch, Aloys, sinn d’Fässle am Platz, d' Gläser gerischt, fahlt nix ? !
 
         
-",clemens-dr-amerikaner,30,3,0.5127719785292807,0.1
+",78,clemens-dr-amerikaner,30,3,0.5127719785292807,0.1
 395,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -3593,7 +3593,7 @@ Aloys :
 Alles im Gleis... wie zaller g’säit hett.
 
         
-",clemens-dr-amerikaner,8,1,0.47,0.125
+",79,clemens-dr-amerikaner,8,1,0.47,0.125
 396,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3606,7 +3606,7 @@ Sie müen glich kumme... 's isch vier Uhr... wann se kumme, ruefe-nr !...
 .
 
         
-",clemens-dr-amerikaner,41,5,0.5715972127108409,0.12195121951219512
+",79,clemens-dr-amerikaner,41,5,0.5715972127108409,0.12195121951219512
 397,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3618,7 +3618,7 @@ Streifer :
 Ich hab kenn Ruehj meh, mir müen los soball wie mejlich.
 
         
-",clemens-dr-amerikaner,21,4,0.5789602695007904,0.19047619047619047
+",79,clemens-dr-amerikaner,21,4,0.5789602695007904,0.19047619047619047
 398,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3627,7 +3627,7 @@ Klüwer :
 Ja, ja... wenn m'r nurre im Maire sinn Geld schun hätte...
 
         
-",clemens-dr-amerikaner,12,3,0.7046506108820833,0.25
+",79,clemens-dr-amerikaner,12,3,0.7046506108820833,0.25
 399,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3636,7 +3636,7 @@ Streifer :
 Diss krieje m'r schun... ich hab's schlöij in- g’fädelt... füer diss haw-ich sie jo ingelade, denne Nochmidda do here ze kumme, dass sie do bienand hucke un süffe, no kenne mir unscheniert an’s Werik.
 
         
-",clemens-dr-amerikaner,38,5,0.5941736117604766,0.13157894736842105
+",79,clemens-dr-amerikaner,38,5,0.5941736117604766,0.13157894736842105
 400,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3645,7 +3645,7 @@ Klüwer :
 Awer wie’s anstelle, ― m'r vun ’ne eweg kumme, ohne dass’s uffallt ?
 
         
-",clemens-dr-amerikaner,15,1,0.5077636222456227,0.06666666666666667
+",80,clemens-dr-amerikaner,15,1,0.5077636222456227,0.06666666666666667
 401,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3654,7 +3654,7 @@ Streifer :
 Bass uf ! — Wenn jetz alli im schöenste Amü- sement sinn, no mach ich, ― wie wenn’s mir ohn- mächti dät wäre... Dü helf’sch mir no in’s Zimmer. D’r Herr Maire wurd au noch kumme, awwer denne schicke m'r nüss, er soll ne saue, dass’s nit schlimm isch... sie solle sich nit stöere lonn un solle nur wittersch trinke... es isch m'r ebs uf'm Mauje leje gebliewe.
 
         
-",clemens-dr-amerikaner,74,10,0.46335647170953864,0.13513513513513514
+",80,clemens-dr-amerikaner,74,10,0.46335647170953864,0.13513513513513514
 403,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3663,7 +3663,7 @@ Streifer :
 Diss will ich jo hann, diss bezweck ich jo!... Mir kenne no im Maire sinn Geld stehle, Do haw-ich d'r Schlüessel füer de Sekretär. No nemme m'r d' Kleider vum Maire, gehn hinte zuem Fenschter nüss, schliche in d' Schier, verkleide uns als Büre, dü mach’sch dich wieder wiss... un no gehn m'r durch de Wald un verdufte....
 
         
-",clemens-dr-amerikaner,59,5,0.39455223591106126,0.0847457627118644
+",80,clemens-dr-amerikaner,59,5,0.39455223591106126,0.0847457627118644
 404,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3675,7 +3675,7 @@ Dü bisch doch e Satan !... Mansch, wenn no d'r richtig „Amerikaner“ kummt, 
 (Man hört Musik.)
 
         
-",clemens-dr-amerikaner,29,6,0.7053155602336938,0.20689655172413793
+",80,clemens-dr-amerikaner,29,6,0.7053155602336938,0.20689655172413793
 405,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -3690,7 +3690,7 @@ Sie kumme, sie kumme ! Maire :
 (Die Musik ist ganz nahe. Streifer stellt sich auf die Treppe und nimmt eine imposante Stellung ein, Maire und Wambo rechts und links von ihm. Die Musik kommt auf die Bühne, vorn her Aloys mit dem Besen, hinter der Musik die Turner, dann die Gemeinderatsherren, Bau- ern und Burschen, zum Schluss der Polizist. Die Ge- meinderatsherren nehmen Platz am Tisch vorn rechts. Die Turner marschieren vor und salutieren Front gegen Streifer und gehen dann etwas zurück an die Tische. Die andern Bauern und Burschen nehmen Platz an den hinteren Tischen. Aloys serviert sofort Wein. Während des ganzen Auftritts wird sich laut unterhalten, die Musik spielt fort bis Sohler auf einen Stuhl steigt und um Ruhe bittet.)
 
         
-",clemens-dr-amerikaner,139,15,0.6488813408282849,0.1079136690647482
+",81,clemens-dr-amerikaner,139,15,0.6488813408282849,0.1079136690647482
 406,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3701,7 +3701,7 @@ Silencium !!
 .
 
         
-",clemens-dr-amerikaner,7,2,0.3625969231030597,0.2857142857142857
+",81,clemens-dr-amerikaner,7,2,0.3625969231030597,0.2857142857142857
 407,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -3711,7 +3711,7 @@ Rühe!... Der Schuhmacher ..... äh.. der Herr Sohler will eine Rede reden.
 (will hochdeutsch sprechen.)
 
         
-",clemens-dr-amerikaner,17,3,0.5915486162611766,0.17647058823529413
+",81,clemens-dr-amerikaner,17,3,0.5915486162611766,0.17647058823529413
 408,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3725,7 +3725,7 @@ mehr weitersprechen kann.)Hochverehrter Herr Schnell !...
  Halt’s Müll!... Im Name vun d'r Burjerschaft vun Owermatte heiss ich Sie herzlich willkumme... willkumme in d'r Heimet, im schöene Elsass, wo Sie vor 30 Johr de Buckel gedrehjt hann. Mit freidigem Herze danke mir Ihne vor Ihri gross Opferwilligkeit, uns ’s elektrisch Licht üss ihrem Sack ze bezahle...
 
         
-",clemens-dr-amerikaner,82,15,0.6707678917698895,0.18292682926829268
+",81,clemens-dr-amerikaner,82,15,0.6707678917698895,0.18292682926829268
 409,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -3734,7 +3734,7 @@ Schollesepp :
 Gsündhäit !!
 
         
-",clemens-dr-amerikaner,2,1,0.935,0.5
+",81,clemens-dr-amerikaner,2,1,0.935,0.5
 410,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -3743,7 +3743,7 @@ Alle :
 Pscht! Stille ! Schollesepp : Ach, ich hab gemäint, ar isch ferti !
 
         
-",clemens-dr-amerikaner,11,1,0.5843859837527715,0.09090909090909091
+",82,clemens-dr-amerikaner,11,1,0.5843859837527715,0.09090909090909091
 411,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3754,7 +3754,7 @@ Ja — un so — ja — un — enfin
  mehr weiter).
 
         
-",clemens-dr-amerikaner,18,2,0.731982479119855,0.1111111111111111
+",82,clemens-dr-amerikaner,18,2,0.731982479119855,0.1111111111111111
 412,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -3763,7 +3763,7 @@ Schierejerry :
 Schad... jetzt stackt’r !
 
         
-",clemens-dr-amerikaner,4,1,0.1573031831829046,0.25
+",82,clemens-dr-amerikaner,4,1,0.1573031831829046,0.25
 413,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -3772,7 +3772,7 @@ Polizist:
 Rühe !
 
         
-",clemens-dr-amerikaner,2,2,0.5979684484689793,1.0
+",82,clemens-dr-amerikaner,2,2,0.5979684484689793,1.0
 414,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3784,7 +3784,7 @@ Sohler :
 Ich hab's... Jawohl... ich will nit wittersch rede, awer diss kann ich saue, dass e jeder Burjer vun hie mit Dank, Stolz und Ach- tung Ihre Name nenne wurd... jawohl... un mit goldene Buchstawe wurd d'r Name „Schnell“ in d'r Chronique vun Owermatte stehn....
 
         
-",clemens-dr-amerikaner,54,4,0.60432203725865,0.07407407407407407
+",82,clemens-dr-amerikaner,54,4,0.60432203725865,0.07407407407407407
 416,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -3800,7 +3800,7 @@ Warte doch, ich bin glich fertig !...
  Halte, ich bin lätz !... Also, noch emol : „D'r Herr Schnell, unser Wohltäter : Hoch, hoch, hoch ! ! !“
 
         
-",clemens-dr-amerikaner,75,16,0.5792946044104763,0.21333333333333335
+",83,clemens-dr-amerikaner,75,16,0.5792946044104763,0.21333333333333335
 417,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -3814,7 +3814,7 @@ Hoch!
 .
 
         
-",clemens-dr-amerikaner,9,2,0.6673644400595975,0.2222222222222222
+",83,clemens-dr-amerikaner,9,2,0.6673644400595975,0.2222222222222222
 418,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3828,7 +3828,7 @@ Merci, Mister Sohler, füer die schöene Wort... sehr guet g’sproche.... kumme
 .
 
         
-",clemens-dr-amerikaner,34,7,0.5780053108148567,0.20588235294117646
+",83,clemens-dr-amerikaner,34,7,0.5780053108148567,0.20588235294117646
 419,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3843,7 +3843,7 @@ Oh, haben so schön gesprochen, Wambo haben nix verstanden — oh war so schön,
 (Gelächter.)
 
         
-",clemens-dr-amerikaner,43,8,0.8249253382685172,0.18604651162790697
+",83,clemens-dr-amerikaner,43,8,0.8249253382685172,0.18604651162790697
 421,comedy,Andres,M,,,,"
           
 Andres :
@@ -3855,7 +3855,7 @@ Andres :
 Jo wajer ! Ar isch ganz wiss hinger de Ohre !
 
         
-",clemens-dr-amerikaner,14,2,0.6527720124182501,0.14285714285714285
+",84,clemens-dr-amerikaner,14,2,0.6527720124182501,0.14285714285714285
 422,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3867,7 +3867,7 @@ Klüwer :
 Oh, oh, armes Nigger kriegen weisse Ohren !
 
         
-",clemens-dr-amerikaner,19,2,0.2944080105199688,0.10526315789473684
+",84,clemens-dr-amerikaner,19,2,0.2944080105199688,0.10526315789473684
 423,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3883,7 +3883,7 @@ Zaij emol!... yes... ganz wiss.
  Diss isch die Luft do im Elsass, die macht d' Neger wieder wiss !
 
         
-",clemens-dr-amerikaner,55,9,0.616010901653617,0.16363636363636364
+",84,clemens-dr-amerikaner,55,9,0.616010901653617,0.16363636363636364
 424,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3892,7 +3892,7 @@ Klüwer :
 Oh, arme Nigger kriegen weisse Ohren !? Will wieder fort zu meine gute Mamaa !
 
         
-",clemens-dr-amerikaner,14,3,0.796045936073011,0.21428571428571427
+",84,clemens-dr-amerikaner,14,3,0.796045936073011,0.21428571428571427
 425,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -3908,7 +3908,7 @@ Streifer :
 .
 
         
-",clemens-dr-amerikaner,88,13,0.6129697867599785,0.14772727272727273
+",85,clemens-dr-amerikaner,88,13,0.6129697867599785,0.14772727272727273
 426,comedy,Otto Klüwer,M,,,,"
           
 Klüwer :
@@ -3917,7 +3917,7 @@ Klüwer :
 Oh, meine gute Herr ist tot!... Oh, oh, oh!
 
         
-",clemens-dr-amerikaner,10,3,0.7152688512423283,0.3
+",85,clemens-dr-amerikaner,10,3,0.7152688512423283,0.3
 427,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -3927,7 +3927,7 @@ Halfe, Wambo, Aloys halfe äu, schnall mit’m in d' Stubb...
 (Maire, Klüwer und Aloys führen Streifer in die Stube.)
 
         
-",clemens-dr-amerikaner,23,5,0.6785881590053002,0.21739130434782608
+",85,clemens-dr-amerikaner,23,5,0.6785881590053002,0.21739130434782608
 428,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -3939,7 +3939,7 @@ Alle:
 Äi, äi, awer, awer...
 
         
-",clemens-dr-amerikaner,10,2,0.3572028728964264,0.2
+",85,clemens-dr-amerikaner,10,2,0.3572028728964264,0.2
 429,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -3948,7 +3948,7 @@ Schierejerry :
 Äi, äi, wann’r nurre nit starwe duet, ju, ju!
 
         
-",clemens-dr-amerikaner,10,2,0.731982479119855,0.2
+",85,clemens-dr-amerikaner,10,2,0.731982479119855,0.2
 430,comedy,Matter,M,,,,"
           
 Matter :
@@ -3957,7 +3957,7 @@ Matter :
 Abah — jo... ar wurd ze viel Marikknepfle gasse hann !
 
         
-",clemens-dr-amerikaner,11,1,0.3403067737358356,0.09090909090909091
+",86,clemens-dr-amerikaner,11,1,0.3403067737358356,0.09090909090909091
 431,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -3966,7 +3966,7 @@ Groshans :
 A güet’s Kirschewässerle, diss küriert'm de Mäuje wieder.
 
         
-",clemens-dr-amerikaner,11,1,0.8496361744517235,0.09090909090909091
+",86,clemens-dr-amerikaner,11,1,0.8496361744517235,0.09090909090909091
 432,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -3975,7 +3975,7 @@ Sürkopf :
 Do kann m'r sahn, was d'r Mansch isch — gar wann’r e blöde Mäuje hett... ich hab’s äu wieder so arrich.... zidder am Middäujasse...
 
         
-",clemens-dr-amerikaner,26,1,0.7331645048290171,0.038461538461538464
+",86,clemens-dr-amerikaner,26,1,0.7331645048290171,0.038461538461538464
 433,comedy,"Michel, Tambourmajor",M,,,,"
           
 Michel:
@@ -3987,7 +3987,7 @@ Michel:
 Ja, was isch jetzt, selle m'r wittersch trinke?! .....
 
         
-",clemens-dr-amerikaner,12,1,0.731982479119855,0.08333333333333333
+",86,clemens-dr-amerikaner,12,1,0.731982479119855,0.08333333333333333
 434,comedy,Gabriel,M,,,,"
           
 Gabriel :
@@ -3996,7 +3996,7 @@ Gabriel :
 As war schad, wann’r starwe dat... ’s Fässel isch noch lang nit laar !
 
         
-",clemens-dr-amerikaner,14,3,0.3352600902135096,0.21428571428571427
+",86,clemens-dr-amerikaner,14,3,0.3352600902135096,0.21428571428571427
 438,comedy,Gabriel,M,,,,"
           
 Gabriel :
@@ -4007,7 +4007,7 @@ Gott-lowe-dank ! Maire
  Ar hett mich un d'r Aloys nüss g’schickt, as isch nit schlimm, ar mäint as isch die Koscht hie. — Ich sell eiich säuje : Mir selle nurre harzhaft wittersch trinke un üns nit stöere lonn. Ar will e Stüendel ruehje, no isch’r wieder hareg’stellt.
 
         
-",clemens-dr-amerikaner,53,5,0.3479071817628351,0.09433962264150944
+",87,clemens-dr-amerikaner,53,5,0.3479071817628351,0.09433962264150944
 439,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist :
@@ -4017,7 +4017,7 @@ Polizist :
 .
 
         
-",clemens-dr-amerikaner,8,1,0.479346022517115,0.125
+",87,clemens-dr-amerikaner,8,1,0.479346022517115,0.125
 440,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -4029,7 +4029,7 @@ Jo — ar kummt dervun wann’r ’s Lawe b’halt, wie zaller g’säit hett!
 (Aloys geht ab.)
 
         
-",clemens-dr-amerikaner,27,1,0.8722145007409952,0.037037037037037035
+",88,clemens-dr-amerikaner,27,1,0.8722145007409952,0.037037037037037035
 441,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -4040,7 +4040,7 @@ Trinke m'r ans uf d' Gsundheit vum Ameri- kaner... G’sundheit!... Luschti well
 .
 
         
-",clemens-dr-amerikaner,28,6,0.7816996310276391,0.21428571428571427
+",88,clemens-dr-amerikaner,28,6,0.7816996310276391,0.21428571428571427
 442,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -4053,7 +4053,7 @@ Zu Lauterbach hab ich mein’n Strumpf verlor'n Und ohne Strumpf geh ich net hei
 (Man hört Schellengeläute eines Fuhrwerkes, welches vor dem Hofe anhält ; nachdem Antoine ein- getreten ist, hört man es wieder abfahren.)
 
         
-",clemens-dr-amerikaner,68,9,0.5196622720958284,0.1323529411764706
+",88,clemens-dr-amerikaner,68,9,0.5196622720958284,0.1323529411764706
 443,comedy,Antoine Schnell,M,,,,"
           
 Antoine Schnell :
@@ -4069,7 +4069,7 @@ Gott sei dank, ass ich endlich do bin !...
 .
 
         
-",clemens-dr-amerikaner,53,11,0.6564433902960253,0.20754716981132076
+",88,clemens-dr-amerikaner,53,11,0.6564433902960253,0.20754716981132076
 445,comedy,Matter,M,,,,"
           
 Matter :
@@ -4081,7 +4081,7 @@ Matter :
 Was will dar do ? Wie dar gückt !
 
         
-",clemens-dr-amerikaner,11,2,0.3195165519886147,0.18181818181818182
+",89,clemens-dr-amerikaner,11,2,0.3195165519886147,0.18181818181818182
 446,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4093,7 +4093,7 @@ Doch ich kenn ’ne noch...
 (alles neugierig.)
 
         
-",clemens-dr-amerikaner,19,1,0.635,0.05263157894736842
+",89,clemens-dr-amerikaner,19,1,0.635,0.05263157894736842
 447,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4102,7 +4102,7 @@ Maire :
 Dar bin ich !... Awer ich wisst mich nit ze-n- erinnere, wie ich mit ihne schun Söij g’hüet sott hann ?
 
         
-",clemens-dr-amerikaner,21,1,0.4205955425853835,0.047619047619047616
+",89,clemens-dr-amerikaner,21,1,0.4205955425853835,0.047619047619047616
 448,comedy,Antoine Schnell,M,,,,"
           
 Antoine:
@@ -4114,7 +4114,7 @@ Antoine:
 Er kennt mich nimmi.. Kennsch glauwi d'r Antoine nimm ?
 
         
-",clemens-dr-amerikaner,13,2,0.8056193043496985,0.15384615384615385
+",89,clemens-dr-amerikaner,13,2,0.8056193043496985,0.15384615384615385
 449,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4123,7 +4123,7 @@ Maire :
 Doch denne kenn ich... awer ihr schiene m'r e Schwindler ze sinn !
 
         
-",clemens-dr-amerikaner,13,2,0.5353110889808155,0.15384615384615385
+",89,clemens-dr-amerikaner,13,2,0.5353110889808155,0.15384615384615385
 450,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Einige :
@@ -4137,7 +4137,7 @@ Nüss mit'm ! Antoine : Do isch ebs nit recht !... Schakob, ich bin doch d'r Ant
 .
 
         
-",clemens-dr-amerikaner,27,2,0.7676825415417423,0.07407407407407407
+",90,clemens-dr-amerikaner,27,2,0.7676825415417423,0.07407407407407407
 451,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4146,7 +4146,7 @@ Maire :
 Jetzt risst m'r awer d'r Geduldsfade... Ihr welle d'r Antoine sinn ? !... D’r Antoine isch schun zitter gescht morje do — grad fiere m'r ’s Wiedersahn un ar bezahlt alles!...
 
         
-",clemens-dr-amerikaner,30,3,0.5701507667033078,0.1
+",90,clemens-dr-amerikaner,30,3,0.5701507667033078,0.1
 452,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4155,7 +4155,7 @@ Antoine :
 Jetz geht mir e Licht uf ! Ach, do isch der Spitzbue, der.....
 
         
-",clemens-dr-amerikaner,13,2,0.6990115198633104,0.15384615384615385
+",90,clemens-dr-amerikaner,13,2,0.6990115198633104,0.15384615384615385
 453,comedy,Bauern,U,,,,"
           
 Bauern :
@@ -4165,7 +4165,7 @@ Was säit dar im Antoine ?... Spitzbüe!... Schmisse-ne nüss !
 (stehen auf, nehmen eine drohende Haltung ein.)
 
         
-",clemens-dr-amerikaner,18,3,0.550410415711764,0.16666666666666666
+",90,clemens-dr-amerikaner,18,3,0.550410415711764,0.16666666666666666
 454,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -4179,7 +4179,7 @@ Halfe, halte! Dieb! Räiwer ! Halfe ! Die Burschen :
 .
 
         
-",clemens-dr-amerikaner,21,7,0.5362881518289994,0.3333333333333333
+",90,clemens-dr-amerikaner,21,7,0.5362881518289994,0.3333333333333333
 455,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4188,7 +4188,7 @@ Maire :
 Isch dann hitt alles verhaxt? Was isch dann jetz los...
 
         
-",clemens-dr-amerikaner,11,1,0.8723081568973007,0.09090909090909091
+",91,clemens-dr-amerikaner,11,1,0.8723081568973007,0.09090909090909091
 456,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -4200,7 +4200,7 @@ Polizist:
 Hewe-se numme fescht.... das sind Spitzbuben ! Antoine : Min’r Bardessü un Kuffer ! Diss sinn se ! Herr Polizist, der Kuffer isch min...
 
         
-",clemens-dr-amerikaner,36,6,0.484766905024181,0.16666666666666666
+",91,clemens-dr-amerikaner,36,6,0.484766905024181,0.16666666666666666
 457,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist :
@@ -4214,7 +4214,7 @@ Halten sie ’s Mäul...ich hab ’s Wort! Herr Maire, als ich vor ein wenig in 
  und rufe um Hülfe! — Un jetzt, Herr Maire...
 
         
-",clemens-dr-amerikaner,130,18,0.48476320518746163,0.13846153846153847
+",91,clemens-dr-amerikaner,130,18,0.48476320518746163,0.13846153846153847
 458,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4223,7 +4223,7 @@ Maire :
 As isch guet, Polizejgard... ich gläub mir hann üns eland blamiert !...
 
         
-",clemens-dr-amerikaner,12,4,0.46196422466461323,0.3333333333333333
+",91,clemens-dr-amerikaner,12,4,0.46196422466461323,0.3333333333333333
 459,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -4233,7 +4233,7 @@ Mir sinn nit latz in de Hunni getratte, wie zaller gsäit hett
 (geht in die Stube.)
 
         
-",clemens-dr-amerikaner,19,1,0.191529310702813,0.05263157894736842
+",91,clemens-dr-amerikaner,19,1,0.191529310702813,0.05263157894736842
 460,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -4245,7 +4245,7 @@ Alle:
 Was? D’r Amerikaner e Dieb?!
 
         
-",clemens-dr-amerikaner,9,1,0.1404791164610396,0.1111111111111111
+",92,clemens-dr-amerikaner,9,1,0.1404791164610396,0.1111111111111111
 461,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4256,7 +4256,7 @@ Jetz wäiss ich ball nimm wie m'r d'r Kopf steht !
  Bisch dü d'r Antoine oder bisch’s nit ?
 
         
-",clemens-dr-amerikaner,23,1,0.4990091704648731,0.043478260869565216
+",92,clemens-dr-amerikaner,23,1,0.4990091704648731,0.043478260869565216
 462,comedy,Otto Klüwer,M,,,,"
           
 Streifer und Klüwer :
@@ -4266,7 +4266,7 @@ Streifer und Klüwer :
 .
 
         
-",clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
+",92,clemens-dr-amerikaner,9,1,0.4990091704648731,0.1111111111111111
 463,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4275,7 +4275,7 @@ Antoine :
 Jetz wurd mir’s klar ! Die zwei Halunke hann sich do füer mich üssgenn .....
 
         
-",clemens-dr-amerikaner,15,1,0.7758890116185911,0.06666666666666667
+",92,clemens-dr-amerikaner,15,1,0.7758890116185911,0.06666666666666667
 464,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -4288,7 +4288,7 @@ Herr Maire... Gald g'stohle !... Sekretär... Gald futsch wie ’s Bumbe Hünd..
 (kann vor Aufregung nicht mehr sprechen.)
 
         
-",clemens-dr-amerikaner,28,4,0.535250611455963,0.14285714285714285
+",92,clemens-dr-amerikaner,28,4,0.535250611455963,0.14285714285714285
 465,comedy,Matter,M,,,,"
           
 Maire:
@@ -4299,7 +4299,7 @@ Was?!.... Jetz wurd’s Däuj!
  Wie hann’r min Gald?...
 
         
-",clemens-dr-amerikaner,16,1,0.5811712461436535,0.0625
+",93,clemens-dr-amerikaner,16,1,0.5811712461436535,0.0625
 466,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4308,7 +4308,7 @@ Antoine :
 Lueje emol im Koffer, Denne hann-se mir g’stohle, un ’s Gald...
 
         
-",clemens-dr-amerikaner,12,1,0.5811712461436535,0.08333333333333333
+",93,clemens-dr-amerikaner,12,1,0.5811712461436535,0.08333333333333333
 467,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4322,7 +4322,7 @@ Ja do isch’s... ich kenn ’s Säckel.
  Gott-lowe- dank, ass ich min Gald wieder hab... as fahlt nix dran !
 
         
-",clemens-dr-amerikaner,42,4,0.6015366403652479,0.09523809523809523
+",93,clemens-dr-amerikaner,42,4,0.6015366403652479,0.09523809523809523
 468,comedy,Otto Klüwer,M,,,,"
           
 Streifer und Klüwer :
@@ -4332,7 +4332,7 @@ Streifer und Klüwer :
 .
 
         
-",clemens-dr-amerikaner,11,1,0.4990091704648731,0.09090909090909091
+",93,clemens-dr-amerikaner,11,1,0.4990091704648731,0.09090909090909091
 470,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist :
@@ -4344,7 +4344,7 @@ Polizist :
 D’r erscht, wo sich muckst, dem schlage ich den Hirnhafen ein !
 
         
-",clemens-dr-amerikaner,17,2,0.41055202372325494,0.11764705882352941
+",94,clemens-dr-amerikaner,17,2,0.41055202372325494,0.11764705882352941
 471,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4353,7 +4353,7 @@ Maire :
 Lonn se nurre nit furt, die elande Spitzbüewe !..
 
         
-",clemens-dr-amerikaner,9,2,0.20747877739410597,0.2222222222222222
+",94,clemens-dr-amerikaner,9,2,0.20747877739410597,0.2222222222222222
 472,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -4365,7 +4365,7 @@ Aloys:
 Herr Maire, sell ich se glich hin mache ?
 
         
-",clemens-dr-amerikaner,14,2,0.35646693871571644,0.14285714285714285
+",94,clemens-dr-amerikaner,14,2,0.35646693871571644,0.14285714285714285
 473,comedy,Antoine Schnell,M,,,,"
           
 Antoine:
@@ -4374,7 +4374,7 @@ Antoine:
 Halt! Numme langsam, ich hab au noch e Hüehnel mit denne zwei ze ropfe!... Ihr hann mich b’stohle... wo isch min Geld... mini Babiere.?... Ihr hann eijch do bi denne Litt füer mich üssgenn un hann se noch welle b’stehle !....
 
         
-",clemens-dr-amerikaner,41,2,0.48054671703369023,0.04878048780487805
+",94,clemens-dr-amerikaner,41,2,0.48054671703369023,0.04878048780487805
 474,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Gemeinderat :
@@ -4383,7 +4383,7 @@ Gemeinderat :
 Ja, so isch’s ! Oh, wie sinn mir so däub gewann !...
 
         
-",clemens-dr-amerikaner,12,1,0.731982479119855,0.08333333333333333
+",94,clemens-dr-amerikaner,12,1,0.731982479119855,0.08333333333333333
 475,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4393,7 +4393,7 @@ Zeje-n-em de Mantel üss... der isch mine !
 (Die Burschen ziehen Streifer den Mantel aus, wel- cher nun da steht, in Samthosen, rotes Band um den Leib, zerrissenes Hemd. Grosses Gelächter.)
 
         
-",clemens-dr-amerikaner,36,5,0.5546715055378867,0.1388888888888889
+",95,clemens-dr-amerikaner,36,5,0.5546715055378867,0.1388888888888889
 476,comedy,Matter,M,,,,"
           
 Matter :
@@ -4402,7 +4402,7 @@ Matter :
 Diss isch m'r e natter Amerikaner !... Sohler, hesch diss äu gelase, ass d’Amerikaner kenn Gilet an hann ?
 
         
-",clemens-dr-amerikaner,19,2,0.5800583075078665,0.10526315789473684
+",95,clemens-dr-amerikaner,19,2,0.5800583075078665,0.10526315789473684
 477,comedy,Sohler,M,,,,"
           
 Sohler :
@@ -4413,7 +4413,7 @@ Sohler :
  
 
         
-",clemens-dr-amerikaner,12,2,0.8478787193957904,0.16666666666666666
+",95,clemens-dr-amerikaner,12,2,0.8478787193957904,0.16666666666666666
 478,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4425,7 +4425,7 @@ Antoine :
 Do sinn mini Babierer... Im Portemonnaie fehle un- g’fähr 40 Franke, sunsch isch alles do... Jetzt muen die Gauner ing’sperrt sinn un d'r Schandarm preveniert, dass m'r se hann, denn in Strossburri warte se mit Schmerze uf se.
 
         
-",clemens-dr-amerikaner,48,6,0.41195994973282674,0.125
+",95,clemens-dr-amerikaner,48,6,0.41195994973282674,0.125
 479,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4434,7 +4434,7 @@ Maire :
 Polizeijgard!... Glich los mit ’ne, denn die Herre warte nit gare... Sperre se in ’s Spritzehüs un bliewe debie stehn, bis d' Schandarme do sinn !
 
         
-",clemens-dr-amerikaner,26,4,0.6157839603821668,0.15384615384615385
+",95,clemens-dr-amerikaner,26,4,0.6157839603821668,0.15384615384615385
 480,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist :
@@ -4445,7 +4445,7 @@ Zü Befehl !... Awer ich muss denen zwei noch einen Prosewerball machen wegen gr
  Ihr Name ?... Wurd’s ball oder ich haue dir enen Schlenzer in den Backen !
 
         
-",clemens-dr-amerikaner,33,3,0.4488502387851223,0.09090909090909091
+",96,clemens-dr-amerikaner,33,3,0.4488502387851223,0.09090909090909091
 481,comedy,Felix Streifer,M,,,,"
           
 Streifer :
@@ -4456,7 +4456,7 @@ Felix... Streifer.
 .
 
         
-",clemens-dr-amerikaner,8,3,0.4924547878156204,0.375
+",96,clemens-dr-amerikaner,8,3,0.4924547878156204,0.375
 482,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -4465,7 +4465,7 @@ Polizist:
 Un d'r Neger ? Wie heisch du ?
 
         
-",clemens-dr-amerikaner,7,1,0.479346022517115,0.14285714285714285
+",96,clemens-dr-amerikaner,7,1,0.479346022517115,0.14285714285714285
 485,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -4482,7 +4482,7 @@ D’r Wambo häisst Otto...
 .
 
         
-",clemens-dr-amerikaner,58,6,0.6194042152810432,0.10344827586206896
+",97,clemens-dr-amerikaner,58,6,0.6194042152810432,0.10344827586206896
 487,comedy,Der Dorfpolizist,M,,,,"
           
 Polizist:
@@ -4495,7 +4495,7 @@ Vorwärts, marsch, in’s Spritzehüs mit 'ne!
 (Einer schlägt Streifer den Zy- linder über die Ohren, alles, Turner, Burschen, Mu- siker, Bauern, Polizist gehen mit den beiden Vaga- bunden nach links ab. Grosses Gejohle, auf die Vagabunden wird gehauen und Schimpfwörter nach- gerufen. Die Gemeinderatsherren bleiben an ihren Plätzen.)
 
         
-",clemens-dr-amerikaner,61,3,0.48590040516636773,0.04918032786885246
+",97,clemens-dr-amerikaner,61,3,0.48590040516636773,0.04918032786885246
 488,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4507,7 +4507,7 @@ Antoine :
 Schakob... gläubsch jetzt, ass ich d'r Antoine bin ?
 
         
-",clemens-dr-amerikaner,26,1,0.6569176878592675,0.038461538461538464
+",97,clemens-dr-amerikaner,26,1,0.6569176878592675,0.038461538461538464
 490,comedy,Antoine Schnell,M,,,,"
           
 Antoine:
@@ -4516,7 +4516,7 @@ Antoine:
 Jo... allewäij, do isch nix in Üewel ze nehme... dü kannsch jo nix derfüer. Ich bin äu d' Schuld dran... hätt ich besser acht genn. D’ Haupt- sach isch, dass ich do bin un min Saches wieder alles hab... Awer jetzt loss dich betrachte... Bisch gröij worre in denne 30 Johr, ja, ja... un Maire bisch, wie ich do g’höert hab... ich gratülier !... Zaij, do sitze jo noch Kamerade vun mir.. Do d'r Matter ! ..... d'r Groshans !... d'r Schierejerry !... un do d'r Schollesepp.... mir zwei sinn jo in d'r Schuel nawe- nander g’sasse....
 
         
-",clemens-dr-amerikaner,95,9,0.5781050360639836,0.09473684210526316
+",98,clemens-dr-amerikaner,95,9,0.5781050360639836,0.09473684210526316
 491,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -4525,7 +4525,7 @@ Schollesepp :
 Ja, mir zwäi duen no ebs asse !
 
         
-",clemens-dr-amerikaner,8,1,0.731982479119855,0.125
+",98,clemens-dr-amerikaner,8,1,0.731982479119855,0.125
 493,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4534,7 +4534,7 @@ Antoine :
 Armer Schollesepp...Diss isch d'r Sürkopf, wenn ich nitt irr !
 
         
-",clemens-dr-amerikaner,11,1,0.2572765000430282,0.09090909090909091
+",98,clemens-dr-amerikaner,11,1,0.2572765000430282,0.09090909090909091
 494,comedy,Sürkopf,M,,,,"
           
 Sürkopf :
@@ -4543,7 +4543,7 @@ Sürkopf :
 Ja, ich bin d'r Sürkopf, d'r Adjunkt... awer es will nimm racht mit’m Appedit.
 
         
-",clemens-dr-amerikaner,16,2,0.7693585439265995,0.125
+",98,clemens-dr-amerikaner,16,2,0.7693585439265995,0.125
 495,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4554,7 +4554,7 @@ Na, na... Dü wursch doch nit sterwe welle ?!
  Sie kenn ich leider nit — wie isch ihr Name ?
 
         
-",clemens-dr-amerikaner,23,1,0.1123128722815401,0.043478260869565216
+",99,clemens-dr-amerikaner,23,1,0.1123128722815401,0.043478260869565216
 499,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4563,7 +4563,7 @@ Antoine :
 Ah... Sohler — es fräijt mich, Sie kenne ze lehre.
 
         
-",clemens-dr-amerikaner,11,1,0.6952346319440735,0.09090909090909091
+",99,clemens-dr-amerikaner,11,1,0.6952346319440735,0.09090909090909091
 500,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4576,7 +4576,7 @@ Awer Antoine, jetzt setz dich do hare, an de Platz, wie d ü ane g’höersch
 .
 
         
-",clemens-dr-amerikaner,34,2,0.6752791829367797,0.058823529411764705
+",100,clemens-dr-amerikaner,34,2,0.6752791829367797,0.058823529411764705
 501,comedy,Matter,M,,,,"
           
 Matter :
@@ -4585,7 +4585,7 @@ Matter :
 Dü müesch ebs natts vun üns danke !...
 
         
-",clemens-dr-amerikaner,8,2,0.5914585177375289,0.25
+",100,clemens-dr-amerikaner,8,2,0.5914585177375289,0.25
 502,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -4594,7 +4594,7 @@ Schierejerry :
 Ju, ju, mir sinn natt blamiert !..….
 
         
-",clemens-dr-amerikaner,7,4,0.5886936998799018,0.5714285714285714
+",100,clemens-dr-amerikaner,7,4,0.5886936998799018,0.5714285714285714
 503,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4603,7 +4603,7 @@ Maire :
 Mir hann’s als gar nit kenne gläuwe, ass dü’s bisch, awer der Wackes hett üns dini Babierer ge- zäijt un hett nix wie gebabbelt un gebabbelt...
 
         
-",clemens-dr-amerikaner,30,2,0.6509475532145717,0.06666666666666667
+",100,clemens-dr-amerikaner,30,2,0.6509475532145717,0.06666666666666667
 504,comedy,Groshans,M,,,,"
           
 Groshans :
@@ -4612,7 +4612,7 @@ Groshans :
 Mir hann-em nix welle gläuwe, awer do d'r Sohler isch Schuld !
 
         
-",clemens-dr-amerikaner,12,2,0.6132916378788835,0.16666666666666666
+",100,clemens-dr-amerikaner,12,2,0.6132916378788835,0.16666666666666666
 505,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -4624,7 +4624,7 @@ Alle:
 Ja... D’r Sohler isch schuld an Allem !...
 
         
-",clemens-dr-amerikaner,12,2,0.5645824389597924,0.16666666666666666
+",101,clemens-dr-amerikaner,12,2,0.5645824389597924,0.16666666666666666
 507,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4633,7 +4633,7 @@ Maire :
 Wie isch’s awer numme mejli gewann, ass die Gauner gewüesst hann, wie dü häisch, wie ich häiss, wie dü hare kummsch... alles hann-se ge- wüesst ! ?
 
         
-",clemens-dr-amerikaner,28,1,0.4090087725190563,0.03571428571428571
+",101,clemens-dr-amerikaner,28,1,0.4090087725190563,0.03571428571428571
 508,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4642,7 +4642,7 @@ Antoine :
 Liewer Schakob, ganz einfach... Do in mim Notizbuech haw ich alles ufno- tiert... alles zamme! Un üewer mini Reis haw- ich alle Daa mini Notize gemacht. — — Ich bin in Strossburri ankumme, gescht morje am 4 Ühr vun Paris... Ich geh in de Wartsaal, trink e Kaffee un muess do drüewer ingenickt sinn, denn uf einmol wurr ich geweckt — vor mir stehn zwei, wo sich als Geheimpolizischte legitimiere un mir d’Babiere ver- lange... Ja do !... Ich hab kenn Babierer meh, kenn Kuffer, kenn Bardessü un kenn Geld... enfin, nix meh!..
 
         
-",clemens-dr-amerikaner,97,14,0.6918368896574637,0.14432989690721648
+",101,clemens-dr-amerikaner,97,14,0.6918368896574637,0.14432989690721648
 509,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -4651,7 +4651,7 @@ Alle :
 Äi, äi... e Nundebuckel... ju, ju! Antoine : Maine-nr wie’s mir isch gewänn !... s’ nettscht kummt jetzt erscht... Die meine, ich bin e Schwindler, ich muess mit ’ne uf d' Polizeij un wär noch ball in de Gigger kumme, wann nit d'r Polizeijkommissär e gueter Mann wär gewann un hätt m'r gegläubt... Er hett uf Amerika depe- schiert un no hett sisch’s rüsg’stellt, ass ich a an- ständiger Mensch bin !... Die zwei Geheime hann sich no arrich exküsiert un hann glich die nöetige Schritte unternumme, dass ich wieder zue mim Saches kumm ..... D’r Herr Kommissär hett mir soviel Geld gelehnt, dass ich an mini Bank in Amerika hab kenne depeschiere um Geld... do drüewer isch awer soviel Zitt erum gange. sodass ich nit ehnder uf Owermatte hab kumme kenne...
 
         
-",clemens-dr-amerikaner,133,20,0.6091572393193005,0.15037593984962405
+",101,clemens-dr-amerikaner,133,20,0.6091572393193005,0.15037593984962405
 510,comedy,Matter,M,,,,"
           
 Matter :
@@ -4662,7 +4662,7 @@ Diss hann die zwäi Gauner äu gedankt... Antoine : Jetz, wie ich do here kumm, 
  Do muess ich awer viel- mols „merci“ sauwe.
 
         
-",clemens-dr-amerikaner,57,6,0.5516076914297896,0.10526315789473684
+",102,clemens-dr-amerikaner,57,6,0.5516076914297896,0.10526315789473684
 511,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4671,7 +4671,7 @@ Maire :
 Jo — ütz äu noch... Dar Lump hett alli inge- lade uf hitt Nochmiddäuj füer’s Wiedersahn ze fiere, hett gescht Owe in de Conskrits alles Trinke be- zahlt un hett üns versproche, dass’r... harrjeh, harrjeh — do fällt m'r ebs ing... Jetzt sinn m'r erscht gemutzt !
 
         
-",clemens-dr-amerikaner,50,3,0.6107787057917314,0.06
+",102,clemens-dr-amerikaner,50,3,0.6107787057917314,0.06
 512,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -4680,7 +4680,7 @@ Alle:
 Ja, ja — jetz kenne d’Untermatter lache !
 
         
-",clemens-dr-amerikaner,9,3,0.7864141302117714,0.3333333333333333
+",102,clemens-dr-amerikaner,9,3,0.7864141302117714,0.3333333333333333
 514,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4691,7 +4691,7 @@ Was isch denn ?
  Schakob, ze red doch!... Hesch dü nit meh Zütröje zue mir !
 
         
-",clemens-dr-amerikaner,23,3,0.5152711337335345,0.13043478260869565
+",102,clemens-dr-amerikaner,23,3,0.5152711337335345,0.13043478260869565
 515,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4702,7 +4702,7 @@ Antoine, muesch nitt so redde... awer ich will d’rs säuje... füer d'’ Stro
  Dar lätz Amerikaner, dar Schwindler... hett üns versproche, ar losst ’s elektrisch Licht inrichte im Dorf uf sini Koschte...
 
         
-",clemens-dr-amerikaner,44,7,0.4701996577505003,0.1590909090909091
+",103,clemens-dr-amerikaner,44,7,0.4701996577505003,0.1590909090909091
 516,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4714,7 +4714,7 @@ Antoine :
 Hahaha !... Der hett d'r Amerikaner guet markiert... Na, ich mein awer, was der kann — kann ich äu! Ich bezahl eijch au alles... ich hab Geld genue.
 
         
-",clemens-dr-amerikaner,31,4,0.7572711190719884,0.12903225806451613
+",103,clemens-dr-amerikaner,31,4,0.7572711190719884,0.12903225806451613
 517,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -4726,7 +4726,7 @@ Alle :
 Merci, merci Antoine... jetz sinn m'r sauviert ! —
 
         
-",clemens-dr-amerikaner,13,2,0.7292028728964264,0.15384615384615385
+",103,clemens-dr-amerikaner,13,2,0.7292028728964264,0.15384615384615385
 518,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4735,7 +4735,7 @@ Maire :
 Antoine — mir fällt e grosser Stäin vum Harze, dann mir hätte üns nimmi sahn derfe lonn... Diss due ich dir nie vergasse.
 
         
-",clemens-dr-amerikaner,24,4,0.39335146262797627,0.16666666666666666
+",103,clemens-dr-amerikaner,24,4,0.39335146262797627,0.16666666666666666
 519,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4747,7 +4747,7 @@ Antoine :
 Lonn’s doch guet sinn...
 
         
-",clemens-dr-amerikaner,11,3,0.6258179544148207,0.2727272727272727
+",103,clemens-dr-amerikaner,11,3,0.6258179544148207,0.2727272727272727
 520,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -4759,7 +4759,7 @@ Aloys :
 Harr Schnall... Ich will...
 
         
-",clemens-dr-amerikaner,8,2,0.46884108050502443,0.25
+",104,clemens-dr-amerikaner,8,2,0.46884108050502443,0.25
 522,comedy,Aloys,M,,,,"
           
 Aloys :
@@ -4770,7 +4770,7 @@ Jetz bin ich min’r Däuj-de-’s Läwes e ehrlicher Burscht gewann — jetzt h
  Do hann’rs wieder... dann unracht Guet...
 
         
-",clemens-dr-amerikaner,56,8,0.5962642493354965,0.14285714285714285
+",104,clemens-dr-amerikaner,56,8,0.5962642493354965,0.14285714285714285
 524,comedy,Aloys,M,,,,"
           
 Aloys:
@@ -4783,7 +4783,7 @@ Unser Harrgott sell’s eijch vergalte !
 .
 
         
-",clemens-dr-amerikaner,47,4,0.578152189994887,0.0851063829787234
+",104,clemens-dr-amerikaner,47,4,0.578152189994887,0.0851063829787234
 525,comedy,"Michel, Tambourmajor",M,,,,"
           
 Michel :
@@ -4795,7 +4795,7 @@ Michel :
 Herr Maire, d'r Polizeijgard losst säue, ass die zwäi Hallunke ing’sperrt sinn un d'r Gäwelsdonni isch mit-em Rad zuem Schan- darm g’fahre.
 
         
-",clemens-dr-amerikaner,29,2,0.3520191660438948,0.06896551724137931
+",105,clemens-dr-amerikaner,29,2,0.3520191660438948,0.06896551724137931
 526,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4804,7 +4804,7 @@ Maire :
 ’s isch racht Michel... Un merci, ihr Burscht, will ihr so harzhaft g’holfe hann.
 
         
-",clemens-dr-amerikaner,15,1,0.8067346087333439,0.06666666666666667
+",105,clemens-dr-amerikaner,15,1,0.8067346087333439,0.06666666666666667
 527,comedy,Gabriel,M,,,,"
           
 Gabriel:
@@ -4815,7 +4815,7 @@ Gabriel:
 .
 
         
-",clemens-dr-amerikaner,20,1,0.5311555130794368,0.05
+",105,clemens-dr-amerikaner,20,1,0.5311555130794368,0.05
 528,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4829,7 +4829,7 @@ Ihr Burjer vun Owermatte! Do stell ich eijch mine Cousin Antoine Schnell vor —
 .
 
         
-",clemens-dr-amerikaner,62,10,0.6218622021293216,0.16129032258064516
+",105,clemens-dr-amerikaner,62,10,0.6218622021293216,0.16129032258064516
 529,comedy,Schollesepp,M,,,,"
           
 Alle :
@@ -4872,7 +4872,7 @@ Merci, ihr liewi Litt!... Awer wie m'r do bienand sinn usw.
 (siehe Anmerkung am Schluss).
 
         
-",clemens-dr-amerikaner,75,10,0.7043324404223441,0.13333333333333333
+",105,clemens-dr-amerikaner,75,10,0.7043324404223441,0.13333333333333333
 530,comedy,Groshans,M,,,,"
               
 Groshans :
@@ -4886,7 +4886,7 @@ D’r racht „Ameri- kaner“ soll läwe hoch !
 .
 
             
-",clemens-dr-amerikaner,22,5,0.6180852120491623,0.22727272727272727
+",106,clemens-dr-amerikaner,22,5,0.6180852120491623,0.22727272727272727
 531,comedy,Antoine Schnell,M,,,,"
               
 Antoine :
@@ -4897,7 +4897,7 @@ Merci, ihr liewi Litt!... Awer wie m'r do bienand sinn usw.
 .
 
             
-",clemens-dr-amerikaner,21,2,0.8615070221906774,0.09523809523809523
+",106,clemens-dr-amerikaner,21,2,0.8615070221906774,0.09523809523809523
 532,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Chef moniteur :
@@ -4909,7 +4909,7 @@ Chef moniteur :
 Herr Schnell, isch’s erläubt zue Ehre vun Eijch ebs vorzefüehre ? Ünsere gym- nasien welle zäije, was se kenne.
 
         
-",clemens-dr-amerikaner,25,4,0.7067843388944847,0.16
+",106,clemens-dr-amerikaner,25,4,0.7067843388944847,0.16
 533,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4918,7 +4918,7 @@ Antoine :
 ’s isch mir e grossi Ehr!...
 
         
-",clemens-dr-amerikaner,7,1,0.8800124365768748,0.14285714285714285
+",106,clemens-dr-amerikaner,7,1,0.8800124365768748,0.14285714285714285
 534,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Chef moniteur :
@@ -4931,7 +4931,7 @@ Wenn’s beliebt!... e bissel Platz !
 .
 
         
-",clemens-dr-amerikaner,50,8,0.6475523660314735,0.16
+",106,clemens-dr-amerikaner,50,8,0.6475523660314735,0.16
 535,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -4945,7 +4945,7 @@ Min Compliment, Herr Chef ! Ihr Turner hann ejeri Sach grossartig gemacht ! Ich 
  als Schimnass gemacht, ass isch kenner zue alt dezüe !... Drum, Herr Chef, nochemol min Com- pliment un schriewe se mich in als membre vun ihrem Verein.
 
         
-",clemens-dr-amerikaner,110,17,0.6806380117511066,0.15454545454545454
+",107,clemens-dr-amerikaner,110,17,0.6806380117511066,0.15454545454545454
 536,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Chef moniteur :
@@ -4954,7 +4954,7 @@ Chef moniteur :
 Mit gröeschter Pläsir!...
 
         
-",clemens-dr-amerikaner,5,3,0.7427259767921544,0.6
+",107,clemens-dr-amerikaner,5,3,0.7427259767921544,0.6
 538,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -4965,7 +4965,7 @@ Ja, was meine-nr ihr Litt?... Do müen mir Alti!! äu noch in d' Schimnass un m�
 .
 
         
-",clemens-dr-amerikaner,24,1,0.731982479119855,0.041666666666666664
+",107,clemens-dr-amerikaner,24,1,0.731982479119855,0.041666666666666664
 539,comedy,Matter,M,,,,"
           
 Matter:
@@ -4974,7 +4974,7 @@ Matter:
 Mir an... ich lehr äu noch Büerzelbäim schläuje .....
 
         
-",clemens-dr-amerikaner,9,3,0.45909981020310137,0.3333333333333333
+",107,clemens-dr-amerikaner,9,3,0.45909981020310137,0.3333333333333333
 540,comedy,Groshans,M,,,,"
           
 Groshans:
@@ -4983,7 +4983,7 @@ Groshans:
 Ich will Ehremitglied wäre... ich zahl füenf Franke extra !
 
         
-",clemens-dr-amerikaner,10,1,0.6499867038295832,0.1
+",108,clemens-dr-amerikaner,10,1,0.6499867038295832,0.1
 541,comedy,Schierejerry,M,,,,"
           
 Schierejerry :
@@ -4992,7 +4992,7 @@ Schierejerry :
 Ju, ju… ich sää nit ’s Conträr... awer ich will z’erscht d' Fräu fröije.
 
         
-",clemens-dr-amerikaner,16,2,0.731982479119855,0.125
+",108,clemens-dr-amerikaner,16,2,0.731982479119855,0.125
 542,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -5006,7 +5006,7 @@ Schollesepp!... Was isch, machsch äu noch mit
  Schimnass ?!
 
         
-",clemens-dr-amerikaner,15,1,0.7272892855744911,0.06666666666666667
+",108,clemens-dr-amerikaner,15,1,0.7272892855744911,0.06666666666666667
 543,comedy,Schollesepp,M,,,,"
           
 Schollesepp :
@@ -5016,7 +5016,7 @@ Ab — Schimnass ! Zall will ich mäine ich bin noch gewüerfelt in de Füess!
 (Will Knie- beuge machen, fällt auf den Rücken, Gelächter.)
 
         
-",clemens-dr-amerikaner,27,2,0.5657553461762681,0.07407407407407407
+",108,clemens-dr-amerikaner,27,2,0.5657553461762681,0.07407407407407407
 544,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -5030,7 +5030,7 @@ Ja... Seppel, as geht nimm wie vor 30 Johre...
 Awer so, wie mir do ..... binand sinn, so luschtig un freij... diss isch ’s elsäs- sisch Volksläwe, wie m'rs in d'r ganze Welt nirjed’s meh antrifft... Ich hab’s erfahre... ihr alli wisse jo, wie ich vun do furt bin, haw-ich de beschte Ruef nitt g’hett... awer es hett mich getriewe in d' Fremd... uf Amerika ! Wie mir’s dort gange-n-isch, un wie ich’s sowit gebrocht hab, ass ich hitt als richer Mann zeruckkumm, diss verzähl ich eijch alles e-n-ander Mol... Ich hab schwer kämpfe müen... ich hab fremd Brot lehre esse.. un ’s isch hart, 's fremd Brot !
 
         
-",clemens-dr-amerikaner,122,14,0.6756612030114877,0.11475409836065574
+",108,clemens-dr-amerikaner,122,14,0.6756612030114877,0.11475409836065574
 545,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -5039,7 +5039,7 @@ Maire :
 Warsch doch wieder häime kumme !
 
         
-",clemens-dr-amerikaner,6,1,0.5077636222456227,0.16666666666666666
+",109,clemens-dr-amerikaner,6,1,0.5077636222456227,0.16666666666666666
 546,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -5050,7 +5050,7 @@ Nain — do bin ich züe stolz dezü gewann ..... ich hab m'r gsäit: Dü gehsch
  Hoch ’s Elsass ! G’sund- heit !
 
         
-",clemens-dr-amerikaner,142,16,0.6090664201946722,0.11267605633802817
+",109,clemens-dr-amerikaner,142,16,0.6090664201946722,0.11267605633802817
 547,comedy,Schollesepp,M,,,,"
           
 Alle:
@@ -5060,7 +5060,7 @@ Alle:
  G’sündhäit ! Hoch ’s Elsass, ünser Ländel !
 
         
-",clemens-dr-amerikaner,10,2,0.7233692376928682,0.2
+",109,clemens-dr-amerikaner,10,2,0.7233692376928682,0.2
 548,comedy,Antoine Schnell,M,,,,"
           
 Antoine:
@@ -5069,7 +5069,7 @@ Antoine:
 Un jetz hätt ich eini Bitt... ihr Burscht, singe m'r doch e Lied, e Lied vun d'r Heimet... ich hab so lang kenn’s meh g’höert.
 
         
-",clemens-dr-amerikaner,27,3,0.5367708989484568,0.1111111111111111
+",109,clemens-dr-amerikaner,27,3,0.5367708989484568,0.1111111111111111
 549,comedy,Schakob Urbach,M,,,,"
           
 Maire :
@@ -5078,7 +5078,7 @@ Maire :
 Zäije, ihr Kirchesänger, singe im Antoine äins vun eijere Lieder !
 
         
-",clemens-dr-amerikaner,11,1,0.7903046143794356,0.09090909090909091
+",109,clemens-dr-amerikaner,11,1,0.7903046143794356,0.09090909090909091
 550,comedy,Antoine Schnell,M,,,,"
           
 Einige Burschen :
@@ -5090,7 +5090,7 @@ Einige Burschen :
 Nach der Heimat möcht ich wieder, Nach dem teuren Vaterort. Wo man singt die frohen Lieder, Wo man spricht ein trautes Wort. Teure Heimat sei gegrüsst, In der Ferne sei gegrüsst, Sei gegrüsst in weiter Ferne, Teure Heimat, sei gegrüsst.
 
         
-",clemens-dr-amerikaner,49,4,0.5830637566549859,0.08163265306122448
+",110,clemens-dr-amerikaner,49,4,0.5830637566549859,0.08163265306122448
 551,comedy,Antoine Schnell,M,,,,"
           
 Antoine :
@@ -5111,4 +5111,4 @@ Ja — teure Heimat... sei gegrüsst !
 — Ende. —
   
         
-",clemens-dr-amerikaner,68,8,0.7045577750939755,0.11764705882352941
+",110,clemens-dr-amerikaner,68,8,0.7045577750939755,0.11764705882352941

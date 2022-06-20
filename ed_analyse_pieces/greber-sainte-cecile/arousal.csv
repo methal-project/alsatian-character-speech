@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -36,7 +36,7 @@ Gottlob, jetz bin i ferdi. Stuwwe-n-un Better mache, uff de Merk gehn, koche, w�
           ich Cécile heiß, un Geduld iwwerwind au de-n-Eierküeche.
 
         
-",greber-sainte-cecile,272,24,0.5446747088533082,0.08823529411764706
+",0,greber-sainte-cecile,272,24,0.5446747088533082,0.08823529411764706
 2,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -45,7 +45,7 @@ Cécile:
 Um Gottswille — — bin i jetz verschrocke — —
 
         
-",greber-sainte-cecile,11,1,0.8279765215302092,0.09090909090909091
+",0,greber-sainte-cecile,11,1,0.8279765215302092,0.09090909090909091
 3,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -54,7 +54,7 @@ Kommissionär:
 Wohnt do d’r Herr Anatole Stieffatre?
 
         
-",greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
+",0,greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
 4,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -63,7 +63,7 @@ Cécile:
 Ganz erecht. Sie wölle züem? Do drinnen-isch ’r.
 
         
-",greber-sainte-cecile,9,1,0.426066672788339,0.1111111111111111
+",1,greber-sainte-cecile,9,1,0.426066672788339,0.1111111111111111
 5,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -75,7 +75,7 @@ Het d’r Herr Stieffatre d’ Sache gerüscht, wo ich abhole soll?
 .
 
         
-",greber-sainte-cecile,18,2,0.4454327002231545,0.1111111111111111
+",1,greber-sainte-cecile,18,2,0.4454327002231545,0.1111111111111111
 6,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -85,7 +85,7 @@ Do uff ’m Canapée leijt alles. — — Jetz saaue Sie mir doch emol, was dis 
           Dings verlehnt. ’s isch doch züe merkwürdig.
 
         
-",greber-sainte-cecile,29,2,0.4253989006141493,0.06896551724137931
+",1,greber-sainte-cecile,29,2,0.4253989006141493,0.06896551724137931
 7,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -98,7 +98,7 @@ E paar Hosse — güet, e Schilet — do isch’s, e Rock — do hammer ne, e Sc
           Bombardon — do steht ’r. Helfe Sie m’r e bissel. — So, merci.
 
         
-",greber-sainte-cecile,50,3,0.4300933876847277,0.06
+",1,greber-sainte-cecile,50,3,0.4300933876847277,0.06
 8,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -107,7 +107,7 @@ Cécile:
 Ja awer wurum dis alles?
 
         
-",greber-sainte-cecile,6,1,0.6402102505617395,0.16666666666666666
+",2,greber-sainte-cecile,6,1,0.6402102505617395,0.16666666666666666
 9,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -119,7 +119,7 @@ Kommissionär:
 . . . . ’s isch wäje’re Kindtaif, for e güete Frind.
 
         
-",greber-sainte-cecile,12,2,0.44650698260417765,0.16666666666666666
+",2,greber-sainte-cecile,12,2,0.44650698260417765,0.16666666666666666
 11,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -128,7 +128,7 @@ Kommissionär:
 Wurum nit? ’s wurd nit ’s erscht Mol sin, daß uff ere Kindtaif ebbs gebloose wurd.
 
         
-",greber-sainte-cecile,17,1,0.441,0.058823529411764705
+",2,greber-sainte-cecile,17,1,0.441,0.058823529411764705
 14,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -140,7 +140,7 @@ Cécile
 Bardon, m’sieur, ich bin Wittfrau.
 
         
-",greber-sainte-cecile,9,2,0.6350191112530049,0.2222222222222222
+",3,greber-sainte-cecile,9,2,0.6350191112530049,0.2222222222222222
 15,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -149,7 +149,7 @@ Kommissionär:
 Macht nix, madame, ich bin Wittmann.
 
         
-",greber-sainte-cecile,7,3,0.49729358684300634,0.42857142857142855
+",3,greber-sainte-cecile,7,3,0.49729358684300634,0.42857142857142855
 16,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -161,7 +161,7 @@ Cécile:
 E Wittmann? — Ohne Kinder?
 
         
-",greber-sainte-cecile,9,2,0.4469838447769824,0.2222222222222222
+",4,greber-sainte-cecile,9,2,0.4469838447769824,0.2222222222222222
 17,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -170,7 +170,7 @@ Kommissionär:
 Ohne Kinder. — Ich müeß jetz gehn.
 
         
-",greber-sainte-cecile,8,1,0.4730366448298597,0.125
+",4,greber-sainte-cecile,8,1,0.4730366448298597,0.125
 18,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -179,7 +179,7 @@ Cécile:
 Ze bliewe Sie doch noch e bissel. — — Möchte Sie sich nit noch emol hirote?
 
         
-",greber-sainte-cecile,17,1,0.657756892221241,0.058823529411764705
+",4,greber-sainte-cecile,17,1,0.657756892221241,0.058823529411764705
 19,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -188,7 +188,7 @@ Kommissionär:
 Merci bien, hab grad genüe vum erschte Mol.
 
         
-",greber-sainte-cecile,9,1,0.3954513279714086,0.1111111111111111
+",4,greber-sainte-cecile,9,1,0.3954513279714086,0.1111111111111111
 21,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -197,7 +197,7 @@ Kommissionär:
 Sie wüßte ’s nit? — — Awer ich. Adieu madame.
 
         
-",greber-sainte-cecile,11,2,0.4780625634652391,0.18181818181818182
+",5,greber-sainte-cecile,11,2,0.4780625634652391,0.18181818181818182
 22,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -206,7 +206,7 @@ Cécile:
 Am liebschte hätt ich e Wittmann ohne Kinder.
 
         
-",greber-sainte-cecile,9,3,0.49022794824526755,0.3333333333333333
+",5,greber-sainte-cecile,9,3,0.49022794824526755,0.3333333333333333
 23,comedy,É Kommissionär,MALE,deliverer/helper,service_and_sales,lower_class,"
           
 Kommissionär:
@@ -220,7 +220,7 @@ Eh ben, güet, ze will i sehn, daß ich einer find.
 (Ab.)
 
         
-",greber-sainte-cecile,22,5,0.5341014108568923,0.22727272727272727
+",5,greber-sainte-cecile,22,5,0.5341014108568923,0.22727272727272727
 24,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -230,7 +230,7 @@ E züe nedder Mensch! Nurre schad, daß ’r mich nit versteht. M’r dhädde ni
           het Nümmero siwwezeh ghet, dis will i m’r merke.
 
         
-",greber-sainte-cecile,28,2,0.5704637250348404,0.07142857142857142
+",6,greber-sainte-cecile,28,2,0.5704637250348404,0.07142857142857142
 25,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -242,7 +242,7 @@ Sophie:
 Cécile, hesch de schun bi’s Meyer’s de neije, Butzlumpe kauft?
 
         
-",greber-sainte-cecile,22,4,0.5722261864942125,0.18181818181818182
+",6,greber-sainte-cecile,22,4,0.5722261864942125,0.18181818181818182
 26,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -251,7 +251,7 @@ Cécile:
 Ja, madame.
 
         
-",greber-sainte-cecile,3,2,0.5455941500340344,0.6666666666666666
+",6,greber-sainte-cecile,3,2,0.5455941500340344,0.6666666666666666
 27,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -260,7 +260,7 @@ Sophie:
 Denne Midda wurd d’ Stubb vun mim Mann uffgewäsche; ’s isch höchschti Zitt.
 
         
-",greber-sainte-cecile,14,2,0.3816953899573756,0.14285714285714285
+",6,greber-sainte-cecile,14,2,0.3816953899573756,0.14285714285714285
 28,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -270,7 +270,7 @@ Do wurd’s awer noch hewwe, Madam. Er loßt Nieme-n-in sini Stubb. Er will nit 
           het ’r gsaat.
 
         
-",greber-sainte-cecile,25,3,0.6214591310417551,0.12
+",7,greber-sainte-cecile,25,3,0.6214591310417551,0.12
 29,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -279,7 +279,7 @@ Sophie:
 Isch dis nit e Kurweh mit dem Mann! Was macht ’r wirklich?
 
         
-",greber-sainte-cecile,13,2,0.5379283976115891,0.15384615384615385
+",7,greber-sainte-cecile,13,2,0.5379283976115891,0.15384615384615385
 31,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -288,7 +288,7 @@ Sophie:
 ’s wurd m’r ball unheimlich, wenn dis so fort geht.
 
         
-",greber-sainte-cecile,11,1,0.539669237734725,0.09090909090909091
+",7,greber-sainte-cecile,11,1,0.539669237734725,0.09090909090909091
 32,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -297,7 +297,7 @@ Cécile:
 Er het ganz ’s équilibre verlore, d’r Schinder kummt nit drüs.
 
         
-",greber-sainte-cecile,12,3,0.608580555179732,0.25
+",8,greber-sainte-cecile,12,3,0.608580555179732,0.25
 33,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -306,7 +306,7 @@ Sophie:
 Daß er awer au gar nit saat, was er het!
 
         
-",greber-sainte-cecile,11,1,0.5905904562773836,0.09090909090909091
+",8,greber-sainte-cecile,11,1,0.5905904562773836,0.09090909090909091
 34,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -315,7 +315,7 @@ Cécile:
 Irid ebbs, was m’r nit wisse derfe, dis isch emol sicher.
 
         
-",greber-sainte-cecile,12,1,0.38657381727647,0.08333333333333333
+",8,greber-sainte-cecile,12,1,0.38657381727647,0.08333333333333333
 35,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -324,7 +324,7 @@ Sophie:
 Er wurd doch nit krank sin?
 
         
-",greber-sainte-cecile,7,1,0.4742947206969274,0.14285714285714285
+",8,greber-sainte-cecile,7,1,0.4742947206969274,0.14285714285714285
 36,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -335,7 +335,7 @@ Jo Pfiffedeckel ! Ich will e Weddung druff mache, daß do irid e Heimlichkeit d�
           Epizierlade ze verkaufe. Wenn d’r Mensch nix ze schaffe het, ze fangt ’r mit de Viehheite-n-an.
 
         
-",greber-sainte-cecile,54,4,0.4649294547230473,0.07407407407407407
+",9,greber-sainte-cecile,54,4,0.4649294547230473,0.07407407407407407
 37,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -344,7 +344,7 @@ Sophie:
 M’r sott’s fascht meine.
 
         
-",greber-sainte-cecile,6,1,0.4855792551331206,0.16666666666666666
+",9,greber-sainte-cecile,6,1,0.4855792551331206,0.16666666666666666
 38,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -355,7 +355,7 @@ Madame, verlon Sie sich nur uff mich. Ich bin au ghirot gsin, un hab e Mann ghet
           könne-n-anstelle was er gewöllt het, der Daudel, ich hab’s erüskreijt.
 
         
-",greber-sainte-cecile,50,7,0.489276392687835,0.14
+",9,greber-sainte-cecile,50,7,0.489276392687835,0.14
 39,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel
@@ -369,7 +369,7 @@ Enishänsel
 Bonjour, liewi Kusin, bonjour bisamme !
 
         
-",greber-sainte-cecile,45,7,0.5132220682932623,0.15555555555555556
+",9,greber-sainte-cecile,45,7,0.5132220682932623,0.15555555555555556
 40,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -378,7 +378,7 @@ Sophie:
 Min Seel, d’r Désiré! Bonjour, Désiré! Wo kommsch denn dü here? Awer e surprise!
 
         
-",greber-sainte-cecile,15,1,0.22,0.06666666666666667
+",10,greber-sainte-cecile,15,1,0.22,0.06666666666666667
 41,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -389,7 +389,7 @@ Güete Daa, Herr Enishänsel.
 (Nimmt ihm Hut Koffer und Schirm ab.)
 
         
-",greber-sainte-cecile,14,3,0.4445770558952813,0.21428571428571427
+",10,greber-sainte-cecile,14,3,0.4445770558952813,0.21428571428571427
 42,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -399,7 +399,7 @@ Kinder, Kinder, lon mich üsschnüüfe, lon mich üsschnüüfe. Nein, was e Wedd
           Wedder. — — Do hinne isch’s gemütlich. Gottlob, daß ich do bin.
 
         
-",greber-sainte-cecile,31,8,0.4581163615359565,0.25806451612903225
+",10,greber-sainte-cecile,31,8,0.4581163615359565,0.25806451612903225
 44,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -414,7 +414,7 @@ Ganz erecht, directement mit ’m Isebahn. Hab e paar Kommissione ze b’sorje u
           ze-n-isch d’r Mensch verlore.
 
         
-",greber-sainte-cecile,112,12,0.5333883596911903,0.10714285714285714
+",11,greber-sainte-cecile,112,12,0.5333883596911903,0.10714285714285714
 46,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -425,7 +425,7 @@ Enishänsel:
           — Awer was sieh ich? Sie het jo e gschwollener Backe!
 
         
-",greber-sainte-cecile,49,4,0.4967103053936974,0.08163265306122448
+",11,greber-sainte-cecile,49,4,0.4967103053936974,0.08163265306122448
 47,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -434,7 +434,7 @@ Cécile:
 Zitter gescht, Herr Enishänsel.
 
         
-",greber-sainte-cecile,5,2,0.5294060238013459,0.4
+",11,greber-sainte-cecile,5,2,0.5294060238013459,0.4
 48,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -446,7 +446,7 @@ Enishänsel:
 Dhüet’s do weh?
 
         
-",greber-sainte-cecile,9,1,0.6753667791483998,0.1111111111111111
+",12,greber-sainte-cecile,9,1,0.6753667791483998,0.1111111111111111
 49,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -455,7 +455,7 @@ Cécile:
 Ja. — Au, au!
 
         
-",greber-sainte-cecile,5,1,0.6402102505617395,0.2
+",12,greber-sainte-cecile,5,1,0.6402102505617395,0.2
 50,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -465,7 +465,7 @@ Ja dis derf m’r nit eso henke lon. Uff einmol setzt sich d’Ros nin, un d’r
           küriere. Do müeß e Düech drum. Sophie, lang doch gschwind e frisch’s Nasdüech.
 
         
-",greber-sainte-cecile,37,7,0.48448982644324745,0.1891891891891892
+",12,greber-sainte-cecile,37,7,0.48448982644324745,0.1891891891891892
 52,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel
@@ -477,7 +477,7 @@ Enishänsel
 So, so! ’s isch e kleini Verkältung. Nurre warmhalte, daß nix bösartigs drüs wurd.
 
         
-",greber-sainte-cecile,19,1,0.3572264152332944,0.05263157894736842
+",13,greber-sainte-cecile,19,1,0.3572264152332944,0.05263157894736842
 53,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -488,7 +488,7 @@ Merci, Herr Enishänsel.
 (Das Tuch behält sie während des ganzen Stückes an.)
 
         
-",greber-sainte-cecile,15,1,0.408435494808788,0.06666666666666667
+",13,greber-sainte-cecile,15,1,0.408435494808788,0.06666666666666667
 54,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -507,7 +507,7 @@ un so het sich’s Au vun Aase dran gewöhnt ze sehn, wo d’r Mensch gsund un w
           isch.
 
         
-",greber-sainte-cecile,115,20,0.4763805992088327,0.17391304347826086
+",13,greber-sainte-cecile,115,20,0.4763805992088327,0.17391304347826086
 55,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -516,7 +516,7 @@ Sophie:
 Dis glauwi gern.
 
         
-",greber-sainte-cecile,4,2,0.4235654320647124,0.5
+",13,greber-sainte-cecile,4,2,0.4235654320647124,0.5
 56,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -529,7 +529,7 @@ Ja ja, ja ja! Gsundheit isch Gsundheit, un Krankheit isch Krankheit. Un wo d’G
  Jetz verzähl m’r doch emol — — was machsch denn dü un d’r Anatole?
 
         
-",greber-sainte-cecile,48,12,0.5433742144286277,0.25
+",14,greber-sainte-cecile,48,12,0.5433742144286277,0.25
 57,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -538,7 +538,7 @@ Sophie:
 ’s geht sowit ganz güet.
 
         
-",greber-sainte-cecile,6,2,0.46174969795136467,0.3333333333333333
+",14,greber-sainte-cecile,6,2,0.46174969795136467,0.3333333333333333
 58,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -547,7 +547,7 @@ Cécile:
 Nit ganz güet, Herr Enishänsel, wenn’s erlaubt isch, e Wort ze redde.
 
         
-",greber-sainte-cecile,14,4,0.4879837226778794,0.2857142857142857
+",14,greber-sainte-cecile,14,4,0.4879837226778794,0.2857142857142857
 61,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -556,7 +556,7 @@ Cécile:
 D’r Herr Stieffatre het ebbs im Kropf stecke, m’r wisse blos noh nit was.
 
         
-",greber-sainte-cecile,15,2,0.49583942267164693,0.13333333333333333
+",15,greber-sainte-cecile,15,2,0.49583942267164693,0.13333333333333333
 62,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -565,7 +565,7 @@ Enishänsel:
 Im Kropf? Ja isch ’r denn krank? — Nurre nix verdütscht — — dies kann alles nix helfe.
 
         
-",greber-sainte-cecile,19,3,0.5165016570862223,0.15789473684210525
+",15,greber-sainte-cecile,19,3,0.5165016570862223,0.15789473684210525
 63,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -574,7 +574,7 @@ Sophie:
 Wemm’r dis nur wüßt! Er isch halt absolument wie umgewendt, dü kennsch ne nimm.
 
         
-",greber-sainte-cecile,15,1,0.4304222742857499,0.06666666666666667
+",15,greber-sainte-cecile,15,1,0.4304222742857499,0.06666666666666667
 64,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -583,7 +583,7 @@ Enishänsel:
 Het ’r denn güete-n-Abbedit ?
 
         
-",greber-sainte-cecile,7,1,0.4974327231143904,0.14285714285714285
+",16,greber-sainte-cecile,7,1,0.4974327231143904,0.14285714285714285
 65,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -592,7 +592,7 @@ Sophie:
 Gottlob, esse kann ’r noch kräftig.
 
         
-",greber-sainte-cecile,7,1,0.6917423979121139,0.14285714285714285
+",16,greber-sainte-cecile,7,1,0.6917423979121139,0.14285714285714285
 66,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -601,7 +601,7 @@ Enishänsel:
 Hm — hm. Het ’r denn au — — bardon, dis will i ne doch liewer selbscht fröuje.
 
         
-",greber-sainte-cecile,19,1,0.5644888482254989,0.05263157894736842
+",16,greber-sainte-cecile,19,1,0.5644888482254989,0.05263157894736842
 67,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -610,7 +610,7 @@ Sophie:
 Do kannsch lang fröuje — — er saat nix, ken Wort schnüüft er.
 
         
-",greber-sainte-cecile,14,3,0.552106428702737,0.21428571428571427
+",16,greber-sainte-cecile,14,3,0.552106428702737,0.21428571428571427
 69,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -621,7 +621,7 @@ De ganze Daa isch ’r präoggubiert, wie in Gedanke; wenn m’r ebbs saat, isch
           .
 
         
-",greber-sainte-cecile,39,3,0.5947452096741543,0.07692307692307693
+",17,greber-sainte-cecile,39,3,0.5947452096741543,0.07692307692307693
 71,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -634,7 +634,7 @@ Ja Herr Enishänsel, denne Mann sotte Sie sehn! Ganz batawatisch un verstöwert 
           wurds widder ganz still.
 
         
-",greber-sainte-cecile,82,14,0.4678994975860434,0.17073170731707318
+",17,greber-sainte-cecile,82,14,0.4678994975860434,0.17073170731707318
 72,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -643,7 +643,7 @@ Sophie:
 Un mit keinere Lieb isch ze-n-erfahre, was do los isch.
 
         
-",greber-sainte-cecile,13,3,0.6283383519642411,0.23076923076923078
+",18,greber-sainte-cecile,13,3,0.6283383519642411,0.23076923076923078
 73,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -652,7 +652,7 @@ Enishänsel:
 Oh, oh, oh, oh! E merkwürdiger Fall!
 
         
-",greber-sainte-cecile,8,1,0.627,0.125
+",18,greber-sainte-cecile,8,1,0.627,0.125
 74,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -661,7 +661,7 @@ Sophie:
 Hör Cécile, traa doch im Herr Enishänsel ’s Kifferle in sini Stubb. Er bliet bi uns üwer Nacht.
 
         
-",greber-sainte-cecile,19,1,0.408435494808788,0.05263157894736842
+",18,greber-sainte-cecile,19,1,0.408435494808788,0.05263157894736842
 75,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -673,7 +673,7 @@ Cécile:
 .
 
         
-",greber-sainte-cecile,14,1,0.4509780495063294,0.07142857142857142
+",18,greber-sainte-cecile,14,1,0.4509780495063294,0.07142857142857142
 76,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -683,7 +683,7 @@ Désiré — — m’r sin ellein — — jetz saa m’r uffrichtig un ehrlich .
           Gschicht mit mim Mann?
 
         
-",greber-sainte-cecile,24,4,0.38852723672528566,0.16666666666666666
+",19,greber-sainte-cecile,24,4,0.38852723672528566,0.16666666666666666
 77,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -692,7 +692,7 @@ Enishänsel:
 Entre nous soit dit — — han ihr zwei Händel mitnand ghet?
 
         
-",greber-sainte-cecile,13,1,0.7808512083536294,0.07692307692307693
+",19,greber-sainte-cecile,13,1,0.7808512083536294,0.07692307692307693
 78,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -703,7 +703,7 @@ Mais pas du tout, was denkt denn din Herz, nit ’s Geringscht. Zitter daß ich 
           Fridde-n-im Hüs ghet.
 
         
-",greber-sainte-cecile,43,5,0.4772615409010884,0.11627906976744186
+",19,greber-sainte-cecile,43,5,0.4772615409010884,0.11627906976744186
 79,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -712,7 +712,7 @@ Enishänsel:
 Un uff einmol redd ’r nimm mit d’r?
 
         
-",greber-sainte-cecile,9,1,0.441,0.1111111111111111
+",19,greber-sainte-cecile,9,1,0.441,0.1111111111111111
 81,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -721,7 +721,7 @@ Enishänsel:
 Ei, ei, ei, ei! — — Hm, hm. Dis sin ganz bedenklichi symptomes.
 
         
-",greber-sainte-cecile,14,1,0.426066672788339,0.07142857142857142
+",20,greber-sainte-cecile,14,1,0.426066672788339,0.07142857142857142
 82,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -730,7 +730,7 @@ Sophie:
 Hesch dü e-n-Ahnung, was dis könnt sin?
 
         
-",greber-sainte-cecile,10,1,0.6450696169446567,0.1
+",20,greber-sainte-cecile,10,1,0.6450696169446567,0.1
 83,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -742,7 +742,7 @@ Poh — — dis isch nit schwer erüszebuchstewiere.
  ’s kann nur dis sin — oder ebbs andersch.
 
         
-",greber-sainte-cecile,22,1,0.5361400665066939,0.045454545454545456
+",20,greber-sainte-cecile,22,1,0.5361400665066939,0.045454545454545456
 84,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -752,7 +752,7 @@ Um’s Himmelswille . . . es wurd m’r ganz kalt und heiß — — saa m’r’
           d’rmit, es man sin, was es will, ich bin uff alles gerüscht.
 
         
-",greber-sainte-cecile,36,6,0.4901905062267695,0.16666666666666666
+",21,greber-sainte-cecile,36,6,0.4901905062267695,0.16666666666666666
 85,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -763,7 +763,7 @@ D’r Fall isch kumplizirt und doch widder ganz einfach. — — Hm, hm, — —
           verruckt.
 
         
-",greber-sainte-cecile,41,8,0.5359740888697931,0.1951219512195122
+",21,greber-sainte-cecile,41,8,0.5359740888697931,0.1951219512195122
 86,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -772,7 +772,7 @@ Sophie:
 Allmächtiger Gott, was saasch dü do?
 
         
-",greber-sainte-cecile,7,2,0.6509301554337896,0.2857142857142857
+",21,greber-sainte-cecile,7,2,0.6509301554337896,0.2857142857142857
 88,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -789,7 +789,7 @@ müeßt mich jo schäme-n-in de-n-Erdsbodde nin, so tief als wie e Has siwwe Joh
           ken Ehr im Lieb, wenn i m’r dis dhädd gfalle lon.
 
         
-",greber-sainte-cecile,155,19,0.5162333245661264,0.12258064516129032
+",22,greber-sainte-cecile,155,19,0.5162333245661264,0.12258064516129032
 89,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -798,7 +798,7 @@ Enishänsel:
 Jetz veryffer dich doch nit eso; m’r wisse jo noch gar nix; verlicht isch ’r numme verruckt.
 
         
-",greber-sainte-cecile,18,1,0.6157313407181705,0.05555555555555555
+",22,greber-sainte-cecile,18,1,0.6157313407181705,0.05555555555555555
 90,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -808,7 +808,7 @@ O nein, der Mann isch m’r untreij. Jetz weiß ich au, wurum daß ’r mich so 
           Natürlich, wenn ’r e-n-anders Wibsbild im Kopf het, wurd for d’ghyrot Frau nimm viel üwrig bliewe.
 
         
-",greber-sainte-cecile,38,5,0.5582592876803906,0.13157894736842105
+",22,greber-sainte-cecile,38,5,0.5582592876803906,0.13157894736842105
 92,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -817,7 +817,7 @@ Sophie:
 Un wenn ich driwer ze Grund geh, ich müeß bardü wisse, was do los isch.
 
         
-",greber-sainte-cecile,16,1,0.7053155488901749,0.0625
+",23,greber-sainte-cecile,16,1,0.7053155488901749,0.0625
 93,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -830,7 +830,7 @@ Ganz mini Meinung — — wie fange m’r dis jetz am beschte-n-an?
           habs! So gehts! M’r müen im e Bein stelle.
 
         
-",greber-sainte-cecile,41,5,0.3990484218276579,0.12195121951219512
+",23,greber-sainte-cecile,41,5,0.3990484218276579,0.12195121951219512
 94,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -839,7 +839,7 @@ Sophie:
 E Bein stelle?
 
         
-",greber-sainte-cecile,4,1,0.3622952822170907,0.25
+",23,greber-sainte-cecile,4,1,0.3622952822170907,0.25
 95,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -854,7 +854,7 @@ Nix einfachers uff d’r Welt.
           Schallüsität isch, isch au ken Lieb.
 
         
-",greber-sainte-cecile,70,4,0.500411485736517,0.05714285714285714
+",23,greber-sainte-cecile,70,4,0.500411485736517,0.05714285714285714
 96,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -863,7 +863,7 @@ Sophie:
 Ich versteh ken Wort vun dem, was dü do saasch.
 
         
-",greber-sainte-cecile,11,1,0.62,0.09090909090909091
+",24,greber-sainte-cecile,11,1,0.62,0.09090909090909091
 97,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -873,7 +873,7 @@ Do isch doch nit viel dran ze verstehn. Mer müen de Anatole in e Sitüation bri
           müeß wäre, wenn ’r dich noch gern het. Wurd ’r awer schallü weje Dir, ze-n-isch ’r verruckt. . . .
 
         
-",greber-sainte-cecile,39,2,0.5239163611270241,0.05128205128205128
+",24,greber-sainte-cecile,39,2,0.5239163611270241,0.05128205128205128
 98,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -882,7 +882,7 @@ Sophie:
 Oho, ich bedank mi schön!
 
         
-",greber-sainte-cecile,6,1,0.4951955974553775,0.16666666666666666
+",24,greber-sainte-cecile,6,1,0.4951955974553775,0.16666666666666666
 101,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -892,7 +892,7 @@ Wurd ’r awer nit schallü, ze-n-isch ’r d’r untreij. Denn do d’rdurch za
           anleijsch. An dem syllogisme isch gar nix üszesetze.
 
         
-",greber-sainte-cecile,30,1,0.6998148241218778,0.03333333333333333
+",25,greber-sainte-cecile,30,1,0.6998148241218778,0.03333333333333333
 102,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -901,7 +901,7 @@ Sophie:
 Wahrhafti, dü hesch erecht. Jetz awer wittersch ; dis isch Queschtion.
 
         
-",greber-sainte-cecile,11,1,0.4064375728692999,0.09090909090909091
+",25,greber-sainte-cecile,11,1,0.4064375728692999,0.09090909090909091
 103,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -916,7 +916,7 @@ ben, verstehsch mi schun — — awer natierlich eso, daß es d’r Anatole merk
           drno wölle m’r abwarte, ob dis Pflaschter zeijt oder nit.
 
         
-",greber-sainte-cecile,88,10,0.44491548601680825,0.11363636363636363
+",25,greber-sainte-cecile,88,10,0.44491548601680825,0.11363636363636363
 105,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -931,7 +931,7 @@ Grad geh i züem un schick ne here. — —
  Dü hesch jo e kleins Pfizel uff ’m Backe.
 
         
-",greber-sainte-cecile,34,4,0.38132809331730916,0.11764705882352941
+",26,greber-sainte-cecile,34,4,0.38132809331730916,0.11764705882352941
 106,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -940,7 +940,7 @@ Sophie:
 Ah, ’s isch jo wohr.
 
         
-",greber-sainte-cecile,6,1,0.4120878812309737,0.16666666666666666
+",26,greber-sainte-cecile,6,1,0.4120878812309737,0.16666666666666666
 107,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -953,7 +953,7 @@ Dis derf m’r nit eso henke lon. Dis könnt e-n-Eisse genn. Kumm her, ich mach 
  So, so... jetz wurds schun hewwe.
 
         
-",greber-sainte-cecile,48,3,0.42620819393774895,0.0625
+",26,greber-sainte-cecile,48,3,0.42620819393774895,0.0625
 109,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -966,7 +966,7 @@ Ich geh.
           d’r Herr üs Bischwiller kummt . . . .
 
         
-",greber-sainte-cecile,23,2,0.4606979085639493,0.08695652173913043
+",27,greber-sainte-cecile,23,2,0.4606979085639493,0.08695652173913043
 110,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -981,7 +981,7 @@ Es soll nix fehle, ich will m’r Müehj genn.
 (Nach links ab.)
 
         
-",greber-sainte-cecile,39,6,0.5246021065390264,0.15384615384615385
+",27,greber-sainte-cecile,39,6,0.5246021065390264,0.15384615384615385
 111,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1034,7 +1034,7 @@ sin, wo in d’r Siwwemannsgaß gewohnt het, owwe-n-im vierte Stock.... un jetz 
           Waldhörner, als m’r brüche könne . . . Ja, ja . . . . „wir können es stolz sagen“ . . . .
 
         
-",greber-sainte-cecile,378,52,0.5201164498214561,0.13756613756613756
+",27,greber-sainte-cecile,378,52,0.5201164498214561,0.13756613756613756
 112,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -1046,7 +1046,7 @@ Cécile
 Herr Stieffatre, d’r Kommissionär Nümero siwwezeh isch do gsin un het d’Sachen-abgholt.
 
         
-",greber-sainte-cecile,19,1,0.408435494808788,0.05263157894736842
+",28,greber-sainte-cecile,19,1,0.408435494808788,0.05263157894736842
 113,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -1063,7 +1063,7 @@ Ich weiß.
           . .
 
         
-",greber-sainte-cecile,37,5,0.600325538146271,0.13513513513513514
+",28,greber-sainte-cecile,37,5,0.600325538146271,0.13513513513513514
 115,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1072,7 +1072,7 @@ Anatole:
 De Bombardon? — — — Jaja, ’r müeß schun lang züem Instrümentemacher.
 
         
-",greber-sainte-cecile,13,1,0.445728829830827,0.07692307692307693
+",28,greber-sainte-cecile,13,1,0.445728829830827,0.07692307692307693
 117,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1081,7 +1081,7 @@ Anatole:
 Ah so — — ganz erecht — — ’s isch jo d’r Instrümentemacher, wo Kindtaif het.
 
         
-",greber-sainte-cecile,17,1,0.426066672788339,0.058823529411764705
+",29,greber-sainte-cecile,17,1,0.426066672788339,0.058823529411764705
 119,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1094,7 +1094,7 @@ Geh m’r doch züem dicke Deifel mit dim Kommissionär Nümero siwwezeh . . . .
  I will nit gstört sin!!
 
         
-",greber-sainte-cecile,40,2,0.7949537367759831,0.05
+",29,greber-sainte-cecile,40,2,0.7949537367759831,0.05
 121,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1133,7 +1133,7 @@ Fanfare nach fünfundzwanzig Jahren eine glänzende Vergangenheit vor sich“ . 
  Un ich gieb d’r d’heilig Versicherung . . . .
 
         
-",greber-sainte-cecile,301,37,0.533048188578181,0.12292358803986711
+",30,greber-sainte-cecile,301,37,0.533048188578181,0.12292358803986711
 122,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1145,7 +1145,7 @@ Ich glaub, dir schwabbelt’s, daß dü so uff ’m Bode-n-erum fahrsch. Lehrsch
 noch e Hüfnaauel in d’r Wurscht finde, dis garandir ich d’r.
 
         
-",greber-sainte-cecile,38,4,0.5275759663742305,0.10526315789473684
+",30,greber-sainte-cecile,38,4,0.5275759663742305,0.10526315789473684
 123,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -1157,7 +1157,7 @@ Anatole
 O nein — — kein Idee — — ich hab jo — — ich hab jo nurre-n-e Guff gsüecht, wo ich verlore hab.
 
         
-",greber-sainte-cecile,38,2,0.4920333363941695,0.05263157894736842
+",30,greber-sainte-cecile,38,2,0.4920333363941695,0.05263157894736842
 125,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -1178,7 +1178,7 @@ O jeh, jetz kummt au die noch mit irem Drzwischegebabbels. Un ich müeß doch le
  Was witt denn?
 
         
-",greber-sainte-cecile,57,4,0.42515454466535585,0.07017543859649122
+",31,greber-sainte-cecile,57,4,0.42515454466535585,0.07017543859649122
 126,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1187,7 +1187,7 @@ Sophie:
 Ich hab dir blos saaue welle, daß d’r Désiré kumme-n-isch.
 
         
-",greber-sainte-cecile,13,2,0.5039946343639397,0.15384615384615385
+",31,greber-sainte-cecile,13,2,0.5039946343639397,0.15384615384615385
 127,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1199,7 +1199,7 @@ Sunsch nix? — — Dis isch m’r nix Neijs — — dis sieh ich schun an dim v
  „Wir sind ja alle Brüder“ . . . .
 
         
-",greber-sainte-cecile,37,4,0.5002796953102603,0.10810810810810811
+",31,greber-sainte-cecile,37,4,0.5002796953102603,0.10810810810810811
 128,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1210,7 +1210,7 @@ Ja, un dü d’r allersüferscht!
 (Ab nach links, die Thüre hinter sich ärgerlich zuschlagend.)
 
         
-",greber-sainte-cecile,17,2,0.6808030491795223,0.11764705882352941
+",32,greber-sainte-cecile,17,2,0.6808030491795223,0.11764705882352941
 129,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1219,7 +1219,7 @@ Anatole:
 Wenn mini Alte nurre nix gemerkt het — — sie dhädd mir d’ganz Baschdeed verderwe.
 
         
-",greber-sainte-cecile,17,3,0.4229069011597604,0.17647058823529413
+",32,greber-sainte-cecile,17,3,0.4229069011597604,0.17647058823529413
 130,comedy,Jules Karcher,MALE,,,,"
           
 Karcher
@@ -1232,7 +1232,7 @@ Karcher
 Bonjour, Herr Vicepräsident. Dü hesch m’r gschriwwe...
 
         
-",greber-sainte-cecile,31,4,0.47356144273279294,0.12903225806451613
+",32,greber-sainte-cecile,31,4,0.47356144273279294,0.12903225806451613
 131,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1244,7 +1244,7 @@ Ah, do bisch jo. Bonjour, Herr Schriftführer. Y-a-t-il quelque chose de nouveau
 .
 
         
-",greber-sainte-cecile,20,2,0.4799293764682192,0.1
+",32,greber-sainte-cecile,20,2,0.4799293764682192,0.1
 132,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1253,7 +1253,7 @@ Karcher:
 Ich wärd so wie so kumme wäje’m Fescht . . . .
 
         
-",greber-sainte-cecile,10,2,0.4520776766266905,0.2
+",33,greber-sainte-cecile,10,2,0.4520776766266905,0.2
 133,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1266,7 +1266,7 @@ Pscht! pscht!
           glich erfahre wurum. — Also d’abord, was gitts Neijs?
 
         
-",greber-sainte-cecile,31,2,0.5422491534839701,0.06451612903225806
+",33,greber-sainte-cecile,31,2,0.5422491534839701,0.06451612903225806
 134,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1278,7 +1278,7 @@ D’Dekoratione vum Saal sin gfitzt arranschiert. Nurre mein ich, m’r sotte no
           g’falle.
 
         
-",greber-sainte-cecile,58,10,0.47635882034399823,0.1724137931034483
+",33,greber-sainte-cecile,58,10,0.47635882034399823,0.1724137931034483
 135,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1287,7 +1287,7 @@ Anatole:
 Eh ben, loß es mache. Es kummt uff e paar Sü nit an.
 
         
-",greber-sainte-cecile,14,2,0.5077996242716264,0.14285714285714285
+",33,greber-sainte-cecile,14,2,0.5077996242716264,0.14285714285714285
 136,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1297,7 +1297,7 @@ Ich bin au bim Wirt gsin, un der het m’r mitgenn, daß d’r Kalbskopf en tort
           fünf Gäng üsgemacht sin worre; uff ’m Menü, wo m’r han drucke lon, stehn sechs.
 
         
-",greber-sainte-cecile,36,4,0.4690027499451397,0.1111111111111111
+",34,greber-sainte-cecile,36,4,0.4690027499451397,0.1111111111111111
 138,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1306,7 +1306,7 @@ Karcher:
 Der Wirt isch awer in sim Recht . . .
 
         
-",greber-sainte-cecile,8,1,0.4089874388986209,0.125
+",34,greber-sainte-cecile,8,1,0.4089874388986209,0.125
 139,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1316,7 +1316,7 @@ Anatole:
           dis kann jetz hintenooch nit widder umgschmisse wäre. Dis dhädd e schöns Gschlamassels genn.
 
         
-",greber-sainte-cecile,34,2,0.40481583718426245,0.058823529411764705
+",34,greber-sainte-cecile,34,2,0.40481583718426245,0.058823529411764705
 140,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1325,7 +1325,7 @@ Karcher:
 Er het awer gsaat, ’r kann’s Kuvert for denne Pris nit liffere.
 
         
-",greber-sainte-cecile,14,2,0.5218200513903936,0.14285714285714285
+",35,greber-sainte-cecile,14,2,0.5218200513903936,0.14285714285714285
 141,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1334,7 +1334,7 @@ Anatole:
 Ze bleche m’r halt statt 4 Mark fuffzig 5 Mark. Dis isch nit ze viel bezahlt, wenn’s güet isch.
 
         
-",greber-sainte-cecile,21,2,0.46392749870007016,0.09523809523809523
+",35,greber-sainte-cecile,21,2,0.46392749870007016,0.09523809523809523
 142,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1343,7 +1343,7 @@ Karcher:
 Was wurd awer d’r Herr Präsident d’rzüe saaue ?
 
         
-",greber-sainte-cecile,10,1,0.408435494808788,0.1
+",35,greber-sainte-cecile,10,1,0.408435494808788,0.1
 143,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1353,7 +1353,7 @@ Sappristi! Der Präsident isch krank, un so lang ’r krank isch, bin ich d’r 
           keiner drüwer.
 
         
-",greber-sainte-cecile,21,3,0.4647727570748939,0.14285714285714285
+",35,greber-sainte-cecile,21,3,0.4647727570748939,0.14285714285714285
 144,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1363,7 +1363,7 @@ Mir soll’s erecht sin. — ’s isch züe Schad, daß er nit kumme kann. Er he
           ghalte.
 
         
-",greber-sainte-cecile,23,3,0.5614893121652703,0.13043478260869565
+",36,greber-sainte-cecile,23,3,0.5614893121652703,0.13043478260869565
 145,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1372,7 +1372,7 @@ Anatole:
 Die Redd, wo ich halt, wurd au nit schlecht, je t’assure. Es gitt ebbs ganz Neijs.
 
         
-",greber-sainte-cecile,17,3,0.46930406840057975,0.17647058823529413
+",36,greber-sainte-cecile,17,3,0.46930406840057975,0.17647058823529413
 146,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1381,7 +1381,7 @@ Karcher:
 Derf m’r villicht wisse was?
 
         
-",greber-sainte-cecile,6,1,0.3300618280273141,0.16666666666666666
+",36,greber-sainte-cecile,6,1,0.3300618280273141,0.16666666666666666
 147,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1391,7 +1391,7 @@ Ich will d’r ’s saa — entre nous, verstehsch — es soll e surprise genn. 
           discours in zwei Sprooche ze halte. Je pense que ça suffira.
 
         
-",greber-sainte-cecile,32,3,0.43173697650054854,0.09375
+",36,greber-sainte-cecile,32,3,0.43173697650054854,0.09375
 149,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1400,7 +1400,7 @@ Anatole:
 Zerscht isch die Redd ganz ditsch un d’rno ganz franzeesch. Un gfitzt, was gfitzt heißt.
 
         
-",greber-sainte-cecile,17,4,0.48644928008865757,0.23529411764705882
+",37,greber-sainte-cecile,17,4,0.48644928008865757,0.23529411764705882
 150,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1409,7 +1409,7 @@ Karcher:
 Wurum nit uf Stroßburjerditsch? ’s isch doch sunsch allewyl so geredt worre.
 
         
-",greber-sainte-cecile,13,2,0.46705735398084425,0.15384615384615385
+",37,greber-sainte-cecile,13,2,0.46705735398084425,0.15384615384615385
 151,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1419,7 +1419,7 @@ Ih hab m’rs emol so in de Kopf gsetzt — ça me plait ainsi. Bi denne viele D
           anniversaire kumme, müeß ebbs Üßerordentlichs geleischt wäre.
 
         
-",greber-sainte-cecile,29,1,0.4247459181933735,0.034482758620689655
+",37,greber-sainte-cecile,29,1,0.4247459181933735,0.034482758620689655
 152,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1428,7 +1428,7 @@ Karcher:
 Ich denk awer... wie ich noch in Bischwiller bin gsin bi d’r Harmonie . . .
 
         
-",greber-sainte-cecile,14,1,0.2372072591888432,0.07142857142857142
+",38,greber-sainte-cecile,14,1,0.2372072591888432,0.07142857142857142
 153,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1444,7 +1444,7 @@ Do gitt’s ken Nein un ken Awer. — Es müeß so sin.
           même jour... wenn sie mir d’Redd eweckgenumme hätte, hätt ich uff d’r Stell mini Demission genn.
 
         
-",greber-sainte-cecile,104,7,0.43834729676647394,0.0673076923076923
+",38,greber-sainte-cecile,104,7,0.43834729676647394,0.0673076923076923
 154,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1453,7 +1453,7 @@ Karcher:
 Ja, ja, ich weiß.
 
         
-",greber-sainte-cecile,5,2,0.6402102505617395,0.4
+",38,greber-sainte-cecile,5,2,0.6402102505617395,0.4
 155,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1464,7 +1464,7 @@ Wie kann denn der Mensch mir saaue, ich kann nit ditsch un nit franzeesch! II ne
           ich wur im noch e Denkzettel anhenke, dem dumme Bebbelenz.
 
         
-",greber-sainte-cecile,50,1,0.4047137068345491,0.02
+",38,greber-sainte-cecile,50,1,0.4047137068345491,0.02
 157,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1474,7 +1474,7 @@ E Niddertracht isch’s, e Gemeinheit, e Beleidigung for d’ganz Societät! —
           dem müeß ich zaije, was ich kann un was ich ze leischte-n-im Stand bin.
 
         
-",greber-sainte-cecile,35,3,0.5543535403379557,0.08571428571428572
+",39,greber-sainte-cecile,35,3,0.5543535403379557,0.08571428571428572
 158,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1483,7 +1483,7 @@ Karcher:
 E surprise gitts uff jede Fall, do hesch erecht. — Hesch dich schun e bissel prepariert ?
 
         
-",greber-sainte-cecile,17,2,0.534,0.11764705882352941
+",39,greber-sainte-cecile,17,2,0.534,0.11764705882352941
 159,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1494,7 +1494,7 @@ Poh! — — was brüch ich mich groß ze prepariere! Am Daa vun d’r Sainte-C�
 leij ich m’r e bissel, was ich saaue will, et ça se fait comme ça.
 
         
-",greber-sainte-cecile,33,1,0.542,0.030303030303030304
+",39,greber-sainte-cecile,33,1,0.542,0.030303030303030304
 160,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1504,7 +1504,7 @@ Alle Reschpekt d’rfor! — — Awer ich müeß gehn. Ich will noch gschwind l�
           macht. Au revoir, Herr Vicepräsident.
 
         
-",greber-sainte-cecile,24,3,0.4574690537024575,0.125
+",40,greber-sainte-cecile,24,3,0.4574690537024575,0.125
 161,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1513,7 +1513,7 @@ Anatole:
 Au revoir, Herr Schriftführer.
 
         
-",greber-sainte-cecile,5,1,0.408435494808788,0.2
+",40,greber-sainte-cecile,5,1,0.408435494808788,0.2
 163,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1524,7 +1524,7 @@ Dunderlettel noch emol! Wo hawi denn mine Kopf? Natürlich, natürlich... ich sp
           lachsch nit driwwer.
 
         
-",greber-sainte-cecile,41,6,0.47416031575499645,0.14634146341463414
+",40,greber-sainte-cecile,41,6,0.47416031575499645,0.14634146341463414
 165,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1536,7 +1536,7 @@ Wie ich d’r schun gsaat hab — dis heißt, gsaat hawi’s noch nit, awer dü 
           fiere.
 
         
-",greber-sainte-cecile,65,2,0.443733204358181,0.03076923076923077
+",41,greber-sainte-cecile,65,2,0.443733204358181,0.03076923076923077
 166,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1545,7 +1545,7 @@ Karcher:
 Geh, mach Plän.
 
         
-",greber-sainte-cecile,4,1,0.5129603223191107,0.25
+",41,greber-sainte-cecile,4,1,0.5129603223191107,0.25
 167,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1560,7 +1560,7 @@ Anatole:
 — affin — — küm hamm’r uns versehn, ze fangt d’r Morje-n-an ze bleiche.
 
         
-",greber-sainte-cecile,100,8,0.5473485741798116,0.08
+",41,greber-sainte-cecile,100,8,0.5473485741798116,0.08
 168,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1569,7 +1569,7 @@ Karcher:
 Ja, wenn m’r en société isch . . . ihr wäre ghet han, was ’r gebrücht han.
 
         
-",greber-sainte-cecile,15,1,0.6402102505617395,0.06666666666666667
+",42,greber-sainte-cecile,15,1,0.6402102505617395,0.06666666666666667
 169,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1584,7 +1584,7 @@ Hör wittersch. Die Gschicht fangt jo ererscht an. — Wil’s halt schun acht i
           heime.
 
         
-",greber-sainte-cecile,112,15,0.48737497244513966,0.13392857142857142
+",42,greber-sainte-cecile,112,15,0.48737497244513966,0.13392857142857142
 170,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1593,7 +1593,7 @@ Karcher:
 E netti Leischtung.
 
         
-",greber-sainte-cecile,4,2,0.5013364985132835,0.5
+",42,greber-sainte-cecile,4,2,0.5013364985132835,0.5
 171,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1606,7 +1606,7 @@ Un in was for eme-n-état! Figure-toi: e Schlenzer in de Hosse, fuffzeh Centimet
           — un so gitts e Spektakel, daß d’ganz Noochberschaft zsammelauft.
 
         
-",greber-sainte-cecile,86,11,0.5402916765669649,0.12790697674418605
+",42,greber-sainte-cecile,86,11,0.5402916765669649,0.12790697674418605
 172,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1615,7 +1615,7 @@ Karcher:
 Nit e Wunder!
 
         
-",greber-sainte-cecile,4,1,0.7052726124038835,0.25
+",43,greber-sainte-cecile,4,1,0.7052726124038835,0.25
 174,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1624,7 +1624,7 @@ Karcher:
 ’s isch au ’s bescht gsin.
 
         
-",greber-sainte-cecile,7,1,0.704,0.14285714285714285
+",43,greber-sainte-cecile,7,1,0.704,0.14285714285714285
 175,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1635,7 +1635,7 @@ Am nächschte Daa, wie ich verwach, denk ich m’r, jetz wurd widder alles güet
           angelüejt. Un dis Gsicht vun minere Frau! Ich bin als zsammekeijt wie e Muck, wenn ich’s gsehn hab.
 
         
-",greber-sainte-cecile,57,4,0.5204450515410077,0.07017543859649122
+",43,greber-sainte-cecile,57,4,0.5204450515410077,0.07017543859649122
 176,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1644,7 +1644,7 @@ Karcher:
 Ja, ja, ich kenn dis üs aijener Erfahrung.
 
         
-",greber-sainte-cecile,9,3,0.6525883344430121,0.3333333333333333
+",44,greber-sainte-cecile,9,3,0.6525883344430121,0.3333333333333333
 177,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1655,7 +1655,7 @@ So het’s e Monet lang gewährt, drno het’s e-n-armistice genn, un am e schö
           nimmi drum anhalt. Was dhüed m’r nit for de Fridde! — — Affin, jetz wursch alles begriffe.
 
         
-",greber-sainte-cecile,59,7,0.4024438754642231,0.11864406779661017
+",44,greber-sainte-cecile,59,7,0.4024438754642231,0.11864406779661017
 179,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1674,7 +1674,7 @@ Ja, ich mein au! Was will i awer mache? Uff d’r einte Sitt steht züem erschte
           Dinschtmagd.
 
         
-",greber-sainte-cecile,87,6,0.48044171145437936,0.06896551724137931
+",44,greber-sainte-cecile,87,6,0.48044171145437936,0.06896551724137931
 181,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1687,7 +1687,7 @@ schun e bissel arig lang — — macht awer nix, macht awer nix. Wenn ich’s em
           üshebb, ich gib im de congé — — un do kann drüs wäre, was will.
 
         
-",greber-sainte-cecile,64,6,0.5065989721027458,0.09375
+",45,greber-sainte-cecile,64,6,0.5065989721027458,0.09375
 182,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1697,7 +1697,7 @@ Ze redd doch mit dinere Frau . . . . die het doch ellein ze kummedire. Explizier
           .
 
         
-",greber-sainte-cecile,18,1,0.2007839064646092,0.05555555555555555
+",45,greber-sainte-cecile,18,1,0.2007839064646092,0.05555555555555555
 183,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1710,7 +1710,7 @@ Um’s Gottswille nur dis nit. Vor e paar Woche hawi emol e bissel druff angsüe
  Iwwermorje-n-Owes müeß ich durichbrenne.
 
         
-",greber-sainte-cecile,43,1,0.6521682869372487,0.023255813953488372
+",45,greber-sainte-cecile,43,1,0.6521682869372487,0.023255813953488372
 185,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1719,7 +1719,7 @@ Anatole:
 C’est ça, un dü müesch m’r drbi helfe.
 
         
-",greber-sainte-cecile,9,1,0.435,0.1111111111111111
+",46,greber-sainte-cecile,9,1,0.435,0.1111111111111111
 187,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1732,7 +1732,7 @@ Dü derfsch m’r denn kleine service nit refüsiere. Also hör: mini schwarz Kl
           ganz güet dhüen, dü kennsch jo mini Alt nit un sie dich noch wenijer.
 
         
-",greber-sainte-cecile,86,11,0.431289815707834,0.12790697674418605
+",46,greber-sainte-cecile,86,11,0.431289815707834,0.12790697674418605
 188,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1741,7 +1741,7 @@ Karcher:
 Versüeche will is schun, awer . . . .
 
         
-",greber-sainte-cecile,6,1,0.5324653675407206,0.16666666666666666
+",47,greber-sainte-cecile,6,1,0.5324653675407206,0.16666666666666666
 189,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -1753,7 +1753,7 @@ Nurre kein Angscht. Mini Alt het jo kein Idee vun dere Sainte-Cécile ! Jetz mac
 (Nach rechts ab.)
 
         
-",greber-sainte-cecile,28,2,0.620659911604318,0.07142857142857142
+",47,greber-sainte-cecile,28,2,0.620659911604318,0.07142857142857142
 190,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1764,7 +1764,7 @@ Güet gelöuje-n-isch au nit wüscht. — Also los!
 (Er klopft mehrmals links an.)
 
         
-",greber-sainte-cecile,18,3,0.6476386838957842,0.16666666666666666
+",47,greber-sainte-cecile,18,3,0.6476386838957842,0.16666666666666666
 191,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1776,7 +1776,7 @@ Karcher:
 Ih hab doch d’Ehr mit d’r Madame Stieffatre?
 
         
-",greber-sainte-cecile,15,2,0.5476012625190941,0.13333333333333333
+",47,greber-sainte-cecile,15,2,0.5476012625190941,0.13333333333333333
 192,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1792,7 +1792,7 @@ Ganz erecht.
  Sin Sie der Herr üs Bischwiller ?
 
         
-",greber-sainte-cecile,37,4,0.48603932746063727,0.10810810810810811
+",48,greber-sainte-cecile,37,4,0.48603932746063727,0.10810810810810811
 194,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1802,7 +1802,7 @@ Ze saa ich ’ne vielmols merci, daß Sie sich dohere bemühjt han. Angenehm isc
           iwwernumme han — —
 
         
-",greber-sainte-cecile,25,2,0.431854223861569,0.08
+",48,greber-sainte-cecile,25,2,0.431854223861569,0.08
 196,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1815,7 +1815,7 @@ Awer ich versicher Sie, mir isch’s einfach schrecklich, mich züe so ebbs here
           awer mache? M’r schikt sich drin, dis isch’s Bescht.
 
         
-",greber-sainte-cecile,37,5,0.5274135149413459,0.13513513513513514
+",49,greber-sainte-cecile,37,5,0.5274135149413459,0.13513513513513514
 197,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1827,7 +1827,7 @@ Ja, dis isch’s Bescht.
  Ich versteh kein Wort.
 
         
-",greber-sainte-cecile,14,3,0.6547367501872464,0.21428571428571427
+",49,greber-sainte-cecile,14,3,0.6547367501872464,0.21428571428571427
 198,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1836,7 +1836,7 @@ Sophie:
 Kenne Sie mine Mann?
 
         
-",greber-sainte-cecile,5,2,0.4707321920288571,0.4
+",49,greber-sainte-cecile,5,2,0.4707321920288571,0.4
 199,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1845,7 +1845,7 @@ Karcher:
 O ja, ganz güet.
 
         
-",greber-sainte-cecile,5,3,0.5212365488214896,0.6
+",49,greber-sainte-cecile,5,3,0.5212365488214896,0.6
 200,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1858,7 +1858,7 @@ Fall, daß es je e kleiner Skandal sott’ genn — was jo leider Gotts nit ze h
           ze bitt ich Sie im Vorüs, alles ze-n-exküsiere ; Iri Müehj soll ’ne güet belohnt wäre.
 
         
-",greber-sainte-cecile,73,12,0.5311648256288063,0.1643835616438356
+",50,greber-sainte-cecile,73,12,0.5311648256288063,0.1643835616438356
 201,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1867,7 +1867,7 @@ Karcher:
 Wurum soll’s denn awer e Skandal genn?
 
         
-",greber-sainte-cecile,9,2,0.6001047000413875,0.2222222222222222
+",50,greber-sainte-cecile,9,2,0.6001047000413875,0.2222222222222222
 202,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1878,7 +1878,7 @@ Ja, ja, ich weiß, daß m’r lang druff warte könne. ’s isch arri genüe. Aw
           sitz ich wie uff Guffe-n-un Noodle, dis könne Sie m’r glauwe.
 
         
-",greber-sainte-cecile,50,8,0.558524717175142,0.16
+",50,greber-sainte-cecile,50,8,0.558524717175142,0.16
 203,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -1890,7 +1890,7 @@ Ich awer au, madame.
  Wisse Sie madame, am nächschde Samschdaa Owes isch in Schilke...
 
         
-",greber-sainte-cecile,20,3,0.4107078427816857,0.15
+",50,greber-sainte-cecile,20,3,0.4107078427816857,0.15
 204,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1906,7 +1906,7 @@ Ich weiß, ich weiß. Der Kirchechor gitt e Konzert. M’r sin au ingelade.
           kann’s Kumedie los gehn.
 
         
-",greber-sainte-cecile,49,4,0.5360048966420892,0.08163265306122448
+",51,greber-sainte-cecile,49,4,0.5360048966420892,0.08163265306122448
 205,comedy,Jules Karcher,MALE,,,,"
           
 Karcher
@@ -1921,7 +1921,7 @@ Ich fercht fascht, es gitt e tragédie.
  Wenn m’r nämlich Geld placiere will...
 
         
-",greber-sainte-cecile,21,3,0.5977553065809255,0.14285714285714285
+",51,greber-sainte-cecile,21,3,0.5977553065809255,0.14285714285714285
 206,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -1931,7 +1931,7 @@ Kumme Sie, wenn’s beliebt. Verzähle Sie m’r ebbs vun Bischwiller. Ich inter
           drfor.
 
         
-",greber-sainte-cecile,17,2,0.48178674573645575,0.11764705882352941
+",51,greber-sainte-cecile,17,2,0.48178674573645575,0.11764705882352941
 207,comedy,Jules Karcher,MALE,,,,"
           
 Karcher
@@ -1951,7 +1951,7 @@ Awer ich nit. Hätt ich nur schun mini Kommission üsgericht!
 (Beide nach links ab.)
 
         
-",greber-sainte-cecile,35,5,0.5466159553973091,0.14285714285714285
+",51,greber-sainte-cecile,35,5,0.5466159553973091,0.14285714285714285
 208,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -1961,7 +1961,7 @@ Kumm erin, Barthélemy, kumm erin. Sychsch, dis isch d’r Platz, wo dü dini Lo
           kannsch.
 
         
-",greber-sainte-cecile,17,4,0.4371670153089916,0.23529411764705882
+",52,greber-sainte-cecile,17,4,0.4371670153089916,0.23529411764705882
 209,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté
@@ -1974,7 +1974,7 @@ Schanté
 Oder wo ich nüsgschmisse wur, ’s isch jo ’s nämli.
 
         
-",greber-sainte-cecile,35,3,0.4172971270557278,0.08571428571428572
+",52,greber-sainte-cecile,35,3,0.4172971270557278,0.08571428571428572
 210,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -1990,7 +1990,7 @@ Kopf hoch, Barthélemy, Kopf hoch! Halt dich nur an dini Instrüktione. Wenn de�
           Un wenn de merksch, daß d’Flint losgeht, — d’rno furt wie’s Dunderwedder.
 
         
-",greber-sainte-cecile,102,15,0.5519066386298007,0.14705882352941177
+",52,greber-sainte-cecile,102,15,0.5519066386298007,0.14705882352941177
 211,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -1999,7 +1999,7 @@ Schanté:
 Verlonn Sie sich uff mich, Herr Enishänsel, m’r wäre’s schun packe.
 
         
-",greber-sainte-cecile,13,3,0.45542507733144655,0.23076923076923078
+",52,greber-sainte-cecile,13,3,0.45542507733144655,0.23076923076923078
 212,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -2009,7 +2009,7 @@ Zaij denne Litt, daß e Bischwillemer züem Wenigste grad so viel Schokola gfres
           Stroßburjer.
 
         
-",greber-sainte-cecile,18,2,0.4377256639857043,0.1111111111111111
+",53,greber-sainte-cecile,18,2,0.4377256639857043,0.1111111111111111
 213,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2018,7 +2018,7 @@ Schanté:
 Ich mein au!
 
         
-",greber-sainte-cecile,4,1,0.4855792551331206,0.25
+",53,greber-sainte-cecile,4,1,0.4855792551331206,0.25
 215,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2027,7 +2027,7 @@ Schanté:
 Lon Sie mich nur mache. Wenn ich emol ze schmüse-n-anfang, ze kracht’s.
 
         
-",greber-sainte-cecile,16,2,0.4665460896448803,0.125
+",53,greber-sainte-cecile,16,2,0.4665460896448803,0.125
 216,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -2036,7 +2036,7 @@ Enishänsel:
 Bravo, bravo! Ich sieh, ich hab mich mit d’r nit trumpiert. Ich loß dich jetz ellein.
 
         
-",greber-sainte-cecile,17,1,0.2007839064646092,0.058823529411764705
+",54,greber-sainte-cecile,17,1,0.2007839064646092,0.058823529411764705
 217,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2045,7 +2045,7 @@ Schanté:
 ’s isch güet, Herr Enishänsel.
 
         
-",greber-sainte-cecile,6,2,0.4529341089615892,0.3333333333333333
+",54,greber-sainte-cecile,6,2,0.4529341089615892,0.3333333333333333
 218,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel
@@ -2059,7 +2059,7 @@ Hebbt’s noch? Nurre nit eweck mache, es könnt züe licht e Knochefraß genn. 
 (Durch die Mitte ab.)
 
         
-",greber-sainte-cecile,36,3,0.3742623203234498,0.08333333333333333
+",54,greber-sainte-cecile,36,3,0.3742623203234498,0.08333333333333333
 219,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2073,7 +2073,7 @@ E rechts Büewestickel. Awer was geht’s mich an! — — Halt, was hör ich? i
  Wahrhafti dis isch sie. Sie het Zahnweh.
 
         
-",greber-sainte-cecile,59,6,0.48930667792452703,0.1016949152542373
+",54,greber-sainte-cecile,59,6,0.48930667792452703,0.1016949152542373
 220,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2082,7 +2082,7 @@ Schanté:
 Bonjour, Madam. Ich kumm vum Herr Enishänsel.
 
         
-",greber-sainte-cecile,8,3,0.42805315416949696,0.375
+",55,greber-sainte-cecile,8,3,0.42805315416949696,0.375
 221,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2095,7 +2095,7 @@ Bonjour m’sieur.
           Wittfrau bin.
 
         
-",greber-sainte-cecile,23,3,0.43647118143837244,0.13043478260869565
+",55,greber-sainte-cecile,23,3,0.43647118143837244,0.13043478260869565
 222,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2104,7 +2104,7 @@ Schanté:
 Ich bin d’r Herr Barthélemy Schanté.
 
         
-",greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
+",55,greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
 223,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2122,7 +2122,7 @@ Enchanté de vous voir m’sieur Schanté.
  Was beliebt Herr Schanté ?
 
         
-",greber-sainte-cecile,30,3,0.5336776938030515,0.1
+",55,greber-sainte-cecile,30,3,0.5336776938030515,0.1
 224,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2131,7 +2131,7 @@ Schanté:
 Offe-n-erüs gsaat, ich kumm nur wäjen-Ine, madame.
 
         
-",greber-sainte-cecile,10,3,0.4441758084228114,0.3
+",56,greber-sainte-cecile,10,3,0.4441758084228114,0.3
 225,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2143,7 +2143,7 @@ Cécile
 Er kummt wäje mir!
 
         
-",greber-sainte-cecile,10,1,0.837,0.1
+",56,greber-sainte-cecile,10,1,0.837,0.1
 226,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2153,7 +2153,7 @@ Ich hab schon so viel Schöns un Güets vun ’ne ghört, daß ich mich wirklich
           lehre.
 
         
-",greber-sainte-cecile,21,1,0.4247508854164138,0.047619047619047616
+",56,greber-sainte-cecile,21,1,0.4247508854164138,0.047619047619047616
 227,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2165,7 +2165,7 @@ Vous êtes bien aimable, m’sieur.
  E gfitzter Typ! Ganz andersch mie d’r Kommissionär Nümero siwwezeh.
 
         
-",greber-sainte-cecile,20,1,0.426066672788339,0.05
+",56,greber-sainte-cecile,20,1,0.426066672788339,0.05
 228,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2175,7 +2175,7 @@ Un so hoff ich denn au, daß Sie mich nit schlecht uffnemme wäre, wenn Sie erfa
           erfahre ....
 
         
-",greber-sainte-cecile,20,5,0.5430555868763938,0.25
+",57,greber-sainte-cecile,20,5,0.5430555868763938,0.25
 230,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2184,7 +2184,7 @@ Schanté:
 . . . . daß Sie m’r ganz miserawel . . . güet gfalle . . .
 
         
-",greber-sainte-cecile,8,4,0.4729908660567126,0.5
+",57,greber-sainte-cecile,8,4,0.4729908660567126,0.5
 232,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2196,7 +2196,7 @@ Schanté:
  ’s geht, wie gschmiert.
 
         
-",greber-sainte-cecile,17,1,0.6432717606026254,0.058823529411764705
+",58,greber-sainte-cecile,17,1,0.6432717606026254,0.058823529411764705
 233,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2212,7 +2212,7 @@ Cécile:
  Jetz müeß ich Sie awer doch dumm fröuje.
 
         
-",greber-sainte-cecile,33,8,0.4809494445638103,0.24242424242424243
+",58,greber-sainte-cecile,33,8,0.4809494445638103,0.24242424242424243
 234,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2221,7 +2221,7 @@ Schanté:
 Plait-il madame?
 
         
-",greber-sainte-cecile,3,1,0.4509780495063294,0.3333333333333333
+",58,greber-sainte-cecile,3,1,0.4509780495063294,0.3333333333333333
 236,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2230,7 +2230,7 @@ Schanté:
 Ja natürlich, ich bin ghirot — — bardon, dis heißt, ich bin’s gsin. Ich bin Wittmann.
 
         
-",greber-sainte-cecile,18,2,0.5305706476429223,0.1111111111111111
+",59,greber-sainte-cecile,18,2,0.5305706476429223,0.1111111111111111
 237,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2242,7 +2242,7 @@ Cécile
 E Wittmann! — Ohne Kinder?
 
         
-",greber-sainte-cecile,9,2,0.4469838447769824,0.2222222222222222
+",59,greber-sainte-cecile,9,2,0.4469838447769824,0.2222222222222222
 238,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2252,7 +2252,7 @@ Ich hab nur dreij Kinder — — bardon, dis heißt, mini Mamme het dreij Kinder
           bin e Kind vun minere Mamme.
 
         
-",greber-sainte-cecile,25,5,0.44526055712187806,0.2
+",59,greber-sainte-cecile,25,5,0.44526055712187806,0.2
 239,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2267,7 +2267,7 @@ Dis isch jo großarti.
  Herr Barthelmeh . . . .
 
         
-",greber-sainte-cecile,22,3,0.6170765637442116,0.13636363636363635
+",59,greber-sainte-cecile,22,3,0.6170765637442116,0.13636363636363635
 240,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté
@@ -2279,7 +2279,7 @@ Schanté
 Sie redd mich schun mit ’m Vornamme-n-an. Jetz derft d’r Alt kumme.
 
         
-",greber-sainte-cecile,19,1,0.4247459181933735,0.05263157894736842
+",60,greber-sainte-cecile,19,1,0.4247459181933735,0.05263157894736842
 241,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2290,7 +2290,7 @@ Liewer Barthelmeh .... liewer Barthelmeh . . . .
 (Sie nähert sich ihm.)
 
         
-",greber-sainte-cecile,11,2,0.5644888482254989,0.18181818181818182
+",60,greber-sainte-cecile,11,2,0.5644888482254989,0.18181818181818182
 242,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté
@@ -2302,7 +2302,7 @@ Schanté
 O, dü heiliger Strohsack !
 
         
-",greber-sainte-cecile,9,1,0.306516452893079,0.1111111111111111
+",60,greber-sainte-cecile,9,1,0.306516452893079,0.1111111111111111
 243,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2311,7 +2311,7 @@ Cécile:
 Dü kummsch wäje mir . . . . dü witt mich hirote.
 
         
-",greber-sainte-cecile,9,1,0.657756892221241,0.1111111111111111
+",60,greber-sainte-cecile,9,1,0.657756892221241,0.1111111111111111
 245,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2320,7 +2320,7 @@ Cécile:
 ’s isch doch züe schön, ’s Familjelewe.
 
         
-",greber-sainte-cecile,8,1,0.4951955974553775,0.125
+",61,greber-sainte-cecile,8,1,0.4951955974553775,0.125
 246,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2329,7 +2329,7 @@ Schanté:
 Un b’sundersch mit ere Person wie Sie !!
 
         
-",greber-sainte-cecile,8,1,0.4451380008192627,0.125
+",61,greber-sainte-cecile,8,1,0.4451380008192627,0.125
 247,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2340,7 +2340,7 @@ Dü derfsch m’r nimmi „Sie“ saaue. Denn ich glaub, m’r sin im Moment, fo
 (Sie geht auf ihn zu.)
 
         
-",greber-sainte-cecile,27,1,0.3561173479361921,0.037037037037037035
+",61,greber-sainte-cecile,27,1,0.3561173479361921,0.037037037037037035
 248,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2356,7 +2356,7 @@ M’r sin uff ’m beschte Wäj d’rzüe.
           kummt’s druff an.
 
         
-",greber-sainte-cecile,38,2,0.4643566287419728,0.05263157894736842
+",62,greber-sainte-cecile,38,2,0.4643566287419728,0.05263157894736842
 249,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2368,7 +2368,7 @@ Cécile:
 Wer het gedenkt, daß i noch so glückli wur!!
 
         
-",greber-sainte-cecile,19,1,0.76,0.05263157894736842
+",62,greber-sainte-cecile,19,1,0.76,0.05263157894736842
 250,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2382,7 +2382,7 @@ Anatole:
 (Er bewegt beständig die Lippen)
 
         
-",greber-sainte-cecile,23,2,0.5328338359546145,0.08695652173913043
+",62,greber-sainte-cecile,23,2,0.5328338359546145,0.08695652173913043
 251,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2393,7 +2393,7 @@ So kumm denn an min Herz, min güeter, liewer Barthelmeh!
 (Sie umarmen sich; der Kopf Schanté’s schaut nach dem Publikum.)
 
         
-",greber-sainte-cecile,24,4,0.48513349127143623,0.16666666666666666
+",62,greber-sainte-cecile,24,4,0.48513349127143623,0.16666666666666666
 252,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2404,7 +2404,7 @@ Jetz wurds güet.
 (Schneidet eine Grimasse.)
 
         
-",greber-sainte-cecile,9,1,0.4974327231143904,0.1111111111111111
+",63,greber-sainte-cecile,9,1,0.4974327231143904,0.1111111111111111
 253,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2416,7 +2416,7 @@ Anatole:
 L’union fait la force! Vive la Fanfare!
 
         
-",greber-sainte-cecile,12,1,0.64,0.08333333333333333
+",63,greber-sainte-cecile,12,1,0.64,0.08333333333333333
 254,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2428,7 +2428,7 @@ Gieb m’r e Schmutz.
  O wie hawi dich so gern! Jetz könnt i grad sterwe!
 
         
-",greber-sainte-cecile,21,4,0.5870560170576219,0.19047619047619047
+",63,greber-sainte-cecile,21,4,0.5870560170576219,0.19047619047619047
 255,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2440,7 +2440,7 @@ Schanté:
 E warmi Person !
 
         
-",greber-sainte-cecile,11,2,0.4489732864229624,0.18181818181818182
+",63,greber-sainte-cecile,11,2,0.4489732864229624,0.18181818181818182
 256,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2453,7 +2453,7 @@ A plusieurs forces... à plusieurs mains ...
  Herrschaft noch emol! Dis isch doch e bissel starker Düwack.
 
         
-",greber-sainte-cecile,33,4,0.6776975728841375,0.12121212121212122
+",64,greber-sainte-cecile,33,4,0.6776975728841375,0.12121212121212122
 257,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2469,7 +2469,7 @@ Schanté:
  Barthelmeh !!
 
         
-",greber-sainte-cecile,23,3,0.5504791098255802,0.13043478260869565
+",64,greber-sainte-cecile,23,3,0.5504791098255802,0.13043478260869565
 258,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -2485,7 +2485,7 @@ Potz Mordgallee !
           Rendez-vous in mim Hüs! Standare Sapperment!
 
         
-",greber-sainte-cecile,41,3,0.5233060219507254,0.07317073170731707
+",64,greber-sainte-cecile,41,3,0.5233060219507254,0.07317073170731707
 259,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2496,7 +2496,7 @@ Schanté:
 (Sucht seinen Hut.)
 
         
-",greber-sainte-cecile,16,3,0.6704185399831714,0.1875
+",64,greber-sainte-cecile,16,3,0.6704185399831714,0.1875
 260,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -2508,7 +2508,7 @@ Anatole
 Was hesch dü in mim Hüs mit dem Manschettebüer ze schaffe?
 
         
-",greber-sainte-cecile,16,1,0.2761480525313476,0.0625
+",65,greber-sainte-cecile,16,1,0.2761480525313476,0.0625
 261,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2517,7 +2517,7 @@ Cécile:
 Denne Mann loß i nit beleidige. Dis isch min Liebschter!
 
         
-",greber-sainte-cecile,11,3,0.5774467554269154,0.2727272727272727
+",65,greber-sainte-cecile,11,3,0.5774467554269154,0.2727272727272727
 262,comedy,Barthélemy Schanté,MALE,,,,"
           
 Schanté:
@@ -2528,7 +2528,7 @@ Bonjour bisamme. Au revoir, ma Chérie!
 (Er wirft ihr eine Kußhand zu.)
 
         
-",greber-sainte-cecile,15,1,0.426066672788339,0.06666666666666667
+",65,greber-sainte-cecile,15,1,0.426066672788339,0.06666666666666667
 263,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2537,7 +2537,7 @@ Anatole:
 Halt, bliewe Sie! bliewe Sie.
 
         
-",greber-sainte-cecile,6,1,0.4304222742857499,0.16666666666666666
+",65,greber-sainte-cecile,6,1,0.4304222742857499,0.16666666666666666
 265,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2547,7 +2547,7 @@ Anatole:
           jungs Maidel ?
 
         
-",greber-sainte-cecile,24,3,0.6432564119281508,0.125
+",66,greber-sainte-cecile,24,3,0.6432564119281508,0.125
 266,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2556,7 +2556,7 @@ Cécile:
 Herr Stieffatre . . .
 
         
-",greber-sainte-cecile,3,1,0.408435494808788,0.3333333333333333
+",66,greber-sainte-cecile,3,1,0.408435494808788,0.3333333333333333
 267,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2572,7 +2572,7 @@ A présent halt’s Mül!
           Hüs do.
 
         
-",greber-sainte-cecile,42,6,0.423590778962665,0.14285714285714285
+",66,greber-sainte-cecile,42,6,0.423590778962665,0.14285714285714285
 268,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2584,7 +2584,7 @@ Cécile
 Ich bitt Sie um Alles in d’r Welt . . .
 
         
-",greber-sainte-cecile,12,1,0.608,0.08333333333333333
+",67,greber-sainte-cecile,12,1,0.608,0.08333333333333333
 269,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2594,7 +2594,7 @@ Nix do! nix do! nix do! — — Dü meinsch, dü kannsch do mache, was de witt. 
           zaije, wer Herr im Hüs isch!
 
         
-",greber-sainte-cecile,29,2,0.3422917736700678,0.06896551724137931
+",67,greber-sainte-cecile,29,2,0.3422917736700678,0.06896551724137931
 270,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2606,7 +2606,7 @@ Cécile
 Ich versprich ’ne...
 
         
-",greber-sainte-cecile,8,1,0.4719862633361933,0.125
+",67,greber-sainte-cecile,8,1,0.4719862633361933,0.125
 271,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2616,7 +2616,7 @@ Ih hab dich schun lang satt, daß de’s nurre weisch. ’s isch ferdi mit uns..
           pack dini Bimbelebaasch zsamme, no kreijsch din Geld un dini Invalidekaart, un d’rno kannsch gehn.
 
         
-",greber-sainte-cecile,36,4,0.47359415417728773,0.1111111111111111
+",67,greber-sainte-cecile,36,4,0.47359415417728773,0.1111111111111111
 272,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -2628,7 +2628,7 @@ Cécile
 Herr Stieffatre, güeter Herr Stieffatre . . .
 
         
-",greber-sainte-cecile,10,3,0.4381012375773221,0.3
+",68,greber-sainte-cecile,10,3,0.4381012375773221,0.3
 275,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2637,7 +2637,7 @@ Anatole:
 Holla — — wer saat ebbs vun ere Sainte-Cécile? . . . . Dü meinsch doch nit . . . .
 
         
-",greber-sainte-cecile,14,1,0.5905904562773836,0.07142857142857142
+",68,greber-sainte-cecile,14,1,0.5905904562773836,0.07142857142857142
 278,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2647,7 +2647,7 @@ Sie saaue ’s jo schun widder. — — Aha! Jetz geht m’r e Liecht uff. Herr 
           alles.
 
         
-",greber-sainte-cecile,22,2,0.424717747404394,0.09090909090909091
+",69,greber-sainte-cecile,22,2,0.424717747404394,0.09090909090909091
 279,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2656,7 +2656,7 @@ Anatole:
 Was weisch? — — ’s isch nit wohr — —
 
         
-",greber-sainte-cecile,11,1,0.4120878812309737,0.09090909090909091
+",69,greber-sainte-cecile,11,1,0.4120878812309737,0.09090909090909091
 280,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2665,7 +2665,7 @@ Cécile:
 Herr Stieffatre, Sie gehn uff e Sainte-Cécile.
 
         
-",greber-sainte-cecile,8,2,0.424717747404394,0.25
+",70,greber-sainte-cecile,8,2,0.424717747404394,0.25
 281,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2674,7 +2674,7 @@ Anatole:
 Dir isch, glauwi, nit güet. Wie kummsch denn uff so ebbs?
 
         
-",greber-sainte-cecile,12,3,0.45115406856931256,0.25
+",70,greber-sainte-cecile,12,3,0.45115406856931256,0.25
 282,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2685,7 +2685,7 @@ Jetz weiß i au, wurum Sie Ire Bombardon un Iri schwarzi Klift han hole lon, jet
           d’Kindtaif gefiert wurd.
 
         
-",greber-sainte-cecile,45,8,0.46981791681202534,0.17777777777777778
+",70,greber-sainte-cecile,45,8,0.46981791681202534,0.17777777777777778
 283,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2697,7 +2697,7 @@ Anatole:
 Was witt dü mache?
 
         
-",greber-sainte-cecile,8,1,0.923,0.125
+",70,greber-sainte-cecile,8,1,0.923,0.125
 284,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2708,7 +2708,7 @@ Ich geh d’r Madam saaue, daß Sie uff e Sainte-Cécile gehn.
 (Sie will gehen.)
 
         
-",greber-sainte-cecile,17,2,0.4459890247531647,0.11764705882352941
+",71,greber-sainte-cecile,17,2,0.4459890247531647,0.11764705882352941
 285,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -2723,7 +2723,7 @@ Pscht! pscht! witte stille sin!
  O, ich Dolle!
 
         
-",greber-sainte-cecile,18,3,0.4294945490524216,0.16666666666666666
+",71,greber-sainte-cecile,18,3,0.4294945490524216,0.16666666666666666
 286,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2732,7 +2732,7 @@ Cécile:
 Ich möcht noch d’r Madam de letschte Dienscht erwiese, eb daß i furt geh.
 
         
-",greber-sainte-cecile,15,1,0.4509780495063294,0.06666666666666667
+",71,greber-sainte-cecile,15,1,0.4509780495063294,0.06666666666666667
 288,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2741,7 +2741,7 @@ Cécile:
 Also Sie gehn wirkli uff e Sainte-Cécile! Awer nein!
 
         
-",greber-sainte-cecile,10,2,0.4305310982222226,0.2
+",72,greber-sainte-cecile,10,2,0.4305310982222226,0.2
 289,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2750,7 +2750,7 @@ Anatole:
 Dis hawi nit gsaat. — — Hör, wenn de nix verrootsch, ze will i vergesse, was i hit gsehn hab.
 
         
-",greber-sainte-cecile,21,1,0.3446951970086845,0.047619047619047616
+",72,greber-sainte-cecile,21,1,0.3446951970086845,0.047619047619047616
 290,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2759,7 +2759,7 @@ Cécile:
 Isch dis alles? Do d’rmit bin i nit zefridde.
 
         
-",greber-sainte-cecile,11,1,0.611381250605775,0.09090909090909091
+",72,greber-sainte-cecile,11,1,0.611381250605775,0.09090909090909091
 291,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2771,7 +2771,7 @@ Ja was witt denn sunsch noch?
  O, ich Rhinozeros !
 
         
-",greber-sainte-cecile,14,1,0.6402102505617395,0.07142857142857142
+",72,greber-sainte-cecile,14,1,0.6402102505617395,0.07142857142857142
 292,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2780,7 +2780,7 @@ Cécile:
 Zerscht dhüe ich ’ne annonciere, daß ich mich mit ’m Barthelmeh hirot.
 
         
-",greber-sainte-cecile,13,1,0.657756892221241,0.07692307692307693
+",73,greber-sainte-cecile,13,1,0.657756892221241,0.07692307692307693
 294,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2790,7 +2790,7 @@ Wenn m’r hirot, ze will m’r e Hüsstier vun sinere Herrschaft, surtout wenn 
           nämliche Stell gewese-n-isch.
 
         
-",greber-sainte-cecile,25,4,0.5407537348715541,0.16
+",73,greber-sainte-cecile,25,4,0.5407537348715541,0.16
 296,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2799,7 +2799,7 @@ Cécile:
 Züem wenigschte zweihundert Liwer.
 
         
-",greber-sainte-cecile,5,1,0.5644888482254989,0.2
+",74,greber-sainte-cecile,5,1,0.5644888482254989,0.2
 297,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2808,7 +2808,7 @@ Anatole:
 Zweihundert Liwer! Ja do, was meinsch ! Dis isch ze viel, dis gib ich nit.
 
         
-",greber-sainte-cecile,15,2,0.6023495493936193,0.13333333333333333
+",74,greber-sainte-cecile,15,2,0.6023495493936193,0.13333333333333333
 298,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2819,7 +2819,7 @@ Eh ben, ze geh ich züe d’r madame: ich müeß ere-n-ebbs verzähle.
 (Will gehen.)
 
         
-",greber-sainte-cecile,19,2,0.512788649024791,0.10526315789473684
+",74,greber-sainte-cecile,19,2,0.512788649024791,0.10526315789473684
 299,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -2837,7 +2837,7 @@ Ze blie doch! ze blie doch!
  Affin, ich gib d’r se, daß d’arm Seel Rüehj het.
 
         
-",greber-sainte-cecile,38,6,0.3773167603620318,0.15789473684210525
+",74,greber-sainte-cecile,38,6,0.3773167603620318,0.15789473684210525
 300,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2846,7 +2846,7 @@ Cécile:
 Ich dank schön, Herr Stieffatre. Sie sin züe güet.
 
         
-",greber-sainte-cecile,10,4,0.4620237621983138,0.4
+",75,greber-sainte-cecile,10,4,0.4620237621983138,0.4
 302,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2855,7 +2855,7 @@ Cécile:
 Ken Wort schnüüf ich drvun, ich versprich’s ne.
 
         
-",greber-sainte-cecile,10,2,0.5459931316680966,0.2
+",75,greber-sainte-cecile,10,2,0.5459931316680966,0.2
 304,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2864,7 +2864,7 @@ Cécile:
 Ich denk, ich blie noch bis züem nächschte Ziel, un drno hirot ich mich.
 
         
-",greber-sainte-cecile,15,2,0.5919048552550634,0.13333333333333333
+",76,greber-sainte-cecile,15,2,0.5919048552550634,0.13333333333333333
 305,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2873,7 +2873,7 @@ Anatole:
 ’s isch güet.
 
         
-",greber-sainte-cecile,4,1,0.4974327231143904,0.25
+",76,greber-sainte-cecile,4,1,0.4974327231143904,0.25
 306,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -2885,7 +2885,7 @@ Ich geh jetz nüs wittersch beijle, daß d’r Herr e schöns Hemd het, wenn ’
 (Durch die Mitte ab.)
 
         
-",greber-sainte-cecile,26,2,0.424717747404394,0.07692307692307693
+",76,greber-sainte-cecile,26,2,0.424717747404394,0.07692307692307693
 308,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2904,7 +2904,7 @@ fünfhundert Liwer schuldi.
           erinnern“....
 
         
-",greber-sainte-cecile,75,9,0.4820018185063028,0.12
+",77,greber-sainte-cecile,75,9,0.4820018185063028,0.12
 309,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -2916,7 +2916,7 @@ Sophie
 Kumme Sie; do sitzt ’r un schriebt.
 
         
-",greber-sainte-cecile,17,1,0.4247459181933735,0.058823529411764705
+",77,greber-sainte-cecile,17,1,0.4247459181933735,0.058823529411764705
 310,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -2931,7 +2931,7 @@ Sin die als noch nit ferdi? Ja, ja, wer minere-n-Alt emol in d’Händ gerooth .
  Ich geh nüwwer, wenn de witt ....
 
         
-",greber-sainte-cecile,35,2,0.6402102505617395,0.05714285714285714
+",77,greber-sainte-cecile,35,2,0.6402102505617395,0.05714285714285714
 311,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -2940,7 +2940,7 @@ Sophie:
 O nein, blie numme, m’r dhüen dich nit lang deranschiere.
 
         
-",greber-sainte-cecile,11,1,0.445728829830827,0.09090909090909091
+",77,greber-sainte-cecile,11,1,0.445728829830827,0.09090909090909091
 312,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -2952,7 +2952,7 @@ Mir isch’s au liewer.
           gleichfalls.)
 
         
-",greber-sainte-cecile,20,1,0.5644888482254989,0.05
+",78,greber-sainte-cecile,20,1,0.5644888482254989,0.05
 313,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -2969,7 +2969,7 @@ Ja, denke Sie, ich dhädd züe gern emol nüwwer uff Bischwiller fahre. ’s isc
  Jetz saaue Sie doch ebbs.
 
         
-",greber-sainte-cecile,63,7,0.5277705250189266,0.1111111111111111
+",78,greber-sainte-cecile,63,7,0.5277705250189266,0.1111111111111111
 314,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -2980,7 +2980,7 @@ Die verkohlt denne-n-arme Jules, daß ’r blöuj anlauft. Un ich kann nit schri
 (Er zerknüllt den beschriebenen Bogen und wirft ihn ärgerlich in den Papierkorb.)
 
         
-",greber-sainte-cecile,30,2,0.7807373692941615,0.06666666666666667
+",78,greber-sainte-cecile,30,2,0.7807373692941615,0.06666666666666667
 315,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -2989,7 +2989,7 @@ Karcher:
 Ihr Mann möcht gern . . . .
 
         
-",greber-sainte-cecile,5,2,0.4439932552302356,0.4
+",78,greber-sainte-cecile,5,2,0.4439932552302356,0.4
 316,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3000,7 +3000,7 @@ Was der gern möcht, geht mich nix an. — — Wenn m’r so lang ghirot ish, m�
           amesiere wäre.
 
         
-",greber-sainte-cecile,40,4,0.5007075528416762,0.1
+",79,greber-sainte-cecile,40,4,0.5007075528416762,0.1
 317,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -3011,7 +3011,7 @@ Was for e Partie-Pläsier ?
 (Sophie zwinkert ihm lebhaft zu.)
 
         
-",greber-sainte-cecile,12,1,0.7307132671999994,0.08333333333333333
+",79,greber-sainte-cecile,12,1,0.7307132671999994,0.08333333333333333
 318,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3023,7 +3023,7 @@ Jetz loß denne Herr doch au emol redde, hörsch doch, daß ’r d’r ebbs ze s
 (Er zerknüllt den zweiten Bogen und wirft ihn ärgerlich in den Papierkorb.)
 
         
-",greber-sainte-cecile,36,2,0.5649156713030464,0.05555555555555555
+",79,greber-sainte-cecile,36,2,0.5649156713030464,0.05555555555555555
 319,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3039,7 +3039,7 @@ Ich hoff, daß m’r dem glükliche Moment, wo m’r uns han kenne lehre, noch s
  Jetz saaue Sie doch nur ein Wort!!
 
         
-",greber-sainte-cecile,55,7,0.5567486541288929,0.12727272727272726
+",79,greber-sainte-cecile,55,7,0.5567486541288929,0.12727272727272726
 320,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -3051,7 +3051,7 @@ Anatole
 Was Dunders babbelt do mini Alt? Dis isch jo meh Mord!
 
         
-",greber-sainte-cecile,16,2,0.6945054956317017,0.125
+",80,greber-sainte-cecile,16,2,0.6945054956317017,0.125
 324,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3062,7 +3062,7 @@ Angenumme, angenumme! O, wie fraij ich mich druff! Ja Sie glauwe gar nit, was ic
           andersch wo süeche.
 
         
-",greber-sainte-cecile,40,7,0.5230280367839978,0.175
+",81,greber-sainte-cecile,40,7,0.5230280367839978,0.175
 325,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3080,7 +3080,7 @@ Dunderlettel noch emol, jetz hawi’s dick.
 (Sophie und Karcher stehen auf.)
 
         
-",greber-sainte-cecile,54,7,0.4538559842910163,0.12962962962962962
+",81,greber-sainte-cecile,54,7,0.4538559842910163,0.12962962962962962
 328,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3089,7 +3089,7 @@ Anatole:
 ’s isch doch züe schändli mit denne Wibslitt !
 
         
-",greber-sainte-cecile,9,1,0.694981784052684,0.1111111111111111
+",82,greber-sainte-cecile,9,1,0.694981784052684,0.1111111111111111
 329,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -3108,7 +3108,7 @@ Bonjour bisamme!
           Namme-n-ebbs haltsch. Schäm dich doch e bissel!
 
         
-",greber-sainte-cecile,92,11,0.4755714008859711,0.11956521739130435
+",82,greber-sainte-cecile,92,11,0.4755714008859711,0.11956521739130435
 330,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -3120,7 +3120,7 @@ Sophie
 Un wenn ich jetz doch mit dem Herr üsgemacht hätt . . . . .
 
         
-",greber-sainte-cecile,14,2,0.525717747404394,0.14285714285714285
+",82,greber-sainte-cecile,14,2,0.525717747404394,0.14285714285714285
 331,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3131,7 +3131,7 @@ Eh ben, ze geh anne! Ich wünsch d’r viel amusement! — — Iwwerhaupt: mach,
           Wettmache-n-isch kein Sind! Revanche est douce! Dis isch ditsch genüe.
 
         
-",greber-sainte-cecile,54,5,0.6786670557765181,0.09259259259259259
+",82,greber-sainte-cecile,54,5,0.6786670557765181,0.09259259259259259
 333,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3142,7 +3142,7 @@ Geh, mach mi nit lache! ’s isch jo züe gspässig !
 (Nach rechts ab.)
 
         
-",greber-sainte-cecile,16,2,0.652978158140095,0.125
+",83,greber-sainte-cecile,16,2,0.652978158140095,0.125
 334,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3154,7 +3154,7 @@ Un ’r isch doch schallü, Gottlob, daß ’r schallü isch. Ich hab’s jo gew
 Mann . . . . ich bin ’m doch noch e bissel ans Herz gebache.
 
         
-",greber-sainte-cecile,31,2,0.4548758022385378,0.06451612903225806
+",83,greber-sainte-cecile,31,2,0.4548758022385378,0.06451612903225806
 336,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3163,7 +3163,7 @@ Sophie:
 Hättsch ne sotte-n-emol sehn! Schallü isch ’r worre wie e jung ghiroti Frau!
 
         
-",greber-sainte-cecile,16,2,0.4054767331644548,0.125
+",84,greber-sainte-cecile,16,2,0.4054767331644548,0.125
 337,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3172,7 +3172,7 @@ Enishänsel:
 So, so, dis fraijt mich! Jetz wisse m’r doch, daß ’r dir nit untreij isch.
 
         
-",greber-sainte-cecile,16,1,0.6998148241218778,0.0625
+",84,greber-sainte-cecile,16,1,0.6998148241218778,0.0625
 338,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3182,7 +3182,7 @@ Nein, dis isch ’r nit! — — Awer mit dim Bischwillemer isch nit viel los gs
           wie e Pfohl un het nix geredt. D’Hauptarweit hab’ ich müen mache.
 
         
-",greber-sainte-cecile,34,2,0.6154577353251409,0.058823529411764705
+",84,greber-sainte-cecile,34,2,0.6154577353251409,0.058823529411764705
 339,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3191,7 +3191,7 @@ Enishänsel:
 ’s isch güet, daß de m’r’s saasch. Jetz kreijt ’r e Budell wenijer züe sim Souper.
 
         
-",greber-sainte-cecile,18,1,0.4974327231143904,0.05555555555555555
+",84,greber-sainte-cecile,18,1,0.4974327231143904,0.05555555555555555
 341,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3201,7 +3201,7 @@ Macht nix, macht nix — — e güets warms Füeßwässerle mit e bissel Salz dr
           Kopf.
 
         
-",greber-sainte-cecile,22,3,0.6511462856630387,0.13636363636363635
+",85,greber-sainte-cecile,22,3,0.6511462856630387,0.13636363636363635
 342,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3210,7 +3210,7 @@ Sophie:
 Ich kann d’r gar nit saaue, wie froh daß i bin.
 
         
-",greber-sainte-cecile,12,1,0.7352218842807234,0.08333333333333333
+",85,greber-sainte-cecile,12,1,0.7352218842807234,0.08333333333333333
 343,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3224,7 +3224,7 @@ Hawi’s nit gsaat? Nurre züem Enishänsel kumme, der weiß iwwerall ze helfe. 
           oh!
 
         
-",greber-sainte-cecile,51,4,0.4031059153495191,0.0784313725490196
+",85,greber-sainte-cecile,51,4,0.4031059153495191,0.0784313725490196
 345,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3233,7 +3233,7 @@ Enishänsel:
 Jetz isch ’r jo verruckt!
 
         
-",greber-sainte-cecile,6,1,0.6157313407181705,0.16666666666666666
+",86,greber-sainte-cecile,6,1,0.6157313407181705,0.16666666666666666
 347,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3242,7 +3242,7 @@ Enishänsel:
 Der Anatole. Alli symptomes bewiese’s jetz. Ich hab m’r dis glich gedenkt.
 
         
-",greber-sainte-cecile,14,1,0.4845142314567634,0.07142857142857142
+",86,greber-sainte-cecile,14,1,0.4845142314567634,0.07142857142857142
 348,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3252,7 +3252,7 @@ Wahrhafti, ’s isch jo wohr. Was jetz mache? Dis isch jo schrecklich! Soll ich 
           hole?
 
         
-",greber-sainte-cecile,19,5,0.4944752918024668,0.2631578947368421
+",87,greber-sainte-cecile,19,5,0.4944752918024668,0.2631578947368421
 349,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3262,7 +3262,7 @@ Babberlababb! So lang wie ich do bin, brüche m’r ken Dokter. — — Wenn m�
           Verrucktheit dis isch!
 
         
-",greber-sainte-cecile,24,3,0.5940273839940481,0.125
+",87,greber-sainte-cecile,24,3,0.5940273839940481,0.125
 351,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3272,7 +3272,7 @@ Es gitt verschiedeni Verrucktheite ; wenn’s nur e Narrheit isch, isch’s bess
           nurre-n-e-n-idée fixe . . . .
 
         
-",greber-sainte-cecile,24,2,0.5853012474120469,0.08333333333333333
+",87,greber-sainte-cecile,24,2,0.5853012474120469,0.08333333333333333
 353,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3282,7 +3282,7 @@ Dis isch, wenn einer allewyl ’s nämli saat un denkt, un was gar nit möejli i
           so ebbs am Anatole remarkiert . . . .?
 
         
-",greber-sainte-cecile,25,3,0.47125566408879543,0.12
+",88,greber-sainte-cecile,25,3,0.47125566408879543,0.12
 354,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3291,7 +3291,7 @@ Sophie:
 Ich wüßt nit grad... loß mich emol nochdenke ... wahrhafti, Désiré, er het e-n-idée fixe.
 
         
-",greber-sainte-cecile,17,2,0.4009444504203542,0.11764705882352941
+",88,greber-sainte-cecile,17,2,0.4009444504203542,0.11764705882352941
 356,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3300,7 +3300,7 @@ Sophie:
 Er saat allewyl „wir sind ja alle Brüder“...
 
         
-",greber-sainte-cecile,11,5,0.5521373425984424,0.45454545454545453
+",89,greber-sainte-cecile,11,5,0.5521373425984424,0.45454545454545453
 357,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3309,7 +3309,7 @@ Enishänsel:
 Dis saat ’r allewyl? Ja, do hammer’s jo schun; do leijt d’r Hund begrawe.
 
         
-",greber-sainte-cecile,16,4,0.5680997665036801,0.25
+",89,greber-sainte-cecile,16,4,0.5680997665036801,0.25
 358,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3318,7 +3318,7 @@ Sophie:
 Er saat’s als drissig Mol am Daas.
 
         
-",greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
+",89,greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
 361,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3327,7 +3327,7 @@ Enishänsel:
 ’s isch schun güet, ’s isch schun güet. M’r mache, was m’r könne.
 
         
-",greber-sainte-cecile,14,2,0.4974327231143904,0.14285714285714285
+",90,greber-sainte-cecile,14,2,0.4974327231143904,0.14285714285714285
 362,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3336,7 +3336,7 @@ Sophie:
 Meinsch, daß ’r noch ze küriere-n-isch?
 
         
-",greber-sainte-cecile,9,1,0.245,0.1111111111111111
+",90,greber-sainte-cecile,9,1,0.245,0.1111111111111111
 363,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3345,7 +3345,7 @@ Enishänsel:
 Ich hoff’s — was will i do saa — ich hoff’s. Hm — — hm. So geht’s — oder au nit.
 
         
-",greber-sainte-cecile,25,2,0.4301694184023261,0.08
+",90,greber-sainte-cecile,25,2,0.4301694184023261,0.08
 365,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3354,7 +3354,7 @@ Enishänsel:
 Ich will’s mit eme ganz neije Mittel prowiere, wo wirklich nit viel succès employirt wurd.
 
         
-",greber-sainte-cecile,17,2,0.370217439352886,0.11764705882352941
+",91,greber-sainte-cecile,17,2,0.370217439352886,0.11764705882352941
 367,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3365,7 +3365,7 @@ Mit Süscheschtion. Versteh mich erecht, mit Süscheschtion. M’r müeß em so 
           kummt, daß ’r sich blos ebbs ingebild het.
 
         
-",greber-sainte-cecile,43,4,0.5066880987209396,0.09302325581395349
+",91,greber-sainte-cecile,43,4,0.5066880987209396,0.09302325581395349
 368,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3376,7 +3376,7 @@ Ze bitt ich dich, dhüe was de kannsch. Unser Herrgott wurd d’r’s vergelte !
 (Sie will gehen.)
 
         
-",greber-sainte-cecile,20,2,0.71,0.1
+",92,greber-sainte-cecile,20,2,0.71,0.1
 370,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3387,7 +3387,7 @@ Er meint, daß m’r alli Brieder sin.
 (Nach links ab.)
 
         
-",greber-sainte-cecile,13,1,0.3697712981914007,0.07692307692307693
+",92,greber-sainte-cecile,13,1,0.3697712981914007,0.07692307692307693
 371,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3396,7 +3396,7 @@ Enishänsel:
 So e Verrucktheit! — — Dis welle m’r im schun üsredde. Do kummt ’r grad.
 
         
-",greber-sainte-cecile,16,2,0.6179959973840942,0.125
+",92,greber-sainte-cecile,16,2,0.6179959973840942,0.125
 372,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3412,7 +3412,7 @@ O Gasladern! Wenn ich’s nur noch meischtere kann ... ich fircht fascht, ich br
 ja alle Brüder.“ Do geht’s am beschte, wenn’s heißt „Wir sind ja alle Brüder!“
 
         
-",greber-sainte-cecile,77,16,0.5396209536038535,0.2077922077922078
+",93,greber-sainte-cecile,77,16,0.5396209536038535,0.2077922077922078
 373,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel
@@ -3424,7 +3424,7 @@ Enishänsel
 Oh, oh, oh, oh!
 
         
-",greber-sainte-cecile,13,1,0.62,0.07692307692307693
+",93,greber-sainte-cecile,13,1,0.62,0.07692307692307693
 376,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3439,7 +3439,7 @@ Ah dü bischs!
  Dis donc, was masch denn in Stroßburri ?
 
         
-",greber-sainte-cecile,22,2,0.7339495888943999,0.09090909090909091
+",94,greber-sainte-cecile,22,2,0.7339495888943999,0.09090909090909091
 377,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3448,7 +3448,7 @@ Enishänsel:
 Nix vun Wichtigkeit. Ich dhüe eich nur e paar Daa Societät leischte.
 
         
-",greber-sainte-cecile,13,2,0.49519414397990097,0.15384615384615385
+",94,greber-sainte-cecile,13,2,0.49519414397990097,0.15384615384615385
 380,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3457,7 +3457,7 @@ Anatole:
 Dü bisch e Kusin vun minere Frau un sollsch bi m’r uffghebbt sin wie e Brüeder.
 
         
-",greber-sainte-cecile,17,1,0.3697712981914007,0.058823529411764705
+",95,greber-sainte-cecile,17,1,0.3697712981914007,0.058823529411764705
 383,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3469,7 +3469,7 @@ Nix vun Wichtigkeit. Ich möcht dich blos ebbs fröuje.
  Jetz will is versüeche, for’s ’m üszeredde, daß m’r alli Brieder sin.
 
         
-",greber-sainte-cecile,27,4,0.4925092100818092,0.14814814814814814
+",95,greber-sainte-cecile,27,4,0.4925092100818092,0.14814814814814814
 384,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3478,7 +3478,7 @@ Anatole:
 Eh ben, mach’s kurz; ich hab ze dhüen, ich bin pressiert.
 
         
-",greber-sainte-cecile,13,1,0.5745992485432527,0.07692307692307693
+",96,greber-sainte-cecile,13,1,0.5745992485432527,0.07692307692307693
 385,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3487,7 +3487,7 @@ Enishänsel:
 Wie d’r Adam un d’Eva noch ellein uff d’r Welt sin gsin ....
 
         
-",greber-sainte-cecile,14,2,0.32089195323230457,0.14285714285714285
+",96,greber-sainte-cecile,14,2,0.32089195323230457,0.14285714285714285
 388,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3496,7 +3496,7 @@ Anatole:
 Dis welle m’r wenistes vun ne hoffe.
 
         
-",greber-sainte-cecile,8,1,0.4301694184023261,0.125
+",97,greber-sainte-cecile,8,1,0.4301694184023261,0.125
 389,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3505,7 +3505,7 @@ Enishänsel:
 Nemm jetz an, daß die zwei gstorwe sin un daß ihri Kinder noch keini Kinder ghet han . . .
 
         
-",greber-sainte-cecile,18,3,0.4863113370791288,0.16666666666666666
+",97,greber-sainte-cecile,18,3,0.4863113370791288,0.16666666666666666
 390,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3514,7 +3514,7 @@ Anatole:
 Ja, was isch drno?
 
         
-",greber-sainte-cecile,5,1,0.6402102505617395,0.2
+",97,greber-sainte-cecile,5,1,0.6402102505617395,0.2
 391,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3523,7 +3523,7 @@ Enishänsel:
 Zellemols sin alli Mensche züe enander Brieder gsin, wenn m’r d’Schweschtre nit mitrecht.
 
         
-",greber-sainte-cecile,15,1,0.3697712981914007,0.06666666666666667
+",97,greber-sainte-cecile,15,1,0.3697712981914007,0.06666666666666667
 392,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3532,7 +3532,7 @@ Anatole:
 Ich glaub’s emol starik.
 
         
-",greber-sainte-cecile,6,2,0.5292005917344855,0.3333333333333333
+",98,greber-sainte-cecile,6,2,0.5292005917344855,0.3333333333333333
 393,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3543,7 +3543,7 @@ Hittisdaas het sich dis alles schanschiert. Der eint isch d’r Babbe vum andere
           vum Doochtermann vun sinere Gschweij . . . .
 
         
-",greber-sainte-cecile,39,2,0.3225812337919437,0.05128205128205128
+",98,greber-sainte-cecile,39,2,0.3225812337919437,0.05128205128205128
 395,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3553,7 +3553,7 @@ Nit bös wäre, Anatole, ’s isch jo alles züe dim Beschte. . . . Bedenk doch 
           nähtersch betraachtsch . . . ze-n-isch’s doch nit möejli, daß m’r alli Brieder sin!
 
         
-",greber-sainte-cecile,33,2,0.5230072388846366,0.06060606060606061
+",98,greber-sainte-cecile,33,2,0.5230072388846366,0.06060606060606061
 396,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3562,7 +3562,7 @@ Anatole:
 Züem Gügsel noch emol, wer saat denn dis ?
 
         
-",greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
+",99,greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
 400,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -3574,7 +3574,7 @@ Anatole
 Dü bisch glauwi gebickt!
 
         
-",greber-sainte-cecile,9,1,0.4150294825935472,0.1111111111111111
+",100,greber-sainte-cecile,9,1,0.4150294825935472,0.1111111111111111
 402,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3588,7 +3588,7 @@ Was m’r alli sin? Mintwäje Simbel!!
 (Schnell nach rechts, die Thüre hinter sich zuschlagend )
 
         
-",greber-sainte-cecile,22,4,0.5632103651111835,0.18181818181818182
+",100,greber-sainte-cecile,22,4,0.5632103651111835,0.18181818181818182
 403,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3607,7 +3607,7 @@ Dis isch awer au min Seel ’s letscht Mol gsin, daß ich eine durch Süschescht
           versüech.
 
         
-",greber-sainte-cecile,76,7,0.47636444125260397,0.09210526315789473
+",100,greber-sainte-cecile,76,7,0.47636444125260397,0.09210526315789473
 404,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -3619,7 +3619,7 @@ Sophie
 Ihr sin jo merkwürdi lütt mitnand gsin. Was isch denn los?
 
         
-",greber-sainte-cecile,16,2,0.6795427811055017,0.125
+",101,greber-sainte-cecile,16,2,0.6795427811055017,0.125
 406,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3628,7 +3628,7 @@ Sophie:
 Gell, er het de-n-idée fixe, daß m’r alli Brieder sin?
 
         
-",greber-sainte-cecile,13,1,0.3697712981914007,0.07692307692307693
+",101,greber-sainte-cecile,13,1,0.3697712981914007,0.07692307692307693
 407,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3637,7 +3637,7 @@ Enishänsel:
 Dis nit grad, er meint awer, m’r sin alli Simbel.
 
         
-",greber-sainte-cecile,11,2,0.4103490960948145,0.18181818181818182
+",101,greber-sainte-cecile,11,2,0.4103490960948145,0.18181818181818182
 408,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3646,7 +3646,7 @@ Sophie:
 Dis isch jo schrecklich ! Dis isch jo schrecklich ! Un dü hesch nit . . . .
 
         
-",greber-sainte-cecile,13,2,0.8279765215302092,0.15384615384615385
+",102,greber-sainte-cecile,13,2,0.8279765215302092,0.15384615384615385
 409,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3655,7 +3655,7 @@ Enishänsel:
 Alles umesunscht.
 
         
-",greber-sainte-cecile,3,1,0.4244075725843493,0.3333333333333333
+",102,greber-sainte-cecile,3,1,0.4244075725843493,0.3333333333333333
 410,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3664,7 +3664,7 @@ Sophie:
 Der güet, brav Mann! Ich wüßt nit, was ich drum gäb ....
 
         
-",greber-sainte-cecile,12,3,0.434913452594418,0.25
+",102,greber-sainte-cecile,12,3,0.434913452594418,0.25
 411,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -3676,7 +3676,7 @@ Cécile
 Madame, ich möcht’ ne blos annonciere, daß ich uffs Ziel furtgeh.
 
         
-",greber-sainte-cecile,17,4,0.5180009417817579,0.23529411764705882
+",102,greber-sainte-cecile,17,4,0.5180009417817579,0.23529411764705882
 412,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3685,7 +3685,7 @@ Sophie:
 Ja, wurum dis?
 
         
-",greber-sainte-cecile,4,1,0.6402102505617395,0.25
+",103,greber-sainte-cecile,4,1,0.6402102505617395,0.25
 413,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3694,7 +3694,7 @@ Cécile:
 Ich dhüe mich hirote.
 
         
-",greber-sainte-cecile,5,1,0.657756892221241,0.2
+",103,greber-sainte-cecile,5,1,0.657756892221241,0.2
 415,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3703,7 +3703,7 @@ Cécile:
 Mit ’m Herr Barthelmeh Schanté.
 
         
-",greber-sainte-cecile,6,1,0.408435494808788,0.16666666666666666
+",103,greber-sainte-cecile,6,1,0.408435494808788,0.16666666666666666
 416,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3712,7 +3712,7 @@ Enishänsel:
 Potz Sternesapperment — —! Was saat Sie do?
 
         
-",greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
+",104,greber-sainte-cecile,9,1,0.5905904562773836,0.1111111111111111
 417,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3722,7 +3722,7 @@ For gewiß. Der Herr Stieffatre isch drbi gsin, wie m’r eß fianciert han, un 
           vun 200 Liwer versproche.
 
         
-",greber-sainte-cecile,24,4,0.4635825276879938,0.16666666666666666
+",104,greber-sainte-cecile,24,4,0.4635825276879938,0.16666666666666666
 420,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3731,7 +3731,7 @@ Sophie:
 Zweihundert Liewer!
 
         
-",greber-sainte-cecile,3,1,0.5644888482254989,0.3333333333333333
+",105,greber-sainte-cecile,3,1,0.5644888482254989,0.3333333333333333
 421,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3741,7 +3741,7 @@ Daß Sie’s nur weiß Cécile, üs dere Hirot kann nix wäre. Der Herr Schanté
           Kinder.
 
         
-",greber-sainte-cecile,22,3,0.5130763439532963,0.13636363636363635
+",105,greber-sainte-cecile,22,3,0.5130763439532963,0.13636363636363635
 422,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3751,7 +3751,7 @@ Was — —!? Dis isch jo e ganz erbärmlicher Stoß vum Herr Stieffatre. Ich wi
           er het gewißt, daß mich der elend Mensch am Narreseil erumführt.
 
         
-",greber-sainte-cecile,32,5,0.5028726963548822,0.15625
+",105,greber-sainte-cecile,32,5,0.5028726963548822,0.15625
 423,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3760,7 +3760,7 @@ Sophie:
 Müesch halt bedenke — — ’r isch krank un weiß als nit — —
 
         
-",greber-sainte-cecile,15,2,0.45235849749133866,0.13333333333333333
+",105,greber-sainte-cecile,15,2,0.45235849749133866,0.13333333333333333
 424,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3775,7 +3775,7 @@ Schändlich! schändlich! — — Aha, Herr Stieffatre, jetz versteh ich au, wur
           nit iwwel driwwer verwundere: Ir Mann geht in eim vun den nächschte Däj uff e Sainte-Cécile.
 
         
-",greber-sainte-cecile,89,16,0.5111269310656551,0.1797752808988764
+",106,greber-sainte-cecile,89,16,0.5111269310656551,0.1797752808988764
 425,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel, Sophie:
@@ -3784,7 +3784,7 @@ Enishänsel, Sophie:
 Uff e Sainte-Cécile?
 
         
-",greber-sainte-cecile,5,1,0.441,0.2
+",106,greber-sainte-cecile,5,1,0.441,0.2
 426,comedy,Sophie,FEMALE,,,,"
           
 Enishänsel, Sophie:
@@ -3793,7 +3793,7 @@ Enishänsel, Sophie:
 Uff e Sainte-Cécile?
 
         
-",greber-sainte-cecile,5,1,0.441,0.2
+",106,greber-sainte-cecile,5,1,0.441,0.2
 427,comedy,Cécile,FEMALE,,,,"
           
 Cécile
@@ -3805,7 +3805,7 @@ Cécile
 Do isch ’r jo selbst; fröuje Sie ne doch, eb’s nit wohr isch.
 
         
-",greber-sainte-cecile,20,1,0.4120878812309737,0.05
+",106,greber-sainte-cecile,20,1,0.4120878812309737,0.05
 428,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3828,7 +3828,7 @@ neglischiert, e Schwätzbese, wie kein größerer uff d’r Welt erumlauft. Dü 
           vun d’r Fanfare!
 
         
-",greber-sainte-cecile,238,26,0.536056820539745,0.1092436974789916
+",107,greber-sainte-cecile,238,26,0.536056820539745,0.1092436974789916
 429,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -3840,7 +3840,7 @@ Sophie
 Der Mann redd awer ganz verständig, do merkt m’r jo gar nit....
 
         
-",greber-sainte-cecile,17,3,0.4659136401128936,0.17647058823529413
+",107,greber-sainte-cecile,17,3,0.4659136401128936,0.17647058823529413
 431,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3849,7 +3849,7 @@ Cécile:
 Er het au ebbs üswendi gelehrt, wo drinne vorkummt, daß m’r alli Brieder sin.
 
         
-",greber-sainte-cecile,15,1,0.3697712981914007,0.06666666666666667
+",107,greber-sainte-cecile,15,1,0.3697712981914007,0.06666666666666667
 432,comedy,Sophie,FEMALE,,,,"
           
 Sophie
@@ -3861,7 +3861,7 @@ Sophie
 Siehsch, Désiré, jetz klärt sich alles uff.
 
         
-",greber-sainte-cecile,11,2,0.542,0.18181818181818182
+",108,greber-sainte-cecile,11,2,0.542,0.18181818181818182
 433,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3870,7 +3870,7 @@ Enishänsel:
 Jetz fröüj ne doch au, ob drin vorkummt, daß m’r alli Simbel sin.
 
         
-",greber-sainte-cecile,14,2,0.47247338810116246,0.14285714285714285
+",108,greber-sainte-cecile,14,2,0.47247338810116246,0.14285714285714285
 434,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3884,7 +3884,7 @@ Sophie, eb dü m’r jetz d’Permission züe dere Sainte-Cécile genn witt oder
  Gottlob, jetz isch’s hüsse.
 
         
-",greber-sainte-cecile,66,8,0.5138733483094106,0.12121212121212122
+",108,greber-sainte-cecile,66,8,0.5138733483094106,0.12121212121212122
 436,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -3899,7 +3899,7 @@ Wirklich? — Wirklich? — O, ich hab m’r’s doch glich gedenkt. —
  Un derf ich jetz au uff d’Sainte-Cécile ?
 
         
-",greber-sainte-cecile,28,2,0.4562262585247337,0.07142857142857142
+",109,greber-sainte-cecile,28,2,0.4562262585247337,0.07142857142857142
 437,comedy,Cécile,FEMALE,,,,"
           
 Cécile:
@@ -3908,7 +3908,7 @@ Cécile:
 Lon Sie ne nurre nit gehn — — ’s gitt sicher widder ebbs, wie’s letscht Mol.
 
         
-",greber-sainte-cecile,18,2,0.43062154040678424,0.1111111111111111
+",109,greber-sainte-cecile,18,2,0.43062154040678424,0.1111111111111111
 438,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3917,7 +3917,7 @@ Anatole:
 Mach daß de nüs kumsch, sunsch wursch sehn!
 
         
-",greber-sainte-cecile,9,1,0.352506754720856,0.1111111111111111
+",109,greber-sainte-cecile,9,1,0.352506754720856,0.1111111111111111
 441,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3928,7 +3928,7 @@ E Redd halt ich — denk — — e discours, wie noch kein gfitztrer ghalte-n-is
           Stadt, wenn dis in alle Zittunge steht — — ja!
 
         
-",greber-sainte-cecile,60,6,0.5388421709951615,0.1
+",110,greber-sainte-cecile,60,6,0.5388421709951615,0.1
 442,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3940,7 +3940,7 @@ Dis wurd ebbs schöns genn.
  Verruckt isch ’r nit grad, awer ’r het doch sini Mucke.
 
         
-",greber-sainte-cecile,21,3,0.463464022924118,0.14285714285714285
+",110,greber-sainte-cecile,21,3,0.463464022924118,0.14285714285714285
 443,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3949,7 +3949,7 @@ Sophie:
 Hör emol, Anatole — — ich will jo nix drgeje han, daß de-n-uff d’Sainte-Cécile gehsch ...
 
         
-",greber-sainte-cecile,19,1,0.441,0.05263157894736842
+",110,greber-sainte-cecile,19,1,0.441,0.05263157894736842
 444,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -3958,7 +3958,7 @@ Anatole:
 Sicher nit? Ah, min lieb’s Sophie!
 
         
-",greber-sainte-cecile,8,2,0.4496935189842449,0.25
+",111,greber-sainte-cecile,8,2,0.4496935189842449,0.25
 445,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3967,7 +3967,7 @@ Sophie:
 ...awer mit dinere Redd uff ditsch un franzeesch wurd’s Schette genn.
 
         
-",greber-sainte-cecile,13,2,0.4101047000413875,0.15384615384615385
+",111,greber-sainte-cecile,13,2,0.4101047000413875,0.15384615384615385
 446,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -3976,7 +3976,7 @@ Enishänsel:
 Dis mein i au! So e-n-idée!
 
         
-",greber-sainte-cecile,9,1,0.4855792551331206,0.1111111111111111
+",111,greber-sainte-cecile,9,1,0.4855792551331206,0.1111111111111111
 447,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3985,7 +3985,7 @@ Sophie:
 Ze saa m’r doch emol ehrlich: kannsch dü denn genüe ditsch un franzeesch?
 
         
-",greber-sainte-cecile,14,1,0.3344608148068405,0.07142857142857142
+",111,greber-sainte-cecile,14,1,0.3344608148068405,0.07142857142857142
 449,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -3996,7 +3996,7 @@ Min liewer Anatole, dis weiß ich besser, dis kannsch dü nit. Un wenn dü dich 
           bliet allewyl ’s Bescht.
 
         
-",greber-sainte-cecile,43,4,0.5506508890467968,0.09302325581395349
+",112,greber-sainte-cecile,43,4,0.5506508890467968,0.09302325581395349
 450,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -4006,7 +4006,7 @@ Awer ’s isch schun ze spoot! . . . Wer soll m’r denne discours noch mache ..
           bis am Samschdaa . . . ich hab nit d’r Zitt drzüe . . . ich wur ze viel gstört . . .
 
         
-",greber-sainte-cecile,33,4,0.508692147074245,0.12121212121212122
+",112,greber-sainte-cecile,33,4,0.508692147074245,0.12121212121212122
 451,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -4016,7 +4016,7 @@ Dü bisch iwwerhaupt nit d’r Mann drzüe, e discours ze halte. Blos dü dine B
           d’Redde in andere, wo’s besser ferti bringe-n-als dü.
 
         
-",greber-sainte-cecile,30,3,0.48985025124828313,0.1
+",112,greber-sainte-cecile,30,3,0.48985025124828313,0.1
 452,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole
@@ -4033,7 +4033,7 @@ Sach . . . ich glaub nämlich nit, daß ich uff d’Sainte-Cécile kann gehn... 
           .
 
         
-",greber-sainte-cecile,67,4,0.49320578902515433,0.05970149253731343
+",113,greber-sainte-cecile,67,4,0.49320578902515433,0.05970149253731343
 453,comedy,Sophie,FEMALE,,,,"
           
 Sophie:
@@ -4042,7 +4042,7 @@ Sophie:
 Jo, hesch ganz erecht; besser nit anne gehn, als dich blamiere.
 
         
-",greber-sainte-cecile,12,1,0.426066672788339,0.08333333333333333
+",113,greber-sainte-cecile,12,1,0.426066672788339,0.08333333333333333
 455,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -4051,7 +4051,7 @@ Karcher:
 Bonjour bisamme.
 
         
-",greber-sainte-cecile,3,1,0.426066672788339,0.3333333333333333
+",113,greber-sainte-cecile,3,1,0.426066672788339,0.3333333333333333
 457,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -4065,7 +4065,7 @@ Ah, Herr Karcher! Alter Frind vun Bischwiller! Was mache Sie denn, wie geht’s 
  Dis derf m’r nit eso henke lon . . . .
 
         
-",greber-sainte-cecile,60,7,0.40593362001524025,0.11666666666666667
+",114,greber-sainte-cecile,60,7,0.40593362001524025,0.11666666666666667
 458,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -4074,7 +4074,7 @@ Karcher:
 Merci bien, merci bien. Ich glaub, ’s heilt au eso.
 
         
-",greber-sainte-cecile,11,1,0.3561173479361921,0.09090909090909091
+",114,greber-sainte-cecile,11,1,0.3561173479361921,0.09090909090909091
 459,comedy,Désiré Enishänsel,MALE,pharmacist,professionals_scientific_technical,upper_middle_class,"
           
 Enishänsel:
@@ -4086,7 +4086,7 @@ Enishänsel:
 Wer weiß! wer weiß!.... awer tant mieux, ’s Pflaschter isch m’r üsgange.
 
         
-",greber-sainte-cecile,19,1,0.4529427489606978,0.05263157894736842
+",114,greber-sainte-cecile,19,1,0.4529427489606978,0.05263157894736842
 460,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -4095,7 +4095,7 @@ Anatole:
 Was gitt’s Neijs, Herr Schriftführer ?
 
         
-",greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
+",115,greber-sainte-cecile,7,1,0.408435494808788,0.14285714285714285
 461,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -4104,7 +4104,7 @@ Karcher:
 Ich bin grad bim Präsident gsin . . . .
 
         
-",greber-sainte-cecile,7,1,0.3954513279714086,0.14285714285714285
+",115,greber-sainte-cecile,7,1,0.3954513279714086,0.14285714285714285
 463,comedy,Jules Karcher,MALE,,,,"
           
 Karcher:
@@ -4114,7 +4114,7 @@ Denk emol an, ’r isch widder gsund worre-n-un möcht, wenn dü’s bermediersc
           halte.
 
         
-",greber-sainte-cecile,20,2,0.42671113714287495,0.1
+",115,greber-sainte-cecile,20,2,0.42671113714287495,0.1
 464,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -4129,7 +4129,7 @@ Natürlich, natürlich . . .
  dis heißt . . . . wenn d’r Herr Präsident dis will ....
 
         
-",greber-sainte-cecile,20,4,0.6271244993617786,0.2
+",116,greber-sainte-cecile,20,4,0.6271244993617786,0.2
 466,comedy,Anatole Stieffatre,MALE,,,,"
           
 Anatole:
@@ -4145,4 +4145,4 @@ Gar nit, gar nit . . . . .
           franzeesch!!
 
         
-",greber-sainte-cecile,36,3,0.6206916466107358,0.08333333333333333
+",116,greber-sainte-cecile,36,3,0.6206916466107358,0.08333333333333333

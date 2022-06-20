@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -17,7 +17,7 @@ Was fir e herrlige G'stalt!... was fir schöne-n-Aüge!
                     
 
         
-",lustig-dr-hochzitstag,42,5,0.5559614275442715,0.11904761904761904
+",0,lustig-dr-hochzitstag,42,5,0.5559614275442715,0.11904761904761904
 1,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -36,7 +36,7 @@ Aha... dr Herr Guld kunnt wieder ku lüege, eb er si Geld
                     
 
         
-",lustig-dr-hochzitstag,43,12,0.48112070286350606,0.27906976744186046
+",0,lustig-dr-hochzitstag,43,12,0.48112070286350606,0.27906976744186046
 2,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -52,7 +52,7 @@ Ah, Sie sin's, Herr Kalt... was macht d'G'sundheit...
                     
 
         
-",lustig-dr-hochzitstag,27,6,0.46825223655139303,0.2222222222222222
+",0,lustig-dr-hochzitstag,27,6,0.46825223655139303,0.2222222222222222
 3,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -63,7 +63,7 @@ D'G'sundheit gieng scho, Herr Guld... awer d'G'schàfte,
                     
 
         
-",lustig-dr-hochzitstag,16,5,0.4210828967893412,0.3125
+",1,lustig-dr-hochzitstag,16,5,0.4210828967893412,0.3125
 4,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -76,7 +76,7 @@ Bàh... 's himpelt e wenig in dem Moment, 's isch wohr,
           
 
         
-",lustig-dr-hochzitstag,20,2,0.41026168801988083,0.1
+",1,lustig-dr-hochzitstag,20,2,0.41026168801988083,0.1
 5,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -87,7 +87,7 @@ Ich mag noch so nogeh un nolüege, 's hilft alles nit
                     
 
         
-",lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
+",1,lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
 6,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -99,7 +99,7 @@ Herr Guld
 Wie schön as se doch g'wachse-n-isch!
 
         
-",lustig-dr-hochzitstag,14,3,0.5374985863962448,0.21428571428571427
+",2,lustig-dr-hochzitstag,14,3,0.5374985863962448,0.21428571428571427
 7,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -111,7 +111,7 @@ Herr Kalt.
                     
 
         
-",lustig-dr-hochzitstag,24,6,0.4526777146494229,0.25
+",2,lustig-dr-hochzitstag,24,6,0.4526777146494229,0.25
 8,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -125,7 +125,7 @@ Ich glaüb misegs, se hat mi vorig ag'làchelt im
                     
 
         
-",lustig-dr-hochzitstag,16,3,0.49113916988984974,0.1875
+",2,lustig-dr-hochzitstag,16,3,0.49113916988984974,0.1875
 9,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -137,7 +137,7 @@ Herr Kalt
 Fünftaüsend Franke!
 
         
-",lustig-dr-hochzitstag,9,3,0.41599718341309905,0.3333333333333333
+",3,lustig-dr-hochzitstag,9,3,0.41599718341309905,0.3333333333333333
 10,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -151,7 +151,7 @@ Ich denk nitt emol dra, an das Geld... ich versichere Se
                     
 
         
-",lustig-dr-hochzitstag,27,7,0.4666341344776814,0.25925925925925924
+",3,lustig-dr-hochzitstag,27,7,0.4666341344776814,0.25925925925925924
 11,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -162,7 +162,7 @@ Fünftaüsend Franke, wo-n-ich Ihne schuldig bi un nimmig
                     
 
         
-",lustig-dr-hochzitstag,16,5,0.5094358498331748,0.3125
+",3,lustig-dr-hochzitstag,16,5,0.5094358498331748,0.3125
 12,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -174,7 +174,7 @@ Herr Guld
 Küm achtzeh Johr... un denn e paar Aüge!...
 
         
-",lustig-dr-hochzitstag,14,2,0.5586500808666786,0.14285714285714285
+",4,lustig-dr-hochzitstag,14,2,0.5586500808666786,0.14285714285714285
 13,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -183,7 +183,7 @@ Herr Kalt.
 Fünftaüsend Franke!
 
         
-",lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
+",4,lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
 14,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -196,7 +196,7 @@ Lehn Se doch jetz das Geld emol in Rüeh!... ich heisch's
                     
 
         
-",lustig-dr-hochzitstag,39,10,0.42217006626826487,0.2564102564102564
+",4,lustig-dr-hochzitstag,39,10,0.42217006626826487,0.2564102564102564
 15,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -209,7 +209,7 @@ Im Frànzele geht's güet, merci...
                     
 
         
-",lustig-dr-hochzitstag,21,6,0.49879807042372554,0.2857142857142857
+",5,lustig-dr-hochzitstag,21,6,0.49879807042372554,0.2857142857142857
 16,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -219,7 +219,7 @@ Sie hàn Chance, eso ne schöne Tochter z'ha, Herr Kalt!
                     
 
         
-",lustig-dr-hochzitstag,13,6,0.4734035075266672,0.46153846153846156
+",5,lustig-dr-hochzitstag,13,6,0.4734035075266672,0.46153846153846156
 17,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -233,7 +233,7 @@ Herr Kalt.
                     
 
         
-",lustig-dr-hochzitstag,31,7,0.5543366215973015,0.22580645161290322
+",5,lustig-dr-hochzitstag,31,7,0.5543366215973015,0.22580645161290322
 18,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -245,7 +245,7 @@ Herr Guld.
                     
 
         
-",lustig-dr-hochzitstag,28,2,0.4340299575724922,0.07142857142857142
+",6,lustig-dr-hochzitstag,28,2,0.4340299575724922,0.07142857142857142
 19,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -254,7 +254,7 @@ Herr Kalt.
 Sie hàn's grad errothe, Herr Guld.
 
         
-",lustig-dr-hochzitstag,9,4,0.41621959325487345,0.4444444444444444
+",6,lustig-dr-hochzitstag,9,4,0.41621959325487345,0.4444444444444444
 20,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -266,7 +266,7 @@ Wisse Sie, ass sie sich macht efange, Ihre Tochter!...
                     
 
         
-",lustig-dr-hochzitstag,24,6,0.5041149094869698,0.25
+",6,lustig-dr-hochzitstag,24,6,0.5041149094869698,0.25
 21,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -275,7 +275,7 @@ Herr Kalt.
 Ich sag nitt 's Gegetheil!
 
         
-",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+",7,lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
 22,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -286,7 +286,7 @@ Sage Se, Herr Kalt, was hat se g'sàit, wo se ne biku
                     
 
         
-",lustig-dr-hochzitstag,15,3,0.4231423483493617,0.2
+",7,lustig-dr-hochzitstag,15,3,0.4231423483493617,0.2
 23,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -302,7 +302,7 @@ O, se hat nitt g'nüe känne sage, wie schön ass er
           
 
         
-",lustig-dr-hochzitstag,54,8,0.4624263247389354,0.14814814814814814
+",7,lustig-dr-hochzitstag,54,8,0.4624263247389354,0.14814814814814814
 24,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -313,7 +313,7 @@ Ich's g'wiss wohr, Herr Kalt?... das macht mir jetz
                     
 
         
-",lustig-dr-hochzitstag,18,6,0.4992999676889127,0.3333333333333333
+",8,lustig-dr-hochzitstag,18,6,0.4992999676889127,0.3333333333333333
 25,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -324,7 +324,7 @@ Awer sie hietet sich wohl, ebbes derve lo z'merke... 's
                     
 
         
-",lustig-dr-hochzitstag,21,6,0.37714428265398325,0.2857142857142857
+",8,lustig-dr-hochzitstag,21,6,0.37714428265398325,0.2857142857142857
 26,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -336,7 +336,7 @@ Oh, Ihre Tochter derf sich sàh lo... mi Fraü selig isch
                     
 
         
-",lustig-dr-hochzitstag,28,8,0.48030482761404125,0.2857142857142857
+",8,lustig-dr-hochzitstag,28,8,0.48030482761404125,0.2857142857142857
 27,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -347,7 +347,7 @@ Was wànn Se halt... 's Frànzele weisst ganz güet, ass es
                     
 
         
-",lustig-dr-hochzitstag,19,7,0.48259987339316746,0.3684210526315789
+",9,lustig-dr-hochzitstag,19,7,0.48259987339316746,0.3684210526315789
 28,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -358,7 +358,7 @@ Wenn's keine-n-isch, kei Dame, so kännt's awer noch eine
                     
 
         
-",lustig-dr-hochzitstag,25,5,0.430578376739213,0.2
+",9,lustig-dr-hochzitstag,25,5,0.430578376739213,0.2
 29,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -374,7 +374,7 @@ Unter uns g'sàit, 's thàt's verdiene... 's git kei
                     
 
         
-",lustig-dr-hochzitstag,73,12,0.5392758776845147,0.1643835616438356
+",9,lustig-dr-hochzitstag,73,12,0.5392758776845147,0.1643835616438356
 30,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -386,7 +386,7 @@ Herr Kalt... lose Se... ich möcht Se fir e wichtige
                     
 
         
-",lustig-dr-hochzitstag,29,7,0.5660994565825617,0.2413793103448276
+",10,lustig-dr-hochzitstag,29,7,0.5660994565825617,0.2413793103448276
 31,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -401,7 +401,7 @@ Was ich sage thàt?... Ich thàt sage, ass Sie ganz recht
                     
 
         
-",lustig-dr-hochzitstag,34,7,0.46808342641093587,0.20588235294117646
+",10,lustig-dr-hochzitstag,34,7,0.46808342641093587,0.20588235294117646
 32,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -462,7 +462,7 @@ Drum wog ich's noch emol!
           
 
         
-",lustig-dr-hochzitstag,120,24,0.5066372136096412,0.2
+",10,lustig-dr-hochzitstag,120,24,0.5066372136096412,0.2
 33,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -474,7 +474,7 @@ Woge Se's, Herr Guld... woge Se's... ich begriff's ganz
                     
 
         
-",lustig-dr-hochzitstag,34,9,0.419462289970158,0.2647058823529412
+",11,lustig-dr-hochzitstag,34,9,0.419462289970158,0.2647058823529412
 34,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -486,7 +486,7 @@ D'Hiroth, mi güeter Frind, isch ewe-n-o nitt allewil dr
                     
 
         
-",lustig-dr-hochzitstag,29,9,0.4475493192174156,0.3103448275862069
+",11,lustig-dr-hochzitstag,29,9,0.4475493192174156,0.3103448275862069
 35,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -497,7 +497,7 @@ Süeche Sie dasmol besser üs... nàmme Sie ne Fraü, wo
                     
 
         
-",lustig-dr-hochzitstag,15,4,0.39901668571313537,0.26666666666666666
+",11,lustig-dr-hochzitstag,15,4,0.39901668571313537,0.26666666666666666
 36,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -508,7 +508,7 @@ Eh... mi Wahl isch scho troffe... un ich bi ganz sicher,
                     
 
         
-",lustig-dr-hochzitstag,19,5,0.4605121613123436,0.2631578947368421
+",12,lustig-dr-hochzitstag,19,5,0.4605121613123436,0.2631578947368421
 37,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -520,7 +520,7 @@ Kenn ich die Person viellicht, wo's sich handelt drum?
           
 
         
-",lustig-dr-hochzitstag,12,3,0.3970177927555371,0.25
+",12,lustig-dr-hochzitstag,12,3,0.3970177927555371,0.25
 38,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -532,7 +532,7 @@ Herr Guld
 Jà, jà... Se kenne se...
 
         
-",lustig-dr-hochzitstag,10,2,0.627217747404394,0.2
+",12,lustig-dr-hochzitstag,10,2,0.627217747404394,0.2
 39,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -541,7 +541,7 @@ Herr Kalt.
 Kenn ich se güet... ganz güet!
 
         
-",lustig-dr-hochzitstag,8,5,0.45638473385128336,0.625
+",13,lustig-dr-hochzitstag,8,5,0.45638473385128336,0.625
 40,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -553,7 +553,7 @@ Herr Guld
 Ganz güet, Herr Kalt... ganz güet!
 
         
-",lustig-dr-hochzitstag,11,8,0.495303229606693,0.7272727272727273
+",13,lustig-dr-hochzitstag,11,8,0.495303229606693,0.7272727272727273
 41,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -565,7 +565,7 @@ Herr Kalt
 Wer dr Kückück's ka jetz das si?
 
         
-",lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
+",13,lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
 42,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -576,7 +576,7 @@ Was... Sie finde's nitt?... ne eifache, junge schöne
                     
 
         
-",lustig-dr-hochzitstag,15,4,0.5427979694726965,0.26666666666666666
+",14,lustig-dr-hochzitstag,15,4,0.5427979694726965,0.26666666666666666
 43,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -587,7 +587,7 @@ Aha... jetz ha-n-i's!... d'Nièce vo Ihrem Nochber, dr
                     
 
         
-",lustig-dr-hochzitstag,15,3,0.4363305167464324,0.2
+",14,lustig-dr-hochzitstag,15,3,0.4363305167464324,0.2
 44,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -596,7 +596,7 @@ Herr Guld.
 Nei... nei!...
 
         
-",lustig-dr-hochzitstag,4,1,0.408435494808788,0.25
+",14,lustig-dr-hochzitstag,4,1,0.408435494808788,0.25
 45,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -605,7 +605,7 @@ Herr Kalt.
 Nitt?... derno ka's halt nieme-n-anders si as...
 
         
-",lustig-dr-hochzitstag,12,4,0.42790832218367136,0.3333333333333333
+",15,lustig-dr-hochzitstag,12,4,0.42790832218367136,0.3333333333333333
 46,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -615,7 +615,7 @@ As Ihre Tochter... Herr Kalt... merke Sie's denn nitt?
                     
 
         
-",lustig-dr-hochzitstag,12,4,0.4322628663460704,0.3333333333333333
+",15,lustig-dr-hochzitstag,12,4,0.4322628663460704,0.3333333333333333
 47,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -624,7 +624,7 @@ Herr Kalt.
 Mi Tochter!
 
         
-",lustig-dr-hochzitstag,4,3,0.44020532352516456,0.75
+",15,lustig-dr-hochzitstag,4,3,0.44020532352516456,0.75
 48,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -635,7 +635,7 @@ Eh jo... 's Frànzele, wo-n-ich gern ha un wo mi Fraü
                     
 
         
-",lustig-dr-hochzitstag,20,5,0.45991084720324416,0.25
+",16,lustig-dr-hochzitstag,20,5,0.45991084720324416,0.25
 49,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -646,7 +646,7 @@ Isch's, wil ich Ihne Geld schuldig bi, ass Sie mich e
                     
 
         
-",lustig-dr-hochzitstag,19,6,0.42891383842471953,0.3157894736842105
+",16,lustig-dr-hochzitstag,19,6,0.42891383842471953,0.3157894736842105
 50,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -657,7 +657,7 @@ Ich Sie hà?... was denke Se!... nei, nei, 's isch mr
                     
 
         
-",lustig-dr-hochzitstag,15,2,0.41725108379856346,0.13333333333333333
+",16,lustig-dr-hochzitstag,15,2,0.41725108379856346,0.13333333333333333
 51,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -668,7 +668,7 @@ Ich bi awer arm, Herr Guld, un 's Frànzele isch mi
                     
 
         
-",lustig-dr-hochzitstag,19,6,0.4106084350516768,0.3157894736842105
+",17,lustig-dr-hochzitstag,19,6,0.4106084350516768,0.3157894736842105
 52,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -682,7 +682,7 @@ Herr Guld.
                     
 
         
-",lustig-dr-hochzitstag,41,7,0.5537406456516135,0.17073170731707318
+",17,lustig-dr-hochzitstag,41,7,0.5537406456516135,0.17073170731707318
 53,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -694,7 +694,7 @@ Herr Kalt
 Allons... ich sieh scho, ass ich Ihne müess nogà...
 
         
-",lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
+",17,lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
 54,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -710,7 +710,7 @@ Also isch's e-n-abg'machte Sach
                     
 
         
-",lustig-dr-hochzitstag,25,2,0.408435494808788,0.08
+",18,lustig-dr-hochzitstag,25,2,0.408435494808788,0.08
 55,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -724,7 +724,7 @@ Lehn Se mr, mi liewer Herr Guld, ufs wenigst nur dr Zit,
                     
 
         
-",lustig-dr-hochzitstag,45,14,0.4796011473217137,0.3111111111111111
+",18,lustig-dr-hochzitstag,45,14,0.4796011473217137,0.3111111111111111
 56,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -736,7 +736,7 @@ Güet... ich mach mich dervo, fir ass Sie dr Zit hàn, das
                     
 
         
-",lustig-dr-hochzitstag,27,6,0.45923665814001113,0.2222222222222222
+",18,lustig-dr-hochzitstag,27,6,0.45923665814001113,0.2222222222222222
 57,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -751,7 +751,7 @@ Au revoir, Herr Tochtermann!
           
 
         
-",lustig-dr-hochzitstag,15,4,0.4194656349642183,0.26666666666666666
+",19,lustig-dr-hochzitstag,15,4,0.4194656349642183,0.26666666666666666
 58,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -828,7 +828,7 @@ Ich ka sage, ass ich als güeter Vater g'handelt ha
  Frànzele!... Frànzele!
 
         
-",lustig-dr-hochzitstag,164,22,0.5041385519790581,0.13414634146341464
+",19,lustig-dr-hochzitstag,164,22,0.5041385519790581,0.13414634146341464
 59,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -839,7 +839,7 @@ Kumm Kind... De kasch Di rischte, fir mir an dr Hals
                     
 
         
-",lustig-dr-hochzitstag,23,6,0.5016064633645166,0.2608695652173913
+",19,lustig-dr-hochzitstag,23,6,0.5016064633645166,0.2608695652173913
 60,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -850,7 +850,7 @@ Ich bi ganz g'rischtet, Pape... nur üse mit dr
                     
 
         
-",lustig-dr-hochzitstag,11,1,0.426066672788339,0.09090909090909091
+",20,lustig-dr-hochzitstag,11,1,0.426066672788339,0.09090909090909091
 61,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -861,7 +861,7 @@ Eh bien... so müesch denn z'erst wisse, ass ich mich
                     
 
         
-",lustig-dr-hochzitstag,22,5,0.47598067260499527,0.22727272727272727
+",20,lustig-dr-hochzitstag,22,5,0.47598067260499527,0.22727272727272727
 62,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -874,7 +874,7 @@ Dà ganze Mittag!... do bisch Dü denn nitt züe dem Zimmer
                     
 
         
-",lustig-dr-hochzitstag,21,2,0.567465669856454,0.09523809523809523
+",20,lustig-dr-hochzitstag,21,2,0.567465669856454,0.09523809523809523
 63,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -886,7 +886,7 @@ Nei, Kind... De weisch, ass ich iwerhaüpt nitt viel
                     
 
         
-",lustig-dr-hochzitstag,25,3,0.4446760650230523,0.12
+",21,lustig-dr-hochzitstag,25,3,0.4446760650230523,0.12
 64,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -895,7 +895,7 @@ Frànzele.
 Eh... hasch Dü denn dà Kaste ufg'macht, Pape?
 
         
-",lustig-dr-hochzitstag,9,1,0.5745992485432527,0.1111111111111111
+",21,lustig-dr-hochzitstag,9,1,0.5745992485432527,0.1111111111111111
 65,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -906,7 +906,7 @@ Dà Kaste?... fir was das... was isch das fir e
                     
 
         
-",lustig-dr-hochzitstag,19,4,0.5696802210221088,0.21052631578947367
+",21,lustig-dr-hochzitstag,19,4,0.5696802210221088,0.21052631578947367
 67,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -918,7 +918,7 @@ Verhirothe, jà, Kind... mit eme riche Mann, wo Dich
                     
 
         
-",lustig-dr-hochzitstag,22,6,0.47265861051344565,0.2727272727272727
+",22,lustig-dr-hochzitstag,22,6,0.47265861051344565,0.2727272727272727
 68,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
@@ -932,7 +932,7 @@ Ah!... ich will wette, 's isch vom Herr Guld, wo Dü rede
                     
 
         
-",lustig-dr-hochzitstag,17,1,0.408435494808788,0.058823529411764705
+",22,lustig-dr-hochzitstag,17,1,0.408435494808788,0.058823529411764705
 69,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -945,7 +945,7 @@ O Dü fine Mucke, Dü schlaüe!... allons, gi mr e Schmutz,
           
 
         
-",lustig-dr-hochzitstag,19,4,0.5157579265283176,0.21052631578947367
+",23,lustig-dr-hochzitstag,19,4,0.5157579265283176,0.21052631578947367
 70,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -956,7 +956,7 @@ Un Dü witt, ass ich dr Herr Guld nimm fir mi Mann... ich
                     
 
         
-",lustig-dr-hochzitstag,22,4,0.5013216680484571,0.18181818181818182
+",23,lustig-dr-hochzitstag,22,4,0.5013216680484571,0.18181818181818182
 71,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -967,7 +967,7 @@ Ich o nitt... wege dem nimm ich ne doch fir mi
                     
 
         
-",lustig-dr-hochzitstag,14,3,0.5232854057212887,0.21428571428571427
+",23,lustig-dr-hochzitstag,14,3,0.5232854057212887,0.21428571428571427
 72,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -976,7 +976,7 @@ Frànzele.
 Jà, das isch ganz ebbes anders, Pape!
 
         
-",lustig-dr-hochzitstag,8,2,0.42314306849898875,0.25
+",24,lustig-dr-hochzitstag,8,2,0.42314306849898875,0.25
 73,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -987,7 +987,7 @@ Worum denn isch's ebbes anders... was kasch Dü vo dem
                     
 
         
-",lustig-dr-hochzitstag,14,3,0.42707033814964523,0.21428571428571427
+",24,lustig-dr-hochzitstag,14,3,0.42707033814964523,0.21428571428571427
 74,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1003,7 +1003,7 @@ Dr Herr Guld, wo awerglaüwisch isch, as wie ne-n-alte
                     
 
         
-",lustig-dr-hochzitstag,68,9,0.49022832451141213,0.1323529411764706
+",24,lustig-dr-hochzitstag,68,9,0.49022832451141213,0.1323529411764706
 75,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1014,7 +1014,7 @@ Dü kasch ne desto besser mache z'marschiere un bisch
                     
 
         
-",lustig-dr-hochzitstag,15,4,0.4596243161376083,0.26666666666666666
+",25,lustig-dr-hochzitstag,15,4,0.4596243161376083,0.26666666666666666
 76,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1025,7 +1025,7 @@ Er isch awer jo z'alt, Pape... ich ka-n-en nitt gern
                     
 
         
-",lustig-dr-hochzitstag,15,1,0.4321013815358777,0.06666666666666667
+",25,lustig-dr-hochzitstag,15,1,0.4321013815358777,0.06666666666666667
 77,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1034,7 +1034,7 @@ Herr Kalt.
 Ich bi jo o alt un Dü hasch mich doch gern.
 
         
-",lustig-dr-hochzitstag,13,3,0.4310309772583916,0.23076923076923078
+",25,lustig-dr-hochzitstag,13,3,0.4310309772583916,0.23076923076923078
 78,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1045,7 +1045,7 @@ Un wenn er nur alt wàr, awer er isch noch wiescht
                     
 
         
-",lustig-dr-hochzitstag,13,1,0.7401677796827874,0.07692307692307693
+",26,lustig-dr-hochzitstag,13,1,0.7401677796827874,0.07692307692307693
 79,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1057,7 +1057,7 @@ Wenn er wiescht isch, Kind, so isch er hingege-n-awer o
                     
 
         
-",lustig-dr-hochzitstag,27,5,0.500873078630854,0.18518518518518517
+",26,lustig-dr-hochzitstag,27,5,0.500873078630854,0.18518518518518517
 80,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1088,7 +1088,7 @@ Un wott nit anders als meh thüe!
           
 
         
-",lustig-dr-hochzitstag,47,10,0.5474049888599726,0.2127659574468085
+",26,lustig-dr-hochzitstag,47,10,0.5474049888599726,0.2127659574468085
 81,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1110,7 +1110,7 @@ Un tàte nit meh anders thüe!
           
 
         
-",lustig-dr-hochzitstag,29,7,0.47795182843664685,0.2413793103448276
+",27,lustig-dr-hochzitstag,29,7,0.47795182843664685,0.2413793103448276
 82,comedy,FRÀNZELE,F,,,,"
             
 Frànzele.
@@ -1132,7 +1132,7 @@ Un ohne Glick will ich kei Eh'!
             
 
           
-",lustig-dr-hochzitstag,29,5,0.523134727790065,0.1724137931034483
+",27,lustig-dr-hochzitstag,29,5,0.523134727790065,0.1724137931034483
 83,comedy,Herr KALT,M,,,,"
             
 Herr Kalt.
@@ -1154,7 +1154,7 @@ Un ohne Glick will es kei Eh'!
             
 
           
-",lustig-dr-hochzitstag,30,7,0.4966664555985174,0.23333333333333334
+",27,lustig-dr-hochzitstag,30,7,0.4966664555985174,0.23333333333333334
 84,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1166,7 +1166,7 @@ Herr Kalt.
                     
 
         
-",lustig-dr-hochzitstag,30,4,0.542187884280358,0.13333333333333333
+",28,lustig-dr-hochzitstag,30,4,0.542187884280358,0.13333333333333333
 86,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1179,7 +1179,7 @@ Frànzele, Dü hasch e Liebschaft... wo-n-ich nit dervo
           
 
         
-",lustig-dr-hochzitstag,22,2,0.4304957751196486,0.09090909090909091
+",28,lustig-dr-hochzitstag,22,2,0.4304957751196486,0.09090909090909091
 87,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1188,7 +1188,7 @@ Frànzele.
 Ich versicher Di, Pape...
 
         
-",lustig-dr-hochzitstag,5,1,0.5040724435421626,0.2
+",29,lustig-dr-hochzitstag,5,1,0.5040724435421626,0.2
 88,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1199,7 +1199,7 @@ Dü witt mr 's Lewe versüre... gang... ich will nit meh
                     
 
         
-",lustig-dr-hochzitstag,16,3,0.5014211036139742,0.1875
+",29,lustig-dr-hochzitstag,16,3,0.5014211036139742,0.1875
 89,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1210,7 +1210,7 @@ Müesch nitt bös werde, Pape... schaü, ich zitter ganz...
                     
 
         
-",lustig-dr-hochzitstag,22,3,0.5114704113006964,0.13636363636363635
+",29,lustig-dr-hochzitstag,22,3,0.5114704113006964,0.13636363636363635
 90,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1221,7 +1221,7 @@ Wohrschinlig eso ne Herg'loffener, wo hinte-n-un vorne
                     
 
         
-",lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
+",30,lustig-dr-hochzitstag,13,2,0.4304957751196486,0.15384615384615385
 92,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1232,7 +1232,7 @@ So ne Schlingel!... so ne Nitnutz, wie Di Cüsin, dr
                     
 
         
-",lustig-dr-hochzitstag,13,3,0.511173792567455,0.23076923076923078
+",30,lustig-dr-hochzitstag,13,3,0.511173792567455,0.23076923076923078
 95,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1241,7 +1241,7 @@ Herr Kalt.
 Was isch das fir e Làrme?
 
         
-",lustig-dr-hochzitstag,8,3,0.5232854057212887,0.375
+",31,lustig-dr-hochzitstag,8,3,0.5232854057212887,0.375
 97,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1250,7 +1250,7 @@ Herr Kalt.
 Ich ha glaübt, ich hör ebbes...
 
         
-",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+",32,lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
 98,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1259,7 +1259,7 @@ Felix.
 Z'Hilf!... mache mr uf!...
 
         
-",lustig-dr-hochzitstag,6,1,0.441,0.16666666666666666
+",32,lustig-dr-hochzitstag,6,1,0.441,0.16666666666666666
 99,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1270,7 +1270,7 @@ Dasmol trumpier ich mich nitt... 's isch ebber im
                     
 
         
-",lustig-dr-hochzitstag,12,3,0.536117059565223,0.25
+",33,lustig-dr-hochzitstag,12,3,0.536117059565223,0.25
 101,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1279,7 +1279,7 @@ Felix.
 Mache denn emol uf... ich verstick!
 
         
-",lustig-dr-hochzitstag,7,2,0.5630000000000001,0.2857142857142857
+",33,lustig-dr-hochzitstag,7,2,0.5630000000000001,0.2857142857142857
 102,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1292,7 +1292,7 @@ Herr Kalt.
                     
 
         
-",lustig-dr-hochzitstag,17,4,0.4804908041344705,0.23529411764705882
+",34,lustig-dr-hochzitstag,17,4,0.4804908041344705,0.23529411764705882
 103,comedy,FELIX,M,,,,"
           
 Felix
@@ -1304,7 +1304,7 @@ Felix
 Buschur Oncle!
 
         
-",lustig-dr-hochzitstag,7,1,0.461,0.14285714285714285
+",34,lustig-dr-hochzitstag,7,1,0.461,0.14285714285714285
 104,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1315,7 +1315,7 @@ Comment, Buschur Oncle!... was dr Kückücks tribsch denn
                     
 
         
-",lustig-dr-hochzitstag,13,3,0.4406638500797657,0.23076923076923078
+",34,lustig-dr-hochzitstag,13,3,0.4406638500797657,0.23076923076923078
 105,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1326,7 +1326,7 @@ Nit Güet's Oncle... ich versprich Dr, ass ich mich
                     
 
         
-",lustig-dr-hochzitstag,17,3,0.4813627499958941,0.17647058823529413
+",35,lustig-dr-hochzitstag,17,3,0.4813627499958941,0.17647058823529413
 106,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1335,7 +1335,7 @@ Herr Kalt.
 Wer hat Dich denn do dri ig'sperrt, Dü Schlingel?
 
         
-",lustig-dr-hochzitstag,11,3,0.511173792567455,0.2727272727272727
+",35,lustig-dr-hochzitstag,11,3,0.511173792567455,0.2727272727272727
 108,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1344,7 +1344,7 @@ Herr Kalt.
 Un worum das?... zeig, witt mr nitt glich antworte!
 
         
-",lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
+",36,lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
 109,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1353,7 +1353,7 @@ Frànzele.
 Wil er... wil ich...
 
         
-",lustig-dr-hochzitstag,5,2,0.3055880632693434,0.4
+",36,lustig-dr-hochzitstag,5,2,0.3055880632693434,0.4
 110,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1364,7 +1364,7 @@ Wil ich ihm grad dr Hof g'macht ha do dà Mittag, wo Dü
                     
 
         
-",lustig-dr-hochzitstag,16,5,0.3777909455672903,0.3125
+",36,lustig-dr-hochzitstag,16,5,0.3777909455672903,0.3125
 111,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -1384,7 +1384,7 @@ Ah so!... Dü hasch kei Liebschaft... ah so... Dü
                     
 
         
-",lustig-dr-hochzitstag,49,4,0.4470721323076381,0.08163265306122448
+",37,lustig-dr-hochzitstag,49,4,0.4470721323076381,0.08163265306122448
 112,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1395,7 +1395,7 @@ Loss mi in Rüeh, Oncle, un gi mr ebbes z'esse... denn
                     
 
         
-",lustig-dr-hochzitstag,23,4,0.47934709841561873,0.17391304347826086
+",37,lustig-dr-hochzitstag,23,4,0.47934709841561873,0.17391304347826086
 113,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1406,7 +1406,7 @@ Soll ich Dich eigentlig jetz noch erhalte, Dü
                     
 
         
-",lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
+",37,lustig-dr-hochzitstag,11,2,0.4304957751196486,0.18181818181818182
 114,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1418,7 +1418,7 @@ Im e güete-n-Oncle isch das si Pflicht... und Dü bisch e
                     
 
         
-",lustig-dr-hochzitstag,33,3,0.4756556092548862,0.09090909090909091
+",38,lustig-dr-hochzitstag,33,3,0.4756556092548862,0.09090909090909091
 115,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1430,7 +1430,7 @@ Nur z'vielmol ha-n-ich Dir's zeigt!... wie màngmol
                     
 
         
-",lustig-dr-hochzitstag,34,5,0.45967154917567277,0.14705882352941177
+",38,lustig-dr-hochzitstag,34,5,0.45967154917567277,0.14705882352941177
 116,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1442,7 +1442,7 @@ Grad ha-n-ich Dir welle dervo rede, Oncle... ich bi jetz
                     
 
         
-",lustig-dr-hochzitstag,23,2,0.3514784894807832,0.08695652173913043
+",38,lustig-dr-hochzitstag,23,2,0.3514784894807832,0.08695652173913043
 117,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1453,7 +1453,7 @@ Un mit wem witt hirothe... Dü Zipfel... Dü hasch jo kei
                     
 
         
-",lustig-dr-hochzitstag,19,2,0.4304957751196486,0.10526315789473684
+",39,lustig-dr-hochzitstag,19,2,0.4304957751196486,0.10526315789473684
 118,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1486,7 +1486,7 @@ Wart ich lang noch, isch's z'spot.
           
 
         
-",lustig-dr-hochzitstag,53,7,0.48587531923782695,0.1320754716981132
+",39,lustig-dr-hochzitstag,53,7,0.48587531923782695,0.1320754716981132
 119,comedy,FELIX,M,,,,"
           
 Mitnander.
@@ -1520,7 +1520,7 @@ Awer lieb!
           
 
         
-",lustig-dr-hochzitstag,22,6,0.4835536081620111,0.2727272727272727
+",39,lustig-dr-hochzitstag,22,6,0.4835536081620111,0.2727272727272727
 120,comedy,FRÀNZELE,F,,,,"
           
 Mitnander.
@@ -1554,7 +1554,7 @@ Awer lieb!
           
 
         
-",lustig-dr-hochzitstag,22,6,0.4835536081620111,0.2727272727272727
+",40,lustig-dr-hochzitstag,22,6,0.4835536081620111,0.2727272727272727
 121,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1566,7 +1566,7 @@ Herr Felix, mach ass De mir züem Hüs üse kunnsch un
                     
 
         
-",lustig-dr-hochzitstag,22,5,0.37107491374981344,0.22727272727272727
+",40,lustig-dr-hochzitstag,22,5,0.37107491374981344,0.22727272727272727
 122,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1578,7 +1578,7 @@ Erlaüb mr z'erst e wenig z'sitze, Oncle... ich bi mied
                     
 
         
-",lustig-dr-hochzitstag,30,1,0.3248969021548195,0.03333333333333333
+",40,lustig-dr-hochzitstag,30,1,0.3248969021548195,0.03333333333333333
 123,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1589,7 +1589,7 @@ Hasch Dü eigentlig g'schwore, ass Dü mich in d'Hitz
                     
 
         
-",lustig-dr-hochzitstag,14,4,0.5318704524655031,0.2857142857142857
+",41,lustig-dr-hochzitstag,14,4,0.5318704524655031,0.2857142857142857
 124,comedy,FELIX,M,,,,"
           
 Felix
@@ -1604,7 +1604,7 @@ Also, ich ha 's Frànzele gern, un ich will glich
                     
 
         
-",lustig-dr-hochzitstag,24,3,0.42543021476757636,0.125
+",41,lustig-dr-hochzitstag,24,3,0.42543021476757636,0.125
 125,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1615,7 +1615,7 @@ Das isch nitt wohr!... un ich verbiet em, e-n-Antwort
                     
 
         
-",lustig-dr-hochzitstag,15,5,0.4506860436526142,0.3333333333333333
+",41,lustig-dr-hochzitstag,15,5,0.4506860436526142,0.3333333333333333
 126,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1626,7 +1626,7 @@ Frànzele, lieb Cüsinle, jetz isch dr Moment, standhaft
                     
 
         
-",lustig-dr-hochzitstag,17,3,0.44446851525026604,0.17647058823529413
+",42,lustig-dr-hochzitstag,17,3,0.44446851525026604,0.17647058823529413
 127,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1635,7 +1635,7 @@ Herr Kalt.
 In gar nit thüe-n-ich iwillige!
 
         
-",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+",42,lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
 129,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1644,7 +1644,7 @@ Herr Kalt.
 Ich thüe's enterwe.
 
         
-",lustig-dr-hochzitstag,6,2,0.4304957751196486,0.3333333333333333
+",43,lustig-dr-hochzitstag,6,2,0.4304957751196486,0.3333333333333333
 131,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1653,7 +1653,7 @@ Herr Kalt.
 So thüe-n-i's furtjage!
 
         
-",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+",43,lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
 132,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1664,7 +1664,7 @@ Dü hasch's z'gern, fir das z'mache!... zeig, Frànzele,
                     
 
         
-",lustig-dr-hochzitstag,23,4,0.4995416348413313,0.17391304347826086
+",44,lustig-dr-hochzitstag,23,4,0.4995416348413313,0.17391304347826086
 133,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1673,7 +1673,7 @@ Frànzele.
 Mi liewer Papa...
 
         
-",lustig-dr-hochzitstag,4,1,0.5644888482254989,0.25
+",44,lustig-dr-hochzitstag,4,1,0.5644888482254989,0.25
 134,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1682,7 +1682,7 @@ Herr Kalt.
 Still!... Di Cüsin isch e Galgestrick, wo...
 
         
-",lustig-dr-hochzitstag,9,3,0.3604869810803198,0.3333333333333333
+",44,lustig-dr-hochzitstag,9,3,0.3604869810803198,0.3333333333333333
 135,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1693,7 +1693,7 @@ Dü thüesch mi scho wieder schelte, Oncle, un hasch mr
                     
 
         
-",lustig-dr-hochzitstag,17,3,0.528180894767822,0.17647058823529413
+",45,lustig-dr-hochzitstag,17,3,0.528180894767822,0.17647058823529413
 136,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1705,7 +1705,7 @@ Isch's ebbe nitt wohr, ass De ne Galgestrick bisch, wo
                     
 
         
-",lustig-dr-hochzitstag,27,7,0.4223452798492204,0.25925925925925924
+",45,lustig-dr-hochzitstag,27,7,0.4223452798492204,0.25925925925925924
 137,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1714,7 +1714,7 @@ Felix.
 So wirsch halt miesse Di Wort wieder z'rucknàh...
 
         
-",lustig-dr-hochzitstag,10,2,0.5252111371428749,0.2
+",45,lustig-dr-hochzitstag,10,2,0.5252111371428749,0.2
 138,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1723,7 +1723,7 @@ Herr Kalt.
 Ich will's nitt z'rucknàh un nimm's nitt z'ruk...
 
         
-",lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
+",46,lustig-dr-hochzitstag,14,2,0.4304957751196486,0.14285714285714285
 139,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1732,7 +1732,7 @@ Felix.
 Isch das Di letscht Wort, Oncle?
 
         
-",lustig-dr-hochzitstag,7,1,0.62,0.14285714285714285
+",46,lustig-dr-hochzitstag,7,1,0.62,0.14285714285714285
 140,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1741,7 +1741,7 @@ Herr Kalt.
 's letschte!
 
         
-",lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
+",46,lustig-dr-hochzitstag,4,2,0.4304957751196486,0.5
 141,comedy,FELIX,M,,,,"
           
 Felix
@@ -1757,7 +1757,7 @@ Adie, Frànzele!... nimm das fir e-n-Agedenke vo mir
                     
 
         
-",lustig-dr-hochzitstag,22,3,0.5516705814495726,0.13636363636363635
+",47,lustig-dr-hochzitstag,22,3,0.5516705814495726,0.13636363636363635
 143,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1766,7 +1766,7 @@ Herr Kalt.
 Er soll geh wege mir!
 
         
-",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+",47,lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
 144,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -1775,7 +1775,7 @@ Frànzele.
 Un er kunnt nimmig z'ruck!
 
         
-",lustig-dr-hochzitstag,7,1,0.7486041358863109,0.14285714285714285
+",48,lustig-dr-hochzitstag,7,1,0.7486041358863109,0.14285714285714285
 145,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1784,7 +1784,7 @@ Herr Kalt.
 Desto besser... 's isch e Nitnutz...
 
         
-",lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
+",48,lustig-dr-hochzitstag,8,2,0.4304957751196486,0.25
 146,comedy,FELIX,M,,,,"
           
 Felix
@@ -1799,7 +1799,7 @@ De mahnsch mi dra, ass ich noch e paar Schulde ha in dr
                     
 
         
-",lustig-dr-hochzitstag,30,3,0.5239573247470555,0.1
+",48,lustig-dr-hochzitstag,30,3,0.5239573247470555,0.1
 147,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1809,7 +1809,7 @@ Awer ich will hoffe, ass es d'letschte sin, nitt wohr?
                     
 
         
-",lustig-dr-hochzitstag,13,4,0.4258122124681492,0.3076923076923077
+",49,lustig-dr-hochzitstag,13,4,0.4258122124681492,0.3076923076923077
 148,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1821,7 +1821,7 @@ Oh, ganz g'wiss, Oncle... kumm, gi mr noch e Schmutz,
                     
 
         
-",lustig-dr-hochzitstag,24,4,0.5110937784241852,0.16666666666666666
+",49,lustig-dr-hochzitstag,24,4,0.5110937784241852,0.16666666666666666
 149,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1830,7 +1830,7 @@ Herr Kalt.
 Jà, wo witt denn jetz ane, ne so?...
 
         
-",lustig-dr-hochzitstag,10,2,0.4304957751196486,0.2
+",49,lustig-dr-hochzitstag,10,2,0.4304957751196486,0.2
 152,comedy,FELIX,M,,,,"
           
 Felix
@@ -1845,7 +1845,7 @@ De kasch o noch uf mim Zimmer 's Portrait vo miner
                     
 
         
-",lustig-dr-hochzitstag,29,6,0.504461081626096,0.20689655172413793
+",50,lustig-dr-hochzitstag,29,6,0.504461081626096,0.20689655172413793
 153,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1857,7 +1857,7 @@ Awer mi güeter Felix... was ka-n-ich fir Dich thüe?...
           
 
         
-",lustig-dr-hochzitstag,13,4,0.5168222350695642,0.3076923076923077
+",51,lustig-dr-hochzitstag,13,4,0.5168222350695642,0.3076923076923077
 154,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1866,7 +1866,7 @@ Felix.
 Nit, Oncle... Adie...
 
         
-",lustig-dr-hochzitstag,4,1,0.5051470774241488,0.25
+",51,lustig-dr-hochzitstag,4,1,0.5051470774241488,0.25
 155,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -1880,7 +1880,7 @@ Ich ha mi Wort gà im Herr Guld un ka doch jetz nitt
                     
 
         
-",lustig-dr-hochzitstag,22,6,0.5028734301695285,0.2727272727272727
+",51,lustig-dr-hochzitstag,22,6,0.5028734301695285,0.2727272727272727
 156,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1889,7 +1889,7 @@ Felix.
 Dü hasch recht, Oncle... Adie...
 
         
-",lustig-dr-hochzitstag,6,2,0.4570672581613848,0.3333333333333333
+",52,lustig-dr-hochzitstag,6,2,0.4570672581613848,0.3333333333333333
 157,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1900,7 +1900,7 @@ De wirsch mr doch nitt zürne, Felix!... wenn ich e
                     
 
         
-",lustig-dr-hochzitstag,15,3,0.3917865853855767,0.2
+",52,lustig-dr-hochzitstag,15,3,0.3917865853855767,0.2
 158,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1909,7 +1909,7 @@ Felix.
 Adie, Oncle... ich zürn Dr nitt...
 
         
-",lustig-dr-hochzitstag,7,1,0.5051470774241488,0.14285714285714285
+",52,lustig-dr-hochzitstag,7,1,0.5051470774241488,0.14285714285714285
 159,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1920,7 +1920,7 @@ Dü verschnidsch mr 's Herz mit Dine « Adie »... grin
                     
 
         
-",lustig-dr-hochzitstag,20,5,0.45860834960915753,0.25
+",53,lustig-dr-hochzitstag,20,5,0.45860834960915753,0.25
 160,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
@@ -1932,7 +1932,7 @@ Frànzele
 Pape!... Pape!...
 
         
-",lustig-dr-hochzitstag,6,1,0.6870499203136918,0.16666666666666666
+",53,lustig-dr-hochzitstag,6,1,0.6870499203136918,0.16666666666666666
 161,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1943,7 +1943,7 @@ Bàh!... er soll züem Kückück geh, dr Herr Guld, ich gib
                     
 
         
-",lustig-dr-hochzitstag,18,4,0.48548921812778817,0.2222222222222222
+",53,lustig-dr-hochzitstag,18,4,0.48548921812778817,0.2222222222222222
 162,comedy,FELIX,M,,,,"
           
 Felix
@@ -1957,7 +1957,7 @@ A la bonne heure!... do erkenn ich jetz wieder 's Herz
                     
 
         
-",lustig-dr-hochzitstag,24,3,0.431895489626577,0.125
+",54,lustig-dr-hochzitstag,24,3,0.431895489626577,0.125
 163,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
@@ -1969,7 +1969,7 @@ Frànzele
 Wie bisch Dü doch so güet, Pape!...
 
         
-",lustig-dr-hochzitstag,13,2,0.42090999666362444,0.15384615384615385
+",54,lustig-dr-hochzitstag,13,2,0.42090999666362444,0.15384615384615385
 164,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -1987,7 +1987,7 @@ Jetz isch awer nitt das... einstwile soll das noch e
                     
 
         
-",lustig-dr-hochzitstag,70,6,0.4889679621863139,0.08571428571428572
+",54,lustig-dr-hochzitstag,70,6,0.4889679621863139,0.08571428571428572
 165,comedy,FELIX,M,,,,"
           
 Felix.
@@ -1996,7 +1996,7 @@ Felix.
 Eh bien, Frànzele?...
 
         
-",lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
+",55,lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
 166,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -2005,7 +2005,7 @@ Frànzele.
 Eh bien, Felix?...
 
         
-",lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
+",55,lustig-dr-hochzitstag,4,1,0.5745992485432527,0.25
 169,comedy,FELIX,M,,,,"
           
 Felix.
@@ -2014,7 +2014,7 @@ Felix.
 Was nit!... bisch Dü denn nitt glicklig?
 
         
-",lustig-dr-hochzitstag,8,1,0.76,0.125
+",56,lustig-dr-hochzitstag,8,1,0.76,0.125
 170,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -2023,7 +2023,7 @@ Frànzele.
 Eh doch...
 
         
-",lustig-dr-hochzitstag,3,1,0.5745992485432527,0.3333333333333333
+",56,lustig-dr-hochzitstag,3,1,0.5745992485432527,0.3333333333333333
 171,comedy,FELIX,M,,,,"
           
 Felix.
@@ -2034,7 +2034,7 @@ Sag mr's denn... mi lieb Kind... gi mr denn Di
                     
 
         
-",lustig-dr-hochzitstag,13,2,0.49292493276093974,0.15384615384615385
+",57,lustig-dr-hochzitstag,13,2,0.49292493276093974,0.15384615384615385
 172,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -2049,7 +2049,7 @@ Oh, Felix!... ich weiss nitt wie's mr isch... awer ich
 G'sang (Denkst Du daran)
 
         
-",lustig-dr-hochzitstag,34,8,0.5826912106077862,0.23529411764705882
+",57,lustig-dr-hochzitstag,34,8,0.5826912106077862,0.23529411764705882
 173,comedy,FRÀNZELE,F,,,,"
           
 (Frànzele un Felix mitnander).
@@ -2086,7 +2086,7 @@ Ich ha Dich gern bis an mi letschte Stund!
           
 
         
-",lustig-dr-hochzitstag,80,17,0.5363027256174431,0.2125
+",57,lustig-dr-hochzitstag,80,17,0.5363027256174431,0.2125
 174,comedy,FELIX,M,,,,"
           
 (Frànzele un Felix mitnander).
@@ -2123,7 +2123,7 @@ Ich ha Dich gern bis an mi letschte Stund!
           
 
         
-",lustig-dr-hochzitstag,80,17,0.5363027256174431,0.2125
+",58,lustig-dr-hochzitstag,80,17,0.5363027256174431,0.2125
 175,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2148,7 +2148,7 @@ Uf die Art hat dr Herr Guld Intresse, ass dr Felix
                     
 
         
-",lustig-dr-hochzitstag,102,12,0.5318264800673557,0.11764705882352941
+",58,lustig-dr-hochzitstag,102,12,0.5318264800673557,0.11764705882352941
 176,comedy,FELIX,M,,,,"
           
 Felix.
@@ -2164,7 +2164,7 @@ Uf dr Stell, Oncle!...
                     
 
         
-",lustig-dr-hochzitstag,31,4,0.41951551665912584,0.12903225806451613
+",58,lustig-dr-hochzitstag,31,4,0.41951551665912584,0.12903225806451613
 177,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2184,7 +2184,7 @@ Wenn dà Brief jetz nur noch ane kunnt vor em Herr
                     
 
         
-",lustig-dr-hochzitstag,65,13,0.38804721621357163,0.2
+",59,lustig-dr-hochzitstag,65,13,0.38804721621357163,0.2
 178,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -2196,7 +2196,7 @@ Herr Hitzig
 Ha-n-ich d'Ehr, mit em Herr Kalt z'rede?
 
         
-",lustig-dr-hochzitstag,16,5,0.4972763872106277,0.3125
+",59,lustig-dr-hochzitstag,16,5,0.4972763872106277,0.3125
 179,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2205,7 +2205,7 @@ Herr Kalt.
 Mit ihm selbst... was wàr Ihne g'fàllig?
 
         
-",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+",59,lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
 180,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2216,7 +2216,7 @@ Ich hätt gern e-n-Unterredung mit Ene g'ha iwer e
                     
 
         
-",lustig-dr-hochzitstag,16,4,0.45333163629693163,0.25
+",60,lustig-dr-hochzitstag,16,4,0.45333163629693163,0.25
 181,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2227,7 +2227,7 @@ Setze Sie sich un sage Sie mr, um was as es sich
                     
 
         
-",lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
+",60,lustig-dr-hochzitstag,15,2,0.4304957751196486,0.13333333333333333
 182,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2239,7 +2239,7 @@ Herr Hitzig.
                     
 
         
-",lustig-dr-hochzitstag,28,3,0.5337219700939944,0.10714285714285714
+",60,lustig-dr-hochzitstag,28,3,0.5337219700939944,0.10714285714285714
 183,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2248,7 +2248,7 @@ Herr Kalt.
 Ich glaüb... jo.
 
         
-",lustig-dr-hochzitstag,5,3,0.4057029660584964,0.6
+",61,lustig-dr-hochzitstag,5,3,0.4057029660584964,0.6
 184,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2259,7 +2259,7 @@ Sie känne sicher si... denn ich weiss, ass er soll do
                     
 
         
-",lustig-dr-hochzitstag,20,5,0.44344631278903995,0.25
+",61,lustig-dr-hochzitstag,20,5,0.44344631278903995,0.25
 185,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2270,7 +2270,7 @@ Sie trumpiere sich... er isch nitt do... Un ich weiss
                     
 
         
-",lustig-dr-hochzitstag,21,3,0.536117059565223,0.14285714285714285
+",61,lustig-dr-hochzitstag,21,3,0.536117059565223,0.14285714285714285
 186,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2282,7 +2282,7 @@ So isch's mr denn Leid, ass ich Se derangiert ha fir
                     
 
         
-",lustig-dr-hochzitstag,40,8,0.5758461880130592,0.2
+",62,lustig-dr-hochzitstag,40,8,0.5758461880130592,0.2
 187,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2291,7 +2291,7 @@ Herr Kalt.
 Mi Neveu umbringe?
 
         
-",lustig-dr-hochzitstag,5,3,0.5936638500797657,0.6
+",62,lustig-dr-hochzitstag,5,3,0.5936638500797657,0.6
 188,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2300,7 +2300,7 @@ Herr Hitzig.
 Ihre Neveu, jà!
 
         
-",lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
+",62,lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
 189,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2309,7 +2309,7 @@ Herr Kalt.
 Un worum das... wenn's Ene b'liebt?
 
         
-",lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
+",63,lustig-dr-hochzitstag,9,2,0.4304957751196486,0.2222222222222222
 190,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2349,7 +2349,7 @@ Grad as wie jetz!
           
 
         
-",lustig-dr-hochzitstag,79,8,0.48282000323352886,0.10126582278481013
+",63,lustig-dr-hochzitstag,79,8,0.48282000323352886,0.10126582278481013
 191,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2371,7 +2371,7 @@ Jetz bis dohi!
           
 
         
-",lustig-dr-hochzitstag,22,4,0.43737402635899014,0.18181818181818182
+",63,lustig-dr-hochzitstag,22,4,0.43737402635899014,0.18181818181818182
 192,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2393,7 +2393,7 @@ In alle Lit!
           
 
         
-",lustig-dr-hochzitstag,21,3,0.42955718709071355,0.14285714285714285
+",64,lustig-dr-hochzitstag,21,3,0.42955718709071355,0.14285714285714285
 193,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2408,7 +2408,7 @@ Merci... ich bi nitt gern g'schunde... Sie känne-n-awer
                     
 
         
-",lustig-dr-hochzitstag,29,5,0.40473334981032894,0.1724137931034483
+",64,lustig-dr-hochzitstag,29,5,0.40473334981032894,0.1724137931034483
 194,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2419,7 +2419,7 @@ Ich müess Ihne noch sage, ass ich dr Brüeder bi vo minre
                     
 
         
-",lustig-dr-hochzitstag,18,4,0.4615332014821903,0.2222222222222222
+",64,lustig-dr-hochzitstag,18,4,0.4615332014821903,0.2222222222222222
 195,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2430,7 +2430,7 @@ Ich kenn Ihre Schwester nitt, awer sie känne sicher si,
                     
 
         
-",lustig-dr-hochzitstag,20,4,0.3978913418789418,0.2
+",65,lustig-dr-hochzitstag,20,4,0.3978913418789418,0.2
 196,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2445,7 +2445,7 @@ Gestert also si mr uf Durni g'fahre mitnander im
                     
 
         
-",lustig-dr-hochzitstag,56,9,0.46398420455370737,0.16071428571428573
+",65,lustig-dr-hochzitstag,56,9,0.46398420455370737,0.16071428571428573
 197,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2454,7 +2454,7 @@ Herr Kalt.
 Bis dohi weiss ich nitt...
 
         
-",lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
+",65,lustig-dr-hochzitstag,7,2,0.4304957751196486,0.2857142857142857
 198,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -2465,7 +2465,7 @@ Warte Se nur... Sie werde's jetz gli wisse... er hat
                     
 
         
-",lustig-dr-hochzitstag,22,3,0.478644168435646,0.13636363636363635
+",66,lustig-dr-hochzitstag,22,3,0.478644168435646,0.13636363636363635
 199,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2474,7 +2474,7 @@ Herr Kalt.
 Ah bàh!... Sin Sie sicher?
 
         
-",lustig-dr-hochzitstag,7,3,0.41585512250525575,0.42857142857142855
+",66,lustig-dr-hochzitstag,7,3,0.41585512250525575,0.42857142857142855
 200,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2486,7 +2486,7 @@ Ganz sicher... also sàhn Se, ass ich, fir d'Ehr vo minre
                     
 
         
-",lustig-dr-hochzitstag,27,6,0.5244825904672034,0.2222222222222222
+",66,lustig-dr-hochzitstag,27,6,0.5244825904672034,0.2222222222222222
 201,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2495,7 +2495,7 @@ Herr Kalt.
 Ich will's 'm halt sage, wenn ich ne sieh...
 
         
-",lustig-dr-hochzitstag,12,3,0.43047127484168235,0.25
+",67,lustig-dr-hochzitstag,12,3,0.43047127484168235,0.25
 202,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2504,7 +2504,7 @@ Herr Hitzig.
 Uf jedefall, wenn er refüsiert, so isch er de Katze!
 
         
-",lustig-dr-hochzitstag,12,3,0.47405530342732766,0.25
+",67,lustig-dr-hochzitstag,12,3,0.47405530342732766,0.25
 203,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2513,7 +2513,7 @@ Herr Kalt.
 Das isch e trürige-n-Üssicht, wo Se mir do gàn.
 
         
-",lustig-dr-hochzitstag,13,3,0.41704590966140104,0.23076923076923078
+",67,lustig-dr-hochzitstag,13,3,0.41704590966140104,0.23076923076923078
 204,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -2530,7 +2530,7 @@ Herr Hitzig.
                     
 
         
-",lustig-dr-hochzitstag,57,6,0.5587149337468941,0.10526315789473684
+",68,lustig-dr-hochzitstag,57,6,0.5587149337468941,0.10526315789473684
 205,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2554,7 +2554,7 @@ Dà isch jetz wieder emol güet mit sine Dege!... awer mit
           
 
         
-",lustig-dr-hochzitstag,79,8,0.45640264756924986,0.10126582278481013
+",68,lustig-dr-hochzitstag,79,8,0.45640264756924986,0.10126582278481013
 206,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2567,7 +2567,7 @@ Ah... Sie sin's, Herr Guld?...
                     
 
         
-",lustig-dr-hochzitstag,24,5,0.460485788892111,0.20833333333333334
+",68,lustig-dr-hochzitstag,24,5,0.460485788892111,0.20833333333333334
 207,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -2579,7 +2579,7 @@ Herr Guld
 Jà, Herr Kalt... ich bi's!...
 
         
-",lustig-dr-hochzitstag,11,4,0.459479293260602,0.36363636363636365
+",69,lustig-dr-hochzitstag,11,4,0.459479293260602,0.36363636363636365
 208,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2590,7 +2590,7 @@ Was hàn Se, Herr Guld?... reit Se viellicht die Hiroth
                     
 
         
-",lustig-dr-hochzitstag,22,6,0.44070579854479547,0.2727272727272727
+",69,lustig-dr-hochzitstag,22,6,0.44070579854479547,0.2727272727272727
 209,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2601,7 +2601,7 @@ O nei!... was denke Se!... Sie thàte doch g'wiss nitt
                     
 
         
-",lustig-dr-hochzitstag,22,4,0.41621959325487345,0.18181818181818182
+",69,lustig-dr-hochzitstag,22,4,0.41621959325487345,0.18181818181818182
 210,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2617,7 +2617,7 @@ Ich?... nei... ich müess es g'steh...
                     
 
         
-",lustig-dr-hochzitstag,28,6,0.5024777196357867,0.21428571428571427
+",70,lustig-dr-hochzitstag,28,6,0.5024777196357867,0.21428571428571427
 211,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2628,7 +2628,7 @@ Ne Spaziergang, jà, ins Wàwsrgàssle... ich kumm jetz
                     
 
         
-",lustig-dr-hochzitstag,14,4,0.4217182070758988,0.2857142857142857
+",70,lustig-dr-hochzitstag,14,4,0.4217182070758988,0.2857142857142857
 212,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2637,7 +2637,7 @@ Herr Kalt.
 Sie, Herr Guld?...
 
         
-",lustig-dr-hochzitstag,5,3,0.4231423483493617,0.6
+",70,lustig-dr-hochzitstag,5,3,0.4231423483493617,0.6
 213,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2648,7 +2648,7 @@ Ich, jà... worum nitt?... glaüwe Sie ebbe nitt an
                     
 
         
-",lustig-dr-hochzitstag,13,1,0.408435494808788,0.07692307692307693
+",71,lustig-dr-hochzitstag,13,1,0.408435494808788,0.07692307692307693
 214,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2660,7 +2660,7 @@ Oh doch, Herr Guld... uf jedefall gläub ich an
                     
 
         
-",lustig-dr-hochzitstag,26,6,0.40377695682007825,0.23076923076923078
+",71,lustig-dr-hochzitstag,26,6,0.40377695682007825,0.23076923076923078
 215,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2723,7 +2723,7 @@ Ass me ka geh ufs Karteschla!
           
 
         
-",lustig-dr-hochzitstag,130,16,0.4523033235401171,0.12307692307692308
+",71,lustig-dr-hochzitstag,130,16,0.4523033235401171,0.12307692307692308
 216,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2743,7 +2743,7 @@ Un ich denn, Herr Guld... un ich denn... hundert Exempel
                     
 
         
-",lustig-dr-hochzitstag,101,10,0.4153091035564603,0.09900990099009901
+",72,lustig-dr-hochzitstag,101,10,0.4153091035564603,0.09900990099009901
 217,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2762,7 +2762,7 @@ Herr Guld.
                     
 
         
-",lustig-dr-hochzitstag,86,8,0.44122159727619936,0.09302325581395349
+",72,lustig-dr-hochzitstag,86,8,0.44122159727619936,0.09302325581395349
 218,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2774,7 +2774,7 @@ Oh, do sin Sie am wenigste z'bedüre, Herr Guld!... dr
                     
 
         
-",lustig-dr-hochzitstag,27,6,0.49495181343014405,0.2222222222222222
+",72,lustig-dr-hochzitstag,27,6,0.49495181343014405,0.2222222222222222
 219,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2786,7 +2786,7 @@ Das isch alles güet, awer 's isch schint's e
                     
 
         
-",lustig-dr-hochzitstag,25,4,0.5510649060580739,0.16
+",73,lustig-dr-hochzitstag,25,4,0.5510649060580739,0.16
 220,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2799,7 +2799,7 @@ Mr mien halt Tag un Nacht iwer ne wache... mit Geld un
                     
 
         
-",lustig-dr-hochzitstag,45,12,0.4636740146185159,0.26666666666666666
+",73,lustig-dr-hochzitstag,45,12,0.4636740146185159,0.26666666666666666
 221,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -2811,7 +2811,7 @@ Herr Guld
 Ich will halt süeche z'mache, was z'mach-n-isch!
 
         
-",lustig-dr-hochzitstag,16,4,0.4801534700376306,0.25
+",73,lustig-dr-hochzitstag,16,4,0.4801534700376306,0.25
 222,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2823,7 +2823,7 @@ Allons, tröste Sie sich, Herr Guld... mache Se wieder e
                     
 
         
-",lustig-dr-hochzitstag,22,4,0.3983910693839965,0.18181818181818182
+",74,lustig-dr-hochzitstag,22,4,0.3983910693839965,0.18181818181818182
 223,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2832,7 +2832,7 @@ Herr Guld.
 Das isch alles recht... awer 's isch e Nitnutz!
 
         
-",lustig-dr-hochzitstag,11,2,0.4087114668537044,0.18181818181818182
+",74,lustig-dr-hochzitstag,11,2,0.4087114668537044,0.18181818181818182
 224,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2843,7 +2843,7 @@ Eh, Herr Guld, Sie wisse jo wohl, Unkrüt verdirbt
                     
 
         
-",lustig-dr-hochzitstag,12,5,0.42406790169028596,0.4166666666666667
+",74,lustig-dr-hochzitstag,12,5,0.42406790169028596,0.4166666666666667
 225,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2855,7 +2855,7 @@ Ich müèss mi halt dri schicke!... Oh! worum isch jetz mi
                     
 
         
-",lustig-dr-hochzitstag,23,5,0.43527385962370513,0.21739130434782608
+",75,lustig-dr-hochzitstag,23,5,0.43527385962370513,0.21739130434782608
 226,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2867,7 +2867,7 @@ Sie hàn do ne ganz galante-n-Idee... awer was wànn Se
                     
 
         
-",lustig-dr-hochzitstag,27,7,0.45211131605654226,0.25925925925925924
+",75,lustig-dr-hochzitstag,27,7,0.45211131605654226,0.25925925925925924
 227,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -2882,7 +2882,7 @@ So will ich ne denn gli geh ufsüeche, Ihre Neveu, un
                     
 
         
-",lustig-dr-hochzitstag,38,3,0.4117819067215003,0.07894736842105263
+",75,lustig-dr-hochzitstag,38,3,0.4117819067215003,0.07894736842105263
 228,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2898,7 +2898,7 @@ C'est ça... Herr Guld... c'est ça... das isch 's beste,
                     
 
         
-",lustig-dr-hochzitstag,26,4,0.4194656349642183,0.15384615384615385
+",76,lustig-dr-hochzitstag,26,4,0.4194656349642183,0.15384615384615385
 229,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -2915,7 +2915,7 @@ Uf dàre Site gieng jetz alles güet... awer jetz isch
                     
 
         
-",lustig-dr-hochzitstag,46,8,0.4649923506808161,0.17391304347826086
+",76,lustig-dr-hochzitstag,46,8,0.4649923506808161,0.17391304347826086
 230,comedy,FELIX,M,,,,"
           
 Felix
@@ -2930,7 +2930,7 @@ De müesch mr verzeihe, Oncle, wenn ich scho wieder do
                     
 
         
-",lustig-dr-hochzitstag,29,1,0.4222577425487451,0.034482758620689655
+",76,lustig-dr-hochzitstag,29,1,0.4222577425487451,0.034482758620689655
 231,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2944,7 +2944,7 @@ Ah, De bisch do, schöner Vogel... zeig, kumm emol do
           
 
         
-",lustig-dr-hochzitstag,25,6,0.4308953054596796,0.24
+",77,lustig-dr-hochzitstag,25,6,0.4308953054596796,0.24
 232,comedy,FELIX,M,,,,"
           
 Felix.
@@ -2958,7 +2958,7 @@ Dr Fechtmeister?... was fir e Fechtmeister?... dà, wo
                     
 
         
-",lustig-dr-hochzitstag,34,4,0.5466803655369368,0.11764705882352941
+",77,lustig-dr-hochzitstag,34,4,0.5466803655369368,0.11764705882352941
 233,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2970,7 +2970,7 @@ Felix, ich mach kei G'spass... was isch das fir e
                     
 
         
-",lustig-dr-hochzitstag,25,5,0.5471099193623569,0.2
+",77,lustig-dr-hochzitstag,25,5,0.5471099193623569,0.2
 234,comedy,FELIX,M,,,,"
           
 Felix.
@@ -2981,7 +2981,7 @@ Ich, e Dame compromittiert!... wie kasch Dü nur eso
                     
 
         
-",lustig-dr-hochzitstag,15,1,0.4713769574170061,0.06666666666666667
+",78,lustig-dr-hochzitstag,15,1,0.4713769574170061,0.06666666666666667
 235,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -2992,7 +2992,7 @@ Dü wàrsch alleweg z'güet derzüe, nitt wohr?... un 's
                     
 
         
-",lustig-dr-hochzitstag,20,5,0.4152200435708009,0.25
+",78,lustig-dr-hochzitstag,20,5,0.4152200435708009,0.25
 236,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3001,7 +3001,7 @@ Felix.
 Eh, isch denn die Dame ne Fechtmeister gsi?
 
         
-",lustig-dr-hochzitstag,9,2,0.5229881029801294,0.2222222222222222
+",78,lustig-dr-hochzitstag,9,2,0.5229881029801294,0.2222222222222222
 237,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3010,7 +3010,7 @@ Herr Kalt.
 Felix, mach mi nitt wild!
 
         
-",lustig-dr-hochzitstag,7,3,0.5428566833986793,0.42857142857142855
+",79,lustig-dr-hochzitstag,7,3,0.5428566833986793,0.42857142857142855
 238,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3023,7 +3023,7 @@ Was witt halt, Oncle... die Dame sin jetz eso possig
                     
 
         
-",lustig-dr-hochzitstag,43,4,0.4416679498814926,0.09302325581395349
+",79,lustig-dr-hochzitstag,43,4,0.4416679498814926,0.09302325581395349
 239,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3034,7 +3034,7 @@ Scho güet, Nitnutz... also g'stehsch's i... zeig,
                     
 
         
-",lustig-dr-hochzitstag,19,3,0.45280809111789583,0.15789473684210525
+",79,lustig-dr-hochzitstag,19,3,0.45280809111789583,0.15789473684210525
 240,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3045,7 +3045,7 @@ Also, gestert bin ich uf Durni g'fahre mit em
                     
 
         
-",lustig-dr-hochzitstag,11,1,0.441,0.09090909090909091
+",80,lustig-dr-hochzitstag,11,1,0.441,0.09090909090909091
 241,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3056,7 +3056,7 @@ Worum gehsch Dü nitt z'Füess, Dü Schurk... kasch Dü Di
                     
 
         
-",lustig-dr-hochzitstag,18,4,0.43566329947961346,0.2222222222222222
+",80,lustig-dr-hochzitstag,18,4,0.43566329947961346,0.2222222222222222
 242,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3069,7 +3069,7 @@ Im Tramway isch's eso ag'nehm, Oncle... De wirsch's jetz
                     
 
         
-",lustig-dr-hochzitstag,41,3,0.5584790739323175,0.07317073170731707
+",80,lustig-dr-hochzitstag,41,3,0.5584790739323175,0.07317073170731707
 243,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3078,7 +3078,7 @@ Herr Kalt.
 Güet, güet... nur furt...
 
         
-",lustig-dr-hochzitstag,6,4,0.4639642491170195,0.6666666666666666
+",81,lustig-dr-hochzitstag,6,4,0.4639642491170195,0.6666666666666666
 244,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3091,7 +3091,7 @@ Uf eimol awer hat er deràilliert un do ha-n-ich mine Arm
                     
 
         
-",lustig-dr-hochzitstag,43,7,0.43546146807808744,0.16279069767441862
+",81,lustig-dr-hochzitstag,43,7,0.43546146807808744,0.16279069767441862
 245,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3100,7 +3100,7 @@ Herr Kalt.
 Un do hat halt die Dame ne Schrei üsg'lo...
 
         
-",lustig-dr-hochzitstag,11,5,0.5050078798494728,0.45454545454545453
+",81,lustig-dr-hochzitstag,11,5,0.5050078798494728,0.45454545454545453
 246,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3109,7 +3109,7 @@ Felix.
 Üs Angst, Oncle, wege-n-em Umfalle.
 
         
-",lustig-dr-hochzitstag,8,1,0.7438871000942455,0.125
+",82,lustig-dr-hochzitstag,8,1,0.7438871000942455,0.125
 247,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3122,7 +3122,7 @@ Un wil derno voruse uf dr Terrasse ihre Brüeder
                     
 
         
-",lustig-dr-hochzitstag,37,7,0.3907281185562021,0.1891891891891892
+",82,lustig-dr-hochzitstag,37,7,0.3907281185562021,0.1891891891891892
 248,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3133,7 +3133,7 @@ Ich ha kei Fechtmeister g'sàh!... ich bi gli furt, wo's
                     
 
         
-",lustig-dr-hochzitstag,22,1,0.4120878812309737,0.045454545454545456
+",82,lustig-dr-hochzitstag,22,1,0.4120878812309737,0.045454545454545456
 249,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3144,7 +3144,7 @@ Uf jedefall süecht er Dich jetz... er will Dich mache si
                     
 
         
-",lustig-dr-hochzitstag,21,3,0.43399718341309906,0.14285714285714285
+",83,lustig-dr-hochzitstag,21,3,0.43399718341309906,0.14285714285714285
 250,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3161,7 +3161,7 @@ Er soll nur ku, ich thüe ne nitt lang üsefordere... ich
                     
 
         
-",lustig-dr-hochzitstag,46,7,0.4097885342147932,0.15217391304347827
+",83,lustig-dr-hochzitstag,46,7,0.4097885342147932,0.15217391304347827
 251,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3174,7 +3174,7 @@ Nitt allei, Schlingel... 's g'hört si nitt... ich gang
                     
 
         
-",lustig-dr-hochzitstag,19,4,0.4335763210417435,0.21052631578947367
+",83,lustig-dr-hochzitstag,19,4,0.4335763210417435,0.21052631578947367
 252,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3194,7 +3194,7 @@ Ich ha dà Strolch vo Felix nitt känne-n-üsfindig
                     
 
         
-",lustig-dr-hochzitstag,42,2,0.6211493911892202,0.047619047619047616
+",84,lustig-dr-hochzitstag,42,2,0.6211493911892202,0.047619047619047616
 253,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -3218,7 +3218,7 @@ Dasmol ha-n-ich ne jetz!... er isch schint's, wie me mir
                     
 
         
-",lustig-dr-hochzitstag,83,7,0.4596815680164104,0.08433734939759036
+",84,lustig-dr-hochzitstag,83,7,0.4596815680164104,0.08433734939759036
 254,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3230,7 +3230,7 @@ Herr Guld
 Was dr Kückücks isch jetz das fir e Held?
 
         
-",lustig-dr-hochzitstag,15,4,0.6580412071644816,0.26666666666666666
+",84,lustig-dr-hochzitstag,15,4,0.6580412071644816,0.26666666666666666
 255,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3242,7 +3242,7 @@ Ich süech e g'wisser Herr Felix... me hat mir g'sàit, er
                     
 
         
-",lustig-dr-hochzitstag,25,5,0.4465858432359494,0.2
+",85,lustig-dr-hochzitstag,25,5,0.4465858432359494,0.2
 256,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3254,7 +3254,7 @@ Herr Guld
 Jà, was wànn Sie mit em Herr Felix?
 
         
-",lustig-dr-hochzitstag,13,2,0.408435494808788,0.15384615384615385
+",85,lustig-dr-hochzitstag,13,2,0.408435494808788,0.15384615384615385
 257,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3294,7 +3294,7 @@ Wo sich mit mir hat g'schlage!
           
 
         
-",lustig-dr-hochzitstag,61,9,0.5175785612546429,0.14754098360655737
+",85,lustig-dr-hochzitstag,61,9,0.5175785612546429,0.14754098360655737
 258,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3313,7 +3313,7 @@ Fir ass me ka geh klage?
           
 
         
-",lustig-dr-hochzitstag,16,4,0.5527431626781826,0.25
+",86,lustig-dr-hochzitstag,16,4,0.5527431626781826,0.25
 259,comedy,Herr GULD,M,,,,"
             
 
@@ -3330,7 +3330,7 @@ Er derf sich nitt geh schlage!
             
 
           
-",lustig-dr-hochzitstag,21,3,0.5207778623460408,0.14285714285714285
+",86,lustig-dr-hochzitstag,21,3,0.5207778623460408,0.14285714285714285
 260,comedy,Herr HITZIG,M,,,,"
             
 Herr Hitzig.
@@ -3350,7 +3350,7 @@ Wo sich mit mir hat g'schlage!
             
 
           
-",lustig-dr-hochzitstag,27,6,0.516334038701697,0.2222222222222222
+",86,lustig-dr-hochzitstag,27,6,0.516334038701697,0.2222222222222222
 261,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3362,7 +3362,7 @@ Herr Guld
 Mr sin beide verlore!
 
         
-",lustig-dr-hochzitstag,14,4,0.49380300650579717,0.2857142857142857
+",87,lustig-dr-hochzitstag,14,4,0.49380300650579717,0.2857142857142857
 262,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3371,7 +3371,7 @@ Herr Hitzig.
 Was isch Ene... was hàn Se...
 
         
-",lustig-dr-hochzitstag,8,2,0.4905829551409915,0.25
+",87,lustig-dr-hochzitstag,8,2,0.4905829551409915,0.25
 263,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3386,7 +3386,7 @@ Was mache, ass se sich nitt gehn geh schlage
                     
 
         
-",lustig-dr-hochzitstag,32,7,0.5359505101285454,0.21875
+",87,lustig-dr-hochzitstag,32,7,0.5359505101285454,0.21875
 264,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3397,7 +3397,7 @@ Hàn Sie ebbe-n-ebbes dergege-n-iz'wende?
           
 
         
-",lustig-dr-hochzitstag,10,2,0.4905829551409915,0.2
+",88,lustig-dr-hochzitstag,10,2,0.4905829551409915,0.2
 265,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3408,7 +3408,7 @@ Ich... ich... eh bien... merke Se denn nitt, ass ich dà
                     
 
         
-",lustig-dr-hochzitstag,19,4,0.47618405530562263,0.21052631578947367
+",88,lustig-dr-hochzitstag,19,4,0.47618405530562263,0.21052631578947367
 266,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3426,7 +3426,7 @@ Sie!...
                     
 
         
-",lustig-dr-hochzitstag,36,6,0.5119172866781208,0.16666666666666666
+",88,lustig-dr-hochzitstag,36,6,0.5119172866781208,0.16666666666666666
 267,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3435,7 +3435,7 @@ Herr Guld.
 Gehn Se mr eweg mit dem Mordg'schirr!
 
         
-",lustig-dr-hochzitstag,9,1,0.408435494808788,0.1111111111111111
+",89,lustig-dr-hochzitstag,9,1,0.408435494808788,0.1111111111111111
 268,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3444,7 +3444,7 @@ Herr Hitzig.
 So wànn Sie sich denn nitt schlage?
 
         
-",lustig-dr-hochzitstag,9,3,0.5535070558679488,0.3333333333333333
+",89,lustig-dr-hochzitstag,9,3,0.5535070558679488,0.3333333333333333
 269,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3453,7 +3453,7 @@ Herr Guld.
 Z'er Làbtig nitt!... mi Religion thüet mir's verbiete!
 
         
-",lustig-dr-hochzitstag,12,2,0.5047884407594067,0.16666666666666666
+",89,lustig-dr-hochzitstag,12,2,0.5047884407594067,0.16666666666666666
 270,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3462,7 +3462,7 @@ Herr Hitzig.
 Also, wenn Se sich nitt schlage, so hirothe Se?
 
         
-",lustig-dr-hochzitstag,11,3,0.5535070558679488,0.2727272727272727
+",90,lustig-dr-hochzitstag,11,3,0.5535070558679488,0.2727272727272727
 271,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3479,7 +3479,7 @@ Tiens, wie weisst er das?...
                     
 
         
-",lustig-dr-hochzitstag,33,6,0.5003397075628512,0.18181818181818182
+",90,lustig-dr-hochzitstag,33,6,0.5003397075628512,0.18181818181818182
 272,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3490,7 +3490,7 @@ Sie verstehn mich nitt... entweder schlage Sie sich,
                         hàn!
 
         
-",lustig-dr-hochzitstag,19,3,0.5535070558679488,0.15789473684210525
+",90,lustig-dr-hochzitstag,19,3,0.5535070558679488,0.15789473684210525
 273,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3499,7 +3499,7 @@ Herr Guld.
 's isch mr Leid... awer ich bi scho versproche!
 
         
-",lustig-dr-hochzitstag,11,3,0.546722733832618,0.2727272727272727
+",91,lustig-dr-hochzitstag,11,3,0.546722733832618,0.2727272727272727
 274,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3510,7 +3510,7 @@ Ah, so isch's, Herr Felix?... Sie sin e Hasefüess! Warte
 (er hebt si Dege gege-n-en uf).
 
         
-",lustig-dr-hochzitstag,28,6,0.4591753017063574,0.21428571428571427
+",91,lustig-dr-hochzitstag,28,6,0.4591753017063574,0.21428571428571427
 275,comedy,FELIX,M,,,,"
           
 Felix
@@ -3527,7 +3527,7 @@ Wer sàit, ass dr Felix e Hasefüess isch?... tiens, dr
                     
 
         
-",lustig-dr-hochzitstag,31,5,0.507893214403068,0.16129032258064516
+",91,lustig-dr-hochzitstag,31,5,0.507893214403068,0.16129032258064516
 276,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -3539,7 +3539,7 @@ Herr Hitzig
 Herr Hitzig... g'wesener Fechtmeister im...
 
         
-",lustig-dr-hochzitstag,10,4,0.4905829551409915,0.4
+",92,lustig-dr-hochzitstag,10,4,0.4905829551409915,0.4
 277,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3551,7 +3551,7 @@ Ah... Sie sin dr Fechtmeister?... sehr güet... mr wisse
                     
 
         
-",lustig-dr-hochzitstag,25,3,0.5647151970453457,0.12
+",92,lustig-dr-hochzitstag,25,3,0.5647151970453457,0.12
 278,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3567,7 +3567,7 @@ Do hà mr's jetz!...
                     
 
         
-",lustig-dr-hochzitstag,25,3,0.4459231849116731,0.12
+",92,lustig-dr-hochzitstag,25,3,0.4459231849116731,0.12
 279,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3578,7 +3578,7 @@ Sie?....nei... dr Herr Felix, do, ha-n-ich g'süecht, wo
                     
 
         
-",lustig-dr-hochzitstag,18,4,0.5172391656031586,0.2222222222222222
+",93,lustig-dr-hochzitstag,18,4,0.5172391656031586,0.2222222222222222
 280,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3592,7 +3592,7 @@ Sage Se nitt 's Gegetheil, Herr Felix, ich bitt Se
                     
 
         
-",lustig-dr-hochzitstag,17,3,0.474956996539192,0.17647058823529413
+",93,lustig-dr-hochzitstag,17,3,0.474956996539192,0.17647058823529413
 282,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3603,7 +3603,7 @@ Glaüwe Sie's nitt, Herr Fechtmeister... glaüwe Sie's
                     
 
         
-",lustig-dr-hochzitstag,12,2,0.408435494808788,0.16666666666666666
+",94,lustig-dr-hochzitstag,12,2,0.408435494808788,0.16666666666666666
 283,comedy,FELIX,M,,,,"
           
 Felix
@@ -3622,7 +3622,7 @@ Ah ça... was kunnt Ihne-n-i, mi Name welle az'nàh un ne
           
 
         
-",lustig-dr-hochzitstag,28,2,0.5520068614028688,0.07142857142857142
+",94,lustig-dr-hochzitstag,28,2,0.5520068614028688,0.07142857142857142
 284,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3636,7 +3636,7 @@ Wenn Sie dr Herr Felix sin, so isch unser Sach glich in
                     
 
         
-",lustig-dr-hochzitstag,33,5,0.5308870937212933,0.15151515151515152
+",94,lustig-dr-hochzitstag,33,5,0.5308870937212933,0.15151515151515152
 285,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
@@ -3650,7 +3650,7 @@ Frànzele
 Felix, Felix... ich bitt Di drum!
 
         
-",lustig-dr-hochzitstag,21,2,0.6783020679431555,0.09523809523809523
+",95,lustig-dr-hochzitstag,21,2,0.6783020679431555,0.09523809523809523
 286,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3667,7 +3667,7 @@ Was hàn Sie jetz g'macht, worum hàn Se-n-Ihre Name
                     
 
         
-",lustig-dr-hochzitstag,35,3,0.48343338724445234,0.08571428571428572
+",95,lustig-dr-hochzitstag,35,3,0.48343338724445234,0.08571428571428572
 287,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -3682,7 +3682,7 @@ Sie werde so güet si un mi Hüs verlo... Sie hàn kei
                     
 
         
-",lustig-dr-hochzitstag,32,8,0.42914514623430333,0.25
+",95,lustig-dr-hochzitstag,32,8,0.42914514623430333,0.25
 288,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -3698,7 +3698,7 @@ Herr Hitzig.
                     
 
         
-",lustig-dr-hochzitstag,32,6,0.4531983008233729,0.1875
+",96,lustig-dr-hochzitstag,32,6,0.4531983008233729,0.1875
 289,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3707,7 +3707,7 @@ Felix.
 Uf dr Stell!...
 
         
-",lustig-dr-hochzitstag,4,2,0.40164764110854534,0.5
+",96,lustig-dr-hochzitstag,4,2,0.40164764110854534,0.5
 290,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -3716,7 +3716,7 @@ Frànzele.
 Felix... Pape... müesch's nitt lide!
 
         
-",lustig-dr-hochzitstag,7,1,0.6323071130800793,0.14285714285714285
+",96,lustig-dr-hochzitstag,7,1,0.6323071130800793,0.14285714285714285
 291,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -3730,7 +3730,7 @@ Müesch kei Angst ha, Kind... was isch Dr... De wirsch jo
                     
 
         
-",lustig-dr-hochzitstag,27,7,0.4912468408778735,0.25925925925925924
+",97,lustig-dr-hochzitstag,27,7,0.4912468408778735,0.25925925925925924
 292,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3745,7 +3745,7 @@ Mi liewer Herr Felix, verspreche Se mr, ass Sie sich
                         si!
 
         
-",lustig-dr-hochzitstag,43,10,0.518743428954797,0.23255813953488372
+",97,lustig-dr-hochzitstag,43,10,0.518743428954797,0.23255813953488372
 293,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3756,7 +3756,7 @@ Sie sin jetz wieder güet!... was kunnt Ene denn
                     
 
         
-",lustig-dr-hochzitstag,22,3,0.5607732744028787,0.13636363636363635
+",97,lustig-dr-hochzitstag,22,3,0.5607732744028787,0.13636363636363635
 294,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3774,7 +3774,7 @@ Wenn ich ihm alles thàt sage... awer nei, dà Nitnutz
                     
 
         
-",lustig-dr-hochzitstag,40,8,0.48532906595362935,0.2
+",98,lustig-dr-hochzitstag,40,8,0.48532906595362935,0.2
 295,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3783,7 +3783,7 @@ Felix.
 Sie sin no nitt drin, Herr Guld!
 
         
-",lustig-dr-hochzitstag,8,1,0.408435494808788,0.125
+",98,lustig-dr-hochzitstag,8,1,0.408435494808788,0.125
 296,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -3794,7 +3794,7 @@ Mi liewer Felix... wenn Sie viellicht zwei-, dreihundert
                     
 
         
-",lustig-dr-hochzitstag,13,3,0.4343287236872004,0.23076923076923078
+",98,lustig-dr-hochzitstag,13,3,0.4343287236872004,0.23076923076923078
 297,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3805,7 +3805,7 @@ Lehn Se mich in Rüeh!...
 .
 
         
-",lustig-dr-hochzitstag,13,2,0.32309218199439615,0.15384615384615385
+",99,lustig-dr-hochzitstag,13,2,0.32309218199439615,0.15384615384615385
 298,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3823,7 +3823,7 @@ Wenn Sie viellicht nur wotte ne kleiner Ufschüeb
                     
 
         
-",lustig-dr-hochzitstag,54,8,0.44564344087039676,0.14814814814814814
+",99,lustig-dr-hochzitstag,54,8,0.44564344087039676,0.14814814814814814
 299,comedy,FELIX,M,,,,"
           
 Felix
@@ -3841,7 +3841,7 @@ Er isch verruckt, 's ka nitt anderscht si
           
 
         
-",lustig-dr-hochzitstag,18,3,0.5828450246404002,0.16666666666666666
+",99,lustig-dr-hochzitstag,18,3,0.5828450246404002,0.16666666666666666
 300,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3857,7 +3857,7 @@ Was mache, ass er is nitt geht geh lo umbringe...
                     
 
         
-",lustig-dr-hochzitstag,32,7,0.5802874780858696,0.21875
+",100,lustig-dr-hochzitstag,32,7,0.5802874780858696,0.21875
 302,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3873,7 +3873,7 @@ Herr Guld
                     
 
         
-",lustig-dr-hochzitstag,37,5,0.4605244216173583,0.13513513513513514
+",100,lustig-dr-hochzitstag,37,5,0.4605244216173583,0.13513513513513514
 303,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3886,7 +3886,7 @@ Sie sin nitt g'scheidt, Herr Guld!
                     
 
         
-",lustig-dr-hochzitstag,22,2,0.4691126570949272,0.09090909090909091
+",101,lustig-dr-hochzitstag,22,2,0.4691126570949272,0.09090909090909091
 304,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -3897,7 +3897,7 @@ Felix... liewer Felix... gàll, De gehsch Di nitt geh
                     
 
         
-",lustig-dr-hochzitstag,11,2,0.6219220527736812,0.18181818181818182
+",101,lustig-dr-hochzitstag,11,2,0.6219220527736812,0.18181818181818182
 305,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -3924,7 +3924,7 @@ s' Frànzele kunnt jetz wie g'wunsche!
                     
 
         
-",lustig-dr-hochzitstag,91,9,0.6281221225432421,0.0989010989010989
+",101,lustig-dr-hochzitstag,91,9,0.6281221225432421,0.0989010989010989
 306,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -3937,7 +3937,7 @@ De gisch mr kei Antwort, Felix?... hasch mi denn nimmig
                     
 
         
-",lustig-dr-hochzitstag,21,1,0.4321013815358777,0.047619047619047616
+",102,lustig-dr-hochzitstag,21,1,0.4321013815358777,0.047619047619047616
 307,comedy,FELIX,M,,,,"
           
 Felix
@@ -3951,7 +3951,7 @@ Ich Dich nimmig gern ha!... lüeg mi denn nur a un
                     
 
         
-",lustig-dr-hochzitstag,27,2,0.4588403183344991,0.07407407407407407
+",102,lustig-dr-hochzitstag,27,2,0.4588403183344991,0.07407407407407407
 308,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -3962,7 +3962,7 @@ Nei, nei... ich merk jetz scho, ass Dü mich nie gern
                     
 
         
-",lustig-dr-hochzitstag,14,1,0.4321013815358777,0.07142857142857142
+",102,lustig-dr-hochzitstag,14,1,0.4321013815358777,0.07142857142857142
 309,comedy,FELIX,M,,,,"
           
 Felix.
@@ -3993,7 +3993,7 @@ Wie Dü fir mich?
           
 
         
-",lustig-dr-hochzitstag,33,4,0.6700545455186593,0.12121212121212122
+",103,lustig-dr-hochzitstag,33,4,0.6700545455186593,0.12121212121212122
 310,comedy,FELIX,M,,,,"
             
 
@@ -4012,7 +4012,7 @@ As ich Dich ha?
             
 
           
-",lustig-dr-hochzitstag,21,4,0.46443794088824225,0.19047619047619047
+",103,lustig-dr-hochzitstag,21,4,0.46443794088824225,0.19047619047619047
 311,comedy,FRÀNZELE,F,,,,"
             
 Frànzele.
@@ -4034,7 +4034,7 @@ Un will sich schla!
             
 
           
-",lustig-dr-hochzitstag,23,5,0.5074214041749665,0.21739130434782608
+",103,lustig-dr-hochzitstag,23,5,0.5074214041749665,0.21739130434782608
 313,comedy,FELIX,M,,,,"
           
 Felix
@@ -4049,7 +4049,7 @@ Güet... ich gang...
           
 
         
-",lustig-dr-hochzitstag,14,2,0.48355826661840445,0.14285714285714285
+",104,lustig-dr-hochzitstag,14,2,0.48355826661840445,0.14285714285714285
 314,comedy,FRÀNZELE,F,,,,"
           
 Frànzele
@@ -4069,7 +4069,7 @@ Felix... mi Felix... was soll ich mache, wenn Dü
                     
 
         
-",lustig-dr-hochzitstag,83,4,0.5303686144660703,0.04819277108433735
+",104,lustig-dr-hochzitstag,83,4,0.5303686144660703,0.04819277108433735
 315,comedy,FELIX,M,,,,"
           
 Felix
@@ -4083,7 +4083,7 @@ Frànzele... müesch nitt grine... schaü, ich müess...
                     
 
         
-",lustig-dr-hochzitstag,19,2,0.6326122377659295,0.10526315789473684
+",105,lustig-dr-hochzitstag,19,2,0.6326122377659295,0.10526315789473684
 316,comedy,FRÀNZELE,F,,,,"
           
 Frànzele.
@@ -4101,7 +4101,7 @@ Nei, nei... Dü gehsch Dich nitt geh schlage... hiroth
                     
 
         
-",lustig-dr-hochzitstag,70,14,0.5247069234479701,0.2
+",105,lustig-dr-hochzitstag,70,14,0.5247069234479701,0.2
 317,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -4116,7 +4116,7 @@ Ich ha glaübt, ich kännt dà Hitzkopf vo Fechtmeister mit
                     
 
         
-",lustig-dr-hochzitstag,42,6,0.48873076594546633,0.14285714285714285
+",105,lustig-dr-hochzitstag,42,6,0.48873076594546633,0.14285714285714285
 318,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -4130,7 +4130,7 @@ Das geht lang, bis Sie sich decidiere... allons, uf was
                     
 
         
-",lustig-dr-hochzitstag,27,8,0.4417898414639265,0.2962962962962963
+",106,lustig-dr-hochzitstag,27,8,0.4417898414639265,0.2962962962962963
 319,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -4147,7 +4147,7 @@ Z'Hilf!... Firio! ihr derfe-n-eüch nitt schlage!
                     
 
         
-",lustig-dr-hochzitstag,30,7,0.5507765792139233,0.23333333333333334
+",106,lustig-dr-hochzitstag,30,7,0.5507765792139233,0.23333333333333334
 320,comedy,Herr KALT,M,,,,"
           
 Herr Kalt.
@@ -4160,7 +4160,7 @@ Was sieh-n-i!... mi Tochter ohne B'sinnung!...
                     
 
         
-",lustig-dr-hochzitstag,19,4,0.4909719327945298,0.21052631578947367
+",106,lustig-dr-hochzitstag,19,4,0.4909719327945298,0.21052631578947367
 321,comedy,Herr GULD,M,,,,"
           
 Herr Guld
@@ -4174,7 +4174,7 @@ Z'Hilf!... z'Hilf!...
 .
 
         
-",lustig-dr-hochzitstag,19,2,0.5568755218494814,0.10526315789473684
+",107,lustig-dr-hochzitstag,19,2,0.5568755218494814,0.10526315789473684
 322,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig
@@ -4186,7 +4186,7 @@ Herr Hitzig
 Allons, Herr Felix... en avant!
 
         
-",lustig-dr-hochzitstag,15,4,0.4648213038032974,0.26666666666666666
+",107,lustig-dr-hochzitstag,15,4,0.4648213038032974,0.26666666666666666
 323,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -4199,7 +4199,7 @@ Halte Se, Herr Fechtmeister... halte Se... me hirothet
                     
 
         
-",lustig-dr-hochzitstag,36,5,0.46834310763781517,0.1388888888888889
+",107,lustig-dr-hochzitstag,36,5,0.46834310763781517,0.1388888888888889
 325,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -4208,7 +4208,7 @@ Herr Hitzig.
 Also vorwàrts denn?
 
         
-",lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
+",108,lustig-dr-hochzitstag,5,2,0.4905829551409915,0.4
 326,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -4225,7 +4225,7 @@ Herr Fechtmeister, Herr Fechtmeister... warte Se... eh
                     
 
         
-",lustig-dr-hochzitstag,56,10,0.4976480027857499,0.17857142857142858
+",108,lustig-dr-hochzitstag,56,10,0.4976480027857499,0.17857142857142858
 327,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -4238,7 +4238,7 @@ Endlig hat's packt!...
 (er ribt si d'Hànd).
 
         
-",lustig-dr-hochzitstag,17,3,0.5232854057212887,0.17647058823529413
+",109,lustig-dr-hochzitstag,17,3,0.5232854057212887,0.17647058823529413
 328,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -4252,7 +4252,7 @@ Herr Guld, 's wird mich freie, Sie als mi Schwoger
           
 
         
-",lustig-dr-hochzitstag,27,5,0.4472129805018632,0.18518518518518517
+",109,lustig-dr-hochzitstag,27,5,0.4472129805018632,0.18518518518518517
 329,comedy,Herr KALT,M,,,,"
           
 Herr Kalt
@@ -4273,7 +4273,7 @@ Ich möcht ne grad schmutze, dà Fechtmeister...
                     
 
         
-",lustig-dr-hochzitstag,52,13,0.5208493882661311,0.25
+",109,lustig-dr-hochzitstag,52,13,0.5208493882661311,0.25
 330,comedy,FELIX,M,,,,"
           
 Felix.
@@ -4285,7 +4285,7 @@ Wil der Herr Guld denn jetz e-n-andere Hiroth macht,
                     
 
         
-",lustig-dr-hochzitstag,31,4,0.45489361987745913,0.12903225806451613
+",110,lustig-dr-hochzitstag,31,4,0.45489361987745913,0.12903225806451613
 331,comedy,Herr GULD,M,,,,"
           
 Herr Guld.
@@ -4297,7 +4297,7 @@ Gàn Sie's em nur, Herr Kalt... ich ha nit dergege...ass
                     
 
         
-",lustig-dr-hochzitstag,30,4,0.4781747014126776,0.13333333333333333
+",110,lustig-dr-hochzitstag,30,4,0.4781747014126776,0.13333333333333333
 332,comedy,Herr HITZIG,M,,,,"
           
 Herr Hitzig.
@@ -4315,7 +4315,7 @@ Un jetz, ihr Herre-n-un Dame, wil e Sach in Richtigkeit
                     
 
         
-",lustig-dr-hochzitstag,58,9,0.4692253002747453,0.15517241379310345
+",110,lustig-dr-hochzitstag,58,9,0.4692253002747453,0.15517241379310345
 333,comedy,alle,B,,,,"
           
 Alle
@@ -4346,4 +4346,4 @@ In alle Lit.
           
 
         
-",lustig-dr-hochzitstag,26,1,0.3075056509901578,0.038461538461538464
+",111,lustig-dr-hochzitstag,26,1,0.3075056509901578,0.038461538461538464

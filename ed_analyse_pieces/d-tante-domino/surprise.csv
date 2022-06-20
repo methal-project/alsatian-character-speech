@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -73,7 +73,7 @@ Ich sieh nit anders as ich müess im Herr Ledig
                         
 
         
-",lustig-d-tante-domino,321,44,0.012068181818181818,0.13707165109034267
+",0,lustig-d-tante-domino,321,44,0.012068181818181818,0.13707165109034267
 1,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -91,7 +91,7 @@ Eh, güete-n-Owe, Madame Frisch!... ich frog nitt no
                     
 
         
-",lustig-d-tante-domino,36,8,0.0,0.2222222222222222
+",1,lustig-d-tante-domino,36,8,0.0,0.2222222222222222
 2,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -102,7 +102,7 @@ Sie hätte ne sotte si, vo rechtswege... awer lüege
                     
 
         
-",lustig-d-tante-domino,17,2,0.0,0.11764705882352941
+",2,lustig-d-tante-domino,17,2,0.0,0.11764705882352941
 3,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -116,7 +116,7 @@ Tiens,'s sin scho andere Gast do... verzeiht Se mr,
                     
 
         
-",lustig-d-tante-domino,26,4,0.0,0.15384615384615385
+",3,lustig-d-tante-domino,26,4,0.0,0.15384615384615385
 4,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -163,7 +163,7 @@ Vo ebbes anders meh jetz do!
           
 
         
-",lustig-d-tante-domino,75,10,0.09059999999999999,0.13333333333333333
+",4,lustig-d-tante-domino,75,10,0.09059999999999999,0.13333333333333333
 5,comedy,Madame FRISCH,F,,,,"
             
 
@@ -173,7 +173,7 @@ Kunnt me z'spot etc...
             
 
           
-",lustig-d-tante-domino,5,1,0.156,0.2
+",5,lustig-d-tante-domino,5,1,0.156,0.2
 6,comedy,Herr LEDIG,M,,,,"
             
 Herr Ledig.
@@ -204,7 +204,7 @@ Vo ebbes anders meh jetz do!
             
 
           
-",lustig-d-tante-domino,35,8,0.11614547785805428,0.22857142857142856
+",6,lustig-d-tante-domino,35,8,0.11614547785805428,0.22857142857142856
 7,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -218,7 +218,7 @@ Ich bi awer o ungeduldig gsi un ha mi dummelt... un
                     
 
         
-",lustig-d-tante-domino,31,5,0.0312,0.16129032258064516
+",7,lustig-d-tante-domino,31,5,0.0312,0.16129032258064516
 8,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -233,7 +233,7 @@ So isch's halt allewil mit dàne Mànner... d'G'schàfte,
                     
 
         
-",lustig-d-tante-domino,35,7,0.0,0.2
+",8,lustig-d-tante-domino,35,7,0.0,0.2
 9,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -253,7 +253,7 @@ Ah so!... tiens, tiens!...
                     
 
         
-",lustig-d-tante-domino,44,8,0.0,0.18181818181818182
+",9,lustig-d-tante-domino,44,8,0.0,0.18181818181818182
 10,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -274,7 +274,7 @@ Dà güete Herr Ledig!... ich mächt grad grine!... ich
                     
 
         
-",lustig-d-tante-domino,69,16,0.1094511688538921,0.2318840579710145
+",10,lustig-d-tante-domino,69,16,0.1094511688538921,0.2318840579710145
 11,comedy,Herr FLINK,M,,,,"
           
 Herr Flink
@@ -301,7 +301,7 @@ Aha!... do isch se jo, mi liewe Nièce, Nundebuckel noch
                     
 
         
-",lustig-d-tante-domino,87,16,0.07863866885389209,0.1839080459770115
+",11,lustig-d-tante-domino,87,16,0.07863866885389209,0.1839080459770115
 12,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -310,7 +310,7 @@ Herr Krach.
 Was uf jedefall e grosse-n-Ehr wird si fir mich...
 
         
-",lustig-d-tante-domino,13,5,0.12500000000000003,0.38461538461538464
+",12,lustig-d-tante-domino,13,5,0.12500000000000003,0.38461538461538464
 13,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -333,7 +333,7 @@ Oh sapristi!... jetz si mr scho wieder drizehne!... ich
                     
 
         
-",lustig-d-tante-domino,73,12,0.054693970477405714,0.1643835616438356
+",13,lustig-d-tante-domino,73,12,0.054693970477405714,0.1643835616438356
 14,comedy,Herr FLINK,M,,,,"
           
 Herr Flink
@@ -348,7 +348,7 @@ Was isch... wie g'fallt se ne?... nitt wohr, ich ha se
                     
 
         
-",lustig-d-tante-domino,32,5,0.0,0.15625
+",14,lustig-d-tante-domino,32,5,0.0,0.15625
 15,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -360,7 +360,7 @@ Ich find se, ganz güet... awer sin Se sicher, ass sie
                     
 
         
-",lustig-d-tante-domino,34,11,0.0,0.3235294117647059
+",15,lustig-d-tante-domino,34,11,0.0,0.3235294117647059
 16,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -371,7 +371,7 @@ Hàn Se-n-ebbe scho Angst, 's isch e Rival?... lehn Se
                     
 
         
-",lustig-d-tante-domino,22,2,0.0,0.09090909090909091
+",16,lustig-d-tante-domino,22,2,0.0,0.09090909090909091
 17,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -391,7 +391,7 @@ Ich ha-n-em d'Magd nog'schickt... er ka no nitt wit
                     
 
         
-",lustig-d-tante-domino,62,7,0.0,0.11290322580645161
+",17,lustig-d-tante-domino,62,7,0.0,0.11290322580645161
 18,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -406,7 +406,7 @@ Was witt halt... Dü weisch, wie-n-ich mit Arwet iwerlade
           
 
         
-",lustig-d-tante-domino,41,6,0.0,0.14634146341463414
+",18,lustig-d-tante-domino,41,6,0.0,0.14634146341463414
 19,comedy,Herr KRACH,M,,,,"
           
 Herr Krach
@@ -425,7 +425,7 @@ Erlaüwe Se, ass ich siter in Garte-n-awe gang, derwilst
                     
 
         
-",lustig-d-tante-domino,55,6,0.0,0.10909090909090909
+",19,lustig-d-tante-domino,55,6,0.0,0.10909090909090909
 20,comedy,Herr FLINK,M,,,,"
           
 Ferr Flink.
@@ -442,7 +442,7 @@ Vor allem mächt ich Dich jetz froge, wie Dir dà Herr
                     
 
         
-",lustig-d-tante-domino,73,12,0.028666666666666663,0.1643835616438356
+",20,lustig-d-tante-domino,73,12,0.028666666666666663,0.1643835616438356
 21,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -488,7 +488,7 @@ So bind ich mich nitt a!
           
 
         
-",lustig-d-tante-domino,77,13,0.030000000000000002,0.16883116883116883
+",21,lustig-d-tante-domino,77,13,0.030000000000000002,0.16883116883116883
 22,comedy,Madame FRISCH,F,,,,"
             
 
@@ -519,7 +519,7 @@ B'sinn Di wohl!
             
 
           
-",lustig-d-tante-domino,30,4,0.297,0.13333333333333333
+",22,lustig-d-tante-domino,30,4,0.297,0.13333333333333333
 23,comedy,Herr FLINK,M,,,,"
             
 Herr Flink.
@@ -553,7 +553,7 @@ B'sinn Di wohl!
             
 
           
-",lustig-d-tante-domino,42,6,0.16416666666666666,0.14285714285714285
+",23,lustig-d-tante-domino,42,6,0.16416666666666666,0.14285714285714285
 24,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -564,7 +564,7 @@ De weisch, ich bi allewil eso gsi... wenn ich emol ebbes
                     
 
         
-",lustig-d-tante-domino,24,2,0.0,0.08333333333333333
+",24,lustig-d-tante-domino,24,2,0.0,0.08333333333333333
 25,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -578,7 +578,7 @@ Eh bien, los, Oncle, ich sag Dr d'Antwort am
                     
 
         
-",lustig-d-tante-domino,24,7,0.14514285714285716,0.2916666666666667
+",25,lustig-d-tante-domino,24,7,0.14514285714285716,0.2916666666666667
 26,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -597,7 +597,7 @@ Nix do... uf dr Stell müess ich's wisse... wenn Dü-n-en
           
 
         
-",lustig-d-tante-domino,78,8,0.037125,0.10256410256410256
+",26,lustig-d-tante-domino,78,8,0.037125,0.10256410256410256
 27,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -612,7 +612,7 @@ Isch jetz das e Fatalität!... jetz ha-n-i dr Herr Ledig
                     
 
         
-",lustig-d-tante-domino,34,7,0.046880546123490616,0.20588235294117646
+",27,lustig-d-tante-domino,34,7,0.046880546123490616,0.20588235294117646
 28,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -621,7 +621,7 @@ Herr Flink.
 Was isch... hasch Di ferig b'sunne?... Nunde...
 
         
-",lustig-d-tante-domino,9,1,0.0,0.1111111111111111
+",28,lustig-d-tante-domino,9,1,0.0,0.1111111111111111
 29,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -632,7 +632,7 @@ Buckel noch emol!... So loss ne doch nur z'Nacht esse
                     
 
         
-",lustig-d-tante-domino,22,5,0.06563276457288686,0.22727272727272727
+",29,lustig-d-tante-domino,22,5,0.06563276457288686,0.22727272727272727
 30,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -646,7 +646,7 @@ Herr Flink.
                     
 
         
-",lustig-d-tante-domino,49,4,0.0,0.08163265306122448
+",30,lustig-d-tante-domino,49,4,0.0,0.08163265306122448
 31,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -663,7 +663,7 @@ Was mache!... was mache!... ma foi, ich sag, er soll
                     
 
         
-",lustig-d-tante-domino,35,9,0.1589565388428971,0.2571428571428571
+",31,lustig-d-tante-domino,35,9,0.1589565388428971,0.2571428571428571
 32,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -672,7 +672,7 @@ Herr Flink.
 Eh bien...
 
         
-",lustig-d-tante-domino,4,2,0.0,0.5
+",32,lustig-d-tante-domino,4,2,0.0,0.5
 33,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -681,7 +681,7 @@ Madame Frisch.
 Eh bien... er soll dobliwe!
 
         
-",lustig-d-tante-domino,7,3,0.0,0.42857142857142855
+",33,lustig-d-tante-domino,7,3,0.0,0.42857142857142855
 34,comedy,Herr FLINK,M,,,,"
           
 Herr Flink.
@@ -694,7 +694,7 @@ A la bonne heure!... ich will ne gli geh ufsüech fir's
                     
 
         
-",lustig-d-tante-domino,27,2,0.0,0.07407407407407407
+",34,lustig-d-tante-domino,27,2,0.0,0.07407407407407407
 35,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -716,7 +716,7 @@ scho
                     
 
         
-",lustig-d-tante-domino,91,9,0.0,0.0989010989010989
+",35,lustig-d-tante-domino,91,9,0.0,0.0989010989010989
 36,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -737,7 +737,7 @@ Was soll eigentiig das bedite, Madame Frisch?... vor ere
                     
 
         
-",lustig-d-tante-domino,99,10,0.0,0.10101010101010101
+",36,lustig-d-tante-domino,99,10,0.0,0.10101010101010101
 37,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -755,7 +755,7 @@ Güet... jetz will dà wieder furt... mr kämme nitt üs
                     
 
         
-",lustig-d-tante-domino,39,6,0.0,0.15384615384615385
+",37,lustig-d-tante-domino,39,6,0.0,0.15384615384615385
 38,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -774,7 +774,7 @@ Ha ha ha... züe mim Beste!... Ich garantier awer derfir,
           
 
         
-",lustig-d-tante-domino,33,3,0.0,0.09090909090909091
+",38,lustig-d-tante-domino,33,3,0.0,0.09090909090909091
 39,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -826,7 +826,7 @@ Das ka jo ganz un gar nitt si
           
 
         
-",lustig-d-tante-domino,124,13,0.07817066935863644,0.10483870967741936
+",39,lustig-d-tante-domino,124,13,0.07817066935863644,0.10483870967741936
 40,comedy,Madame FRISCH,F,,,,"
           
 Mitnander
@@ -848,7 +848,7 @@ Soll unser Schwur nie untergeh!
           
 
         
-",lustig-d-tante-domino,19,3,0.0,0.15789473684210525
+",40,lustig-d-tante-domino,19,3,0.0,0.15789473684210525
 41,comedy,Herr LEDIG,M,,,,"
           
 Mitnander
@@ -870,7 +870,7 @@ Soll unser Schwur nie untergeh!
           
 
         
-",lustig-d-tante-domino,19,3,0.0,0.15789473684210525
+",41,lustig-d-tante-domino,19,3,0.0,0.15789473684210525
 42,comedy,Madame FRISCH,F,,,,"
           
 Allons, Herr Ledig, kàmme Se, mr wànn geh lüege, eb
@@ -879,7 +879,7 @@ Allons, Herr Ledig, kàmme Se, mr wànn geh lüege, eb
                             G'walt züer Thüre-n-üse rechts)
 
         
-",lustig-d-tante-domino,32,2,0.0,0.0625
+",42,lustig-d-tante-domino,32,2,0.0,0.0625
 43,comedy,Herr KRACH,M,,,,"
           
 Herr Krach
@@ -940,7 +940,7 @@ awer possig isch's doch, das müess me
                     
 
         
-",lustig-d-tante-domino,467,58,0.06048840768498049,0.12419700214132762
+",43,lustig-d-tante-domino,467,58,0.06048840768498049,0.12419700214132762
 44,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -960,7 +960,7 @@ Aha, do isch er jo!... ich ha-n-en lang genüe
                     
 
         
-",lustig-d-tante-domino,73,15,0.0,0.2054794520547945
+",44,lustig-d-tante-domino,73,15,0.0,0.2054794520547945
 45,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -973,7 +973,7 @@ Z'erst müess ich Ihne sage, ass Sie mir do keine Ordre
                     
 
         
-",lustig-d-tante-domino,40,5,0.0,0.125
+",45,lustig-d-tante-domino,40,5,0.0,0.125
 46,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -985,7 +985,7 @@ Herr Ledig
 Wie meine Sie das?...
 
         
-",lustig-d-tante-domino,9,3,0.0,0.3333333333333333
+",46,lustig-d-tante-domino,9,3,0.0,0.3333333333333333
 47,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -998,7 +998,7 @@ Wà mr's druf aku lo?...
                     
 
         
-",lustig-d-tante-domino,22,5,0.06563276457288686,0.22727272727272727
+",47,lustig-d-tante-domino,22,5,0.06563276457288686,0.22727272727272727
 48,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -1009,7 +1009,7 @@ Allons, allons, ihr Herre... me süecht Se, fir an dr
                     
 
         
-",lustig-d-tante-domino,15,4,0.0,0.26666666666666666
+",48,lustig-d-tante-domino,15,4,0.0,0.26666666666666666
 49,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -1021,7 +1021,7 @@ Verzeiht Se, Madame Frisch... unter de jetzige Umstànde
                     
 
         
-",lustig-d-tante-domino,26,5,0.0,0.19230769230769232
+",49,lustig-d-tante-domino,26,5,0.0,0.19230769230769232
 50,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -1044,7 +1044,7 @@ Also furt wànn Se?...
                     
 
         
-",lustig-d-tante-domino,66,12,0.0,0.18181818181818182
+",50,lustig-d-tante-domino,66,12,0.0,0.18181818181818182
 51,comedy,Herr KRACH,M,,,,"
           
 Herr Krach
@@ -1056,7 +1056,7 @@ Herr Krach
 Was ha-n-ich g'sàit?.
 
         
-",lustig-d-tante-domino,13,3,0.0,0.23076923076923078
+",51,lustig-d-tante-domino,13,3,0.0,0.23076923076923078
 52,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -1068,7 +1068,7 @@ Herr Ledig
 Ich kumm nitt do drüs!
 
         
-",lustig-d-tante-domino,11,2,0.0,0.18181818181818182
+",52,lustig-d-tante-domino,11,2,0.0,0.18181818181818182
 53,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -1102,7 +1102,7 @@ Frei ich mich druf hi.
           
 
         
-",lustig-d-tante-domino,49,9,0.02,0.1836734693877551
+",53,lustig-d-tante-domino,49,9,0.02,0.1836734693877551
 54,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1138,7 +1138,7 @@ Freit se sich druf hi.
           
 
         
-",lustig-d-tante-domino,48,5,0.1016,0.10416666666666667
+",54,lustig-d-tante-domino,48,5,0.1016,0.10416666666666667
 55,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -1172,7 +1172,7 @@ Uf mi Wort hi.
           
 
         
-",lustig-d-tante-domino,41,4,0.0,0.0975609756097561
+",55,lustig-d-tante-domino,41,4,0.0,0.0975609756097561
 56,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -1189,7 +1189,7 @@ Sin die Zwei jetz in ere Klemme!... awer ich will
                     
 
         
-",lustig-d-tante-domino,59,11,0.0,0.1864406779661017
+",56,lustig-d-tante-domino,59,11,0.0,0.1864406779661017
 57,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1201,7 +1201,7 @@ Madame Frisch
 Uf eimol, eso grad ohne witers?...
 
         
-",lustig-d-tante-domino,11,5,0.16672579127315645,0.45454545454545453
+",57,lustig-d-tante-domino,11,5,0.16672579127315645,0.45454545454545453
 58,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -1215,7 +1215,7 @@ Verzeiht Se... ich ha's scho lang gern... mr hàn is
                     
 
         
-",lustig-d-tante-domino,48,7,0.06257142857142857,0.14583333333333334
+",58,lustig-d-tante-domino,48,7,0.06257142857142857,0.14583333333333334
 59,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch.
@@ -1229,7 +1229,7 @@ Aha!... das isch die Bekanntschaft, wo Sie g'sàh hàn im
                     
 
         
-",lustig-d-tante-domino,46,6,0.0,0.13043478260869565
+",59,lustig-d-tante-domino,46,6,0.0,0.13043478260869565
 60,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1241,7 +1241,7 @@ Verzeiht Se mr, Madame Frisch... ich bi halt e
                     
 
         
-",lustig-d-tante-domino,22,5,0.0438,0.22727272727272727
+",60,lustig-d-tante-domino,22,5,0.0438,0.22727272727272727
 61,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1259,7 +1259,7 @@ Also isch jetz alles wieder in Ordnung!...
                         flink e wenig!
 
         
-",lustig-d-tante-domino,32,5,0.1078,0.15625
+",61,lustig-d-tante-domino,32,5,0.1078,0.15625
 62,comedy,Herr FLINK,M,,,,"
           
 Herr Flink
@@ -1274,7 +1274,7 @@ O mine liewe Kinder, wie isch's mir uf eimol eso
                         ihr werde halt miesse-n-ohne mich an dr Tisch sitze.
 
         
-",lustig-d-tante-domino,49,13,0.0,0.2653061224489796
+",62,lustig-d-tante-domino,49,13,0.0,0.2653061224489796
 63,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1286,7 +1286,7 @@ Madame Frisch
 Was fir e Fatalität!... scho wieder drizehne!...
 
         
-",lustig-d-tante-domino,13,4,0.0,0.3076923076923077
+",63,lustig-d-tante-domino,13,4,0.0,0.3076923076923077
 64,comedy,Herr KRACH,M,,,,"
           
 Herr Krach
@@ -1300,7 +1300,7 @@ Wo hàn Se-n-eigentlig weh?... was isch denn
                     
 
         
-",lustig-d-tante-domino,17,4,0.0,0.23529411764705882
+",64,lustig-d-tante-domino,17,4,0.0,0.23529411764705882
 65,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1314,7 +1314,7 @@ G'schwind... mr wànn en ufs Kanepee fiehre, er ka sich
                     
 
         
-",lustig-d-tante-domino,29,7,0.0,0.2413793103448276
+",65,lustig-d-tante-domino,29,7,0.0,0.2413793103448276
 66,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1331,7 +1331,7 @@ Isch jetz das nitt züem narràchtig werde mit
                     
 
         
-",lustig-d-tante-domino,43,5,0.0,0.11627906976744186
+",66,lustig-d-tante-domino,43,5,0.0,0.11627906976744186
 67,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -1348,7 +1348,7 @@ Madame Frisch, me wartet jetz nur noch uf Sie, fir an dr
           
 
         
-",lustig-d-tante-domino,32,6,0.0,0.1875
+",67,lustig-d-tante-domino,32,6,0.0,0.1875
 68,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1374,7 +1374,7 @@ Was mache!... was afange
                     
 
         
-",lustig-d-tante-domino,84,10,0.15532607748668506,0.11904761904761904
+",68,lustig-d-tante-domino,84,10,0.15532607748668506,0.11904761904761904
 69,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -1388,7 +1388,7 @@ Décidément, d'Madame Frisch müess g'schittelt si... ich
                     
 
         
-",lustig-d-tante-domino,21,5,0.0,0.23809523809523808
+",69,lustig-d-tante-domino,21,5,0.0,0.23809523809523808
 70,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1406,7 +1406,7 @@ Er hat nitt dr Zit, sàit er!....
                     
 
         
-",lustig-d-tante-domino,45,8,0.055625,0.17777777777777778
+",70,lustig-d-tante-domino,45,8,0.055625,0.17777777777777778
 71,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1417,7 +1417,7 @@ Herr Ledig.
                     
 
         
-",lustig-d-tante-domino,13,2,0.0,0.15384615384615385
+",71,lustig-d-tante-domino,13,2,0.0,0.15384615384615385
 72,comedy,Herr KRACH,M,,,,"
           
 Herr Krach
@@ -1432,7 +1432,7 @@ Madame Frisch, dr Oncle isch jetz wieder besser un wott
                     
 
         
-",lustig-d-tante-domino,31,6,0.0,0.1935483870967742
+",72,lustig-d-tante-domino,31,6,0.0,0.1935483870967742
 73,comedy,Madame FRISCH,F,,,,"
           
 Madame Frisch
@@ -1450,7 +1450,7 @@ Oh!... mr sin g'rettet!... desto besser... das isch mr
                     
 
         
-",lustig-d-tante-domino,40,6,0.0,0.15
+",73,lustig-d-tante-domino,40,6,0.0,0.15
 74,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1459,7 +1459,7 @@ Herr Ledig.
 Ich verstand allewil weniger...
 
         
-",lustig-d-tante-domino,6,3,0.0,0.5
+",74,lustig-d-tante-domino,6,3,0.0,0.5
 75,comedy,Herr FLINK,M,,,,"
           
 Herr Flink
@@ -1479,7 +1479,7 @@ Nundebuckel noch emol... ha-n-ich e-n-Angst g'ha!... 's
                     
 
         
-",lustig-d-tante-domino,65,10,0.03281638228644343,0.15384615384615385
+",75,lustig-d-tante-domino,65,10,0.03281638228644343,0.15384615384615385
 76,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig.
@@ -1490,7 +1490,7 @@ Ah!... jetz geht mr e Liecht uf!... jetz, jetz verstand
                     
 
         
-",lustig-d-tante-domino,14,3,0.0,0.21428571428571427
+",76,lustig-d-tante-domino,14,3,0.0,0.21428571428571427
 77,comedy,Herr KRACH,M,,,,"
           
 Herr Krach.
@@ -1503,7 +1503,7 @@ Sie hàn Zit brücht derzüe, güeter Frind... was doch dr
                     
 
         
-",lustig-d-tante-domino,40,7,0.0,0.175
+",77,lustig-d-tante-domino,40,7,0.0,0.175
 78,comedy,Herr LEDIG,M,,,,"
           
 Herr Ledig
@@ -1517,7 +1517,7 @@ Sunscht hat me z'riskiere, ass e Kàmifeger kunnt ku
                     
 
         
-",lustig-d-tante-domino,22,5,0.0,0.22727272727272727
+",78,lustig-d-tante-domino,22,5,0.0,0.22727272727272727
 79,comedy,Herr LEDIG,M,,,,"
           
 
@@ -1554,7 +1554,7 @@ Im hoche Hüet!
           
 
         
-",lustig-d-tante-domino,36,7,0.144,0.19444444444444445
+",79,lustig-d-tante-domino,36,7,0.144,0.19444444444444445
 80,comedy,Herr FLINK,M,,,,"
           
 
@@ -1591,7 +1591,7 @@ Im hoche Hüet!
           
 
         
-",lustig-d-tante-domino,36,7,0.144,0.19444444444444445
+",80,lustig-d-tante-domino,36,7,0.144,0.19444444444444445
 81,comedy,Herr KRACH,M,,,,"
           
 
@@ -1628,7 +1628,7 @@ Im hoche Hüet!
           
 
         
-",lustig-d-tante-domino,36,7,0.144,0.19444444444444445
+",81,lustig-d-tante-domino,36,7,0.144,0.19444444444444445
 82,comedy,Madame FRISCH,F,,,,"
           
 
@@ -1665,4 +1665,4 @@ Im hoche Hüet!
           
 
         
-",lustig-d-tante-domino,36,7,0.144,0.19444444444444445
+",82,lustig-d-tante-domino,36,7,0.144,0.19444444444444445

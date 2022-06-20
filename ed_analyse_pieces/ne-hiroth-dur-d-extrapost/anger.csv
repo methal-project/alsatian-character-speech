@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -122,7 +122,7 @@ Un d'Annonce, wo am meiste itrage, die fehle mr o
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,340,43,0.19279682584243313,0.1264705882352941
+",0,lustig-ne-hiroth-dur-d-extrapost,340,43,0.19279682584243313,0.1264705882352941
 1,comedy,TONI,M,,,,"
           
 Toni.
@@ -132,7 +132,7 @@ Bin i do bim Herr Rehrle, wo d'Zitung «d'Extrapost»
                         scbribt?... ich mächt ewe-n-ebbes dri setze lo.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,23,2,0.21007280590905342,0.08695652173913043
+",1,lustig-ne-hiroth-dur-d-extrapost,23,2,0.21007280590905342,0.08695652173913043
 2,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -145,7 +145,7 @@ Herr Rehrle.
                         recht.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,28,6,0.10616666666666667,0.21428571428571427
+",2,lustig-ne-hiroth-dur-d-extrapost,28,6,0.10616666666666667,0.21428571428571427
 3,comedy,TONI,M,,,,"
           
 Toni.
@@ -156,7 +156,7 @@ Nitt wohr, Herr Rehrle, me ka jo ganz güet e
                         Mode siter ebes Zit...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,25,6,0.07002426863635114,0.24
+",3,lustig-ne-hiroth-dur-d-extrapost,25,6,0.07002426863635114,0.24
 4,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -166,7 +166,7 @@ Natirlig, junger Mensch, natirlig... me hirothet jo jetz
                         schier nimmig anderscht.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,13,3,0.025333333333333333,0.23076923076923078
+",4,lustig-ne-hiroth-dur-d-extrapost,13,3,0.025333333333333333,0.23076923076923078
 5,comedy,TONI,M,,,,"
           
 Toni.
@@ -178,7 +178,7 @@ Güet... ich bi éwe-n-in dem Fall... schaüe Se, ich müess
                         wenig schich.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,37,4,0.0,0.10810810810810811
+",5,lustig-ne-hiroth-dur-d-extrapost,37,4,0.0,0.10810810810810811
 6,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -190,7 +190,7 @@ Eh bien, do kanne Se nit bessers mache, als das Ding in
                         keiner g'sàh hàn...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,39,2,0.038,0.05128205128205128
+",6,lustig-ne-hiroth-dur-d-extrapost,39,2,0.038,0.05128205128205128
 7,comedy,TONI,M,,,,"
           
 Toni.
@@ -202,7 +202,7 @@ Nei, nei... ich bitt Se drum... nur e ganz kleiner... in
                         e Fraü derzüe.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,35,7,0.0,0.2
+",7,lustig-ne-hiroth-dur-d-extrapost,35,7,0.0,0.2
 8,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -215,7 +215,7 @@ Was denke Se... das isch nitt genüe... wenn das Ding
 (er sitzt an dr Tisch un fangt a z'schriwe).
 
         
-",lustig-ne-hiroth-dur-d-extrapost,46,1,0.076,0.021739130434782608
+",8,lustig-ne-hiroth-dur-d-extrapost,46,1,0.076,0.021739130434782608
 9,comedy,TONI,M,,,,"
           
 Toni.
@@ -224,7 +224,7 @@ Toni.
 Awer nur nitt z'lang, denn sunscht kostet's gar viel.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
+",9,lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
 10,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -237,7 +237,7 @@ Nur kei Angst... mr wànn scho iwereins ku mitnander.
                         kostet's was es will!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,28,5,0.1274,0.17857142857142858
+",10,lustig-ne-hiroth-dur-d-extrapost,28,5,0.1274,0.17857142857142858
 11,comedy,TONI,M,,,,"
           
 Toni
@@ -282,7 +282,7 @@ Doch zahl i kei Rappe, wenn's nitt reüssiert.
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,69,6,0.20591524884749424,0.08695652173913043
+",11,lustig-ne-hiroth-dur-d-extrapost,69,6,0.20591524884749424,0.08695652173913043
 12,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -301,7 +301,7 @@ Ich müess mi Geld o ha!
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,18,3,0.025333333333333333,0.16666666666666666
+",12,lustig-ne-hiroth-dur-d-extrapost,18,3,0.025333333333333333,0.16666666666666666
 13,comedy,Herr REHRLE,M,,,,"
             
 
@@ -328,7 +328,7 @@ Ich müess mi Geld o ha!
             
 
           
-",lustig-ne-hiroth-dur-d-extrapost,44,2,0.28174574654248274,0.045454545454545456
+",13,lustig-ne-hiroth-dur-d-extrapost,44,2,0.28174574654248274,0.045454545454545456
 14,comedy,TONI,M,,,,"
             
 Toni.
@@ -358,7 +358,7 @@ Wenn ich hirothe ka!
             
 
           
-",lustig-ne-hiroth-dur-d-extrapost,43,2,0.28174574654248274,0.046511627906976744
+",14,lustig-ne-hiroth-dur-d-extrapost,43,2,0.28174574654248274,0.046511627906976744
 15,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -369,7 +369,7 @@ Was meine Se denn eigentlig?... Das Ding müess doch
                         Mieih, eb's packt oder nitt...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,27,3,0.025333333333333333,0.1111111111111111
+",15,lustig-ne-hiroth-dur-d-extrapost,27,3,0.025333333333333333,0.1111111111111111
 16,comedy,TONI,M,,,,"
           
 Toni.
@@ -381,7 +381,7 @@ Eh bien, so wisse Se was... packts, so zahl i, un
                         bikumm...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,36,5,0.0,0.1388888888888889
+",16,lustig-ne-hiroth-dur-d-extrapost,36,5,0.0,0.1388888888888889
 17,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -394,7 +394,7 @@ Enfin... 's isch mir eithüen... mr wànn hoffe-n-ass es
                         Site...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,26,5,0.1274,0.19230769230769232
+",17,lustig-ne-hiroth-dur-d-extrapost,26,5,0.1274,0.19230769230769232
 19,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -415,7 +415,7 @@ Do isch's... lose Se jetz emol: Ne junger Mensch, stark
                         o ne bitzi ebbes hat... hein! isch das e-n-Artikele?...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,90,15,0.09746666666666666,0.16666666666666666
+",19,lustig-ne-hiroth-dur-d-extrapost,90,15,0.09746666666666666,0.16666666666666666
 20,comedy,TONI,M,,,,"
           
 Toni
@@ -428,7 +428,7 @@ Ich find, 's isch e-n-Artikel! Das kunnt viel z'thir...
                         un 's isch z'lang... 's list's kei Mensch!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,26,2,0.28174574654248274,0.07692307692307693
+",20,lustig-ne-hiroth-dur-d-extrapost,26,2,0.28174574654248274,0.07692307692307693
 21,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -441,7 +441,7 @@ Mr drucke's mit recht grosse Büchstawe, ass es eim güet
                         verwitsche.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,26,5,0.26180000000000003,0.19230769230769232
+",21,lustig-ne-hiroth-dur-d-extrapost,26,5,0.26180000000000003,0.19230769230769232
 22,comedy,TONI,M,,,,"
           
 Toni
@@ -455,7 +455,7 @@ Nei, nei... nitt mit grosse Büechstawe... 's wird eso
                         kunnt ung'fàhr?...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,25,2,0.2735,0.08
+",22,lustig-ne-hiroth-dur-d-extrapost,25,2,0.2735,0.08
 23,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -467,7 +467,7 @@ Herr Rehrle.
                         Fraü z'biku...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,40,5,0.23680000000000004,0.125
+",23,lustig-ne-hiroth-dur-d-extrapost,40,5,0.23680000000000004,0.125
 24,comedy,TONI,M,,,,"
           
 Toni.
@@ -477,7 +477,7 @@ Also zähl i druf hit z'Owe kunnt's dri, nitt wohr, un
                         nitt züe arg gross ich will's nitt gross...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,23,4,0.3218773742341008,0.17391304347826086
+",24,lustig-ne-hiroth-dur-d-extrapost,23,4,0.3218773742341008,0.17391304347826086
 25,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -491,7 +491,7 @@ Güet, Güet...
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,22,5,0.1274,0.22727272727272727
+",25,lustig-ne-hiroth-dur-d-extrapost,22,5,0.1274,0.22727272727272727
 26,comedy,TONI,M,,,,"
           
 Toni
@@ -505,7 +505,7 @@ Wenn's nur nitt vergewes isch!... oh! wie frei ich mich,
 ('s Bàwele kunnt ine).
 
         
-",lustig-ne-hiroth-dur-d-extrapost,26,2,0.2805,0.07692307692307693
+",26,lustig-ne-hiroth-dur-d-extrapost,26,2,0.2805,0.07692307692307693
 27,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -519,7 +519,7 @@ Herr Rehrle, ich mächt...
                         red' mit em Herr Rehrle).
 
         
-",lustig-ne-hiroth-dur-d-extrapost,29,5,0.2608931370221602,0.1724137931034483
+",27,lustig-ne-hiroth-dur-d-extrapost,29,5,0.2608931370221602,0.1724137931034483
 28,comedy,TONI,M,,,,"
           
 Toni
@@ -539,7 +539,7 @@ Das wàr jetz eso ebbes!... wer weisst, eb se nitt o im
 (er geht üse).
 
         
-",lustig-ne-hiroth-dur-d-extrapost,64,7,0.10185714285714285,0.109375
+",28,lustig-ne-hiroth-dur-d-extrapost,64,7,0.10185714285714285,0.109375
 29,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -557,7 +557,7 @@ Adie!
                         üsz'fille!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,33,5,0.23959999999999998,0.15151515151515152
+",29,lustig-ne-hiroth-dur-d-extrapost,33,5,0.23959999999999998,0.15151515151515152
 30,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -566,7 +566,7 @@ Bàwele.
 Ich ka awer uf Ihre Verschwiegeheit zähle, nitt wohr?
 
         
-",lustig-ne-hiroth-dur-d-extrapost,10,3,0.0,0.3
+",30,lustig-ne-hiroth-dur-d-extrapost,10,3,0.0,0.3
 31,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -576,7 +576,7 @@ Verschwiege bis in's Grab!... wie miesst me das Ding
                         ung'fàhr ufsetze?...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,14,2,0.038,0.14285714285714285
+",31,lustig-ne-hiroth-dur-d-extrapost,14,2,0.038,0.14285714285714285
 32,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -587,7 +587,7 @@ Ich mein, me kännt's viellicht eso schriwe: Ne junge
                         Vieh weisst umz'geh, süecht e Mann...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,28,7,0.0,0.25
+",32,lustig-ne-hiroth-dur-d-extrapost,28,7,0.0,0.25
 33,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -603,7 +603,7 @@ Das isch nitt genüe... 's làngt nitt... ich müess es
                         fir Sie?
 
         
-",lustig-ne-hiroth-dur-d-extrapost,31,6,0.19966666666666666,0.1935483870967742
+",33,lustig-ne-hiroth-dur-d-extrapost,31,6,0.19966666666666666,0.1935483870967742
 35,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -621,7 +621,7 @@ E-n-Idee... dr Ander ka no nitt wit si... wenn ich em
                         im Vorhüs, i ha noch ebbes mit Ene z'rede...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,62,9,0.13311111111111112,0.14516129032258066
+",35,lustig-ne-hiroth-dur-d-extrapost,62,9,0.13311111111111112,0.14516129032258066
 36,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -633,7 +633,7 @@ Bàwele
 Was isch em... was hat er?
 
         
-",lustig-ne-hiroth-dur-d-extrapost,11,1,0.561,0.09090909090909091
+",36,lustig-ne-hiroth-dur-d-extrapost,11,1,0.561,0.09090909090909091
 37,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -646,7 +646,7 @@ Also, hà mr g'sàit, e Jumpfere, wo mit em Rindvieh
                         weisst umz'geh, süecht e Mann...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,21,3,0.025333333333333333,0.14285714285714285
+",37,lustig-ne-hiroth-dur-d-extrapost,21,3,0.025333333333333333,0.14285714285714285
 38,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -656,7 +656,7 @@ C'est çà... das geht alles uf ei Linie, nitt wohr? un do
                         wird's jo nitt so viel koste?
 
         
-",lustig-ne-hiroth-dur-d-extrapost,20,2,0.0,0.1
+",38,lustig-ne-hiroth-dur-d-extrapost,20,2,0.0,0.1
 39,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -667,7 +667,7 @@ Was denkt Se... uf ei Linie! nitt emol uf zwei... un
                         isch e wenig...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,27,4,0.019,0.14814814814814814
+",39,lustig-ne-hiroth-dur-d-extrapost,27,4,0.019,0.14814814814814814
 40,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -681,7 +681,7 @@ Z'kurz, nitt wohr?... Sie hätte gern e lange Litenei, wo
                         setze Sie's nur eso dri.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,31,6,0.053747033374155866,0.1935483870967742
+",40,lustig-ne-hiroth-dur-d-extrapost,31,6,0.053747033374155866,0.1935483870967742
 41,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -699,7 +699,7 @@ Dà wo Die bikunnt, brücht o nitt sage «Gott strof mi!»
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,36,10,0.23097836411776024,0.2777777777777778
+",41,lustig-ne-hiroth-dur-d-extrapost,36,10,0.23097836411776024,0.2777777777777778
 42,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -712,7 +712,7 @@ Hein, was sàit er, ich will mich drucke lo?... wie meint
                         er das?
 
         
-",lustig-ne-hiroth-dur-d-extrapost,18,3,0.525715203939369,0.16666666666666666
+",42,lustig-ne-hiroth-dur-d-extrapost,18,3,0.525715203939369,0.16666666666666666
 43,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -724,7 +724,7 @@ Mr sage-n-also :
                         uferzoge...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,16,2,0.038,0.125
+",43,lustig-ne-hiroth-dur-d-extrapost,16,2,0.038,0.125
 44,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -733,7 +733,7 @@ Bàwele.
 Was, im Stall!... uf em Land, ha-n-i g'sàit!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
+",44,lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
 45,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -745,7 +745,7 @@ Herr Rehrle.
                         Mann.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,37,5,0.0152,0.13513513513513514
+",45,lustig-ne-hiroth-dur-d-extrapost,37,5,0.0152,0.13513513513513514
 46,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -777,7 +777,7 @@ Ass er mir folge müess.
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,52,7,0.015857142857142844,0.1346153846153846
+",46,lustig-ne-hiroth-dur-d-extrapost,52,7,0.015857142857142844,0.1346153846153846
 47,comedy,BÀWELE,F,farmer,agriculture,,"
             
 Bàwele.
@@ -799,7 +799,7 @@ Zieg se liewer glich üs.
             
 
           
-",lustig-ne-hiroth-dur-d-extrapost,25,4,0.0,0.16
+",47,lustig-ne-hiroth-dur-d-extrapost,25,4,0.0,0.16
 48,comedy,Herr REHRLE,M,,,,"
             
 Herr Rehrle
@@ -824,7 +824,7 @@ Isch noch g'nüe dra.
             
 
           
-",lustig-ne-hiroth-dur-d-extrapost,27,4,0.2995,0.14814814814814814
+",48,lustig-ne-hiroth-dur-d-extrapost,27,4,0.2995,0.14814814814814814
 49,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -837,7 +837,7 @@ ich will siter mit dem junge Mensch ferig mache
 (er geht gege dr Thüre).
 
         
-",lustig-ne-hiroth-dur-d-extrapost,42,4,0.07575,0.09523809523809523
+",49,lustig-ne-hiroth-dur-d-extrapost,42,4,0.07575,0.09523809523809523
 50,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -850,7 +850,7 @@ Ich bi jetz doch wunderfitzig, eb ich uf dà Artikel
                             hi ne Mann bikumm...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,22,5,0.1548,0.22727272727272727
+",50,lustig-ne-hiroth-dur-d-extrapost,22,5,0.1548,0.22727272727272727
 51,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle
@@ -865,7 +865,7 @@ Junger Mensch, kämme Se noch e wenig un iwerlese
                             Artikel)
 
         
-",lustig-ne-hiroth-dur-d-extrapost,43,7,0.091,0.16279069767441862
+",51,lustig-ne-hiroth-dur-d-extrapost,43,7,0.091,0.16279069767441862
 52,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -878,7 +878,7 @@ Ne junger Mensch... hein, was git er mir do
                             z'lese...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,18,1,0.0,0.05555555555555555
+",52,lustig-ne-hiroth-dur-d-extrapost,18,1,0.0,0.05555555555555555
 53,comedy,TONI,M,,,,"
           
 Toni
@@ -890,7 +890,7 @@ Toni
 Ne junge Person...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,10,1,0.0,0.1
+",53,lustig-ne-hiroth-dur-d-extrapost,10,1,0.0,0.1
 54,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele
@@ -902,7 +902,7 @@ Bàwele
 Stark wie ne Leb...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,9,2,0.0,0.2222222222222222
+",54,lustig-ne-hiroth-dur-d-extrapost,9,2,0.0,0.2222222222222222
 55,comedy,TONI,M,,,,"
           
 Toni.
@@ -911,7 +911,7 @@ Toni.
 Uf em Land uferzoge...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,5,2,0.0,0.4
+",55,lustig-ne-hiroth-dur-d-extrapost,5,2,0.0,0.4
 58,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -920,7 +920,7 @@ Bàwele.
 Wott in dr Eh'stand trete...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,6,1,0.636,0.16666666666666666
+",58,lustig-ne-hiroth-dur-d-extrapost,6,1,0.636,0.16666666666666666
 59,comedy,TONI,M,,,,"
           
 Toni.
@@ -931,7 +931,7 @@ Süecht e Mann...
 tiens, tiens!...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
+",59,lustig-ne-hiroth-dur-d-extrapost,12,1,0.0,0.08333333333333333
 60,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -942,7 +942,7 @@ Tiens, tiens!...
  me kännt's jo prawiere...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,12,1,0.561,0.08333333333333333
+",60,lustig-ne-hiroth-dur-d-extrapost,12,1,0.561,0.08333333333333333
 61,comedy,TONI,M,,,,"
           
 Toni
@@ -956,7 +956,7 @@ Hm, hm... wenn Sie viellicht wott...
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,15,2,0.1135,0.13333333333333333
+",61,lustig-ne-hiroth-dur-d-extrapost,15,2,0.1135,0.13333333333333333
 62,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -967,7 +967,7 @@ Mache doch nitt soviel Stàmpenei-n-un Manöver, gàn
                         
 
         
-",lustig-ne-hiroth-dur-d-extrapost,20,2,0.038,0.1
+",62,lustig-ne-hiroth-dur-d-extrapost,20,2,0.038,0.1
 63,comedy,TONI,M,,,,"
           
 Toni
@@ -979,7 +979,7 @@ Toni
 Liewe Brüt!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,11,1,0.0,0.09090909090909091
+",63,lustig-ne-hiroth-dur-d-extrapost,11,1,0.0,0.09090909090909091
 64,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -988,7 +988,7 @@ Bàwele.
 Liewer Hochziter!
 
         
-",lustig-ne-hiroth-dur-d-extrapost,3,1,0.0,0.3333333333333333
+",64,lustig-ne-hiroth-dur-d-extrapost,3,1,0.0,0.3333333333333333
 65,comedy,TONI,M,,,,"
           
 Toni.
@@ -998,7 +998,7 @@ Herr Rehrle, Sie brüche jetz mi Annonce nitt
                             z'drucke... 's isch unnöthig... ich ha jetz e Fraü.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,19,2,0.374,0.10526315789473684
+",65,lustig-ne-hiroth-dur-d-extrapost,19,2,0.374,0.10526315789473684
 66,comedy,BÀWELE,F,farmer,agriculture,,"
           
 Bàwele.
@@ -1007,7 +1007,7 @@ Bàwele.
 Un mine-n-o nitt... ich ha jetz e Mann.
 
         
-",lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
+",66,lustig-ne-hiroth-dur-d-extrapost,11,2,0.0,0.18181818181818182
 67,comedy,Herr REHRLE,M,,,,"
           
 Herr Rehrle.
@@ -1022,7 +1022,7 @@ O sapristi... was ha-n-ich ag'stellt!... an das
                             mache-n-in « d'Extrapost »...
 
         
-",lustig-ne-hiroth-dur-d-extrapost,60,8,0.0095,0.13333333333333333
+",67,lustig-ne-hiroth-dur-d-extrapost,60,8,0.0095,0.13333333333333333
 68,comedy,Herr REHRLE,M,,,,"
           
 (Mitnander)
@@ -1054,7 +1054,7 @@ Steht o scho ne Fraü/Mann als so,
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666
+",68,lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666
 69,comedy,BÀWELE,F,farmer,agriculture,,"
           
 (Mitnander)
@@ -1086,7 +1086,7 @@ Steht o scho ne Fraü/Mann als so,
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666
+",69,lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666
 70,comedy,TONI,M,,,,"
           
 (Mitnander)
@@ -1118,4 +1118,4 @@ Steht o scho ne Fraü/Mann als so,
           
 
         
-",lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666
+",70,lustig-ne-hiroth-dur-d-extrapost,48,8,0.12701820147726336,0.16666666666666666

@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -32,7 +32,7 @@ Schlächti Zitte, schlächti Gschäfter. Kenn Trinkgälder. Schun de ganz Döj w
 (geht nach links ab).
 
         
-",kettner-uff-dr-hochzittsreis,207,22,0.1732012928847932,0.10628019323671498
+",0,kettner-uff-dr-hochzittsreis,207,22,0.1732012928847932,0.10628019323671498
 2,comedy,Jülie,F,,,,"
           
 Julie:
@@ -44,7 +44,7 @@ Julie:
 Endlich allein.
 
         
-",kettner-uff-dr-hochzittsreis,11,3,0.18999999999999997,0.2727272727272727
+",1,kettner-uff-dr-hochzittsreis,11,3,0.18999999999999997,0.2727272727272727
 3,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -59,7 +59,7 @@ Endlich allein, endlich allein! Wenn ich nurre emol endlich allein wär. Wenn mr
           Jungi.
 
         
-",kettner-uff-dr-hochzittsreis,59,10,0.2913,0.1694915254237288
+",1,kettner-uff-dr-hochzittsreis,59,10,0.2913,0.1694915254237288
 5,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -70,7 +70,7 @@ Dran dänke? Hättsch dü dran gedänkt. O Wiewer wenn ihr halt alt wäre.
 (Zieht den Frack aus, Hut ab).
 
         
-",kettner-uff-dr-hochzittsreis,22,1,0.0,0.045454545454545456
+",2,kettner-uff-dr-hochzittsreis,22,1,0.0,0.045454545454545456
 6,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -89,7 +89,7 @@ Jo, natirli jetz wur ich alt.
           D'Kinjelemoor isch-em hitt liewer ass d'Frau.
 
         
-",kettner-uff-dr-hochzittsreis,48,4,0.41529291987533457,0.08333333333333333
+",3,kettner-uff-dr-hochzittsreis,48,4,0.41529291987533457,0.08333333333333333
 7,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -103,7 +103,7 @@ Do isch frisch Wasser, do wello m'r glich emol e Bad nämme — — ah, isch dis
 (Wäscht die Hände).
 
         
-",kettner-uff-dr-hochzittsreis,31,1,0.0,0.03225806451612903
+",3,kettner-uff-dr-hochzittsreis,31,1,0.0,0.03225806451612903
 8,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -113,7 +113,7 @@ Kenn guet Wort hett-r mr hitt noch gänn — dr Kinjelestall isch d'Hauptsach. D
           ich dr zeh Kinder uffgezöje hab.
 
         
-",kettner-uff-dr-hochzittsreis,26,5,0.28579999999999994,0.19230769230769232
+",4,kettner-uff-dr-hochzittsreis,26,5,0.28579999999999994,0.19230769230769232
 9,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -131,7 +131,7 @@ Jo, jo Alti!!, jetz sej stille, .. hiel nitt Mamme s'isch nitt so böes gemeint,
 (Trocknet die Hände ab).
 
         
-",kettner-uff-dr-hochzittsreis,44,5,0.08120000000000001,0.11363636363636363
+",4,kettner-uff-dr-hochzittsreis,44,5,0.08120000000000001,0.11363636363636363
 10,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -140,7 +140,7 @@ Jülie:
 Dü wursch halt nitt andersch ... Felix!
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
+",5,kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
 11,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -152,7 +152,7 @@ Felix:
 Was denn Schülli?
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
+",5,kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
 13,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -161,7 +161,7 @@ Felix:
 Kenn Ahnung — an de Kinjelestall?
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.617,0.14285714285714285
+",6,kettner-uff-dr-hochzittsreis,7,1,0.617,0.14285714285714285
 14,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -176,7 +176,7 @@ Loss doch jetz de Kinjelestall. ..... Höer, wie mr hitt vor 25 Johr als frischg
           einzichi Schülli». — Un hitt? — Hitt wäscht er d'Händ.
 
         
-",kettner-uff-dr-hochzittsreis,66,7,0.483738811357334,0.10606060606060606
+",7,kettner-uff-dr-hochzittsreis,66,7,0.483738811357334,0.10606060606060606
 15,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -191,7 +191,7 @@ Do haw ich jetz gar nitt dran gedänkt, ass mr hitt uff dr Hochzittsreiss sinn, 
 (Sie sitzen auf dem Kanapee).
 
         
-",kettner-uff-dr-hochzittsreis,46,7,0.3298816685001912,0.15217391304347827
+",7,kettner-uff-dr-hochzittsreis,46,7,0.3298816685001912,0.15217391304347827
 16,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -203,7 +203,7 @@ Dominik:
 Pardon, ich hab nitt gewüsst, ass die Herrschafte schun do sinn.
 
         
-",kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
+",8,kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
 17,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -213,7 +213,7 @@ Oh diss macht nix, nurre erin. Eins vun de Rösser vun dr Poscht isch gfalle un 
           here gewalzt. Mir sinn nämlich hie bekannt.
 
         
-",kettner-uff-dr-hochzittsreis,29,4,0.0,0.13793103448275862
+",8,kettner-uff-dr-hochzittsreis,29,4,0.0,0.13793103448275862
 18,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -228,7 +228,7 @@ Diss isch doch kenn Hochzittspäärel die zwei Alte.-
  Ah die Herrschafte sinn schun emol do gsinn?
 
         
-",kettner-uff-dr-hochzittsreis,25,3,0.0,0.12
+",9,kettner-uff-dr-hochzittsreis,25,3,0.0,0.12
 19,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -242,7 +242,7 @@ Jaja.
 (Küsst Jülie).
 
         
-",kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
+",9,kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
 20,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -260,7 +260,7 @@ Diss isch e-n-alter Schmüser.
  Wann's beliebt, schriewe Sie sich do in.
 
         
-",kettner-uff-dr-hochzittsreis,35,5,0.1282,0.14285714285714285
+",10,kettner-uff-dr-hochzittsreis,35,5,0.1282,0.14285714285714285
 21,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -272,7 +272,7 @@ Felix:
 «Felix Kächele, Friseurmeister aus Strasbourg mit sinere Alte».
 
         
-",kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
+",10,kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
 23,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -286,7 +286,7 @@ Na schriewe mr: «mit sinere liewe Frau» ... Da...
 (Gibt Dominik den Block).
 
         
-",kettner-uff-dr-hochzittsreis,20,2,0.295085839750669,0.1
+",11,kettner-uff-dr-hochzittsreis,20,2,0.295085839750669,0.1
 24,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -298,7 +298,7 @@ Dominik:
 Merci Monsieur Kächele.
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",12,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 25,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -311,7 +311,7 @@ S'isch gern gschähne, — awer ich hab jetz e Durscht vun dem schriewe. Bringe 
           ebs wie lüpft, — hann-er Türkemer Brand?
 
         
-",kettner-uff-dr-hochzittsreis,33,5,0.19219999999999998,0.15151515151515152
+",12,kettner-uff-dr-hochzittsreis,33,5,0.19219999999999998,0.15151515151515152
 26,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -320,7 +320,7 @@ Dominik:
 «Dr kalt Jäger» hett alles.
 
         
-",kettner-uff-dr-hochzittsreis,8,2,0.2615,0.25
+",13,kettner-uff-dr-hochzittsreis,8,2,0.2615,0.25
 27,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -329,7 +329,7 @@ Felix:
 Na zo bringe glich zwei Flasche. Hitt kummts nitt druff an, hitt solls ebbs koschte, gäll Mamme?
 
         
-",kettner-uff-dr-hochzittsreis,18,1,0.406,0.05555555555555555
+",13,kettner-uff-dr-hochzittsreis,18,1,0.406,0.05555555555555555
 28,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -344,7 +344,7 @@ C'est ça, im kalte Jäger wäre nr guet bsorit, wande ejch nurre an mich. Hann-
 (Fält die Hand hin).
 
         
-",kettner-uff-dr-hochzittsreis,39,7,0.16285714285714287,0.1794871794871795
+",14,kettner-uff-dr-hochzittsreis,39,7,0.16285714285714287,0.1794871794871795
 29,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -356,7 +356,7 @@ Felix:
 Merci, ... äh, wie häisse nr denn?
 
         
-",kettner-uff-dr-hochzittsreis,12,1,0.508,0.08333333333333333
+",14,kettner-uff-dr-hochzittsreis,12,1,0.508,0.08333333333333333
 30,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -368,7 +368,7 @@ Dominik häiss i.
  Der isch awer zah.
 
         
-",kettner-uff-dr-hochzittsreis,12,1,0.0,0.08333333333333333
+",15,kettner-uff-dr-hochzittsreis,12,1,0.0,0.08333333333333333
 31,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -381,7 +381,7 @@ Weisch dü Mamme, die Stubb isch noch ganz genau wie vor 25 Johr. Noch d'nämlic
           d'nämliche Bilder an de Wänd, nix hett sich verändert in dere Zitt, .... nurre mir.
 
         
-",kettner-uff-dr-hochzittsreis,38,4,0.32625000000000004,0.10526315789473684
+",15,kettner-uff-dr-hochzittsreis,38,4,0.32625000000000004,0.10526315789473684
 33,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -391,7 +391,7 @@ Schülli, was bisch dü doch vor 25 Johr e herzichs Mäidele gsinn, rotbackig, e
           Lockekopf un hitt — e-n-alti Pflutt.
 
         
-",kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
+",16,kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
 34,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -401,7 +401,7 @@ Psst, Alterle, bild dir jo nitt in, ass dü zitter schöener bisch worre, zälle
           mit-eme Strüwelkopf un jetz e nätter Bluttkopf.
 
         
-",kettner-uff-dr-hochzittsreis,25,3,0.18500000000000003,0.12
+",17,kettner-uff-dr-hochzittsreis,25,3,0.18500000000000003,0.12
 35,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -411,7 +411,7 @@ Poh, wenn i au e paar Hoor verlore hab, ze bin ich doch noch e ganz nätter Mann
           jede Junge uff im trinke.
 
         
-",kettner-uff-dr-hochzittsreis,28,7,0.07142857142857142,0.25
+",17,kettner-uff-dr-hochzittsreis,28,7,0.07142857142857142,0.25
 36,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -422,7 +422,7 @@ Diss bringsch noch ferti. Awer jetz rot emol was ich do hab.
 (Nimmt ein Päckchen aus der Handtasche).
 
         
-",kettner-uff-dr-hochzittsreis,21,1,0.328,0.047619047619047616
+",18,kettner-uff-dr-hochzittsreis,21,1,0.328,0.047619047619047616
 38,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -433,7 +433,7 @@ Oh dü, ... nein din Strissel als Hochzitter, diss müen mir doch trawe hitt.
 (Steckt es ihm an).
 
         
-",kettner-uff-dr-hochzittsreis,20,1,0.6326588797970544,0.05
+",19,kettner-uff-dr-hochzittsreis,20,1,0.6326588797970544,0.05
 39,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -448,7 +448,7 @@ Merci Mamme.
  nur an de Kinjelestall hesch nitt gedänkt.
 
         
-",kettner-uff-dr-hochzittsreis,26,3,0.13533333333333333,0.11538461538461539
+",19,kettner-uff-dr-hochzittsreis,26,3,0.13533333333333333,0.11538461538461539
 40,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -457,7 +457,7 @@ Jülie:
 Felix, wenn de jetz nitt stille bisch ...
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",20,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 41,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -466,7 +466,7 @@ Felix:
 D'Moor hett doch Jungi, wenn se verrecke un no?
 
         
-",kettner-uff-dr-hochzittsreis,11,2,0.25,0.18181818181818182
+",20,kettner-uff-dr-hochzittsreis,11,2,0.25,0.18181818181818182
 42,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -483,7 +483,7 @@ Stille sollsch sinn, sunsch geh ich heim zue mine Kinder.
 (Geht ans Kanapee).
 
         
-",kettner-uff-dr-hochzittsreis,28,5,0.1046,0.17857142857142858
+",21,kettner-uff-dr-hochzittsreis,28,5,0.1046,0.17857142857142858
 43,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -500,7 +500,7 @@ Verstehsch denn kenn Gspass. Sej zefridde.
 (Es klopft).
 
         
-",kettner-uff-dr-hochzittsreis,25,4,0.29900000000000004,0.16
+",21,kettner-uff-dr-hochzittsreis,25,4,0.29900000000000004,0.16
 44,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -522,7 +522,7 @@ Sott diss am And doch e Hochzitspärel sinn? .... Exküsiere ihr Herrschafte, ic
 (hält die Hand hin).
 
         
-",kettner-uff-dr-hochzittsreis,74,5,0.0,0.06756756756756757
+",22,kettner-uff-dr-hochzittsreis,74,5,0.0,0.06756756756756757
 45,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -534,7 +534,7 @@ Felix:
 Merci, .. wie heisse nr?
 
         
-",kettner-uff-dr-hochzittsreis,10,1,0.508,0.1
+",22,kettner-uff-dr-hochzittsreis,10,1,0.508,0.1
 47,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -546,7 +546,7 @@ Felix:
 Aba, ich hab nix dergeje, ich kann nurre dene dauwe Name niit b'halte.
 
         
-",kettner-uff-dr-hochzittsreis,17,1,0.0,0.058823529411764705
+",23,kettner-uff-dr-hochzittsreis,17,1,0.0,0.058823529411764705
 48,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -561,7 +561,7 @@ Isch Dominik e dauwer Name? Nitt ass ihr e dauwere hann, Ihr sahn grad so üss.
  Gitzkräuje !
 
         
-",kettner-uff-dr-hochzittsreis,24,2,0.0,0.08333333333333333
+",24,kettner-uff-dr-hochzittsreis,24,2,0.0,0.08333333333333333
 49,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -579,7 +579,7 @@ Hahaha, der isch schun uffgepumpt. Un e Durscht haw ich.
 (Sie trinken).
 
         
-",kettner-uff-dr-hochzittsreis,43,6,0.20177647996617573,0.13953488372093023
+",24,kettner-uff-dr-hochzittsreis,43,6,0.20177647996617573,0.13953488372093023
 50,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -589,7 +589,7 @@ Weisch noch Felix wie mir hitt vor 25 Johr do gsässe sinn, am nämliche Platz, 
           mich gelajt un hesch gsunge: ...
 
         
-",kettner-uff-dr-hochzittsreis,26,1,0.0,0.038461538461538464
+",25,kettner-uff-dr-hochzittsreis,26,1,0.0,0.038461538461538464
 51,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -601,7 +601,7 @@ Felix:
 «Du bischt mein Glück mein Augenstern, dü bischt so schön, ich hab dich gern»!
 
         
-",kettner-uff-dr-hochzittsreis,20,5,0.18760000000000002,0.25
+",25,kettner-uff-dr-hochzittsreis,20,5,0.18760000000000002,0.25
 52,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -611,7 +611,7 @@ Un grad in dem Moment hett's Oweglöchel uffem Kapellele anfange litte, ..... di
           so feierlich gsinn.
 
         
-",kettner-uff-dr-hochzittsreis,20,4,0.0,0.2
+",26,kettner-uff-dr-hochzittsreis,20,4,0.0,0.2
 53,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -626,7 +626,7 @@ So feierlich — e schöner Momant isch's gsinn, gell Mammele?
  Wenn nur de Lüsangel de Kinjelestall .... !
 
         
-",kettner-uff-dr-hochzittsreis,25,4,0.26575000000000004,0.16
+",26,kettner-uff-dr-hochzittsreis,25,4,0.26575000000000004,0.16
 54,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -641,7 +641,7 @@ Felix!
  Entrez !
 
         
-",kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
+",27,kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
 55,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -658,7 +658,7 @@ Ich mues alle bezitte erin kumme.
 (Geht ins Schlafzimmer links).
 
         
-",kettner-uff-dr-hochzittsreis,25,2,0.3165,0.08
+",27,kettner-uff-dr-hochzittsreis,25,2,0.3165,0.08
 56,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -670,7 +670,7 @@ Un weisch noch wie no dr Hüssknächt isch kumme un hett gfröjt: «Wenn welle d
 (Stösst ihn schelmisch an).
 
         
-",kettner-uff-dr-hochzittsreis,33,2,0.3165,0.06060606060606061
+",28,kettner-uff-dr-hochzittsreis,33,2,0.3165,0.06060606060606061
 57,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -684,7 +684,7 @@ Ich hab gsaat: «Zuem Zmiddaesse».
 (lachen).
 
         
-",kettner-uff-dr-hochzittsreis,14,2,0.211,0.14285714285714285
+",28,kettner-uff-dr-hochzittsreis,14,2,0.211,0.14285714285714285
 58,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -696,7 +696,7 @@ Dominik:
 Wann welle die Herrschafte morje frühj geweckt sinn?
 
         
-",kettner-uff-dr-hochzittsreis,12,2,0.26847804450090185,0.16666666666666666
+",29,kettner-uff-dr-hochzittsreis,12,2,0.26847804450090185,0.16666666666666666
 59,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -708,7 +708,7 @@ Felix:
 Am fünfe, gell Frau?
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.5091382266072153,0.125
+",29,kettner-uff-dr-hochzittsreis,8,1,0.5091382266072153,0.125
 60,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -719,7 +719,7 @@ E guet's Bett hann'r, ächti Sprungfederematraz,
 (hält die Hand hin).
 
         
-",kettner-uff-dr-hochzittsreis,14,4,0.0,0.2857142857142857
+",30,kettner-uff-dr-hochzittsreis,14,4,0.0,0.2857142857142857
 61,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -731,7 +731,7 @@ Felix:
 Mir brüche kenn Sprungfedermatraz mir schlofe doch guet.
 
         
-",kettner-uff-dr-hochzittsreis,13,1,0.0,0.07692307692307693
+",30,kettner-uff-dr-hochzittsreis,13,1,0.0,0.07692307692307693
 62,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -743,7 +743,7 @@ Dominik:
 Widder nix, dü kannsch mir am fünfe de Buckel nuff rutsche, Gitskräuje.
 
         
-",kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
+",31,kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
 63,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -753,7 +753,7 @@ Jaja Mamme, morje fruej am fünfe geht's rüss un no gehn mr nuff uff d'Burig un
           uffgeht.
 
         
-",kettner-uff-dr-hochzittsreis,24,4,0.3469890222504509,0.16666666666666666
+",31,kettner-uff-dr-hochzittsreis,24,4,0.3469890222504509,0.16666666666666666
 64,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -765,7 +765,7 @@ Jülie:
 Vor 25 Johr hesch gar nitt welle lueje wie d'Sunn uffgeht.
 
         
-",kettner-uff-dr-hochzittsreis,16,1,0.445,0.0625
+",32,kettner-uff-dr-hochzittsreis,16,1,0.445,0.0625
 65,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -777,7 +777,7 @@ Ja zällemols un hitt.
  Witt au einer?
 
         
-",kettner-uff-dr-hochzittsreis,13,2,0.3205,0.15384615384615385
+",32,kettner-uff-dr-hochzittsreis,13,2,0.3205,0.15384615384615385
 66,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -789,7 +789,7 @@ Jülie:
 Dini Schupfdüwacksbüchs hesch mit müen näme, die muesch halt hann.
 
         
-",kettner-uff-dr-hochzittsreis,17,2,0.3205,0.11764705882352941
+",33,kettner-uff-dr-hochzittsreis,17,2,0.3205,0.11764705882352941
 67,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -800,7 +800,7 @@ Weisch Mamme, sigsch ich hab in mim Läwe nurre zwei Liebschti kett, dich un min
           wottsch ?
 
         
-",kettner-uff-dr-hochzittsreis,36,6,0.3385,0.16666666666666666
+",33,kettner-uff-dr-hochzittsreis,36,6,0.3385,0.16666666666666666
 68,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -809,7 +809,7 @@ Jülie:
 Erscht noch, es isch so e schöner Owe.
 
         
-",kettner-uff-dr-hochzittsreis,9,1,0.555,0.1111111111111111
+",34,kettner-uff-dr-hochzittsreis,9,1,0.555,0.1111111111111111
 69,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -823,7 +823,7 @@ Kumm Manne.
 (Nimmt sie am Arm, geht mit ihr Mitte ab, singt).
 
         
-",kettner-uff-dr-hochzittsreis,20,2,0.3165,0.1
+",34,kettner-uff-dr-hochzittsreis,20,2,0.3165,0.1
 70,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -838,7 +838,7 @@ Gib acht Emma, dass de nitt fallsch.
  Endlich allein! Min süsses Herzele!
 
         
-",kettner-uff-dr-hochzittsreis,30,3,0.18999999999999997,0.1
+",35,kettner-uff-dr-hochzittsreis,30,3,0.18999999999999997,0.1
 71,comedy,Emma,F,,,,"
           
 Emma:
@@ -850,7 +850,7 @@ Min liewer Alphons!
  Was wurd mini Mamme mache?
 
         
-",kettner-uff-dr-hochzittsreis,16,4,0.4130429198753345,0.25
+",35,kettner-uff-dr-hochzittsreis,16,4,0.4130429198753345,0.25
 73,comedy,Emma,F,,,,"
           
 Emma:
@@ -862,7 +862,7 @@ Emma:
 Oh ich bekumm schun widder mini nervöse Kopfschmerze.
 
         
-",kettner-uff-dr-hochzittsreis,14,2,0.3205,0.14285714285714285
+",36,kettner-uff-dr-hochzittsreis,14,2,0.3205,0.14285714285714285
 74,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -877,7 +877,7 @@ Ums Gottswille, wo hab denn ich mine Migränstift?
  Do isch'r. Da Liewele, rich dran.
 
         
-",kettner-uff-dr-hochzittsreis,24,2,0.3205,0.08333333333333333
+",37,kettner-uff-dr-hochzittsreis,24,2,0.3205,0.08333333333333333
 75,comedy,Emma,F,,,,"
           
 Emma:
@@ -889,7 +889,7 @@ Emma:
 Aah, diss kühlt.
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
+",37,kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
 77,comedy,Emma,F,,,,"
           
 Emma:
@@ -903,7 +903,7 @@ Ja. —
 (Will die Handschuhe ausziehen).
 
         
-",kettner-uff-dr-hochzittsreis,12,2,0.0,0.16666666666666666
+",38,kettner-uff-dr-hochzittsreis,12,2,0.0,0.16666666666666666
 78,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -918,7 +918,7 @@ Wart Schätzel ich hilf dir — so.
  Soo.
 
         
-",kettner-uff-dr-hochzittsreis,27,2,0.5892142217327251,0.07407407407407407
+",39,kettner-uff-dr-hochzittsreis,27,2,0.5892142217327251,0.07407407407407407
 79,comedy,Emma,F,,,,"
           
 Emma:
@@ -927,7 +927,7 @@ Emma:
 Wie guet dü bisch min goldicher Alfons.
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",39,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 80,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -942,7 +942,7 @@ Noch besser bin ich. Soll ich dir au dr Huet abnämme?
  Soo.
 
         
-",kettner-uff-dr-hochzittsreis,20,2,0.0,0.1
+",40,kettner-uff-dr-hochzittsreis,20,2,0.0,0.1
 81,comedy,Emma,F,,,,"
           
 Emma:
@@ -951,7 +951,7 @@ Emma:
 Wie gschickt dü diss fertich bringsch — gell dü hesch's bie-re andere au schun gemacht?
 
         
-",kettner-uff-dr-hochzittsreis,17,2,0.0,0.11764705882352941
+",40,kettner-uff-dr-hochzittsreis,17,2,0.0,0.11764705882352941
 83,comedy,Emma,F,,,,"
           
 Emma:
@@ -963,7 +963,7 @@ Emma:
 Was hesch Alfons?
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.4838776509943239,0.14285714285714285
+",41,kettner-uff-dr-hochzittsreis,7,1,0.4838776509943239,0.14285714285714285
 85,comedy,Emma,F,,,,"
           
 Emma:
@@ -975,7 +975,7 @@ Wie denn, .. do? Armer Alfons.
  Heile, heile Säje ....
 
         
-",kettner-uff-dr-hochzittsreis,14,3,0.0,0.21428571428571427
+",42,kettner-uff-dr-hochzittsreis,14,3,0.0,0.21428571428571427
 86,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -986,7 +986,7 @@ Oh wie guet diss macht! — Emma derf ich dir jetz dr erschte Schmutz gänn?
 (Setzt klopft, sie hören es nicht).
 
         
-",kettner-uff-dr-hochzittsreis,24,4,0.28125,0.16666666666666666
+",43,kettner-uff-dr-hochzittsreis,24,4,0.28125,0.16666666666666666
 90,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -998,7 +998,7 @@ Alfons:
 S'Bleiwiss isch mr nab gfalle.
 
         
-",kettner-uff-dr-hochzittsreis,12,2,0.24193882549716195,0.16666666666666666
+",45,kettner-uff-dr-hochzittsreis,12,2,0.24193882549716195,0.16666666666666666
 91,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1010,7 +1010,7 @@ Ja, .. diss sinn jo zwei anderi.
  Höere, sinn d'andere nimmi do?
 
         
-",kettner-uff-dr-hochzittsreis,17,1,0.0,0.058823529411764705
+",45,kettner-uff-dr-hochzittsreis,17,1,0.0,0.058823529411764705
 94,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1019,7 +1019,7 @@ Alfons:
 Ja sie muehn sich dittlicher üssdrucke. S'Maidel hett uns do in diss Zimmer N° 9 gschickt.
 
         
-",kettner-uff-dr-hochzittsreis,19,3,0.0,0.15789473684210525
+",47,kettner-uff-dr-hochzittsreis,19,3,0.0,0.15789473684210525
 96,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1029,7 +1029,7 @@ Diss isch jetz unangenehm, .... was mache mr jetz. ... Ich bin mit minere Frau u
           un hab doch telephoniert an de kalte Jager um e Zimmer.
 
         
-",kettner-uff-dr-hochzittsreis,28,5,0.2406,0.17857142857142858
+",48,kettner-uff-dr-hochzittsreis,28,5,0.2406,0.17857142857142858
 97,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1047,7 +1047,7 @@ Diss isch e Hochzittsparel, do gitts Trinkgelder.
 (hält die Hand hin).
 
         
-",kettner-uff-dr-hochzittsreis,37,3,0.0,0.08108108108108109
+",48,kettner-uff-dr-hochzittsreis,37,3,0.0,0.08108108108108109
 98,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1059,7 +1059,7 @@ Alfons:
 Mine beschte Dank. — Diss due ich Ihne nie vergässe.
 
         
-",kettner-uff-dr-hochzittsreis,16,3,0.0,0.1875
+",49,kettner-uff-dr-hochzittsreis,16,3,0.0,0.1875
 99,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1074,7 +1074,7 @@ alte Gitzkräue diss Zimmer gänn hett.
  Do gitts Tringalder.
 
         
-",kettner-uff-dr-hochzittsreis,35,5,0.0828,0.14285714285714285
+",49,kettner-uff-dr-hochzittsreis,35,5,0.0828,0.14285714285714285
 100,comedy,Emma,F,,,,"
           
 Emma:
@@ -1084,7 +1084,7 @@ O ich bin so unruehich, wenns nurre kenn Unglück gitt. — Diss Pferd wie am Om
           .....
 
         
-",kettner-uff-dr-hochzittsreis,19,2,0.0,0.10526315789473684
+",50,kettner-uff-dr-hochzittsreis,19,2,0.0,0.10526315789473684
 105,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1098,7 +1098,7 @@ Vo Herze gern Emmäjele. —
 (findet ihn im Giletsäckel).
 
         
-",kettner-uff-dr-hochzittsreis,24,3,0.12766666666666668,0.125
+",52,kettner-uff-dr-hochzittsreis,24,3,0.12766666666666668,0.125
 106,comedy,Emma,F,,,,"
           
 Emma:
@@ -1111,7 +1111,7 @@ Dü sollsch de Schlüssel immer ins Portemonai stecke, hett dir minni Mama gsaat
  Oh mini Mamme.
 
         
-",kettner-uff-dr-hochzittsreis,24,3,0.4496520296672679,0.125
+",53,kettner-uff-dr-hochzittsreis,24,3,0.4496520296672679,0.125
 108,comedy,Emma,F,,,,"
           
 Emma:
@@ -1120,7 +1120,7 @@ Emma:
 Oh ich bekumm schun widder mini nervöse Kopfschmerze.
 
         
-",kettner-uff-dr-hochzittsreis,9,2,0.3205,0.2222222222222222
+",54,kettner-uff-dr-hochzittsreis,9,2,0.3205,0.2222222222222222
 109,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1136,7 +1136,7 @@ Wo isch dr Migränstift?
           Schmutz gänn?
 
         
-",kettner-uff-dr-hochzittsreis,43,6,0.27999999999999997,0.13953488372093023
+",54,kettner-uff-dr-hochzittsreis,43,6,0.27999999999999997,0.13953488372093023
 110,comedy,Emma,F,,,,"
           
 Emma:
@@ -1148,7 +1148,7 @@ Emma:
 Ja dü Plöjgeischt.
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
+",55,kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
 111,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1163,7 +1163,7 @@ Min Zuckerwäfele! ...
  Es hett geklopft, .. Herein!
 
         
-",kettner-uff-dr-hochzittsreis,16,2,0.3555,0.125
+",55,kettner-uff-dr-hochzittsreis,16,2,0.3555,0.125
 112,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1178,7 +1178,7 @@ Ich loss-em ken Ruehj, wäje de Trinkgalder.
  Exküsiere ass ich Sie derangier, ich hab ejch numme welle s'Bett zäje.
 
         
-",kettner-uff-dr-hochzittsreis,28,2,0.0,0.07142857142857142
+",56,kettner-uff-dr-hochzittsreis,28,2,0.0,0.07142857142857142
 116,comedy,Emma,F,,,,"
           
 Emma:
@@ -1190,7 +1190,7 @@ Emma:
 Nurre eins?
 
         
-",kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
+",58,kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
 117,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1202,7 +1202,7 @@ Eijo dann, nurre eins, awer ihr hann Platz, ass isch zwäischläfrich .... un e 
 (hält die Hand hin).
 
         
-",kettner-uff-dr-hochzittsreis,22,3,0.0,0.13636363636363635
+",58,kettner-uff-dr-hochzittsreis,22,3,0.0,0.13636363636363635
 119,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1213,7 +1213,7 @@ Ah, ass ich d'Redd nitt vergiss.... Wann welle nr morje früehj geweckt sinn?
 (beide stehen ratlos da).
 
         
-",kettner-uff-dr-hochzittsreis,21,1,0.5369560890018037,0.047619047619047616
+",59,kettner-uff-dr-hochzittsreis,21,1,0.5369560890018037,0.047619047619047616
 120,comedy,Emma,F,,,,"
           
 Emma:
@@ -1225,7 +1225,7 @@ Emma:
 Diss hann mir vergesse fuer d'Mamme ze: fröje.
 
         
-",kettner-uff-dr-hochzittsreis,13,3,0.13533333333333333,0.23076923076923078
+",60,kettner-uff-dr-hochzittsreis,13,3,0.13533333333333333,0.23076923076923078
 121,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1236,7 +1236,7 @@ Ich, ..ich.. na ja .. ich due ne klingle ..
 stelle Sie noch diss Gepäck ins Zimmer.
 
         
-",kettner-uff-dr-hochzittsreis,16,2,0.0,0.125
+",60,kettner-uff-dr-hochzittsreis,16,2,0.0,0.125
 122,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1252,7 +1252,7 @@ Eijo! .....
           Affedutter.
 
         
-",kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
+",61,kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
 123,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1264,7 +1264,7 @@ Komm ans Fenschter Emma, dr Owe isch so schön.
  E wunderbare Owe.
 
         
-",kettner-uff-dr-hochzittsreis,18,3,0.3960000000000001,0.16666666666666666
+",61,kettner-uff-dr-hochzittsreis,18,3,0.3960000000000001,0.16666666666666666
 124,comedy,Emma,F,,,,"
           
 Emma:
@@ -1273,7 +1273,7 @@ Emma:
 Un wie guet dr Holder riecht.
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
+",62,kettner-uff-dr-hochzittsreis,7,1,0.0,0.14285714285714285
 126,comedy,Emma,F,,,,"
           
 Emma:
@@ -1282,7 +1282,7 @@ Emma:
 Wie stille isch alles, ... so feierlich.
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
+",63,kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
 127,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1313,7 +1313,7 @@ Un d'Natür will schlofe gehn».
  Welle mir au schlofe gehn?
 
         
-",kettner-uff-dr-hochzittsreis,41,5,0.0,0.12195121951219512
+",63,kettner-uff-dr-hochzittsreis,41,5,0.0,0.12195121951219512
 128,comedy,Emma,F,,,,"
           
 Emma:
@@ -1323,7 +1323,7 @@ D'Sunn schickt de letschte Gruess eb se untergeht, no kumme d'Sternle, alles seh
           ... d'Blüemle hänke d'Köpfle zamme un schmüse mitnand.
 
         
-",kettner-uff-dr-hochzittsreis,28,7,0.2087142857142857,0.25
+",64,kettner-uff-dr-hochzittsreis,28,7,0.2087142857142857,0.25
 129,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1332,7 +1332,7 @@ Alfons:
 Emma welle mir's au so mache wie d'Blüemle?
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",64,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 130,comedy,Emma,F,,,,"
           
 Emma:
@@ -1365,7 +1365,7 @@ Alfons, gib mir jetz e Schmutz.
           
 
         
-",kettner-uff-dr-hochzittsreis,56,11,0.2918181818181818,0.19642857142857142
+",65,kettner-uff-dr-hochzittsreis,56,11,0.2918181818181818,0.19642857142857142
 131,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1379,7 +1379,7 @@ Der erscht.
 (will sie küssen, Felix und Jülie kommen. d. d. Mitte).
 
         
-",kettner-uff-dr-hochzittsreis,18,3,0.44799999999999995,0.16666666666666666
+",65,kettner-uff-dr-hochzittsreis,18,3,0.44799999999999995,0.16666666666666666
 133,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1388,7 +1388,7 @@ Felix:
 Helaba, ... was mache denn die uff unserem Zimmer?
 
         
-",kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
+",66,kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
 134,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1397,7 +1397,7 @@ Alfons:
 Pardon, mit wem haw ich d'Ehr?
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.547,0.125
+",67,kettner-uff-dr-hochzittsreis,8,1,0.547,0.125
 136,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1406,7 +1406,7 @@ Alfons:
 Wie Sie sehn vun uns.
 
         
-",kettner-uff-dr-hochzittsreis,6,1,0.5306551306240826,0.16666666666666666
+",68,kettner-uff-dr-hochzittsreis,6,1,0.5306551306240826,0.16666666666666666
 137,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1415,7 +1415,7 @@ Felix:
 Ja, awer vun uns au.
 
         
-",kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
+",68,kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
 139,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1424,7 +1424,7 @@ Felix:
 Diss-isch licht ze verstehn. Ich hab mich mit minere Frau vor-ere halwe Stund do inlogiert.
 
         
-",kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625
+",69,kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625
 140,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1434,7 +1434,7 @@ Diss isch jetz awer dumm. Ich hab doch telephonisch e Zimmer bstellt un no hett 
           Zimmer gänn.
 
         
-",kettner-uff-dr-hochzittsreis,22,3,0.13799999999999998,0.13636363636363635
+",70,kettner-uff-dr-hochzittsreis,22,3,0.13799999999999998,0.13636363636363635
 141,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1444,7 +1444,7 @@ Jetz wurd's hell.. Ich hab e Depesch gschickt un bin no direkt in in diss Zimmer
           welle mr halt unser Bimbelebaasch nämme un uff d'Wohnungsjacht gehn.
 
         
-",kettner-uff-dr-hochzittsreis,34,5,0.08120000000000001,0.14705882352941177
+",70,kettner-uff-dr-hochzittsreis,34,5,0.08120000000000001,0.14705882352941177
 142,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1456,7 +1456,7 @@ Diss isch mir jetz sehr leid.
  Alfons Lieblich, Schriftsteller, ... mini Frau.
 
         
-",kettner-uff-dr-hochzittsreis,15,3,0.0,0.2
+",71,kettner-uff-dr-hochzittsreis,15,3,0.0,0.2
 143,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1468,7 +1468,7 @@ Felix:
 Felix Kächele, Friseurmeischter, mini Frau Schülli, geboreni Spritzer.
 
         
-",kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
+",71,kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
 144,comedy,Emma,F,,,,"
           
 Emma:
@@ -1478,7 +1478,7 @@ Höer Alfons, diss kenne mir nitt zue gànn, mir Jungi solle do bliewe un die zw
           Nein Alfons.
 
         
-",kettner-uff-dr-hochzittsreis,22,3,0.30466666666666664,0.13636363636363635
+",72,kettner-uff-dr-hochzittsreis,22,3,0.30466666666666664,0.13636363636363635
 145,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -1488,7 +1488,7 @@ Wenn dü meinsch. Herr Kächele, mini Frau will nitt hann, dass sie so viel Umst
           also wäre mir uns e ander Zimmer gänn lonn.
 
         
-",kettner-uff-dr-hochzittsreis,27,3,0.37233333333333335,0.1111111111111111
+",72,kettner-uff-dr-hochzittsreis,27,3,0.37233333333333335,0.1111111111111111
 146,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -1502,7 +1502,7 @@ Diss isch jo alles racht natt vun Ihne, awer diss könne mir nitt annäme. — M
           Hochzittsreis?
 
         
-",kettner-uff-dr-hochzittsreis,45,9,0.18233333333333335,0.2
+",73,kettner-uff-dr-hochzittsreis,45,9,0.18233333333333335,0.2
 147,comedy,Emma,F,,,,"
           
 Emma:
@@ -1514,7 +1514,7 @@ Emma:
 Ja Madame Kächele ich un min Mann, ..... hitt isch unser Hochzittsdaa.
 
         
-",kettner-uff-dr-hochzittsreis,15,3,0.0,0.2
+",73,kettner-uff-dr-hochzittsreis,15,3,0.0,0.2
 148,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1526,7 +1526,7 @@ Felix:
 Unsere au ... gell Frau?
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",74,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 149,comedy,Emma,F,,,,"
           
 Emma:
@@ -1535,7 +1535,7 @@ Emma:
 Was... Sie hann hitt au Hochzitt kett?
 
         
-",kettner-uff-dr-hochzittsreis,8,2,0.3163294398985272,0.25
+",74,kettner-uff-dr-hochzittsreis,8,2,0.3163294398985272,0.25
 150,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1544,7 +1544,7 @@ Felix:
 Ja Madamele «hitt» vor 25 Johr.
 
         
-",kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
+",75,kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
 151,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -1553,7 +1553,7 @@ Jülie:
 Ja mir fiehre hitt «Silwerni Hochzitt».
 
         
-",kettner-uff-dr-hochzittsreis,9,3,0.21088629326568478,0.3333333333333333
+",75,kettner-uff-dr-hochzittsreis,9,3,0.21088629326568478,0.3333333333333333
 152,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1563,7 +1563,7 @@ Un drum hann mr de «Kalte Jager» widder uffgsuecht, will m'r do s'erschte Mol 
           Mamme.
 
         
-",kettner-uff-dr-hochzittsreis,22,3,0.3096666666666667,0.13636363636363635
+",76,kettner-uff-dr-hochzittsreis,22,3,0.3096666666666667,0.13636363636363635
 153,comedy,Emma,F,,,,"
           
 Emma:
@@ -1572,7 +1572,7 @@ Emma:
 O wie nett.
 
         
-",kettner-uff-dr-hochzittsreis,4,1,0.414,0.25
+",76,kettner-uff-dr-hochzittsreis,4,1,0.414,0.25
 155,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -1581,7 +1581,7 @@ Jülie:
 Au mir wünsche ihne alles Glück.
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.3188007450142392,0.2857142857142857
+",77,kettner-uff-dr-hochzittsreis,7,2,0.3188007450142392,0.2857142857142857
 157,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -1590,7 +1590,7 @@ Jülie:
 Felix, redd nitt so wüescht.
 
         
-",kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
+",78,kettner-uff-dr-hochzittsreis,6,1,0.0,0.16666666666666666
 158,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1607,7 +1607,7 @@ Was heisst wüescht, bie mir kummt's vun Härze. Dü hesch allewill ebs an mir �
           betrachte uns Alti, ... un do mini lieb, alt Pflutt, 12 Kinder hett se mir gschenkt.
 
         
-",kettner-uff-dr-hochzittsreis,71,10,0.16640000000000002,0.14084507042253522
+",79,kettner-uff-dr-hochzittsreis,71,10,0.16640000000000002,0.14084507042253522
 159,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -1616,7 +1616,7 @@ Jülie:
 Joo, ... lüj nitt eso, ... nurre 10 Madame.
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",79,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 160,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1630,7 +1630,7 @@ Poo, es kummt uff zwei nitt an:
 (Setzt klopft).
 
         
-",kettner-uff-dr-hochzittsreis,25,3,0.34900000000000003,0.12
+",80,kettner-uff-dr-hochzittsreis,25,3,0.34900000000000003,0.12
 165,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1645,7 +1645,7 @@ Jetz huckt der alt Gitzkräuje au noch do.
  Höre, diss Zimmer isch bsetzt.
 
         
-",kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
+",82,kettner-uff-dr-hochzittsreis,24,1,0.0,0.041666666666666664
 167,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1654,7 +1654,7 @@ Dominik:
 Nix ze Isidor ... Dominik häiss ich als noch verstande?
 
         
-",kettner-uff-dr-hochzittsreis,10,2,0.0,0.2
+",83,kettner-uff-dr-hochzittsreis,10,2,0.0,0.2
 168,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1663,7 +1663,7 @@ Felix:
 Mintwäje au Dominik, .. also mir sinn einig.
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",84,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 169,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1675,7 +1675,7 @@ Dominik:
 Do näme ihr e anderes Zimmer?
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",84,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 172,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1687,7 +1687,7 @@ Dominik:
 Ja, welle ihr e anders Zimmer?
 
         
-",kettner-uff-dr-hochzittsreis,11,2,0.0,0.18181818181818182
+",86,kettner-uff-dr-hochzittsreis,11,2,0.0,0.18181818181818182
 173,comedy,Felix Kächele,M,,,,"
           
 Felix und Jülie:
@@ -1696,7 +1696,7 @@ Felix und Jülie:
 Nein, nein, diss gänn mir nitt zue.
 
         
-",kettner-uff-dr-hochzittsreis,10,1,0.414,0.1
+",86,kettner-uff-dr-hochzittsreis,10,1,0.414,0.1
 174,comedy,Jülie,F,,,,"
           
 Felix und Jülie:
@@ -1705,7 +1705,7 @@ Felix und Jülie:
 Nein, nein, diss gänn mir nitt zue.
 
         
-",kettner-uff-dr-hochzittsreis,10,1,0.414,0.1
+",87,kettner-uff-dr-hochzittsreis,10,1,0.414,0.1
 175,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1714,7 +1714,7 @@ Dominik:
 Ja, do kummt jetz kenn Söj drüss, gschweje ich. Ja welle nr alli vier in diss einte Bett leije?
 
         
-",kettner-uff-dr-hochzittsreis,20,3,0.0,0.15
+",87,kettner-uff-dr-hochzittsreis,20,3,0.0,0.15
 176,comedy,Alfons Lieblich,M,,,,"
           
 Alle:
@@ -1726,7 +1726,7 @@ Alle:
 Nein, nein!
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
+",88,kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
 177,comedy,Emma,F,,,,"
           
 Alle:
@@ -1738,7 +1738,7 @@ Alle:
 Nein, nein!
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
+",88,kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
 178,comedy,Felix Kächele,M,,,,"
           
 Alle:
@@ -1750,7 +1750,7 @@ Alle:
 Nein, nein!
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
+",89,kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
 179,comedy,Jülie,F,,,,"
           
 Alle:
@@ -1762,7 +1762,7 @@ Alle:
 Nein, nein!
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
+",89,kettner-uff-dr-hochzittsreis,7,2,0.211,0.2857142857142857
 180,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1775,7 +1775,7 @@ Gänn uns e ander Zimmer, mir bliewe noch e bissel bienander. Näme unser Gepäc
           Hironimus.
 
         
-",kettner-uff-dr-hochzittsreis,22,3,0.3206547648141877,0.13636363636363635
+",90,kettner-uff-dr-hochzittsreis,22,3,0.3206547648141877,0.13636363636363635
 181,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -1792,7 +1792,7 @@ Dominik häiss i!
 (ab Mitte).
 
         
-",kettner-uff-dr-hochzittsreis,20,1,0.0,0.05
+",90,kettner-uff-dr-hochzittsreis,20,1,0.0,0.05
 182,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1804,7 +1804,7 @@ Felix:
 Also hat Gott die Welt geliebt un ich minni Frau! ... Gsundheit!
 
         
-",kettner-uff-dr-hochzittsreis,16,3,0.375,0.1875
+",91,kettner-uff-dr-hochzittsreis,16,3,0.375,0.1875
 183,comedy,Emma,F,,,,"
           
 Emma:
@@ -1816,7 +1816,7 @@ Wenn ich Sie so betracht Madame Kächele muess ich grad an mini Mama denke. —
  O mini Mama.
 
         
-",kettner-uff-dr-hochzittsreis,22,5,0.16240000000000002,0.22727272727272727
+",91,kettner-uff-dr-hochzittsreis,22,5,0.16240000000000002,0.22727272727272727
 188,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1825,7 +1825,7 @@ Felix:
 Joo, es macht jo nitt weh.
 
         
-",kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
+",94,kettner-uff-dr-hochzittsreis,7,2,0.0,0.2857142857142857
 189,comedy,Emma,F,,,,"
           
 Emma:
@@ -1834,7 +1834,7 @@ Emma:
 Alfons, geh dätsch mir doch e frisch's Mouchoir hole im Koffer.
 
         
-",kettner-uff-dr-hochzittsreis,13,1,0.0,0.07692307692307693
+",94,kettner-uff-dr-hochzittsreis,13,1,0.0,0.07692307692307693
 192,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1846,7 +1846,7 @@ Allons Madame Lieblich, mr grient doch nitt wenn mr uff dr Hochzittsreis isch, d
 (sie trinken).
 
         
-",kettner-uff-dr-hochzittsreis,31,8,0.16032303468142056,0.25806451612903225
+",96,kettner-uff-dr-hochzittsreis,31,8,0.16032303468142056,0.25806451612903225
 193,comedy,Emma,F,,,,"
           
 Emma:
@@ -1855,7 +1855,7 @@ Emma:
 Jo Monsieur Kächele, ich bin dr Win nitt gewohnt. uff einmol stejt er mir in de Kopf.
 
         
-",kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
+",96,kettner-uff-dr-hochzittsreis,18,1,0.0,0.05555555555555555
 194,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1865,7 +1865,7 @@ Diss isch jo grad racht am Hochzittsdaa. Un e Frau isch nitt netter, ass wenn se
           isch.
 
         
-",kettner-uff-dr-hochzittsreis,21,3,0.13799999999999998,0.14285714285714285
+",97,kettner-uff-dr-hochzittsreis,21,3,0.13799999999999998,0.14285714285714285
 195,comedy,Emma,F,,,,"
           
 Emma:
@@ -1875,7 +1875,7 @@ Ich weiss gar nitt, ich hab so e Angscht uff mir, ich bin hitt zuem ersehte Mol 
           allein.
 
         
-",kettner-uff-dr-hochzittsreis,22,4,0.13275,0.18181818181818182
+",97,kettner-uff-dr-hochzittsreis,22,4,0.13275,0.18181818181818182
 196,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1884,7 +1884,7 @@ Felix:
 Zum erschte Mol, ... ja wie lang kenne denn ihr enander?
 
         
-",kettner-uff-dr-hochzittsreis,11,2,0.0,0.18181818181818182
+",98,kettner-uff-dr-hochzittsreis,11,2,0.0,0.18181818181818182
 197,comedy,Emma,F,,,,"
           
 Emma:
@@ -1894,7 +1894,7 @@ Zwei Monet. Ich hab mine Alfons lehre kenne im Concert vum Jungfraueverein un wi
           guet gfalle hett, haw ich ne ghirot. Mir kenne uns küm, ich hab-em noch nitt emol e Schmutz gänn.
 
         
-",kettner-uff-dr-hochzittsreis,38,7,0.2187142857142857,0.18421052631578946
+",98,kettner-uff-dr-hochzittsreis,38,7,0.2187142857142857,0.18421052631578946
 198,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1903,7 +1903,7 @@ Felix:
 Joo, diss glauwi jetz doch nitt, er isch doch jetz Ihr Mann.
 
         
-",kettner-uff-dr-hochzittsreis,13,2,0.0,0.15384615384615385
+",99,kettner-uff-dr-hochzittsreis,13,2,0.0,0.15384615384615385
 199,comedy,Emma,F,,,,"
           
 Emma:
@@ -1912,7 +1912,7 @@ Emma:
 Ei jeds Mol wenn ich-em e Schmutz hab welle gan isch ebber kumme.
 
         
-",kettner-uff-dr-hochzittsreis,14,3,0.586,0.21428571428571427
+",99,kettner-uff-dr-hochzittsreis,14,3,0.586,0.21428571428571427
 200,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1922,7 +1922,7 @@ Diss isch dumm. Awer wie er jetz kummt no gänn Sie-em e Schmutz, do kann kumme 
           isch jo ze bedüre.
 
         
-",kettner-uff-dr-hochzittsreis,25,6,0.293,0.24
+",100,kettner-uff-dr-hochzittsreis,25,6,0.293,0.24
 201,comedy,Emma,F,,,,"
           
 Emma:
@@ -1935,7 +1935,7 @@ Un dr Alfons isch doch so guet, so herzensguet geje mich, wenn er nurre so bliet
           hirote.
 
         
-",kettner-uff-dr-hochzittsreis,79,15,0.09631132283433172,0.189873417721519
+",100,kettner-uff-dr-hochzittsreis,79,15,0.09631132283433172,0.189873417721519
 202,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1948,7 +1948,7 @@ Nit verzwiefle Madämele, mir Männer sinn nitt so böes. E jeds Wiewele hett e 
           widder guet ze mache, mr mues es nurre wisse anzewände.
 
         
-",kettner-uff-dr-hochzittsreis,36,6,0.0,0.16666666666666666
+",101,kettner-uff-dr-hochzittsreis,36,6,0.0,0.16666666666666666
 203,comedy,Emma,F,,,,"
           
 Emma:
@@ -1957,7 +1957,7 @@ Emma:
 O saue Sie mir's Monsieur Kächele, ich bin ne arich dankbar defuer.
 
         
-",kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
+",101,kettner-uff-dr-hochzittsreis,14,1,0.0,0.07142857142857142
 204,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1969,7 +1969,7 @@ Vun Härze gärn, worum soll ich denn im e so e liewe, junge Frauele kenn Gfalle
 (trinken).
 
         
-",kettner-uff-dr-hochzittsreis,35,7,0.3020245256430483,0.2
+",102,kettner-uff-dr-hochzittsreis,35,7,0.3020245256430483,0.2
 205,comedy,Emma,F,,,,"
           
 Emma:
@@ -1978,7 +1978,7 @@ Emma:
 Der Win isch awer starik ich bekumm ganz warm devun.
 
         
-",kettner-uff-dr-hochzittsreis,11,4,0.16025,0.36363636363636365
+",102,kettner-uff-dr-hochzittsreis,11,4,0.16025,0.36363636363636365
 206,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -1990,7 +1990,7 @@ Naja Sie soll jo warm wäre. Awer jetz basst Sie uff. Wenn e Mann emol wuetig is
           Butter in dr Sunn.
 
         
-",kettner-uff-dr-hochzittsreis,64,16,0.1000625,0.25
+",103,kettner-uff-dr-hochzittsreis,64,16,0.1000625,0.25
 207,comedy,Emma,F,,,,"
           
 Emma:
@@ -2002,7 +2002,7 @@ Emma:
 Isch diss sicher wohr?
 
         
-",kettner-uff-dr-hochzittsreis,8,3,0.0,0.375
+",103,kettner-uff-dr-hochzittsreis,8,3,0.0,0.375
 208,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2014,7 +2014,7 @@ Ganz sicher. Jetz browiere mrs emol glich, ass ich sieh ob Sie's au recht kapier
  Also ich bin dr Mann un Sie d'Frau un ich hab e Wuet wäje-nem Zmiddaesse.
 
         
-",kettner-uff-dr-hochzittsreis,38,5,0.0,0.13157894736842105
+",104,kettner-uff-dr-hochzittsreis,38,5,0.0,0.13157894736842105
 210,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2023,7 +2023,7 @@ Felix:
 Allewäj, Sie mues, ass Sie's lehrt, .. es isch jo nurre e Prob, .. es isch jo nitt ernscht.
 
         
-",kettner-uff-dr-hochzittsreis,19,1,0.0,0.05263157894736842
+",105,kettner-uff-dr-hochzittsreis,19,1,0.0,0.05263157894736842
 211,comedy,Emma,F,,,,"
           
 Emma:
@@ -2032,7 +2032,7 @@ Emma:
 E Gottsnamme denn, .. ja was soll ich mache?
 
         
-",kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
+",105,kettner-uff-dr-hochzittsreis,9,1,0.0,0.1111111111111111
 212,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2049,7 +2049,7 @@ Also ich bin Ihr Mann un händel mit-ne wäje-nem Esse, will's angebrännt isch.
  Pfui Dejfel schmeckt diss. — Jetz redd Sie ebbs.
 
         
-",kettner-uff-dr-hochzittsreis,76,8,0.19525000000000003,0.10526315789473684
+",106,kettner-uff-dr-hochzittsreis,76,8,0.19525000000000003,0.10526315789473684
 213,comedy,Emma,F,,,,"
           
 Emma:
@@ -2062,7 +2062,7 @@ Jo weisch Mann ich hab grad e Moment nüssgeluejt un do isch's mir angebrännt, 
           mr schmeckt's küm.
 
         
-",kettner-uff-dr-hochzittsreis,27,2,0.0,0.07407407407407407
+",106,kettner-uff-dr-hochzittsreis,27,2,0.0,0.07407407407407407
 214,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2078,7 +2078,7 @@ Natirli e Uessredd hesch allewill uff dr Pfann. Herrschaft de ganze Daa schafft 
  Hopp, jetz fallt Sie m'r um de Hals un gitt Sie mr e Schmutz.
 
         
-",kettner-uff-dr-hochzittsreis,54,6,0.1185,0.1111111111111111
+",107,kettner-uff-dr-hochzittsreis,54,6,0.1185,0.1111111111111111
 215,comedy,Emma,F,,,,"
           
 Emma:
@@ -2090,7 +2090,7 @@ Emma:
 Alle Männel sej doch widder guet mit dim Fraule.
 
         
-",kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
+",107,kettner-uff-dr-hochzittsreis,14,2,0.0,0.14285714285714285
 216,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2099,7 +2099,7 @@ Felix:
 Un e Schmutz jetzt sunsch wurr i nitt guet.
 
         
-",kettner-uff-dr-hochzittsreis,10,2,0.3555,0.2
+",108,kettner-uff-dr-hochzittsreis,10,2,0.3555,0.2
 217,comedy,Emma,F,,,,"
           
 Emma:
@@ -2111,7 +2111,7 @@ Emma:
 Bekumsch au e Schmutz liebs Männel.
 
         
-",kettner-uff-dr-hochzittsreis,11,2,0.3555,0.18181818181818182
+",108,kettner-uff-dr-hochzittsreis,11,2,0.3555,0.18181818181818182
 221,comedy,Emma,F,,,,"
           
 Beide:
@@ -2121,7 +2121,7 @@ Beide:
           rechts zu stehen, Felix und Jülie nach links).
 
         
-",kettner-uff-dr-hochzittsreis,26,4,0.46475,0.15384615384615385
+",110,kettner-uff-dr-hochzittsreis,26,4,0.46475,0.15384615384615385
 222,comedy,Felix Kächele,M,,,,"
           
 Beide:
@@ -2131,7 +2131,7 @@ Beide:
           rechts zu stehen, Felix und Jülie nach links).
 
         
-",kettner-uff-dr-hochzittsreis,26,4,0.46475,0.15384615384615385
+",111,kettner-uff-dr-hochzittsreis,26,4,0.46475,0.15384615384615385
 223,comedy,Emma,F,,,,"
           
 Emma:
@@ -2140,7 +2140,7 @@ Emma:
 Hesch mir e Mouchoir min liewer ?
 
         
-",kettner-uff-dr-hochzittsreis,7,1,0.590171679501338,0.14285714285714285
+",111,kettner-uff-dr-hochzittsreis,7,1,0.590171679501338,0.14285714285714285
 225,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2155,7 +2155,7 @@ Da... jerum jetz haw ich e ...! Na, es macht nix, es isch üss mit uns zwei, dü
 (weint in das Hemd).
 
         
-",kettner-uff-dr-hochzittsreis,40,4,0.15816875418623538,0.1
+",112,kettner-uff-dr-hochzittsreis,40,4,0.15816875418623538,0.1
 227,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2164,7 +2164,7 @@ Alfons:
 Hesch nitt dr Monsieur verschmutzt vor mine Aue. Was wurd do dini Mame saue?
 
         
-",kettner-uff-dr-hochzittsreis,15,2,0.203,0.13333333333333333
+",113,kettner-uff-dr-hochzittsreis,15,2,0.203,0.13333333333333333
 228,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -2177,7 +2177,7 @@ Diss isch nitt nowel vun Ihne Madame e-n-alte Mann ze verfüehre. Noch so jung u
           d'Kinjelemoor gedänkt.
 
         
-",kettner-uff-dr-hochzittsreis,43,6,0.2175,0.13953488372093023
+",114,kettner-uff-dr-hochzittsreis,43,6,0.2175,0.13953488372093023
 229,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2189,7 +2189,7 @@ Alfons:
 Sie schiene mir e rächter Kinjelebock ze sinn, Sie .. Pfui!
 
         
-",kettner-uff-dr-hochzittsreis,15,3,0.14882354098068074,0.2
+",114,kettner-uff-dr-hochzittsreis,15,3,0.14882354098068074,0.2
 230,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2200,7 +2200,7 @@ E Millione Rasiermesser, ich e Kinjelebock? Diss isch ze starik, diss sollsch mi
 (will auf Alfons los. Die Frauen halten die Männer zurück. Grosser Tumult).
 
         
-",kettner-uff-dr-hochzittsreis,29,4,0.164,0.13793103448275862
+",115,kettner-uff-dr-hochzittsreis,29,4,0.164,0.13793103448275862
 231,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -2218,7 +2218,7 @@ delt, ihr sinn do nitt in dr Franzesch Kammer, ihr sinn do im Kalte Jager. Ihr s
           noch e Pratik, zerscht trinke nr mitnand un no verhaue nr enander.
 
         
-",kettner-uff-dr-hochzittsreis,55,2,0.2615,0.03636363636363636
+",115,kettner-uff-dr-hochzittsreis,55,2,0.2615,0.03636363636363636
 232,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2227,7 +2227,7 @@ Alfons:
 Bringe Sie mini Köffer ich reis ab.
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",116,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 233,comedy,Jülie,F,,,,"
           
 Julie:
@@ -2236,7 +2236,7 @@ Julie:
 Unser Gepäck au, mir gehn au los.
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.656,0.125
+",116,kettner-uff-dr-hochzittsreis,8,1,0.656,0.125
 234,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -2253,7 +2253,7 @@ Jo mache ass'r los kumme.
 (ab Mitte).
 
         
-",kettner-uff-dr-hochzittsreis,25,4,0.42575,0.16
+",117,kettner-uff-dr-hochzittsreis,25,4,0.42575,0.16
 236,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2265,7 +2265,7 @@ Diss isch mir e netti Söjerej un ich hab's so guet gmeint.
  ab).
 
         
-",kettner-uff-dr-hochzittsreis,26,3,0.13799999999999998,0.11538461538461539
+",118,kettner-uff-dr-hochzittsreis,26,3,0.13799999999999998,0.11538461538461539
 237,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2278,7 +2278,7 @@ Nein so e Hochzittsreis.
           Selbstmordgedanke, ich geh ans Wasser un hänk mich uff.
 
         
-",kettner-uff-dr-hochzittsreis,34,4,0.33025000000000004,0.11764705882352941
+",118,kettner-uff-dr-hochzittsreis,34,4,0.33025000000000004,0.11764705882352941
 238,comedy,Emma,F,,,,"
           
 Emma:
@@ -2290,7 +2290,7 @@ Emma:
 Alfons!!
 
         
-",kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
+",119,kettner-uff-dr-hochzittsreis,8,1,0.0,0.125
 239,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2302,7 +2302,7 @@ Felix:
 Jetz macht Sie's doch, was ich Sie vori gelehrt hab.
 
         
-",kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625
+",119,kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625
 240,comedy,Emma,F,,,,"
           
 Emma:
@@ -2317,7 +2317,7 @@ Alfons, Männel, sej doch widder guet zue dim Fraule, .. ich gib dir au e Schmut
 (küsst ihn).
 
         
-",kettner-uff-dr-hochzittsreis,44,5,0.21879999999999997,0.11363636363636363
+",120,kettner-uff-dr-hochzittsreis,44,5,0.21879999999999997,0.11363636363636363
 241,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2331,7 +2331,7 @@ Ich kann nimi böes sinn. Min goldichs, herzichs, zuckerichs Emmäjele.
 (Umarmung).
 
         
-",kettner-uff-dr-hochzittsreis,19,4,0.15425,0.21052631578947367
+",120,kettner-uff-dr-hochzittsreis,19,4,0.15425,0.21052631578947367
 242,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2342,7 +2342,7 @@ Bravo, gell s'hett gholfe, ..... do wurd e jeder Mann weich. Siehsch Schülli ic
           Isch's nitt oso gsinn, Madame Lieblich? Mir hann's nurre browiert.
 
         
-",kettner-uff-dr-hochzittsreis,50,11,0.1881818181818182,0.22
+",121,kettner-uff-dr-hochzittsreis,50,11,0.1881818181818182,0.22
 243,comedy,Emma,F,,,,"
           
 Emma:
@@ -2352,7 +2352,7 @@ Doch so isch's gsinn Madame. — Un dü min büeser Alfons hesch so ebbs wüesch
           hab jo nurre dich gern.
 
         
-",kettner-uff-dr-hochzittsreis,26,2,0.1915,0.07692307692307693
+",121,kettner-uff-dr-hochzittsreis,26,2,0.1915,0.07692307692307693
 245,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -2364,7 +2364,7 @@ Dominik:
 Ejer Gepackdings isch gerüscht, im Hüssgang steht's.
 
         
-",kettner-uff-dr-hochzittsreis,14,1,0.46262495747384,0.07142857142857142
+",122,kettner-uff-dr-hochzittsreis,14,1,0.46262495747384,0.07142857142857142
 249,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -2373,7 +2373,7 @@ Dominik:
 Nix do als nüss, ihr Gitzkräje, nitt emol e Trinkgeld....
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",124,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 250,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2384,7 +2384,7 @@ Ah drumm han ihr mir als d'Hand eso aneghebt.
 (Gelächter) Do hann'r 10 Franke (gibt ihm Geld).
 
         
-",kettner-uff-dr-hochzittsreis,23,1,0.0,0.043478260869565216
+",125,kettner-uff-dr-hochzittsreis,23,1,0.0,0.043478260869565216
 251,comedy,Alfons Lieblich,M,,,,"
           
 Alfons:
@@ -2396,7 +2396,7 @@ Alfons:
 Un au von mir.
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",125,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 252,comedy,Dominik,M,inn_attendant,service_and_sales,lower_class,"
           
 Dominik:
@@ -2415,7 +2415,7 @@ saue's nurre im Dominik ich wäiss alles un bsori alle.
 (ab Mitte. Alfons und Emma stehen ganz weltvergessen vorn am Tisch).
 
         
-",kettner-uff-dr-hochzittsreis,55,3,0.0,0.05454545454545454
+",126,kettner-uff-dr-hochzittsreis,55,3,0.0,0.05454545454545454
 253,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2433,7 +2433,7 @@ Ich glaub mir kenne abkumme.
 (Die Frauen umarmen sich, Felix will auch Emma umarmen).
 
         
-",kettner-uff-dr-hochzittsreis,44,9,0.23341490017709468,0.20454545454545456
+",126,kettner-uff-dr-hochzittsreis,44,9,0.23341490017709468,0.20454545454545456
 254,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -2447,7 +2447,7 @@ Helaba Alterle, es wurd nimi browiert. Komm jetz.
 (sie gehen bis an die Mitteltür, Felix dreht sich herum).
 
         
-",kettner-uff-dr-hochzittsreis,26,2,0.3165,0.07692307692307693
+",127,kettner-uff-dr-hochzittsreis,26,2,0.3165,0.07692307692307693
 255,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2459,7 +2459,7 @@ Felix:
 Guet Nacht. — Amesiere ejch guet.
 
         
-",kettner-uff-dr-hochzittsreis,11,4,0.0,0.36363636363636365
+",127,kettner-uff-dr-hochzittsreis,11,4,0.0,0.36363636363636365
 256,comedy,Jülie,F,,,,"
           
 Jülie:
@@ -2471,7 +2471,7 @@ Jülie:
 Allons — Felix!
 
         
-",kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
+",128,kettner-uff-dr-hochzittsreis,11,1,0.0,0.09090909090909091
 257,comedy,Felix Kächele,M,,,,"
           
 Felix:
@@ -2485,4 +2485,4 @@ Wenn nurre der Lüsangel de Kinjelestall züe macht!
 — ENDE —
 
         
-",kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625
+",128,kettner-uff-dr-hochzittsreis,16,1,0.0,0.0625

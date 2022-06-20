@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -90,7 +90,7 @@ entrez...
 (dr Herr Fink kunnt ine).
 
         
-",lustig-zwei-erfindunge,350,51,0.061431372549019606,0.1457142857142857
+",0,lustig-zwei-erfindunge,350,51,0.061431372549019606,0.1457142857142857
 1,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -101,7 +101,7 @@ Ah, Sie sin 's, Herr Fink?... was bringe Se mr Neü's?...
                         d'Gschàfte... was macht Ihre-n-Erfindung?
 
         
-",lustig-zwei-erfindunge,31,4,0.15825,0.12903225806451613
+",1,lustig-zwei-erfindunge,31,4,0.15825,0.12903225806451613
 2,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -110,7 +110,7 @@ Herr Fink.
 Mi Erfindung?... was wànn Sie mit dem sage?
 
         
-",lustig-zwei-erfindunge,10,1,0.0,0.1
+",2,lustig-zwei-erfindunge,10,1,0.0,0.1
 3,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -123,7 +123,7 @@ Oh... Sie bruche sich nitt z'verstelle vor mir!... unter
                         glaüb, dass ich jetz endlig an's Ziel kumme wird...
 
         
-",lustig-zwei-erfindunge,52,7,0.2439399421196256,0.1346153846153846
+",3,lustig-zwei-erfindunge,52,7,0.2439399421196256,0.1346153846153846
 4,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -134,7 +134,7 @@ Do sin Sie glickliger as ich, Herr Sieselsaft, denn ich
                         find, so isch mi Fortün g'macht.
 
         
-",lustig-zwei-erfindunge,29,6,0.09766666666666667,0.20689655172413793
+",4,lustig-zwei-erfindunge,29,6,0.09766666666666667,0.20689655172413793
 5,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -143,7 +143,7 @@ Herr Sieselsaft.
 Grad as wie-n-ich!
 
         
-",lustig-zwei-erfindunge,7,2,0.0,0.2857142857142857
+",5,lustig-zwei-erfindunge,7,2,0.0,0.2857142857142857
 6,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -158,7 +158,7 @@ Tag un Nacht plogt mich das Dings!... Tag un Nacht
                         Erfindung bitrage ka...
 
         
-",lustig-zwei-erfindunge,66,5,0.0,0.07575757575757576
+",6,lustig-zwei-erfindunge,66,5,0.0,0.07575757575757576
 7,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -176,7 +176,7 @@ Das werde Sie doch ebbe nitt thüe, Herr Fink, wer wott
                         wisse jo, ass das Instrument nieme spielt...
 
         
-",lustig-zwei-erfindunge,66,10,0.1828,0.15151515151515152
+",7,lustig-zwei-erfindunge,66,10,0.1828,0.15151515151515152
 8,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -190,7 +190,7 @@ Sie brüche nitt sorge fir das, Herr Sieselsaft, ich kenn
                         mim Platz schicke... er spielt recht schön...
 
         
-",lustig-zwei-erfindunge,60,9,0.1718888888888889,0.15
+",8,lustig-zwei-erfindunge,60,9,0.1718888888888889,0.15
 9,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -206,7 +206,7 @@ Eb ich will!... natirlig will i!... was wotte mr ohne
           
 
         
-",lustig-zwei-erfindunge,35,2,0.0,0.05714285714285714
+",9,lustig-zwei-erfindunge,35,2,0.0,0.05714285714285714
 10,comedy,Herr FINK,M,,,,"
           
 Herr Fink
@@ -221,7 +221,7 @@ Ich hätt jetz glaübt, ass ich's mit mim neümodische
                         gesticuliert).
 
         
-",lustig-zwei-erfindunge,28,3,0.0,0.10714285714285714
+",10,lustig-zwei-erfindunge,28,3,0.0,0.10714285714285714
 11,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -240,7 +240,7 @@ Alle-n-Aügesblick ha-n-i G'schichte, fir e Basson
  wie isch er, Herr Fink?...
 
         
-",lustig-zwei-erfindunge,66,12,0.041666666666666664,0.18181818181818182
+",11,lustig-zwei-erfindunge,66,12,0.041666666666666664,0.18181818181818182
 12,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -251,7 +251,7 @@ Er isch roth un e wenig dünn... awer ich wein' wenn ich
                         üsrüehe, ass er sich doch mache thàt!
 
         
-",lustig-zwei-erfindunge,31,3,0.2343333333333333,0.0967741935483871
+",12,lustig-zwei-erfindunge,31,3,0.2343333333333333,0.0967741935483871
 13,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -266,7 +266,7 @@ Ich red' nitt vo-n-Ihre Mixtüre.... ich mein dà junge
 (d'Jumpfer Sieselsaft kunnt ine).
 
         
-",lustig-zwei-erfindunge,32,7,0.07142857142857142,0.21875
+",13,lustig-zwei-erfindunge,32,7,0.07142857142857142,0.21875
 14,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -276,7 +276,7 @@ Denk jetz nur emol, Lenele, dr Herr Fink will nach
                         Amerika geh!
 
         
-",lustig-zwei-erfindunge,14,2,0.0,0.14285714285714285
+",14,lustig-zwei-erfindunge,14,2,0.0,0.14285714285714285
 15,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -294,7 +294,7 @@ Halt!... jetz ha-n-i's... so geht's!...
                         Hüet un laüft dervo, ohne-n-Adie z'sage).
 
         
-",lustig-zwei-erfindunge,39,4,0.0,0.10256410256410256
+",15,lustig-zwei-erfindunge,39,4,0.0,0.10256410256410256
 16,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -308,7 +308,7 @@ Herr Sieselsaft
                         Lenele hat ewe ne-n-Anderer gern.
 
         
-",lustig-zwei-erfindunge,34,5,0.1938,0.14705882352941177
+",16,lustig-zwei-erfindunge,34,5,0.1938,0.14705882352941177
 17,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -323,7 +323,7 @@ Isch das e Schaüde, dà Herr Fink... décidément, 's sin
 (se kunnt fire).
 
         
-",lustig-zwei-erfindunge,34,3,0.0,0.08823529411764706
+",17,lustig-zwei-erfindunge,34,3,0.0,0.08823529411764706
 18,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -333,7 +333,7 @@ Kind, los... kumm setz Di e wenig... ich ha Dr
                         e-n-intressante Neüigkeit mitz'theile.
 
         
-",lustig-zwei-erfindunge,17,4,0.453,0.23529411764705882
+",18,lustig-zwei-erfindunge,17,4,0.453,0.23529411764705882
 19,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -345,7 +345,7 @@ Lenele
 Mir?... was soll das fir e Neüigkeit si?
 
         
-",lustig-zwei-erfindunge,16,2,0.0,0.125
+",19,lustig-zwei-erfindunge,16,2,0.0,0.125
 20,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -355,7 +355,7 @@ De hasch also g'hort, ass dr Herr Fink vo hie furt
                         will?...
 
         
-",lustig-zwei-erfindunge,14,3,0.0,0.21428571428571427
+",20,lustig-zwei-erfindunge,14,3,0.0,0.21428571428571427
 21,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -365,7 +365,7 @@ Ich glaüb nitt, ass me-n-im nogrine wird... er isch ganz
                         sicher verruckt, dà Mann!
 
         
-",lustig-zwei-erfindunge,17,5,0.08574682031877043,0.29411764705882354
+",21,lustig-zwei-erfindunge,17,5,0.08574682031877043,0.29411764705882354
 22,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -378,7 +378,7 @@ Lenele, sag kei Dummheite... das verstehsch Dü nitt...
                         dr Herr Fink süecht ebbes !
 
         
-",lustig-zwei-erfindunge,18,4,0.1465,0.2222222222222222
+",22,lustig-zwei-erfindunge,18,4,0.1465,0.2222222222222222
 23,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -388,7 +388,7 @@ Si Verstand süecht er, wo-n-er verlore hat vom viele
                         Basson spiele!
 
         
-",lustig-zwei-erfindunge,14,3,0.18999999999999997,0.21428571428571427
+",23,lustig-zwei-erfindunge,14,3,0.18999999999999997,0.21428571428571427
 24,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -399,7 +399,7 @@ Kind, noch emol, Dü verstehsch das nitt... Dü weisch
                         hat... b'schaü mich, Di Vater... ich o süech ebbes!
 
         
-",lustig-zwei-erfindunge,32,4,0.27725,0.125
+",24,lustig-zwei-erfindunge,32,4,0.27725,0.125
 25,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -413,7 +413,7 @@ Unglickligerwis jo... alle Müsikante süeche-n-ebbes
           
 
         
-",lustig-zwei-erfindunge,12,2,0.293,0.16666666666666666
+",25,lustig-zwei-erfindunge,12,2,0.293,0.16666666666666666
 26,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -424,7 +424,7 @@ Doch, 's handelt sich jetz nitt um das... De weisch, wie
                         Samstig mi grösste Freid isch!
 
         
-",lustig-zwei-erfindunge,30,4,0.09575,0.13333333333333333
+",26,lustig-zwei-erfindunge,30,4,0.09575,0.13333333333333333
 27,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -434,7 +434,7 @@ Jo, ich weiss es nur z'güet... me hört efange nit as
                         Müsik in dem Hüs!
 
         
-",lustig-zwei-erfindunge,17,4,0.0,0.23529411764705882
+",27,lustig-zwei-erfindunge,17,4,0.0,0.23529411764705882
 28,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -452,7 +452,7 @@ Bis do ane wàr jetz alles recht... wenn awer derno dr
                         do ane schickt fir ne remplaciere.
 
         
-",lustig-zwei-erfindunge,67,11,0.14136363636363639,0.16417910447761194
+",28,lustig-zwei-erfindunge,67,11,0.14136363636363639,0.16417910447761194
 29,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -463,7 +463,7 @@ Eh bien... ich ha nit dergege... das isch mir doch
                         züelose müess!
 
         
-",lustig-zwei-erfindunge,23,2,0.6328375083724708,0.08695652173913043
+",29,lustig-zwei-erfindunge,23,2,0.6328375083724708,0.08695652173913043
 30,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -481,7 +481,7 @@ Das soll Dir gar nitt eithüen si... los jetz recht... De
                         junge Mensch thàtsch hirothe...
 
         
-",lustig-zwei-erfindunge,66,14,0.12835714285714286,0.21212121212121213
+",30,lustig-zwei-erfindunge,66,14,0.12835714285714286,0.21212121212121213
 31,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -493,7 +493,7 @@ Lenele
 Niemols hiroth ich e Müsikant!
 
         
-",lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
+",31,lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
 32,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -505,7 +505,7 @@ Lenele, mach dt Stättkopf nitt un schla Dr die
                         doch allewil besser.
 
         
-",lustig-zwei-erfindunge,35,6,0.0,0.17142857142857143
+",32,lustig-zwei-erfindunge,35,6,0.0,0.17142857142857143
 33,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -515,7 +515,7 @@ Awer ich ha-n-en gern, dr Herr Zart, un dà junge Mensch
                         mit sim Basson kenn ich jo gar nitt emol!
 
         
-",lustig-zwei-erfindunge,23,4,0.22075,0.17391304347826086
+",33,lustig-zwei-erfindunge,23,4,0.22075,0.17391304347826086
 34,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -526,7 +526,7 @@ Tiens, 's isch wohr... ich ha dr Herr Fink vergesse
                         z'sage... er spielt 's Basson un dass isch d'Haüptsach.
 
         
-",lustig-zwei-erfindunge,34,4,0.0,0.11764705882352941
+",34,lustig-zwei-erfindunge,34,4,0.0,0.11764705882352941
 35,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -539,7 +539,7 @@ Grad wege dem will ich ne nitt... denn die sin noch viel
                         g'schittelter ass alle-n-andre Müsikante!
 
         
-",lustig-zwei-erfindunge,22,1,0.0,0.045454545454545456
+",35,lustig-zwei-erfindunge,22,1,0.0,0.045454545454545456
 36,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -550,7 +550,7 @@ Was, Dü witt nitt!... ich wott jetz emol sàh, ass
                         ebbes vorschribt!
 
         
-",lustig-zwei-erfindunge,25,4,0.1465,0.16
+",36,lustig-zwei-erfindunge,25,4,0.1465,0.16
 37,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -581,7 +581,7 @@ E wenig am Verstand.
           
 
         
-",lustig-zwei-erfindunge,39,6,0.06383333333333334,0.15384615384615385
+",37,lustig-zwei-erfindunge,39,6,0.06383333333333334,0.15384615384615385
 38,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -606,7 +606,7 @@ Denn g'macht isch unser Glick!
 (Mitnander)
 
         
-",lustig-zwei-erfindunge,26,5,0.1172,0.19230769230769232
+",38,lustig-zwei-erfindunge,26,5,0.1172,0.19230769230769232
 40,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
             
 Herr Sieselsaft.
@@ -628,7 +628,7 @@ Viel Geist un viel Verstand.
             
 
           
-",lustig-zwei-erfindunge,25,6,0.0,0.24
+",40,lustig-zwei-erfindunge,25,6,0.0,0.24
 41,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -638,7 +638,7 @@ Also, denk jetz dra, Lenele... gang un mach Di schön
                             fir hit z'Owe... ass De g'falle thüesch...
 
         
-",lustig-zwei-erfindunge,20,4,0.13875,0.2
+",41,lustig-zwei-erfindunge,20,4,0.13875,0.2
 42,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -648,7 +648,7 @@ Im Gegetheil!... ich ha grad im Sinn, d'Hoor lo
                             abz'schnide un e Pflàsterle uf d'Nase z'pàppe.
 
         
-",lustig-zwei-erfindunge,20,4,0.17575,0.2
+",42,lustig-zwei-erfindunge,20,4,0.17575,0.2
 43,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -658,7 +658,7 @@ Hein... was verzählsch do? .. los Kind... mach mi
                             nitt bös... De kennsch mi!
 
         
-",lustig-zwei-erfindunge,15,4,0.29475,0.26666666666666666
+",43,lustig-zwei-erfindunge,15,4,0.29475,0.26666666666666666
 44,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -669,7 +669,7 @@ Ich ka-n-awer o gar nitt begriffe, worum as Dü-n-eso
                             nitt nur wege Dim Quartett?
 
         
-",lustig-zwei-erfindunge,27,2,0.0,0.07407407407407407
+",44,lustig-zwei-erfindunge,27,2,0.0,0.07407407407407407
 45,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -686,7 +686,7 @@ Eh bien nei!... los Kind... Dü weisch nitt, was ich
                             alle-n-Instrumente spiele ka!...
 
         
-",lustig-zwei-erfindunge,79,14,0.1701196440532101,0.17721518987341772
+",45,lustig-zwei-erfindunge,79,14,0.1701196440532101,0.17721518987341772
 46,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -698,7 +698,7 @@ Lenele
 Eb i's weiss!...
 
         
-",lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
+",46,lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
 47,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -707,7 +707,7 @@ Herr Sieselsaft.
 Excepté 's Basson.
 
         
-",lustig-zwei-erfindunge,5,1,0.0,0.2
+",47,lustig-zwei-erfindunge,5,1,0.0,0.2
 48,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -716,7 +716,7 @@ Lenele.
 Witt ebbe das o noch lehre?
 
         
-",lustig-zwei-erfindunge,7,1,0.0,0.14285714285714285
+",48,lustig-zwei-erfindunge,7,1,0.0,0.14285714285714285
 49,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -728,7 +728,7 @@ Eh nei... grad wege dem will ich mir dà junge Mensch
                             üsz'fiehre...
 
         
-",lustig-zwei-erfindunge,34,7,0.24323928810642023,0.20588235294117646
+",49,lustig-zwei-erfindunge,34,7,0.24323928810642023,0.20588235294117646
 50,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -737,7 +737,7 @@ Lenele.
 Was fir e Plan denn?
 
         
-",lustig-zwei-erfindunge,6,2,0.285,0.3333333333333333
+",50,lustig-zwei-erfindunge,6,2,0.285,0.3333333333333333
 51,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -750,7 +750,7 @@ Nu, so los denn... ich will Dr mi G'heimniss
 (er lüegt, eb Nieme-n-unterwegs isch)
 
         
-",lustig-zwei-erfindunge,21,3,0.21866666666666668,0.14285714285714285
+",51,lustig-zwei-erfindunge,21,3,0.21866666666666668,0.14285714285714285
 52,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -761,7 +761,7 @@ Mit dr Müsik!...
 ich ha mr's denkt, ass wieder eso ebbes üsekunnt!
 
         
-",lustig-zwei-erfindunge,18,2,0.0,0.1111111111111111
+",52,lustig-zwei-erfindunge,18,2,0.0,0.1111111111111111
 53,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -772,7 +772,7 @@ Mit dr Müsik, jà... 's kunnt alles nur druf a, nodem
                             spielt un wie me spielt.
 
         
-",lustig-zwei-erfindunge,30,2,0.0,0.06666666666666667
+",53,lustig-zwei-erfindunge,30,2,0.0,0.06666666666666667
 54,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -786,7 +786,7 @@ Krank ka me-n-eim mache, jo, mit dr Müsik, awer nitt
                             Hals g'ha!
 
         
-",lustig-zwei-erfindunge,50,7,0.2042392881064202,0.14
+",54,lustig-zwei-erfindunge,50,7,0.2042392881064202,0.14
 55,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -810,7 +810,7 @@ He, he... das isch's jo grad, was ich Dir will mache
           
 
         
-",lustig-zwei-erfindunge,110,5,0.0,0.045454545454545456
+",55,lustig-zwei-erfindunge,110,5,0.0,0.045454545454545456
 56,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -819,7 +819,7 @@ Lenele.
 Das isch e wenig stark!
 
         
-",lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
+",56,lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
 57,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -842,7 +842,7 @@ Eso hat e jeder Instrument sine-n-Eigeschafte un si
                             g'lüegt...
 
         
-",lustig-zwei-erfindunge,136,20,0.14098375083724707,0.14705882352941177
+",57,lustig-zwei-erfindunge,136,20,0.14098375083724707,0.14705882352941177
 58,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -852,7 +852,7 @@ Parbleu, er wird si Stock g'süecht ha, fir ass er
                             sich ka-n-üs em Staüb mache!
 
         
-",lustig-zwei-erfindunge,18,2,0.0,0.1111111111111111
+",58,lustig-zwei-erfindunge,18,2,0.0,0.1111111111111111
 59,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -864,7 +864,7 @@ Un uf eimol, hasch mi g'sàh, isch er uf un dervo,
                             springe brocht hätt!
 
         
-",lustig-zwei-erfindunge,37,7,0.0,0.1891891891891892
+",59,lustig-zwei-erfindunge,37,7,0.0,0.1891891891891892
 60,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -907,7 +907,7 @@ Spielt me-n-em Klavier.
           
 
         
-",lustig-zwei-erfindunge,53,10,0.11879999999999999,0.18867924528301888
+",60,lustig-zwei-erfindunge,53,10,0.11879999999999999,0.18867924528301888
 61,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 (Mitnander)
@@ -927,7 +927,7 @@ Dur d'Müsik ka
 Jeder d'Gsundheit ha.
 
         
-",lustig-zwei-erfindunge,25,5,0.0,0.2
+",61,lustig-zwei-erfindunge,25,5,0.0,0.2
 62,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 (Mitnander)
@@ -947,7 +947,7 @@ Dur d'Müsik ka
 Jeder d'Gsundheit ha.
 
         
-",lustig-zwei-erfindunge,25,5,0.0,0.2
+",62,lustig-zwei-erfindunge,25,5,0.0,0.2
 63,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -961,7 +961,7 @@ De siehsch also, Kind, ass ich alle-n-Instrumente
                             nitt meh gege die Hiroth wirsch iz'wende ha.
 
         
-",lustig-zwei-erfindunge,55,9,0.131,0.16363636363636364
+",63,lustig-zwei-erfindunge,55,9,0.131,0.16363636363636364
 64,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -970,7 +970,7 @@ Lenele.
 Awer Vater...
 
         
-",lustig-zwei-erfindunge,3,1,0.0,0.3333333333333333
+",64,lustig-zwei-erfindunge,3,1,0.0,0.3333333333333333
 65,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -982,7 +982,7 @@ Kei Wort meh... 's isch e-n-abg'machte Sach'... ich
 (er verschwindet links)
 
         
-",lustig-zwei-erfindunge,36,5,0.09839999999999997,0.1388888888888889
+",65,lustig-zwei-erfindunge,36,5,0.09839999999999997,0.1388888888888889
 67,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1012,7 +1012,7 @@ s Basson spiel, will sie d'Müsikante
                             's kunnt ebber...
 
         
-",lustig-zwei-erfindunge,174,27,0.1683703703703704,0.15517241379310345
+",67,lustig-zwei-erfindunge,174,27,0.1683703703703704,0.15517241379310345
 68,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1026,7 +1026,7 @@ Was! Sie do in unsrem Hüs, Herr Zart?
 züem Glick ha-n-i kei Pflàsterle uf d'Nase g'macht!
 
         
-",lustig-zwei-erfindunge,29,7,0.0,0.2413793103448276
+",68,lustig-zwei-erfindunge,29,7,0.0,0.2413793103448276
 69,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1036,7 +1036,7 @@ Oh Jumpfer Sieselsaft ! ich ha nimmig länger känne
                             lewe, ohne Sie z'sàh...
 
         
-",lustig-zwei-erfindunge,15,5,0.0922,0.3333333333333333
+",69,lustig-zwei-erfindunge,15,5,0.0922,0.3333333333333333
 70,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1049,7 +1049,7 @@ Wenn Sie mi Vater thàt atreffe do!... Oh, ich bi
 hi... hi... hi... grad thüet er ne jetz erwarte!
 
         
-",lustig-zwei-erfindunge,43,8,0.15117855543318126,0.18604651162790697
+",70,lustig-zwei-erfindunge,43,8,0.15117855543318126,0.18604651162790697
 71,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1105,7 +1105,7 @@ Wo-n-i gang un wo-n-i stand.
           
 
         
-",lustig-zwei-erfindunge,92,16,0.27907322996883366,0.17391304347826086
+",71,lustig-zwei-erfindunge,92,16,0.27907322996883366,0.17391304347826086
 72,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1116,7 +1116,7 @@ Sie brüche kei Angst z'ha, Herr Zart... Ich schwör
                             b'sunders kei Basson!
 
         
-",lustig-zwei-erfindunge,23,3,0.17700000000000002,0.13043478260869565
+",72,lustig-zwei-erfindunge,23,3,0.17700000000000002,0.13043478260869565
 73,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1132,7 +1132,7 @@ Do hà mr's!... ich weiss sicher nitt, was ich soll
 (me hört ebber ku)
 
         
-",lustig-zwei-erfindunge,24,6,0.1055,0.25
+",73,lustig-zwei-erfindunge,24,6,0.1055,0.25
 74,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1142,7 +1142,7 @@ Herr je, mi Vater!... mache Sie sich dervo, Herr
                             Zart... ich wott nitt, ass er Sie thàt sàh do!
 
         
-",lustig-zwei-erfindunge,20,4,0.0,0.2
+",74,lustig-zwei-erfindunge,20,4,0.0,0.2
 75,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1153,7 +1153,7 @@ Z'spot... do isch er!
                             unter'm Arm)
 
         
-",lustig-zwei-erfindunge,21,7,0.05512018740672971,0.3333333333333333
+",75,lustig-zwei-erfindunge,21,7,0.05512018740672971,0.3333333333333333
 76,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1166,7 +1166,7 @@ Züem Glick, ass er dr Herr Zart nitt persönlig
                             kennt!
 
         
-",lustig-zwei-erfindunge,15,4,0.0,0.26666666666666666
+",76,lustig-zwei-erfindunge,15,4,0.0,0.26666666666666666
 77,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1179,7 +1179,7 @@ Bisch denn noch allewil do, Lenele? hasch Di no nitt
           
 
         
-",lustig-zwei-erfindunge,23,3,0.18233333333333335,0.13043478260869565
+",77,lustig-zwei-erfindunge,23,3,0.18233333333333335,0.13043478260869565
 78,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1193,7 +1193,7 @@ Bscht!... lehn Se mich mache
 Dà Herr kunnt...
 
         
-",lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
+",78,lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
 79,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1206,7 +1206,7 @@ Aha... 's isch g'wiss dà Herr, wo kunnt ku 's Basson
                             spiele?...
 
         
-",lustig-zwei-erfindunge,17,4,0.30074999999999996,0.23529411764705882
+",79,lustig-zwei-erfindunge,17,4,0.30074999999999996,0.23529411764705882
 80,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1220,7 +1220,7 @@ Er hätt's nitt besser kanne rothe!
 thàt Se nur jo sage, 's isch 's beste, was mr mache känne!
 
         
-",lustig-zwei-erfindunge,31,4,0.0,0.12903225806451613
+",80,lustig-zwei-erfindunge,31,4,0.0,0.12903225806451613
 81,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1233,7 +1233,7 @@ Tiens... das isch e güeter Idee... awer wenn jetz
                             nur dr Ander nitt grad kunnt!
 
         
-",lustig-zwei-erfindunge,20,3,0.0,0.15
+",81,lustig-zwei-erfindunge,20,3,0.0,0.15
 82,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1248,7 +1248,7 @@ Willkumme, willkumme!... also wànn Se-n-is denn
                             Müsikante werde jetz bol arucke.
 
         
-",lustig-zwei-erfindunge,43,8,0.14750000000000002,0.18604651162790697
+",82,lustig-zwei-erfindunge,43,8,0.14750000000000002,0.18604651162790697
 83,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1257,7 +1257,7 @@ Herr Zart.
 Ich dank Ene, Herr Dokter... awer ich bi...
 
         
-",lustig-zwei-erfindunge,10,5,0.0,0.5
+",83,lustig-zwei-erfindunge,10,5,0.0,0.5
 84,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1270,7 +1270,7 @@ Lenele, bisch ordlig mit em... das git Di Mann un kei Anderer!
 (er blättert in sinre Müsik).
 
         
-",lustig-zwei-erfindunge,40,7,0.08371428571428571,0.175
+",84,lustig-zwei-erfindunge,40,7,0.08371428571428571,0.175
 85,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1286,7 +1286,7 @@ Das isch mr scho recht... ich verlang jo nitt
 wenn nur dr Ander jetz nitt grad aruckt!
 
         
-",lustig-zwei-erfindunge,39,7,0.0910853839522073,0.1794871794871795
+",85,lustig-zwei-erfindunge,39,7,0.0910853839522073,0.1794871794871795
 86,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1298,7 +1298,7 @@ Herr Zart
 's isch kei G'fohr!
 
         
-",lustig-zwei-erfindunge,9,2,0.0,0.2222222222222222
+",86,lustig-zwei-erfindunge,9,2,0.0,0.2222222222222222
 87,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1310,7 +1310,7 @@ Voyons... gàn enander d'Hand un mache Bekanntschaft
 so... un jetz Lenele kännsch doch g'schwind iwere geh un d'Basson-Parthie hole... ich ha se vergesse, se ligt uf mim Tisch...
 
         
-",lustig-zwei-erfindunge,40,4,0.0,0.1
+",87,lustig-zwei-erfindunge,40,4,0.0,0.1
 88,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1320,7 +1320,7 @@ Jo Vater
 (se geht üse links)
 
         
-",lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
+",88,lustig-zwei-erfindunge,9,1,0.0,0.1111111111111111
 89,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1334,7 +1334,7 @@ Was sage Sie züe miner Tochter, Herr... verzeihe Se,
                             Fink vergesse z'froge.
 
         
-",lustig-zwei-erfindunge,34,10,0.0,0.29411764705882354
+",89,lustig-zwei-erfindunge,34,10,0.0,0.29411764705882354
 90,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1344,7 +1344,7 @@ Ihre Tochter?... die isch g'wiss charmant un ich
                             spir, ass ich scho ganz verliebt bi in se!...
 
         
-",lustig-zwei-erfindunge,19,6,0.18100000000000002,0.3157894736842105
+",90,lustig-zwei-erfindunge,19,6,0.18100000000000002,0.3157894736842105
 91,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1360,7 +1360,7 @@ tant mieux... desto besser... wenn sie Ihne g'fallt, so ha-n-ich nit dergege.
  Wisse Sie, ass ich jetz blange thüe uf unsre Müsikante, fir az'fange, ass ich Se-n-emol hör spiele!
 
         
-",lustig-zwei-erfindunge,58,8,0.07125,0.13793103448275862
+",91,lustig-zwei-erfindunge,58,8,0.07125,0.13793103448275862
 92,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1379,7 +1379,7 @@ Lose Se, Herr Sieselsaft, kännte Se nitt noch e paar Wuche ohne mich spiele... 
  un ich mein, ass es vom Blose kunnt...
 
         
-",lustig-zwei-erfindunge,63,13,0.04384615384615384,0.20634920634920634
+",92,lustig-zwei-erfindunge,63,13,0.04384615384615384,0.20634920634920634
 93,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1396,7 +1396,7 @@ wenn's nur wege-n-em Herzklopfe-n-isch, broche Sie kei Angst z'ha... ich gib Ene
           
 
         
-",lustig-zwei-erfindunge,52,7,0.15728571428571428,0.1346153846153846
+",93,lustig-zwei-erfindunge,52,7,0.15728571428571428,0.1346153846153846
 94,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1407,7 +1407,7 @@ Wie Sie meine...
 décidément, bim Vater packt's nitt... ich will's bim Lenele prawiere.
 
         
-",lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
+",94,lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
 95,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1420,7 +1420,7 @@ Do Vater, isch die Parthie... un derno, 's isch
                             ebber in Dim Zimmer, wo Dich consultiere will.
 
         
-",lustig-zwei-erfindunge,22,1,0.0,0.045454545454545456
+",95,lustig-zwei-erfindunge,22,1,0.0,0.045454545454545456
 96,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1434,7 +1434,7 @@ unterhalt siter Di Züekünftiger
 (er geht üse links).
 
         
-",lustig-zwei-erfindunge,30,6,0.0,0.2
+",96,lustig-zwei-erfindunge,30,6,0.0,0.2
 97,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1446,7 +1446,7 @@ G'schwind jetz, Herr Zart... mache Sie sich fremd...
                             Basson kàm!... do wàre mir in ere schöne Falle!...
 
         
-",lustig-zwei-erfindunge,38,6,0.1875,0.15789473684210525
+",97,lustig-zwei-erfindunge,38,6,0.1875,0.15789473684210525
 98,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -1460,7 +1460,7 @@ Oh, Jumpfer Sieselsaft, nur noch e-n-Aügesblick!...
                             g'ha...
 
         
-",lustig-zwei-erfindunge,45,7,0.07028571428571427,0.15555555555555556
+",98,lustig-zwei-erfindunge,45,7,0.07028571428571427,0.15555555555555556
 99,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1472,7 +1472,7 @@ Lenele
 Was, Sie!...
 
         
-",lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
+",99,lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
 100,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1486,7 +1486,7 @@ Diable, diable... do packt's o nitt...
 das heisst, ich ha welle afange...
 
         
-",lustig-zwei-erfindunge,22,5,0.0,0.22727272727272727
+",100,lustig-zwei-erfindunge,22,5,0.0,0.22727272727272727
 101,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1499,7 +1499,7 @@ Ah so!... uf die Art verstand i's... ich hätt Sie jo
                             Herr Fink isch o narràchtig worde dra.
 
         
-",lustig-zwei-erfindunge,37,4,0.0,0.10810810810810811
+",101,lustig-zwei-erfindunge,37,4,0.0,0.10810810810810811
 102,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1512,7 +1512,7 @@ Décidément, 's isch Eins eso stättig as wie's
                             Andere...
 
         
-",lustig-zwei-erfindunge,16,3,0.0,0.1875
+",102,lustig-zwei-erfindunge,16,3,0.0,0.1875
 103,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -1522,7 +1522,7 @@ Gehn Se jetz, ich bitt Se drum... das Ding wird sich
                             scho mache... mr schriwe-n-enander!
 
         
-",lustig-zwei-erfindunge,18,1,0.0,0.05555555555555555
+",103,lustig-zwei-erfindunge,18,1,0.0,0.05555555555555555
 104,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1536,7 +1536,7 @@ Jetz kämme jo die Herre Müsikante... ich ha scho
 (er git sich mit dr Müsik z'schaffe)
 
         
-",lustig-zwei-erfindunge,30,4,0.164,0.13333333333333333
+",104,lustig-zwei-erfindunge,30,4,0.164,0.13333333333333333
 105,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -1554,7 +1554,7 @@ Jetz steh mr schön!... awer Sie brüche kei Angst
                                 Ring, wo derzüe g'höre)
 
         
-",lustig-zwei-erfindunge,68,9,0.18400000000000002,0.1323529411764706
+",105,lustig-zwei-erfindunge,68,9,0.18400000000000002,0.1323529411764706
 106,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1565,7 +1565,7 @@ Aha do isch emol unser Horn... dr Herr Düwack wie
                             Fraü?...
 
         
-",lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
+",106,lustig-zwei-erfindunge,21,5,0.0,0.23809523809523808
 107,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack
@@ -1580,7 +1580,7 @@ Merci... merci.... 's geht güet... mi Fraü hat noch
           
 
         
-",lustig-zwei-erfindunge,29,4,0.1035,0.13793103448275862
+",107,lustig-zwei-erfindunge,29,4,0.1035,0.13793103448275862
 108,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1596,7 +1596,7 @@ Das isch e Blechschmidt, dà Mann, awer kei
 (dr Herr Pfaffekàpple kunnt ine)
 
         
-",lustig-zwei-erfindunge,22,5,0.0,0.22727272727272727
+",108,lustig-zwei-erfindunge,22,5,0.0,0.22727272727272727
 109,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1608,7 +1608,7 @@ Aha... güete-n-Owe, Herr Pfaffekàpple... jetz fehlt
                             mr e wenig bleich z'si...
 
         
-",lustig-zwei-erfindunge,33,8,0.0,0.24242424242424243
+",109,lustig-zwei-erfindunge,33,8,0.0,0.24242424242424243
 110,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -1618,7 +1618,7 @@ Herr Pfaffekàpple.
                             e wenig z'weg nàmme...
 
         
-",lustig-zwei-erfindunge,18,4,0.0,0.2222222222222222
+",110,lustig-zwei-erfindunge,18,4,0.0,0.2222222222222222
 111,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1627,7 +1627,7 @@ Herr Sieselsaft.
 Warte Se... ich will Ene ebbes gà derfir!
 
         
-",lustig-zwei-erfindunge,10,3,0.37447614782181676,0.3
+",111,lustig-zwei-erfindunge,10,3,0.37447614782181676,0.3
 112,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -1637,7 +1637,7 @@ Nei, nei... merci, Herr Dokter... ich ka mir selbst
                             e wenig Bàredràckwasser verschriwe.
 
         
-",lustig-zwei-erfindunge,15,3,0.0,0.2
+",112,lustig-zwei-erfindunge,15,3,0.0,0.2
 113,comedy,Herr BIF,M,,,,"
           
 Herr Bif
@@ -1651,7 +1651,7 @@ Tiens, ich bi schint's' der Letscht hit!... ich ha
                             Linsepflaster uflege...
 
         
-",lustig-zwei-erfindunge,28,1,0.0,0.03571428571428571
+",113,lustig-zwei-erfindunge,28,1,0.0,0.03571428571428571
 114,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack.
@@ -1660,7 +1660,7 @@ Herr Düwack.
 Wohi?... uf d'Zunge, Herr Bif?...
 
         
-",lustig-zwei-erfindunge,8,3,0.0,0.375
+",114,lustig-zwei-erfindunge,8,3,0.0,0.375
 115,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1672,7 +1672,7 @@ Allons, allons, Herr Bif... mr hàn nur noch uf Sie
 Dà junge Mensch kunnt ku 's Basson spiele am Herr Fink si Platz, wo durchüs nach Amerika will geh.
 
         
-",lustig-zwei-erfindunge,40,10,0.17029999999999998,0.25
+",115,lustig-zwei-erfindunge,40,10,0.17029999999999998,0.25
 117,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1689,7 +1689,7 @@ kanntschaft mache mit dàne Herre.
 Jetz isch er erst verwitscht!
 
         
-",lustig-zwei-erfindunge,40,8,0.0,0.2
+",117,lustig-zwei-erfindunge,40,8,0.0,0.2
 118,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1700,7 +1700,7 @@ Oh! dem isch licht abz'helfe... im Herr Fink si's
 (er geht üse links)
 
         
-",lustig-zwei-erfindunge,27,3,0.0,0.1111111111111111
+",118,lustig-zwei-erfindunge,27,3,0.0,0.1111111111111111
 119,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1713,7 +1713,7 @@ Jetz stand i schön... das isch mi letscht
                             Rettungsmittel gsi...
 
         
-",lustig-zwei-erfindunge,16,4,0.13875,0.25
+",119,lustig-zwei-erfindunge,16,4,0.13875,0.25
 120,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack.
@@ -1722,7 +1722,7 @@ Herr Düwack.
 So, so... dr Herr Fink will jetz nach Amerika...
 
         
-",lustig-zwei-erfindunge,11,2,0.0,0.18181818181818182
+",120,lustig-zwei-erfindunge,11,2,0.0,0.18181818181818182
 121,comedy,Herr BIF,M,,,,"
           
 Herr Bif.
@@ -1731,7 +1731,7 @@ Herr Bif.
 Hm... 's isch kei grosser Verlust um ne...
 
         
-",lustig-zwei-erfindunge,10,2,0.0,0.2
+",121,lustig-zwei-erfindunge,10,2,0.0,0.2
 122,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -1741,7 +1741,7 @@ Nei, nei... denn siter ebbes Zit isch er jo ganz
                             hintersinnt, dà Mann!
 
         
-",lustig-zwei-erfindunge,15,4,0.129,0.26666666666666666
+",122,lustig-zwei-erfindunge,15,4,0.129,0.26666666666666666
 123,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1776,7 +1776,7 @@ Thüe-n-ich längst scho blange.
           
 
         
-",lustig-zwei-erfindunge,57,9,0.08855555555555555,0.15789473684210525
+",123,lustig-zwei-erfindunge,57,9,0.08855555555555555,0.15789473684210525
 124,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Mitnander
@@ -1801,7 +1801,7 @@ Ass mir glich afange.
           
 
         
-",lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
+",124,lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
 125,comedy,Herr BIF,M,,,,"
           
 Mitnander
@@ -1826,7 +1826,7 @@ Ass mir glich afange.
           
 
         
-",lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
+",125,lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
 126,comedy,Herr DÜWACK,M,,,,"
           
 Mitnander
@@ -1851,7 +1851,7 @@ Ass mir glich afange.
           
 
         
-",lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
+",126,lustig-zwei-erfindunge,35,5,0.0,0.14285714285714285
 127,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -1867,7 +1867,7 @@ Also denn, wenn Se wànn Platz nàh, so wà mr's jetz
           
 
         
-",lustig-zwei-erfindunge,31,1,0.0,0.03225806451612903
+",127,lustig-zwei-erfindunge,31,1,0.0,0.03225806451612903
 128,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack
@@ -1881,7 +1881,7 @@ Nur noch e-n-Aügesblick... Herr Sieselsaft... 's sin
                             nitt eins oder zwei eweglo viellicht?
 
         
-",lustig-zwei-erfindunge,32,3,0.0,0.09375
+",128,lustig-zwei-erfindunge,32,3,0.0,0.09375
 129,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1891,7 +1891,7 @@ Eh jo!... worum nitt glich alle-n-eweglo! Das wott
                             mr schöne Müsik gà!
 
         
-",lustig-zwei-erfindunge,16,5,0.3203350033489883,0.3125
+",129,lustig-zwei-erfindunge,16,5,0.3203350033489883,0.3125
 130,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -1902,7 +1902,7 @@ A propos vo Schlissel... wisse Sie, Herr Düwack,
                             liebschte-n-isch?
 
         
-",lustig-zwei-erfindunge,21,3,0.17700000000000002,0.14285714285714285
+",130,lustig-zwei-erfindunge,21,3,0.17700000000000002,0.14285714285714285
 131,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack.
@@ -1912,7 +1912,7 @@ Ich denk dr sol-Schlissel... b'sunders wenn nitt
                             viel bémols dra sin!
 
         
-",lustig-zwei-erfindunge,13,1,0.0,0.07692307692307693
+",131,lustig-zwei-erfindunge,13,1,0.0,0.07692307692307693
 132,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -1922,7 +1922,7 @@ Sie hàn's nitt errothe... 's isch dr
                             Kellerschlissel!
 
         
-",lustig-zwei-erfindunge,11,1,0.0,0.09090909090909091
+",132,lustig-zwei-erfindunge,11,1,0.0,0.09090909090909091
 133,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1932,7 +1932,7 @@ Voyons... kanne mr jetz eigentlig emol afange...
                             allons... Achtung... eins... zwei...
 
         
-",lustig-zwei-erfindunge,13,3,0.0,0.23076923076923078
+",133,lustig-zwei-erfindunge,13,3,0.0,0.23076923076923078
 134,comedy,Herr BIF,M,,,,"
           
 Herr Bif.
@@ -1942,7 +1942,7 @@ Pardon, Herr Sieselsaft... das Stick isch jo in vier
                             Takt...
 
         
-",lustig-zwei-erfindunge,12,2,0.0,0.16666666666666666
+",134,lustig-zwei-erfindunge,12,2,0.0,0.16666666666666666
 135,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1952,7 +1952,7 @@ Eh, so lehn Se mi doch nur üszähle... dr dritte-n-un
                             dr vier te wird scho ku...
 
         
-",lustig-zwei-erfindunge,20,3,0.42189167224831386,0.15
+",135,lustig-zwei-erfindunge,20,3,0.42189167224831386,0.15
 136,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -1964,7 +1964,7 @@ Herr Zart
 Wenn's eso furt geht, bin i g'rettet!
 
         
-",lustig-zwei-erfindunge,14,3,0.0,0.21428571428571427
+",136,lustig-zwei-erfindunge,14,3,0.0,0.21428571428571427
 137,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -1974,7 +1974,7 @@ Allons Achtung jetz... Sie fange-n-a, Herr Bif...
                             eins, zwei, drei, vier...
 
         
-",lustig-zwei-erfindunge,15,4,0.0,0.26666666666666666
+",137,lustig-zwei-erfindunge,15,4,0.0,0.26666666666666666
 138,comedy,Herr BIF,M,,,,"
           
 Herr Bif.
@@ -1988,7 +1988,7 @@ un 's nimmt mi o gar nitt Wunder
  So... jetz wird's wohrschinlig besser geh... ich ha's ewe-n-in dr Kuche hànke dur d'Wuche dure un do wird's d'Mag d halt brücht ha fir ihre Sache dri z'thüe.
 
         
-",lustig-zwei-erfindunge,88,5,0.0,0.056818181818181816
+",138,lustig-zwei-erfindunge,88,5,0.0,0.056818181818181816
 139,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2000,7 +2000,7 @@ Herr Sieselsaft.
 (d'Thüre hinte geht uf un 's Lenele kunnt ine)
 
         
-",lustig-zwei-erfindunge,35,4,0.0,0.11428571428571428
+",139,lustig-zwei-erfindunge,35,4,0.0,0.11428571428571428
 140,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -2012,7 +2012,7 @@ Dr Herr Bif soll so güet si un glich heim geh...
                             meh, wenn se-n-ebbes frogt.
 
         
-",lustig-zwei-erfindunge,37,5,0.1266,0.13513513513513514
+",140,lustig-zwei-erfindunge,37,5,0.1266,0.13513513513513514
 141,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2022,7 +2022,7 @@ Das isch awer jetz schad!... wer will derno die
                             Parthie mache!
 
         
-",lustig-zwei-erfindunge,13,2,0.0,0.15384615384615385
+",141,lustig-zwei-erfindunge,13,2,0.0,0.15384615384615385
 142,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -2034,7 +2034,7 @@ Lenele
 's isch glaüb Zit gsi, ass ich mich dri meliert ha
 
         
-",lustig-zwei-erfindunge,18,4,0.23618352539846305,0.2222222222222222
+",142,lustig-zwei-erfindunge,18,4,0.23618352539846305,0.2222222222222222
 143,comedy,Herr BIF,M,,,,"
           
 Herr Bif
@@ -2050,7 +2050,7 @@ ne
                             licht z'mache un siter bin ich wieder do.
 
         
-",lustig-zwei-erfindunge,43,9,0.05555555555555555,0.20930232558139536
+",143,lustig-zwei-erfindunge,43,9,0.05555555555555555,0.20930232558139536
 144,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2061,7 +2061,7 @@ Zeig, Lenele... prawier's... De machsch mr e
                             Schlissel müesch züehewe.
 
         
-",lustig-zwei-erfindunge,23,5,0.1046,0.21739130434782608
+",144,lustig-zwei-erfindunge,23,5,0.1046,0.21739130434782608
 145,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -2075,7 +2075,7 @@ Ich soll...
 ich kannt eigentlig dr gliche thüe un das Ding in d'Lange zieh... 's isch wieder eso viel Zit g'wunne.
 
         
-",lustig-zwei-erfindunge,30,4,0.129,0.13333333333333333
+",145,lustig-zwei-erfindunge,30,4,0.129,0.13333333333333333
 146,comedy,Herr BIF,M,,,,"
           
 Herr Bif
@@ -2090,7 +2090,7 @@ Do, schaüt Se... dà Schlissel hebt Se züe un d'andre
 (er geht hinte-n-üse)
 
         
-",lustig-zwei-erfindunge,40,2,0.0,0.05
+",146,lustig-zwei-erfindunge,40,2,0.0,0.05
 147,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2100,7 +2100,7 @@ Ich weiss nitt, eb das wird geh... enfin, mr wànn's
                             prawiere... Achtung...
 
         
-",lustig-zwei-erfindunge,15,2,0.0,0.13333333333333333
+",147,lustig-zwei-erfindunge,15,2,0.0,0.13333333333333333
 148,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -2114,7 +2114,7 @@ Jà... wo blost me eigentlig ine... unte-n-oder
                             müess züehewe!...
 
         
-",lustig-zwei-erfindunge,28,4,0.0,0.14285714285714285
+",148,lustig-zwei-erfindunge,28,4,0.0,0.14285714285714285
 149,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -2128,7 +2128,7 @@ Lose Se, Herr Dokter... mr wànn's glaüb liewer geh
                             wenn Ihre Tochter bi mir sitzt!
 
         
-",lustig-zwei-erfindunge,34,11,0.15653688919047182,0.3235294117647059
+",149,lustig-zwei-erfindunge,34,11,0.15653688919047182,0.3235294117647059
 150,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2138,7 +2138,7 @@ Eh bien, se soll se nàwe dr Herr Pfaffekàpple
                             sitze...
 
         
-",lustig-zwei-erfindunge,12,3,0.21089167224831384,0.25
+",150,lustig-zwei-erfindunge,12,3,0.21089167224831384,0.25
 151,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -2148,7 +2148,7 @@ Jà lose Se... ich garantier nitt derfir, ass es mr
                             besser geht as in dem Herr!
 
         
-",lustig-zwei-erfindunge,18,3,0.0,0.16666666666666666
+",151,lustig-zwei-erfindunge,18,3,0.0,0.16666666666666666
 152,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -2181,7 +2181,7 @@ Un d'Note sin verkehrt!
           
 
         
-",lustig-zwei-erfindunge,35,7,0.054714285714285715,0.2
+",152,lustig-zwei-erfindunge,35,7,0.054714285714285715,0.2
 153,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -2203,7 +2203,7 @@ Un sàch nimm uf mi Blatt!
           
 
         
-",lustig-zwei-erfindunge,25,3,0.0,0.12
+",153,lustig-zwei-erfindunge,25,3,0.0,0.12
 154,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2225,7 +2225,7 @@ Denn's git kei Müsik hit!
           
 
         
-",lustig-zwei-erfindunge,25,5,0.1266,0.2
+",154,lustig-zwei-erfindunge,25,5,0.1266,0.2
 155,comedy,Herr FINK,M,,,,"
           
 Herr Fink
@@ -2239,7 +2239,7 @@ He... mine güete Frind!... endlig... endlig ha-n-i's
                             jetz emol g'funde!
 
         
-",lustig-zwei-erfindunge,28,5,0.1266,0.17857142857142858
+",155,lustig-zwei-erfindunge,28,5,0.1266,0.17857142857142858
 156,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -2251,7 +2251,7 @@ Lenele
 Was hat er g'funde!... 's Narrehüs wohrschinlig!
 
         
-",lustig-zwei-erfindunge,12,1,0.0,0.08333333333333333
+",156,lustig-zwei-erfindunge,12,1,0.0,0.08333333333333333
 158,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2263,7 +2263,7 @@ Herr Fink.
           
 
         
-",lustig-zwei-erfindunge,15,2,0.0,0.13333333333333333
+",158,lustig-zwei-erfindunge,15,2,0.0,0.13333333333333333
 159,comedy,alle,B,,,,"
           
 Alle
@@ -2276,7 +2276,7 @@ Was denn fir e-n-Erfindung?
 (se stelle d'Püpitre uf d'Site)
 
         
-",lustig-zwei-erfindunge,19,4,0.1465,0.21052631578947367
+",159,lustig-zwei-erfindunge,19,4,0.1465,0.21052631578947367
 160,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2288,7 +2288,7 @@ Was fir e-n-Erfindung?... d'Farwe, d'natürelle Farwe
                             Tag un Nacht kei Rüeh g'lo hat!
 
         
-",lustig-zwei-erfindunge,39,4,0.0,0.10256410256410256
+",160,lustig-zwei-erfindunge,39,4,0.0,0.10256410256410256
 161,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2300,7 +2300,7 @@ Hein, ich ha-n-allewil g'sàit, dr Herr Fink süecht
  ich gratulier Ene!... un mit was bringe Sie das Ding ane?
 
         
-",lustig-zwei-erfindunge,38,4,0.0,0.10526315789473684
+",161,lustig-zwei-erfindunge,38,4,0.0,0.10526315789473684
 162,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2314,7 +2314,7 @@ das ka nitt fehle... ich will jetz glich in alle d'Prob' gà dervo!
  do sàhn Se jetz, isch e g'wöhnlige Photographie, un wenn ich se-n-awer mit minre Mixtür do astrich, so kämme d'natürelle Farwe-n-üse, wie d'Person gsi isch, wo se posiert hat!
 
         
-",lustig-zwei-erfindunge,96,9,0.046,0.09375
+",162,lustig-zwei-erfindunge,96,9,0.046,0.09375
 163,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack.
@@ -2324,7 +2324,7 @@ Jà... hàn Sie das Ding scho-n-emol prawiert, Herr
                             Fink?
 
         
-",lustig-zwei-erfindunge,13,2,0.0,0.15384615384615385
+",163,lustig-zwei-erfindunge,13,2,0.0,0.15384615384615385
 164,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2333,7 +2333,7 @@ Herr Fink.
 Nei, no nitt... awer...
 
         
-",lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
+",164,lustig-zwei-erfindunge,6,1,0.0,0.16666666666666666
 165,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack
@@ -2346,7 +2346,7 @@ Jà, derno, Herr Fink, geh mr nitt dra . . . das
                             packt nitt...
 
         
-",lustig-zwei-erfindunge,16,3,0.0,0.1875
+",165,lustig-zwei-erfindunge,16,3,0.0,0.1875
 166,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2359,7 +2359,7 @@ d'Farwe-n-üse ku)
 's geht halt e wenig langsam, awer Sie sàhn, as se scho afange fire z'ku. Aha!... do sàhn Se jetz... isch das schön, das Bild!... hein... isch das schön!
 
         
-",lustig-zwei-erfindunge,60,10,0.23760000000000003,0.16666666666666666
+",166,lustig-zwei-erfindunge,60,10,0.23760000000000003,0.16666666666666666
 168,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -2430,7 +2430,7 @@ Jetz züem Herr Fink in d'Stadt!
           
 
         
-",lustig-zwei-erfindunge,96,12,0.14841666666666667,0.125
+",168,lustig-zwei-erfindunge,96,12,0.14841666666666667,0.125
 169,comedy,Herr FINK,M,,,,"
           
 Herr Fink
@@ -2443,7 +2443,7 @@ Nur ebbes isch no nitt ganz, wie's si sott mit dàne
                             Farwe... 's Blaü fehlt!
 
         
-",lustig-zwei-erfindunge,25,3,0.0,0.12
+",169,lustig-zwei-erfindunge,25,3,0.0,0.12
 170,comedy,Herr DÜWACK,M,,,,"
           
 Herr Düwack.
@@ -2453,7 +2453,7 @@ Das hat nit z'sage, Herr Fink... Sie känne jo d'Lit
                             selbst e wenig lo blaü alaüfe !
 
         
-",lustig-zwei-erfindunge,20,3,0.2343333333333333,0.15
+",170,lustig-zwei-erfindunge,20,3,0.2343333333333333,0.15
 171,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 Herr Pfaffekàpple.
@@ -2465,7 +2465,7 @@ Un was isch jetz mit Ihrer Reis' nach Amerika Herr
           
 
         
-",lustig-zwei-erfindunge,13,3,0.0,0.23076923076923078
+",171,lustig-zwei-erfindunge,13,3,0.0,0.23076923076923078
 172,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2476,7 +2476,7 @@ Jetz gang ich nimmig furt... ich wird jetz nur
 (se b'schaüe-n-alle 's Bild)
 
         
-",lustig-zwei-erfindunge,25,1,0.0,0.04
+",172,lustig-zwei-erfindunge,25,1,0.0,0.04
 173,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -2492,7 +2492,7 @@ Wenn dr Herr Fink do blibt, so weiss ich nitt, worum
 (er geht züe de-n-Andere)
 
         
-",lustig-zwei-erfindunge,50,7,0.12614285714285714,0.14
+",173,lustig-zwei-erfindunge,50,7,0.12614285714285714,0.14
 174,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele
@@ -2507,7 +2507,7 @@ Do isch denn dr Herr Fink nitt narràchtig? .. im
                             Vater z'G'falle.
 
         
-",lustig-zwei-erfindunge,38,10,0.06326750167449416,0.2631578947368421
+",174,lustig-zwei-erfindunge,38,10,0.06326750167449416,0.2631578947368421
 175,comedy,Herr ZART,M,,,,"
           
 Herr Zart
@@ -2521,7 +2521,7 @@ Was isch jetz, Jumpfer Sieselsaft... Sie sieht jetz,
                             z'werde.
 
         
-",lustig-zwei-erfindunge,25,6,0.09499999999999999,0.24
+",175,lustig-zwei-erfindunge,25,6,0.09499999999999999,0.24
 176,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -2532,7 +2532,7 @@ Lenele.
                             Freid z'mache...
 
         
-",lustig-zwei-erfindunge,25,5,0.0,0.2
+",176,lustig-zwei-erfindunge,25,5,0.0,0.2
 177,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -2543,7 +2543,7 @@ Eh bien, wenn's eso isch, so will ich Ihre glich
                             wo-n-Ihre Vater erwartet hat.
 
         
-",lustig-zwei-erfindunge,26,6,0.21315321470116907,0.23076923076923078
+",177,lustig-zwei-erfindunge,26,6,0.21315321470116907,0.23076923076923078
 178,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -2552,7 +2552,7 @@ Lenele.
 Was, Sie sin Müsikant un hà mir's versteckt!
 
         
-",lustig-zwei-erfindunge,10,1,0.0,0.1
+",178,lustig-zwei-erfindunge,10,1,0.0,0.1
 179,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -2565,7 +2565,7 @@ Herr Zart.
                                 unterhalte)
 
         
-",lustig-zwei-erfindunge,41,6,0.08850000000000001,0.14634146341463414
+",179,lustig-zwei-erfindunge,41,6,0.08850000000000001,0.14634146341463414
 180,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -2580,7 +2580,7 @@ Los, Kind, ich ha viellicht Unrecht g'ha, Dich welle
                             unglicklig wisse.
 
         
-",lustig-zwei-erfindunge,36,7,0.2945714285714286,0.19444444444444445
+",180,lustig-zwei-erfindunge,36,7,0.2945714285714286,0.19444444444444445
 181,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -2591,7 +2591,7 @@ Im Gegetheil, Vater... ich bitt Di um Verzeihung,
                             will vo keim andere nit wisse!
 
         
-",lustig-zwei-erfindunge,25,4,0.0,0.16
+",181,lustig-zwei-erfindunge,25,4,0.0,0.16
 182,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2604,7 +2604,7 @@ Nei, Kind, nei... Dü machsch jetz das nur üs
 a propos, Herr Fink... Sie hà mir nitt emol dr Name noch g'sàit vo-n-Ihrem Herr Kolleg!
 
         
-",lustig-zwei-erfindunge,53,11,0.08236363636363636,0.20754716981132076
+",182,lustig-zwei-erfindunge,53,11,0.08236363636363636,0.20754716981132076
 183,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2615,7 +2615,7 @@ Tiens... 's isch jo wohr
 ich ha d'Ehr, Ihne dr Herr Zart vorz'stelle!
 
         
-",lustig-zwei-erfindunge,25,8,0.068375,0.32
+",183,lustig-zwei-erfindunge,25,8,0.068375,0.32
 184,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft.
@@ -2626,7 +2626,7 @@ Dr Herr Zart!...
 un Dü hasch traüt, mir ne-n-als Müsikant do ane z'bringe!
 
         
-",lustig-zwei-erfindunge,22,3,0.0,0.13636363636363635
+",184,lustig-zwei-erfindunge,22,3,0.0,0.13636363636363635
 185,comedy,Herr FINK,M,,,,"
           
 Herr Fink.
@@ -2636,7 +2636,7 @@ Pardon... dr Herr Zart isch e güeter Müsikant,
                             sunscht hätt ich ne nitt do ane g'schickt.
 
         
-",lustig-zwei-erfindunge,18,5,0.0,0.2777777777777778
+",185,lustig-zwei-erfindunge,18,5,0.0,0.2777777777777778
 186,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -2648,7 +2648,7 @@ Herr Sieselsaft
 Ich ha g'meint, Dü witt kei Müsikant hirothe?
 
         
-",lustig-zwei-erfindunge,14,1,0.0,0.07142857142857142
+",186,lustig-zwei-erfindunge,14,1,0.0,0.07142857142857142
 187,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 Lenele.
@@ -2658,7 +2658,7 @@ Dr Herr Zart hat mir's ewe z'erst versteckt g'ha...
                             un jetz macht's mir nit meh...
 
         
-",lustig-zwei-erfindunge,19,4,0.0,0.21052631578947367
+",187,lustig-zwei-erfindunge,19,4,0.0,0.21052631578947367
 188,comedy,Herr ZART,M,,,,"
           
 Herr Zart.
@@ -2669,7 +2669,7 @@ Herr Zart.
           
 
         
-",lustig-zwei-erfindunge,10,2,0.0,0.2
+",188,lustig-zwei-erfindunge,10,2,0.0,0.2
 189,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 Herr Sieselsaft
@@ -2687,7 +2687,7 @@ Ah, wege dem bisch uf eimol eso folgsam worde, Dü
                             nitt emol derzüe ku, ebbes z'spiele hit z'Owe!
 
         
-",lustig-zwei-erfindunge,73,9,0.24179685327792644,0.1232876712328767
+",189,lustig-zwei-erfindunge,73,9,0.24179685327792644,0.1232876712328767
 190,comedy,Herr SIESELSAFT,M,doctor,professionals_scientific_technical,,"
           
 (Mitnander züem Public)
@@ -2727,7 +2727,7 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",190,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
 191,comedy,Herr ZART,M,,,,"
           
 (Mitnander züem Public)
@@ -2767,7 +2767,7 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",191,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
 192,comedy,Jumpfer SIESELSAFT,F,,,,"
           
 (Mitnander züem Public)
@@ -2807,7 +2807,7 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",192,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
 193,comedy,Herr FINK,M,,,,"
           
 (Mitnander züem Public)
@@ -2847,7 +2847,7 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",193,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
 194,comedy,Herr PFAFFEKÀPPLE,M,,,,"
           
 (Mitnander züem Public)
@@ -2887,7 +2887,7 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",194,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
 195,comedy,Herr DÜWACK,M,,,,"
           
 (Mitnander züem Public)
@@ -2927,4 +2927,4 @@ In Alle noch güet Nacht!
           
 
         
-",lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483
+",195,lustig-zwei-erfindunge,58,10,0.28147640350877806,0.1724137931034483

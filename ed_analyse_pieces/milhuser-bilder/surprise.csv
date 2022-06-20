@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 1,comedy,Fraü RATTEGIFT,F,sweeper,elementary_professions,,"
           
 Fraü Rattegift.
@@ -7,7 +7,7 @@ Fraü Rattegift.
 Eh jo! grad ha-n-i's gnu, dert am Ecke.
 
         
-",lustig-milhuser-bilder,13,2,0.0,0.15384615384615385
+",1,lustig-milhuser-bilder,13,2,0.0,0.15384615384615385
 2,comedy,Fraü ENTESCHNAWEL,F,sweeper,elementary_professions,,"
           
 Fraü Enteschnawel.
@@ -17,7 +17,7 @@ Fraü Enteschnawel.
                         wische ka! nitt wohr?
 
         
-",lustig-milhuser-bilder,16,2,0.289,0.125
+",2,lustig-milhuser-bilder,16,2,0.289,0.125
 3,comedy,Fraü DICKSACK,F,sweeper,elementary_professions,,"
           
 Fraü Dicksack.
@@ -28,7 +28,7 @@ Jà, das sin halt veritawlige Magetropfe, ohne die ka
                         dr Bàse z'hewe.
 
         
-",lustig-milhuser-bilder,27,2,0.0,0.07407407407407407
+",3,lustig-milhuser-bilder,27,2,0.0,0.07407407407407407
 4,comedy,Fraü RATTEGIFT,F,sweeper,elementary_professions,,"
           
 Fraü Rattegift.
@@ -38,7 +38,7 @@ Ich, wenn ich nitt glich dr Schnaps nimm am Morge
                         frieih, so ha-n-i 's Herzwasser, do ka-n-i sicher si!
 
         
-",lustig-milhuser-bilder,25,2,0.0,0.08
+",4,lustig-milhuser-bilder,25,2,0.0,0.08
 5,comedy,Fraü ENTESCHNAWEL,F,sweeper,elementary_professions,,"
           
 Fraü Enteschnawel.
@@ -50,7 +50,7 @@ Un ich dr Schlotteri!... 's isch nur noch güet, ass me
           
 
         
-",lustig-milhuser-bilder,23,1,0.0,0.043478260869565216
+",5,lustig-milhuser-bilder,23,1,0.0,0.043478260869565216
 6,comedy,Fraü DICKSACK,F,sweeper,elementary_professions,,"
           
 Fraü Dicksack.
@@ -62,7 +62,7 @@ Jo, ich, wo g'wöhnt gsi bi, alle Tag mi Schäpple z'nàh,
                         alt wird un wo-n-i's am nothwendigste hätt!
 
         
-",lustig-milhuser-bilder,47,3,0.10938794095481143,0.06382978723404255
+",6,lustig-milhuser-bilder,47,3,0.10938794095481143,0.06382978723404255
 7,comedy,Fraü RATTEGIFT,F,sweeper,elementary_professions,,"
           
 Fraü Rattegift.
@@ -73,7 +73,7 @@ Me müess sich halt jetz e wenig mehr uf 's Kaffee lege,
                         wohlfeiler git!...
 
         
-",lustig-milhuser-bilder,27,3,0.17200000000000001,0.1111111111111111
+",7,lustig-milhuser-bilder,27,3,0.17200000000000001,0.1111111111111111
 8,comedy,Fraü ENTESCHNAWEL,F,sweeper,elementary_professions,,"
           
 Fraü Enteschnawel.
@@ -83,7 +83,7 @@ Meine-n-Ihr bringe se's züe ebbes... ich find nur, se
                         thien gar vielerlei Wàgele mache?...
 
         
-",lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
+",8,lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
 9,comedy,PETER,M,,,,"
           
 Peter
@@ -97,7 +97,7 @@ Zeige-n-ihr Wiwer! me sieht wieder nit as d'Miler geh,
                         awer kei einziger Bàse!
 
         
-",lustig-milhuser-bilder,35,1,0.0,0.02857142857142857
+",9,lustig-milhuser-bilder,35,1,0.0,0.02857142857142857
 10,comedy,Fraü DICKSACK,F,sweeper,elementary_professions,,"
           
 Fraü Dicksack.
@@ -109,7 +109,7 @@ Fir was solle mir awer o wische, d'Eigethümer thien jo
                         liege? eso sin alle z'friede.
 
         
-",lustig-milhuser-bilder,39,4,0.0,0.10256410256410256
+",10,lustig-milhuser-bilder,39,4,0.0,0.10256410256410256
 11,comedy,PETER,M,,,,"
           
 Peter.
@@ -146,7 +146,7 @@ Da wischt nitt güet.
           
 
         
-",lustig-milhuser-bilder,78,4,0.0585,0.05128205128205128
+",11,lustig-milhuser-bilder,78,4,0.0585,0.05128205128205128
 12,comedy,PETER,M,,,,"
           
 Mitnander.
@@ -168,7 +168,7 @@ Das isch nitt schwer.
           
 
         
-",lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
+",12,lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
 13,comedy,Fraü DICKSACK,F,sweeper,elementary_professions,,"
           
 Mitnander.
@@ -190,7 +190,7 @@ Das isch nitt schwer.
           
 
         
-",lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
+",13,lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
 14,comedy,Fraü ENTESCHNAWEL,F,sweeper,elementary_professions,,"
           
 Mitnander.
@@ -212,7 +212,7 @@ Das isch nitt schwer.
           
 
         
-",lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
+",14,lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
 15,comedy,Fraü RATTEGIFT,F,sweeper,elementary_professions,,"
           
 Mitnander.
@@ -234,7 +234,7 @@ Das isch nitt schwer.
           
 
         
-",lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
+",15,lustig-milhuser-bilder,21,4,0.0,0.19047619047619047
 17,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge
@@ -295,7 +295,7 @@ Wenn se thüet laüfe noch so wit.
           
 
         
-",lustig-milhuser-bilder,143,19,0.022727424324217118,0.13286713286713286
+",17,lustig-milhuser-bilder,143,19,0.022727424324217118,0.13286713286713286
 18,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
@@ -310,7 +310,7 @@ Sage Se, güeter Frind... ich bi dr Herr Scharfmesser, dr
                         ere Mannerstimm!
 
         
-",lustig-milhuser-bilder,37,6,0.07416666666666667,0.16216216216216217
+",18,lustig-milhuser-bilder,37,6,0.07416666666666667,0.16216216216216217
 19,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -320,7 +320,7 @@ Ich ha scho g'nüe z'süeche an minere, Herr
                         Scharfmesser...
 
         
-",lustig-milhuser-bilder,12,3,0.0,0.25
+",19,lustig-milhuser-bilder,12,3,0.0,0.25
 20,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -329,7 +329,7 @@ Herr Scharfmesser.
 Ah! Sie o?...
 
         
-",lustig-milhuser-bilder,5,1,0.0,0.2
+",20,lustig-milhuser-bilder,5,1,0.0,0.2
 21,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -338,7 +338,7 @@ Herr Fisselboge.
 Jo, jo!... un isch jetz erst vier Wuche!...
 
         
-",lustig-milhuser-bilder,10,1,0.0,0.1
+",21,lustig-milhuser-bilder,10,1,0.0,0.1
 22,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -347,7 +347,7 @@ Herr Scharfmesser.
 Ass Sie se süeche?...
 
         
-",lustig-milhuser-bilder,6,2,0.0,0.3333333333333333
+",22,lustig-milhuser-bilder,6,2,0.0,0.3333333333333333
 23,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -356,7 +356,7 @@ Herr Fisselboge.
 Eh nei!... ass mir g'hirothe sin!
 
         
-",lustig-milhuser-bilder,8,2,0.0,0.25
+",23,lustig-milhuser-bilder,8,2,0.0,0.25
 24,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -380,7 +380,7 @@ Nei 's isch nitt eso... wie heisse Sie, güeter
                             Frind?...
 
         
-",lustig-milhuser-bilder,35,5,0.0468,0.14285714285714285
+",24,lustig-milhuser-bilder,35,5,0.0468,0.14285714285714285
 25,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -389,7 +389,7 @@ Herr Fisselboge.
 Herr Fisselboge...
 
         
-",lustig-milhuser-bilder,4,2,0.0,0.5
+",25,lustig-milhuser-bilder,4,2,0.0,0.5
 26,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -429,7 +429,7 @@ Sage Sie derzüe?...
           
 
         
-",lustig-milhuser-bilder,40,4,0.0,0.1
+",26,lustig-milhuser-bilder,40,4,0.0,0.1
 27,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -474,7 +474,7 @@ Glicklig, etc.
           
 
         
-",lustig-milhuser-bilder,67,12,0.0,0.1791044776119403
+",27,lustig-milhuser-bilder,67,12,0.0,0.1791044776119403
 28,comedy,Herr GAGER,M,,,,"
           
 Herr Gager
@@ -489,7 +489,7 @@ Aha!... do triff i jetz emol ebber a... Sage Se, ihr
                         ka's gar nitt üsfindig mache... Nun-de-bib noch emol!
 
         
-",lustig-milhuser-bilder,46,3,0.14833333333333334,0.06521739130434782
+",28,lustig-milhuser-bilder,46,3,0.14833333333333334,0.06521739130434782
 29,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge
@@ -502,7 +502,7 @@ Wie g'fallt Ene jetz dà do?... wenn eim d'Wiwer nitt
                         emol bliwe, wer will denn derno d'Mariettle hewe
 
         
-",lustig-milhuser-bilder,27,2,0.0,0.07407407407407407
+",29,lustig-milhuser-bilder,27,2,0.0,0.07407407407407407
 30,comedy,Herr GAGER,M,,,,"
           
 Gager
@@ -527,7 +527,7 @@ Wil ich's verlore ha.
           
 
         
-",lustig-milhuser-bilder,22,6,0.0,0.2727272727272727
+",30,lustig-milhuser-bilder,22,6,0.0,0.2727272727272727
 32,comedy,Herr FISSELBOGE,M,,,,"
             
 Herr Fisselboge un Herr Scharfmesser.
@@ -544,7 +544,7 @@ Mir sàhn jetz scho,
             
 
           
-",lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
+",32,lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
 33,comedy,Herr SCHARFMESSER,M,,,,"
             
 Herr Fisselboge un Herr Scharfmesser.
@@ -561,7 +561,7 @@ Mir sàhn jetz scho,
             
 
           
-",lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
+",33,lustig-milhuser-bilder,19,2,0.0,0.10526315789473684
 35,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -571,7 +571,7 @@ Lose Se, güeter Frind, mir sin in dr gliche Position
                             wie Sie... 's wird halt e-n-Anderer...
 
         
-",lustig-milhuser-bilder,20,4,0.0,0.2
+",35,lustig-milhuser-bilder,20,4,0.0,0.2
 36,comedy,Herr GAGER,M,,,,"
           
 Gager.
@@ -580,7 +580,7 @@ Gager.
 Kalt mach i ne... Nun-de-bib noch emol!
 
         
-",lustig-milhuser-bilder,8,1,0.0,0.125
+",36,lustig-milhuser-bilder,8,1,0.0,0.125
 37,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -589,7 +589,7 @@ Herr Scharfmesser.
 Kalt mache mr ne, Nun-de-bib noch emol!
 
         
-",lustig-milhuser-bilder,9,2,0.0,0.2222222222222222
+",37,lustig-milhuser-bilder,9,2,0.0,0.2222222222222222
 38,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -628,7 +628,7 @@ We me G'spass macht mit.
           
 
         
-",lustig-milhuser-bilder,77,16,0.037125,0.2077922077922078
+",38,lustig-milhuser-bilder,77,16,0.037125,0.2077922077922078
 39,comedy,JEAN,M,,,,"
           
 Jean
@@ -640,7 +640,7 @@ Jean
 Pfannefliick!!!
 
         
-",lustig-milhuser-bilder,21,1,0.0,0.047619047619047616
+",39,lustig-milhuser-bilder,21,1,0.0,0.047619047619047616
 40,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch
@@ -655,7 +655,7 @@ Tiens! ne Chàràbià!... Ich mein, ich sott dà Kopf
 Was isch, wie geht Eüer G'schàft, güeter Frind?...
 
         
-",lustig-milhuser-bilder,28,5,0.0,0.17857142857142858
+",40,lustig-milhuser-bilder,28,5,0.0,0.17857142857142858
 42,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -664,7 +664,7 @@ Herr Knopfloch.
 Was nix?
 
         
-",lustig-milhuser-bilder,4,1,0.0,0.25
+",42,lustig-milhuser-bilder,4,1,0.0,0.25
 44,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -675,7 +675,7 @@ Ah! 's geht o nitt... 's geht nit meh!... awer
                             e-n-Ort?
 
         
-",lustig-milhuser-bilder,24,2,0.0,0.08333333333333333
+",44,lustig-milhuser-bilder,24,2,0.0,0.08333333333333333
 45,comedy,JEAN,M,,,,"
           
 Jean.
@@ -684,7 +684,7 @@ Jean.
 Ick bi als Bedient gsi.
 
         
-",lustig-milhuser-bilder,6,1,0.0,0.16666666666666666
+",45,lustig-milhuser-bilder,6,1,0.0,0.16666666666666666
 46,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch
@@ -700,7 +700,7 @@ Sàll weiss i jetz nitt, eb dà-n-emol bedient isch
 Bedienter sin Ihr gsi?..
 
         
-",lustig-milhuser-bilder,37,5,0.0,0.13513513513513514
+",46,lustig-milhuser-bilder,37,5,0.0,0.13513513513513514
 48,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -710,7 +710,7 @@ Bi me G'lehrte üs dr Academie vo... vo... ich weiss
                             nimmig, isch's vo Brunscht oder vo Didene...
 
         
-",lustig-milhuser-bilder,20,1,0.0,0.05
+",48,lustig-milhuser-bilder,20,1,0.0,0.05
 50,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -720,7 +720,7 @@ Herr Knopfloch.
                             ne Römerhafe!...
 
         
-",lustig-milhuser-bilder,16,2,0.0,0.125
+",50,lustig-milhuser-bilder,16,2,0.0,0.125
 51,comedy,JEAN,M,,,,"
           
 Jean.
@@ -729,7 +729,7 @@ Jean.
 Haf nitt güet schmeck.
 
         
-",lustig-milhuser-bilder,5,1,0.0,0.2
+",51,lustig-milhuser-bilder,5,1,0.0,0.2
 52,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -739,7 +739,7 @@ C'est çà... ne Haf nit güet schmeck... wenn er noch
                             ganz gsi wàr, ass me noch hätt känne dri grine...
 
         
-",lustig-milhuser-bilder,22,4,0.0,0.18181818181818182
+",52,lustig-milhuser-bilder,22,4,0.0,0.18181818181818182
 54,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -750,7 +750,7 @@ Herr Knopfloch.
                             nitt wohr?
 
         
-",lustig-milhuser-bilder,27,4,0.0,0.14814814814814814
+",54,lustig-milhuser-bilder,27,4,0.0,0.14814814814814814
 55,comedy,JEAN,M,,,,"
           
 Jean.
@@ -761,7 +761,7 @@ Kei Pass, nur so
 mir hàn uns nitt accordés.
 
         
-",lustig-milhuser-bilder,17,1,0.0,0.058823529411764705
+",55,lustig-milhuser-bilder,17,1,0.0,0.058823529411764705
 56,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -772,7 +772,7 @@ Aha güet... wil 's Complement direct
 hinte gsi isch... un jetz sin Ihr Chàràbià fir d'Zit z'vertriwe?
 
         
-",lustig-milhuser-bilder,28,7,0.0,0.25
+",56,lustig-milhuser-bilder,28,7,0.0,0.25
 57,comedy,JEAN,M,,,,"
           
 Jean.
@@ -783,7 +783,7 @@ Un fir pour le ventre...
 Pfannefliick!
 
         
-",lustig-milhuser-bilder,11,1,0.0,0.09090909090909091
+",57,lustig-milhuser-bilder,11,1,0.0,0.09090909090909091
 58,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch.
@@ -796,7 +796,7 @@ Chàràbià, zahlsch keiner?
 Hàn 'r alti Lump? Hasepelz?
 
         
-",lustig-milhuser-bilder,34,4,0.0,0.11764705882352941
+",58,lustig-milhuser-bilder,34,4,0.0,0.11764705882352941
 59,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
@@ -809,7 +809,7 @@ He! Lumpemann, kamme, ich will Eüch mine Knoche
                             verkaüfe.
 
         
-",lustig-milhuser-bilder,17,1,0.0,0.058823529411764705
+",59,lustig-milhuser-bilder,17,1,0.0,0.058823529411764705
 60,comedy,Herr KNOPFLOCH,M,,,,"
           
 Herr Knopfloch
@@ -824,7 +824,7 @@ warte ne wenig, i kumm glich; wenn in dere Fraü Ihre Knoche güet üsfalle, so 
 (er geht in's Hüs).
 
         
-",lustig-milhuser-bilder,40,9,0.05033333333333333,0.225
+",60,lustig-milhuser-bilder,40,9,0.05033333333333333,0.225
 62,comedy,JEAN,M,,,,"
           
 Jean.
@@ -833,7 +833,7 @@ Jean.
 Nix Guld... alles Silwer!
 
         
-",lustig-milhuser-bilder,5,1,0.203,0.2
+",62,lustig-milhuser-bilder,5,1,0.203,0.2
 63,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -844,7 +844,7 @@ Spretzkannesilwer! nitt wohr? kämme b'schaüe-n-emol
                             z'mache-n-isch!
 
         
-",lustig-milhuser-bilder,22,1,0.0,0.045454545454545456
+",63,lustig-milhuser-bilder,22,1,0.0,0.045454545454545456
 64,comedy,JEAN,M,,,,"
           
 Jean.
@@ -854,7 +854,7 @@ Mit Freid, Madame, mit Freid
 (er laüft ine).
 
         
-",lustig-milhuser-bilder,11,3,0.0,0.2727272727272727
+",64,lustig-milhuser-bilder,11,3,0.0,0.2727272727272727
 65,comedy,Ne Orgelmann,M,organist,professionals_scientific_technical,,"
           
 Dr Orglemann.
@@ -1026,7 +1026,7 @@ Ihr g'stehn's g'wiss selwer i!
           
 
         
-",lustig-milhuser-bilder,354,32,0.040781250000000005,0.0903954802259887
+",65,lustig-milhuser-bilder,354,32,0.040781250000000005,0.0903954802259887
 66,comedy,FRANZ,M,,,,"
           
 Franz
@@ -1096,7 +1096,7 @@ Das isch gar licht z'versteh!
           
 
         
-",lustig-milhuser-bilder,194,17,0.013764705882352943,0.08762886597938144
+",66,lustig-milhuser-bilder,194,17,0.013764705882352943,0.08762886597938144
 67,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
@@ -1112,7 +1112,7 @@ Sage, Franz, warte ne wenig... was hàn Ihr mir
                             g'hebt, er brennt jo gar nitt Eüer, Petrol un schmeckt grad no Essig!..
 
         
-",lustig-milhuser-bilder,60,5,0.029599999999999998,0.08333333333333333
+",67,lustig-milhuser-bilder,60,5,0.029599999999999998,0.08333333333333333
 68,comedy,FRANZ,M,,,,"
           
 Franz
@@ -1129,7 +1129,7 @@ O sapristi... Ich ha-n-ere viellicht Essig verkaüft
 ich will Ere anderer gà derfir, Fraü Hagscheere.
 
         
-",lustig-milhuser-bilder,52,10,0.089,0.19230769230769232
+",68,lustig-milhuser-bilder,52,10,0.089,0.19230769230769232
 70,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
@@ -1144,7 +1144,7 @@ Güete Tag, Fraü Hagscheere... wie geht's, hat Se
           
 
         
-",lustig-milhuser-bilder,19,4,0.0,0.21052631578947367
+",70,lustig-milhuser-bilder,19,4,0.0,0.21052631578947367
 71,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1155,7 +1155,7 @@ Ganz güet, Fraü Sàgmühle... nur hàn d'Katze so
                             das Vieh hat im Friehjohr, se sin wie ab!
 
         
-",lustig-milhuser-bilder,29,5,0.0,0.1724137931034483
+",71,lustig-milhuser-bilder,29,5,0.0,0.1724137931034483
 72,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1170,7 +1170,7 @@ Sage, Franz, was hàn Ihr mir fir Essig verkaüft
                             jetz scho-n-eso ebbes g'sàh...
 
         
-",lustig-milhuser-bilder,67,8,0.0,0.11940298507462686
+",72,lustig-milhuser-bilder,67,8,0.0,0.11940298507462686
 73,comedy,FRANZ,M,,,,"
           
 Franz
@@ -1187,7 +1187,7 @@ Sapristi... ich ha-n-ere wohrschinlig Petrol gà fir
  Kàm Se ku anderer hole, Fraü Sàgmühle... ich ha do excellenter... er isch wie Scheidwasser...
 
         
-",lustig-milhuser-bilder,52,8,0.0,0.15384615384615385
+",73,lustig-milhuser-bilder,52,8,0.0,0.15384615384615385
 75,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -1209,7 +1209,7 @@ Allons!.... wieder zwei Pratike verlore... jetz wo
           
 
         
-",lustig-milhuser-bilder,97,6,0.0,0.061855670103092786
+",75,lustig-milhuser-bilder,97,6,0.0,0.061855670103092786
 76,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1220,7 +1220,7 @@ Was isch jetz, Fraü Sàgmühle, 's isch eim jetz doch
                             no-n-eme so ne härte Winter...
 
         
-",lustig-milhuser-bilder,28,4,0.03125,0.14285714285714285
+",76,lustig-milhuser-bilder,28,4,0.03125,0.14285714285714285
 78,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1229,7 +1229,7 @@ Fraü Hagscheere.
 Im Mül?
 
         
-",lustig-milhuser-bilder,4,1,0.172,0.25
+",78,lustig-milhuser-bilder,4,1,0.172,0.25
 79,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1240,7 +1240,7 @@ Eh nei! am e Läffel, wo-n-i ha welle-n-abschlàcke in
                             d'Schlifschüehfahrer!
 
         
-",lustig-milhuser-bilder,28,2,0.0,0.07142857142857142
+",79,lustig-milhuser-bilder,28,2,0.0,0.07142857142857142
 81,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1251,7 +1251,7 @@ Eh nei, ass eso ne kalter Winter gsi isch... dr
                             sàit, 's Is thàt hewe bis dr nàchste Winter.
 
         
-",lustig-milhuser-bilder,29,2,0.0,0.06896551724137931
+",81,lustig-milhuser-bilder,29,2,0.0,0.06896551724137931
 82,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1262,7 +1262,7 @@ Hein, was ha-n-i g'sàit! 's mües e Cirque ane ku...
                             nàchste Johr kunnt dr Franconi...
 
         
-",lustig-milhuser-bilder,29,1,0.0,0.034482758620689655
+",82,lustig-milhuser-bilder,29,1,0.0,0.034482758620689655
 83,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1274,7 +1274,7 @@ Mr wànn's nit hoffe... 's isch scho g'nüe-n-eso
                             Theater spiele!
 
         
-",lustig-milhuser-bilder,33,2,0.203,0.06060606060606061
+",83,lustig-milhuser-bilder,33,2,0.203,0.06060606060606061
 84,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1286,7 +1286,7 @@ Jà... un schöne Sache hàn se schint's g'macht. ass
           
 
         
-",lustig-milhuser-bilder,18,2,0.09,0.1111111111111111
+",84,lustig-milhuser-bilder,18,2,0.09,0.1111111111111111
 85,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1297,7 +1297,7 @@ Ich wàr nitt dert ine... 's hätt nur derfe einer los
                             wird iwer d'andere scho nitt Meister!...
 
         
-",lustig-milhuser-bilder,30,4,0.11925,0.13333333333333333
+",85,lustig-milhuser-bilder,30,4,0.11925,0.13333333333333333
 86,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1308,7 +1308,7 @@ Ich bi jetz nur froh, ass me gsàh hat, was me alles
                             Sàgmühle, hat Se das scho g'hort vo dàne Bàre?...
 
         
-",lustig-milhuser-bilder,32,4,0.045,0.125
+",86,lustig-milhuser-bilder,32,4,0.045,0.125
 88,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1319,7 +1319,7 @@ Eh! schint's uf dr Dollere wàhrend dere grimmige
                             Nieme meh geh wàsche duss!...
 
         
-",lustig-milhuser-bilder,27,5,0.0328,0.18518518518518517
+",88,lustig-milhuser-bilder,27,5,0.0328,0.18518518518518517
 89,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1328,7 +1328,7 @@ Fraü Sàgmühle.
 Eh! was Sie nitt sàit!
 
         
-",lustig-milhuser-bilder,7,1,0.0,0.14285714285714285
+",89,lustig-milhuser-bilder,7,1,0.0,0.14285714285714285
 90,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1338,7 +1338,7 @@ Se mage jetz scho ziemlig gross si... wenn se nur
                             nitt emol in d'Stadt kämme!...
 
         
-",lustig-milhuser-bilder,18,2,0.32419507396190017,0.1111111111111111
+",90,lustig-milhuser-bilder,18,2,0.32419507396190017,0.1111111111111111
 91,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
@@ -1353,7 +1353,7 @@ Herr je! mi Milch laüft furt... se legt grad
 (se geht ine)
 
         
-",lustig-milhuser-bilder,32,4,0.1955546754155684,0.125
+",91,lustig-milhuser-bilder,32,4,0.1955546754155684,0.125
 92,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1367,7 +1367,7 @@ Au revoir, Fraü Sàgmühle!... Ich will jetz geh lüege
           
 
         
-",lustig-milhuser-bilder,30,1,0.0,0.03333333333333333
+",92,lustig-milhuser-bilder,30,1,0.0,0.03333333333333333
 93,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge
@@ -1392,7 +1392,7 @@ Mr hàn unsre Dame g'süecht un hàn e Bàr g'funde!..
                             Orchester, mr mache's selbst...
 
         
-",lustig-milhuser-bilder,141,14,0.0,0.09929078014184398
+",93,lustig-milhuser-bilder,141,14,0.0,0.09929078014184398
 94,comedy,Herr GAGER,M,,,,"
           
 Herr Gager.
@@ -1401,7 +1401,7 @@ Herr Gager.
 Nun-de-bib noch emol!...
 
         
-",lustig-milhuser-bilder,5,1,0.0,0.2
+",94,lustig-milhuser-bilder,5,1,0.0,0.2
 95,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -1410,7 +1410,7 @@ Herr Scharfmesser.
 Ich ha mi Basson wieder fireg'süecht...
 
         
-",lustig-milhuser-bilder,8,1,0.0,0.125
+",95,lustig-milhuser-bilder,8,1,0.0,0.125
 96,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fräu Hagscheere
@@ -1424,7 +1424,7 @@ Eh dü Spektakel!... Fraü Sàgmühle, Fraü Sàgmühle!...
                             d'Bàre vo dr Dollere!
 
         
-",lustig-milhuser-bilder,29,1,0.0,0.034482758620689655
+",96,lustig-milhuser-bilder,29,1,0.0,0.034482758620689655
 97,comedy,Fraü SÀGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
@@ -1439,7 +1439,7 @@ Eh dü alles uf dere Welt, was isch das fir e
                             Schrei üs un verschwinde.)
 
         
-",lustig-milhuser-bilder,34,6,0.21337679581114175,0.17647058823529413
+",97,lustig-milhuser-bilder,34,6,0.21337679581114175,0.17647058823529413
 98,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -1482,7 +1482,7 @@ Lüege züe mit Freid!
           
 
         
-",lustig-milhuser-bilder,58,12,0.07875,0.20689655172413793
+",98,lustig-milhuser-bilder,58,12,0.07875,0.20689655172413793
 99,comedy,Herr FISSELBOGE,M,,,,"
           
 Mitnander.
@@ -1506,7 +1506,7 @@ Ass er tanze ka.
           
 
         
-",lustig-milhuser-bilder,25,3,0.0,0.12
+",99,lustig-milhuser-bilder,25,3,0.0,0.12
 100,comedy,Herr SCHARFMESSER,M,,,,"
           
 Mitnander.
@@ -1530,7 +1530,7 @@ Ass er tanze ka.
           
 
         
-",lustig-milhuser-bilder,25,3,0.0,0.12
+",100,lustig-milhuser-bilder,25,3,0.0,0.12
 101,comedy,Herr GAGER,M,,,,"
           
 Mitnander.
@@ -1554,7 +1554,7 @@ Ass er tanze ka.
           
 
         
-",lustig-milhuser-bilder,25,3,0.0,0.12
+",101,lustig-milhuser-bilder,25,3,0.0,0.12
 102,comedy,Herr FISSELBOGE,M,,,,"
           
 Herr Fisselboge.
@@ -1578,4 +1578,4 @@ Eh bien, Meister Petz, bisch dü z'friede-n-eso!..
                         Andere tanze mit.)
 
         
-",lustig-milhuser-bilder,93,16,0.062,0.17204301075268819
+",102,lustig-milhuser-bilder,93,16,0.062,0.17204301075268819

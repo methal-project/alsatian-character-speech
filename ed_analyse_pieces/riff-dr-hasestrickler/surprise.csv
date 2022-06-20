@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 3,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -7,7 +7,7 @@ Mey-Katt:
 Ja; loß dich nit v'rwitsche. — Ha- hahahahaha!
 
         
-",riff-dr-hasestrickler,10,1,0.0,0.1
+",1,riff-dr-hasestrickler,10,1,0.0,0.1
 4,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -16,7 +16,7 @@ Schakob:
 Zem Dejhanker noch emol ning, laach doch nit eso stiermaaßi
 
         
-",riff-dr-hasestrickler,11,2,0.3564105310800626,0.18181818181818182
+",1,riff-dr-hasestrickler,11,2,0.3564105310800626,0.18181818181818182
 5,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -28,7 +28,7 @@ Mey-Katt :
 Dü hesch e-n Angscht!
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",1,riff-dr-hasestrickler,8,1,0.0,0.125
 6,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -37,7 +37,7 @@ Schakob:
 War het e-n Angscht?!
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",2,riff-dr-hasestrickler,5,1,0.0,0.2
 8,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -48,7 +48,7 @@ Wenn Alles erüskaamt — — — dies gabt m‘r e scheeni Gschieht — — —
  Alli mitnöönd kamte m‘r uf Anze!
 
         
-",riff-dr-hasestrickler,33,3,0.0,0.09090909090909091
+",2,riff-dr-hasestrickler,33,3,0.0,0.09090909090909091
 9,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -57,7 +57,7 @@ Mey-Katt:
 Zem Dejhanker noch emol, briell doch nit eso stiermaaßi.
 
         
-",riff-dr-hasestrickler,10,2,0.242,0.2
+",3,riff-dr-hasestrickler,10,2,0.242,0.2
 10,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -66,7 +66,7 @@ Schakob:
 Aha, war het jetzt Angscht?
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",3,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 11,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -75,7 +75,7 @@ Mey-Katt:
 Ich uf kene Fall!
 
         
-",riff-dr-hasestrickler,5,2,0.0,0.4
+",3,riff-dr-hasestrickler,5,2,0.0,0.4
 12,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -89,7 +89,7 @@ Nee, dü nit, aw‘r din schlaacht Gewisse!
           
 
         
-",riff-dr-hasestrickler,11,2,0.0,0.18181818181818182
+",4,riff-dr-hasestrickler,11,2,0.0,0.18181818181818182
 13,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -101,7 +101,7 @@ Mey-Katt :
 „Gewisse“! — Pah, ‘s „selaacht Gewisse!“ — Min Gewisse wurd eso pro- per sin wie Dins! V'rstange, däuwi Gäusch?!
 
         
-",riff-dr-hasestrickler,28,3,0.0,0.10714285714285714
+",4,riff-dr-hasestrickler,28,3,0.0,0.10714285714285714
 14,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -110,7 +110,7 @@ Schakob:
 Maach din däub Mül jetz emol zü — un dert driewe d’Kiehedhüer! Miteß dann d‘r Läum im göönze Hüs erumziche?!
 
         
-",riff-dr-hasestrickler,22,2,0.086,0.09090909090909091
+",4,riff-dr-hasestrickler,22,2,0.086,0.09090909090909091
 15,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -119,7 +119,7 @@ Mey-Katt:
 Loß‘s doch läume!
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",5,riff-dr-hasestrickler,5,1,0.0,0.2
 16,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -130,7 +130,7 @@ Bis drüsse-n-uf d‘r Strooß riecht m'r ‘s, was in d'r Pfann broodelt.
 . Däuwer Käib!
 
         
-",riff-dr-hasestrickler,24,2,0.0,0.08333333333333333
+",5,riff-dr-hasestrickler,24,2,0.0,0.08333333333333333
 17,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -142,7 +142,7 @@ Mey-Katt :
 Kannsch ken größerer La- wesdäuj meh mache, Gäuekelhirn, iewerzwarchs?!
 
         
-",riff-dr-hasestrickler,14,1,0.297,0.07142857142857142
+",5,riff-dr-hasestrickler,14,1,0.297,0.07142857142857142
 18,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Christoph :
@@ -154,7 +154,7 @@ Christoph :
 Exküseh!
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",6,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 21,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -166,7 +166,7 @@ Chrischtoph :
 Na, kehje numme nit um vor Sehracke! — Was höön'r dann vorewe mit- nöönd ze büschbere g‘het?
 
         
-",riff-dr-hasestrickler,22,2,0.2305,0.09090909090909091
+",7,riff-dr-hasestrickler,22,2,0.2305,0.09090909090909091
 23,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -178,7 +178,7 @@ Chrischtoph :
 Nee jo nit! Un d’Pianne warre äu nit khaab zügedeckt, dann de ööndere Waaj daat m'r ‘s nit bis drowe-n-im Owerdorf rieche, daß d‘r Schliehers-Juckel Hoosepfaffer —
 
         
-",riff-dr-hasestrickler,34,1,0.461,0.029411764705882353
+",7,riff-dr-hasestrickler,34,1,0.461,0.029411764705882353
 24,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -187,7 +187,7 @@ Schakob:
 Bscht, witt stille sin!
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",8,riff-dr-hasestrickler,5,1,0.0,0.2
 28,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Christoph:
@@ -196,7 +196,7 @@ Christoph:
 Nee, nee, d‘r Chrischtoph iewertriebt nit, aw‘r ihr zwäi däuwi Käiwe triewe's e weng ze starik! — Wie kann m‘r aw‘r äu uf d'Noocht so ebs iewermaache?! — So ebs isch doch uffali, zem Dej- hanker nochemol! — ‘s kläinscht King i mDorf bab- belt jo devum, daß in‘s Selicher-Juckels meh Hoose- pfaffer .. ..
 
         
-",riff-dr-hasestrickler,60,3,0.224,0.05
+",9,riff-dr-hasestrickler,60,3,0.224,0.05
 32,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -207,7 +207,7 @@ Ja, dies häißt's! Un daß die Hoose, wie sich emol in ünsere Bann v‘rirre, 
  Ja, ‘s iseh emol eso.
 
         
-",riff-dr-hasestrickler,36,2,0.0,0.05555555555555555
+",10,riff-dr-hasestrickler,36,2,0.0,0.05555555555555555
 33,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -219,7 +219,7 @@ Schakob:
 Ja mäinsch, daß‘s schun sowyt beköönt war . ..?
 
         
-",riff-dr-hasestrickler,12,2,0.0,0.16666666666666666
+",11,riff-dr-hasestrickler,12,2,0.0,0.16666666666666666
 34,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -231,7 +231,7 @@ Chrischtoph :
 Was sell dann beköönt sin? — Nix isch beköönt, goor nix! — Aw'r vor- sichtiger selle-n-‘r sin, ihr zwäi däuwi Käiwe, vor- sichtiger! — ‘s war‘ mir doch wajer äu nit äinerläi, wann ... na, dü v‘rstehsch mich jo.
 
         
-",riff-dr-hasestrickler,46,1,0.461,0.021739130434782608
+",11,riff-dr-hasestrickler,46,1,0.461,0.021739130434782608
 37,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -245,7 +245,7 @@ Aha! —
  — Säu, wo.hesch dann denne . . . wo hesch dann dies... dies Kinjele . .. ,,g‘funge“?
 
         
-",riff-dr-hasestrickler,26,1,0.461,0.038461538461538464
+",12,riff-dr-hasestrickler,26,1,0.461,0.038461538461538464
 38,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -257,7 +257,7 @@ Chrischtoph :
 Im Burjermäisehter sim Rabstück!
 
         
-",riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
+",12,riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
 39,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -269,7 +269,7 @@ Schakob :
 Was säisch dü mir?
 
         
-",riff-dr-hasestrickler,13,1,0.8336289563657823,0.07692307692307693
+",13,riff-dr-hasestrickler,13,1,0.8336289563657823,0.07692307692307693
 40,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -280,7 +280,7 @@ Bscht ... stille . . . brüel doch nit eso, däuwer am Eck.
           
 
         
-",riff-dr-hasestrickler,10,2,0.0,0.2
+",13,riff-dr-hasestrickler,10,2,0.0,0.2
 41,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -292,7 +292,7 @@ Schakob :
 Un dü träuesch ‘ne eso frej do haare?
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",13,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 42,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -301,7 +301,7 @@ Chrischtoph:
 Frej? — Ar stackt jo im Sack.
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",14,riff-dr-hasestrickler,8,1,0.0,0.125
 43,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -310,7 +310,7 @@ Schakob:
 Ja un d‘Luzarn, wie in de Hange ge- träueje hesch?
 
         
-",riff-dr-hasestrickler,13,2,0.0,0.15384615384615385
+",14,riff-dr-hasestrickler,13,2,0.0,0.15384615384615385
 47,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -319,7 +319,7 @@ Schakob:
 War sott dann jetzt noch kumme, so spoot in d'r Noocht?
 
         
-",riff-dr-hasestrickler,12,2,0.078,0.16666666666666666
+",15,riff-dr-hasestrickler,12,2,0.078,0.16666666666666666
 48,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -328,7 +328,7 @@ Chrischtoph:
 M‘r kann nie nix säueje. Wäisch, zyter daß dies anonym Sehriewes uf ‘s Güwarlema gange-n-isch, daß in ünserem Bann in äiner Wuch meh Hoose gstrickelt daate ware, aß daß m‘r im Noochbersbann bie d'r Triebjagd zammeschieße könnt, zyterhaare mueß m'r sich uf alles gfaßt maache.
 
         
-",riff-dr-hasestrickler,48,3,0.112,0.0625
+",16,riff-dr-hasestrickler,48,3,0.112,0.0625
 50,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -337,7 +337,7 @@ Chrischtoph:
 Dar wurd schun noch ze finge sin! — Aw‘r dar het no nix ze Jaache! — Prozeßwarbal kriejt‘r gemaacht vun mir, waje ‘me jede Drackel druf un driewer, eene um de ööndere.
 
         
-",riff-dr-hasestrickler,33,1,0.0,0.030303030303030304
+",16,riff-dr-hasestrickler,33,1,0.0,0.030303030303030304
 51,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -346,7 +346,7 @@ Schakob:
 Jaja, no numme harzhaft druf ge- bangelt fer deß daß‘r oonstandigi Lyt v'rdaachtige will!
 
         
-",riff-dr-hasestrickler,16,1,0.0,0.0625
+",17,riff-dr-hasestrickler,16,1,0.0,0.0625
 52,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -356,7 +356,7 @@ Numme ken Angscht! — Ich hab nit umesunscht dene Knopf an dr Kapp!
 (Weist auf die Kokarde.)
 
         
-",riff-dr-hasestrickler,20,2,0.0,0.1
+",17,riff-dr-hasestrickler,20,2,0.0,0.1
 54,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -365,7 +365,7 @@ Schakob:
 Mir isch‘s raacht.
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",18,riff-dr-hasestrickler,5,1,0.0,0.2
 56,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -375,7 +375,7 @@ Hesch denn schun wied die Dhür offe stehn loon?
 (schmettert sie zu.)
 
         
-",riff-dr-hasestrickler,15,2,0.0,0.13333333333333333
+",18,riff-dr-hasestrickler,15,2,0.0,0.13333333333333333
 60,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -388,7 +388,7 @@ Aha — e „Kinjele“,
 (Es klopft.)
 
         
-",riff-dr-hasestrickler,14,1,0.461,0.07142857142857142
+",20,riff-dr-hasestrickler,14,1,0.461,0.07142857142857142
 61,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -400,7 +400,7 @@ Schakob :
 Nüs mit!
 
         
-",riff-dr-hasestrickler,6,1,0.7785179399404452,0.16666666666666666
+",20,riff-dr-hasestrickler,6,1,0.7785179399404452,0.16666666666666666
 63,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -410,7 +410,7 @@ Räj dich!
 (Mey-Katt eilt hastig mit dem Sack rechts ab. Es klopft)
 
         
-",riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
+",21,riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
 66,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -421,7 +421,7 @@ Schakob:
  Na, war kummt dann noch so spoot? — Als ering war ering will!
 
         
-",riff-dr-hasestrickler,28,1,0.156,0.03571428571428571
+",22,riff-dr-hasestrickler,28,1,0.156,0.03571428571428571
 67,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -430,7 +430,7 @@ Daniel:
 Güete-n-Gwe.
 
         
-",riff-dr-hasestrickler,4,1,0.0,0.25
+",22,riff-dr-hasestrickler,4,1,0.0,0.25
 68,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -442,7 +442,7 @@ Löij d'r Daniels! — So spoot noch? — Na die Fräid, die Fräid! — Do will
           
         
 		
-",riff-dr-hasestrickler,38,5,0.2876,0.13157894736842105
+",22,riff-dr-hasestrickler,38,5,0.2876,0.13157894736842105
 70,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -454,7 +454,7 @@ Daniel :
 Was maachseh dü do? Chris htoph: Bscht . . . stille . . . dienstlich.
 
         
-",riff-dr-hasestrickler,16,1,0.0,0.0625
+",23,riff-dr-hasestrickler,16,1,0.0,0.0625
 78,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -466,7 +466,7 @@ Daniel :
 Ja?
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",26,riff-dr-hasestrickler,5,1,0.0,0.2
 79,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -475,7 +475,7 @@ Chrischtoph:
 Aw'r jo nit! — M'r bhäupt‘s zwar i mDorf, m‘r bhäupt's, ja.. . aw‘r gsahne hett‘ne noch niemeds d‘rbie. — Ich bin schun ze alle Zytte, bie Däuej un bie Noocht haare gange, hab alli Eck un Winkel üsspioniert, hab aw'r noch nie ebs finge könne, noch nie! — Uff Ehrewort: noch nie! — Un wäisch, ich hab doch warli e poor güeti Äueje im Kopf.
 
         
-",riff-dr-hasestrickler,69,6,0.0,0.08695652173913043
+",26,riff-dr-hasestrickler,69,6,0.0,0.08695652173913043
 80,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -490,7 +490,7 @@ Un ich e gueti Noos im Gsicht. — Hesch dann imstöönd jo danne Hoosepfaffer n
  : allons, allons, allons, riech doch emol!
 
         
-",riff-dr-hasestrickler,45,3,0.15633333333333332,0.06666666666666667
+",26,riff-dr-hasestrickler,45,3,0.15633333333333332,0.06666666666666667
 81,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -502,7 +502,7 @@ Chrischtoph :
 Dies isch Hoosepfaffer?
 
         
-",riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
+",27,riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
 82,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -514,7 +514,7 @@ Daniel :
 Aw‘r göönz sicher isch dies Hoosepfaffer.
 
         
-",riff-dr-hasestrickler,10,2,0.0,0.2
+",27,riff-dr-hasestrickler,10,2,0.0,0.2
 83,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -523,7 +523,7 @@ Chrischtoph:
 Do sott am And doch... ?! ‘s isch aw‘r schier nit ze gläuwe.
 
         
-",riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
+",27,riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
 84,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -536,7 +536,7 @@ Nadierli, so e respaktier- licher Mann, wie d‘r Juckel äiner isch, salbschtv�
  standli, e so e Mann genießt Respakt un Onsahn, un so äim isch bees biezekume mäinsch dü gall?
 
         
-",riff-dr-hasestrickler,39,4,0.0,0.10256410256410256
+",28,riff-dr-hasestrickler,39,4,0.0,0.10256410256410256
 85,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -546,7 +546,7 @@ Zall will ich jo juscht nit bhäupte, b‘hüet selle m‘r sin, aw‘r ich mäi
 (Es klopft.)
 
         
-",riff-dr-hasestrickler,38,4,0.0,0.10526315789473684
+",28,riff-dr-hasestrickler,38,4,0.0,0.10526315789473684
 88,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -558,7 +558,7 @@ Michel :
 Güete-n-n-Owe bie- nöönd!
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",29,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 89,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph und Daniel :
@@ -570,7 +570,7 @@ Chrischtoph und Daniel :
 Güete-n- Owe Herr Maire!
 
         
-",riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
+",29,riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
 92,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -579,7 +579,7 @@ Daniel :
 M'r sin uf d‘r Suech!
 
         
-",riff-dr-hasestrickler,6,2,0.0,0.3333333333333333
+",30,riff-dr-hasestrickler,6,2,0.0,0.3333333333333333
 93,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -588,7 +588,7 @@ Michel:
 Was sueche-n-'r dann?
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",31,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 97,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -598,7 +598,7 @@ Soupçon hôôn m'r sehun lang, Herr Maire, numme noch ken Bewies! — Aw'r, v'r
 (salutiert.)
 
         
-",riff-dr-hasestrickler,28,3,0.0,0.10714285714285714
+",32,riff-dr-hasestrickler,28,3,0.0,0.10714285714285714
 98,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -610,7 +610,7 @@ Michel :
 Do hatte m‘r also andli emol danne v‘rdammte Hoosestrickler.
 
         
-",riff-dr-hasestrickler,16,3,0.09899999999999999,0.1875
+",32,riff-dr-hasestrickler,16,3,0.09899999999999999,0.1875
 102,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -619,7 +619,7 @@ Michel:
 Ah jaso. — Hm. — Ja do. — Hm. Un jetzt?
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",34,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 103,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -631,7 +631,7 @@ Daniel :
 M‘r mueß halt d‘Auje offe b‘halte.
 
         
-",riff-dr-hasestrickler,11,2,0.0,0.18181818181818182
+",34,riff-dr-hasestrickler,11,2,0.0,0.18181818181818182
 104,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -643,7 +643,7 @@ Chrischtoph :
 Ja, dies mueß m'r.
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",34,riff-dr-hasestrickler,8,1,0.0,0.125
 105,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -655,7 +655,7 @@ Daniel :
 D‘r Juckel isch awer sin ar isch bees ze fasse.
 
         
-",riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
+",35,riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
 106,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -667,7 +667,7 @@ Chrischtoph :
 Jaja, alles, was raacht isch! Dies isch wohr, Harr Maire: ar isch bees ze fasse!
 
         
-",riff-dr-hasestrickler,20,5,0.0,0.25
+",35,riff-dr-hasestrickler,20,5,0.0,0.25
 107,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -681,7 +681,7 @@ Ar isch bees ze fasse? — Ar isch bees ze fasse? — Wann ‘ne d'r Bangert nit
  . . d'r Burjermäischter.
 
         
-",riff-dr-hasestrickler,42,6,0.0,0.14285714285714285
+",35,riff-dr-hasestrickler,42,6,0.0,0.14285714285714285
 110,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -694,7 +694,7 @@ Jaaa, öjerem Burjermäischter maacht noch kener e Ü fer e X vor, noch kener. �
 (salutieren.)
 
         
-",riff-dr-hasestrickler,64,5,0.07039999999999999,0.078125
+",36,riff-dr-hasestrickler,64,5,0.07039999999999999,0.078125
 111,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -704,7 +704,7 @@ Michel:
 (salutieren.)
 
         
-",riff-dr-hasestrickler,30,2,0.0,0.06666666666666667
+",37,riff-dr-hasestrickler,30,2,0.0,0.06666666666666667
 112,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -715,7 +715,7 @@ Mir kann noch kener wachsle, vun alle dane Simpel, un wann se v'rknelle vor Wuet
           
 
 		
-",riff-dr-hasestrickler,104,10,0.029699999999999997,0.09615384615384616
+",37,riff-dr-hasestrickler,104,10,0.029699999999999997,0.09615384615384616
 114,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -724,7 +724,7 @@ Michel:
 Aha? — Nit daß ihr trumbiere an mir! — As selle emol alli Burjemä ischter üssem göönze Landel zassestehn, in äin Räih, äiner satt nawe de-n-ööndere, un d‘rnoo sell emol da r d‘Hönd in d‘Höeh lipfe, wie mit Stolz säueje kann: miner Schaddel kummt in de Spiritüs!
 
         
-",riff-dr-hasestrickler,53,4,0.0,0.07547169811320754
+",38,riff-dr-hasestrickler,53,4,0.0,0.07547169811320754
 115,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph und Daniel:
@@ -736,7 +736,7 @@ Chrischtoph und Daniel:
 Alle Re- spakt, Herr Burjrmäischter!
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",38,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 116,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -750,7 +750,7 @@ Ja, ich wäiß ihr respaktiere mich, mini göönz Gemäin respaktiert mich, — 
  — So isch‘s raacht! Mir sin äinig un’mir v‘rstehn ainer de-n-ööndre .. un vun üns kannt äiner de-n-ööndere!
 
         
-",riff-dr-hasestrickler,85,11,0.044,0.12941176470588237
+",38,riff-dr-hasestrickler,85,11,0.044,0.12941176470588237
 117,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -760,7 +760,7 @@ Jaja, Herr Maire, mir sin äinig, un mir v‘rstehn enöönd, nit wohr? —
 (schüttelt ihm kräftig die Hand.)
 
         
-",riff-dr-hasestrickler,21,3,0.0,0.14285714285714285
+",39,riff-dr-hasestrickler,21,3,0.0,0.14285714285714285
 118,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -769,7 +769,7 @@ Michel:
 Zall will ich mäine — Zall will ich mäine!
 
         
-",riff-dr-hasestrickler,10,4,0.0,0.4
+",39,riff-dr-hasestrickler,10,4,0.0,0.4
 119,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -780,7 +780,7 @@ Un wir kann e enöönd, nit wohr, Harr Maire?
 .
 
         
-",riff-dr-hasestrickler,17,2,0.0,0.11764705882352941
+",39,riff-dr-hasestrickler,17,2,0.0,0.11764705882352941
 120,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -798,7 +798,7 @@ Zall will ich mäine, — zall will ich mäine! — Numme allewiel de Kopf hoch,
 : As hetsich ebs erzäijt, Harr Maire!
 
         
-",riff-dr-hasestrickler,59,8,0.07425,0.13559322033898305
+",40,riff-dr-hasestrickler,59,8,0.07425,0.13559322033898305
 121,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -807,7 +807,7 @@ Michel:
 s‘ kummt m‘r bööl v‘rdaachti vor, im hôchschte Grood v‘rdaachti! — Säe emol, Chrischtoph, wo stackt dann äu d‘r Schakob, daß m‘r ‘ne mit kem Aüj ze sahne kriejt?
 
         
-",riff-dr-hasestrickler,30,2,0.0,0.06666666666666667
+",40,riff-dr-hasestrickler,30,2,0.0,0.06666666666666667
 122,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -819,7 +819,7 @@ Chrischtoph :
 Ar wurd drüsse in d‘r Kiche sin, Herr Maire.
 
         
-",riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
+",40,riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
 124,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -834,7 +834,7 @@ Zü Befahl, Harr Burjermäischter!
 (Alle drei schauen gespannt in die Küche.)
 
         
-",riff-dr-hasestrickler,28,1,0.0,0.03571428571428571
+",41,riff-dr-hasestrickler,28,1,0.0,0.03571428571428571
 125,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -846,7 +846,7 @@ Michel:
 Aaaaaah! — Aha! — Hoosepfaffer!
 
         
-",riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
+",41,riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
 126,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -859,7 +859,7 @@ Was hawich nit gsäit, Harr Maire?
 (salutiert rasch.)
 
         
-",riff-dr-hasestrickler,14,1,0.0,0.07142857142857142
+",42,riff-dr-hasestrickler,14,1,0.0,0.07142857142857142
 127,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -871,7 +871,7 @@ Michel :
 Ja, zem Dejhanker nochemol ning, wo stackt dann äu d'r Juckel?! Do isch jo gar ken Mensch d‘häime?!
 
         
-",riff-dr-hasestrickler,26,2,0.242,0.07692307692307693
+",42,riff-dr-hasestrickler,26,2,0.242,0.07692307692307693
 128,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -884,7 +884,7 @@ Ich will doch emol hurtli lueje, Harr Maire, ich kann e jeds Eck un e jede Winke
 (salutiert und eilt rasch rechts ab.)
 
         
-",riff-dr-hasestrickler,35,2,0.0,0.05714285714285714
+",42,riff-dr-hasestrickler,35,2,0.0,0.05714285714285714
 130,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -893,7 +893,7 @@ Michel:
 Bseht, nit so lüt, un im e fremde Hüs e weng respatierli, wann‘s beliebt!
 
         
-",riff-dr-hasestrickler,16,3,0.0,0.1875
+",43,riff-dr-hasestrickler,16,3,0.0,0.1875
 132,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -904,7 +904,7 @@ Un wann äu! D‘Wand höön Ohre, säit m‘r als! —
  — Un vorem Chrischtoph muehn mir üns e weng besser in Ooeht nahme, dar isch mit alle Däifel ge- ritte.
 
         
-",riff-dr-hasestrickler,40,3,0.16133333333333333,0.075
+",44,riff-dr-hasestrickler,40,3,0.16133333333333333,0.075
 133,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -916,7 +916,7 @@ Jaja, ar isch beköönt for dies, un daß‘r mit‘em Schlichers-Juckel inger �
           
         
 		
-",riff-dr-hasestrickler,42,2,0.0,0.047619047619047616
+",44,riff-dr-hasestrickler,42,2,0.0,0.047619047619047616
 134,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -925,7 +925,7 @@ Michel:
 Brüell doch nit eso un babbel nit eso däub, hiernv‘rruckts Gäuckelhirn, iwwerzwarichs!
 
         
-",riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
+",44,riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
 135,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -937,7 +937,7 @@ Daniel :
 Vun was sell m‘r dann babble, wann‘s göönz Hüs nooch Hoosepfaffer riecht?
 
         
-",riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
+",45,riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
 137,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -949,7 +949,7 @@ Daniel :
 Salbschtverstandli, salbscht- verstandli! — Numme ken Angscht, Michel!
 
         
-",riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
+",45,riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
 138,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -961,7 +961,7 @@ Michel :
 Schun wied‘r?! — „Harr Bur- jermäischter“, wann‘s beliebt, allewiel noch „Harr Burjermäischter“!
 
         
-",riff-dr-hasestrickler,22,3,0.0,0.13636363636363635
+",46,riff-dr-hasestrickler,22,3,0.0,0.13636363636363635
 139,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -974,7 +974,7 @@ Vun nün an bis in alli Ewigkeit: Harrrr Burjermäischter!
 (Geräusch hinter der Szene.)
 
         
-",riff-dr-hasestrickler,20,1,0.0,0.05
+",46,riff-dr-hasestrickler,20,1,0.0,0.05
 140,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -983,7 +983,7 @@ Michel:
 E Starnesappermant nochemol ning, loß m‘r die Däubhäite ewaek! — Höersch‘s nit, daß Jemeds kummt?! — Stell dich e weng respaktierli, od‘r ich müeß dich bie d‘r nachschde beschde Gelajehäid üs dim Amt als Bolizejdiener nüsschmisse!
 
         
-",riff-dr-hasestrickler,38,2,0.0,0.05263157894736842
+",46,riff-dr-hasestrickler,38,2,0.0,0.05263157894736842
 141,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -992,7 +992,7 @@ Daniel:
 Ho zall, Michel! — Ho zall! Mül g'halte jetzt, säe ich d‘r! — V‘rstehsch dû
 
         
-",riff-dr-hasestrickler,16,3,0.057333333333333326,0.1875
+",47,riff-dr-hasestrickler,16,3,0.057333333333333326,0.1875
 142,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1004,7 +1004,7 @@ Michel :
 ‘s mich?!
 
         
-",riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
+",47,riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
 143,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1016,7 +1016,7 @@ Daniel :
 Ja, Michel, aw'r wann ich babble wott, no könnt‘ ich redde, Harrrrr Burjermäischter!
 
         
-",riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
+",47,riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
 144,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1025,7 +1025,7 @@ Daniel:
 Haltsch jetzt ‘s Mül?!
 
         
-",riff-dr-hasestrickler,5,1,0.172,0.2
+",48,riff-dr-hasestrickler,5,1,0.172,0.2
 145,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1037,7 +1037,7 @@ Daniel :
 Numme respaktierli, Harr Burjermäischter, allewiel e weng respaktierli! — Wäisch, Michel, wann m‘r im e Glashüs huckt, no sell m‘r nit mit Briechhewwel uf öönderi schmisse welle! — V'rstehseh dü mich jetzt, Harrr Burjermäischter ?!
 
         
-",riff-dr-hasestrickler,38,2,0.0,0.05263157894736842
+",48,riff-dr-hasestrickler,38,2,0.0,0.05263157894736842
 148,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1050,7 +1050,7 @@ Alli Eck hawich üsgsuecht, hab aw‘r niemeds gfunge, mit Respakt ze malde, Har
 (salutiert.)
 
         
-",riff-dr-hasestrickler,23,2,0.2225,0.08695652173913043
+",49,riff-dr-hasestrickler,23,2,0.2225,0.08695652173913043
 149,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1059,7 +1059,7 @@ Michel:
 Hm . .. hesch aw‘r äu iewerall guet nochgelöijt?
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",49,riff-dr-hasestrickler,8,1,0.0,0.125
 150,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1068,7 +1068,7 @@ Chrischtoph:
 Jewerall. — Wie ich in d‘r Kiche niemeds gfunge hab, no bin ich hingenüs durch‘s Schlipfel inger de Rieswalleschopf, d‘rnoo hawich in d'r Schieredann gelôijt, im Spröijerviertel, im Fuederstall, im Keeler, enfin, vum Fundement bis inger d’Hohlziejle hawich Alles üsgsuecht un üs- gezunge mit d'r Luzern, aw'r e Juckel od‘r e Mey- Katt isch nirjeds ze finge gewahn.
 
         
-",riff-dr-hasestrickler,64,1,0.445,0.015625
+",50,riff-dr-hasestrickler,64,1,0.445,0.015625
 151,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1077,7 +1077,7 @@ Michel:
 Hm — so ebs isch doch v‘rdaachti, nit wohr? — Dies müesch dü doch salwer säueje, Chrischtoph, so ebs isch doch v‘rdaachti?!
 
         
-",riff-dr-hasestrickler,23,3,0.0,0.13043478260869565
+",50,riff-dr-hasestrickler,23,3,0.0,0.13043478260869565
 152,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1089,7 +1089,7 @@ Chrischtoph :
 Ich... ich wäiß halt nit . . . ich wäiß wahrhafti nit, was ich do ze Allem säueje sell.
 
         
-",riff-dr-hasestrickler,21,3,0.23966666666666667,0.14285714285714285
+",50,riff-dr-hasestrickler,21,3,0.23966666666666667,0.14285714285714285
 156,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1101,7 +1101,7 @@ Chrischtoph :
 Ich wüeßt nit, ich hab nix eso gsahne. — Ich kann halt die Dinger nit. — Ich wüeßt warzi nit emol wie se üssahne.
 
         
-",riff-dr-hasestrickler,28,1,0.0,0.03571428571428571
+",52,riff-dr-hasestrickler,28,1,0.0,0.03571428571428571
 157,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1113,7 +1113,7 @@ Daniel :
 Nit, daß d'r Schlicher-Juk- kel eso däub isch, un loßt sini Schlinge grood so offe un frej erum fohre ... da, do höön'r se, griffe zü, loons üsschalle im Dörfel: m‘r höön de Hoose- strickler! Ar isch iewerfüehrt, d‘r Schlicher-Juckel — Vor‘s Güwarlema mit‘m, e Prozeß oonghankt, e Johr Anse ... nee, nee, so däub isch d‘r Schlicher- Juckel doch nit! — War de Juckel for däub v'r- käufe will, dar sell sich numme guet in Oocht nahme daß ar nit salwer vum Juckel v‘rkäuft wurd, hün- ― 19― dertmol fer äinmol! — Soviel säe ich, d‘r Schwinge- Daniel, Bolizejdiener vun hie, un was ich säe, dies het e Gewicht! — D‘r Schliecher-Tuckel isch zwar miener Fynd, min Dootsfynd sozesäueje, aw‘r göönz egal- was Raacht isch mueß Raacht bliewe!
 
         
-",riff-dr-hasestrickler,141,10,0.1359,0.07092198581560284
+",52,riff-dr-hasestrickler,141,10,0.1359,0.07092198581560284
 158,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1122,7 +1122,7 @@ Chrischtoph:
 Ja, wann d‘Aktie e so stehn . .. Harr Burjermäischter, d‘rnoo könnte m‘r jo alli drej mitnööd e Hüssuechung vornahme, noch mi- nere Mäinung.
 
         
-",riff-dr-hasestrickler,26,4,0.0,0.15384615384615385
+",52,riff-dr-hasestrickler,26,4,0.0,0.15384615384615385
 159,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1131,7 +1131,7 @@ Michel:
 E Hüssuchung . . . hm... die Mäinung isch juschtemand nit iewel.
 
         
-",riff-dr-hasestrickler,10,2,0.0,0.2
+",53,riff-dr-hasestrickler,10,2,0.0,0.2
 160,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1143,7 +1143,7 @@ Daniel :
 Nee, sie iseh nit iewel, numme e weng ze Spoot.
 
         
-",riff-dr-hasestrickler,14,2,0.078,0.14285714285714285
+",53,riff-dr-hasestrickler,14,2,0.078,0.14285714285714285
 161,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1155,7 +1155,7 @@ Chrischtoph :
 Worum ze spoot?!
 
         
-",riff-dr-hasestrickler,7,2,0.078,0.2857142857142857
+",53,riff-dr-hasestrickler,7,2,0.078,0.2857142857142857
 162,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1167,7 +1167,7 @@ Daniel :
 Hm ...ich mäin numme.
 
         
-",riff-dr-hasestrickler,9,1,0.0,0.1111111111111111
+",54,riff-dr-hasestrickler,9,1,0.0,0.1111111111111111
 163,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1176,7 +1176,7 @@ Michel:
 Ja was mäinsch? Erüs mit d‘r Sproch!
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",54,riff-dr-hasestrickler,8,1,0.0,0.125
 164,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1185,7 +1185,7 @@ Daniel:
 Wo stackt d'r Juekel? — Wo stackt d‘Mej-Katt?! — Hinne?! — Läuft m‘r dann äu eso bie d‘r Noocht vun d'häime furt loßt Dhüer un Dhor offe stehn bis hinge oon, un d‘rzü goor noch, wann eso e gutes Frico uff em Fyr steht?! — Mhm ... Hoosepfaffer?!
 
         
-",riff-dr-hasestrickler,51,2,0.0,0.0392156862745098
+",54,riff-dr-hasestrickler,51,2,0.0,0.0392156862745098
 165,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1194,7 +1194,7 @@ Michel:
 Ja, dies isch v‘rdaachti . . im höchschte Grood v'rdaachti.
 
         
-",riff-dr-hasestrickler,9,3,0.0,0.3333333333333333
+",55,riff-dr-hasestrickler,9,3,0.0,0.3333333333333333
 166,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1206,7 +1206,7 @@ Chrischtoph :
 Harr Burjermäisch- ter, wie sieht dann e Hooseschling ungfahr üs?
 
         
-",riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
+",55,riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
 168,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1218,7 +1218,7 @@ Chrischtoph:
 Uf Ehr un Wahrhaf- tigkäit, miner Lawe noch nit, Harr Burjermäischter!
 
         
-",riff-dr-hasestrickler,16,4,0.15625000000000003,0.25
+",56,riff-dr-hasestrickler,16,4,0.15625000000000003,0.25
 169,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1229,7 +1229,7 @@ Nit?! — Na, ze kumm emol dohaare.
  Löijemol, siesch: zerscht emol eso, d‘rno eso ‘rum — un d‘rno e Ringele, un d’noo do durch un do haare — eso ... un wann d‘rnoo d‘r Hoos drinne stackt — tschupp — drnoo stackt‘r.
 
         
-",riff-dr-hasestrickler,65,3,0.2343333333333333,0.046153846153846156
+",56,riff-dr-hasestrickler,65,3,0.2343333333333333,0.046153846153846156
 173,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1241,7 +1241,7 @@ Daniel :
 Aij jo, zall gläuwich, jetz ware die öndere Zwäij ‘s Hüs üsgerüümt höön. Sie höön jo jetzt lang genuej Zyt ghet d’rzü.
 
         
-",riff-dr-hasestrickler,27,3,0.0,0.1111111111111111
+",57,riff-dr-hasestrickler,27,3,0.0,0.1111111111111111
 174,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1250,7 +1250,7 @@ Michel:
 Chrischtoph, wo kumme dann die Hoose- hoor haare do uf dim Blüs?
 
         
-",riff-dr-hasestrickler,14,3,0.0,0.21428571428571427
+",58,riff-dr-hasestrickler,14,3,0.0,0.21428571428571427
 175,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1262,7 +1262,7 @@ Chrischtoph :
 Hoose- hoor? — Uf mim Blüs?
 
         
-",riff-dr-hasestrickler,13,2,0.0,0.15384615384615385
+",58,riff-dr-hasestrickler,13,2,0.0,0.15384615384615385
 176,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1274,7 +1274,7 @@ Daniel :
 Ja warzi, Hoosehoor! — Varitawli Hoosehoor! — D‘r göönz Buckel hankt jo voll!
 
         
-",riff-dr-hasestrickler,17,4,0.0,0.23529411764705882
+",58,riff-dr-hasestrickler,17,4,0.0,0.23529411764705882
 177,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1286,7 +1286,7 @@ Chrischtoph :
 Ho zall!
 
         
-",riff-dr-hasestrickler,6,2,0.0,0.3333333333333333
+",59,riff-dr-hasestrickler,6,2,0.0,0.3333333333333333
 178,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1295,7 +1295,7 @@ Daniel:
 Ho zall!? Zaje, Harr Burjermäischter, löije noch emol genäu nooch.
 
         
-",riff-dr-hasestrickler,11,2,0.1095,0.18181818181818182
+",59,riff-dr-hasestrickler,11,2,0.1095,0.18181818181818182
 179,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1307,7 +1307,7 @@ Michel :
 Chrischtoph, as sin Hoosehoor, so wohr aß miner Kopf nooch mim Doodt in d‘Anatomie in de Spiritüs kummt. — Dies loßt sich nit läigne, un do loßt sich nix devun ewack dischbediere! Un dü kannsch dieh jetz drahje un wande wie de wit, diemol kann d'r ken Dokter halfe.
 
         
-",riff-dr-hasestrickler,54,4,0.0,0.07407407407407407
+",59,riff-dr-hasestrickler,54,4,0.0,0.07407407407407407
 180,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1316,7 +1316,7 @@ Chrischtoph:
 Ja zem Dejhanker noch emol ning, wie sotte dann Hoosehoor an min Blüs kumme, meecht ich wisse?!
 
         
-",riff-dr-hasestrickler,18,3,0.16133333333333333,0.16666666666666666
+",60,riff-dr-hasestrickler,18,3,0.16133333333333333,0.16666666666666666
 181,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1328,7 +1328,7 @@ Michel :
 Ja, dies meecht ich äu gaare wisse!
 
         
-",riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
+",60,riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
 183,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1340,7 +1340,7 @@ Chrischtoph :
 Däuwer Käib!
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",61,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 184,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1352,7 +1352,7 @@ Michel :
 Chrischtoph, beläidig m‘r d‘Owrigkäit nit!
 
         
-",riff-dr-hasestrickler,10,1,0.0,0.1
+",61,riff-dr-hasestrickler,10,1,0.0,0.1
 186,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1361,7 +1361,7 @@ Michel:
 Un daß d‘s wäisch, dies mit de Hoose- hoor isch v‘rdaachti, im höechschte Grood v‘r- daachti!
 
         
-",riff-dr-hasestrickler,20,2,0.0,0.1
+",62,riff-dr-hasestrickler,20,2,0.0,0.1
 187,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1372,7 +1372,7 @@ Hahahahaha! — Jetzt mueß ich laache! Exküseh, Herr Burjermäischter, ich mue
           
 
 		
-",riff-dr-hasestrickler,14,3,0.15254737477341682,0.21428571428571427
+",62,riff-dr-hasestrickler,14,3,0.15254737477341682,0.21428571428571427
 188,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1384,7 +1384,7 @@ Michel :
 Chrischtoph, sell ich d‘r waje Widderstöönd geje d‘Staatsgewalt e Proßeeswarbal maache loon?!
 
         
-",riff-dr-hasestrickler,17,3,0.0,0.17647058823529413
+",62,riff-dr-hasestrickler,17,3,0.0,0.17647058823529413
 189,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1396,7 +1396,7 @@ Chrischtoph :
 Waje was? — Die Müehj könne-n-ihr uch spaare! — Wisse- n‘r äu, was dies fer Hoosehoor sin?
 
         
-",riff-dr-hasestrickler,26,3,0.15366666666666667,0.11538461538461539
+",63,riff-dr-hasestrickler,26,3,0.15366666666666667,0.11538461538461539
 190,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1408,7 +1408,7 @@ Michel :
 Ja, hesch d'r jetzt inger dare Zyt iew‘r Lüeje nochgedankt?!
 
         
-",riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
+",63,riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
 191,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1420,7 +1420,7 @@ Chrischtoph :
 Lüeje?! — Pardon, Harr Burjermäischter, was ich säe isch ken Lüeje! — Parole d’honneur! Uff Ehr un Wahrhaftigkäit! — Un was an mim Blüs hankt, dies sin ken Hoose- hoor....
 
         
-",riff-dr-hasestrickler,36,5,0.20780000000000004,0.1388888888888889
+",63,riff-dr-hasestrickler,36,5,0.20780000000000004,0.1388888888888889
 193,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1432,7 +1432,7 @@ Chrischtoph :
 Nee, aw‘r Kinjeleshoor!
 
         
-",riff-dr-hasestrickler,7,1,0.461,0.14285714285714285
+",64,riff-dr-hasestrickler,7,1,0.461,0.14285714285714285
 194,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1444,7 +1444,7 @@ Daniel :
 Ah zallewaj! — Ich hab gemäint as warde Pfoofaddere?
 
         
-",riff-dr-hasestrickler,13,2,0.074,0.15384615384615385
+",64,riff-dr-hasestrickler,13,2,0.074,0.15384615384615385
 198,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1453,7 +1453,7 @@ Michel:
 Dies könnt d‘r niemeds v‘rwehre?
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",66,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 199,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1464,7 +1464,7 @@ Nit? — Na also: uff Ehr un Wahr: haftigkäit, as sin ken „Pfoofaddere“ ...
  Harr Bolizejdiener!
 
         
-",riff-dr-hasestrickler,21,2,0.31250000000000006,0.09523809523809523
+",66,riff-dr-hasestrickler,21,2,0.31250000000000006,0.09523809523809523
 200,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1473,7 +1473,7 @@ Michel:
 Chrischtoph, dü hesch e beeses Mül hyt.
 
         
-",riff-dr-hasestrickler,8,1,0.172,0.125
+",66,riff-dr-hasestrickler,8,1,0.172,0.125
 201,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1484,7 +1484,7 @@ Un Öönderi selle-n-ihr‘s üs- schwanke. — War e Pris will, kann schnupfe! 
           
 
 		
-",riff-dr-hasestrickler,27,3,0.11733333333333333,0.1111111111111111
+",67,riff-dr-hasestrickler,27,3,0.11733333333333333,0.1111111111111111
 203,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1496,7 +1496,7 @@ Chrischtoph :
 Ich pfiff uch uff öijeri Respaktierliechkäit! — V‘rstehn ihr mich?! Was bilde dann ihr uch ing, hinne?! De gröeschte Hal- lunkt üssem Dorf het m‘r zem Bolizediener ge- maacht . .. d’kläinschte King mache jo‘s Kryz vor dir- dü Arzhallunk!
 
         
-",riff-dr-hasestrickler,47,4,0.07425,0.0851063829787234
+",67,riff-dr-hasestrickler,47,4,0.07425,0.0851063829787234
 205,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1508,7 +1508,7 @@ Chrischtoph :
 „Harr Burjermäischter“?! Was isch dann los mit‘m ,,Harr Burjermäischter“?! Mäinsch daß dar d‘r halfe kann?! Wann ich dam de Sundiname säu, ze schlupft‘r inger de Disch!
 
         
-",riff-dr-hasestrickler,34,2,0.2385,0.058823529411764705
+",68,riff-dr-hasestrickler,34,2,0.2385,0.058823529411764705
 207,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1517,7 +1517,7 @@ Daniel:
 Ze Befahl, Harr Burjermäischter! Feld- hüter un Banwart Chrischtoph Feldmann: im Name vun d‘r Owriekäit, im Name des Gsetzes ...
 
         
-",riff-dr-hasestrickler,21,1,0.0,0.047619047619047616
+",69,riff-dr-hasestrickler,21,1,0.0,0.047619047619047616
 208,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph :
@@ -1529,7 +1529,7 @@ Chrischtoph :
 Was isch los?! — Basse numme-n-uff, ihr Zwäi: äin Wort vun mir, un zehn Johr Anze sin uch sicher!
 
         
-",riff-dr-hasestrickler,27,4,0.11925,0.14814814814814814
+",69,riff-dr-hasestrickler,27,4,0.11925,0.14814814814814814
 209,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1541,7 +1541,7 @@ Mey-Katt :
 Löij do! — M'r höön gläuwi Visit? — Guete-n-Owe äu! — Un d'r Harr Burjermäischter kummt äu noch so spoot in d‘r Noocht?! — Isch ebs üssergewüehnliches das- siert? — Sell imstöönd e üsserordentlichi Gemäine- rootssitzung ooghalte ware hint noch?
 
         
-",riff-dr-hasestrickler,50,3,0.052,0.06
+",69,riff-dr-hasestrickler,50,3,0.052,0.06
 210,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1553,7 +1553,7 @@ Michel :
 Ja, m‘r welle noch e „Sitzung“ oohalte hyt! — E daffeti! — Wo isch dann d'r Juckel, daß m‘r ‘ne mit kem Äu zu sahne krejt?
 
         
-",riff-dr-hasestrickler,32,3,0.0,0.09375
+",70,riff-dr-hasestrickler,32,3,0.0,0.09375
 211,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1564,7 +1564,7 @@ Driewe biem Noochber, biem We- werlanzebüür. — Ich kum äu grod vun driewe. 
           
 
 		
-",riff-dr-hasestrickler,31,2,0.0,0.06451612903225806
+",70,riff-dr-hasestrickler,31,2,0.0,0.06451612903225806
 215,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1576,7 +1576,7 @@ Mey-Katt :
 Noch ken Starweswörtele! — Sicher nit! — Ja was het dann dies Alles ze be- dytte, ihr liewi Lyt?
 
         
-",riff-dr-hasestrickler,24,3,0.0,0.125
+",71,riff-dr-hasestrickler,24,3,0.0,0.125
 216,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1588,7 +1588,7 @@ Michel :
 Mey-Katt, geh mit, d'r Wohrhäit um, un g'steh's offe un ehrli: Dü, diner Mann un d‘r Chrischtoph, ihr drej äin Komplott!
 
         
-",riff-dr-hasestrickler,32,4,0.0,0.125
+",72,riff-dr-hasestrickler,32,4,0.0,0.125
 217,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1600,7 +1600,7 @@ Mey-Katt :
 Komplott?!
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",72,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 218,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1609,7 +1609,7 @@ Chrischtoph:
 Michel, nimm dich zamme!
 
         
-",riff-dr-hasestrickler,5,1,0.0,0.2
+",72,riff-dr-hasestrickler,5,1,0.0,0.2
 219,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1618,7 +1618,7 @@ Michel:
 Dies sell häiße: Mey-Katt, sieh dich vor! Jaa, die Sprooch v‘rstehn m‘r! — Worum bisch dann ewe eso zammegfahre, Mey-Katt?
 
         
-",riff-dr-hasestrickler,21,2,0.0,0.09523809523809523
+",73,riff-dr-hasestrickler,21,2,0.0,0.09523809523809523
 220,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1630,7 +1630,7 @@ Mey-Katt :
 Zammegfahre?!. — Ja sell m‘r dann do nit zammefahre, wann m‘r an nix Bee- ses dankt un krejt no so ebs ze höere?! — Komplott! — Haha! — Mir e Komplott! — Ja was dann fer e Komplott wann m‘r fröje derf?!
 
         
-",riff-dr-hasestrickler,47,4,0.0,0.0851063829787234
+",73,riff-dr-hasestrickler,47,4,0.0,0.0851063829787234
 222,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1639,7 +1639,7 @@ Michel:
 Wit dü din Mül jetzt emol halte, Chrisehtoph?!
 
         
-",riff-dr-hasestrickler,9,2,0.086,0.2222222222222222
+",74,riff-dr-hasestrickler,9,2,0.086,0.2222222222222222
 224,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1653,7 +1653,7 @@ Ja was dann jetzt mit dem Komplott?! — Harr Bu mäischter, wo will denn dies n
  Mir! — Un wann mir e ungschliffeni Visit do ering kummt, un ich will ‘s Hüs süüfer höön, no loß ich de Hünd los, v‘rstange?! — Un wann d'r Bur- jermäischter mit‘m göönze Gemäimeroot do war! — War mir nit baßt, fliejt nüs! — Verstange?!
 
         
-",riff-dr-hasestrickler,109,5,0.0954,0.045871559633027525
+",74,riff-dr-hasestrickler,109,5,0.0954,0.045871559633027525
 231,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1662,7 +1662,7 @@ Mey-Katt:
 Dü Arzhallung, dü elanger! — Dü hesch‘s noch notwandi, öönderi Lyt v‘rdaachtige ze welle! — Soll ich dich uf‘s Galee führe?!
 
         
-",riff-dr-hasestrickler,24,3,0.0,0.125
+",77,riff-dr-hasestrickler,24,3,0.0,0.125
 232,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1672,7 +1672,7 @@ Mich uf‘s Galee? Harr Bolizejdiener Daniel Schwing: im Name d‘r Owrikäit, i
 (weist auf M ey-Katt.)
 
         
-",riff-dr-hasestrickler,23,2,0.0,0.08695652173913043
+",77,riff-dr-hasestrickler,23,2,0.0,0.08695652173913043
 233,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1681,7 +1681,7 @@ Daniel:
 Ze Befahl, Harr Burjermäischter! Ma- ria Katharina Schlicher, geboreni Gluckser, im Name vun d‘r Owrikäit, im Name des Gsetzes! ""legt ihr die Hand auf die Schulter.)
 
         
-",riff-dr-hasestrickler,29,2,0.328,0.06896551724137931
+",77,riff-dr-hasestrickler,29,2,0.328,0.06896551724137931
 234,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1694,7 +1694,7 @@ Was isch los! —
  — Zem Hüs nüs, säe ich! — Enööndernooch! — Mir' s Hüs süüfer gemoocht, od‘r ich loß de Hünd los!
 
         
-",riff-dr-hasestrickler,88,9,0.106,0.10227272727272728
+",78,riff-dr-hasestrickler,88,9,0.106,0.10227272727272728
 235,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -1706,7 +1706,7 @@ Schakob :
 Was isch dann dies fer e Lawesdäuej do hinne? — Ah, löij do, d'r Harr Maire! — So spoot in d‘r Noocht noch? — Un d'r Bolizejdiener? — Un d‘r Bangert? — D‘göönz Ow- rigkäit isch jo bienöönder? — Sitze doch e weng, ihr Harre! -— Als Platz genumme! —- Mey-Katt, hol doch hurtli e Kriejel Wyn eruf.
 
         
-",riff-dr-hasestrickler,66,4,0.039,0.06060606060606061
+",78,riff-dr-hasestrickler,66,4,0.039,0.06060606060606061
 236,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -1718,7 +1718,7 @@ Mey-Katt :
 Worum nit goor?! — Sell ich nit noch e Stickel Geräuicherts üssem. Kamin d’zü läije?!
 
         
-",riff-dr-hasestrickler,20,1,0.0,0.05
+",78,riff-dr-hasestrickler,20,1,0.0,0.05
 237,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1727,7 +1727,7 @@ Schakob:
 Ja was geht dann äijetli vor do hinne, um ‘s Himmelswille?
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",79,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 238,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1736,7 +1736,7 @@ Michel:
 Schakob, mit kurze Worte franschema erüs gsäit: as isch e-n-anonyms Schrywes an ‘s Güwarlema gange ... ..
 
         
-",riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
+",79,riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
 239,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -1748,7 +1748,7 @@ Schakob :
 ... waje d‘r Hoosestrick- lerej. Ich wäiß's. — In d'r letschte Gemäineroots- sitzung isch jo die Vorläuej vum Harr Kräisdirakter vorgelaase wörre vum Greffier. — Ja un jetzt?
 
         
-",riff-dr-hasestrickler,35,2,0.0,0.05714285714285714
+",79,riff-dr-hasestrickler,35,2,0.0,0.05714285714285714
 240,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1760,7 +1760,7 @@ Michel :
 Un jetzt sueche mir d‘r Hoo- sestrickler.
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",80,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 241,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1771,7 +1771,7 @@ Ah zallewaj?!
  — Un do sell ich imstöönd e weng halfe mitsüeche?
 
         
-",riff-dr-hasestrickler,17,2,0.0,0.11764705882352941
+",80,riff-dr-hasestrickler,17,2,0.0,0.11764705882352941
 243,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1780,7 +1780,7 @@ Daniel:
 Die göönz Suecherej könnt m'r sich aw'r spaare.
 
         
-",riff-dr-hasestrickler,9,1,0.0,0.1111111111111111
+",81,riff-dr-hasestrickler,9,1,0.0,0.1111111111111111
 244,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1789,7 +1789,7 @@ Schakob:
 Ja?!
 
         
-",riff-dr-hasestrickler,2,1,0.0,0.5
+",81,riff-dr-hasestrickler,2,1,0.0,0.5
 245,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1798,7 +1798,7 @@ Daniel:
 Äij jo, . . . ich mäin dü könntsch äim am beschte Üskunft geen, wo d‘r Hoosestrickler ze sueche isch.
 
         
-",riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
+",81,riff-dr-hasestrickler,18,1,0.0,0.05555555555555555
 246,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1807,7 +1807,7 @@ Schakob:
 Worum jetzt grood ich? — Wo will dann dies nüs?! — Sell ‘s im Stöönd uf mich ge- münzt sin?!
 
         
-",riff-dr-hasestrickler,22,1,0.0,0.045454545454545456
+",82,riff-dr-hasestrickler,22,1,0.0,0.045454545454545456
 247,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1816,7 +1816,7 @@ Mey-Katt:
 Kehj ‘ne doch nüs, Juckel! — D‘Staafel ‘noo mitm, daß'r Halsch un Bäin bricht! Dar isch dr Radelsfüehrer, Juckel! — Dar isch‘s, wie im Burjermäischter in d‘Ohre ghüchelt het, daß mir Zwäi un d‘r Bangert äin Komplott warde! — Dar isch‘s, wie's im Burjermäischter biegebroocht het, daß mir drej hint Owe gstrickelti Hoose furt- gschläift hatte.
 
         
-",riff-dr-hasestrickler,63,1,0.148,0.015873015873015872
+",82,riff-dr-hasestrickler,63,1,0.148,0.015873015873015872
 248,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1827,7 +1827,7 @@ Ah do will‘s nüs?! — Wit m‘r noch emol e Prozaß ans Bäin hanke? — Ela
           
 
 		
-",riff-dr-hasestrickler,26,3,0.14333333333333334,0.11538461538461539
+",82,riff-dr-hasestrickler,26,3,0.14333333333333334,0.11538461538461539
 250,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1838,7 +1838,7 @@ Ze Befahl, Harr Burjermäischter! — Gemäinerootsharr Schakob Schlicher: im Na
  Ingersteh dich numme nit, elanger Schma- rotzlöffel, Urkundefalscher, Prozeßkramer, Hoose- striekler ?!
 
         
-",riff-dr-hasestrickler,42,2,0.328,0.047619047619047616
+",83,riff-dr-hasestrickler,42,2,0.328,0.047619047619047616
 252,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -1850,7 +1850,7 @@ Schakob :
 Wann ich d‘r äini vun owe- raa uf de Bleß bammer, no meriksch's!
 
         
-",riff-dr-hasestrickler,19,2,0.0,0.10526315789473684
+",84,riff-dr-hasestrickler,19,2,0.0,0.10526315789473684
 253,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1859,7 +1859,7 @@ Mey-Katt:
 Schakob, schläuej‘m doch e Briech- hewwel ins Kryz, daß'r Hang un Füeß vun sich streckt, dar Lumpehünd dar elang!
 
         
-",riff-dr-hasestrickler,22,1,0.0,0.045454545454545456
+",84,riff-dr-hasestrickler,22,1,0.0,0.045454545454545456
 255,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1870,7 +1870,7 @@ Juckel, loß de Hünd los! Michel
  — Dod‘rgeje pro- teschtier ieh aw‘r! — Dies isch Widderstöönd geje d'Stootsgewalt!
 
         
-",riff-dr-hasestrickler,44,4,0.26775,0.09090909090909091
+",85,riff-dr-hasestrickler,44,4,0.26775,0.09090909090909091
 256,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1879,7 +1879,7 @@ Schakob:
 Ja was welle-n'r dann vun mir?
 
         
-",riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
+",85,riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
 257,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1888,7 +1888,7 @@ Michel:
 Schakob, dü bisch iewerfüehrt als dar Hoosestrickler, wie schun johrelang ünsere göönze Bann unsicher maacht. — Dü bisch iewerfüchrt!
 
         
-",riff-dr-hasestrickler,20,1,0.6227939246956051,0.05
+",85,riff-dr-hasestrickler,20,1,0.6227939246956051,0.05
 261,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1900,7 +1900,7 @@ Michel:
 Mir danne Hoosepfaffer do ering geträueje! — Do haare mitm uf de Disch! — Im Name vun dr Owrigkäit, im Name des Gesetzes
 
         
-",riff-dr-hasestrickler,31,1,0.0,0.03225806451612903
+",87,riff-dr-hasestrickler,31,1,0.0,0.03225806451612903
 266,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1912,7 +1912,7 @@ Michel :
 Danne Hoos epfaffer do ering!
 
         
-",riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
+",88,riff-dr-hasestrickler,13,1,0.0,0.07692307692307693
 268,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -1924,7 +1924,7 @@ Daniel :
 Im Stöönd goor vum e prä- miierte?
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",89,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 269,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -1933,7 +1933,7 @@ Schakob:
 Ja, prämiierter Kinjelespfaffer mit ere gfälschte Ürkundesauce! — Schmecksch dene
 
         
-",riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
+",89,riff-dr-hasestrickler,11,1,0.0,0.09090909090909091
 270,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -1945,7 +1945,7 @@ Michel :
 In minere Äijeschaft als Bur- jermäischter säe ich‘s zem letsehtemol: danne Hoo- sepfaffer do er ing geträuje! Do haare mit, un e bissel lest wann‘s beliebt!
 
         
-",riff-dr-hasestrickler,34,2,0.0,0.058823529411764705
+",90,riff-dr-hasestrickler,34,2,0.0,0.058823529411764705
 271,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -1957,7 +1957,7 @@ Schakob :
 Mey-Katt, hol ‘ne,
 
         
-",riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
+",90,riff-dr-hasestrickler,7,1,0.0,0.14285714285714285
 272,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -1967,7 +1967,7 @@ Na wart numme, Burjermäischter, na wart numme! — ‘s letscht Wort isch noch 
 (eilt hastig rechts ab.)
 
         
-",riff-dr-hasestrickler,22,4,0.074,0.18181818181818182
+",90,riff-dr-hasestrickler,22,4,0.074,0.18181818181818182
 276,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -1976,7 +1976,7 @@ Michel:
 Dü hesch din Mül ze halte!
 
         
-",riff-dr-hasestrickler,7,2,0.086,0.2857142857142857
+",92,riff-dr-hasestrickler,7,2,0.086,0.2857142857142857
 277,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -1985,7 +1985,7 @@ Chrischtoph:
 Nee ich halt‘s nit! — Vor dir uf kene Fall, dü latzgedrajter Patant-Hoosestrickler!
 
         
-",riff-dr-hasestrickler,15,3,0.0,0.2
+",92,riff-dr-hasestrickler,15,3,0.0,0.2
 280,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -1994,7 +1994,7 @@ Daniel:
 Numme zefridde, Burjermäischter, m‘r ware schun noch ferti mit dam Gsindel!
 
         
-",riff-dr-hasestrickler,12,2,0.0,0.16666666666666666
+",93,riff-dr-hasestrickler,12,2,0.0,0.16666666666666666
 281,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -2005,7 +2005,7 @@ Jaja, numme oogewart, m‘r ware sehun noch e Wort mitnöönd redde!
 		  
 
         
-",riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
+",93,riff-dr-hasestrickler,12,1,0.0,0.08333333333333333
 282,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2014,7 +2014,7 @@ Mey-Katt:
 Do, ihr Hafegücker, hanke öijeri Nase ning!
 
         
-",riff-dr-hasestrickler,8,1,0.0,0.125
+",94,riff-dr-hasestrickler,8,1,0.0,0.125
 283,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -2026,7 +2026,7 @@ Michel :
 Mhm . . . aha . . . do lejt d'r Hoos im Pfaffer! — Un dies soll ken Hoosepfaffer sin?!
 
         
-",riff-dr-hasestrickler,25,1,0.0,0.04
+",94,riff-dr-hasestrickler,25,1,0.0,0.04
 286,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2035,7 +2035,7 @@ Mey-Katt:
 Nee, e Katzeroller isch‘s, daß ‘r ‘s grood äu wisse, ihr Simpel!
 
         
-",riff-dr-hasestrickler,14,1,0.0,0.07142857142857142
+",95,riff-dr-hasestrickler,14,1,0.0,0.07142857142857142
 289,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -2047,7 +2047,7 @@ Michel:
 Dar Hoosepfaffer ...
 
         
-",riff-dr-hasestrickler,23,1,0.0,0.043478260869565216
+",96,riff-dr-hasestrickler,23,1,0.0,0.043478260869565216
 292,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -2056,7 +2056,7 @@ Michel:
 Numme zefridde! — Dar Hoosepfaffer isch bschläujnahmt, im Name vun d'r Owrigkäit, im Name des Gsetzes!
 
         
-",riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
+",97,riff-dr-hasestrickler,17,1,0.0,0.058823529411764705
 293,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel:
@@ -2065,7 +2065,7 @@ Daniel:
 Zäije, Burjermäischter, decke dene Hafe noch emol uf!
 
         
-",riff-dr-hasestrickler,9,3,0.0,0.3333333333333333
+",97,riff-dr-hasestrickler,9,3,0.0,0.3333333333333333
 294,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2074,7 +2074,7 @@ Mey-Katt:
 Nixdo! — Dar Hafe bliet m‘r jetzt zügedeckt, a'wr uch will ich e-n-öönders Hafel uf- decke, daß uch d‘Ohre hyle ware sechs Wuche lang!
 
         
-",riff-dr-hasestrickler,29,5,0.059399999999999994,0.1724137931034483
+",98,riff-dr-hasestrickler,29,5,0.059399999999999994,0.1724137931034483
 296,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2083,7 +2083,7 @@ Mey-Katt:
 Numme staat! -— Also, jetzt wurd emol üsgepackt, un aw‘r krafti! — Nit daß ihr mäine ihr sin gschiedter as wie öönderi Lyt! — Od‘r daß ihr uch iewer eesmools noch ingbilde daate, ihr warde ehrlicher wie öönderi Lyt! — War bragon- niert dann am stärksehte im göönze Dörfel?!
 
         
-",riff-dr-hasestrickler,52,4,0.037,0.07692307692307693
+",98,riff-dr-hasestrickler,52,4,0.037,0.07692307692307693
 297,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -2097,7 +2097,7 @@ Ja, war?
           
 
         
-",riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
+",99,riff-dr-hasestrickler,6,1,0.0,0.16666666666666666
 300,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2106,7 +2106,7 @@ Mey-Katt:
 Jaja, zäij m‘r‘s numme! — Fang numme oon ze prozässe, wann Kürasch d‘rzü hesch! — E größeri Fräid kannsch m‘r goor keni maache! — Ich wur‘s de Richter schun vorlaase, ohni Ka- leender in d‘r Höönd, an welle Daaj gstrickelti Hoose und gstriekelti Reh in de Schlinge vum Bur- jermäischter gezawwelt höön, un in welle Naacht gstrickelti Hoose un gstrickelti Reh uffem Buckel vom Bolizejdiener in de Keeler vum Burjermäisch- ter g‘schläift sin worre! — De Datum hawich m‘r jedemol uffgriewe, un d‘Stüeckzahl vun de Hoose un vun de Reh äü! —- Ja, hahahahahaha! — Un de Name vun dem Lumpejud, wie bie Noocht un Naw- wel als d‘Pelz g‘holt het im Schlipfel hingerem Bur- jermäischter sim Küehstall, wisse m‘r äul — Un wann m'r noch meh vun mir wisse will...
 
         
-",riff-dr-hasestrickler,143,8,0.28425,0.055944055944055944
+",100,riff-dr-hasestrickler,143,8,0.28425,0.055944055944055944
 301,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -2122,7 +2122,7 @@ Dies isch Alles v‘rlöije, v'r- stunke un v‘rlöije! — Ehrli un redli bin 
 — Un war mir aw‘r ‘s Gejedhäl bewiese will...
 
         
-",riff-dr-hasestrickler,102,10,0.0,0.09803921568627451
+",100,riff-dr-hasestrickler,102,10,0.0,0.09803921568627451
 302,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2136,7 +2136,7 @@ Ja, dies bewiese mir dir, Burjermäischter! — Hündertmol fer äi mol! — Un 
           
 
         
-",riff-dr-hasestrickler,104,8,0.0185,0.07692307692307693
+",100,riff-dr-hasestrickler,104,8,0.0185,0.07692307692307693
 303,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -2145,7 +2145,7 @@ Michel:
 Bscht, stille, stille! — Brüell doch nit eso! — Mey-Katt, sej v'rstandi un brüell nit eso!
 
         
-",riff-dr-hasestrickler,17,4,0.0,0.23529411764705882
+",101,riff-dr-hasestrickler,17,4,0.0,0.23529411764705882
 304,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt:
@@ -2154,7 +2154,7 @@ Mey-Katt:
 Was isch los?! Vorewe höön ihr zwäi ‘s Hüs vollgebrüellt, jetzt isch‘s brüelle emol an üns! — V'rstange?!
 
         
-",riff-dr-hasestrickler,20,3,0.159,0.15
+",101,riff-dr-hasestrickler,20,3,0.159,0.15
 305,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -2166,7 +2166,7 @@ Michel :
 Äij jo, äij jo, um's Himmels- wille stille.
 
         
-",riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
+",101,riff-dr-hasestrickler,14,2,0.0,0.14285714285714285
 306,comedy,Schakob Schlicher,M,,,,"
           
 Schakob:
@@ -2175,7 +2175,7 @@ Schakob:
 Nix do! — Mey-Katt, brüell daß d' Wand lottle!
 
         
-",riff-dr-hasestrickler,10,1,0.0,0.1
+",102,riff-dr-hasestrickler,10,1,0.0,0.1
 307,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -2184,7 +2184,7 @@ Chrischtoph:
 Numme üsgepackt, Mey-Katt! — Wann dü ferti bisch, no fang ich oon!
 
         
-",riff-dr-hasestrickler,13,1,0.32,0.07692307692307693
+",102,riff-dr-hasestrickler,13,1,0.32,0.07692307692307693
 313,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2196,7 +2196,7 @@ Mey-Katt :
 Nix do! — Dogebliewe wurd! — Ueh will ich's schun noch zäije! — Uch will ich schun noch e Nuß. ze kraache geen! — Uch will ch‘s schun noch ze v‘r- stehn geen, wo d‘gfahrligschte Hoosestrickler ze sueche sin, ün was m'r zwische „Ehremanner* v’rsteht!
 
         
-",riff-dr-hasestrickler,58,2,0.0,0.034482758620689655
+",104,riff-dr-hasestrickler,58,2,0.0,0.034482758620689655
 315,comedy,Daniel Schwing,M,policeman,government_executive_officials,lower_middle_class,"
           
 Daniel :
@@ -2208,7 +2208,7 @@ Daniel :
 Zall mäin ich doch ewe äu.
 
         
-",riff-dr-hasestrickler,10,2,0.0,0.2
+",105,riff-dr-hasestrickler,10,2,0.0,0.2
 316,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel:
@@ -2217,7 +2217,7 @@ Michel:
 Platz gemaacht!
 
         
-",riff-dr-hasestrickler,3,1,0.0,0.3333333333333333
+",105,riff-dr-hasestrickler,3,1,0.0,0.3333333333333333
 317,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2235,7 +2235,7 @@ Mit d‘r gröeschte Pläsier Harr Burjermäischter! — Fer hyt langt‘s jo je
           
 
         
-",riff-dr-hasestrickler,84,7,0.12942857142857142,0.08333333333333333
+",105,riff-dr-hasestrickler,84,7,0.12942857142857142,0.08333333333333333
 318,comedy,Michel Schaller,M,mayor,government_executive_officials,lower_middle_class,"
           
 Michel :
@@ -2250,7 +2250,7 @@ Schindmarre, vrdammti! — Kum, Daniel! Lümpevolik, elangs, knitzigs!
 (Beide stoßen von außen das Fenster auf und schreien in ohnmächtiger Wut den Dreien Drohungen zu: „Uch ware m‘s schun noch zäije! — Woorte numme, war ze- letscht laacht, laacht am Beschte! usw usw. bis sie mit Besen, Wasserkrug und Knotenstock weggejagt werden)
 
         
-",riff-dr-hasestrickler,68,8,0.08290759685835632,0.11764705882352941
+",106,riff-dr-hasestrickler,68,8,0.08290759685835632,0.11764705882352941
 319,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2263,7 +2263,7 @@ Guet Noocht mitnööndt! kumme güet häim! — Gann Oocht, daß‘r nit stulwer
 (Man hört den Nachtwächter in der Ferne tuten.)
 
         
-",riff-dr-hasestrickler,71,9,0.0,0.1267605633802817
+",106,riff-dr-hasestrickler,71,9,0.0,0.1267605633802817
 320,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -2272,7 +2272,7 @@ Schakob :
 (schließt die Tür: Stille jetzt, Mey-Katt, d’v Noochtwaachter isch um de Waaj!
 
         
-",riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
+",106,riff-dr-hasestrickler,15,1,0.0,0.06666666666666667
 321,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2281,7 +2281,7 @@ Mey-Katt :
 Mäine-n-r, wie die Zwäij jetzt d‘Schaddel hanke loon?
 
         
-",riff-dr-hasestrickler,12,3,0.0,0.25
+",107,riff-dr-hasestrickler,12,3,0.0,0.25
 322,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -2290,7 +2290,7 @@ Chrischtoph:
 Die loon üns in Rüehj naachsch- tens!
 
         
-",riff-dr-hasestrickler,9,2,0.0,0.2222222222222222
+",107,riff-dr-hasestrickler,9,2,0.0,0.2222222222222222
 323,comedy,Schakob Schlicher,M,,,,"
           
 Schakob :
@@ -2302,7 +2302,7 @@ Schakob :
 Hoffetli!
 
         
-",riff-dr-hasestrickler,5,1,0.461,0.2
+",107,riff-dr-hasestrickler,5,1,0.461,0.2
 324,comedy,Mey-Katt,F,,,,"
           
 Mey-Katt :
@@ -2314,7 +2314,7 @@ Mey-Katt :
 Ain Komplott isch vor dr Dhüer drüsse.
 
         
-",riff-dr-hasestrickler,11,1,0.461,0.09090909090909091
+",108,riff-dr-hasestrickler,11,1,0.461,0.09090909090909091
 325,comedy,Chrischtoph Feldmann,M,rural_policeman,government_executive_officials,lower_middle_class,"
           
 Chrischtoph:
@@ -2329,4 +2329,4 @@ Chrischtoph:
  Vorhang fällt.
 
         
-",riff-dr-hasestrickler,40,7,0.21100000000000002,0.175
+",108,riff-dr-hasestrickler,40,7,0.21100000000000002,0.175

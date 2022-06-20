@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -12,7 +12,7 @@ Dis weiß d'r lieb Herrgott, was dü mit dine Hoor machsch. Als widder verstruww
           Ziginnersmaidel.
 
         
-",greber-lucie,44,3,0.5597033560640234,0.06818181818181818
+",0,greber-lucie,44,3,0.5597033560640234,0.06818181818181818
 1,drama,Berthe,F,,,,"
           
 Berthe :
@@ -21,7 +21,7 @@ Berthe :
 Auah! Auah! De machsch m'r weh, Mamme.
 
         
-",greber-lucie,8,2,0.5389926430750309,0.25
+",0,greber-lucie,8,2,0.5389926430750309,0.25
 2,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -31,7 +31,7 @@ Halt! e bissele still, daß ich dich strähle kann. Ropfe müeß ich dich halt s
           schuld dran. Wo isch din Zopfbendel? Hesch ne 'mol widder verlore?
 
         
-",greber-lucie,30,7,0.4111110270087049,0.23333333333333334
+",0,greber-lucie,30,7,0.4111110270087049,0.23333333333333334
 4,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -46,7 +46,7 @@ Gib here!
           gemacht?
 
         
-",greber-lucie,64,8,0.6353605352615294,0.125
+",1,greber-lucie,64,8,0.6353605352615294,0.125
 5,drama,Berthe,F,,,,"
           
 Berthe :
@@ -56,7 +56,7 @@ Ich hab sie gemacht, awer 's Lucie müeß mich emol de Katechisme üwwerhöre, o
           Wurum kummt's denn so lang nit?
 
         
-",greber-lucie,27,3,0.6868814189725527,0.1111111111111111
+",1,greber-lucie,27,3,0.6868814189725527,0.1111111111111111
 6,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -65,7 +65,7 @@ Mutter :
 Fröuj's doch selbscht; es saat m'r 's nit, was for Gschäfte 's het.
 
         
-",greber-lucie,15,3,0.5827380465128694,0.2
+",1,greber-lucie,15,3,0.5827380465128694,0.2
 7,drama,Berthe,F,,,,"
           
 Berthe :
@@ -74,7 +74,7 @@ Berthe :
 Denk emol, grad ewwe-n-isch e Herr do gsin, un het noch em gfröujt.
 
         
-",greber-lucie,16,2,0.6390370489471957,0.125
+",1,greber-lucie,16,2,0.6390370489471957,0.125
 9,drama,Berthe,F,,,,"
           
 Berthe :
@@ -83,7 +83,7 @@ Berthe :
 Uff d'r Gaß.
 
         
-",greber-lucie,4,1,0.714,0.25
+",2,greber-lucie,4,1,0.714,0.25
 10,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -92,7 +92,7 @@ Mutter :
 E Herr?
 
         
-",greber-lucie,3,1,0.578708951845571,0.3333333333333333
+",2,greber-lucie,3,1,0.578708951845571,0.3333333333333333
 11,drama,Berthe,F,,,,"
           
 Berthe :
@@ -104,7 +104,7 @@ Ja, e schöner großer Herr isch kumme, mit eme schwarze Schnützer un eme golde
           Un derno isch er widder furt gange.
 
         
-",greber-lucie,65,7,0.5399281696205389,0.1076923076923077
+",2,greber-lucie,65,7,0.5399281696205389,0.1076923076923077
 12,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -113,7 +113,7 @@ Mutter :
 's isch güet. Ich saa's im, wenn's heime kummt.
 
         
-",greber-lucie,12,1,0.8496361744517235,0.08333333333333333
+",3,greber-lucie,12,1,0.8496361744517235,0.08333333333333333
 13,drama,Berthe,F,,,,"
           
 Berthe :
@@ -122,7 +122,7 @@ Berthe :
 O jeh, d'r Babbe! Ich glaub, er het schun widder eini.
 
         
-",greber-lucie,12,2,0.8068285566138631,0.16666666666666666
+",3,greber-lucie,12,2,0.8068285566138631,0.16666666666666666
 14,drama,Joseph Engel,M,,,,"
           
 Vater
@@ -135,7 +135,7 @@ Vater
 Mach, daß de m'r üs de Füeß gehsch, Krott, elendi! Sunsch gitts Schmier! Sacré matin noch emol!
 
         
-",greber-lucie,36,4,0.49610970621728795,0.1111111111111111
+",3,greber-lucie,36,4,0.49610970621728795,0.1111111111111111
 15,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -151,7 +151,7 @@ d'Gaß Kind. Din Babbe isch awer au gar ze wüscht mit d'r.
 (Berthe rechts ab.)
 
         
-",greber-lucie,42,7,0.6198321989623572,0.16666666666666666
+",3,greber-lucie,42,7,0.6198321989623572,0.16666666666666666
 16,drama,Joseph Engel,M,,,,"
           
 Vater
@@ -166,7 +166,7 @@ Brüchsch nit vum m'r furtzelaufe, ich biß dich nit. — —
  Isch's z'Nachtesse gerischt? — — Ich hab Hunger.
 
         
-",greber-lucie,32,3,0.5283014930134439,0.09375
+",4,greber-lucie,32,3,0.5283014930134439,0.09375
 17,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -176,7 +176,7 @@ Mutter :
           de nit warte witt, ze kannsch gehn, wo de here kumme bisch.
 
         
-",greber-lucie,31,4,0.510842032802113,0.12903225806451613
+",4,greber-lucie,31,4,0.510842032802113,0.12903225806451613
 18,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -185,7 +185,7 @@ Vater :
 Es müeß aim währli angscht und bang sin, wenn m'r heime kummt.
 
         
-",greber-lucie,13,3,0.5773815924260354,0.23076923076923078
+",4,greber-lucie,13,3,0.5773815924260354,0.23076923076923078
 19,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -194,7 +194,7 @@ Mutter :
 Ja, ich meins au!
 
         
-",greber-lucie,5,1,0.731982479119855,0.2
+",4,greber-lucie,5,1,0.731982479119855,0.2
 20,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -203,7 +203,7 @@ Vater :
 Was gitt's ze-n-esse ?
 
         
-",greber-lucie,7,1,0.8024733948546023,0.14285714285714285
+",5,greber-lucie,7,1,0.8024733948546023,0.14285714285714285
 22,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -212,7 +212,7 @@ Vater :
 Sunsch nix? Dis Fresse hawi satt!
 
         
-",greber-lucie,7,2,0.7295593814025267,0.2857142857142857
+",5,greber-lucie,7,2,0.7295593814025267,0.2857142857142857
 23,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -221,7 +221,7 @@ Mutter :
 Eh ben, no geh lüeje, wo de-n-ebbs bessers bekummsch. Mir sin d'rmit zefridde.
 
         
-",greber-lucie,17,2,0.8827322188392992,0.11764705882352941
+",5,greber-lucie,17,2,0.8827322188392992,0.11764705882352941
 24,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -230,7 +230,7 @@ Vater :
 Elendi Mungedrysselswirtschaft! Do het m'r 's jo besser im Böuj.
 
         
-",greber-lucie,11,3,0.5084813443539037,0.2727272727272727
+",6,greber-lucie,11,3,0.5084813443539037,0.2727272727272727
 25,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -239,7 +239,7 @@ Mutter :
 Weje dem kannsch mache, daß de widder anne kummsch, wenns d'r derte so güet gfalle het.
 
         
-",greber-lucie,17,2,0.6459176226882428,0.11764705882352941
+",6,greber-lucie,17,2,0.6459176226882428,0.11764705882352941
 26,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -248,7 +248,7 @@ Vater :
 Was saasch?
 
         
-",greber-lucie,3,1,0.8024733948546023,0.3333333333333333
+",6,greber-lucie,3,1,0.8024733948546023,0.3333333333333333
 27,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -258,7 +258,7 @@ Wenn dü ebbs schaffe dhäddsch , könnt m'r d'r au ebbs Ordentlichs rischte zü
           awer de ganze Daa in de Bierläde-n-erumkheijt....
 
         
-",greber-lucie,27,2,0.7282400031979881,0.07407407407407407
+",6,greber-lucie,27,2,0.7282400031979881,0.07407407407407407
 28,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -272,7 +272,7 @@ Ich schaffe! For denne Hungerslohn, wo m'r kreijt? — — Do kennsch dü mich a
           kreijt.
 
         
-",greber-lucie,102,9,0.5861349974790827,0.08823529411764706
+",7,greber-lucie,102,9,0.5861349974790827,0.08823529411764706
 29,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -281,7 +281,7 @@ Mutter :
 Dü hesch's jo güet vor.
 
         
-",greber-lucie,7,1,0.8496361744517235,0.14285714285714285
+",7,greber-lucie,7,1,0.8496361744517235,0.14285714285714285
 30,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -292,7 +292,7 @@ Es kummt noch eso, es kummt noch eso, dis kann nit so bliewe. Sie solle schun l�
           isch gsaat, sie düürt nimmi lang. Verstehsch mi?
 
         
-",greber-lucie,50,4,0.6092996279080107,0.08
+",7,greber-lucie,50,4,0.6092996279080107,0.08
 32,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -308,7 +308,7 @@ Ja, ich hab erecht. Un dü wursch sehn, ich bhalt erecht. Dis wär noch schöner
           het!
 
         
-",greber-lucie,83,8,0.5577911594820381,0.0963855421686747
+",8,greber-lucie,83,8,0.5577911594820381,0.0963855421686747
 33,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -318,7 +318,7 @@ Ums Gottswille, brüel nit eso, denk doch e bissel an denne sterweskranke Mann, 
           leijt....
 
         
-",greber-lucie,18,2,0.5237833919786927,0.1111111111111111
+",8,greber-lucie,18,2,0.5237833919786927,0.1111111111111111
 34,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -328,7 +328,7 @@ Sterweskrank ? M'r müen alli emol sterwe. In minere Wohnung derf ich mache was 
           miner Hüszins bezahlt.
 
         
-",greber-lucie,22,2,0.7599674111421464,0.09090909090909091
+",8,greber-lucie,22,2,0.7599674111421464,0.09090909090909091
 35,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -339,7 +339,7 @@ Mutter :
           drüwer uffghalte.
 
         
-",greber-lucie,39,4,0.5456412993651444,0.10256410256410256
+",8,greber-lucie,39,4,0.5456412993651444,0.10256410256410256
 36,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -349,7 +349,7 @@ Ich wur doch min anniversaire fiere derfe. Wer will mich dran empeschiere? Fremd
           an.
 
         
-",greber-lucie,19,1,0.8024733948546023,0.05263157894736842
+",9,greber-lucie,19,1,0.8024733948546023,0.05263157894736842
 37,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -360,7 +360,7 @@ M'r het's gescht gemerikt, daß de 'mol widder Geld in d'Finger kreijt hesch. 's
           noch viel üwrig sin! Zaij emol, was de noch drvun hesch!
 
         
-",greber-lucie,54,6,0.593644957701105,0.1111111111111111
+",9,greber-lucie,54,6,0.593644957701105,0.1111111111111111
 38,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -369,7 +369,7 @@ Vater :
 Dem hesch du nix nochzefröuje. Dis sin mini Sache.
 
         
-",greber-lucie,10,1,0.8024733948546023,0.1
+",9,greber-lucie,10,1,0.8024733948546023,0.1
 39,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -382,7 +382,7 @@ Isch's möjli! Zwanzig Mark verbutzt an eim Owe! Un for nix un widder nix! Do k�
           anzenemme.
 
         
-",greber-lucie,79,7,0.6990576429959295,0.08860759493670886
+",9,greber-lucie,79,7,0.6990576429959295,0.08860759493670886
 40,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -392,7 +392,7 @@ Redd' m'r doch ken so Gstuß doher. Wenn's Lucie nur e bissel meh üs sich mache
           so viel verdiene, wie es wott.
 
         
-",greber-lucie,28,3,0.7943564831309492,0.10714285714285714
+",10,greber-lucie,28,3,0.7943564831309492,0.10714285714285714
 41,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -416,7 +416,7 @@ Mutter :
 (sie kann vor Husten nicht weiter reden).
 
         
-",greber-lucie,163,24,0.5976388874369466,0.147239263803681
+",10,greber-lucie,163,24,0.5976388874369466,0.147239263803681
 42,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -425,7 +425,7 @@ Vater :
 Verstick nur an dim böse Mül, alts Ise, das de bisch.
 
         
-",greber-lucie,12,4,0.4973808945181345,0.3333333333333333
+",10,greber-lucie,12,4,0.4973808945181345,0.3333333333333333
 43,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -436,7 +436,7 @@ Wie schön könnte m'r's han, wenn dü nit wärsch! Dini Liederlichkeit het uns 
           Rüehj vor d'r.
 
         
-",greber-lucie,43,5,0.6376246357476332,0.11627906976744186
+",10,greber-lucie,43,5,0.6376246357476332,0.11627906976744186
 44,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -445,7 +445,7 @@ Vater :
 Noch e Wort, un i schmiß d'r ebbs an de Kopf, grad was i find!
 
         
-",greber-lucie,16,4,0.4988815993380656,0.25
+",11,greber-lucie,16,4,0.4988815993380656,0.25
 45,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -454,7 +454,7 @@ Mutter :
 Prowiers nurre! ich wur mich vor dir scheniere, dü Schandfleck dü!
 
         
-",greber-lucie,12,1,0.3134552763474756,0.08333333333333333
+",11,greber-lucie,12,1,0.3134552763474756,0.08333333333333333
 46,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -463,7 +463,7 @@ Vater :
 Frau, ich saa d'r, ich hau dich noch stiff un lahm, wenn de nit stille bisch.
 
         
-",greber-lucie,17,3,0.5300441883962014,0.17647058823529413
+",11,greber-lucie,17,3,0.5300441883962014,0.17647058823529413
 47,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -472,7 +472,7 @@ Mutter :
 Erbärmlicher Tropf, dü!
 
         
-",greber-lucie,4,2,0.27499983308498804,0.5
+",11,greber-lucie,4,2,0.27499983308498804,0.5
 48,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -481,7 +481,7 @@ Vater :
 Bly stille, oder 's gitt e-n-Unglück!
 
         
-",greber-lucie,9,3,0.5163901598437918,0.3333333333333333
+",12,greber-lucie,9,3,0.5163901598437918,0.3333333333333333
 50,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -490,7 +490,7 @@ Vater :
 Dummheit! düürsch mich, arms Wibsbild. — — — Bringsch m'r nix ze-n-esse?
 
         
-",greber-lucie,15,3,0.5682629007274101,0.2
+",12,greber-lucie,15,3,0.5682629007274101,0.2
 52,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -499,7 +499,7 @@ Vater :
 No gehwi ins Wirtshüs.
 
         
-",greber-lucie,5,1,0.8024733948546023,0.2
+",13,greber-lucie,5,1,0.8024733948546023,0.2
 53,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -508,7 +508,7 @@ Mutter :
 Geh nurre, m'r halte dich nit.
 
         
-",greber-lucie,7,1,0.3111065596608406,0.14285714285714285
+",13,greber-lucie,7,1,0.3111065596608406,0.14285714285714285
 54,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -517,7 +517,7 @@ Vater :
 Ze gib m'r Geld, wenn ich gehn soll.
 
         
-",greber-lucie,9,2,0.7262301346305711,0.2222222222222222
+",13,greber-lucie,9,2,0.7262301346305711,0.2222222222222222
 56,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -526,7 +526,7 @@ Vater :
 Geld erüsgewichst, Alti!
 
         
-",greber-lucie,4,2,0.7262301346305711,0.5
+",14,greber-lucie,4,2,0.7262301346305711,0.5
 57,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -538,7 +538,7 @@ Ich hab keins.
  Ja kannsch lang lüeje, 's isch nit dheim.
 
         
-",greber-lucie,20,3,0.7219968538619299,0.15
+",14,greber-lucie,20,3,0.7219968538619299,0.15
 58,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -550,7 +550,7 @@ Vater :
 Here mit dem Geld!
 
         
-",greber-lucie,17,3,0.7091892678980587,0.17647058823529413
+",14,greber-lucie,17,3,0.7091892678980587,0.17647058823529413
 60,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -564,7 +564,7 @@ Jetz will ich doch emol sehn, ob ich ken Geld bekumm! Gisch's here oder nit?
           
 
         
-",greber-lucie,36,5,0.7369825393906749,0.1388888888888889
+",15,greber-lucie,36,5,0.7369825393906749,0.1388888888888889
 61,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -580,7 +580,7 @@ Nein, ich gibbs nit! Nein, ich gibbs nit!
           ab.)
 
         
-",greber-lucie,44,5,0.6226354847572175,0.11363636363636363
+",15,greber-lucie,44,5,0.6226354847572175,0.11363636363636363
 62,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -590,7 +590,7 @@ Mutter
           weinen).
 
         
-",greber-lucie,18,1,0.053,0.05555555555555555
+",15,greber-lucie,18,1,0.053,0.05555555555555555
 63,drama,Lucie,F,,,,"
           
 Lucie
@@ -603,7 +603,7 @@ Lucie
 Bonjour Mamme, do bin i widder. Oho, was isch, du grinsch?
 
         
-",greber-lucie,26,4,0.6829466113667944,0.15384615384615385
+",15,greber-lucie,26,4,0.6829466113667944,0.15384615384615385
 64,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -612,7 +612,7 @@ Mutter :
 Din Babbe isch widder so arig mit m'r gsin....
 
         
-",greber-lucie,10,1,0.784256236269689,0.1
+",16,greber-lucie,10,1,0.784256236269689,0.1
 65,drama,Lucie,F,,,,"
           
 Lucie :
@@ -622,7 +622,7 @@ Un dodrüs machsch d'r ebbs? Dis bisch doch bim gewohnt. 's isch jo allewil 's n
           brüchsch dich doch nit groß ze-n-emotionire!
 
         
-",greber-lucie,27,1,0.6185883572349138,0.037037037037037035
+",16,greber-lucie,27,1,0.6185883572349138,0.037037037037037035
 66,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -635,7 +635,7 @@ Er het m'r all min Geld genumme, wo ich noch hab ghet, un drno isch 'r los. — 
           daß d'ne nit getroffe hesch.
 
         
-",greber-lucie,35,4,0.6140955805065431,0.11428571428571428
+",16,greber-lucie,35,4,0.6140955805065431,0.11428571428571428
 67,drama,Lucie,F,,,,"
           
 Lucie :
@@ -646,7 +646,7 @@ Grad isch 'r züer Hüsdhier nüs, 'r het mich awer Gottlowwedank nit gsehn. —
           ich for mich) — — ich will m'r e neijer Hüet kaufe.
 
         
-",greber-lucie,55,4,0.5776113636306851,0.07272727272727272
+",16,greber-lucie,55,4,0.5776113636306851,0.07272727272727272
 68,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -658,7 +658,7 @@ Mutter
 O, isch dis viel Geld! Wo bisch gsin?
 
         
-",greber-lucie,18,2,0.6499868744065399,0.1111111111111111
+",17,greber-lucie,18,2,0.6499868744065399,0.1111111111111111
 69,drama,Lucie,F,,,,"
           
 Lucie :
@@ -673,7 +673,7 @@ Bim Herr Harter. Gescht sin m'r im Cirque gsin, drno hammer 's Souper im Restaur
 (Legt Mantille, Hut und Schleier ab.)
 
         
-",greber-lucie,63,9,0.6748682080359143,0.14285714285714285
+",17,greber-lucie,63,9,0.6748682080359143,0.14285714285714285
 70,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -682,7 +682,7 @@ Mutter :
 Un bisch de ganze Daa bim gebliwwe?
 
         
-",greber-lucie,8,1,0.8004800063959763,0.125
+",17,greber-lucie,8,1,0.8004800063959763,0.125
 71,drama,Lucie,F,,,,"
           
 Lucie :
@@ -693,7 +693,7 @@ Bis grad jetzt. Er het m'r uff sim Piano Wälzerle gspielt — un het m'r Bilder
           d'Zitt isch erumgange, ich weiß gar nit wie.
 
         
-",greber-lucie,52,4,0.5261565069372686,0.07692307692307693
+",17,greber-lucie,52,4,0.5261565069372686,0.07692307692307693
 72,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -703,7 +703,7 @@ Ja Kind, du hesch e schöners Lewe als ich. Wenn ich d'r ebbs rote kann, hirot d
           nit, no fahrsch nit schlecht.
 
         
-",greber-lucie,25,6,0.6622278200328385,0.24
+",18,greber-lucie,25,6,0.6622278200328385,0.24
 73,drama,Lucie,F,,,,"
           
 Lucie :
@@ -713,7 +713,7 @@ Ich hirot mich nit. Wer möcht denn! Ich hab's jo lang güet eso. — — — De
           gange, isch d'r Schakob geje mir kumme. Ich hab grad eweck gelüejt.
 
         
-",greber-lucie,36,6,0.6238580342414273,0.16666666666666666
+",18,greber-lucie,36,6,0.6238580342414273,0.16666666666666666
 74,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -722,7 +722,7 @@ Mutter :
 's dhüed m'r leid for denne güete Burscht ; er het dich arig gern ghet.
 
         
-",greber-lucie,15,3,0.5749080139385949,0.2
+",18,greber-lucie,15,3,0.5749080139385949,0.2
 75,drama,Lucie,F,,,,"
           
 Lucie :
@@ -732,7 +732,7 @@ Jo jetz! d'r Mann het ken Geld, der kann nix üsgenn. Wenn einer schun eso uff j
           isch m'r d'r ganz Mensch verleidt.
 
         
-",greber-lucie,26,4,0.7117144733517184,0.15384615384615385
+",18,greber-lucie,26,4,0.7117144733517184,0.15384615384615385
 77,drama,Lucie,F,,,,"
           
 Lucie :
@@ -742,7 +742,7 @@ Ich kann nix sehn züem esse. Eb daß ich vum Herr Dings furt bin, het 'r noch g
           Champagner üs em Keller gholt — — un no hammer noch e Gänslewwerpaschtet mit enand verwichst.
 
         
-",greber-lucie,37,2,0.6376824596676094,0.05405405405405406
+",19,greber-lucie,37,2,0.6376824596676094,0.05405405405405406
 78,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -751,7 +751,7 @@ Mutter :
 Was dü nit saasch! — — Do fallt m'r grad in, 's het e Herr noch d'r gfröujt.
 
         
-",greber-lucie,19,2,0.6390370489471957,0.10526315789473684
+",19,greber-lucie,19,2,0.6390370489471957,0.10526315789473684
 80,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -761,7 +761,7 @@ Mutter :
           ebbs — — halt ja, mit eme goldene pince-nez.
 
         
-",greber-lucie,31,3,0.4508047629992286,0.0967741935483871
+",20,greber-lucie,31,3,0.4508047629992286,0.0967741935483871
 81,drama,Lucie,F,,,,"
           
 Lucie :
@@ -772,7 +772,7 @@ Ah so, no weiß ich schun . . . . dis isch sicherlich d'r Dokt'r Bolewski gsin �
           . . e gfitzter Typ....
 
         
-",greber-lucie,43,4,0.6940406793572416,0.09302325581395349
+",20,greber-lucie,43,4,0.6940406793572416,0.09302325581395349
 83,drama,Lucie,F,,,,"
           
 Lucie :
@@ -781,7 +781,7 @@ Lucie :
 Was er will? Amesire will er sich!
 
         
-",greber-lucie,8,1,0.812,0.125
+",20,greber-lucie,8,1,0.812,0.125
 85,drama,Lucie,F,,,,"
           
 Lucie :
@@ -791,7 +791,7 @@ Ja, ich hab hit Owe am nine mit em Fritz e Rendez-vous. No geh i noch vorher gsc
           in d' ewig Anbetung.
 
         
-",greber-lucie,25,3,0.7355333951289982,0.12
+",21,greber-lucie,25,3,0.7355333951289982,0.12
 88,drama,Berthe,F,,,,"
           
 Berthe
@@ -806,7 +806,7 @@ Lucie, liebs Lucie!
  Ich hab schun lang gewart uff dich.
 
         
-",greber-lucie,25,2,0.6210040412329674,0.08
+",22,greber-lucie,25,2,0.6210040412329674,0.08
 89,drama,Lucie,F,,,,"
           
 Lucie :
@@ -815,7 +815,7 @@ Lucie :
 Min liebs Herzele, kumm gib m'r e Schmutz! Noch einer!
 
         
-",greber-lucie,11,2,0.7090084916340652,0.18181818181818182
+",22,greber-lucie,11,2,0.7090084916340652,0.18181818181818182
 90,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -824,7 +824,7 @@ Mutter :
 Hör Lucie, ich geh grad in d' Stadt ebbs hole züem z'Nachtesse.
 
         
-",greber-lucie,14,1,0.6993651460488204,0.07142857142857142
+",22,greber-lucie,14,1,0.6993651460488204,0.07142857142857142
 92,drama,Berthe,F,,,,"
           
 Berthe :
@@ -835,7 +835,7 @@ Bring ebbs güets mit, Mamme, ich hab jo arig Hunger.
 (Mutter rechts ab.)
 
         
-",greber-lucie,16,2,0.4520201031688095,0.125
+",23,greber-lucie,16,2,0.4520201031688095,0.125
 93,drama,Lucie,F,,,,"
           
 Lucie :
@@ -848,7 +848,7 @@ Ah so, dü hesch Hunger? Do will ich d'r glich ebbs gfitzts genn.
           züe! — Isch's nit güet?
 
         
-",greber-lucie,39,5,0.582358337506232,0.1282051282051282
+",23,greber-lucie,39,5,0.582358337506232,0.1282051282051282
 95,drama,Lucie,F,,,,"
           
 Lucie :
@@ -857,7 +857,7 @@ Lucie :
 Vum e Herr. Sä, ich schenk d'r d' ganz Lad.
 
         
-",greber-lucie,11,2,0.6895944791207737,0.18181818181818182
+",23,greber-lucie,11,2,0.6895944791207737,0.18181818181818182
 96,drama,Berthe,F,,,,"
           
 Berthe :
@@ -867,7 +867,7 @@ Merçi; sie sin arig güet. Witt dü keini? Ich heb m'r sie uff un gib im Finnel
           derf? — — Denk emol, Lucie, m'r müen jetz au schun d'r Catechisme lehre !
 
         
-",greber-lucie,36,3,0.7529569354652658,0.08333333333333333
+",24,greber-lucie,36,3,0.7529569354652658,0.08333333333333333
 98,drama,Berthe,F,,,,"
           
 Berthe :
@@ -877,7 +877,7 @@ Ja, d'Mamme het m'r einer kauft. Do hawi ne. Witt dü so güet sin un mich die p
           Siechsch do, uff dere Sitt.
 
         
-",greber-lucie,27,6,0.6576702277272424,0.2222222222222222
+",24,greber-lucie,27,6,0.6576702277272424,0.2222222222222222
 101,drama,Lucie,F,,,,"
           
 Lucie :
@@ -886,7 +886,7 @@ Lucie :
 Eh ben, güet. Stell dich do anne. ""Wozu ist der Mensch auf Erden?""
 
         
-",greber-lucie,14,3,0.747171857169567,0.21428571428571427
+",25,greber-lucie,14,3,0.747171857169567,0.21428571428571427
 103,drama,Lucie,F,,,,"
           
 Lucie :
@@ -895,7 +895,7 @@ Lucie :
 ""Was muß man thun, um sein Seelenheil zu wirken ?""
 
         
-",greber-lucie,10,1,0.6823910126043574,0.1
+",25,greber-lucie,10,1,0.6823910126043574,0.1
 104,drama,Berthe,F,,,,"
           
 Berthe :
@@ -904,7 +904,7 @@ Berthe :
 ""Man muß Gott dienen und die Religion halten, welche Christus eingesetzt hat.""
 
         
-",greber-lucie,13,3,0.7404636708681193,0.23076923076923078
+",26,greber-lucie,13,3,0.7404636708681193,0.23076923076923078
 105,drama,Lucie,F,,,,"
           
 Lucie :
@@ -913,7 +913,7 @@ Lucie :
 ""Welche Religion hat Christus eingesetzt?""
 
         
-",greber-lucie,6,1,0.7810000000000001,0.16666666666666666
+",26,greber-lucie,6,1,0.7810000000000001,0.16666666666666666
 106,drama,Berthe,F,,,,"
           
 Berthe :
@@ -922,7 +922,7 @@ Berthe :
 ""Christus hat die christkatholische Religion eingesetzt"".
 
         
-",greber-lucie,7,1,0.7810000000000001,0.14285714285714285
+",26,greber-lucie,7,1,0.7810000000000001,0.14285714285714285
 109,drama,Lucie,F,,,,"
           
 Lucie :
@@ -931,7 +931,7 @@ Lucie :
 Jetz wart emol, was m'r grad infallt. — — — De Katechisme üwwerhör ich dich später.
 
         
-",greber-lucie,17,2,0.601581679648634,0.11764705882352941
+",27,greber-lucie,17,2,0.601581679648634,0.11764705882352941
 111,drama,Lucie,F,,,,"
           
 Lucie :
@@ -944,7 +944,7 @@ Awer for gewiß, Berthe.
           macht d'r Herr Stelzer ?
 
         
-",greber-lucie,27,5,0.6732172754844262,0.18518518518518517
+",27,greber-lucie,27,5,0.6732172754844262,0.18518518518518517
 112,drama,Berthe,F,,,,"
           
 Berthe :
@@ -954,7 +954,7 @@ O jeh, der macht arig schlecht. Gescht han sie alle-n-Auesblick gemeint, er will
           Nachts sin zwei Dokter kumme.
 
         
-",greber-lucie,24,5,0.47222322000041383,0.20833333333333334
+",28,greber-lucie,24,5,0.47222322000041383,0.20833333333333334
 113,drama,Lucie,F,,,,"
           
 Lucie :
@@ -963,7 +963,7 @@ Lucie :
 Er isch noch nit gstorwe?
 
         
-",greber-lucie,6,1,0.1982980688732946,0.16666666666666666
+",28,greber-lucie,6,1,0.1982980688732946,0.16666666666666666
 114,drama,Berthe,F,,,,"
           
 Berthe :
@@ -974,7 +974,7 @@ Nein, awer sie han schun noch em l'abbé gschickt. — Ja denk nurre, was d'r Ba
           gelärmt un gebrüelt bis geje de zweie. 's isch e wahri Schand gsin. Un ich hab mich eso gfericht.
 
         
-",greber-lucie,60,9,0.5846183844006627,0.15
+",28,greber-lucie,60,9,0.5846183844006627,0.15
 115,drama,Lucie,F,,,,"
           
 Lucie :
@@ -983,7 +983,7 @@ Lucie :
 Was isch denn gescht los gsin?
 
         
-",greber-lucie,7,2,0.6440855880036778,0.2857142857142857
+",28,greber-lucie,7,2,0.6440855880036778,0.2857142857142857
 117,drama,Lucie,F,,,,"
           
 Lucie :
@@ -992,7 +992,7 @@ Lucie :
 's isch doch arig mit dem Mann!
 
         
-",greber-lucie,8,1,0.6823910126043574,0.125
+",29,greber-lucie,8,1,0.6823910126043574,0.125
 118,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1002,7 +1002,7 @@ Ja, un ich hab mich eso gfericht. Ich hab ganz ellein in dim Bett gschloofe. Wur
           hinicht nit heime kumme?
 
         
-",greber-lucie,23,4,0.5814354471380572,0.17391304347826086
+",29,greber-lucie,23,4,0.5814354471380572,0.17391304347826086
 119,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1011,7 +1011,7 @@ Lucie :
 Ich hab e Visit gemacht bim Josephine, un hab de Hüsschlissel vergesse ghet.
 
         
-",greber-lucie,14,2,0.4781829948823099,0.14285714285714285
+",29,greber-lucie,14,2,0.4781829948823099,0.14285714285714285
 120,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1020,7 +1020,7 @@ Berthe :
 Awer nein, Lucie, dü liejsch. Un m'r derf nit lieje, het d'Schweschter gsaat. Ja, m'r derf nit!
 
         
-",greber-lucie,19,1,0.731982479119855,0.05263157894736842
+",30,greber-lucie,19,1,0.731982479119855,0.05263157894736842
 121,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1029,7 +1029,7 @@ Lucie :
 Ich liej nit, Berthe.
 
         
-",greber-lucie,5,1,0.1901191527766783,0.2
+",30,greber-lucie,5,1,0.1901191527766783,0.2
 122,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1039,7 +1039,7 @@ Ich hab doch gsehn, wie dü de Hüsschlissel vum Disch in de Sack hesch gsteckt.
           anne geleijt.
 
         
-",greber-lucie,24,1,0.821040206337619,0.041666666666666664
+",30,greber-lucie,24,1,0.821040206337619,0.041666666666666664
 123,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1048,7 +1048,7 @@ Lucie :
 's isch nit wohr.
 
         
-",greber-lucie,5,1,0.8235551257078202,0.2
+",30,greber-lucie,5,1,0.8235551257078202,0.2
 127,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1059,7 +1059,7 @@ Jetz blie emol stille, liebs Bibbele.
 (Gibt ihr einen Kuß)
 
         
-",greber-lucie,13,2,0.5612205382980332,0.15384615384615385
+",31,greber-lucie,13,2,0.5612205382980332,0.15384615384615385
 128,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1068,7 +1068,7 @@ Berthe :
 Hm, was dü güet schmecksch! Gell, dü hesch eau-de-cologne im Nasdüech.
 
         
-",greber-lucie,12,1,0.8496361744517235,0.08333333333333333
+",32,greber-lucie,12,1,0.8496361744517235,0.08333333333333333
 130,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1077,7 +1077,7 @@ Berthe :
 Kannsch m'r nit au e bissel d'rvun genn?
 
         
-",greber-lucie,10,1,0.5311555130794368,0.1
+",32,greber-lucie,10,1,0.5311555130794368,0.1
 132,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1086,7 +1086,7 @@ Berthe :
 Wo bisch denn de ganze Daa gsin?
 
         
-",greber-lucie,8,1,0.8004800063959763,0.125
+",33,greber-lucie,8,1,0.8004800063959763,0.125
 133,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1095,7 +1095,7 @@ Lucie :
 Im Gschäft, du kleins Wunderfitzel.
 
         
-",greber-lucie,6,1,0.6318453817574243,0.16666666666666666
+",33,greber-lucie,6,1,0.6318453817574243,0.16666666666666666
 136,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1104,7 +1104,7 @@ Berthe :
 Dis isch widder nit wohr.
 
         
-",greber-lucie,6,1,0.8235551257078202,0.16666666666666666
+",34,greber-lucie,6,1,0.8235551257078202,0.16666666666666666
 138,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1113,7 +1113,7 @@ Berthe :
 's Finnel het m'r gsaat, daß de schun zwei Monat lang nimmi ins Gschäft gehsch.
 
         
-",greber-lucie,16,2,0.5799267321116794,0.125
+",34,greber-lucie,16,2,0.5799267321116794,0.125
 142,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1122,7 +1122,7 @@ Berthe :
 Du hesch e neijs Bröschele-n-an. Awer e schöns! Un e roter Stein in d'r Mittle.
 
         
-",greber-lucie,18,2,0.3882381852216914,0.1111111111111111
+",35,greber-lucie,18,2,0.3882381852216914,0.1111111111111111
 144,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1131,7 +1131,7 @@ Berthe :
 Oh, 's isch arig gfitzt. Vun wem hesch's ?
 
         
-",greber-lucie,10,1,0.8100940010655424,0.1
+",36,greber-lucie,10,1,0.8100940010655424,0.1
 145,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1140,7 +1140,7 @@ Lucie :
 Vum e Herr.
 
         
-",greber-lucie,4,1,0.578708951845571,0.25
+",36,greber-lucie,4,1,0.578708951845571,0.25
 146,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1149,7 +1149,7 @@ Berthe :
 Vum nämliche, wo d'r d'Bonbons het genn?
 
         
-",greber-lucie,9,1,0.5311555130794368,0.1111111111111111
+",36,greber-lucie,9,1,0.5311555130794368,0.1111111111111111
 148,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1158,7 +1158,7 @@ Berthe :
 Hör, jetz müeß ich dich ebbs fröuje. — Gell, d'Herre han dich arig gern?
 
         
-",greber-lucie,16,2,0.6748084626263149,0.125
+",37,greber-lucie,16,2,0.6748084626263149,0.125
 149,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1167,7 +1167,7 @@ Lucie :
 Wie kannsch so ebbs fröuje, dumms Kind!
 
         
-",greber-lucie,8,1,0.8069388232648106,0.125
+",37,greber-lucie,8,1,0.8069388232648106,0.125
 150,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1177,7 +1177,7 @@ Sie schenke dir so viel Saches. Du kreijsch doch alles vun ne, was de witt. Hesc
           gern?
 
         
-",greber-lucie,23,2,0.6748084626263149,0.08695652173913043
+",37,greber-lucie,23,2,0.6748084626263149,0.08695652173913043
 152,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1186,7 +1186,7 @@ Berthe :
 Gell, mich hesch nit so gern, wie d'Herre?
 
         
-",greber-lucie,10,2,0.6748084626263149,0.2
+",38,greber-lucie,10,2,0.6748084626263149,0.2
 153,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1196,7 +1196,7 @@ O, dich hawi am liebschte uff d'r ganze Welt. Ich könnt dich grad fresse, so ge
           nit eso?
 
         
-",greber-lucie,23,5,0.7649904379666872,0.21739130434782608
+",38,greber-lucie,23,5,0.7649904379666872,0.21739130434782608
 155,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1205,7 +1205,7 @@ Lucie :
 M'r saat nit äng-äng, m'r saat nein. Hawi dich nit gern?
 
         
-",greber-lucie,12,3,0.6947329031026537,0.25
+",38,greber-lucie,12,3,0.6947329031026537,0.25
 158,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1220,7 +1220,7 @@ Un noch ebbs. Denk, gescht isch e Gardeboliß do gsin und het e paar mol noch d'
           gfröujt.
 
         
-",greber-lucie,38,5,0.69111893128262,0.13157894736842105
+",39,greber-lucie,38,5,0.69111893128262,0.13157894736842105
 159,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1231,7 +1231,7 @@ E Gardeboliß?
 (Erschrickt; läßt Berthe vom Schoße gleiten und steht schnell auf.)
 
         
-",greber-lucie,15,2,0.397226480854758,0.13333333333333333
+",39,greber-lucie,15,2,0.397226480854758,0.13333333333333333
 160,drama,Berthe,F,,,,"
           
 Berthe
@@ -1243,7 +1243,7 @@ Berthe
 's isch awer glauwi weje dem Mann do howwe gsin, wo vum Gerüscht erab gfalle-n-isch.
 
         
-",greber-lucie,21,4,0.6558149441035614,0.19047619047619047
+",40,greber-lucie,21,4,0.6558149441035614,0.19047619047619047
 163,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1252,7 +1252,7 @@ Lucie :
 Bsinn dich genau!
 
         
-",greber-lucie,4,1,0.6906218660415239,0.25
+",40,greber-lucie,4,1,0.6906218660415239,0.25
 164,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1261,7 +1261,7 @@ Berthe :
 's isch glauwi . . . weje dem Mann do howwe gsin.
 
         
-",greber-lucie,10,2,0.7408148106518773,0.2
+",41,greber-lucie,10,2,0.7408148106518773,0.2
 166,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1270,7 +1270,7 @@ Berthe :
 Nein, d'r Babbe-n-isch furt gsin un d'Mamme au.
 
         
-",greber-lucie,12,2,0.802648221303654,0.16666666666666666
+",41,greber-lucie,12,2,0.802648221303654,0.16666666666666666
 169,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1280,7 +1280,7 @@ Dummheit, was verschreck ich eso. Es kumme jo als viel Gardeboliß ins Hüs. —
           mich glauwi e bissel schanschiere; ich geh in mini Stubb. Wenn ebber kumme sott...
 
         
-",greber-lucie,33,6,0.48816138657352975,0.18181818181818182
+",42,greber-lucie,33,6,0.48816138657352975,0.18181818181818182
 170,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1291,7 +1291,7 @@ Ja, 's isch güet, ich blie do.
 (Lucie nach hinten ab.)
 
         
-",greber-lucie,14,2,0.7908093267857892,0.14285714285714285
+",42,greber-lucie,14,2,0.7908093267857892,0.14285714285714285
 172,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski
@@ -1307,7 +1307,7 @@ Sieh da! Da ist ja wieder die Kleine. Guten Tag. Gieb mir mal 'ne Patschhand! So
           deine Schwester jetzt zu Hause?
 
         
-",greber-lucie,50,6,0.5764181250146981,0.12
+",43,greber-lucie,50,6,0.5764181250146981,0.12
 173,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1316,7 +1316,7 @@ Berthe :
 Ja, 's isch wirklich in siner Stubb un dhüed sich andersch an.
 
         
-",greber-lucie,13,1,0.731982479119855,0.07692307692307693
+",43,greber-lucie,13,1,0.731982479119855,0.07692307692307693
 174,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1325,7 +1325,7 @@ Bajolewski :
 Da kann ich sie wohl nicht einen Augenblick sprechen ?
 
         
-",greber-lucie,10,1,0.8732198670753948,0.1
+",43,greber-lucie,10,1,0.8732198670753948,0.1
 175,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1345,7 +1345,7 @@ Ja, doch! ich will im rüefe. — — Oder wisse Sie was, gehn Sie doch selbscht
  Gehn Sie nurre-n-erin, Sie brüche sich nit ze scheniere. Lucie!
 
         
-",greber-lucie,63,3,0.5825032412037001,0.047619047619047616
+",43,greber-lucie,63,3,0.5825032412037001,0.047619047619047616
 176,drama,Lucie,F,,,,"
           
 Lucie
@@ -1357,7 +1357,7 @@ Lucie
 Was isch denn los? ich hab nit d'r Zitt!
 
         
-",greber-lucie,14,2,0.7114423704488907,0.14285714285714285
+",44,greber-lucie,14,2,0.7114423704488907,0.14285714285714285
 177,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1366,7 +1366,7 @@ Berthe :
 D'r Herr vun denne Midda isch do. Mach uff, er will züe d'r!
 
         
-",greber-lucie,14,2,0.6463544759227855,0.14285714285714285
+",44,greber-lucie,14,2,0.6463544759227855,0.14285714285714285
 178,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1375,7 +1375,7 @@ Bajolewski :
 Da kommen wohl öfters Herren zu deiner Schwester ?
 
         
-",greber-lucie,9,3,0.6532308137221962,0.3333333333333333
+",44,greber-lucie,9,3,0.6532308137221962,0.3333333333333333
 179,drama,Berthe,F,,,,"
           
 Berthe :
@@ -1385,7 +1385,7 @@ Früejer het's als Besüech kreijt. Awer d'Mamme will's nimmi han. Sie hat gsaat
           wie 's will, un d'r Rescht geht sie nix an.
 
         
-",greber-lucie,32,2,0.7581430116893413,0.0625
+",44,greber-lucie,32,2,0.7581430116893413,0.0625
 180,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1397,7 +1397,7 @@ Aha!
  Das nennt man Vorsicht.
 
         
-",greber-lucie,10,2,0.651983650085691,0.2
+",45,greber-lucie,10,2,0.651983650085691,0.2
 181,drama,Lucie,F,,,,"
           
 Lucie
@@ -1412,7 +1412,7 @@ Ah, d'r Herr Dokt'r!
  Sie sin schun denne Midda . . . .
 
         
-",greber-lucie,21,2,0.607407401556566,0.09523809523809523
+",45,greber-lucie,21,2,0.607407401556566,0.09523809523809523
 182,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1421,7 +1421,7 @@ Bajolewski :
 Ganz recht. Ich wollte Ihnen blos in aller Eile Adieu sagen. Ich reise fort.
 
         
-",greber-lucie,15,6,0.5417365642055668,0.4
+",45,greber-lucie,15,6,0.5417365642055668,0.4
 184,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1431,7 +1431,7 @@ Ich habe von meinem Bankhause telegraphische Ordre erhalten, daß ich unverzügl
           heute Abend 8 Uhr 31.
 
         
-",greber-lucie,19,1,0.602712717697481,0.05263157894736842
+",46,greber-lucie,19,1,0.602712717697481,0.05263157894736842
 185,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1440,7 +1440,7 @@ Lucie :
 Dis dhüed m'r awer leid.
 
         
-",greber-lucie,6,1,0.1041798939570025,0.16666666666666666
+",46,greber-lucie,6,1,0.1041798939570025,0.16666666666666666
 186,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1449,7 +1449,7 @@ Bajolewski :
 Ja, mir auch, es läßt sich aber nicht ändern.
 
         
-",greber-lucie,10,2,0.6187847827472204,0.2
+",46,greber-lucie,10,2,0.6187847827472204,0.2
 187,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1458,7 +1458,7 @@ Lucie :
 Do kumme Sie so ball nimmi here?
 
         
-",greber-lucie,8,1,0.5077636222456227,0.125
+",46,greber-lucie,8,1,0.5077636222456227,0.125
 188,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1467,7 +1467,7 @@ Bajolewski :
 I Gott bewahre, Kind, das ist eine weite Reise! Das wird so bald nicht mehr der Fall sein.
 
         
-",greber-lucie,19,4,0.7180489936314074,0.21052631578947367
+",47,greber-lucie,19,4,0.7180489936314074,0.21052631578947367
 189,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1476,7 +1476,7 @@ Lucie :
 Wo reise Sie denn anne — wenn m'r fröuje derf ?
 
         
-",greber-lucie,11,1,0.838257151260819,0.09090909090909091
+",47,greber-lucie,11,1,0.838257151260819,0.09090909090909091
 192,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1485,7 +1485,7 @@ Bajolewski :
 Ei, liebes Kind, das liegt in Süd-amerika, weit überm großen Wasser.
 
         
-",greber-lucie,12,1,0.8069388232648106,0.08333333333333333
+",48,greber-lucie,12,1,0.8069388232648106,0.08333333333333333
 194,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1494,7 +1494,7 @@ Bajolewski :
 Natürlih. Vier Wochen lang.
 
         
-",greber-lucie,5,1,0.5280080824659347,0.2
+",48,greber-lucie,5,1,0.5280080824659347,0.2
 196,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1507,7 +1507,7 @@ Ist nicht so schlimm, Frl. Lucie. Das ist eine hochinteressante Reise, da sieht 
  Möchten Sie nicht mitreisen?
 
         
-",greber-lucie,28,5,0.6631667186493708,0.17857142857142858
+",49,greber-lucie,28,5,0.6631667186493708,0.17857142857142858
 197,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1516,7 +1516,7 @@ Lucie :
 Gehn Sie! mache Sie doch ken so Plän!
 
         
-",greber-lucie,9,1,0.6733863402152597,0.1111111111111111
+",49,greber-lucie,9,1,0.6733863402152597,0.1111111111111111
 198,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1527,7 +1527,7 @@ Scherz bei Seite! Warum soll das nicht möglich — — —
 (er bemerkt Berthe und hält inne).
 
         
-",greber-lucie,20,1,0.3111065596608406,0.05
+",49,greber-lucie,20,1,0.3111065596608406,0.05
 199,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1540,7 +1540,7 @@ Berthe, geh doch emol nuff züe d'r Frau Stelzer un hör, was d'r krank Mann mac
           isch d'r Wunderfitz.
 
         
-",greber-lucie,37,6,0.46759667976648744,0.16216216216216217
+",49,greber-lucie,37,6,0.46759667976648744,0.16216216216216217
 201,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1549,7 +1549,7 @@ Lucie :
 Jo, Sie mache sich üwwer mich luschti, Herr Dokter....
 
         
-",greber-lucie,10,3,0.6173170835643106,0.3
+",50,greber-lucie,10,3,0.6173170835643106,0.3
 202,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1558,7 +1558,7 @@ Bajolewski :
 Aber ganz und gar nicht. 's ist mein voller Ernst.
 
         
-",greber-lucie,11,3,0.5445716719527899,0.2727272727272727
+",50,greber-lucie,11,3,0.5445716719527899,0.2727272727272727
 203,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1567,7 +1567,7 @@ Lucie :
 Was sott ich denn drüwe mache! Hab derte nix verlore.
 
         
-",greber-lucie,11,1,0.188,0.09090909090909091
+",50,greber-lucie,11,1,0.188,0.09090909090909091
 204,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1576,7 +1576,7 @@ Bajolewski :
 Das kann ich Ihnen genau erklären. Sie werden drüben in Stellung treten.
 
         
-",greber-lucie,13,2,0.508810933020762,0.15384615384615385
+",51,greber-lucie,13,2,0.508810933020762,0.15384615384615385
 206,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1591,7 +1591,7 @@ Also hören Sie zu. Das Bankhaus, bei welchem ich beschäftigt bin, ist bei mein
 aus Deutschland herüberzubringen. — — Die Reisekosten trägt natürlich das Geschäft.
 
         
-",greber-lucie,81,9,0.7001278091603061,0.1111111111111111
+",51,greber-lucie,81,9,0.7001278091603061,0.1111111111111111
 208,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1602,7 +1602,7 @@ Ja, so etwas Ähnliches. Nur feiner, eleganter. Wissen Sie, diese Stellungen sin
           einmal steinreich nach Deutschland zurückkehren, das wäre eine Kleinigkeit.
 
         
-",greber-lucie,45,6,0.6494618426559106,0.13333333333333333
+",52,greber-lucie,45,6,0.6494618426559106,0.13333333333333333
 210,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1613,7 +1613,7 @@ Sehen Sie! — — Das Lokal übrigens, in welchem Sie beschäftigt sind, ist de
           der Dienst nicht. Ist das nicht bequem?
 
         
-",greber-lucie,45,6,0.642972436923235,0.13333333333333333
+",52,greber-lucie,45,6,0.642972436923235,0.13333333333333333
 212,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1622,7 +1622,7 @@ Bajolewski :
 Alle möglichen Sprachen — — — das macht aber nichts — — das werden Sie bald lernen.
 
         
-",greber-lucie,18,2,0.443899129757505,0.1111111111111111
+",53,greber-lucie,18,2,0.443899129757505,0.1111111111111111
 213,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1631,7 +1631,7 @@ Lucie :
 Wenn ich awer so ellein do drüwwe mießt sin ..
 
         
-",greber-lucie,10,1,0.2855156807907745,0.1
+",53,greber-lucie,10,1,0.2855156807907745,0.1
 214,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski
@@ -1649,7 +1649,7 @@ Können Sie reinen Mund behalten, Frl. Lucie?
 (er legt den Finger auf den Mund).
 
         
-",greber-lucie,41,1,0.9414685171091224,0.024390243902439025
+",53,greber-lucie,41,1,0.9414685171091224,0.024390243902439025
 215,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1658,7 +1658,7 @@ Lucie :
 Ja, isch denn dis so e Gheimnis?
 
         
-",greber-lucie,8,2,0.5334275626837015,0.25
+",53,greber-lucie,8,2,0.5334275626837015,0.25
 216,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1668,7 +1668,7 @@ Bajolewski :
           dafür, wo das Glück zu finden ist.
 
         
-",greber-lucie,26,4,0.7247455339659501,0.15384615384615385
+",54,greber-lucie,26,4,0.7247455339659501,0.15384615384615385
 218,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1677,7 +1677,7 @@ Bajolewski :
 Auf keinen Fall, Schon wegen der Abmeldung.
 
         
-",greber-lucie,8,2,0.3287450931098796,0.25
+",54,greber-lucie,8,2,0.3287450931098796,0.25
 219,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1686,7 +1686,7 @@ Lucie :
 Ah so — — ! 's isch jo wohr — — ! Wer geht denn alles mit?
 
         
-",greber-lucie,16,1,0.8235551257078202,0.0625
+",54,greber-lucie,16,1,0.8235551257078202,0.0625
 221,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1696,7 +1696,7 @@ Lucie :
           sich gehn.
 
         
-",greber-lucie,28,4,0.5259336584754958,0.14285714285714285
+",55,greber-lucie,28,4,0.5259336584754958,0.14285714285714285
 222,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1705,7 +1705,7 @@ Bajolewski :
 Da ist ferner Frl. Kättel, welche mir die Ehre verschaffte . . . .
 
         
-",greber-lucie,11,1,0.896,0.09090909090909091
+",55,greber-lucie,11,1,0.896,0.09090909090909091
 224,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -1716,7 +1716,7 @@ Auf mein Wort. Hier habe ich den Kontrakt.
 (Er zieht ein Papier heraus.)
 
         
-",greber-lucie,16,2,0.5527307137148453,0.125
+",56,greber-lucie,16,2,0.5527307137148453,0.125
 225,drama,Lucie,F,,,,"
           
 Lucie :
@@ -1728,7 +1728,7 @@ Wahrhaftig! — — Halte Sie — — ich glaub, mini Mamme kummt — — dis is
 (Beide nach hinten ab.)
 
         
-",greber-lucie,38,5,0.6532708184887295,0.13157894736842105
+",56,greber-lucie,38,5,0.6532708184887295,0.13157894736842105
 226,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1737,7 +1737,7 @@ Mutter :
 So, so! gehts Ihrem Mann als noch nit besser, Frau Stelzer?
 
         
-",greber-lucie,12,1,0.6823910126043574,0.08333333333333333
+",56,greber-lucie,12,1,0.6823910126043574,0.08333333333333333
 227,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1749,7 +1749,7 @@ Merci, dank d'r Noochfröuj, Frau Engel, awer 's geht arig schlecht. 's wurd nim
 (sie wischt sich die Augen).
 
         
-",greber-lucie,25,5,0.5653359324231743,0.2
+",56,greber-lucie,25,5,0.5653359324231743,0.2
 228,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1758,7 +1758,7 @@ Mutter :
 Isch 'r noch nit züe sich kumme?
 
         
-",greber-lucie,8,1,0.5077636222456227,0.125
+",57,greber-lucie,8,1,0.5077636222456227,0.125
 230,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1767,7 +1767,7 @@ Mutter :
 's isch schad, daß 'r nit im Diakonessehüs leijt, do wärd 'r besser bsorjt.
 
         
-",greber-lucie,15,1,0.1573031831829046,0.06666666666666667
+",57,greber-lucie,15,1,0.1573031831829046,0.06666666666666667
 231,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1780,7 +1780,7 @@ Ja, die Gschicht isch halt züe merkwürdi gange. Wie 'r vun dem Gerüscht erab 
           Vun dort eweck isch er nimmeh züe sich kumme.
 
         
-",greber-lucie,90,13,0.5992798571235575,0.14444444444444443
+",57,greber-lucie,90,13,0.5992798571235575,0.14444444444444443
 232,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1789,7 +1789,7 @@ Mutter :
 's isch trürig. Was han die Dokter gsaat?
 
         
-",greber-lucie,9,2,0.3746389873372117,0.2222222222222222
+",58,greber-lucie,9,2,0.3746389873372117,0.2222222222222222
 233,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1799,7 +1799,7 @@ d'Dokter saaue eim so güet wie gar nix, dis wisse Sie doch. Un denke Sie, wie e
           verwacht isch, no het er mich gar nimmeh gkennt.
 
         
-",greber-lucie,32,2,0.7428710128596422,0.0625
+",58,greber-lucie,32,2,0.7428710128596422,0.0625
 235,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1812,7 +1812,7 @@ Ja, so e güeter, solider Mann, wo nie krank isch gsin. Un müeß jetz so elend 
 (sie weint).
 
         
-",greber-lucie,52,14,0.551543954095208,0.2692307692307692
+",58,greber-lucie,52,14,0.551543954095208,0.2692307692307692
 237,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1824,7 +1824,7 @@ Der solid Mann! Un het niemols getrunke! D'r brävscht Mann vun d'r Welt! Wenn i
 (Weint weiter.)
 
         
-",greber-lucie,27,4,0.5583285143102987,0.14814814814814814
+",59,greber-lucie,27,4,0.5583285143102987,0.14814814814814814
 238,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1833,7 +1833,7 @@ Mutter :
 Was kann jetz dis Gejomers un Gelametiers groß helfe! Sie wurd sich schun drin finde.
 
         
-",greber-lucie,16,2,0.46934392822441984,0.125
+",59,greber-lucie,16,2,0.46934392822441984,0.125
 239,drama,Frau Stelzer,F,,,,"
           
 Stelzer
@@ -1845,7 +1845,7 @@ Stelzer
 Was saat Sie do for Dings? Dis het jetz ken Wert, daß Sie dis rebbediert.
 
         
-",greber-lucie,20,1,0.6566453679504511,0.05
+",59,greber-lucie,20,1,0.6566453679504511,0.05
 240,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1855,7 +1855,7 @@ Mutter :
           d'ganz Noochberschaft weiß doch, daß Sie schun lang mit em-Andere geht.
 
         
-",greber-lucie,32,4,0.7063941251212372,0.125
+",60,greber-lucie,32,4,0.7063941251212372,0.125
 241,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1864,7 +1864,7 @@ Stelzer :
 Dis isch jetz awer doch meh wie e Schand! Wie kummt Sie drzüe, mir dis ze saaue?
 
         
-",greber-lucie,18,1,0.3185505604064025,0.05555555555555555
+",60,greber-lucie,18,1,0.3185505604064025,0.05555555555555555
 242,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1873,7 +1873,7 @@ Mutter :
 Dis kann Sie m'r doch nit eweckdischbediere, daß Sie mit dem Schnider do hüwe Gschäfte het.
 
         
-",greber-lucie,17,2,0.5549902684258988,0.11764705882352941
+",60,greber-lucie,17,2,0.5549902684258988,0.11764705882352941
 243,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1883,7 +1883,7 @@ Oho! — — Dis kummt jo als besser. Frau Engel, so loß ich m'r mine-n-ehrlich
           veraffrundiere, versteht Sie dis?
 
         
-",greber-lucie,24,3,0.8069695121773756,0.125
+",60,greber-lucie,24,3,0.8069695121773756,0.125
 245,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1893,7 +1893,7 @@ Sie, Englere, dhädd bigott güet dran, ganz stille ze sin. Denkt Sie e bissel a
           D'Spatze pfiffe's vun de Dächer.
 
         
-",greber-lucie,25,6,0.6918013181819337,0.24
+",61,greber-lucie,25,6,0.6918013181819337,0.24
 247,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1904,7 +1904,7 @@ Ich hab doch wini Kinder rechtschaffe un brav erzöuje — — sie sin jetz ball
           wie wit daß Sie dodrmit kummt.
 
         
-",greber-lucie,44,5,0.6523856728449724,0.11363636363636363
+",61,greber-lucie,44,5,0.6523856728449724,0.11363636363636363
 248,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1914,7 +1914,7 @@ Ich kann mini Doochter nit hüete wie e kleins Kind. Wenn eins so alt isch, wurd
           beschte wisse, was es ze dhüen het.
 
         
-",greber-lucie,28,2,0.8042349945925895,0.07142857142857142
+",62,greber-lucie,28,2,0.8042349945925895,0.07142857142857142
 249,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1923,7 +1923,7 @@ Stelzer :
 Dis geht mich nix an. Ich saa numme, was wohr isch. Ja, schämme sott Sie sich !
 
         
-",greber-lucie,17,2,0.7777688024138376,0.11764705882352941
+",62,greber-lucie,17,2,0.7777688024138376,0.11764705882352941
 250,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -1932,7 +1932,7 @@ Mutter :
 Geht Sie doch nuff, un loßt Sie Ihre kranke Mann nit ellein sterwe, wo Sie ne doch so gern het.
 
         
-",greber-lucie,21,4,0.46126953712132235,0.19047619047619047
+",62,greber-lucie,21,4,0.46126953712132235,0.19047619047619047
 251,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1942,7 +1942,7 @@ Un macht Sie kein so Heidespektakel bis nachts am viere, daß m'r saat, was do f
           wohnt.
 
         
-",greber-lucie,21,3,0.6701974080281019,0.14285714285714285
+",62,greber-lucie,21,3,0.6701974080281019,0.14285714285714285
 253,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1953,7 +1953,7 @@ D'r Herr l'abbé!
 (Das Gespräch bricht plötzlich ab, die Frauen bleiben wie versteinert stehen.)
 
         
-",greber-lucie,17,3,0.4182678656233023,0.17647058823529413
+",63,greber-lucie,17,3,0.4182678656233023,0.17647058823529413
 254,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -1965,7 +1965,7 @@ Mutter
 Loué soit Jésus-Christ, M'r. l'abbé.
 
         
-",greber-lucie,12,1,0.3822417148568349,0.08333333333333333
+",63,greber-lucie,12,1,0.3822417148568349,0.08333333333333333
 255,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -1974,7 +1974,7 @@ Mülberg :
 In Ewigkeit Amen! Bin ich nicht hier bei Frau Stelzer ?
 
         
-",greber-lucie,11,2,0.6855,0.18181818181818182
+",63,greber-lucie,11,2,0.6855,0.18181818181818182
 256,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -1983,7 +1983,7 @@ Stelzer :
 Ganz erecht. M'r wohne-n-awer e Stock höcher. Dis isch's logement vun d'r Familli Engel.
 
         
-",greber-lucie,18,5,0.7106247503417961,0.2777777777777778
+",64,greber-lucie,18,5,0.7106247503417961,0.2777777777777778
 257,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -1996,7 +1996,7 @@ So — so!
           haben mich rufen lassen.
 
         
-",greber-lucie,26,1,0.906,0.038461538461538464
+",64,greber-lucie,26,1,0.906,0.038461538461538464
 258,drama,Frau Stelzer,F,,,,"
           
 Stelzer :
@@ -2007,7 +2007,7 @@ Ja denke Sie, Herr l'abbé, min Mann leijt im Sterwe!
 (Sie fängt wieder an zu weinen.)
 
         
-",greber-lucie,19,4,0.5115206108924458,0.21052631578947367
+",64,greber-lucie,19,4,0.5115206108924458,0.21052631578947367
 259,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2018,7 +2018,7 @@ Dann wollen wir eilen, damit wir nicht zu spät kommen.
 (Beide rechts ab.)
 
         
-",greber-lucie,16,2,0.4860421082138514,0.125
+",64,greber-lucie,16,2,0.4860421082138514,0.125
 260,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2027,7 +2027,7 @@ Bajolewski :
 Jetzt müssen Sie sich aber bald entscheiden — — wenn Sie überhaupt Lust dazu haben, Frl. Lucie.
 
         
-",greber-lucie,18,1,0.8651491103825361,0.05555555555555555
+",65,greber-lucie,18,1,0.8651491103825361,0.05555555555555555
 262,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2036,7 +2036,7 @@ Bajolewski :
 Heute Abend 8 Uhr 31. Station Kehl.
 
         
-",greber-lucie,8,1,0.602712717697481,0.125
+",65,greber-lucie,8,1,0.602712717697481,0.125
 265,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2045,7 +2045,7 @@ Lucie :
 Ja, ja; 's isch besser eso.
 
         
-",greber-lucie,7,2,0.731982479119855,0.2857142857142857
+",66,greber-lucie,7,2,0.731982479119855,0.2857142857142857
 266,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2055,7 +2055,7 @@ Also eingeschlagen Frl. Lucie! Nicht lange gezaudert, die Zeit ist kostbar. Es k
           passieren. Ich bin ja bei Ihnen. Und ich versichere Ihnen, ich will wie ein Vater für Sie sorgen.
 
         
-",greber-lucie,35,9,0.6182590560000544,0.2571428571428571
+",66,greber-lucie,35,9,0.6182590560000544,0.2571428571428571
 268,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2071,7 +2071,7 @@ Also Schatz, gelt ja! Stehn Sie ihrem Glücke nicht im Wege! Und wenn Sie irgend
           so übel zu einander passen . . .
 
         
-",greber-lucie,59,8,0.6021494491560582,0.13559322033898305
+",67,greber-lucie,59,8,0.6021494491560582,0.13559322033898305
 269,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2080,7 +2080,7 @@ Lucie :
 O, sin Sie stille!
 
         
-",greber-lucie,5,1,0.5843859837527715,0.2
+",67,greber-lucie,5,1,0.5843859837527715,0.2
 270,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2093,7 +2093,7 @@ Lucie!
           sagen Sie ja! — — Immer noch Bedenken ?
 
         
-",greber-lucie,24,2,0.8153130768652131,0.08333333333333333
+",67,greber-lucie,24,2,0.8153130768652131,0.08333333333333333
 271,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2102,7 +2102,7 @@ Lucie :
 . . . Ich kann mini Kleider nit so gscchhwind rischte.
 
         
-",greber-lucie,9,1,0.656,0.1111111111111111
+",67,greber-lucie,9,1,0.656,0.1111111111111111
 272,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2112,7 +2112,7 @@ Ist's das nur? Sie brauchen überhaupt nichts mitzunehmen, gar nichts. Lassen Si
           sein. Und drüben in Buenos-Aires werden Ihnen alle Kleider gestellt.
 
         
-",greber-lucie,27,4,0.35105129506951205,0.14814814814814814
+",68,greber-lucie,27,4,0.35105129506951205,0.14814814814814814
 273,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2121,7 +2121,7 @@ Lucie :
 Awer mini Eltere, min liebs Schweschterle !
 
         
-",greber-lucie,7,1,0.5204651732216539,0.14285714285714285
+",68,greber-lucie,7,1,0.5204651732216539,0.14285714285714285
 274,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2135,7 +2135,7 @@ Sie können ja von drüben so viel Geld schicken, wie Sie wollen. Die werdens ei
  Machen Sie damit, was Sie wollen.
 
         
-",greber-lucie,62,6,0.5603749289611644,0.0967741935483871
+",68,greber-lucie,62,6,0.5603749289611644,0.0967741935483871
 275,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2144,7 +2144,7 @@ Lucie :
 Nemme Sie ne widder — — nemme Sie widder die hundert Mark. Ich bitt Sie drum.
 
         
-",greber-lucie,17,1,0.292,0.058823529411764705
+",68,greber-lucie,17,1,0.292,0.058823529411764705
 276,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski :
@@ -2156,7 +2156,7 @@ Behalten Sie sie nur.
  Auf der Reise werden sie Ihnen sehr zu Statten kommen.
 
         
-",greber-lucie,20,3,0.6078088397664314,0.15
+",69,greber-lucie,20,3,0.6078088397664314,0.15
 277,drama,Berthe,F,,,,"
           
 Berthe :
@@ -2175,7 +2175,7 @@ hab dich so ari gern!
  Nit furt gehn, Lucie, nit furt gehn, Lucie!
 
         
-",greber-lucie,64,6,0.4677976460819058,0.09375
+",69,greber-lucie,64,6,0.4677976460819058,0.09375
 278,drama,Lucie,F,,,,"
           
 Lucie
@@ -2196,7 +2196,7 @@ Herr Dokt'r — — Gottlob, jetz hab ich mich decidirt. Ich kann nit mit ne rei
 (Sie herzt das Kind mit größter Leidenschaft.)
 
         
-",greber-lucie,122,17,0.6970700158378923,0.13934426229508196
+",69,greber-lucie,122,17,0.6970700158378923,0.13934426229508196
 279,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski
@@ -2208,7 +2208,7 @@ Bajolewski
 Zu ärgerlich, muß mir auch noch das Gör dazwischen kommen!
 
         
-",greber-lucie,15,3,0.3412151989333044,0.2
+",69,greber-lucie,15,3,0.3412151989333044,0.2
 280,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -2222,7 +2222,7 @@ Berthe, do hesch dü nix ze schaffe! Mach daß de nüs kummsch!
 (Mit Berthe rechts ab.)
 
         
-",greber-lucie,27,1,0.314,0.037037037037037035
+",70,greber-lucie,27,1,0.314,0.037037037037037035
 281,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2232,7 +2232,7 @@ Lucie :
           Geld zeruck, — — dhüen Sie mir de Gfalle . . .
 
         
-",greber-lucie,29,6,0.6239554783258225,0.20689655172413793
+",70,greber-lucie,29,6,0.6239554783258225,0.20689655172413793
 282,drama,Léon Bajolewski,M,,,,"
           
 Bajolewski
@@ -2252,7 +2252,7 @@ ihrer ablehnenden Antwort, dann . . . können Sie der Frau die hundert Mark zur�
           es Ihnen zum letzten Mal: stehen Sie ihrem Glük nicht im Wege! Adieu, Frl. Lucie!
 
         
-",greber-lucie,131,16,0.5901890615100982,0.12213740458015267
+",70,greber-lucie,131,16,0.5901890615100982,0.12213740458015267
 283,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2261,7 +2261,7 @@ Lucie :
 Adieu, Herr Dokt'r, un glücklichi Reis'.
 
         
-",greber-lucie,7,5,0.6443667747631306,0.7142857142857143
+",70,greber-lucie,7,5,0.6443667747631306,0.7142857142857143
 284,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -2273,7 +2273,7 @@ Mutter
 Was isch dis jetz widder for e Herr gsin? Du weisch, daß ich dis nit lid.
 
         
-",greber-lucie,22,3,0.3272048547639618,0.13636363636363635
+",71,greber-lucie,22,3,0.3272048547639618,0.13636363636363635
 285,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2282,7 +2282,7 @@ Lucie :
 Ranz mich doch nit so an. Ich hab mit dem Herr ebbs ze redde ghet.
 
         
-",greber-lucie,16,1,0.578708951845571,0.0625
+",71,greber-lucie,16,1,0.578708951845571,0.0625
 286,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -2291,7 +2291,7 @@ Mutter :
 's isch güet, s' isch güet! Es kummt m'r awer nimmeh vor. Dis isch's letscht Mol gsin!
 
         
-",greber-lucie,19,2,0.8496361744517235,0.10526315789473684
+",71,greber-lucie,19,2,0.8496361744517235,0.10526315789473684
 287,drama,Lucie,F,,,,"
           
 Lucie
@@ -2303,7 +2303,7 @@ Lucie
 Mach m'r doch ken Reprosche, eb daß d'ebbs weisch!
 
         
-",greber-lucie,15,1,0.407956938779098,0.06666666666666667
+",71,greber-lucie,15,1,0.407956938779098,0.06666666666666667
 288,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -2319,7 +2319,7 @@ Jetz Kind, seij doch verständig. So isch die Sach nit gemeint gsin. Weje mir ka
  Seij stille! 's kummt ebber.
 
         
-",greber-lucie,52,6,0.6509691186810284,0.11538461538461539
+",72,greber-lucie,52,6,0.6509691186810284,0.11538461538461539
 289,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg
@@ -2331,7 +2331,7 @@ Mülberg
 Guten Abend. Störe ich vielleicht ?
 
         
-",greber-lucie,10,2,0.6618511375548317,0.2
+",72,greber-lucie,10,2,0.6618511375548317,0.2
 290,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -2343,7 +2343,7 @@ enchantirt vun Ihrer Visit. 's isch e großi Ehr for uns, Herr l'abbe, daß Sie 
           . .
 
         
-",greber-lucie,34,5,0.7375093042231434,0.14705882352941177
+",72,greber-lucie,34,5,0.7375093042231434,0.14705882352941177
 291,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2352,7 +2352,7 @@ Mülberg :
 Kann ich einen Augenblick allein mit Ihrer Frl. Tochter sprechen ?
 
         
-",greber-lucie,11,2,0.5435234233555715,0.18181818181818182
+",72,greber-lucie,11,2,0.5435234233555715,0.18181818181818182
 294,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -2370,7 +2370,7 @@ Awer wurum denn nit, Herr l'abbé? Do nemme Sie denne Stuehl, Herr l'abbé. 's i
           Herr l'abbé? 's fangt glauwi schun an, dunkel ze wäre. d'Däj sin schun ari kurz worre.
 
         
-",greber-lucie,148,22,0.5610521974483703,0.14864864864864866
+",73,greber-lucie,148,22,0.5610521974483703,0.14864864864864866
 295,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg
@@ -2382,7 +2382,7 @@ Mülberg
 Ich denke bald wieder zu gehen, Frau Engel.
 
         
-",greber-lucie,13,1,0.906,0.07692307692307693
+",73,greber-lucie,13,1,0.906,0.07692307692307693
 296,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -2394,7 +2394,7 @@ Mutter :
 (Links ab.)
 
         
-",greber-lucie,46,6,0.5419071217634462,0.13043478260869565
+",74,greber-lucie,46,6,0.5419071217634462,0.13043478260869565
 297,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2404,7 +2404,7 @@ Ich habe ein ernstes Wort mit Ihnen zu sprechen, Frl. Lucie. Ich hätte es schon
           indeß . . . .
 
         
-",greber-lucie,20,2,0.5794539867035294,0.1
+",74,greber-lucie,20,2,0.5794539867035294,0.1
 299,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2413,7 +2413,7 @@ Mülberg :
 Doch, ja. — — Frl. Lucie, wissen Sie, weshalb ich zu Ihnen komme?
 
         
-",greber-lucie,14,2,0.6198730506827388,0.14285714285714285
+",74,greber-lucie,14,2,0.6198730506827388,0.14285714285714285
 300,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2424,7 +2424,7 @@ Nein, Herr l'abbé, ganz un gar nit. — —
 (Pause.)
 
         
-",greber-lucie,13,3,0.5871435576994607,0.23076923076923078
+",75,greber-lucie,13,3,0.5871435576994607,0.23076923076923078
 301,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2435,7 +2435,7 @@ Soeben habe ich einem Sterbenden die heilige Wegzehrung gereicht und habe ihm di
           verlassen, bis ich versucht habe, einem andern Sterbenden zum neuen Leben verholfen zu haben.
 
         
-",greber-lucie,47,4,0.6418324883059159,0.0851063829787234
+",75,greber-lucie,47,4,0.6418324883059159,0.0851063829787234
 303,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2445,7 +2445,7 @@ Sie werden mich bald verstehn, Frl. Lucie. Ich meine keine leiblich Sterbende �
           schwere Krankheiten der Seele . . . . Verstehn Sie mich jetzt, Frl. Lucie?
 
         
-",greber-lucie,30,5,0.5464092097741963,0.16666666666666666
+",75,greber-lucie,30,5,0.5464092097741963,0.16666666666666666
 304,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2454,7 +2454,7 @@ Lucie :
 Nein, Herr l'abbé.
 
         
-",greber-lucie,4,1,0.578708951845571,0.25
+",76,greber-lucie,4,1,0.578708951845571,0.25
 305,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2466,7 +2466,7 @@ Nun gut, ich will nicht hinterm Berge halten. Ich möchte eine Frage an Sie rich
           ein Marienkind geblieben?
 
         
-",greber-lucie,60,7,0.5847725015317315,0.11666666666666667
+",76,greber-lucie,60,7,0.5847725015317315,0.11666666666666667
 306,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2476,7 +2476,7 @@ Ich weiß nit, wie Sie mich dis fröuje könne. Wenn ich mich nit trumpier, bin 
           letschte-n-Ostern fascht jeds Mol in d' Versammlung kumme, Herr l'abbé.
 
         
-",greber-lucie,31,4,0.4871893996209112,0.12903225806451613
+",76,greber-lucie,31,4,0.4871893996209112,0.12903225806451613
 307,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2486,7 +2486,7 @@ Von letzten Oftern bis heute ist eine lange Zeit, da kann vieles sich verändert
           schon früher . . . .
 
         
-",greber-lucie,20,2,0.5392923332332077,0.1
+",76,greber-lucie,20,2,0.5392923332332077,0.1
 308,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2496,7 +2496,7 @@ Sie welle mir, glauwi, d'Bicht abnemme, Herr l'abbé. Sin Sie weje dem unbsorjt;
           es d'r Zitt isch ze bichte, wur ich schun kumme. Un jetz nix for ungüet, Herr l'abbé Mülberg.
 
         
-",greber-lucie,37,7,0.5511482312623103,0.1891891891891892
+",77,greber-lucie,37,7,0.5511482312623103,0.1891891891891892
 309,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg
@@ -2510,7 +2510,7 @@ Sprechen Sie nicht so, Frl. Lucie. Die Kirche drängt ja Niemandem ihre Gnadenmi
           jetzt noch das Heil Ihrer Seele warm am Herzen liegt.
 
         
-",greber-lucie,46,7,0.7546509580012083,0.15217391304347827
+",77,greber-lucie,46,7,0.7546509580012083,0.15217391304347827
 310,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2519,7 +2519,7 @@ Lucie :
 Vun dem isch ken Redd, Herr l'abbé.
 
         
-",greber-lucie,8,1,0.578708951845571,0.125
+",77,greber-lucie,8,1,0.578708951845571,0.125
 311,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2530,7 +2530,7 @@ Nicht wahr — — ich wußt' es ja. Wenn man ein Kind, von dem man sich alles G
           Tugend abgewichen ist — —
 
         
-",greber-lucie,46,9,0.699016521414116,0.1956521739130435
+",77,greber-lucie,46,9,0.699016521414116,0.1956521739130435
 312,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2548,7 +2548,7 @@ soll sich an sinere Nas hewe. — Awer nein! Isch dis nit awer! — Vum Lüwis k
           ze — — gemein. Isch's nit 's Lüwis gsin?
 
         
-",greber-lucie,116,9,0.49709604089856846,0.07758620689655173
+",78,greber-lucie,116,9,0.49709604089856846,0.07758620689655173
 313,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg
@@ -2560,7 +2560,7 @@ Mülberg
 Frl. Lucie — — — ich kann Ihnen übrigens versichern, daß sie es nicht gewesen ist —
 
         
-",greber-lucie,21,1,0.7493466491904591,0.047619047619047616
+",78,greber-lucie,21,1,0.7493466491904591,0.047619047619047616
 314,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2569,7 +2569,7 @@ Lucie :
 Wenn ich's emol triff, wur ich em awer Schand saaue, dem schlechte Ding.
 
         
-",greber-lucie,15,2,0.2180679541351117,0.13333333333333333
+",78,greber-lucie,15,2,0.2180679541351117,0.13333333333333333
 315,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2581,7 +2581,7 @@ Sie dürfen mir glauben, daß ich eine nicht begründete Verdächtigung für sü
           . .
 
         
-",greber-lucie,51,7,0.4589105079262822,0.13725490196078433
+",78,greber-lucie,51,7,0.4589105079262822,0.13725490196078433
 316,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2590,7 +2590,7 @@ Lucie :
 Herr l'abbé ..... ich saa ne merçi for die güet Meinung, wo Sie vun m'r han.
 
         
-",greber-lucie,16,3,0.6957020682214646,0.1875
+",79,greber-lucie,16,3,0.6957020682214646,0.1875
 317,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2600,7 +2600,7 @@ Schon lange arbeiten Sie nicht mehr: und gehen doch in Sammt und Seide. Ihre Elt
           reich: und gleichwohl ist Ihre Hand mit kostbaren Ringen geschmückt.
 
         
-",greber-lucie,28,5,0.5746387976728361,0.17857142857142858
+",79,greber-lucie,28,5,0.5746387976728361,0.17857142857142858
 318,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2610,7 +2610,7 @@ Was dis anbetrifft, so gehts nieme nix an. Sie wäre m'r doch glauwe, wenn ich n
           Saches nit gstohle hab?
 
         
-",greber-lucie,25,2,0.49270043847901857,0.08
+",79,greber-lucie,25,2,0.49270043847901857,0.08
 319,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2619,7 +2619,7 @@ Mülberg :
 Das habe ich nicht gesagt; nur meine ich .....
 
         
-",greber-lucie,9,1,0.7174614274296905,0.1111111111111111
+",79,greber-lucie,9,1,0.7174614274296905,0.1111111111111111
 320,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2628,7 +2628,7 @@ Lucie :
 Was meine Sie?
 
         
-",greber-lucie,4,1,0.7174614274296905,0.25
+",80,greber-lucie,4,1,0.7174614274296905,0.25
 321,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2640,7 +2640,7 @@ Nichts. — — Gar nichts. —
  Kamen Sie nicht in letzter Zeit öfters zur Frühmesse?
 
         
-",greber-lucie,19,4,0.33520457471432885,0.21052631578947367
+",80,greber-lucie,19,4,0.33520457471432885,0.21052631578947367
 322,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2649,7 +2649,7 @@ Lucie :
 Doch, Herr l'abbé.
 
         
-",greber-lucie,4,1,0.578708951845571,0.25
+",80,greber-lucie,4,1,0.578708951845571,0.25
 323,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2658,7 +2658,7 @@ Mülberg :
 — — wenn's noch dunkel war und die Laternen noch brannten?
 
         
-",greber-lucie,13,2,0.3272762799561749,0.15384615384615385
+",80,greber-lucie,13,2,0.3272762799561749,0.15384615384615385
 324,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2667,7 +2667,7 @@ Lucie :
 Ganz erecht, Herr l'abbé.
 
         
-",greber-lucie,5,2,0.6895944791207737,0.4
+",81,greber-lucie,5,2,0.6895944791207737,0.4
 325,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2679,7 +2679,7 @@ Da knieten Sie mit übernächtigem Auge auf einer der lezten Bänke. Ich aber fr
           weiß nicht, was sie thut.
 
         
-",greber-lucie,58,5,0.6349519759674604,0.08620689655172414
+",81,greber-lucie,58,5,0.6349519759674604,0.08620689655172414
 326,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2688,7 +2688,7 @@ Lucie :
 Ja, jetzt saaue Sie doch emol um Gottswille, was dis alles beditte soll.
 
         
-",greber-lucie,14,2,0.5999186648992239,0.14285714285714285
+",81,greber-lucie,14,2,0.5999186648992239,0.14285714285714285
 327,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mühlberg :
@@ -2697,7 +2697,7 @@ Mühlberg :
 Sie sind nicht rein geblieben, Frl. Lucie!
 
         
-",greber-lucie,8,1,0.237,0.125
+",81,greber-lucie,8,1,0.237,0.125
 328,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2708,7 +2708,7 @@ Ah, dis meine Sie, daß ich e Schatz hab? Ja, ich hab einer, Herr l'abbé! M'r b
           m'r nit in d'r Jüged soll e bissel Pläsier han, meine Sie verlicht im Alter ?
 
         
-",greber-lucie,57,13,0.7001186212174105,0.22807017543859648
+",82,greber-lucie,57,13,0.7001186212174105,0.22807017543859648
 329,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2720,7 +2720,7 @@ Daß Sie einen Mann lieben, vom innersten Grunde Ihres Herzens, wird Ihnen Niema
           allein angehören, wenn Sie sogar Ihre sündigen Dienste . . . . .
 
         
-",greber-lucie,59,10,0.521367924864673,0.1694915254237288
+",82,greber-lucie,59,10,0.521367924864673,0.1694915254237288
 330,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2742,7 +2742,7 @@ Güet also, Herr l'abbé, wo Sie's doch wisse — — was soll ich's laigle? Ja,
           dis wisse Sie so güet wie ich. Wo soll ichs also hereschaffe ?
 
         
-",greber-lucie,270,36,0.5845008094621893,0.13333333333333333
+",82,greber-lucie,270,36,0.5845008094621893,0.13333333333333333
 331,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2751,7 +2751,7 @@ Mülberg :
 . . . Sie hätten wohl auch mildthätige Hände genug gefunden — — es giebt Vereine — —
 
         
-",greber-lucie,16,2,0.7875254471739634,0.125
+",82,greber-lucie,16,2,0.7875254471739634,0.125
 332,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2761,7 +2761,7 @@ Wer soll uns ebbs genn? Mit e paar Holz- un Suppekärtle isch uns so güet wie n
           Societäte, wo sich um Litt, wie min Babbe-n-annemme, han schun lang alli Hilf refüsiert.
 
         
-",greber-lucie,38,5,0.6759327954215835,0.13157894736842105
+",83,greber-lucie,38,5,0.6759327954215835,0.13157894736842105
 334,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2770,7 +2770,7 @@ Lucie :
 Bettle gehn? Herr l'abbé, 's Lucie geht nit bettle.
 
         
-",greber-lucie,10,3,0.35290298394852365,0.3
+",83,greber-lucie,10,3,0.35290298394852365,0.3
 335,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2780,7 +2780,7 @@ Ich will ja nicht über Sie richten, das sei fern von mir. Nur meine ich, daß e
           sterben, als sich so der Sünde hinzugeben.
 
         
-",greber-lucie,28,5,0.48117886023181294,0.17857142857142858
+",83,greber-lucie,28,5,0.48117886023181294,0.17857142857142858
 336,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2789,7 +2789,7 @@ Lucie :
 Sie han güet redde, Herr l'abbé . ..
 
         
-",greber-lucie,7,2,0.7141725631486473,0.2857142857142857
+",84,greber-lucie,7,2,0.7141725631486473,0.2857142857142857
 337,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2801,7 +2801,7 @@ Ich will Ihnen ja gerne zugeben, daß Sie in sehr mißlicher Lage gewesen sind. 
           nur Prüfungen, die er sendet.
 
         
-",greber-lucie,58,12,0.528126794139866,0.20689655172413793
+",84,greber-lucie,58,12,0.528126794139866,0.20689655172413793
 338,drama,Lucie,F,,,,"
           
 Lucie
@@ -2810,7 +2810,7 @@ Lucie
 (will reden, Mülberg läßt sie aber nicht zu Worte kommen).
 
         
-",greber-lucie,13,2,0.44788181112281134,0.15384615384615385
+",84,greber-lucie,13,2,0.44788181112281134,0.15384615384615385
 339,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2829,7 +2829,7 @@ einbildeten, mit einem Kniefall sei das Geschehene wieder gut gemacht, mit einem
           Ist es nicht so?
 
         
-",greber-lucie,134,16,0.421121361429903,0.11940298507462686
+",84,greber-lucie,134,16,0.421121361429903,0.11940298507462686
 340,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2839,7 +2839,7 @@ Nein, nein! Herr l'abbé! So schlecht bin ich doch nit! — — Ich versicher Si
           Elend....
 
         
-",greber-lucie,21,5,0.3523507233559492,0.23809523809523808
+",85,greber-lucie,21,5,0.3523507233559492,0.23809523809523808
 341,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2862,7 +2862,7 @@ Mag sein, mag sein! Wie oft aber habe ich Ihnen — — Ihnen allen aus unserer 
  dann wären Sie für die Menschheit und für diese Welt verloren.
 
         
-",greber-lucie,153,23,0.6157586066576609,0.1503267973856209
+",85,greber-lucie,153,23,0.6157586066576609,0.1503267973856209
 342,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2871,7 +2871,7 @@ Lucie :
 O Gott! O Gott! Die Schand dädd ich nit üewwerlewe!
 
         
-",greber-lucie,11,3,0.6115168534688008,0.2727272727272727
+",85,greber-lucie,11,3,0.6115168534688008,0.2727272727272727
 343,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2885,7 +2885,7 @@ Dann gäbe es keine Rettung mehr, und nach menschlicher Erfahrung würde auch de
           Sie dieser Gefahr! Geächtet fürs ganze Leben, krank an Körper und Seele!
 
         
-",greber-lucie,50,9,0.5593404578435006,0.18
+",85,greber-lucie,50,9,0.5593404578435006,0.18
 345,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2902,7 +2902,7 @@ O kehren Sie um, ehe es zu spät ist! Bedenken Sie, die Gnade Gottes ist ja unen
           auch Ihrer teilhaftig werde!!
 
         
-",greber-lucie,137,28,0.6397762177153661,0.20437956204379562
+",86,greber-lucie,137,28,0.6397762177153661,0.20437956204379562
 346,drama,Lucie,F,,,,"
           
 Lucie
@@ -2912,7 +2912,7 @@ Lucie
           verbergen).
 
         
-",greber-lucie,20,3,0.44742976185816374,0.15
+",86,greber-lucie,20,3,0.44742976185816374,0.15
 347,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg
@@ -2924,7 +2924,7 @@ Mülberg
 Nicht so, Lucie, nicht so! Steh auf! Lucie! Lucie!
 
         
-",greber-lucie,15,1,0.74772414580386,0.06666666666666667
+",86,greber-lucie,15,1,0.74772414580386,0.06666666666666667
 349,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2963,7 +2963,7 @@ Eines Morgens — es war der erste Osterfeiertag — kehrte er in der Frühe nac
           Mensch zu werden.
 
         
-",greber-lucie,400,53,0.5674059938698242,0.1325
+",87,greber-lucie,400,53,0.5674059938698242,0.1325
 350,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2972,7 +2972,7 @@ Lucie :
 O Gott! o Gott!
 
         
-",greber-lucie,5,2,0.758,0.4
+",87,greber-lucie,5,2,0.758,0.4
 351,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -2984,7 +2984,7 @@ Was er sich damals vornahm, das hat er auch redlich durchgeführt. Kaum genesen,
           Willst du, daß ich dir den Weg eben dahin zeige?
 
         
-",greber-lucie,65,9,0.5746252456422406,0.13846153846153847
+",87,greber-lucie,65,9,0.5746252456422406,0.13846153846153847
 352,drama,Lucie,F,,,,"
           
 Lucie :
@@ -2993,7 +2993,7 @@ Lucie :
 Dhüen Sie's, Herr l'abbé, dhüen Sie's. Saaue Sie mir, was ich mache soll.
 
         
-",greber-lucie,16,1,0.578708951845571,0.0625
+",88,greber-lucie,16,1,0.578708951845571,0.0625
 353,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3002,7 +3002,7 @@ Mülberg :
 Was du thun sollst? dich losreißen von deiner Vergangenheit und ein neues Leben beginnen.
 
         
-",greber-lucie,15,2,0.77219912444775,0.13333333333333333
+",88,greber-lucie,15,2,0.77219912444775,0.13333333333333333
 354,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3011,7 +3011,7 @@ Lucie :
 Ja un wie — —
 
         
-",greber-lucie,6,1,0.731982479119855,0.16666666666666666
+",88,greber-lucie,6,1,0.731982479119855,0.16666666666666666
 355,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Milberg :
@@ -3020,7 +3020,7 @@ Milberg :
 Du mußt fort von hier, weit fort, fort aus dieser Atmosphäre, die dein Herz vergiftet hat.
 
         
-",greber-lucie,17,2,0.4316110859772732,0.11764705882352941
+",88,greber-lucie,17,2,0.4316110859772732,0.11764705882352941
 357,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3032,7 +3032,7 @@ Ja das mußt du, und ich will für dich sorgen. Vor allen Dingen wirft du morgen
           verbleiben, sondern dahin gehen, wohin ich dich schicken werde.
 
         
-",greber-lucie,64,8,0.46759261476163155,0.125
+",89,greber-lucie,64,8,0.46759261476163155,0.125
 359,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3042,7 +3042,7 @@ Bei frommen Schwestern wirst du übernachten, die ich benachrichtigen werde. Heu
           Pfarrhause wird dir der Pförtner die Adresse aushändigen.
 
         
-",greber-lucie,23,2,0.716108408704611,0.08695652173913043
+",89,greber-lucie,23,2,0.716108408704611,0.08695652173913043
 361,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3051,7 +3051,7 @@ Mülberg :
 Dann wirst du morgen von deinen Angehörigen Abschied nehmen.
 
         
-",greber-lucie,10,2,0.39212917230970534,0.2
+",90,greber-lucie,10,2,0.39212917230970534,0.2
 362,drama,Lucie,F,,,,"
           
 Lucie
@@ -3063,7 +3063,7 @@ Lucie
 Un drno?
 
         
-",greber-lucie,9,1,0.053,0.1111111111111111
+",90,greber-lucie,9,1,0.053,0.1111111111111111
 363,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3076,7 +3076,7 @@ Fürchte nicht, daß ich irgend welchen Druck auf dich ausübe, Klosterfrau zu w
           Vergangenheit erfahren.
 
         
-",greber-lucie,68,9,0.5444929134972166,0.1323529411764706
+",90,greber-lucie,68,9,0.5444929134972166,0.1323529411764706
 364,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3085,7 +3085,7 @@ Lucie :
 — — — un min Schweschterle un mini Mamme? — — —
 
         
-",greber-lucie,13,1,0.821040206337619,0.07692307692307693
+",91,greber-lucie,13,1,0.821040206337619,0.07692307692307693
 365,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3095,7 +3095,7 @@ Das laß meine Sorge sein. Ich verspreche dir: sie sollen keine Not leiden. Ich 
           viel für sie thun. — — Nur mußt du mir geloben, immer brav zu bleiben.
 
         
-",greber-lucie,34,6,0.4387284677764515,0.17647058823529413
+",91,greber-lucie,34,6,0.4387284677764515,0.17647058823529413
 366,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3104,7 +3104,7 @@ Lucie :
 Ganz gewiß, Herr l'abbé, ganz gewiß.
 
         
-",greber-lucie,7,5,0.7047808883802485,0.7142857142857143
+",91,greber-lucie,7,5,0.7047808883802485,0.7142857142857143
 367,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3115,7 +3115,7 @@ Das Leben liegt ja noch vor dir. — — Und wenn einmal dein Herz geläutert is
           werde dir für die Beschaffung deines Hausstandes behülflich sein.
 
         
-",greber-lucie,45,6,0.744819114173561,0.13333333333333333
+",91,greber-lucie,45,6,0.744819114173561,0.13333333333333333
 368,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3124,7 +3124,7 @@ Lucie :
 Ich verdien's gar nit, daß Sie so güet züe m'r sin, Herr l'abbé.
 
         
-",greber-lucie,15,3,0.7698586782622397,0.2
+",92,greber-lucie,15,3,0.7698586782622397,0.2
 369,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3135,7 +3135,7 @@ Nichts davon. — — Und nun geh in dein Kämmerlein , lege dein üppiges , rei
           dir. So wirst du Gott gefallen. Und dann komm ins Pfarrhaus, damit ich weiter für dich sorgen kann.
 
         
-",greber-lucie,52,6,0.549968245569099,0.11538461538461539
+",92,greber-lucie,52,6,0.549968245569099,0.11538461538461539
 370,drama,Joseph Engel,M,,,,"
           
 Vater
@@ -3169,7 +3169,7 @@ Ob ich Geld hab oder keins!
           ich — — halt nur — — au gern wisse, was Sie do süeche — Herr Pfarrer.
 
         
-",greber-lucie,136,15,0.6181201343677147,0.11029411764705882
+",92,greber-lucie,136,15,0.6181201343677147,0.11029411764705882
 371,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3178,7 +3178,7 @@ Lucie :
 Ich bitt dich, Babbe . . . .
 
         
-",greber-lucie,5,2,0.5381281181348445,0.4
+",92,greber-lucie,5,2,0.5381281181348445,0.4
 372,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3189,7 +3189,7 @@ Armi Litt han doch ken Gott — — — 's isch emol eso — — was kann ich dr
           . . . . Uns holt jo doch d'r Deifel . . . . Was leijts mir an!
 
         
-",greber-lucie,58,7,0.4570436445979555,0.1206896551724138
+",93,greber-lucie,58,7,0.4570436445979555,0.1206896551724138
 373,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mühlberg
@@ -3201,7 +3201,7 @@ Mühlberg
 Pfui !
 
         
-",greber-lucie,10,1,0.906,0.1
+",93,greber-lucie,10,1,0.906,0.1
 374,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3218,7 +3218,7 @@ Nix ze pfui, — — Herr Pfarrer. — Do bin ich Herr im Hüs — — un kann s
  Welle Sie nit mithalte ?
 
         
-",greber-lucie,89,12,0.5633483766707145,0.1348314606741573
+",93,greber-lucie,89,12,0.5633483766707145,0.1348314606741573
 375,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -3233,7 +3233,7 @@ Do bring ich ne Licht, Herr l'abbé; 's isch schun ziemli dunkel worre.
  Jesses Gott, do bisch jo dü — — —
 
         
-",greber-lucie,37,7,0.6326912609583522,0.1891891891891892
+",93,greber-lucie,37,7,0.6326912609583522,0.1891891891891892
 376,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3242,7 +3242,7 @@ Vater :
 Ja, — — do bin ich — — du hesch doch nix d'rwidder — — hesch dü denne Pfaff ins Hüs gebroocht ?
 
         
-",greber-lucie,24,3,0.734868156864434,0.125
+",94,greber-lucie,24,3,0.734868156864434,0.125
 377,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3252,7 +3252,7 @@ Schäm dich do e bissel, so wüscht ze redde. Nemm dich doch zsamme! — — —
           gehts jede Daa, wo d'r lieb Herrgott erschaffe het. — — Der Mann het uns dun ebbs misère gemacht!
 
         
-",greber-lucie,41,6,0.6610233456992144,0.14634146341463414
+",94,greber-lucie,41,6,0.6610233456992144,0.14634146341463414
 379,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3266,7 +3266,7 @@ Waas — -? — — ich weiß selbscht — — was ich ze dhüen hab — — do 
           —
 
         
-",greber-lucie,74,5,0.6499934176710906,0.06756756756756757
+",94,greber-lucie,74,5,0.6499934176710906,0.06756756756756757
 380,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3275,7 +3275,7 @@ Lucie :
 Babbe!
 
         
-",greber-lucie,2,1,0.784256236269689,0.5
+",95,greber-lucie,2,1,0.784256236269689,0.5
 381,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3288,7 +3288,7 @@ Schweigen Sie, schamloser Mensch! Ihre Familie haben Sie ins Unglück gebracht �
           Vergeltung wird Ihnen dereinst nicht erspart bleiben.
 
         
-",greber-lucie,73,18,0.412197632122598,0.2465753424657534
+",95,greber-lucie,73,18,0.412197632122598,0.2465753424657534
 382,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3300,7 +3300,7 @@ Oho — — — ! so kumme Sie mir dohere? — — — Herrgottsakrement noch em
 (geht drohend auf den Vikar zu).
 
         
-",greber-lucie,41,3,0.5516213663253311,0.07317073170731707
+",95,greber-lucie,41,3,0.5516213663253311,0.07317073170731707
 383,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3311,7 +3311,7 @@ Mann, du machsch dich unglücklich!
 (Lucie und Mutter halten ihn zurück.)
 
         
-",greber-lucie,14,2,0.409556617733959,0.14285714285714285
+",95,greber-lucie,14,2,0.409556617733959,0.14285714285714285
 384,drama,Abbé Mülberg,M,vicar,clergy,lower_middle_class,"
           
 Mülberg :
@@ -3325,7 +3325,7 @@ Ich gehe schon, Herr Engel, ich gehe schon. Das aber sage ich Ihnen, in Ihrer To
           Pfarrhause!
 
         
-",greber-lucie,41,7,0.6906040794832448,0.17073170731707318
+",96,greber-lucie,41,7,0.6906040794832448,0.17073170731707318
 385,drama,Lucie,F,,,,"
           
 Lucie
@@ -3337,7 +3337,7 @@ Lucie
 Ja, Herr l'abbé.
 
         
-",greber-lucie,15,3,0.6627635341468721,0.2
+",96,greber-lucie,15,3,0.6627635341468721,0.2
 386,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3352,7 +3352,7 @@ Wer het m'r denne Pfaff ins Hüs gebroocht ? — — denne Galjevöujel! — —
           Brief auf den Tisch und geht wieder ab.)
 
         
-",greber-lucie,90,10,0.590348807512311,0.1111111111111111
+",96,greber-lucie,90,10,0.590348807512311,0.1111111111111111
 387,drama,Lucie,F,,,,"
           
 Lucie
@@ -3364,7 +3364,7 @@ Lucie
 E Brief! Ums Gottswille, was isch dis for e Brief? E Brief ohne timbre . . . .
 
         
-",greber-lucie,18,1,0.083,0.05555555555555555
+",96,greber-lucie,18,1,0.083,0.05555555555555555
 388,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3373,7 +3373,7 @@ Mutter :
 Was wurd's groß sin, mach ne 'mol uff, no wurrsch schun sehn.
 
         
-",greber-lucie,14,2,0.7053279837448239,0.14285714285714285
+",97,greber-lucie,14,2,0.7053279837448239,0.14285714285714285
 389,drama,Lucie,F,,,,"
           
 Lucie
@@ -3385,7 +3385,7 @@ Lucie
 Ich kann nit! ich kann nit! Mamme, mach dü ne-n-uff, ich bitt dich drum.
 
         
-",greber-lucie,22,3,0.6090134021125396,0.13636363636363635
+",97,greber-lucie,22,3,0.6090134021125396,0.13636363636363635
 390,drama,Marie Engel,F,,,,"
           
 Mutter
@@ -3397,7 +3397,7 @@ Mutter
 . . . ""um als Beschuldigte vernommen zu werden. Die Kaiserliche Staatsanwaltschaft"" . . . .
 
         
-",greber-lucie,19,3,0.5289700206422701,0.15789473684210525
+",97,greber-lucie,19,3,0.5289700206422701,0.15789473684210525
 392,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3410,7 +3410,7 @@ Genn emol de Wisch here, dis versteh ich besser.
           müesse. Du bisch vor's Gericht gelade.
 
         
-",greber-lucie,36,5,0.5233516284361416,0.1388888888888889
+",98,greber-lucie,36,5,0.5233516284361416,0.1388888888888889
 393,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3421,7 +3421,7 @@ Vor's Gericht !!
 (Lauter Aufschrei.)
 
         
-",greber-lucie,8,2,0.4991446427872456,0.25
+",98,greber-lucie,8,2,0.4991446427872456,0.25
 394,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3432,7 +3432,7 @@ Allmächtiger Himmel, dis Kind wurd ohnmächtig !
 (Hält Lucie.)
 
         
-",greber-lucie,11,5,0.6254262292366695,0.45454545454545453
+",98,greber-lucie,11,5,0.6254262292366695,0.45454545454545453
 395,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3443,7 +3443,7 @@ Vater :
 (Er setzt sich aufs Sopha.)
 
         
-",greber-lucie,29,2,0.5567899772577215,0.06896551724137931
+",98,greber-lucie,29,2,0.5567899772577215,0.06896551724137931
 396,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3452,7 +3452,7 @@ Mutter :
 Hilf m'r doch, Mann, dis Kind fallt m'r jo anne!
 
         
-",greber-lucie,11,2,0.744664917934584,0.18181818181818182
+",99,greber-lucie,11,2,0.744664917934584,0.18181818181818182
 398,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3463,7 +3463,7 @@ Min arms Kind!
 (Hält sie)
 
         
-",greber-lucie,8,2,0.5590226914628256,0.25
+",99,greber-lucie,8,2,0.5590226914628256,0.25
 399,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3478,7 +3478,7 @@ Dummheite — — dis kann jo alles nix nutze — — — de müesch jo doch ann
 (Er schläft ein.)
 
         
-",greber-lucie,109,8,0.4692685913983372,0.07339449541284404
+",99,greber-lucie,109,8,0.4692685913983372,0.07339449541284404
 400,drama,Eine Frau,F,,,,"
           
 Eine Frau
@@ -3491,7 +3491,7 @@ Eine Frau
 Bonsoir bisamme. Wohnt do verlycht d'Mamsell Lucie Engel?
 
         
-",greber-lucie,22,2,0.8532400031979881,0.09090909090909091
+",100,greber-lucie,22,2,0.8532400031979881,0.09090909090909091
 401,drama,Lucie,F,,,,"
           
 Lucie
@@ -3506,7 +3506,7 @@ Lucie
 Sie kumme vum Herr Dokt'r?
 
         
-",greber-lucie,60,9,0.6062461868018848,0.15
+",100,greber-lucie,60,9,0.6062461868018848,0.15
 402,drama,Frau Stelzer,F,,,,"
           
 Frau
@@ -3518,7 +3518,7 @@ Frau
 Vum Herr Bajolewski. D'Citadin steht vorne-n-am Eck.
 
         
-",greber-lucie,15,1,0.578708951845571,0.06666666666666667
+",100,greber-lucie,15,1,0.578708951845571,0.06666666666666667
 403,drama,Lucie,F,,,,"
           
 Lucie
@@ -3533,7 +3533,7 @@ Lucie
 (Nimmt ihren Hut, der noch auf dem Tische liegt und eilt in ihr Zimmer.)
 
         
-",greber-lucie,36,4,0.5316236104304205,0.1111111111111111
+",100,greber-lucie,36,4,0.5316236104304205,0.1111111111111111
 406,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3542,7 +3542,7 @@ Mutter :
 Wer het sie dohere geschickt ?
 
         
-",greber-lucie,6,1,0.8088109111764948,0.16666666666666666
+",101,greber-lucie,6,1,0.8088109111764948,0.16666666666666666
 407,drama,Frau Stelzer,F,,,,"
           
 Frau
@@ -3555,7 +3555,7 @@ Frau
 Ich hab blos e kleini Kommission üszerichte.
 
         
-",greber-lucie,24,4,0.4350745573379732,0.16666666666666666
+",101,greber-lucie,24,4,0.4350745573379732,0.16666666666666666
 409,drama,Frau Stelzer,F,,,,"
           
 Frau :
@@ -3564,7 +3564,7 @@ Frau :
 's isch vum e Herr.
 
         
-",greber-lucie,6,1,0.578708951845571,0.16666666666666666
+",102,greber-lucie,6,1,0.578708951845571,0.16666666666666666
 410,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3573,7 +3573,7 @@ Mutter :
 Was for e Kommission, mein ich.
 
         
-",greber-lucie,7,1,0.7174614274296905,0.14285714285714285
+",102,greber-lucie,7,1,0.7174614274296905,0.14285714285714285
 412,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3582,7 +3582,7 @@ Mutter :
 Wie heißt denn d'r Herr?
 
         
-",greber-lucie,6,1,0.578708951845571,0.16666666666666666
+",103,greber-lucie,6,1,0.578708951845571,0.16666666666666666
 420,drama,Lucie,F,,,,"
           
 Lucie :
@@ -3603,7 +3603,7 @@ furt. Ich derf ken Zitt verliere.
 (Mit der Frau schnell ab.)
 
         
-",greber-lucie,63,8,0.5785339593155354,0.12698412698412698
+",105,greber-lucie,63,8,0.5785339593155354,0.12698412698412698
 422,drama,Lucie,F,,,,"
           
 Lucie
@@ -3615,7 +3615,7 @@ Lucie
 Weiß nit. Adieu!
 
         
-",greber-lucie,8,1,0.1787619194417025,0.125
+",105,greber-lucie,8,1,0.1787619194417025,0.125
 423,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3630,7 +3630,7 @@ Allmächtiger Gott, dis Kind wurd doch nit furtlaufe!
 : Mann, steh doch uff, verwach doch! 's Lucie geht uns furt!
 
         
-",greber-lucie,31,7,0.6817838633936536,0.22580645161290322
+",105,greber-lucie,31,7,0.6817838633936536,0.22580645161290322
 424,drama,Joseph Engel,M,,,,"
           
 Vater
@@ -3642,7 +3642,7 @@ Vater
 Es wurd schun widderkumme.
 
         
-",greber-lucie,9,2,0.7432366974273013,0.2222222222222222
+",106,greber-lucie,9,2,0.7432366974273013,0.2222222222222222
 425,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3651,7 +3651,7 @@ Mutter :
 Mann, steh uff un lauf em nooch! Es geht sicher furt!
 
         
-",greber-lucie,12,3,0.7295613018168585,0.25
+",106,greber-lucie,12,3,0.7295613018168585,0.25
 426,drama,Joseph Engel,M,,,,"
           
 Vater
@@ -3663,7 +3663,7 @@ Vater
 Ja ja! 's isch schun erecchht — —
 
         
-",greber-lucie,13,3,0.7554794510314374,0.23076923076923078
+",106,greber-lucie,13,3,0.7554794510314374,0.23076923076923078
 427,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3672,7 +3672,7 @@ Mutter :
 Ich bitt dich, Mann, geh doch, lauf doch! ....
 
         
-",greber-lucie,9,2,0.48719550630217867,0.2222222222222222
+",106,greber-lucie,9,2,0.48719550630217867,0.2222222222222222
 428,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3681,7 +3681,7 @@ Vater :
 Was isch denn los, daß de so jäscht?
 
         
-",greber-lucie,9,3,0.6943318207110427,0.3333333333333333
+",107,greber-lucie,9,3,0.6943318207110427,0.3333333333333333
 430,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3690,7 +3690,7 @@ Vater :
 Es weiß jo de Wäij for heim.
 
         
-",greber-lucie,8,1,0.8024733948546023,0.125
+",107,greber-lucie,8,1,0.8024733948546023,0.125
 431,drama,Berthe,F,,,,"
           
 Berthe :
@@ -3700,7 +3700,7 @@ Lüej emol, Mamme, was ich grad ewwe vum Finnel hab kriejt. 's het gsaat, 's Luc
           genn.
 
         
-",greber-lucie,23,3,0.6838536218219587,0.13043478260869565
+",107,greber-lucie,23,3,0.6838536218219587,0.13043478260869565
 435,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3711,7 +3711,7 @@ Zaij emol
 (reißt ihr den Schein aus der Hand).
 
         
-",greber-lucie,12,2,0.6871516844396723,0.16666666666666666
+",108,greber-lucie,12,2,0.6871516844396723,0.16666666666666666
 436,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3720,7 +3720,7 @@ Mutter :
 Gibsch du denne Schin here!
 
         
-",greber-lucie,6,1,0.8072695738025952,0.16666666666666666
+",109,greber-lucie,6,1,0.8072695738025952,0.16666666666666666
 437,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3731,7 +3731,7 @@ Ich hebb ne-n-uff
 (steckt ihn ein).
 
         
-",greber-lucie,11,2,0.7582366974273012,0.18181818181818182
+",109,greber-lucie,11,2,0.7582366974273012,0.18181818181818182
 439,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3744,7 +3744,7 @@ Noch e Zettel. Do steht ebbs druff. ""Lebt wohl. Ihr seht mich nie wieder. Das G
 's Lucie isch furt! Min Kind isch furt!
 
         
-",greber-lucie,39,5,0.6220869700642473,0.1282051282051282
+",109,greber-lucie,39,5,0.6220869700642473,0.1282051282051282
 441,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3754,7 +3754,7 @@ Was solle mir armi Litt jetz mache? Jetz ischs ganz mit uns vorbey. Jetz müen m
           sterwe!
 
         
-",greber-lucie,20,2,0.5288782532195022,0.1
+",110,greber-lucie,20,2,0.5288782532195022,0.1
 442,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3764,7 +3764,7 @@ Dis isch d'r Dank, wo m'r vun de Kinder het, daß m'r sie uffzeijt un bsorjt —
           ferti gebroocht hesch — — heschs jo allewyl wölle besser wisse — — -!
 
         
-",greber-lucie,37,4,0.7676527092733871,0.10810810810810811
+",110,greber-lucie,37,4,0.7676527092733871,0.10810810810810811
 444,drama,Marie Engel,F,,,,"
           
 Mutter :
@@ -3773,7 +3773,7 @@ Mutter :
 O Gott, was soll üs uns wäre! Jetz simmer bettelarm!
 
         
-",greber-lucie,11,1,0.758,0.09090909090909091
+",111,greber-lucie,11,1,0.758,0.09090909090909091
 445,drama,Joseph Engel,M,,,,"
           
 Vater :
@@ -3785,4 +3785,4 @@ Dummheit! — — Brüchsch nit ze verzwyfle-n-Alti. M'r han jo noch e Doochter.
           Mutter.)
 
         
-",greber-lucie,34,6,0.5809653946569591,0.17647058823529413
+",111,greber-lucie,34,6,0.5809653946569591,0.17647058823529413

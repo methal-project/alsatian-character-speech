@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Jules Kleitz,M,,,,"
           
 Jules
@@ -26,7 +26,7 @@ un herzensgüet Schwejermamme Yo-Yo spiele will. »
 (Es klopft.)
 
         
-",weber-yo-yo,140,17,0.22764237182066815,0.12142857142857143
+",0,weber-yo-yo,140,17,0.22764237182066815,0.12142857142857143
 2,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
           
 Marie
@@ -38,7 +38,7 @@ Marie
 « De Herr Dokter Schmitt isch do un will mit Ihne redde. »
 
         
-",weber-yo-yo,19,2,0.0,0.10526315789473684
+",0,weber-yo-yo,19,2,0.0,0.10526315789473684
 3,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -47,7 +47,7 @@ Jules :
 « Er soll glich do eriin kumme. »
 
         
-",weber-yo-yo,9,1,0.633,0.1111111111111111
+",1,weber-yo-yo,9,1,0.633,0.1111111111111111
 4,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
           
 Marie :
@@ -58,7 +58,7 @@ Marie :
 (hinten ab)
 
         
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",1,weber-yo-yo,9,1,0.0,0.1111111111111111
 6,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -67,7 +67,7 @@ Jules :
 « Roby, düe bisch mini letscht Hoffnung, düe müesch mir helfe. »
 
         
-",weber-yo-yo,13,2,0.3865,0.15384615384615385
+",2,weber-yo-yo,13,2,0.3865,0.15384615384615385
 7,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -76,7 +76,7 @@ Robert :
 « Wo fehlt's denn ? Bisch krank ? »
 
         
-",weber-yo-yo,9,2,0.0,0.2222222222222222
+",2,weber-yo-yo,9,2,0.0,0.2222222222222222
 8,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -85,7 +85,7 @@ Jules :
 « Krank ? Aba. »
 
         
-",weber-yo-yo,5,1,0.0,0.2
+",2,weber-yo-yo,5,1,0.0,0.2
 9,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -94,7 +94,7 @@ Robert :
 « Ja, was isch denn no los ? »
 
         
-",weber-yo-yo,9,2,0.328,0.2222222222222222
+",3,weber-yo-yo,9,2,0.328,0.2222222222222222
 14,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -103,7 +103,7 @@ Jules :
 « Ei diss neuje verruckte Spiel ? »
 
         
-",weber-yo-yo,8,2,0.285,0.25
+",4,weber-yo-yo,8,2,0.285,0.25
 15,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -113,7 +113,7 @@ Robert :
           lonn. »
 
         
-",weber-yo-yo,20,2,0.5429999999999999,0.1
+",5,weber-yo-yo,20,2,0.5429999999999999,0.1
 16,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -122,7 +122,7 @@ Jules :
 « Güet, ich will dir's saawe. Roby, liewer Frind, ich bin arich unglücklich. »
 
         
-",weber-yo-yo,16,4,0.1475429198753345,0.25
+",5,weber-yo-yo,16,4,0.1475429198753345,0.25
 17,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -131,7 +131,7 @@ Robert :
 « Unglücklich ? Ja werum denn ? »
 
         
-",weber-yo-yo,7,2,0.0,0.2857142857142857
+",5,weber-yo-yo,7,2,0.0,0.2857142857142857
 19,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -140,7 +140,7 @@ Robert :
 « Sie spielt Yo-Yo ? Ja un weje dem losch düe mich hole ? »
 
         
-",weber-yo-yo,14,1,0.0,0.07142857142857142
+",6,weber-yo-yo,14,1,0.0,0.07142857142857142
 20,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -150,7 +150,7 @@ Jules :
           »
 
         
-",weber-yo-yo,21,2,0.0,0.09523809523809523
+",6,weber-yo-yo,21,2,0.0,0.09523809523809523
 22,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -159,7 +159,7 @@ Jules :
 « Diss weisch düe nit ? Ah düe weisch nit was Yo-Yo isch. Glücklicher Mensch ! »
 
         
-",weber-yo-yo,16,1,0.0,0.0625
+",7,weber-yo-yo,16,1,0.0,0.0625
 24,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -169,7 +169,7 @@ Jules :
           alli Kindermaidle un au mini Schwejermamme spielt Yo-Yo! »
 
         
-",weber-yo-yo,27,2,0.2615,0.07407407407407407
+",8,weber-yo-yo,27,2,0.2615,0.07407407407407407
 26,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -179,7 +179,7 @@ Jules :
           Epidemie. »
 
         
-",weber-yo-yo,19,2,0.2225,0.10526315789473684
+",8,weber-yo-yo,19,2,0.2225,0.10526315789473684
 27,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -188,7 +188,7 @@ Robert :
 « E Eipidemie ? ? Ja no isch's jo e Krankheit ! »
 
         
-",weber-yo-yo,12,3,0.14833333333333334,0.25
+",9,weber-yo-yo,12,3,0.14833333333333334,0.25
 28,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -197,7 +197,7 @@ Jules :
 « Zäll nit, awer die wo züelüeje kenne krank devun wäre. Es isch e Spiel. »
 
         
-",weber-yo-yo,17,3,0.18999999999999997,0.17647058823529413
+",9,weber-yo-yo,17,3,0.18999999999999997,0.17647058823529413
 29,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -207,7 +207,7 @@ Robert :
           sich druff un fahrt furt mit ? »
 
         
-",weber-yo-yo,27,1,0.57,0.037037037037037035
+",9,weber-yo-yo,27,1,0.57,0.037037037037037035
 32,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -217,7 +217,7 @@ Jules :
           isch. »
 
         
-",weber-yo-yo,24,2,0.285,0.08333333333333333
+",10,weber-yo-yo,24,2,0.285,0.08333333333333333
 33,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -226,7 +226,7 @@ Robert :
 « Ja no saa mir's doch jetzt emol was es isch. »
 
         
-",weber-yo-yo,14,1,0.0,0.07142857142857142
+",11,weber-yo-yo,14,1,0.0,0.07142857142857142
 35,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -235,7 +235,7 @@ Robert :
 « Düe hesch jo alli Säck voll! »
 
         
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",11,weber-yo-yo,9,1,0.0,0.1111111111111111
 36,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -245,7 +245,7 @@ Jules :
           do, sie het sich no immer e anders kauft ».
 
         
-",weber-yo-yo,28,3,0.0,0.10714285714285714
+",12,weber-yo-yo,28,3,0.0,0.10714285714285714
 40,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -255,7 +255,7 @@ Jules :
           g'schenkt bekumme. »
 
         
-",weber-yo-yo,22,2,0.3205,0.09090909090909091
+",13,weber-yo-yo,22,2,0.3205,0.09090909090909091
 41,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -264,7 +264,7 @@ Robert :
 « Ja wie geht denn diss Ding eigentlich ? »
 
         
-",weber-yo-yo,10,1,0.0,0.1
+",13,weber-yo-yo,10,1,0.0,0.1
 42,comedy,Jules Kleitz,M,,,,"
           
 Jules
@@ -276,7 +276,7 @@ Jules
 « Nan, dir zeij ich diss nit.
 
         
-",weber-yo-yo,15,1,0.0,0.06666666666666667
+",14,weber-yo-yo,15,1,0.0,0.06666666666666667
 43,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -285,7 +285,7 @@ Robert :
 « Ja un werum denn nit ? »
 
         
-",weber-yo-yo,8,1,0.0,0.125
+",14,weber-yo-yo,8,1,0.0,0.125
 45,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -294,7 +294,7 @@ Robert :
 « Diss isch doch sicher ebs harmloses. »
 
         
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",15,weber-yo-yo,9,1,0.0,0.1111111111111111
 46,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -304,7 +304,7 @@ Jules :
           dodurich kapütt gange. »
 
         
-",weber-yo-yo,23,2,0.31633750837247077,0.08695652173913043
+",15,weber-yo-yo,23,2,0.31633750837247077,0.08695652173913043
 49,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -313,7 +313,7 @@ Robert :
 « Ja isch denn diss Spiel so arich kumpliziert ? »
 
         
-",weber-yo-yo,11,2,0.285,0.18181818181818182
+",16,weber-yo-yo,11,2,0.285,0.18181818181818182
 52,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -325,7 +325,7 @@ Jules :
  Als uff un nab hüpst diss Yo-Yo. »
 
         
-",weber-yo-yo,30,3,0.0,0.1
+",17,weber-yo-yo,30,3,0.0,0.1
 53,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -334,7 +334,7 @@ Robert :
 « Ja un weje dem hesch düe mich rüefe lonn ? »
 
         
-",weber-yo-yo,12,2,0.3515,0.16666666666666666
+",17,weber-yo-yo,12,2,0.3515,0.16666666666666666
 54,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -346,7 +346,7 @@ dem Spiel. Am liebschte wär mir's jo wenn sie wieder ganz heime züe sich gehn
           dät. »
 
         
-",weber-yo-yo,33,6,0.1835,0.18181818181818182
+",18,weber-yo-yo,33,6,0.1835,0.18181818181818182
 56,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -356,7 +356,7 @@ Jules :
           züe viel. 's letscht Johr, wo mir doch küm g'hyrot sin g'sin, het sie 14 Daa bliewe wöelle. »
 
         
-",weber-yo-yo,40,2,0.3165,0.05
+",18,weber-yo-yo,40,2,0.3165,0.05
 57,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -365,7 +365,7 @@ Robert :
 « Ja un? »
 
         
-",weber-yo-yo,5,1,0.0,0.2
+",19,weber-yo-yo,5,1,0.0,0.2
 59,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -374,7 +374,7 @@ Robert :
 « Ja. Allerdings isch diss jo e bissel arich viel g'sinn. »
 
         
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",19,weber-yo-yo,13,1,0.0,0.07692307692307693
 60,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -385,7 +385,7 @@ Jules :
           Hüss. »
 
         
-",weber-yo-yo,42,8,0.101625,0.19047619047619047
+",20,weber-yo-yo,42,8,0.101625,0.19047619047619047
 62,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -398,7 +398,7 @@ Jules :
           ? »
 
         
-",weber-yo-yo,80,9,0.14368574216681532,0.1125
+",20,weber-yo-yo,80,9,0.14368574216681532,0.1125
 63,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -407,7 +407,7 @@ Robert :
 « Armer Jules, ja bisch denn düe mit dinnere belle-mère g'hyrot ? »
 
         
-",weber-yo-yo,13,2,0.0,0.15384615384615385
+",21,weber-yo-yo,13,2,0.0,0.15384615384615385
 65,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -416,7 +416,7 @@ Robert :
 « Na also, redd doch emol e anständigs Wort mit ihre. »
 
         
-",weber-yo-yo,13,1,0.4919999999999999,0.07692307692307693
+",21,weber-yo-yo,13,1,0.4919999999999999,0.07692307692307693
 66,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -429,7 +429,7 @@ Jules :
 jeres acht. Wenn die Hoor uff de Zähn het, no hyrot ihri Doochter liewer nit.
 
         
-",weber-yo-yo,69,10,0.0590171679501338,0.14492753623188406
+",22,weber-yo-yo,69,10,0.0590171679501338,0.14492753623188406
 67,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -438,7 +438,7 @@ Robert :
 « 's Bescht wurd sin, m'r hyrot e Waiselmaidel. »
 
         
-",weber-yo-yo,11,1,0.469,0.09090909090909091
+",22,weber-yo-yo,11,1,0.469,0.09090909090909091
 68,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -448,7 +448,7 @@ Jules :
           sicher ebs wo zejt, wo m'r mit d'Schwejeres züm Hüss nüss kriejt. »
 
         
-",weber-yo-yo,34,6,0.0,0.17647058823529413
+",22,weber-yo-yo,34,6,0.0,0.17647058823529413
 70,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -457,7 +457,7 @@ Jules :
 « Ja. Gall düe weisch schun ebs ? »
 
         
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",23,weber-yo-yo,9,1,0.0,0.1111111111111111
 71,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -466,7 +466,7 @@ Robert :
 « Ebs wo arich güet zejt isch e Karteblaa. »
 
         
-",weber-yo-yo,11,1,0.0,0.09090909090909091
+",23,weber-yo-yo,11,1,0.0,0.09090909090909091
 72,comedy,Jules Kleitz,M,,,,"
           
 Jules
@@ -478,7 +478,7 @@ Jules
 « E Karteblaa ? Ja was soll ich denn mit dem ? »
 
         
-",weber-yo-yo,15,1,0.0,0.06666666666666667
+",24,weber-yo-yo,15,1,0.0,0.06666666666666667
 73,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert
@@ -490,7 +490,7 @@ Robert
 « Dü hesch mir doch ebs verlangt wo zejt ? »
 
         
-",weber-yo-yo,14,1,0.0,0.07142857142857142
+",24,weber-yo-yo,14,1,0.0,0.07142857142857142
 74,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -499,7 +499,7 @@ Jules :
 « So isch diss nit gemeint g'sin. Düe weisch ganz güet was ich mein.
 
         
-",weber-yo-yo,15,3,0.0,0.2
+",24,weber-yo-yo,15,3,0.0,0.2
 75,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -508,7 +508,7 @@ Robert :
 « Ja uff so Sache hab ich nit stüdiert. »
 
         
-",weber-yo-yo,11,2,0.0,0.18181818181818182
+",25,weber-yo-yo,11,2,0.0,0.18181818181818182
 76,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -518,7 +518,7 @@ Jules :
           rumyoyotiert.
 
         
-",weber-yo-yo,20,3,0.0,0.15
+",25,weber-yo-yo,20,3,0.0,0.15
 77,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -527,7 +527,7 @@ Robert :
 « Het dich dini Frau gern ? »
 
         
-",weber-yo-yo,8,1,0.383,0.125
+",25,weber-yo-yo,8,1,0.383,0.125
 78,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -536,7 +536,7 @@ Jules :
 « Wie kannsch düe numme fröje, züem Fresse het sie mich gern. »
 
         
-",weber-yo-yo,14,1,0.383,0.07142857142857142
+",26,weber-yo-yo,14,1,0.383,0.07142857142857142
 82,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -546,7 +546,7 @@ Jules :
           glaub sie kann üwerhaupt kan Mann liede. »
 
         
-",weber-yo-yo,29,3,0.1429113671979507,0.10344827586206896
+",27,weber-yo-yo,29,3,0.1429113671979507,0.10344827586206896
 83,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -555,7 +555,7 @@ Robert :
 « No isch die Sach ganz einfach. »
 
         
-",weber-yo-yo,9,2,0.0,0.2222222222222222
+",27,weber-yo-yo,9,2,0.0,0.2222222222222222
 85,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -565,7 +565,7 @@ Robert :
           dich denkt. »
 
         
-",weber-yo-yo,20,2,0.207,0.1
+",28,weber-yo-yo,20,2,0.207,0.1
 86,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -574,7 +574,7 @@ Jules :
 « Die Idee isch jo grossartig, awer wie soll ich diss numme mache ? »
 
         
-",weber-yo-yo,15,1,0.0,0.06666666666666667
+",28,weber-yo-yo,15,1,0.0,0.06666666666666667
 89,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -584,7 +584,7 @@ Robert :
           Rescht. »
 
         
-",weber-yo-yo,21,2,0.3165,0.09523809523809523
+",29,weber-yo-yo,21,2,0.3165,0.09523809523809523
 90,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -593,7 +593,7 @@ Jules :
 « Dini Roll isch nit schwer, awer wie soll ich denne Verruckte markiere ? »
 
         
-",weber-yo-yo,15,2,0.0,0.13333333333333333
+",30,weber-yo-yo,15,2,0.0,0.13333333333333333
 91,comedy,Dokter Robert Schmitt,M,,,,"
           
 Robert :
@@ -605,7 +605,7 @@ Robert :
 (Man hört draussen sprechen.)
 
         
-",weber-yo-yo,33,3,0.0,0.09090909090909091
+",30,weber-yo-yo,33,3,0.0,0.09090909090909091
 92,comedy,Jules Kleitz,M,,,,"
           
 Jules :
@@ -617,7 +617,7 @@ Jules :
 (geht schnell hinter den Paravent).
 
         
-",weber-yo-yo,32,3,0.1429113671979507,0.09375
+",30,weber-yo-yo,32,3,0.1429113671979507,0.09375
 95,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -629,7 +629,7 @@ Jules
 « Nein Liewi. Wie düe awer schun so güet Yo-Yo spiele kannsch ? »
 
           
-",weber-yo-yo,17,4,0.4502929198753345,0.23529411764705882
+",31,weber-yo-yo,17,4,0.4502929198753345,0.23529411764705882
 96,comedy,Germaine,F,,,,"
             
 Germaine
@@ -645,7 +645,7 @@ Germaine
             vun de erschte Anprob. »
 
           
-",weber-yo-yo,36,5,0.1266,0.1388888888888889
+",32,weber-yo-yo,36,5,0.1266,0.1388888888888889
 98,comedy,Germaine,F,,,,"
             
 Germarne :
@@ -655,7 +655,7 @@ Germarne :
             nämme soll. Un dir wurd's au sicher g'falle. »
 
           
-",weber-yo-yo,33,4,0.0,0.12121212121212122
+",32,weber-yo-yo,33,4,0.0,0.12121212121212122
 101,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -664,7 +664,7 @@ Jules :
 « Ich glaub nit, dass es mir g'falle wurd. »
 
           
-",weber-yo-yo,11,2,0.21436705079692606,0.18181818181818182
+",33,weber-yo-yo,11,2,0.21436705079692606,0.18181818181818182
 102,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -673,7 +673,7 @@ Germaine :
 « Ja un werum denn nit ? »
 
           
-",weber-yo-yo,8,1,0.0,0.125
+",34,weber-yo-yo,8,1,0.0,0.125
 104,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -682,7 +682,7 @@ Germaine :
 « Ja? »
 
           
-",weber-yo-yo,4,1,0.0,0.25
+",34,weber-yo-yo,4,1,0.0,0.25
 105,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -692,7 +692,7 @@ Jules :
             Pfiff ze danze. »
 
           
-",weber-yo-yo,24,3,0.13699999999999998,0.125
+",35,weber-yo-yo,24,3,0.13699999999999998,0.125
 106,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -701,7 +701,7 @@ Germaine :
 « Awer d'Maman meint's jo numme güet mit uns. »
 
           
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",35,weber-yo-yo,13,1,0.0,0.07692307692307693
 107,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -711,7 +711,7 @@ Jules :
             müess ? »
 
           
-",weber-yo-yo,24,4,0.0,0.16666666666666666
+",35,weber-yo-yo,24,4,0.0,0.16666666666666666
 108,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -720,7 +720,7 @@ Germaine :
 « Wüet? Ja wie so denn ? »
 
           
-",weber-yo-yo,8,2,0.0,0.25
+",36,weber-yo-yo,8,2,0.0,0.25
 109,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -730,7 +730,7 @@ Jules :
             uns isch ? Han mir zwei viellicht eini Minüd im Daa, wo mir saawe könne, sie isch unser ? »
 
           
-",weber-yo-yo,37,1,0.0,0.02702702702702703
+",36,weber-yo-yo,37,1,0.0,0.02702702702702703
 110,comedy,Germaine,F,,,,"
             
 Germaine
@@ -742,7 +742,7 @@ Germaine
 Düe kannsch einfach minni Maman nit liede ! »
 
           
-",weber-yo-yo,12,1,0.0,0.08333333333333333
+",36,weber-yo-yo,12,1,0.0,0.08333333333333333
 113,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -752,7 +752,7 @@ Jules :
             schun gemerigt, dass dinni Maman mich güet liede kann ? »
 
           
-",weber-yo-yo,29,3,0.0,0.10344827586206896
+",37,weber-yo-yo,29,3,0.0,0.10344827586206896
 116,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -761,7 +761,7 @@ Germaine :
 « Ja, sie isch au immer mit'm Papa so g'sinn, wo er noch geläbt het. »
 
           
-",weber-yo-yo,18,1,0.0,0.05555555555555555
+",38,weber-yo-yo,18,1,0.0,0.05555555555555555
 117,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -771,7 +771,7 @@ Jules :
             gebrocht het ! »
 
           
-",weber-yo-yo,23,3,0.0,0.13043478260869565
+",39,weber-yo-yo,23,3,0.0,0.13043478260869565
 120,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -782,7 +782,7 @@ Germaine :
 (Geht schnell hinten ab).
 
           
-",weber-yo-yo,11,2,0.0,0.18181818181818182
+",40,weber-yo-yo,11,2,0.0,0.18181818181818182
 122,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert
@@ -796,7 +796,7 @@ Robert
 (lacht).
 
           
-",weber-yo-yo,15,2,0.0,0.13333333333333333
+",40,weber-yo-yo,15,2,0.0,0.13333333333333333
 124,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -806,7 +806,7 @@ Robert :
             g'het ? »
 
           
-",weber-yo-yo,20,1,0.0,0.05
+",41,weber-yo-yo,20,1,0.0,0.05
 125,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -815,7 +815,7 @@ Jules :
 « Ja denk emol. Ich bin viellicht ihr viert's Opfer. »
 
           
-",weber-yo-yo,13,3,0.0,0.23076923076923078
+",41,weber-yo-yo,13,3,0.0,0.23076923076923078
 126,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -824,7 +824,7 @@ Robert :
 « Do kann numme e Gewaltkür helfe. »
 
           
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",42,weber-yo-yo,9,1,0.0,0.1111111111111111
 127,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -834,7 +834,7 @@ Jules :
             küriere. »
 
           
-",weber-yo-yo,17,4,0.12299999999999997,0.23529411764705882
+",42,weber-yo-yo,17,4,0.12299999999999997,0.23529411764705882
 128,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -843,7 +843,7 @@ Robert :
 « No will ich awer schnell verschwinde, denn ich will uff keine Fall Zeje sinn. »
 
           
-",weber-yo-yo,17,5,0.1,0.29411764705882354
+",42,weber-yo-yo,17,5,0.1,0.29411764705882354
 130,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -852,7 +852,7 @@ Robert :
 « Wie lang witt düe die Komedie triewe ? »
 
           
-",weber-yo-yo,10,1,0.0,0.1
+",43,weber-yo-yo,10,1,0.0,0.1
 133,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -862,7 +862,7 @@ Jules :
             do. »
 
           
-",weber-yo-yo,21,3,0.0,0.14285714285714285
+",44,weber-yo-yo,21,3,0.0,0.14285714285714285
 134,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -871,7 +871,7 @@ Robert :
 « Also no bonne chance ! »
 
           
-",weber-yo-yo,7,1,0.648,0.14285714285714285
+",44,weber-yo-yo,7,1,0.648,0.14285714285714285
 135,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -880,7 +880,7 @@ Jules :
 « Kumm geh grad durich de Garde, un druck mir de Dümme. »
 
           
-",weber-yo-yo,14,4,0.15825,0.2857142857142857
+",45,weber-yo-yo,14,4,0.15825,0.2857142857142857
 138,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -895,7 +895,7 @@ Jules :
             jemand. »
 
           
-",weber-yo-yo,64,10,0.14274682031877042,0.15625
+",46,weber-yo-yo,64,10,0.14274682031877042,0.15625
 139,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -907,7 +907,7 @@ Henriette
 « Ja, wo steckt er denn ? »
 
           
-",weber-yo-yo,11,1,0.0,0.09090909090909091
+",46,weber-yo-yo,11,1,0.0,0.09090909090909091
 140,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -922,7 +922,7 @@ Henriette
  Ja was sinn denn diss anfangs füer Maniere ? »
 
           
-",weber-yo-yo,42,3,0.0,0.07142857142857142
+",46,weber-yo-yo,42,3,0.0,0.07142857142857142
 142,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -931,7 +931,7 @@ Henriette :
 « Müen denn Sie uff de Tisch für Yo-Yo ze spiele ? »
 
           
-",weber-yo-yo,13,2,0.285,0.15384615384615385
+",47,weber-yo-yo,13,2,0.285,0.15384615384615385
 144,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -941,7 +941,7 @@ Henriette :
             kauft hab, wo sie Sie g'hyrot het, verstehn Sie mich ? »
 
           
-",weber-yo-yo,29,5,0.0,0.1724137931034483
+",48,weber-yo-yo,29,5,0.0,0.1724137931034483
 145,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -953,7 +953,7 @@ Jules
 « Yo-Yo! »
 
           
-",weber-yo-yo,7,1,0.0,0.14285714285714285
+",48,weber-yo-yo,7,1,0.0,0.14285714285714285
 146,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -963,7 +963,7 @@ Henriette :
             dem Tisch erunter kumme, sunscht hol ich Sie eijehändig erunter, sie Daadieb !! »
 
           
-",weber-yo-yo,32,3,0.211,0.09375
+",48,weber-yo-yo,32,3,0.211,0.09375
 148,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -974,7 +974,7 @@ Henriette :
 (Geht nahe an den Tisch heran).
 
           
-",weber-yo-yo,19,1,0.0,0.05263157894736842
+",49,weber-yo-yo,19,1,0.0,0.05263157894736842
 149,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -989,7 +989,7 @@ Jules :
  « Yo-Yo! »
 
           
-",weber-yo-yo,21,3,0.0,0.14285714285714285
+",49,weber-yo-yo,21,3,0.0,0.14285714285714285
 150,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1003,7 +1003,7 @@ Henriette
 (reisst das Yo-Yo Jules aus der Hand und geht vom Tisch weg).
 
           
-",weber-yo-yo,22,2,0.0,0.09090909090909091
+",50,weber-yo-yo,22,2,0.0,0.09090909090909091
 151,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1018,7 +1018,7 @@ Jules :
 (lacht)
 
           
-",weber-yo-yo,25,2,0.0,0.08
+",50,weber-yo-yo,25,2,0.0,0.08
 152,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1030,7 +1030,7 @@ Henriette
 « Ja was isch denn diss? ? »
 
           
-",weber-yo-yo,18,1,0.0,0.05555555555555555
+",50,weber-yo-yo,18,1,0.0,0.05555555555555555
 154,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1039,7 +1039,7 @@ Henriette
 (geht schnell an die Türe hinten).
 
           
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",51,weber-yo-yo,9,1,0.0,0.1111111111111111
 155,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -1051,7 +1051,7 @@ Jules
 « Es schinnt ze zeje ! »
 
           
-",weber-yo-yo,11,1,0.0,0.09090909090909091
+",51,weber-yo-yo,11,1,0.0,0.09090909090909091
 157,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie
@@ -1063,7 +1063,7 @@ Marie
 « Ja Madame Fleischmann. »
 
           
-",weber-yo-yo,9,2,0.0,0.2222222222222222
+",52,weber-yo-yo,9,2,0.0,0.2222222222222222
 158,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1072,7 +1072,7 @@ Henriette :
 « Hole sie emol schnell minni Doochter do here. »
 
           
-",weber-yo-yo,11,2,0.0,0.18181818181818182
+",52,weber-yo-yo,11,2,0.0,0.18181818181818182
 159,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1081,7 +1081,7 @@ Marie :
 « Ja Madame Fleischmann. »
 
           
-",weber-yo-yo,6,2,0.0,0.3333333333333333
+",53,weber-yo-yo,6,2,0.0,0.3333333333333333
 160,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1093,7 +1093,7 @@ Henriette
 « Un diss will e Mann sinn ? »
 
           
-",weber-yo-yo,15,1,0.0,0.06666666666666667
+",53,weber-yo-yo,15,1,0.0,0.06666666666666667
 163,comedy,Germaine,F,,,,"
             
 Germaine
@@ -1106,7 +1106,7 @@ Germaine
 Was soll denn sin Maman ? »
 
           
-",weber-yo-yo,27,1,0.0,0.037037037037037035
+",54,weber-yo-yo,27,1,0.0,0.037037037037037035
 166,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1115,7 +1115,7 @@ Germaine :
 « Ja was isch denn diss ? »
 
           
-",weber-yo-yo,8,1,0.0,0.125
+",55,weber-yo-yo,8,1,0.0,0.125
 168,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1124,7 +1124,7 @@ Henriette :
 « Dim Mann isch e Rädel im Kopf luck worre. »
 
           
-",weber-yo-yo,12,2,0.34,0.16666666666666666
+",56,weber-yo-yo,12,2,0.34,0.16666666666666666
 169,comedy,Germaine,F,,,,"
             
 Germaine
@@ -1136,7 +1136,7 @@ Germaine
 « Ja Jules, was machsch denn do ? »
 
           
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",56,weber-yo-yo,13,1,0.0,0.07692307692307693
 172,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1145,7 +1145,7 @@ Henriette :
 « Loss düe ne numme, er wurd schun wieder züe sich kumme. »
 
           
-",weber-yo-yo,14,2,0.6679999999999999,0.14285714285714285
+",57,weber-yo-yo,14,2,0.6679999999999999,0.14285714285714285
 173,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -1157,7 +1157,7 @@ Jules
 « Yo-Yo!! »
 
           
-",weber-yo-yo,9,3,0.0,0.3333333333333333
+",57,weber-yo-yo,9,3,0.0,0.3333333333333333
 175,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -1167,7 +1167,7 @@ Jules
             beiden).
 
           
-",weber-yo-yo,19,1,0.0,0.05263157894736842
+",58,weber-yo-yo,19,1,0.0,0.05263157894736842
 176,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1178,7 +1178,7 @@ Henriette :
             immer scheener do hinne ! ! ».
 
           
-",weber-yo-yo,45,4,0.1035,0.08888888888888889
+",58,weber-yo-yo,45,4,0.1035,0.08888888888888889
 178,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1187,7 +1187,7 @@ Germaine :
 « Maman, Maman er fallt ganz sicher noch erunter. Mir müen ne erunterhole. »
 
           
-",weber-yo-yo,15,2,0.0,0.13333333333333333
+",59,weber-yo-yo,15,2,0.0,0.13333333333333333
 179,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1196,7 +1196,7 @@ Henriette :
 « Los düe numme, wenn sich sini Nerve berüehigt han, no kummt er schun ellein erunter. »
 
           
-",weber-yo-yo,18,3,0.21866666666666668,0.16666666666666666
+",59,weber-yo-yo,18,3,0.21866666666666668,0.16666666666666666
 181,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1205,7 +1205,7 @@ Germaine :
 « Jules, min liewer Jules, kumm düe doch do erunter. »
 
           
-",weber-yo-yo,12,2,0.611585839750669,0.16666666666666666
+",60,weber-yo-yo,12,2,0.611585839750669,0.16666666666666666
 182,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1215,7 +1215,7 @@ Henriette :
             wo nit wert isch, dass m'r numme e Finger wäje ihm rührt ! »
 
           
-",weber-yo-yo,33,2,0.0,0.06060606060606061
+",60,weber-yo-yo,33,2,0.0,0.06060606060606061
 184,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1225,7 +1225,7 @@ Henriette :
             nimmt isch züe allem fähig. »
 
           
-",weber-yo-yo,24,3,0.21366666666666667,0.125
+",61,weber-yo-yo,24,3,0.21366666666666667,0.125
 186,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1234,7 +1234,7 @@ Henriette :
 « Ich bin sicher er markiert numme. »
 
           
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",62,weber-yo-yo,9,1,0.0,0.1111111111111111
 187,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1243,7 +1243,7 @@ Germaine :
 « Un wenn's awer nit wohr wär Maman ? Wenn er awer krank wär ? »
 
           
-",weber-yo-yo,16,2,0.0,0.125
+",62,weber-yo-yo,16,2,0.0,0.125
 188,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1255,7 +1255,7 @@ Henriette :
  « Der un krank ? »
 
           
-",weber-yo-yo,12,3,0.0,0.25
+",62,weber-yo-yo,12,3,0.0,0.25
 189,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1264,7 +1264,7 @@ Germaine :
 « So ebs het er doch noch nie gemacht. »
 
           
-",weber-yo-yo,11,1,0.0,0.09090909090909091
+",63,weber-yo-yo,11,1,0.0,0.09090909090909091
 190,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1277,7 +1277,7 @@ Henriette :
             kalts Wasser. ».
 
           
-",weber-yo-yo,34,3,0.0,0.08823529411764706
+",63,weber-yo-yo,34,3,0.0,0.08823529411764706
 198,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1288,7 +1288,7 @@ Henriette :
             Plän wie er do macht derf m'r einfach nit uffkumme lonn. Merik düe dir diss, düe Gänsel ! »
 
           
-",weber-yo-yo,59,9,0.19955555555555554,0.15254237288135594
+",66,weber-yo-yo,59,9,0.19955555555555554,0.15254237288135594
 200,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie
@@ -1303,7 +1303,7 @@ So Madame Fleischmann !
 : Oh Jesses, d'r Herr!! »
 
           
-",weber-yo-yo,21,3,0.0,0.14285714285714285
+",66,weber-yo-yo,21,3,0.0,0.14285714285714285
 203,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1312,7 +1312,7 @@ Germaine :
 « Marie, hole sie sofort e Dokter. »
 
           
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",67,weber-yo-yo,9,1,0.0,0.1111111111111111
 205,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1321,7 +1321,7 @@ Marie :
 « Ja der Herr Dokter Schmitt isch jo schun bym Herr g'sin. »
 
           
-",weber-yo-yo,14,4,0.0,0.2857142857142857
+",68,weber-yo-yo,14,4,0.0,0.2857142857142857
 206,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1330,7 +1330,7 @@ Germaine :
 « De Herr Dokter Schmitt ? »
 
           
-",weber-yo-yo,7,2,0.0,0.2857142857142857
+",68,weber-yo-yo,7,2,0.0,0.2857142857142857
 207,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1339,7 +1339,7 @@ Marie :
 « Ja Madame. »
 
           
-",weber-yo-yo,5,2,0.0,0.4
+",69,weber-yo-yo,5,2,0.0,0.4
 208,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1348,7 +1348,7 @@ Germaine :
 « Sott er am End g'spiert han, dass er krank isch ? »
 
           
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",69,weber-yo-yo,13,1,0.0,0.07692307692307693
 209,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1360,7 +1360,7 @@ Henriette :
 (Es klingelt.)
 
           
-",weber-yo-yo,19,3,0.18999999999999997,0.15789473684210525
+",69,weber-yo-yo,19,3,0.18999999999999997,0.15789473684210525
 211,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1369,7 +1369,7 @@ Henriette :
 « Marie lüeje sie schnell, un lonn sie niemes do eriin. »
 
           
-",weber-yo-yo,13,2,0.3515,0.15384615384615385
+",70,weber-yo-yo,13,2,0.3515,0.15384615384615385
 212,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1378,7 +1378,7 @@ Marie :
 « Güet Madame. »
 
           
-",weber-yo-yo,5,2,0.0,0.4
+",70,weber-yo-yo,5,2,0.0,0.4
 213,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1387,7 +1387,7 @@ Henriette :
 « Madame Fleischmann heiss ich. »
 
           
-",weber-yo-yo,7,2,0.0,0.2857142857142857
+",71,weber-yo-yo,7,2,0.0,0.2857142857142857
 214,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1398,7 +1398,7 @@ Marie :
 (hinten ab).
 
           
-",weber-yo-yo,10,2,0.0,0.2
+",71,weber-yo-yo,10,2,0.0,0.2
 216,comedy,Germaine,F,,,,"
             
 Germaine
@@ -1411,7 +1411,7 @@ Germaine
             erunter. »
 
           
-",weber-yo-yo,18,2,0.611585839750669,0.1111111111111111
+",72,weber-yo-yo,18,2,0.611585839750669,0.1111111111111111
 217,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1420,7 +1420,7 @@ Henriette :
 « Ich hol ne no schun erunter. Warte sie numme, sie min liewer Schwejersohn. »
 
           
-",weber-yo-yo,16,3,0.4332000409889294,0.1875
+",72,weber-yo-yo,16,3,0.4332000409889294,0.1875
 220,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1430,7 +1430,7 @@ Henriette :
             emol sälwer einer, wenns e so witt isch. »
 
           
-",weber-yo-yo,28,2,0.507367050796926,0.07142857142857142
+",73,weber-yo-yo,28,2,0.507367050796926,0.07142857142857142
 224,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1439,7 +1439,7 @@ Marie :
 « Ei der Herr Dokter Schmitt isch noch emol kumme. »
 
           
-",weber-yo-yo,12,3,0.211,0.25
+",74,weber-yo-yo,12,3,0.211,0.25
 225,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1448,7 +1448,7 @@ Germaine :
 « Er soll glich eriinkumme. »
 
           
-",weber-yo-yo,7,1,0.633,0.14285714285714285
+",75,weber-yo-yo,7,1,0.633,0.14285714285714285
 228,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1459,7 +1459,7 @@ Marie :
 (geht hinten ab).
 
           
-",weber-yo-yo,10,2,0.0,0.2
+",76,weber-yo-yo,10,2,0.0,0.2
 231,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie
@@ -1468,7 +1468,7 @@ Marie
 (macht die Türe auf und lässt Robert herein — kommt dann auch herein).
 
           
-",weber-yo-yo,16,1,0.0,0.0625
+",77,weber-yo-yo,16,1,0.0,0.0625
 233,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1477,7 +1477,7 @@ Germaine :
 « Güet, dass sie kumme sinn Herr Dokter. Minner Mann... o Gott! »
 
           
-",weber-yo-yo,14,6,0.18616666666666667,0.42857142857142855
+",77,weber-yo-yo,14,6,0.18616666666666667,0.42857142857142855
 235,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1487,7 +1487,7 @@ Robert :
             kumme. »
 
           
-",weber-yo-yo,22,1,0.633,0.045454545454545456
+",78,weber-yo-yo,22,1,0.633,0.045454545454545456
 236,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1496,7 +1496,7 @@ Germaine :
 « Gälle sie, er isch krank? »
 
           
-",weber-yo-yo,8,1,0.0,0.125
+",78,weber-yo-yo,8,1,0.0,0.125
 237,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1505,7 +1505,7 @@ Robert :
 « Sicher e schlimmer Fall, Madame Kleitz. »
 
           
-",weber-yo-yo,9,4,0.125,0.4444444444444444
+",79,weber-yo-yo,9,4,0.125,0.4444444444444444
 238,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1516,7 +1516,7 @@ Germaine :
 (setzt sich weinend auf das Canapé).
 
           
-",weber-yo-yo,13,2,0.242,0.15384615384615385
+",79,weber-yo-yo,13,2,0.242,0.15384615384615385
 241,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1525,7 +1525,7 @@ Robert :
 « Kumm doch emol do erunter. »
 
           
-",weber-yo-yo,8,1,0.633,0.125
+",80,weber-yo-yo,8,1,0.633,0.125
 242,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1537,7 +1537,7 @@ Jules :
  Yo-Yo! »
 
           
-",weber-yo-yo,15,2,0.3165,0.13333333333333333
+",80,weber-yo-yo,15,2,0.3165,0.13333333333333333
 243,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert
@@ -1549,7 +1549,7 @@ Robert
 « Mir müen arich vorsichtig mit ihm sinn. »
 
           
-",weber-yo-yo,14,1,0.469,0.07142857142857142
+",81,weber-yo-yo,14,1,0.469,0.07142857142857142
 245,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert
@@ -1561,7 +1561,7 @@ Robert
 « Bringe sie mir doch schnell e kalts Tüch füer um de Kopf. »
 
           
-",weber-yo-yo,26,2,0.0,0.07692307692307693
+",81,weber-yo-yo,26,2,0.0,0.07692307692307693
 246,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie
@@ -1570,7 +1570,7 @@ Marie
 (holt schnell ein grosses Tuch).
 
           
-",weber-yo-yo,8,1,0.0,0.125
+",82,weber-yo-yo,8,1,0.0,0.125
 247,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert
@@ -1582,7 +1582,7 @@ Robert
 « De Puls isch ganz normal. »
 
           
-",weber-yo-yo,18,1,0.0,0.05555555555555555
+",82,weber-yo-yo,18,1,0.0,0.05555555555555555
 248,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1591,7 +1591,7 @@ Germaine :
 « Isch's denn schlimm, Herr Dokter? »
 
           
-",weber-yo-yo,9,3,0.0,0.3333333333333333
+",82,weber-yo-yo,9,3,0.0,0.3333333333333333
 254,comedy,Germaine,F,,,,"
             
 Germaine
@@ -1603,7 +1603,7 @@ Germaine
 « Was meine Sie, Herr Dokter ? »
 
           
-",weber-yo-yo,13,3,0.0,0.23076923076923078
+",84,weber-yo-yo,13,3,0.0,0.23076923076923078
 255,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1615,7 +1615,7 @@ Henriette
 « Wurd er nimmi güet ? »
 
           
-",weber-yo-yo,11,1,0.0,0.09090909090909091
+",85,weber-yo-yo,11,1,0.0,0.09090909090909091
 256,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1624,7 +1624,7 @@ Robert :
 « Unter Umstände kann der Züstand lang anhalte. »
 
           
-",weber-yo-yo,10,2,0.0,0.2
+",85,weber-yo-yo,10,2,0.0,0.2
 257,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1634,7 +1634,7 @@ Henriette :
             sinn. »
 
           
-",weber-yo-yo,20,4,0.291,0.2
+",85,weber-yo-yo,20,4,0.291,0.2
 259,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1643,7 +1643,7 @@ Robert :
 « Hett er sich denn in de letschte Zyt viel uffgerejt ? »
 
           
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",86,weber-yo-yo,13,1,0.0,0.07692307692307693
 260,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1652,7 +1652,7 @@ Germaine :
 « Ja manichmol. »
 
           
-",weber-yo-yo,5,1,0.0,0.2
+",86,weber-yo-yo,5,1,0.0,0.2
 261,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1662,7 +1662,7 @@ Henriette :
             Wenn ich nit immer nochgänn hät, ze wär jo nie in dem Hüss Friede g'sinn. »
 
           
-",weber-yo-yo,37,4,0.10749999999999997,0.10810810810810811
+",87,weber-yo-yo,37,4,0.10749999999999997,0.10810810810810811
 263,comedy,Dokter Robert Schmitt,M,,,,"
             
 Robert :
@@ -1675,7 +1675,7 @@ Commission un geh no glich bym'e Spezialischt füer Nerve durich. Ich bring ne g
             s'Auto b'stelle. »
 
           
-",weber-yo-yo,56,5,0.21719999999999998,0.08928571428571429
+",87,weber-yo-yo,56,5,0.21719999999999998,0.08928571428571429
 264,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1684,7 +1684,7 @@ Henriette :
 « Zäll wurd üwerhaupt s'beschte sinn. »
 
           
-",weber-yo-yo,9,1,0.0,0.1111111111111111
+",88,weber-yo-yo,9,1,0.0,0.1111111111111111
 266,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1694,7 +1694,7 @@ Henriette :
             dät. »
 
           
-",weber-yo-yo,22,2,0.2345,0.09090909090909091
+",88,weber-yo-yo,22,2,0.2345,0.09090909090909091
 268,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1703,7 +1703,7 @@ Henriette :
 « Ja, was witt düe denn mit-eme Mann wo narrisch isch ? »
 
           
-",weber-yo-yo,13,3,0.0,0.23076923076923078
+",89,weber-yo-yo,13,3,0.0,0.23076923076923078
 269,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1712,7 +1712,7 @@ Germaine :
 « Viellicht wurd er doch wieder guet. »
 
           
-",weber-yo-yo,9,2,0.0,0.2222222222222222
+",89,weber-yo-yo,9,2,0.0,0.2222222222222222
 270,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1726,7 +1726,7 @@ Henriette :
 (hinten ab).
 
           
-",weber-yo-yo,29,5,0.2196758006804135,0.1724137931034483
+",90,weber-yo-yo,29,5,0.2196758006804135,0.1724137931034483
 271,comedy,Germaine,F,,,,"
             
 Germaine
@@ -1743,7 +1743,7 @@ Germaine
 (nimmt Jules in ihre Arme).
 
           
-",weber-yo-yo,62,7,0.08431023992876256,0.11290322580645161
+",90,weber-yo-yo,62,7,0.08431023992876256,0.11290322580645161
 273,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1757,7 +1757,7 @@ Un ich hab dich doch so arich gern g'het.
 (küsst Jules).
 
           
-",weber-yo-yo,21,2,0.486585839750669,0.09523809523809523
+",91,weber-yo-yo,21,2,0.486585839750669,0.09523809523809523
 275,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1769,7 +1769,7 @@ Germaine :
 (küsst Jules wieder auf den Mund). »
 
           
-",weber-yo-yo,31,4,0.28125,0.12903225806451613
+",91,weber-yo-yo,31,4,0.28125,0.12903225806451613
 280,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1780,7 +1780,7 @@ Jules :
 (macht das Tuch vom Kopfe weg).
 
           
-",weber-yo-yo,12,3,0.0,0.25
+",93,weber-yo-yo,12,3,0.0,0.25
 281,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1789,7 +1789,7 @@ Germaine :
 « Loss, Jules, loss. »
 
           
-",weber-yo-yo,6,2,0.703,0.3333333333333333
+",93,weber-yo-yo,6,2,0.703,0.3333333333333333
 283,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1798,7 +1798,7 @@ Germaine :
 « loss diss Tuech Jules. »
 
           
-",weber-yo-yo,7,1,0.703,0.14285714285714285
+",94,weber-yo-yo,7,1,0.703,0.14285714285714285
 285,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1807,7 +1807,7 @@ Germaine :
 « Doch Jules, min liewer Jules. »
 
           
-",weber-yo-yo,8,1,0.590171679501338,0.125
+",95,weber-yo-yo,8,1,0.590171679501338,0.125
 286,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1816,7 +1816,7 @@ Jules :
 « Min liebs Germaine, min herzigs Kind. »
 
           
-",weber-yo-yo,9,1,0.523,0.1111111111111111
+",95,weber-yo-yo,9,1,0.523,0.1111111111111111
 288,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1825,7 +1825,7 @@ Jules :
 « Mir zwei han uns doch gern ? »
 
           
-",weber-yo-yo,9,1,0.383,0.1111111111111111
+",96,weber-yo-yo,9,1,0.383,0.1111111111111111
 292,comedy,Jules Kleitz,M,,,,"
             
 Jules
@@ -1838,7 +1838,7 @@ Jules
             dinni Maman liede kann. Hesch düe nit g'hört, was sie alles üwer mich g'saat het ? »
 
           
-",weber-yo-yo,39,2,0.0,0.05128205128205128
+",97,weber-yo-yo,39,2,0.0,0.05128205128205128
 293,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1847,7 +1847,7 @@ Germaine :
 « Ja bisch dûe denn nit krank ? »
 
           
-",weber-yo-yo,9,2,0.0,0.2222222222222222
+",97,weber-yo-yo,9,2,0.0,0.2222222222222222
 296,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1859,7 +1859,7 @@ Jules :
 (Beide küssen sich lange.)
 
           
-",weber-yo-yo,38,8,0.45395792556730097,0.21052631578947367
+",98,weber-yo-yo,38,8,0.45395792556730097,0.21052631578947367
 297,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1872,7 +1872,7 @@ Henriette
 Ja was isch denn mit euch zwei do los ? »
 
           
-",weber-yo-yo,36,4,0.34175,0.1111111111111111
+",99,weber-yo-yo,36,4,0.34175,0.1111111111111111
 299,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1881,7 +1881,7 @@ Henriette :
 « Ich will mit inne no in d'Nerveklinik fahre, wenn de Dokter mit-m Auto kummt. »
 
           
-",weber-yo-yo,18,1,0.0,0.05555555555555555
+",99,weber-yo-yo,18,1,0.0,0.05555555555555555
 300,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1890,7 +1890,7 @@ Jules :
 « Zäll wurd nit notwendig sin, denn ich bin jo gar nit krank. »
 
           
-",weber-yo-yo,15,2,0.0,0.13333333333333333
+",100,weber-yo-yo,15,2,0.0,0.13333333333333333
 302,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1899,7 +1899,7 @@ Jules :
 « Werum denn, Madame Fleischmann ? »
 
           
-",weber-yo-yo,7,1,0.0,0.14285714285714285
+",100,weber-yo-yo,7,1,0.0,0.14285714285714285
 303,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1909,7 +1909,7 @@ Henriette :
             kein Mensch. »
 
           
-",weber-yo-yo,22,3,0.0,0.13636363636363635
+",101,weber-yo-yo,22,3,0.0,0.13636363636363635
 304,comedy,Germaine,F,,,,"
             
 Germaine :
@@ -1918,7 +1918,7 @@ Germaine :
 « Nein Maman, diss niemols, ich hab de Jules viel ze gern un er mich jo au. »
 
           
-",weber-yo-yo,19,1,0.383,0.05263157894736842
+",101,weber-yo-yo,19,1,0.383,0.05263157894736842
 305,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1928,7 +1928,7 @@ Jules :
             het alles gewüsst. Sie könne hyt noch lang warte, bis er mit'm Auto kummt. »
 
           
-",weber-yo-yo,34,7,0.2782285889952555,0.20588235294117646
+",101,weber-yo-yo,34,7,0.2782285889952555,0.20588235294117646
 306,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette :
@@ -1937,7 +1937,7 @@ Henriette :
 « Die ganz Affaire glicht jo ihne emol widder, Mösjö Kleitz. »
 
           
-",weber-yo-yo,13,1,0.0,0.07692307692307693
+",102,weber-yo-yo,13,1,0.0,0.07692307692307693
 308,comedy,Henriette Fleischmann,F,,,,"
             
 Henriette
@@ -1946,7 +1946,7 @@ Henriette
 « Ja was soll's denn jetzt noch gänn ? »
 
           
-",weber-yo-yo,11,2,0.207,0.18181818181818182
+",102,weber-yo-yo,11,2,0.207,0.18181818181818182
 309,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1955,7 +1955,7 @@ Jules :
 « Ein Moment, chère Madame Fleischmann. »
 
           
-",weber-yo-yo,8,1,0.0,0.125
+",103,weber-yo-yo,8,1,0.0,0.125
 310,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie
@@ -1967,7 +1967,7 @@ Marie
 « Was beliebt Mösjö ? Sinn sie nimmi krank ? »
 
           
-",weber-yo-yo,15,2,0.3205,0.13333333333333333
+",103,weber-yo-yo,15,2,0.3205,0.13333333333333333
 312,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1976,7 +1976,7 @@ Marie :
 « Gott sej Dank. »
 
           
-",weber-yo-yo,6,2,0.242,0.3333333333333333
+",104,weber-yo-yo,6,2,0.242,0.3333333333333333
 313,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -1986,7 +1986,7 @@ Jules :
             10 Minüde verreise. »
 
           
-",weber-yo-yo,22,2,0.25,0.09090909090909091
+",104,weber-yo-yo,22,2,0.25,0.09090909090909091
 314,comedy,Marie,F,domestic_worker,elementary_professions,lower_class,"
             
 Marie :
@@ -1995,7 +1995,7 @@ Marie :
 « Mitem gröschte Vergnüeje. In fünef Minüde bin ich schun ferti. »
 
           
-",weber-yo-yo,13,2,0.2775,0.15384615384615385
+",104,weber-yo-yo,13,2,0.2775,0.15384615384615385
 315,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -2007,7 +2007,7 @@ Jules :
  Un die do packe sie au mit ihn. »
 
           
-",weber-yo-yo,23,2,0.295085839750669,0.08695652173913043
+",105,weber-yo-yo,23,2,0.295085839750669,0.08695652173913043
 317,comedy,Jules Kleitz,M,,,,"
             
 Jules :
@@ -2016,4 +2016,4 @@ Jules :
 « Ja, ja. Diss sinn de chère Madame Fleischmann ihri Yo-Yo!! »
 
           
-",weber-yo-yo,13,3,0.0,0.23076923076923078
+",105,weber-yo-yo,13,3,0.0,0.23076923076923078

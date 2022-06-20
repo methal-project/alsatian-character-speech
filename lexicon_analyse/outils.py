@@ -4,7 +4,7 @@ import spacy as sp
 import alsatian_tokeniser as at
 import re
 
-nlp_fr = sp.load("fr_core_news_sm") # pour tokeniser textes en francais
+#nlp_fr = sp.load("fr_core_news_sm") # pour tokeniser textes en francais
 block_flag = "fin_de_block"
 column_order = {"anger":3, "disgust":4, "fear":5, "joy":6, "sadness":7, "surprise":8, "trust":9, "anticipation":10}
 emotion_list = [

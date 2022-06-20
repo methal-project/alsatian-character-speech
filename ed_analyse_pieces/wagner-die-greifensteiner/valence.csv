@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -7,7 +7,7 @@ KONRAD:
 Wahrhaft a wunderbari Jagd, wu mir hit ghalte han, in Dina Walder, Rudolf. Un rich di Jagdbeute: A machtiger Bar, 10 Hirsch, nit zu reda vo da Reh un allerlei Roibwild noch.
 
           
-",wagner-die-greifensteiner,33,6,0.618095557549644,0.18181818181818182
+",0,wagner-die-greifensteiner,33,6,0.618095557549644,0.18181818181818182
 1,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -18,7 +18,7 @@ In dr Tat, Glick han mir gha. Awer da Bar, Herr Konrad
  da han Ihr uf’m Gwissa. Dini sicher Hand hat na anagstreckt, Di Jagdmesser hat na durchbohrt. Da verrisst da arma Hirta ke Kalb mehr. Drum hab ich na oi Dir, liewer Frind uf dr Waga packa loh un a paar Hirsch drzüa.
 
           
-",wagner-die-greifensteiner,59,13,0.6523849336087637,0.22033898305084745
+",0,wagner-die-greifensteiner,59,13,0.6523849336087637,0.22033898305084745
 2,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -27,7 +27,7 @@ KONRAD:
 Ich dank Dir, Rudolf. Doch s’Fell, das loss ich garwa, um’s Adelinde zu verehra, Dim liewa Wib. Zahlreich isch hit d’Jagdgsellschaft gsih. Nur einer hab ich vermisst, die Brüe- dr Hugo. Isch’r nit iglada gsih?
 
           
-",wagner-die-greifensteiner,40,4,0.5366261365016156,0.1
+",0,wagner-die-greifensteiner,40,4,0.5366261365016156,0.1
 3,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -36,7 +36,7 @@ RUDOLF:
 Ar isch glada gsih. Awer — ich weiss nit, was mit mim Brüeder isch. Sit ich ghirota Din, isch ar ganz andersch. Un sit ar gar üs’m Faldzug vo Italia zruck isch, do isch ar erscht racht fremd wora.
 
           
-",wagner-die-greifensteiner,41,4,0.7819295615711588,0.0975609756097561
+",1,wagner-die-greifensteiner,41,4,0.7819295615711588,0.0975609756097561
 4,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -45,7 +45,7 @@ KONRAD:
 Sot villicht si Frend do dra schuld si, wu ar üs Italia zruck brocht hat, wu d’Stell vom Schlossvogt versieht, will dr alt a Dissel z’schwach isch, dert owa zu regiera unter da Dienschtlit.
 
           
-",wagner-die-greifensteiner,37,7,0.5047280775540547,0.1891891891891892
+",1,wagner-die-greifensteiner,37,7,0.5047280775540547,0.1891891891891892
 5,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -65,7 +65,7 @@ Wenn nicht zum Himmel, Hand in Hand zur Hölle.»
 	    
 	      
           
-",wagner-die-greifensteiner,95,14,0.5220684739192093,0.14736842105263157
+",1,wagner-die-greifensteiner,95,14,0.5220684739192093,0.14736842105263157
 6,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -76,7 +76,7 @@ Ich warn Dich, Rudolf! Ich han s’letschamol, wu ich Eich binander gsah hab, dr
 . Doch, ich mües geh. Hersch, mini Lit, mitm Waga, mini Knappa mit da Pferd. Sie riefa, — Ich mües geh.
 
           
-",wagner-die-greifensteiner,71,9,0.6196349028836108,0.1267605633802817
+",2,wagner-die-greifensteiner,71,9,0.6196349028836108,0.1267605633802817
 7,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -87,7 +87,7 @@ Erloib as ich Dich noch geleit bis zu Dina Lit. Wenn mr so a ganza Tag im Sattel
 .
 
           
-",wagner-die-greifensteiner,32,3,0.7079237744300859,0.09375
+",2,wagner-die-greifensteiner,32,3,0.7079237744300859,0.09375
 8,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -96,7 +96,7 @@ HUGO:
 Dasmol fallt ar in unsri Hand! Dasmol entgeht ar uns nit! S’wurd ihm hoffentlich nit ifalla, a andra Wag zum Ruckwag zü nahma.
 
           
-",wagner-die-greifensteiner,25,1,0.552,0.04
+",2,wagner-die-greifensteiner,25,1,0.552,0.04
 9,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -105,7 +105,7 @@ WALTER:
 Ich warn Dich noch amol, Hugo! Hugo, s’isch a Spiel uf Lawa un Tod!!!
 
           
-",wagner-die-greifensteiner,16,5,0.539623278917578,0.3125
+",3,wagner-die-greifensteiner,16,5,0.539623278917578,0.3125
 10,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -119,7 +119,7 @@ Ja — — uf Lawa un Tod!! Entweder da Streich glickt, drno kann ich wieder law
  genüa! genüa!
 
           
-",wagner-die-greifensteiner,70,14,0.5697977471942843,0.2
+",3,wagner-die-greifensteiner,70,14,0.5697977471942843,0.2
 11,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -130,7 +130,7 @@ Ich versteh Dich nit! Isch denn Die Lawa wirk- lig so reizlos, so unertragbar? W
  Un groi un bucklig wara, bis sich das alles erfüllt. — Nein — bol, will ich Lieb un Rich- tum, um na zu geniessa — — — oder nia!!!
 
           
-",wagner-die-greifensteiner,109,18,0.7505251577840897,0.1651376146788991
+",3,wagner-die-greifensteiner,109,18,0.7505251577840897,0.1651376146788991
 12,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -139,7 +139,7 @@ WALTER:
 Ja — awer Hand an si Brüeder zu lega, si Brüeder zu morda — das ich kei Ritterarwet, das isch a gmein Ver- brecha.
 
           
-",wagner-die-greifensteiner,26,5,0.5275846812080675,0.19230769230769232
+",4,wagner-die-greifensteiner,26,5,0.5275846812080675,0.19230769230769232
 13,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -151,7 +151,7 @@ HUGO :
 Nann’s wie Dü wit. Mi Brüeder mües verschwinda üs mim Wag.
 
           
-",wagner-die-greifensteiner,17,3,0.6168104763062096,0.17647058823529413
+",4,wagner-die-greifensteiner,17,3,0.6168104763062096,0.17647058823529413
 14,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -160,7 +160,7 @@ WALTER:
 Ich kan nix drfir — awer lüeg... es kummt mir immer das Wort Kain in dr Sinn. Was hat Dir denn Di Brüeder geto? Ar weigert sich als, Dir üszuhalfa, wenn Dü als a bissel zviel Schulda macha tüesch. Awer üs dam Grund Dim Brüeder ans Lawa zu wella — das isch doch wirklich verbracherisch. Ich hab’s Dir scho gsait.
 
           
-",wagner-die-greifensteiner,62,5,0.6327792479608114,0.08064516129032258
+",4,wagner-die-greifensteiner,62,5,0.6327792479608114,0.08064516129032258
 15,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -169,7 +169,7 @@ HUGO:
 Feigling! Hasch Dü Angscht?? So gang doch heim! Ich fall na allei an!
 
           
-",wagner-die-greifensteiner,14,4,0.28022842990976315,0.2857142857142857
+",5,wagner-die-greifensteiner,14,4,0.28022842990976315,0.2857142857142857
 16,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -178,7 +178,7 @@ WALTER:
 Hugo... Mir ham uns Blüetsbrüederschaft gschwora. — Ich verloss Dich nie. Dina Streit isch mina Streit. Wer gega Dich steht hat’s mit mir zu tüe. — Zähl uf mich. Doch grad will ich Di Frind bin, will ich’s güet mit Dir mein, rot ich Dir zum letschtamol: Los ab vo Dim Vorhaba. — Mir schwand nix Güets.
 
           
-",wagner-die-greifensteiner,60,12,0.5837561894947819,0.2
+",5,wagner-die-greifensteiner,60,12,0.5837561894947819,0.2
 17,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -187,7 +187,7 @@ HUGO:
 Hör, bis jetzt han ich Dir dr tiefa Grund ver- schwiega, un Dich gloiwa lo, as seig a Galdfrog, wu mich rasend macht gega dr Brüeder. Awer dr Hass gega mi Brüeder hat viel tiefra Grund. Ich han Dir’s später wella saga. — Doch soll’sch Dü’s jetz glich erfahra. Antwort ha uf die Frog, worum ich miner Brüeder so furchtbar hass, wurum mir’s Lawa so zur Qual. So erfahr’s denn in eim Satz: Mi Brüeder hat die an dr Altar gfiahrt wu ich salwer gliebt han mit jeder Harzensfaser, wie ich noch nie a Wib gliebt hann!!!
 
           
-",wagner-die-greifensteiner,103,22,0.5785313877198949,0.21359223300970873
+",5,wagner-die-greifensteiner,103,22,0.5785313877198949,0.21359223300970873
 18,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -196,7 +196,7 @@ WALTER:
 So hasch Dü, armer Hugo, Adelinde vo Andlau gliebt, die Froi vo Dim leibeigena Brüeder!
 
           
-",wagner-die-greifensteiner,16,3,0.6859966159774907,0.1875
+",6,wagner-die-greifensteiner,16,3,0.6859966159774907,0.1875
 19,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -208,7 +208,7 @@ HUGO :
 So isch’s. Gliebt rasend, wahnsinnig! Un — — — lieb sie noch!
 
           
-",wagner-die-greifensteiner,17,4,0.5860389311109508,0.23529411764705882
+",6,wagner-die-greifensteiner,17,4,0.5860389311109508,0.23529411764705882
 21,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -217,7 +217,7 @@ HUGO:
 Wohl wurd sie es wissa — und hat doch mi Brüeder vorzoge, wu viel älter isch als sie. Wurum? S’isch wohl nit schwar zu errota. Will ar Herr vo unserer Stammburg isch, Herr vo dam andlosa Grundbsitz um ich a Ritter vo Habenichts, a armer Lehnsmann vom Bischof uf Hoh-Barr, dam mi Schwart verpflichtet isch un dam mini Freiheit verkoift isch.
 
           
-",wagner-die-greifensteiner,63,11,0.6244325718493515,0.1746031746031746
+",7,wagner-die-greifensteiner,63,11,0.6244325718493515,0.1746031746031746
 22,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -226,7 +226,7 @@ WALTER:
 Hat denn Adelinde Dini Liab erwiedert gha?
 
           
-",wagner-die-greifensteiner,8,1,0.9225340379853786,0.125
+",7,wagner-die-greifensteiner,8,1,0.9225340379853786,0.125
 23,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -235,7 +235,7 @@ HUGO:
 Ich behoipt ja. Sicher isch sie mir gewoga gsi. Ich hab’s an allem gmerkt. Doch wu mi Brüeder angfanga hat, ihr dr Hof zu macha, do isch sie uf einmol kalt un kälter gega mich wora.
 
           
-",wagner-die-greifensteiner,38,9,0.5528929377053294,0.23684210526315788
+",7,wagner-die-greifensteiner,38,9,0.5528929377053294,0.23684210526315788
 24,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -244,7 +244,7 @@ WALTER:
 Armer Hugo. Un Dü meinsch as isch s’Vermöga gsih, wu dr Uesschlag ga hat? Dü hasch mir aber bi fröhlichem Bacherklang so a paar galanti Jagdabenteuer... ich mein uf manschlich Wild verzählt. Sot sie nit am And Dich im Verdacht ha als Schürzejäger?
 
           
-",wagner-die-greifensteiner,45,8,0.4843118407844199,0.17777777777777778
+",8,wagner-die-greifensteiner,45,8,0.4843118407844199,0.17777777777777778
 25,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -258,7 +258,7 @@ Drno isch’s wieder niemets andersch gsih as mi Brüeder, da elandig Schlicher 
 . Un sithar brennt’s wie Fir in mim Büesa, ver- zehrt mich, losst nimmer mich Rüeh finda. — — — Nur a tiefi Bach kann mich befriediga, berühiga, das Fir löscha in meiner Bruscht — — un dr Bsitz vo Adelinde.
 
           
-",wagner-die-greifensteiner,68,12,0.5296768655109672,0.17647058823529413
+",8,wagner-die-greifensteiner,68,12,0.5296768655109672,0.17647058823529413
 26,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -270,7 +270,7 @@ WALTER :
 Awer a Brüeder morda!!
 
           
-",wagner-die-greifensteiner,8,3,0.5343540467548137,0.375
+",8,wagner-die-greifensteiner,8,3,0.5343540467548137,0.375
 27,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -279,7 +279,7 @@ HUGO:
 Han mir nit abgred, mi Brüeder zu iwerfalle un zu fessla. — — — Wer red vo morda?
 
           
-",wagner-die-greifensteiner,19,3,0.3512665494439207,0.15789473684210525
+",9,wagner-die-greifensteiner,19,3,0.3512665494439207,0.15789473684210525
 28,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -288,7 +288,7 @@ WALTER:
 Ich han gloibt Dü wit na iwerfalle, wit'm Gald abprassa un drno wieder d’Freiheit ga. — Awer, noch dam, was ich do vernumma —- gsieh ich, as die Sach viel arnschter soll wara...
 
           
-",wagner-die-greifensteiner,37,5,0.5375798104408412,0.13513513513513514
+",9,wagner-die-greifensteiner,37,5,0.5375798104408412,0.13513513513513514
 29,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -297,7 +297,7 @@ HUGO:
 Arnscht? Jawohl. Nimmer kehrt mi Brüeder zruck an die Bruscht vo dar, wu ich salber so wahnsinnig liab.
 
           
-",wagner-die-greifensteiner,19,4,0.6236949187055083,0.21052631578947367
+",9,wagner-die-greifensteiner,19,4,0.6236949187055083,0.21052631578947367
 30,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -306,7 +306,7 @@ WALTER:
 So witt Dü ihm doch ans Lawa?
 
           
-",wagner-die-greifensteiner,8,1,0.8722145007409952,0.125
+",10,wagner-die-greifensteiner,8,1,0.8722145007409952,0.125
 31,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -317,7 +317,7 @@ Ans Lawa? Nai,
  ich halt na nur gfanga.
 
           
-",wagner-die-greifensteiner,13,5,0.5181671276901348,0.38461538461538464
+",10,wagner-die-greifensteiner,13,5,0.5181671276901348,0.38461538461538464
 32,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -326,7 +326,7 @@ WALTER:
 M'r wurd na süecha. Adelinde wurd na zerscht süecha loh, bi uns uf Hoh-Barr. Sie wurd sich an dr Bischof wanda, Dina Lehnsherr un d’Gfangnis üssüecha loh un mr wurd...
 
           
-",wagner-die-greifensteiner,32,7,0.46707349310297636,0.21875
+",10,wagner-die-greifensteiner,32,7,0.46707349310297636,0.21875
 33,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -342,7 +342,7 @@ Nix finda. — — — Dü lüegsch verdutzt? — — Nix finda hab ich gsait. �
 .
 
           
-",wagner-die-greifensteiner,75,7,0.7143639917506864,0.09333333333333334
+",11,wagner-die-greifensteiner,75,7,0.7143639917506864,0.09333333333333334
 34,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -351,7 +351,7 @@ WALTER:
 Spott nit! —- Doch still! Ich hör Stimma!
 
           
-",wagner-die-greifensteiner,10,2,0.4241246684588985,0.2
+",11,wagner-die-greifensteiner,10,2,0.4241246684588985,0.2
 35,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -362,7 +362,7 @@ In dr Tat. — Sot mi Brüeder nit allei si? Höll un Teifel? Drno könna mir na
 .
 
           
-",wagner-die-greifensteiner,45,9,0.46542393567950197,0.2
+",11,wagner-die-greifensteiner,45,9,0.46542393567950197,0.2
 36,drama,Christian,M,,,,"
             
 CHRISTIAN:
@@ -375,7 +375,7 @@ Halt, Toni, a Oigablick nur loss mich üsschnüfa. — — — Mini alti Bruscht
 .
 
           
-",wagner-die-greifensteiner,38,5,0.49579809125249563,0.13157894736842105
+",12,wagner-die-greifensteiner,38,5,0.49579809125249563,0.13157894736842105
 37,drama,Toni,M,,,,"
             
 TONI:
@@ -384,7 +384,7 @@ TONI:
 Gloib’s wohl, Chrischtian, Ihr han oi scho iwer 50 Johr uf’m Buckel. Ihr sotta iwerhoipt Eich schona in Eira alta Tag un nimmi in dr Wald ghe schaffa. Ich mein, Ihr han in Eirem Lawa scho genüe geschafft.
 
           
-",wagner-die-greifensteiner,41,6,0.7367378104966877,0.14634146341463414
+",12,wagner-die-greifensteiner,41,6,0.7367378104966877,0.14634146341463414
 38,drama,Christian,M,,,,"
             
 CHRISTIAN:
@@ -393,7 +393,7 @@ CHRISTIAN:
 Sal isch wohr. Awer üsrühe? As heisst lawa — verdiena für unsereins Dis zum letschta Schnüfer.
 
           
-",wagner-die-greifensteiner,17,4,0.8342501337345601,0.23529411764705882
+",12,wagner-die-greifensteiner,17,4,0.8342501337345601,0.23529411764705882
 39,drama,Toni,M,,,,"
             
 TONI:
@@ -402,7 +402,7 @@ TONI:
 Mir sin halt armi Teifel, kei Herralit, wie d’Greifa- steiner, do driwa. Die sin nur für’s Glick in dr Walt un mir armi Teifel für’s Schinda, fir’s misère. — D’Glicksgieter sin doch miserabel schlacht verteilt. Der ein hat zu viel — wurd iwer- mietig bi sim Richtum, dr ander hat zu wenig. Ja, wenn m'r das üsglicha kennt!!!
 
           
-",wagner-die-greifensteiner,66,13,0.4310288891978322,0.19696969696969696
+",13,wagner-die-greifensteiner,66,13,0.4310288891978322,0.19696969696969696
 40,drama,Christian,M,,,,"
             
 CHRISTIAN :
@@ -416,7 +416,7 @@ Halt, Toni... So red mr im Volk, s’isch wohr! Awer siter as d’Walt steht, ha
  Awer — verwachsel nit Richtum un Glick — denn das isch zweierlei. Nit alli Richi sin so glicklig wie ich im Lawa gsi bin, wu ich noch gsund und stark gsi bin. A brav, liebs Wib harzigi, gsundi Rinder — — — nie kei wirk- ligi Not — — wenn oi scho amol vorüwergehend Schmalhans Küchameischter gsi isch. Un das herrlich Lawa un Schaffa im
 
           
-",wagner-die-greifensteiner,147,30,0.6652141907304115,0.20408163265306123
+",13,wagner-die-greifensteiner,147,30,0.6652141907304115,0.20408163265306123
 41,drama,Toni,M,,,,"
             
 TONI:
@@ -427,7 +427,7 @@ Vater Chrischtian, Ihr reda so warm, so iwerziegend wie unser H. Pfarrer. S’is
  — Ich gloib s’Watter kummt immer nacher. Wann mr nit gehn, Ihr wara bol verschnüft han?
 
           
-",wagner-die-greifensteiner,69,16,0.6327101558352044,0.2318840579710145
+",13,wagner-die-greifensteiner,69,16,0.6327101558352044,0.2318840579710145
 42,drama,Christian,M,,,,"
             
 CHRISTIAN:
@@ -436,7 +436,7 @@ CHRISTIAN:
 Nur noch a Wort s’kennt m'r entfalla. Bisch Dü in letschter Zit Hugo vo Greifenstein begegnet? Ar isch frieher a rasch, lichtsinnig Blüet gsi... un..., doch hat m'r na nit unlieb gha, nirgends. — Doch in letschter Zit isch ar mir a paarmol begegnet im Wald, in finschter Sinna versunka... — Ich sag Dir, Toni, da isch nix weniger als glicklig. In dam si Harz hüst oi kei güeta Geischt, da hat oi ebs zu traga... — Un lüeg doch gilt ar fir a tapfra Dega, steht in Gunscht bi sim Lehns- herr dr Fürschtbischof vo Strosburg, wohnt in stolzem Schloss, im Leh uf Hoh-Barr..., un isch doch ni glicklig...!
 
           
-",wagner-die-greifensteiner,113,17,0.6151454306855689,0.1504424778761062
+",14,wagner-die-greifensteiner,113,17,0.6151454306855689,0.1504424778761062
 43,drama,Toni,M,,,,"
             
 TONI:
@@ -447,7 +447,7 @@ Da lichtsinnig Vogel verdient oi nit as ar glicklich isch. —
 . Ei — jetzt heisst’s awer ab, sunscht wara mir pudelnass. —
 
           
-",wagner-die-greifensteiner,30,4,0.5670197621858789,0.13333333333333333
+",14,wagner-die-greifensteiner,30,4,0.5670197621858789,0.13333333333333333
 44,drama,Christian,M,,,,"
             
 CHRISTIAN:
@@ -458,7 +458,7 @@ Ja, gehn mir!
 .
 
           
-",wagner-die-greifensteiner,7,2,0.7459912395599275,0.2857142857142857
+",14,wagner-die-greifensteiner,7,2,0.7459912395599275,0.2857142857142857
 45,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -471,7 +471,7 @@ Ich hab bol nimm an mich halta könne! — Da kann vo Glick reda, as ich mich da
  zeiga. Ich hätt da ungschlachta Tölpel butterweich gschlaga. — Awer s’isch güet ufghoba... Ich will dam klotziga Dummschadel halfa, so iwer a Ritter zu reda...
 
           
-",wagner-die-greifensteiner,52,8,0.4876036038837365,0.15384615384615385
+",15,wagner-die-greifensteiner,52,8,0.4876036038837365,0.15384615384615385
 46,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -480,7 +480,7 @@ WALTER:
 Gsteh a bissel, liewer Frind, as wenigschtens dr Alt tiefi Weisheit gred hat... un... Dü tat’sch güet dran, abzustehn von Dina Plan, solahg as noch Zit isch, Doch sag mir noch, wu wit Dü denn Di Brüeder unterbringa. Das isch mir a Ratsel!
 
           
-",wagner-die-greifensteiner,44,8,0.7696813090109926,0.18181818181818182
+",15,wagner-die-greifensteiner,44,8,0.7696813090109926,0.18181818181818182
 47,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -491,7 +491,7 @@ Nimm lang, So hör! — Zwischa dr erscht un dr zweit Ringmür isch frieher a Br
 .
 
           
-",wagner-die-greifensteiner,94,8,0.5692566487237558,0.0851063829787234
+",15,wagner-die-greifensteiner,94,8,0.5692566487237558,0.0851063829787234
 49,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -500,7 +500,7 @@ HUGO:
 Do lehn mr dr Brüeder herab!
 
           
-",wagner-die-greifensteiner,7,1,0.8663948436837723,0.14285714285714285
+",16,wagner-die-greifensteiner,7,1,0.8663948436837723,0.14285714285714285
 50,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -509,7 +509,7 @@ WALTER:
 ` Un wann na do elandig verhungra loh?
 
           
-",wagner-die-greifensteiner,9,2,0.20747877739410597,0.2222222222222222
+",16,wagner-die-greifensteiner,9,2,0.20747877739410597,0.2222222222222222
 51,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -525,7 +525,7 @@ Was dankt die Harz? Ich loss doch mi liewa Briederla nit verhungra!! — Einer v
  Ich wur rasend wenn ich nur do dra dank. — Schloss Greifenstein un mi stolzi Schwägerin, mi mien si wara — Mi !!!
 
           
-",wagner-die-greifensteiner,78,9,0.5623327741255754,0.11538461538461539
+",17,wagner-die-greifensteiner,78,9,0.5623327741255754,0.11538461538461539
 52,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -534,7 +534,7 @@ WALTER:
 Ich tat Dich jo vo Harza garn glicklig sah — awer... a Brüeder!
 
           
-",wagner-die-greifensteiner,14,5,0.8279533137801339,0.35714285714285715
+",17,wagner-die-greifensteiner,14,5,0.8279533137801339,0.35714285714285715
 53,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -545,7 +545,7 @@ Kann manchmol unser gröschte Find si — Mi Brüeder hat mir alles groibt wu’
  Das halt ich nimm üs!!! Ar oder ich!! Für uns beidi isch nimm Platz an dr Sunn — Un Dü — wit Dü mich verloh — — — so geh — — drno blibt einer tot uf dam Platz: Rudolf oder ich! Geh! Noch isch’s Zit!!
 
           
-",wagner-die-greifensteiner,99,17,0.5905272903368649,0.1717171717171717
+",17,wagner-die-greifensteiner,99,17,0.5905272903368649,0.1717171717171717
 54,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -558,7 +558,7 @@ Dich verloh! Nei — Ich han’s gschwora: Vereint schreiten wir durch alle Schi
 .
 
           
-",wagner-die-greifensteiner,48,7,0.4842621937813139,0.14583333333333334
+",18,wagner-die-greifensteiner,48,7,0.4842621937813139,0.14583333333333334
 55,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -567,7 +567,7 @@ WALTER:
 Zruck, ich han a Gstalt sa kumma —
 
           
-",wagner-die-greifensteiner,9,1,0.5077636222456227,0.1111111111111111
+",18,wagner-die-greifensteiner,9,1,0.5077636222456227,0.1111111111111111
 56,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -576,7 +576,7 @@ HUGO:
 In’s Versteck —
 
           
-",wagner-die-greifensteiner,5,1,0.3729131786075637,0.2
+",18,wagner-die-greifensteiner,5,1,0.3729131786075637,0.2
 57,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -589,7 +589,7 @@ D’Elemanta towa. Ich will nit länger zögra heim- zukehra -— heim zu Adelin
 . Ein Blitz zuckt. Beim Ringen ruft Rudolf: Zu Hilf!!! Beim Leuchten des Blitzes erkennt er Hugo.
 
           
-",wagner-die-greifensteiner,165,22,0.627088862225473,0.13333333333333333
+",19,wagner-die-greifensteiner,165,22,0.627088862225473,0.13333333333333333
 58,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -598,7 +598,7 @@ RUDOLF:
 Dü Hugo? — — — Ich Din Rudolf, Din Brüeder! Mach nur die Fessel awag, Dü hasch dr latz agfalla! — Oder — soll das a Scharz si?
 
           
-",wagner-die-greifensteiner,29,3,0.6129747181288617,0.10344827586206896
+",19,wagner-die-greifensteiner,29,3,0.6129747181288617,0.10344827586206896
 59,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -607,7 +607,7 @@ HUGO:
 Wenn Dü Rudolf vo Greifenstein bisch, so sin mr racht. Dich han mr do erwartet, un kei andra.
 
           
-",wagner-die-greifensteiner,19,2,0.724979311622344,0.10526315789473684
+",19,wagner-die-greifensteiner,19,2,0.724979311622344,0.10526315789473684
 60,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -616,7 +616,7 @@ RUDOLF:
 Mach doch kei langi Gschichta do! Die Fessel awag! Dr Scharz hat scho zlang dürt. S’isch hit kei Zit zu so Narrheita!
 
           
-",wagner-die-greifensteiner,24,3,0.6198615554888051,0.125
+",20,wagner-die-greifensteiner,24,3,0.6198615554888051,0.125
 61,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -627,7 +627,7 @@ Im Gegateil, s""Watter passt uns ganz herrlich zu mim Vorhaba! — S’isch uns 
 .
 
           
-",wagner-die-greifensteiner,48,11,0.5300599908936918,0.22916666666666666
+",20,wagner-die-greifensteiner,48,11,0.5300599908936918,0.22916666666666666
 62,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -636,7 +636,7 @@ RUDOLF:
 Was wit Dü vo mir? — Was hab ich Dir zleid geto? Bisch wieder in Galdverlagaheita un wit Dü mich so zwinga, Dir zu halfa? Red! Ich wil heim. Adelinde wartet uf mich!
 
           
-",wagner-die-greifensteiner,34,4,0.6237725394055647,0.11764705882352941
+",20,wagner-die-greifensteiner,34,4,0.6237725394055647,0.11764705882352941
 63,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -648,7 +648,7 @@ HUGO :
 Nu ja — so wartet Dini harzliewi Adelinde hit ewa umsunscht un morn oi, un iwermorn, un in alli Züe- kunft! — Dü nimsch hit Nacht a andra Wag. Dü marschier’sch uf Hoh-Barr anstatt uf Greifenstein. RUDOLF. Un — was soll ich dert?
 
           
-",wagner-die-greifensteiner,48,6,0.6421920327760889,0.125
+",21,wagner-die-greifensteiner,48,6,0.6421920327760889,0.125
 64,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -660,7 +660,7 @@ HUGO :
 bliewa!
 
           
-",wagner-die-greifensteiner,5,1,0.4043740796106386,0.2
+",21,wagner-die-greifensteiner,5,1,0.4043740796106386,0.2
 65,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF :
@@ -672,7 +672,7 @@ RUDOLF :
 Mi Platz isch uf Greifenstein an dr Sit vo mim Wib, un nit uf Hoh-Barr.
 
           
-",wagner-die-greifensteiner,19,2,0.714,0.10526315789473684
+",21,wagner-die-greifensteiner,19,2,0.714,0.10526315789473684
 67,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -681,7 +681,7 @@ RUDOLF:
 Brüeder, bisch Dü krank?
 
           
-",wagner-die-greifensteiner,5,2,0.4863291626834355,0.4
+",22,wagner-die-greifensteiner,5,2,0.4863291626834355,0.4
 69,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -690,7 +690,7 @@ RUDOLF:
 Redsch Dü im Arnscht?
 
           
-",wagner-die-greifensteiner,5,1,0.4865620879648512,0.2
+",23,wagner-die-greifensteiner,5,1,0.4865620879648512,0.2
 70,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -702,7 +702,7 @@ HUGO :
 Im Arnscht!
 
           
-",wagner-die-greifensteiner,6,1,0.4865620879648512,0.16666666666666666
+",23,wagner-die-greifensteiner,6,1,0.4865620879648512,0.16666666666666666
 71,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -711,7 +711,7 @@ RUDOLF:
 So soll ich Di Gfangener si?
 
           
-",wagner-die-greifensteiner,7,1,0.1320707288339906,0.14285714285714285
+",23,wagner-die-greifensteiner,7,1,0.1320707288339906,0.14285714285714285
 73,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -720,7 +720,7 @@ RUDOLF:
 Un wit wohl a Lösegald vo mir erprassa — Bisch wohl in Schulda? — So loss mich frei, ich will Dir dasmol noch üshalfa!
 
           
-",wagner-die-greifensteiner,25,6,0.5820179160166755,0.24
+",24,wagner-die-greifensteiner,25,6,0.5820179160166755,0.24
 74,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -729,7 +729,7 @@ HUGO:
 Bhalt Di Gald! Das genügt mir nimm. Ich möcht alles, Di Wib mit ibegriffa!
 
           
-",wagner-die-greifensteiner,15,1,0.5811712461436535,0.06666666666666667
+",24,wagner-die-greifensteiner,15,1,0.5811712461436535,0.06666666666666667
 75,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -738,7 +738,7 @@ RUDOLF:
 Was fiehrsch Dü fir wahnwitzigi Reda? Das kann Di Arnscht nit si?
 
           
-",wagner-die-greifensteiner,13,3,0.4321241811927328,0.23076923076923078
+",25,wagner-die-greifensteiner,13,3,0.4321241811927328,0.23076923076923078
 76,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -750,7 +750,7 @@ HUGO :
 Wurum denn nit? Bisch Dü verschwunda, was hindert mich unser Familiagüet zruck zu fordra? — Un Adelinde — hab ich si nit gliabt eb Dü? War sie nit mi wora, hätsch Dü Dich nit zwischa uns gedrängt un mich verdrängt durch weiss war für Verleumdunga!
 
           
-",wagner-die-greifensteiner,49,3,0.44166168480832807,0.061224489795918366
+",25,wagner-die-greifensteiner,49,3,0.44166168480832807,0.061224489795918366
 77,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -759,7 +759,7 @@ RUDOLF:
 Dü hasch ghofft Adelinde einscht heimzufiehra? Dü meinsch ich hätt Dich verleumdet? Bi dr Seligkeit vo unsera Eltra, bi miner Ritterehr, nia hab ich anderscht als briederlich iwer Dich gred. Wenn Adelinde a ungünschtig Urteil iwer Dich gfällt hat, so bin ich unschuldig do dran.
 
           
-",wagner-die-greifensteiner,46,6,0.5328590416835565,0.13043478260869565
+",25,wagner-die-greifensteiner,46,6,0.5328590416835565,0.13043478260869565
 78,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -768,7 +768,7 @@ HUGO:
 Das gloib wer will. — Ihr solla mr das bitter biessa!
 
           
-",wagner-die-greifensteiner,12,1,0.279338212049761,0.08333333333333333
+",26,wagner-die-greifensteiner,12,1,0.279338212049761,0.08333333333333333
 79,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -777,7 +777,7 @@ RUDOLF:
 Brüeder, loss ab, vo dana finschtra Plan: Dü loifsch in Di Verdarwa ni!!
 
           
-",wagner-die-greifensteiner,14,5,0.41493054529038176,0.35714285714285715
+",26,wagner-die-greifensteiner,14,5,0.41493054529038176,0.35714285714285715
 80,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -786,7 +786,7 @@ HUGO:
 Un Dich loifa lo, gal? in d’Arm vo dar wu ich salwer begahrt han un noch wahnsinnig lieb! — Nein!!!
 
           
-",wagner-die-greifensteiner,22,4,0.4134061067507497,0.18181818181818182
+",26,wagner-die-greifensteiner,22,4,0.4134061067507497,0.18181818181818182
 81,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -795,7 +795,7 @@ RUDOLF:
 So dank dran! Dü legsch Hand an Di Brüeder! — So dank an unsri Eltra, unsri liewa, fromma Müeter, dar Dü als Kind scho Sorga un Kummer gnüa gmacht hasch. — Wit Dü fortfahra, alli unglicklich zu macha? Dank an unsri gmeinsami Jugend, wie oft ich für Dich igstanda, Schuld uf mich genumma, Dir s’üserschta zu erspara? Ich beschwör Dich, Hugo! Gang in Dich! Begeh kei Verbracha! — Loss uns wieder Brieder wara! Un liebsch Dü Adelinde? Lehr sie als a Schweschter liewa! Sie wurd Dich wie a Schweschter liewa un Dir züegeto sin, bis Dü a andri gfunda...
 
           
-",wagner-die-greifensteiner,101,19,0.6372181085287864,0.18811881188118812
+",27,wagner-die-greifensteiner,101,19,0.6372181085287864,0.18811881188118812
 82,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -804,7 +804,7 @@ HUGO:
 Bedank mi schen, Briederla, für d’Brosama wu andri nit wann!
 
           
-",wagner-die-greifensteiner,12,1,0.7289983277978773,0.08333333333333333
+",27,wagner-die-greifensteiner,12,1,0.7289983277978773,0.08333333333333333
 83,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -813,7 +813,7 @@ RUDOLF:
 Was redsch Dü vo Brosama. Git’s nit noch gnüa edli Ritterstöchter im Land, schön und hold un häuslich wu a brava Ritter glicklich gata macha. Wurum sich sindiger Lieb wella hingah? Wurum in blinder Leidaschaft nur grad die ein wella begahra — wu unerreichbar isch fir Dich?
 
           
-",wagner-die-greifensteiner,49,11,0.6087497058666828,0.22448979591836735
+",27,wagner-die-greifensteiner,49,11,0.6087497058666828,0.22448979591836735
 84,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -824,7 +824,7 @@ Unerreichbar??
  — Das wurd sich zeiga!
 
           
-",wagner-die-greifensteiner,10,1,0.2404234591058528,0.1
+",28,wagner-die-greifensteiner,10,1,0.2404234591058528,0.1
 85,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF :
@@ -836,7 +836,7 @@ RUDOLF :
 Was für finschtri Plan sinnt die Hirn? Wit Dü zum Brüedermörder wara? A zweiter Kain? — Un salbscht wenn Dü iwer mina tota Körper schrittsch, kummsch Dü nit zum Ziel. Adelinde je Di wara? Adelinde kennt Dich besser als ich. Ihr ahnend Harz hat mich schon gwarnt vor Dir! — Dü bisch der erscht wu sie verantwortlich macht, wenn ich nimm heimkehr. — Vergrab mich in Dina Gfangnis. Mini Frind wara d’Karkertüre spranga un mich im Lawa un mim liewa Wib zruck gah.
 
           
-",wagner-die-greifensteiner,88,12,0.6327813359051009,0.13636363636363635
+",28,wagner-die-greifensteiner,88,12,0.6327813359051009,0.13636363636363635
 86,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -848,7 +848,7 @@ HUGO :
 Han mir vorüs gsah. D’Kunscht isch ewa, Dich an a Ort zu bringa, wu Dich niemets süecht.
 
           
-",wagner-die-greifensteiner,23,3,0.7211538539075478,0.13043478260869565
+",28,wagner-die-greifensteiner,23,3,0.7211538539075478,0.13043478260869565
 87,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -857,7 +857,7 @@ RUDOLF:
 So wit Dü mich morda, feiger Brüedermörder —- mich verscharra...
 
           
-",wagner-die-greifensteiner,12,2,0.10617313880390734,0.16666666666666666
+",29,wagner-die-greifensteiner,12,2,0.10617313880390734,0.16666666666666666
 88,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -869,7 +869,7 @@ HUGO :
 Do bin ich noch bräver als Dü gloibsch. — Nei, ich will Dich nit morda — nur üs mim Wag soll’sch Dü
 
           
-",wagner-die-greifensteiner,26,2,0.43284869950934013,0.07692307692307693
+",29,wagner-die-greifensteiner,26,2,0.43284869950934013,0.07692307692307693
 89,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -880,7 +880,7 @@ So kann Dich denn nix erweicha, verblendeter, unglickseliger Brüeder. Di Blüet
 .
 
           
-",wagner-die-greifensteiner,66,10,0.5889592380056181,0.15151515151515152
+",29,wagner-die-greifensteiner,66,10,0.5889592380056181,0.15151515151515152
 91,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -892,7 +892,7 @@ WALTER :
 S’isch gschah! Doch Hugo, dank an das, was ich Dir gesait!
 
           
-",wagner-die-greifensteiner,17,2,0.7628051308696111,0.11764705882352941
+",30,wagner-die-greifensteiner,17,2,0.7628051308696111,0.11764705882352941
 92,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -904,7 +904,7 @@ HUGO :
 Feigi Memma! — Vorwärts. Ufs Pfard ga- bunda — un heim!
 
           
-",wagner-die-greifensteiner,16,2,0.335912853455126,0.125
+",30,wagner-die-greifensteiner,16,2,0.335912853455126,0.125
 93,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -915,7 +915,7 @@ Noch a Wort. Ich gsih as ich das Ungeheuer do, wu ich mi Brüeder gheissa han, n
 . — So lab denn wohl edli Burg! Lab wohl Adelinde, mi herzinnig Wib! — Mi Harz totbetriebt, nimmt Abschied vo Dir. — Gott steh Dir bi — un mir in dam furchtbara Schicksal wu uns so jählings iwerrascht hat. Lab wohl!
 
           
-",wagner-die-greifensteiner,110,20,0.6601125173906113,0.18181818181818182
+",31,wagner-die-greifensteiner,110,20,0.6601125173906113,0.18181818181818182
 95,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF :
@@ -933,7 +933,7 @@ RUDOLF :
 .
 
           
-",wagner-die-greifensteiner,49,7,0.5929216126604385,0.14285714285714285
+",31,wagner-die-greifensteiner,49,7,0.5929216126604385,0.14285714285714285
 96,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -945,7 +945,7 @@ HUGO :
 — Nun trink, Brüederharz.
 
           
-",wagner-die-greifensteiner,9,1,0.8995972397321942,0.1111111111111111
+",32,wagner-die-greifensteiner,9,1,0.8995972397321942,0.1111111111111111
 97,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -957,7 +957,7 @@ WALTER :
 Das alles ischs nit. Die Gschicht vo dr lescht Wuch mit Dinem Brüeder, dia will mir nit in dr Sinn. Mir sait a bangi Ahnung, as das Alles nit güet abloift. Ich han ghert, was s’Volk scho verzehlt. A Kriegsknacht hat’s üsm Dorf gabrocht.
 
           
-",wagner-die-greifensteiner,50,4,0.7253088632381223,0.08
+",32,wagner-die-greifensteiner,50,4,0.7253088632381223,0.08
 99,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -966,7 +966,7 @@ WALTER:
 Dr verscholla Ritter, heig irgend wu a gheima Find. Sini Gemahlin tat na kenna. Awer sie will na no nit aklaga. Z’erscht will sie Bewies in Handa ha.
 
           
-",wagner-die-greifensteiner,30,4,0.36931254372014743,0.13333333333333333
+",33,wagner-die-greifensteiner,30,4,0.36931254372014743,0.13333333333333333
 100,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -975,7 +975,7 @@ HUGO:
 Un vo uns, sait mr nix. Un vo mim Bsüech uf Greifa- stein.
 
           
-",wagner-die-greifensteiner,15,4,0.5704727962478787,0.26666666666666666
+",33,wagner-die-greifensteiner,15,4,0.5704727962478787,0.26666666666666666
 101,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -984,7 +984,7 @@ WALTER:
 Ja, as heisst o, Dü seigsch uf Greifastein gsih, awer Adelinde wot nix vo Diner Hilf wissa — — si müetet Dir züe, salwer d’Hand im Spiel zu ha -—- —, dr Mörder vo ihrem Mann zu sin. — Isch das wohr?
 
           
-",wagner-die-greifensteiner,46,6,0.6062661123098629,0.13043478260869565
+",33,wagner-die-greifensteiner,46,6,0.6062661123098629,0.13043478260869565
 102,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1004,7 +1004,7 @@ Ja, ich han mich vorgeschter dert vor- gstellt, wie Dü weisch! Doch hab ich sit
  d’Zit wurd si scho rühig macha. Ah!! Adelinde! Herrlich Wib!! Dir hab ich Lib un Seel ver- schriewa !!!
 
           
-",wagner-die-greifensteiner,198,32,0.5807567295023761,0.16161616161616163
+",34,wagner-die-greifensteiner,198,32,0.5807567295023761,0.16161616161616163
 103,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1013,7 +1013,7 @@ WALTER:
 So isch’s nit wohr, as sie Dich anklagt hat als Merder...
 
           
-",wagner-die-greifensteiner,13,2,0.4315761241411948,0.15384615384615385
+",34,wagner-die-greifensteiner,13,2,0.4315761241411948,0.15384615384615385
 104,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1025,7 +1025,7 @@ HUGO :
 Still, sag das Wort nit. Bin ich denn a Merder? — Nei, in Wort hat sie’s mir nit an dr Kopf gworfa! Awer ihri ganzi Haltung, ihri Blick sin a flammendi, wuchtigeri Anklag gsih als a paar armi Wort. — Ich hab mich zu tot gred, gheuchelt wie a erschklassiger Pharisäer, hab versprocha, Nach- forschunga zu macha — nit zu rüha... han drfu gred, Dü seigsch scho furt, alles üszuforscha. Dü hasch Dich hoffentlich oi iwerall gezeigt? — Viellicht erfahrt’s sie’s oi, un lehrt andersch danka!!
 
           
-",wagner-die-greifensteiner,94,14,0.4687307862168866,0.14893617021276595
+",34,wagner-die-greifensteiner,94,14,0.4687307862168866,0.14893617021276595
 105,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1035,7 +1035,7 @@ WALTER:
 : Mach Dir kei Illusiona! — A Froia- harz ahnt, fühlt un weiss mehr als d’Oiga sahn. Nit vergabens han unsri heidnischi Vorfahra Prischterinna gha, wu in d’Züekunft han kenna lüega... -— Ja, a Froi fühlt oft, was im Mannerverstand verborga!
 
           
-",wagner-die-greifensteiner,48,5,0.5674501255587778,0.10416666666666667
+",35,wagner-die-greifensteiner,48,5,0.5674501255587778,0.10416666666666667
 106,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1044,7 +1044,7 @@ HUGO:
 S’isch g’schah! — Mr kenna nimm zruck. — Jedes Wenn und Hätt ich, isch umsunscht. Vorwärts!
 
           
-",wagner-die-greifensteiner,18,2,0.7710289808297734,0.1111111111111111
+",35,wagner-die-greifensteiner,18,2,0.7710289808297734,0.1111111111111111
 107,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1053,7 +1053,7 @@ WALTER:
 Wurum nimm zruck kenna? Beweg Di Brüeder, Dir Gald zu gah... un sag... das seig Di einzig Ziel gsih... — S’andra seig vergassa.. s’war nur a kleini Racha gsih an Adelinde un Dim Brüeder!! -—- Ich bin sicher, Di Brüeder verzeiht Dir, verzählt keim Mansch, wäs gschah, üs Rücksicht uf d’Familia- ehr. — Un alles kann noch güet wara!
 
           
-",wagner-die-greifensteiner,66,16,0.7077890906940987,0.24242424242424243
+",35,wagner-die-greifensteiner,66,16,0.7077890906940987,0.24242424242424243
 108,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1062,7 +1062,7 @@ HUGO:
 Das könna mr immer noch so macha wenn mr wann — un ich gloib, as ich nie will. — Ah — mi Brüeder zruck loh zu ihr!! Ah!!! wenn Dü wisstig’sch, wie’s Fir lodert in mim Büesa, wenn ich nur an sie dank — un siter mim Bsüech nur noch mehr!! — Nai, -— nai! Ehnder in’s Verdarwa, in d’Höll! eb ich ihr da gib, wu mir das herrlich Wib gstohla hat!!
 
           
-",wagner-die-greifensteiner,77,9,0.4856915400274658,0.11688311688311688
+",36,wagner-die-greifensteiner,77,9,0.4856915400274658,0.11688311688311688
 109,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1073,7 +1073,7 @@ Armer Frind!! Was für a arm, leidschaftlich Harz Dü hasch!! Wie tobt dr Sturm 
 .
 
           
-",wagner-die-greifensteiner,50,13,0.4727046947707035,0.26
+",36,wagner-die-greifensteiner,50,13,0.4727046947707035,0.26
 110,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1082,7 +1082,7 @@ HUGO:
 Dr Turmwächter stosst ins Horn! As kummt Besüech! Wer mag das si?
 
           
-",wagner-die-greifensteiner,13,1,0.6952458170410636,0.07692307692307693
+",36,wagner-die-greifensteiner,13,1,0.6952458170410636,0.07692307692307693
 111,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1091,7 +1091,7 @@ WALTER:
 Ich will schnall ge lüega.
 
           
-",wagner-die-greifensteiner,6,1,0.711452961709516,0.16666666666666666
+",37,wagner-die-greifensteiner,6,1,0.711452961709516,0.16666666666666666
 112,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1102,7 +1102,7 @@ Walter! Dü treua, goldiga Walter! Ar meint’s güet mit mir. Un viellicht sot 
 .
 
           
-",wagner-die-greifensteiner,45,7,0.7028450410671914,0.15555555555555556
+",37,wagner-die-greifensteiner,45,7,0.7028450410671914,0.15555555555555556
 114,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1116,7 +1116,7 @@ Sin mir freidig willkumma, Ritter Konrad. Was fiahrt Eich zu mir?
 .
 
           
-",wagner-die-greifensteiner,32,2,0.8206521336804691,0.0625
+",38,wagner-die-greifensteiner,32,2,0.8206521336804691,0.0625
 115,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1128,7 +1128,7 @@ HUGO :
 Was soll das heissa! Sin Ihr kumma mich zu beleidiga?
 
           
-",wagner-die-greifensteiner,14,3,0.40736570039075065,0.21428571428571427
+",38,wagner-die-greifensteiner,14,3,0.40736570039075065,0.21428571428571427
 116,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1137,7 +1137,7 @@ KONRAD:
 Wurum ich kumm? Will’s kurz fassa: Eier Brüe- der isch verschwunda!
 
           
-",wagner-die-greifensteiner,14,3,0.39392048135141616,0.21428571428571427
+",38,wagner-die-greifensteiner,14,3,0.39392048135141616,0.21428571428571427
 117,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1149,7 +1149,7 @@ HUGO :
 Leider! Mir trürä oi um unsera Brüeder!
 
           
-",wagner-die-greifensteiner,11,3,0.38758665285156324,0.2727272727272727
+",39,wagner-die-greifensteiner,11,3,0.38758665285156324,0.2727272727272727
 118,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -1161,7 +1161,7 @@ KONRAD :
 Bi glaarti Bacher un volla Kanna!
 
           
-",wagner-die-greifensteiner,15,2,0.5312239348351554,0.13333333333333333
+",39,wagner-die-greifensteiner,15,2,0.5312239348351554,0.13333333333333333
 119,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1170,7 +1170,7 @@ HUGO:
 Höll un Teifel! Herr Konrad, Ihr sin furchtbar bis- sig. — Doch witersch, was hat das mit Eirem Bsüech do zu tüe!
 
           
-",wagner-die-greifensteiner,24,5,0.3356369645734521,0.20833333333333334
+",39,wagner-die-greifensteiner,24,5,0.3356369645734521,0.20833333333333334
 120,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -1182,7 +1182,7 @@ KONRAD :
 Ihr, Herr Hugo von Greifenstein, stehn im Verdacht, Eier Brüeder uf d’Sit geschafft zu ha.
 
           
-",wagner-die-greifensteiner,23,5,0.5713330652280283,0.21739130434782608
+",40,wagner-die-greifensteiner,23,5,0.5713330652280283,0.21739130434782608
 121,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1194,7 +1194,7 @@ HUGO :
 Wer behoiptet das, wer verleumdet mich?
 
           
-",wagner-die-greifensteiner,13,1,0.1406701938308152,0.07692307692307693
+",40,wagner-die-greifensteiner,13,1,0.1406701938308152,0.07692307692307693
 122,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1203,7 +1203,7 @@ KONRAD:
 D’Froi vo Eirem Brüeder — s’Volk oi klagt Eich an.
 
           
-",wagner-die-greifensteiner,13,1,0.8663948436837723,0.07692307692307693
+",40,wagner-die-greifensteiner,13,1,0.8663948436837723,0.07692307692307693
 123,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1212,7 +1212,7 @@ HUGO:
 Bewiesa mir, was Ihr: do behoipta oder — Höll un Teifel — ich will Eich lehra, so Anklaga mir ins Gsicht zu schleudra.
 
           
-",wagner-die-greifensteiner,24,8,0.41850453037000723,0.3333333333333333
+",41,wagner-die-greifensteiner,24,8,0.41850453037000723,0.3333333333333333
 124,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1221,7 +1221,7 @@ KONRAD:
 Bewies — ja — Bewies — han mir noch keini, die wann mir uns erscht verschaffa. — Awer so Manches spricht gega Eich. Eier Betraga gega Adelinde un Eierm Brüeder, sit die zwei ehelich verbunda sin. — Adelinde hat sich mir anvertroit, im alta Familiafrind, mir gsait, as das a Rachaakt vo Eich seig — will Ihr — — — Nu ja — Ihr wara wissa...!
 
           
-",wagner-die-greifensteiner,67,10,0.5428730759297189,0.14925373134328357
+",41,wagner-die-greifensteiner,67,10,0.5428730759297189,0.14925373134328357
 125,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1230,7 +1230,7 @@ HUGO:
 Ich weiss nit, was Ihr wella sagal Wiwergschwatz wurd’s sie. Ich verzeih Adelinde. — Sie isch ufgeregt — ihr Schmarz, das macht si ungeracht, misstroisch... doch witerscht.
 
           
-",wagner-die-greifensteiner,29,4,0.3465456570042781,0.13793103448275862
+",41,wagner-die-greifensteiner,29,4,0.3465456570042781,0.13793103448275862
 126,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1239,7 +1239,7 @@ KONRAD:
 Mr verzehlt sich oi, un isch das oi Wiwer- gschwatz? Ihr seiga in jener Sturmnacht üs dr Burg ganga.
 
           
-",wagner-die-greifensteiner,21,1,0.5092957735918235,0.047619047619047616
+",42,wagner-die-greifensteiner,21,1,0.5092957735918235,0.047619047619047616
 127,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1248,7 +1248,7 @@ HUGO:
 An jenem Owa bin ich krank im Bett gsih. Mir han dr Tag vorhar fescht gezecht in Strossburg — — — un mich druf so wenig wohl gfühlt, as ich frieh ins Bett bin. Do mi Frind Walter isch bi mir gsassa am Bett un hat mir verzehlt.
 
           
-",wagner-die-greifensteiner,49,4,0.6146492758275579,0.08163265306122448
+",42,wagner-die-greifensteiner,49,4,0.6146492758275579,0.08163265306122448
 128,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1257,7 +1257,7 @@ KONRAD:
 Walter isch salwr im Verdacht, bi Eich gsih zu si.
 
           
-",wagner-die-greifensteiner,11,1,0.309561530610798,0.09090909090909091
+",42,wagner-die-greifensteiner,11,1,0.309561530610798,0.09090909090909091
 130,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1266,7 +1266,7 @@ KONRAD:
 In jener Nacht han zwei Holzhoier, dr alt Chrischtian un dr Toni üsgsait, sie gloiwa ghört ha um Hilf zu schreia, gar nit wit vo Greifastein. Doch han sie gmeint, s’isch s’Nacht gjaid un sin furt ganga !
 
           
-",wagner-die-greifensteiner,40,3,0.6223701127790447,0.075
+",43,wagner-die-greifensteiner,40,3,0.6223701127790447,0.075
 131,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1275,7 +1275,7 @@ HUGO:
 Das isch jo alles wohl möglich. Doch wurum mir grad das Verbrecha solla beganga han — un grad ich, wu noch nie a Streit mit mim Brüeder gha han? As isch doch a starki Züemüetung, Ritter Konrad!
 
           
-",wagner-die-greifensteiner,38,6,0.6669281340236096,0.15789473684210525
+",43,wagner-die-greifensteiner,38,6,0.6669281340236096,0.15789473684210525
 132,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1284,7 +1284,7 @@ KONRAD:
 As git a Mittel Eiri Unschuld zu bewiesa!
 
           
-",wagner-die-greifensteiner,9,3,0.6160718179518588,0.3333333333333333
+",44,wagner-die-greifensteiner,9,3,0.6160718179518588,0.3333333333333333
 134,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1293,7 +1293,7 @@ KONRAD:
 Oeffne mir d’Burgverliess — awer alli, oi d’Gheima, denn ich weiss do Bscheid. Drno reda mir wieder iwer dia Sach!!
 
           
-",wagner-die-greifensteiner,23,1,0.388,0.043478260869565216
+",44,wagner-die-greifensteiner,23,1,0.388,0.043478260869565216
 135,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1302,7 +1302,7 @@ HUGO:
 Ei, wenn’s an dam fahlt, so kenna Ihr s’ganza Schloss bsichtiga, vom Kaller un da Burgverliess bis uf dr Spei- cher un alli Höf, alli Türm! Do Walter, fiehr da edla Ritter iwerall wu ar will. Loss kei Schloss verschlossa, wu ar itrata möcht...
 
           
-",wagner-die-greifensteiner,48,6,0.501863757765138,0.125
+",45,wagner-die-greifensteiner,48,6,0.501863757765138,0.125
 136,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -1318,7 +1318,7 @@ Isch das Eier Arnscht?
  So kumma, Walter!!!
 
           
-",wagner-die-greifensteiner,50,9,0.48237410974059725,0.18
+",45,wagner-die-greifensteiner,50,9,0.48237410974059725,0.18
 137,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1336,7 +1336,7 @@ Konrad von Lichtenberg isch schloi — awer — noch nit schloi genüa für mich
 .
 
           
-",wagner-die-greifensteiner,180,25,0.6608117763377434,0.1388888888888889
+",45,wagner-die-greifensteiner,180,25,0.6608117763377434,0.1388888888888889
 138,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BOTE:
@@ -1345,7 +1345,7 @@ BOTE:
 Grüess un Heil im edla Hugo von Greifenstein. Unser hochw. Herr Fürstbischof Berthold von Teck vo Stros- burg sandet sim edla Lehnsmann vo Hohbarr Grües un Saga un die wichtigi Urkund do!
 
           
-",wagner-die-greifensteiner,34,6,0.7047508322874889,0.17647058823529413
+",46,wagner-die-greifensteiner,34,6,0.7047508322874889,0.17647058823529413
 140,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BOTE:
@@ -1354,7 +1354,7 @@ BOTE:
 Nein, ich ritt sofort zuruck an dr Hof. —
 
           
-",wagner-die-greifensteiner,10,1,0.588502276943852,0.1
+",46,wagner-die-greifensteiner,10,1,0.588502276943852,0.1
 141,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1363,7 +1363,7 @@ HUGO:
 Doch nit ohne a kleina Imbiss zu namma in dr Kuch und um Eich zu laba am a Trunk.
 
           
-",wagner-die-greifensteiner,20,1,0.4500714498188866,0.05
+",47,wagner-die-greifensteiner,20,1,0.4500714498188866,0.05
 142,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BOTE:
@@ -1374,7 +1374,7 @@ Han Dank, edler Herr. — A kleini Stärkung schlag ich nit ab nach solch’m a 
 .
 
           
-",wagner-die-greifensteiner,35,9,0.7044532855869942,0.2571428571428571
+",47,wagner-die-greifensteiner,35,9,0.7044532855869942,0.2571428571428571
 143,drama,Hugo von Greifenstein,M,,,,"
 		    
 HUGO:
@@ -1392,7 +1392,7 @@ HUGO:
 . Bi jeder andra Zit hät ich solchi Botschaft mit Freida begriesst, tüet sie mir doch verheissa, was mi Harz erstrebt: Kampf, Sieg, Ehr! Oi — ich erkenn’s an — a hohi Ehr hat mir mi Bischöflicha Herr wella erwiesa, un a bsunder Vertroia —!!! Ah, wenn er tat wissa!!!! — Awer — was jetz — —! Kumt denn Walter nit bol zruck!! — Jetzt heisst’s handla, schnall und klug! zu handla mit feschter Hand!!
 
 		    
-",wagner-die-greifensteiner,288,52,0.5980586743765668,0.18055555555555555
+",47,wagner-die-greifensteiner,288,52,0.5980586743765668,0.18055555555555555
 144,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -1406,7 +1406,7 @@ Ich hab Eich vorhar mini Hand verweigert. Do isch si! Mir han Eich Unracht geto.
 .
 
           
-",wagner-die-greifensteiner,88,12,0.38192159604444004,0.13636363636363635
+",48,wagner-die-greifensteiner,88,12,0.38192159604444004,0.13636363636363635
 145,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1415,7 +1415,7 @@ HUGO:
 Soll Racht sie, Ritter Konrad! — Ihr han nix als Eiri Pflicht geto! Saga jetz in miner Geschwieh viel scheni Griess. — Ich tat ihr ihra Verdacht verzeiha. Niemols tat ich sie so lieda loh, ich hab sie do drzüa viel zu liab gha. — Das isch mi Abschiedswort an sie.
 
           
-",wagner-die-greifensteiner,52,10,0.6361549981808906,0.19230769230769232
+",48,wagner-die-greifensteiner,52,10,0.6361549981808906,0.19230769230769232
 146,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1424,7 +1424,7 @@ KONRAD:
 Abschiedswort? Was soll das heissa?
 
           
-",wagner-die-greifensteiner,6,1,0.5093656120010462,0.16666666666666666
+",48,wagner-die-greifensteiner,6,1,0.5093656120010462,0.16666666666666666
 147,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1435,7 +1435,7 @@ Hit noch zieh ich furt. Fürstbischof von Teck rüschtet zum Kreuzzug un hat mir
 .
 
           
-",wagner-die-greifensteiner,29,1,0.592,0.034482758620689655
+",49,wagner-die-greifensteiner,29,1,0.592,0.034482758620689655
 148,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -1444,7 +1444,7 @@ KONRAD:
 Mi Glückwunsch! Das isch a hohi Ehr!! Ich winsch Eich viel Glück und Ehr un rühmbedeckti Heimkehr!! — Will nimm länger störe! Eiri Zit wurd koschtbar si! Ich gang — awer a schwarer Verdacht isch mir vom Harza gnumma. So lawa wohl, Hugo!!
 
           
-",wagner-die-greifensteiner,44,13,0.7229766431815821,0.29545454545454547
+",49,wagner-die-greifensteiner,44,13,0.7229766431815821,0.29545454545454547
 149,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1453,7 +1453,7 @@ HUGO:
 Un a harzlich Labwohl an Adelinde. Miesst ich nit unverzüglich ufbracha, so tat ich salwer noch Abschied namma vo ihr. Un noch eins! Ich kann nimm noch mim unglücklicha Brüeder süecha. Ritter Konrad, so rühe nit, bis mi Brüeder gfunda, un dar, wu Hand an ihn glegt, gstroft isch!
 
           
-",wagner-die-greifensteiner,50,9,0.582455982654004,0.18
+",49,wagner-die-greifensteiner,50,9,0.582455982654004,0.18
 150,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -1469,7 +1469,7 @@ Ich wur nit raschta un nit rühe, bis dr Verbracher gfunda un entlarvt isch un d
 .
 
           
-",wagner-die-greifensteiner,60,12,0.6690292737929536,0.2
+",50,wagner-die-greifensteiner,60,12,0.6690292737929536,0.2
 151,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1481,7 +1481,7 @@ HUGO :
 Jo, alter Narr. — — Dü un dr Ver- bracher entlarva!!
 
           
-",wagner-die-greifensteiner,17,4,0.4648483152123921,0.23529411764705882
+",50,wagner-die-greifensteiner,17,4,0.4648483152123921,0.23529411764705882
 152,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1490,7 +1490,7 @@ WALTER:
 An Eier Stell war’s mir nit zum Lacha!! — Un jetz?
 
           
-",wagner-die-greifensteiner,13,2,0.7316221776566854,0.15384615384615385
+",50,wagner-die-greifensteiner,13,2,0.7316221776566854,0.15384615384615385
 153,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1499,7 +1499,7 @@ HUGO:
 Un jetz? Ja, a güeter Rat isch Gold wart. — Das isch sicher, Dü müesch do bliewa un mi Platz inamma!
 
           
-",wagner-die-greifensteiner,22,4,0.719427439916561,0.18181818181818182
+",51,wagner-die-greifensteiner,22,4,0.719427439916561,0.18181818181818182
 154,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1508,7 +1508,7 @@ WALTER:
 Mi Platz isch an Diner Sit, doppelt jetz in Not un Gfahr!! Ans dobliwa isch nit zu danka. Dr alt Burgvogt wurd’s wohl allei kenna versah, s’Schloss zu verwahra wu tiefer Frieda im Land, das kann da alt Mann wohl noch bsorga.
 
           
-",wagner-die-greifensteiner,45,10,0.560712034063297,0.2222222222222222
+",51,wagner-die-greifensteiner,45,10,0.560712034063297,0.2222222222222222
 155,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1517,7 +1517,7 @@ HUGO:
 Awer dr Gfanga — wer soll ihm si bissel Nahrung reicha?
 
           
-",wagner-die-greifensteiner,12,1,0.235,0.08333333333333333
+",51,wagner-die-greifensteiner,12,1,0.235,0.08333333333333333
 156,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1526,7 +1526,7 @@ WALTER:
 Ich wiederhols noch emol. Loss Di Brüeder frei, jetz gar! Es winkt Dir Ehr un Rühm. Bitt Di Brüeder um Verzei- hung. Jetz, wu Dü in dr Kreuzzug gehsch, scheida tüesch, viel- licht für immer, mach Dini Rachnung in Ordnung. Diner Brüe- der tüet Dir gwiss vo Harza verzeiha..
 
           
-",wagner-die-greifensteiner,53,13,0.6859218257014589,0.24528301886792453
+",52,wagner-die-greifensteiner,53,13,0.6859218257014589,0.24528301886792453
 157,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1538,7 +1538,7 @@ HUGO :
 Was? — frei loh? Jetz wu alles wie noch Wunsch loift? Kumm ich zruck als rühmbedeckter Krieger, gloib mir, Adelinde — wurd doch noch mi. Dü waisch nit was mir das Wib bedit.
 
           
-",wagner-die-greifensteiner,37,7,0.5024028339726091,0.1891891891891892
+",52,wagner-die-greifensteiner,37,7,0.5024028339726091,0.1891891891891892
 158,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1547,7 +1547,7 @@ WALTER:
 Kummsch Dü zruck. Ja, wenn’s Dir iwerhoipt eber kennt garantiera. Dü boisch uf a wenn !! — As gibt a blü- tiga Kampf zu besteh. D’ansteckenda Krankheita sin ewaso zu ferchta, — Gfangaschaft kann unser Los si... — Vergiss das nit!! — Di Brüeder kummt um un verdirbt umsunscht in furchtbar harter Gfangaschaft. Dü hasch a Verbracha uf Dini Seel glada — nutzlos, ohna nur je Di Ziel zu erreicha!!!
 
           
-",wagner-die-greifensteiner,73,19,0.5282585510240211,0.2602739726027397
+",52,wagner-die-greifensteiner,73,19,0.5282585510240211,0.2602739726027397
 159,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1559,7 +1559,7 @@ HUGO :
 Do soll da Dieb, wu mir Adelinde gstohla hat, sie oi nit bsitza.
 
           
-",wagner-die-greifensteiner,17,3,0.29962085754956225,0.17647058823529413
+",53,wagner-die-greifensteiner,17,3,0.29962085754956225,0.17647058823529413
 160,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1568,7 +1568,7 @@ WALTER:
 Ar hat sie Euch nit gstohla!
 
           
-",wagner-die-greifensteiner,7,1,0.156,0.14285714285714285
+",53,wagner-die-greifensteiner,7,1,0.156,0.14285714285714285
 161,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1577,7 +1577,7 @@ HUGO:
 Still!! Still, sag ich!! — Sunscht vergiss ich, dass Dü mi Frind bisch! — S’isch kei Zit mehr zu moralischa Be- trachtunga! — Geh! hol mr dr Koch!
 
           
-",wagner-die-greifensteiner,31,7,0.5685427963952473,0.22580645161290322
+",53,wagner-die-greifensteiner,31,7,0.5685427963952473,0.22580645161290322
 162,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1586,7 +1586,7 @@ WALTER:
 Dr Koch?
 
           
-",wagner-die-greifensteiner,3,1,0.417,0.3333333333333333
+",54,wagner-die-greifensteiner,3,1,0.417,0.3333333333333333
 163,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1595,7 +1595,7 @@ HUGO:
 Ja, dr Koch!
 
           
-",wagner-die-greifensteiner,4,2,0.5744912395599275,0.5
+",54,wagner-die-greifensteiner,4,2,0.5744912395599275,0.5
 165,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1606,7 +1606,7 @@ Fascht häit mich da güat Walter wankend gmacht. — Doch s’därf nit si. Dr 
 . Ich will lawa! Vorwarts kumma, un wenn mi Füess müess schritta iwer blüetigi Leicha! Ich will d’Züekunft
 
           
-",wagner-die-greifensteiner,97,13,0.44683252128339873,0.13402061855670103
+",55,wagner-die-greifensteiner,97,13,0.44683252128339873,0.13402061855670103
 166,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1615,7 +1615,7 @@ HUGO:
 Koch, ich han mit Dir zu reda — ebs arnscht’s, ebs wichtigs, so wichtig as Dü keinem Mansch derfsch je a Wort drfu anvertroia. Dü müesch’s sogar schwöra as das, was ich Dir anvertroi, ewig gheim blibt.
 
           
-",wagner-die-greifensteiner,40,10,0.5507836719695642,0.25
+",55,wagner-die-greifensteiner,40,10,0.5507836719695642,0.25
 167,drama,Koch,M,,,,"
             
 KOCH:
@@ -1624,7 +1624,7 @@ KOCH:
 Herr, mir wurd jo ganz bang!
 
           
-",wagner-die-greifensteiner,7,3,0.5987296527471825,0.42857142857142855
+",55,wagner-die-greifensteiner,7,3,0.5987296527471825,0.42857142857142855
 168,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1635,7 +1635,7 @@ Do schwör uf mi Schwart, zu schwiega!
 .
 
           
-",wagner-die-greifensteiner,13,1,0.714,0.07692307692307693
+",56,wagner-die-greifensteiner,13,1,0.714,0.07692307692307693
 169,drama,Koch,M,,,,"
             
 KOCH:
@@ -1644,7 +1644,7 @@ KOCH:
 Ich schwör’s!!
 
           
-",wagner-die-greifensteiner,4,1,0.417,0.25
+",56,wagner-die-greifensteiner,4,1,0.417,0.25
 170,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1658,7 +1658,7 @@ Un soll’sch Dü die Schwur nit halta, so stirbsch Dü durch das Schwart. Die K
 .
 
           
-",wagner-die-greifensteiner,26,3,0.39957788051220294,0.11538461538461539
+",56,wagner-die-greifensteiner,26,3,0.39957788051220294,0.11538461538461539
 171,drama,Koch,M,,,,"
             
 KOCH :
@@ -1670,7 +1670,7 @@ KOCH :
 Awer Herr! Ich wur jo ganz schwiegsam sie, wie a Grab.
 
           
-",wagner-die-greifensteiner,15,5,0.472997844969748,0.3333333333333333
+",57,wagner-die-greifensteiner,15,5,0.472997844969748,0.3333333333333333
 172,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1679,7 +1679,7 @@ HUGO:
 Hasch güet Racht! Denn bevor ich Dich do mit dar Kling in d’ander Walt gat befördra, tata mir Dich noch a bissel foltra. A Monet lang alle Tag drei mol. — Denn a gross Staats- geheimnis isch’s wü Dü verrota tat’sch!!
 
           
-",wagner-die-greifensteiner,45,6,0.5782820929601722,0.13333333333333333
+",57,wagner-die-greifensteiner,45,6,0.5782820929601722,0.13333333333333333
 173,drama,Koch,M,,,,"
             
 KOCH :
@@ -1691,7 +1691,7 @@ KOCH :
 A Staatsgeheimnis!!! Herr, sei mir gna- dig!!
 
           
-",wagner-die-greifensteiner,12,3,0.35956965061519036,0.25
+",57,wagner-die-greifensteiner,12,3,0.35956965061519036,0.25
 174,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1700,7 +1700,7 @@ HUGO:
 Jawohl! Hör. — In dam Schloss isch a Gfangener, wue niemets därft ebs drfu wissa!!! — Uebrigens — Walter — hasch Dü im Koch scho gsait as mir hit Nacht scho verreisa?
 
           
-",wagner-die-greifensteiner,33,3,0.3255078348871597,0.09090909090909091
+",58,wagner-die-greifensteiner,33,3,0.3255078348871597,0.09090909090909091
 175,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -1709,7 +1709,7 @@ WALTER:
 Ar isch uf’m Loifenda!!!
 
           
-",wagner-die-greifensteiner,6,1,0.714,0.16666666666666666
+",58,wagner-die-greifensteiner,6,1,0.714,0.16666666666666666
 176,drama,Koch,M,,,,"
             
 KOCH:
@@ -1719,7 +1719,7 @@ Ich weiss es scho, Herr, as Ihr uf dr Krizzug geh und Feldhoiptmann vo da Bisch�
 (Abseits: Wenn’r nur scho war im Heiliga Land! Mir grüselt’s vor dam Staatsgeheimnis.)
 
           
-",wagner-die-greifensteiner,42,9,0.6810638319684958,0.21428571428571427
+",58,wagner-die-greifensteiner,42,9,0.6810638319684958,0.21428571428571427
 177,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1728,7 +1728,7 @@ HUGO:
 Dr alt Burgvogt hietet die Burg — bis mir wieder zruck kumma. Awer oi da därf nix erfahre! Ar isch alt, sieht un hört nimm güet. In Wirklichkeit bisch Dü Chef, denn wer dr Maga kummadiert, da kummadiert dr Mann! Un Dü hasch
 
           
-",wagner-die-greifensteiner,44,5,0.6935351071708661,0.11363636363636363
+",59,wagner-die-greifensteiner,44,5,0.6935351071708661,0.11363636363636363
 178,drama,Koch,M,,,,"
             
 KOCH:
@@ -1737,7 +1737,7 @@ KOCH:
 Un — das Staatsgeheimnis — Herr??
 
           
-",wagner-die-greifensteiner,7,2,0.49785447592278553,0.2857142857142857
+",59,wagner-die-greifensteiner,7,2,0.49785447592278553,0.2857142857142857
 179,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1746,7 +1746,7 @@ HUGO:
 Mir sin jetz drbi! — Dr Gfanga, vo dam ich gred han, da isch nit in da gwöhlicha Gfangnis, da isch im alta Brunna.
 
           
-",wagner-die-greifensteiner,25,2,0.1911729238715112,0.08
+",59,wagner-die-greifensteiner,25,2,0.1911729238715112,0.08
 180,drama,Koch,M,,,,"
             
 KOCH :
@@ -1758,7 +1758,7 @@ KOCH :
 Im alta Brunna??
 
           
-",wagner-die-greifensteiner,7,1,0.417,0.14285714285714285
+",60,wagner-die-greifensteiner,7,1,0.417,0.14285714285714285
 182,drama,Koch,M,,,,"
             
 KOCH:
@@ -1767,7 +1767,7 @@ KOCH:
 An da han ich nimm gedankt. — Dert drin soll dr Gfangana sin???
 
           
-",wagner-die-greifensteiner,14,2,0.2745353644169953,0.14285714285714285
+",60,wagner-die-greifensteiner,14,2,0.2745353644169953,0.14285714285714285
 184,drama,Koch,M,,,,"
             
 KOCH :
@@ -1781,7 +1781,7 @@ Jeses, um Mitternacht!! — Do gehn jo d’Geischter um!!! Hugo
 : Un wenn Dü umgehsch, noch a Nacht- kalb!!
 
           
-",wagner-die-greifensteiner,28,5,0.5819177943000311,0.17857142857142858
+",61,wagner-die-greifensteiner,28,5,0.5819177943000311,0.17857142857142858
 185,drama,Koch,M,,,,"
             
 KOCH:
@@ -1790,7 +1790,7 @@ KOCH:
 Sisch wirklich nit zu spassa. — Kann ich nit wenigschtens gega zehna z’Nacht — dert ana geh?
 
           
-",wagner-die-greifensteiner,19,2,0.3097727368619741,0.10526315789473684
+",61,wagner-die-greifensteiner,19,2,0.3097727368619741,0.10526315789473684
 187,drama,Koch,M,,,,"
             
 KOCH:
@@ -1799,7 +1799,7 @@ KOCH:
 Oder noch besser am Tag — wenn niemets um d’Wag isch? ?
 
           
-",wagner-die-greifensteiner,13,1,0.417,0.07692307692307693
+",62,wagner-die-greifensteiner,13,1,0.417,0.07692307692307693
 188,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1813,7 +1813,7 @@ Oder noch besser gar nit — gal?
 : Weh Dir Dü Feigling!! Weh Dir, wenn durch Dini Schuld a Mansch ebs erfahrt!
 
           
-",wagner-die-greifensteiner,29,5,0.3587927439356814,0.1724137931034483
+",62,wagner-die-greifensteiner,29,5,0.3587927439356814,0.1724137931034483
 189,drama,Koch,M,,,,"
             
 KOCH:
@@ -1822,7 +1822,7 @@ KOCH:
 Ich gang jo z’Nacht, nur nit in dr Geischterstund!!! — Was soll i aber kocha...? für da Gfangana vom Staatsgeheimnis.
 
           
-",wagner-die-greifensteiner,22,3,0.3220235762779969,0.13636363636363635
+",63,wagner-die-greifensteiner,22,3,0.3220235762779969,0.13636363636363635
 190,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -1834,7 +1834,7 @@ WALTER :
 Ob mr will oder nit mit dam Dolla ınües mr lacha.
 
           
-",wagner-die-greifensteiner,15,2,0.5969581124857861,0.13333333333333333
+",63,wagner-die-greifensteiner,15,2,0.5969581124857861,0.13333333333333333
 191,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1843,7 +1843,7 @@ HUGO:
 Kocha? Do isch schnall üskocht. Da bekummt Wasser un Brot un eimol in der Wuch a klei Stück Fleisch!
 
           
-",wagner-die-greifensteiner,20,2,0.564226480854758,0.1
+",63,wagner-die-greifensteiner,20,2,0.564226480854758,0.1
 192,drama,Koch,M,,,,"
             
 KOCH:
@@ -1852,7 +1852,7 @@ KOCH:
 Da arm Mansch!!
 
           
-",wagner-die-greifensteiner,4,3,0.4691470016240151,0.75
+",64,wagner-die-greifensteiner,4,3,0.4691470016240151,0.75
 193,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1861,7 +1861,7 @@ HUGO:
 Nit bedürt! Un as Dü’s weisch, as isch a schlim- mer Mansch, wu unser Hochwürdiga Fürstbischof hat wella er- morda!!!
 
           
-",wagner-die-greifensteiner,24,3,0.37872150160967233,0.125
+",64,wagner-die-greifensteiner,24,3,0.37872150160967233,0.125
 194,drama,Koch,M,,,,"
             
 KOCH :
@@ -1873,7 +1873,7 @@ KOCH :
 Un so a gfahrlicha Mansch soll ich hieta!!! Un in dam wann Ihr noch Fleisch ga???
 
           
-",wagner-die-greifensteiner,20,4,0.4402551068852358,0.2
+",64,wagner-die-greifensteiner,20,4,0.4402551068852358,0.2
 196,drama,Koch,M,,,,"
             
 KOCH:
@@ -1882,7 +1882,7 @@ KOCH:
 Dam will ich’s kocha! Jawohl, dam Schuft will ich’s kocha!
 
           
-",wagner-die-greifensteiner,13,3,0.417,0.23076923076923078
+",65,wagner-die-greifensteiner,13,3,0.417,0.23076923076923078
 197,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1894,7 +1894,7 @@ HUGO :
 Sisch a hochadeliger Mann! Drum därf niemets nix wissa! nix erfahra. Sini Lit lehn iwerall nofor- scha, un weh, wenn si Verdacht fassa! Im Vertroia gsait, un s’weiss es noch niemets, dia Lit han scho mi Brüeder ewag gschafft, will mi Brüeder salig amol a Streit mit’m gha hat.
 
           
-",wagner-die-greifensteiner,56,10,0.5815467439419051,0.17857142857142858
+",65,wagner-die-greifensteiner,56,10,0.5815467439419051,0.17857142857142858
 198,drama,Koch,M,,,,"
             
 KOCH :
@@ -1906,7 +1906,7 @@ KOCH :
 Sin das schrecklichi Lit. Sin das schrecklichi Staatsgheimnis!
 
           
-",wagner-die-greifensteiner,12,4,0.22518623943860927,0.3333333333333333
+",66,wagner-die-greifensteiner,12,4,0.22518623943860927,0.3333333333333333
 199,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1915,7 +1915,7 @@ HUGO:
 Also gschwiega — gschwiega — denn uf alla Sita winkt Vergaltung, Racha, Folterkammer, a schrecklig And!!
 
           
-",wagner-die-greifensteiner,17,4,0.3473425793576855,0.23529411764705882
+",66,wagner-die-greifensteiner,17,4,0.3473425793576855,0.23529411764705882
 200,drama,Koch,M,,,,"
             
 KOCH :
@@ -1927,7 +1927,7 @@ KOCH :
 Isch das schrecklig, so na Staatsgeheimnis zu hieta !
 
           
-",wagner-die-greifensteiner,12,2,0.30868623943860923,0.16666666666666666
+",66,wagner-die-greifensteiner,12,2,0.30868623943860923,0.16666666666666666
 201,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -1936,7 +1936,7 @@ HUGO:
 Un loss Dir’s nit ifalla, a Wort mit’m zu reda. S’isch noch e Schwarzkünschtler. S’erschta Wort wu ar vo Dir hört, s’erschta Wort, wu awastiegt an si Ohr un Dü bisch verlora — bekummt ar Macht iwer Dich? Im Oigeblick kann ar Dich awa- ziega un sich salwer befreia.
 
           
-",wagner-die-greifensteiner,56,9,0.43889629163154475,0.16071428571428573
+",67,wagner-die-greifensteiner,56,9,0.43889629163154475,0.16071428571428573
 202,drama,Koch,M,,,,"
             
 KOCH :
@@ -1948,7 +1948,7 @@ KOCH :
 Ohna Strick?
 
           
-",wagner-die-greifensteiner,8,1,0.417,0.125
+",67,wagner-die-greifensteiner,8,1,0.417,0.125
 203,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1960,7 +1960,7 @@ HUGO :
 Ohna Strick! Das isch ganz unheimlich was so na Schwarzkünschtler kann.
 
           
-",wagner-die-greifensteiner,15,2,0.6123868398355525,0.13333333333333333
+",67,wagner-die-greifensteiner,15,2,0.6123868398355525,0.13333333333333333
 204,drama,Koch,M,,,,"
             
 KOCH :
@@ -1972,7 +1972,7 @@ KOCH :
 Unheimlich isch das alles. Weh mir. Awer — Herr, wenn da Mansch stirbt — soll ich’s drno im Bischof malda??
 
           
-",wagner-die-greifensteiner,25,5,0.4820224419524319,0.2
+",68,wagner-die-greifensteiner,25,5,0.4820224419524319,0.2
 205,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -1984,7 +1984,7 @@ HUGO :
 Niemols, Dü Dolla!! Meinsch Dü, so a Dolla losst mr zum Fürstbischof?
 
           
-",wagner-die-greifensteiner,16,3,0.26588335467638474,0.1875
+",68,wagner-die-greifensteiner,16,3,0.26588335467638474,0.1875
 206,drama,Koch,M,,,,"
             
 KOCH :
@@ -1996,7 +1996,7 @@ KOCH :
 Wenn mr awer a Staatsgheimnis hietet?
 
           
-",wagner-die-greifensteiner,10,2,0.33372289960976875,0.2
+",68,wagner-die-greifensteiner,10,2,0.33372289960976875,0.2
 207,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2005,7 +2005,7 @@ HUGO:
 Eb Dü vorgloh wursch, han Dich zwanzig üsgfrogt. Entweder saisch Dü ebs, babelsch Dü, drno weh Dir! Dr nachscht Morga frassa Dich d’Sai in Strosburg — oder Dü säisch nix —- drno jagt mr Dich als a Narr furt. S’därf niemets nix wissa, as mir drei, verstanda!!!
 
           
-",wagner-die-greifensteiner,51,3,0.3750166735691294,0.058823529411764705
+",69,wagner-die-greifensteiner,51,3,0.3750166735691294,0.058823529411764705
 208,drama,Koch,M,,,,"
             
 KOCH :
@@ -2017,7 +2017,7 @@ KOCH :
 Wenn’r awer stirbt, was soll i macha. Si Geischt geht um, bis’r in gweihter Ard rüeht. — Un mit dam Geischt möcht i nit Bekanntschaft macha!!!
 
           
-",wagner-die-greifensteiner,30,4,0.5379007846143434,0.13333333333333333
+",69,wagner-die-greifensteiner,30,4,0.5379007846143434,0.13333333333333333
 209,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2029,7 +2029,7 @@ HUGO :
 Schick na zu mir!!! — Uebrigens, Dü Dolla, hol vom Kirchhof a Sack Arda un kei sie in dr Brunna, drno rüeht’r in gweihter Ard!!!
 
           
-",wagner-die-greifensteiner,29,3,0.25649098393963526,0.10344827586206896
+",69,wagner-die-greifensteiner,29,3,0.25649098393963526,0.10344827586206896
 210,drama,Koch,M,,,,"
             
 KOCH:
@@ -2038,7 +2038,7 @@ KOCH:
 Ja — wenn’r awer nit ganz tot isch?
 
           
-",wagner-die-greifensteiner,9,3,0.6498208285052771,0.3333333333333333
+",70,wagner-die-greifensteiner,9,3,0.6498208285052771,0.3333333333333333
 211,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2051,7 +2051,7 @@ Kei z’ersch e paar grossi Scholla herunter. No brielt’r scho wenn’r noch l
 (Koch nachdenklich.)
 
           
-",wagner-die-greifensteiner,22,3,0.6113333333333334,0.13636363636363635
+",70,wagner-die-greifensteiner,22,3,0.6113333333333334,0.13636363636363635
 212,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -2063,7 +2063,7 @@ WALTER :
 Wie roh sin Hugo’s Reda. S’zerrist fascht mi Harz. Mich seit’s o immer mehr, Blüetsbrüederschaft ihm gschwora zu ha! Mini Hand glehnt zu ha, zu dam abscheulicha Wark. — Wenn mr nit so schnell miessta furt, ich tat a Plan finda... Doch jetz unmöglich!!
 
           
-",wagner-die-greifensteiner,51,8,0.46074659180498584,0.1568627450980392
+",70,wagner-die-greifensteiner,51,8,0.46074659180498584,0.1568627450980392
 214,drama,Koch,M,,,,"
             
 KOCH:
@@ -2072,7 +2072,7 @@ KOCH:
 Nei, s’isch alles klar!
 
           
-",wagner-die-greifensteiner,6,2,0.5964445058092955,0.3333333333333333
+",71,wagner-die-greifensteiner,6,2,0.5964445058092955,0.3333333333333333
 215,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2081,7 +2081,7 @@ HUGO:
 Un noch amol. Richt Dich gnoi noch mina Anwie- sunga. Dank an d’Folter, an mi Schwart un Di Schwur.
 
           
-",wagner-die-greifensteiner,22,4,0.5450151640871853,0.18181818181818182
+",71,wagner-die-greifensteiner,22,4,0.5450151640871853,0.18181818181818182
 216,drama,Koch,M,,,,"
             
 KOCH:
@@ -2090,7 +2090,7 @@ KOCH:
 Kei Angscht. Ich vergiss nix. — Dam will ich’s scho kocha!
 
           
-",wagner-die-greifensteiner,13,3,0.35022379414116794,0.23076923076923078
+",72,wagner-die-greifensteiner,13,3,0.35022379414116794,0.23076923076923078
 217,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2099,7 +2099,7 @@ HUGO:
 Mach di Sach güet, un ich will Dich belohne. Du wursch sicher Oberkoch im Fürstbischöflicha Palascht, als Lohn für Dini Verschwiegaheit un Dini Treue!!!
 
           
-",wagner-die-greifensteiner,25,4,0.775450235318812,0.16
+",72,wagner-die-greifensteiner,25,4,0.775450235318812,0.16
 218,drama,Koch,M,,,,"
             
 KOCH :
@@ -2117,7 +2117,7 @@ Was, saga Ihr; Herr? Ober- koch wur ich, wenn ich alles güet mach?
 : Oberkoch, Oberkoch!!! — Uf baldigs Wiedersah un glicklichi Heimkehr, Herr.
 
           
-",wagner-die-greifensteiner,64,10,0.6465613311125881,0.15625
+",72,wagner-die-greifensteiner,64,10,0.6465613311125881,0.15625
 219,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2128,7 +2128,7 @@ So gang jetz un
 .
 
           
-",wagner-die-greifensteiner,10,1,0.9555242406029352,0.1
+",73,wagner-die-greifensteiner,10,1,0.9555242406029352,0.1
 220,drama,Koch,M,,,,"
             
 KOCH:
@@ -2141,7 +2141,7 @@ Nur unbesorgt, Herr!
  Oberkoch!!
 
           
-",wagner-die-greifensteiner,17,4,0.4480213774075413,0.23529411764705882
+",73,wagner-die-greifensteiner,17,4,0.4480213774075413,0.23529411764705882
 221,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2150,7 +2150,7 @@ WALTER:
 Sisch Zit gsih, as die Sach ufghört hat. Di Lie- gerei hat mich angewiedert.
 
           
-",wagner-die-greifensteiner,16,2,0.4232882920002403,0.125
+",73,wagner-die-greifensteiner,16,2,0.4232882920002403,0.125
 222,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2159,7 +2159,7 @@ HUGO:
 Was wit halt. Mr müess da Lit verspracha, immer ver- spracha. Mr müess s’Lawa meischtra, sunscht meischtert s’Lawa uns, sunscht kummt mr salwer unter d’Räder. Dü siehsch, as geht alles güet. Mi Brüeder kummt im Starbefall noch zu gweihter Ard!
 
           
-",wagner-die-greifensteiner,45,7,0.6933451764754371,0.15555555555555556
+",74,wagner-die-greifensteiner,45,7,0.6933451764754371,0.15555555555555556
 223,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2168,7 +2168,7 @@ WALTER:
 Still!! Spott nit! Trieb kei entsetzlicha Spott mit so heiliga, arnschta Ding. Ich bin a roiha Kriegsmann, uns Gwissa isch nit zart. Awer so wit bin ich doch noch nit gfalla, as ich spotta könnt, so lichtfartig reda könnt iwer so Sacha! — Mit’m a ganza Netz vo Liega hasch Dü Dini Handlung zu schitza gsüecht!! Das alles isch so gschickt anglegt, so schnall gedrach- selt do gstanda, as mir fascht groit vor Dir. — Doch vergiss nit: «Es isch nix so fin gspunna, as kummt doch andlig an d’Sunna».
 
           
-",wagner-die-greifensteiner,96,22,0.5041527657660342,0.22916666666666666
+",74,wagner-die-greifensteiner,96,22,0.5041527657660342,0.22916666666666666
 224,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2183,7 +2183,7 @@ Isch d’Predig fertig?
 .
 
           
-",wagner-die-greifensteiner,123,27,0.6198447629221595,0.21951219512195122
+",74,wagner-die-greifensteiner,123,27,0.6198447629221595,0.21951219512195122
 225,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2196,7 +2196,7 @@ Ich gsteh, nit a Funka religiösi Begeischternng erfüllt mi Harz. Krizfahrer si
 .
 
           
-",wagner-die-greifensteiner,95,20,0.6972220542639258,0.21052631578947367
+",75,wagner-die-greifensteiner,95,20,0.6972220542639258,0.21052631578947367
 226,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2210,7 +2210,7 @@ Zum letschtamol hab ich Dich komma loh, om Dich zu bewega, mi Beispiel nochzuahm
 . Do kannsch noch lang warta!!
 
           
-",wagner-die-greifensteiner,78,13,0.6958022592050331,0.16666666666666666
+",75,wagner-die-greifensteiner,78,13,0.6958022592050331,0.16666666666666666
 227,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2219,7 +2219,7 @@ WALTER:
 Mir sin in Jaffa, un Jaffa isch belagert. Wenn’s in Gottes Ratschluss steht, so nahma d’Chrischta d’Stadt oj noch i un befreia uns.
 
           
-",wagner-die-greifensteiner,27,1,0.6964506763761541,0.037037037037037035
+",75,wagner-die-greifensteiner,27,1,0.6964506763761541,0.037037037037037035
 228,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2228,7 +2228,7 @@ HUGO:
 Begrab Dini Hoffnunga. Wohl isch die Stadt belagert vo unsere friehera Kamarada. Doch weiss dr Emir, mi Frind un Gebieter, ganz genoi, wie die Sacha stehn. — Krankheita wiata drussa im Lager unter da Chrischta. Uneinigkeit und Streit zwischa da Fiehrer. — D’Johanniter un die Tempelherra han sich abgwandet vo Friedrich, wie mr sait uf Befehl vo Rom. — Jeda Tag kann die Belagerung ufghowa wara. —
 
           
-",wagner-die-greifensteiner,69,12,0.6007356926289859,0.17391304347826086
+",76,wagner-die-greifensteiner,69,12,0.6007356926289859,0.17391304347826086
 229,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2237,7 +2237,7 @@ WALTER:
 Un wenn ich uf waltlichi Hilf nimm kann hoffa, so hoff ich uf Gottes Hilf.
 
           
-",wagner-die-greifensteiner,16,4,0.7351856855984753,0.25
+",76,wagner-die-greifensteiner,16,4,0.7351856855984753,0.25
 230,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2246,7 +2246,7 @@ HUGO:
 Dr Mohamedaner hofft oi uf Gott.
 
           
-",wagner-die-greifensteiner,7,3,0.6868340923146173,0.42857142857142855
+",76,wagner-die-greifensteiner,7,3,0.6868340923146173,0.42857142857142855
 231,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2255,7 +2255,7 @@ WALTER:
 Das iwerloss ich Dir. Ich gloib an Chrischtus unser Erlöser.
 
           
-",wagner-die-greifensteiner,11,1,0.7810000000000001,0.09090909090909091
+",77,wagner-die-greifensteiner,11,1,0.7810000000000001,0.09090909090909091
 232,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2264,7 +2264,7 @@ HUGO:
 Halt!!! — Brüchsch nit witersch erklära — kenn das Geschichtla. Doch hör. D’Mohamedaner, d’Juda, d’Budhischta, d’Bramahna, d’Chrischta, alli han si a Religion, un doch isch jedi anderscht, un s’gloibt jeder ar hät d’Racht. Wer hat denn eigentlich d’Racht?
 
           
-",wagner-die-greifensteiner,47,4,0.602277307981342,0.0851063829787234
+",77,wagner-die-greifensteiner,47,4,0.602277307981342,0.0851063829787234
 233,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2273,7 +2273,7 @@ WALTER:
 - Das wursch Dü so güet wissa as ich. Dü bisch besser unterrichtet wora in dana Froga vo Eirem Schlosskaplan als ich.
 
           
-",wagner-die-greifensteiner,23,2,0.8318180872258617,0.08695652173913043
+",77,wagner-die-greifensteiner,23,2,0.8318180872258617,0.08695652173913043
 234,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2282,7 +2282,7 @@ HUGO:
 D’Lehra vo unserem alta Kaplan hab ich wohl ver- numma, awer je älter as ich wora bin, deschto stärker sin di Zwiefel in mir gwächse. Sisch ewa noch keina üs dr Ewigkeit zruck kumma. Wenn mr Zeugnis bekam üs dr Ewigkeit — drno
 
           
-",wagner-die-greifensteiner,46,9,0.6241161914665524,0.1956521739130435
+",78,wagner-die-greifensteiner,46,9,0.6241161914665524,0.1956521739130435
 235,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2291,7 +2291,7 @@ WALTER:
 Isch Chrischtus nit üs dr Ewigkeit kumma un hat uns gred vo dr Ewigkeit? Un di Wunder, di abertoisig Wunder, wu taglich an Wallfahrtsort gschah un d’Heiligi wirka,
 
           
-",wagner-die-greifensteiner,30,8,0.7038961779903297,0.26666666666666666
+",78,wagner-die-greifensteiner,30,8,0.7038961779903297,0.26666666666666666
 236,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2300,7 +2300,7 @@ HUGO:
 Gsah hab ich noch keini mit mina Oiga. D’Priesch- ter lehra uns so Sacha. — As mües aber schint’s oi Prieschter ga, wu do dran zwiefla, sunscht gab’s kei Prieschter wu abfalla, andri wu salwer in Sünde falla.
 
           
-",wagner-die-greifensteiner,43,6,0.4883669102239268,0.13953488372093023
+",78,wagner-die-greifensteiner,43,6,0.4883669102239268,0.13953488372093023
 237,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2309,7 +2309,7 @@ WALTER:
 Prieschter sin oi Manscha. — Ibri heiligi Weiha gan ihna nur Vollmacht, Gotteshilf un Gnad, aber kei Schutz- brief gega Versüechunga un Anfachtunga. — Un drzüa, wenn unter 1000 eina fallt vo dam wurd gred landuf, landab. Un doch bewiest gard dr Umstand as a Prieschter falla kann, s’Helda- tum vo unserem Prieschterstand. Ja, vo dana ungezehlta Toisig wu heiligmassig lawa, lieda, kampfa fir d’heilig Religion, Ver- folgung lieda ihretwilla, vo dana red mir nit.
 
           
-",wagner-die-greifensteiner,81,14,0.5618838213887264,0.1728395061728395
+",79,wagner-die-greifensteiner,81,14,0.5618838213887264,0.1728395061728395
 238,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2321,7 +2321,7 @@ HUGO :
 Heldatum. — Unsinn! — Han di Priesch- ter nit a schens Lawa, g’achtet, sorgalos!
 
           
-",wagner-die-greifensteiner,19,4,0.6771100613973184,0.21052631578947367
+",79,wagner-die-greifensteiner,19,4,0.6771100613973184,0.21052631578947367
 239,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2330,7 +2330,7 @@ WALTER:
 Sorgalos nann’sch Dü ihra Lawa? Un doch sin si gsetzt iwer hunderti vo Pfarrkinder, han si einscht d’Verant- wortung zu traga, iwer jedes Glied vo dar gross Familie wu verlora geht. Gloib mir nur, si han Sorga un Kummer mehr als genüa. Un drno. — Mit’m namliga Studium hätte sie andri Stel- lunga sich kenna erringa in der Verwaltung, de Grichtsbarkeit, in andri Berüef. Do hätte si kenna Richtum erwarwa, sich freia an Wib un Kind, a schens freis Lawa fiehra. — Un so, was bliebt ihna denn vom Lawa??
 
           
-",wagner-die-greifensteiner,95,13,0.6399720959463573,0.1368421052631579
+",79,wagner-die-greifensteiner,95,13,0.6399720959463573,0.1368421052631579
 240,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2342,7 +2342,7 @@ HUGO :
 Dü bisch doch frieher nit so heilig gsih. Wurum wit Dü jetz dr Gottesstreiter spiela.
 
           
-",wagner-die-greifensteiner,19,2,0.7106510770424637,0.10526315789473684
+",80,wagner-die-greifensteiner,19,2,0.7106510770424637,0.10526315789473684
 241,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2351,7 +2351,7 @@ WALTER:
 Wohr isch’s was Dü do saisch! Ja, ich bin lei- der kei güeter Mansch gsih, sunsch hätt ich Dir sallmols nit ghulfa, Dina Brüeder. — — — Doch die Blüetsbrüderschaft — die hat mich an Dich gekettet. — —
 
           
-",wagner-die-greifensteiner,42,5,0.8009466255584377,0.11904761904761904
+",80,wagner-die-greifensteiner,42,5,0.8009466255584377,0.11904761904761904
 242,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2363,7 +2363,7 @@ HUGO :
 Höll un Teufel, schwieg...
 
           
-",wagner-die-greifensteiner,8,3,0.1297297777701992,0.375
+",80,wagner-die-greifensteiner,8,3,0.1297297777701992,0.375
 243,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2372,7 +2372,7 @@ WALTER:
 Doch siter mi Füess Plaläschtina betrata hat, ich gebata han, inbrünschtig gebata han an all da heiliga Stätta in Jerusalem un Betlehem, ischs iwer mich kumma, wia a höheri Gnad un nie, nie, willig ich i, mina Gloiwa abzuschwöra, wie leider Dü es geto hasch.
 
           
-",wagner-die-greifensteiner,46,5,0.5595417183435102,0.10869565217391304
+",81,wagner-die-greifensteiner,46,5,0.5595417183435102,0.10869565217391304
 244,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2381,7 +2381,7 @@ HUGO:
 Ich will dr Himmel uf Arda. Ich bin selig mit Fatme miner Gemahlin, bin durch sie Schwiegersohn vom Emir sal- wer. — Gwalt, Macht, unermasslichi Schatz stehn zu miner Verfügung. Isch das nit vorlockend gnüa?
 
           
-",wagner-die-greifensteiner,37,8,0.7135556920717503,0.21621621621621623
+",81,wagner-die-greifensteiner,37,8,0.7135556920717503,0.21621621621621623
 245,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2390,7 +2390,7 @@ WALTER:
 Das alles müesch Dü verloh, früh oder spot. Viellicht bol — un drno ziter vor Gottes Gericht, Do nutzt kei Richtum, kei Krone nix, un’s geht um d’ganzi Ewigkeit.
 
           
-",wagner-die-greifensteiner,32,6,0.5309196988662975,0.1875
+",81,wagner-die-greifensteiner,32,6,0.5309196988662975,0.1875
 246,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2399,7 +2399,7 @@ HUGO:
 S’Jenseits — das kümmert mich einschtwilla nit. — Ich sag noch amol, schwör ab, tüe wenigschtens drglicha. Denn vernimm: dr Emir hat d’Geduld verlora un wenn Dü verharrsch, wenn Dü witersch halsstarrig bliebsch, drno wursch Dü gmar- tert bis Dü fügsam wursch. Doch do kummt ar salwer.
 
           
-",wagner-die-greifensteiner,51,1,0.188,0.0196078431372549
+",82,wagner-die-greifensteiner,51,1,0.188,0.0196078431372549
 247,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2411,7 +2411,7 @@ EMIR :
 Nun, hat da Chrischtahund sich jetz ent- schlossa, Mohammed, unser grosser Prophet, zu verehra?
 
           
-",wagner-die-greifensteiner,19,3,0.625027138876513,0.15789473684210525
+",82,wagner-die-greifensteiner,19,3,0.625027138876513,0.15789473684210525
 248,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2422,7 +2422,7 @@ Nie!!
 .
 
           
-",wagner-die-greifensteiner,6,1,0.7289999999999999,0.16666666666666666
+",82,wagner-die-greifensteiner,6,1,0.7289999999999999,0.16666666666666666
 249,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2434,7 +2434,7 @@ EMIR :
 Nia, das isch a stolzes Wort. Doch wursch Dü Dich andersch bsinna, wenn Dü uf dr Folter wimmersch un winselsch.
 
           
-",wagner-die-greifensteiner,24,4,0.33297436043293516,0.16666666666666666
+",83,wagner-die-greifensteiner,24,4,0.33297436043293516,0.16666666666666666
 250,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2443,7 +2443,7 @@ WALTER:
 Ich fercht nit Marter noch Tot. — Ich blib mim göttlicha Meischter treu. Chrischtus isch allei mi König, mi Herr. Di Mohammed isch a Schwindler gsih!
 
           
-",wagner-die-greifensteiner,27,7,0.53322217751424,0.25925925925925924
+",83,wagner-die-greifensteiner,27,7,0.53322217751424,0.25925925925925924
 251,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2459,7 +2459,7 @@ Elander Chrischtabund! Dü wogsch’s so zu mir zu reda! — Holla Has- san! Mir
 .
 
           
-",wagner-die-greifensteiner,127,15,0.39235292575069075,0.11811023622047244
+",83,wagner-die-greifensteiner,127,15,0.39235292575069075,0.11811023622047244
 252,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2473,7 +2473,7 @@ Nun. — Di Chrischtagott will Dir nit halfa.
 .
 
           
-",wagner-die-greifensteiner,24,3,0.6313688532202802,0.125
+",84,wagner-die-greifensteiner,24,3,0.6313688532202802,0.125
 253,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2482,7 +2482,7 @@ WALTER:
 Hugo — un Dü — losch das züe. — Dü lügsch züe — wie Di Frind...
 
           
-",wagner-die-greifensteiner,17,1,0.8439224917513257,0.058823529411764705
+",84,wagner-die-greifensteiner,17,1,0.8439224917513257,0.058823529411764705
 254,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2494,7 +2494,7 @@ HUGO :
 Dü hasch’s wella so ha. — Erfüll dr Willa vom Emir!
 
           
-",wagner-die-greifensteiner,16,2,0.506327619646638,0.125
+",84,wagner-die-greifensteiner,16,2,0.506327619646638,0.125
 258,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER :
@@ -2508,7 +2508,7 @@ Chrischtus blieb ich treu!!!
 .
 
           
-",wagner-die-greifensteiner,14,3,0.8612751176343814,0.21428571428571427
+",86,wagner-die-greifensteiner,14,3,0.8612751176343814,0.21428571428571427
 259,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR:
@@ -2517,7 +2517,7 @@ EMIR:
 Dü stöhnsch jetz scho — un doch isch’s nur a Vor- spiel vo dam wu Dich erwartet. Mir wann sah, wer stärker isch: Chrischtus oder unser grosser Prophet. — Schwör ab — noch isch’s Zit. Ich will Dich rich und glicklich macha. D’schönschta Sklavinna schank ich Dir. Dü sollsch wohna in eigenem Palascht, gebieta iwer mini Truppa mit Hugo Dim Frind! Nur schwör ab!!!
 
           
-",wagner-die-greifensteiner,69,8,0.715006185150076,0.11594202898550725
+",86,wagner-die-greifensteiner,69,8,0.715006185150076,0.11594202898550725
 260,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2526,7 +2526,7 @@ WALTER:
 Chrischtus blib ich treu im Lawa un Starwa!!
 
           
-",wagner-die-greifensteiner,9,3,0.8335052043470682,0.3333333333333333
+",86,wagner-die-greifensteiner,9,3,0.8335052043470682,0.3333333333333333
 261,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2544,7 +2544,7 @@ So gib ihm noch dr Rascht. Schlag hurtig züa!!
  Suleiman, gang ge lüega, was da Larm bedit (kreuzt die Arme, verneigt sich tief und geht schnell ab. Die beiden horchen. Hassan hat inzwischen fertig geschlagen und horscht
 
           
-",wagner-die-greifensteiner,190,23,0.4911775898762149,0.12105263157894737
+",87,wagner-die-greifensteiner,190,23,0.4911775898762149,0.12105263157894737
 262,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR:
@@ -2553,7 +2553,7 @@ EMIR:
 Ins Schloss. In dr feschta Schlossturm! — — D’Mass- regia sin getroffa. — Noch isch nit alles verlora!
 
           
-",wagner-die-greifensteiner,21,3,0.4524131662909499,0.14285714285714285
+",87,wagner-die-greifensteiner,21,3,0.4524131662909499,0.14285714285714285
 263,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2565,7 +2565,7 @@ HUGO :
 Halt! Dü bisch mi Gfangena. Was stehsch Dü do — un starrsch mich an? Emir Achmed, Dü bisch mi Gfangener! Dich liefer ich per- sönlich in da Chrischta üs. Das soll mich sehr in Gunscht bringa, bim Kaiser.
 
           
-",wagner-die-greifensteiner,48,6,0.3882874238066334,0.125
+",87,wagner-die-greifensteiner,48,6,0.3882874238066334,0.125
 264,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR :
@@ -2579,7 +2579,7 @@ Elan- der!!
 .
 
           
-",wagner-die-greifensteiner,103,8,0.552623852109754,0.07766990291262135
+",88,wagner-die-greifensteiner,103,8,0.552623852109754,0.07766990291262135
 265,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2590,7 +2590,7 @@ Zu Hilf, Brieder. Do dr Emir vo Jaffa isch mi Gfan- gener.
 .
 
           
-",wagner-die-greifensteiner,26,2,0.6291974218418861,0.07692307692307693
+",88,wagner-die-greifensteiner,26,2,0.6291974218418861,0.07692307692307693
 266,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH von Geroldseck:
@@ -2599,7 +2599,7 @@ HEINRICH von Geroldseck:
 Oh Wunder! Ihr Hugo von Greifenstein, unser Fiehrer? So sin Ihr nit tot! — Un der brün Teifel do, das war dr Emir? — Do han mir jo, a güeta Fang gmacht. Un do — isch das nit Walter, Eier Frind.
 
           
-",wagner-die-greifensteiner,44,7,0.6692587652816712,0.1590909090909091
+",88,wagner-die-greifensteiner,44,7,0.6692587652816712,0.1590909090909091
 267,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2608,7 +2608,7 @@ HUGO:
 Jo, ohna ihn war ich scho tot. — Bisch verwundet Walter? Armer Frind! Der Teifel do hat na ewa peitscha loh, will ar nit hat wella Mohamedaner wara. Walter hat’s nit iwer's Harz gebrocht, a bissel Komödie zu spiela, wie ich. Ich hab das Opfer gebrocht, um in dam do siner Nache bliewa zu kenna, sini Plan zu durchschoia, um da Chrischtabrieder noch als Gfangener nützlich zu si.
 
           
-",wagner-die-greifensteiner,71,12,0.44135791435225574,0.16901408450704225
+",89,wagner-die-greifensteiner,71,12,0.44135791435225574,0.16901408450704225
 268,drama,Heinrich von Geroldseck,M,,,,"
             
 EMIR:
@@ -2617,7 +2617,7 @@ EMIR:
 Elander! Flüech Dir, treuloser Verräter! A Gift- schlang hat Dini Müeter gebora, kei Mansch. Flüech Dir, treu- - loser Schuft!
 
           
-",wagner-die-greifensteiner,23,10,0.34499589084726673,0.43478260869565216
+",89,wagner-die-greifensteiner,23,10,0.34499589084726673,0.43478260869565216
 269,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2631,7 +2631,7 @@ Stil, Hund! Jetz bin ich Di Herr. D’Rolla han gwachselt. HEINRICH
 : Wu sin Ihr verwundet?
 
           
-",wagner-die-greifensteiner,37,5,0.3067566991250751,0.13513513513513514
+",89,wagner-die-greifensteiner,37,5,0.3067566991250751,0.13513513513513514
 270,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2640,7 +2640,7 @@ WALTER:
 Do in d’Sit hat ar mich getroffa. — Doch Hugo, — jetz sin mir quitt. Vor Johr hasch Dü mir’s Lawa grett un hit ich Dir.
 
           
-",wagner-die-greifensteiner,29,1,0.8722145007409952,0.034482758620689655
+",90,wagner-die-greifensteiner,29,1,0.8722145007409952,0.034482758620689655
 271,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2649,7 +2649,7 @@ HEINRICH:
 So waun mir Eich schnall ins Lager traga, zum Verbinda.
 
           
-",wagner-die-greifensteiner,11,2,0.6939629288134621,0.18181818181818182
+",90,wagner-die-greifensteiner,11,2,0.6939629288134621,0.18181818181818182
 272,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2658,7 +2658,7 @@ WALTER:
 Hugo soll erscht amol dr Emir üsliefra. Das isch d’erschti Pflicht. Drno kumma mit’m a Arzt. Wann sah, was noch zmacha isch.
 
           
-",wagner-die-greifensteiner,25,2,0.5723581008090086,0.08
+",90,wagner-die-greifensteiner,25,2,0.5723581008090086,0.08
 273,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2670,7 +2670,7 @@ So soll’s gschah. Schnall voran, Ihr Lit.
 (ab.)
 
           
-",wagner-die-greifensteiner,32,3,0.5303092287774077,0.09375
+",91,wagner-die-greifensteiner,32,3,0.5303092287774077,0.09375
 274,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2679,7 +2679,7 @@ WALTER:
 Si sin furt. So höre denn schnall mich an. Di Wund do, liewer Ritter isch mi Tod. Si isch zwar nit beditend, aber ich weiss, as Hassan’s Dolch stets vergiftet gsih isch. Dr Tod kann bol itrate. — Ich hab’s eilig, mi Gwissa in Ordnung zu bringa. Wenn dr Arzt kummt, s’isch jo jedafalls a Mönch, so kann ar nur mini Seel heila, awer nimmer mi Körper. — Ich mües Eich a Gstandnis macha. Wenigi Tag bevor d’elsas- sisch Ritterschaft ufgebota wora isch in dr Krizzug, isch Rudolf von Greifenstein verschwunda.
 
           
-",wagner-die-greifensteiner,97,16,0.4248636189393326,0.16494845360824742
+",91,wagner-die-greifensteiner,97,16,0.4248636189393326,0.16494845360824742
 275,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2688,7 +2688,7 @@ HEINRICH:
 Ich weiss. Un di allgemein Meinung isch gsih, si Brüeder heig d’Hand im Spiel gha. Doch im leschta Oiga- blick hab ich erfahra, ar seig unschuldig.
 
           
-",wagner-die-greifensteiner,29,6,0.7013224168904446,0.20689655172413793
+",91,wagner-die-greifensteiner,29,6,0.7013224168904446,0.20689655172413793
 276,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2697,7 +2697,7 @@ WALTER:
 Ar isch schuldig, un ich bin si Halfer gsih.
 
           
-",wagner-die-greifensteiner,10,2,0.544973584390825,0.2
+",92,wagner-die-greifensteiner,10,2,0.544973584390825,0.2
 277,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2706,7 +2706,7 @@ HEINRICH:
 So sin Ihr d’Mörder vo Rudolf?
 
           
-",wagner-die-greifensteiner,8,1,0.0395971225745694,0.125
+",92,wagner-die-greifensteiner,8,1,0.0395971225745694,0.125
 278,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2715,7 +2715,7 @@ WALTER:
 Rudolf labt. Ich hoff’s wenigschtens, as ar noch labt.
 
           
-",wagner-die-greifensteiner,11,1,0.588502276943852,0.09090909090909091
+",92,wagner-die-greifensteiner,11,1,0.588502276943852,0.09090909090909091
 280,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2724,7 +2724,7 @@ WALTER:
 Uf’m Schloss Hoh-Barr.
 
           
-",wagner-die-greifensteiner,5,1,0.714,0.2
+",93,wagner-die-greifensteiner,5,1,0.714,0.2
 281,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2733,7 +2733,7 @@ HEINRICH:
 Un doch soll dr Lichtasteiner alles üsgsüecht un nix gfunda ha.
 
           
-",wagner-die-greifensteiner,12,1,0.8180765652971618,0.08333333333333333
+",93,wagner-die-greifensteiner,12,1,0.8180765652971618,0.08333333333333333
 282,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2742,7 +2742,7 @@ WALTER:
 So isch’s. Rudolf isch gfanga im alta, wasserlaara Brunna zwischa dr erscht un zweit Ringmür un dr Koch bringt’m nachtlicherwis s’Assa. In letschter Minüt hab ich im Koch noch befohla, reichlicheri Nahrung zu bringa, als ihm ufgetraga wora isch vo Hugo. — So könnt ar noch am Lawa si.
 
           
-",wagner-die-greifensteiner,53,4,0.4853036251852488,0.07547169811320754
+",94,wagner-die-greifensteiner,53,4,0.4853036251852488,0.07547169811320754
 284,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2751,7 +2751,7 @@ WALTER:
 Ues Racha will Adelinda si Brüeder vorzoga hat, üs teiflicher Eifersucht, üs Habgier oi — un — ich warn Eich alli — Hugo isch kei güeter Mansch. A bösa Geischt be- herrscht un regiert ihn.
 
           
-",wagner-die-greifensteiner,37,9,0.4679875581108758,0.24324324324324326
+",94,wagner-die-greifensteiner,37,9,0.4679875581108758,0.24324324324324326
 286,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2760,7 +2760,7 @@ WALTER:
 Hugo isch mi Frind gsih. Ich hab nur zu saga, was ich mües, um güet zu macha. Dr Rascht iwerloss ich im a höhera Richter.
 
           
-",wagner-die-greifensteiner,26,3,0.7345195554010164,0.11538461538461539
+",95,wagner-die-greifensteiner,26,3,0.7345195554010164,0.11538461538461539
 287,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2769,7 +2769,7 @@ HEINRICH:
 Das bedit kei güet Zeugnis. Dr Emir wurd scho reda. — Ich will do salwer forscha.
 
           
-",wagner-die-greifensteiner,17,5,0.6192982050260631,0.29411764705882354
+",95,wagner-die-greifensteiner,17,5,0.6192982050260631,0.29411764705882354
 288,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2778,7 +2778,7 @@ WALTER:
 Vor allem, Ritter, sobol Ihr noch Europa kumma, eila sofort noch Hoh-Barr, befreia Rudolf vo Greifen- stein un gan ihn siner heissgeliebta Gemahlin wieder zruck, bitte na um Verzeihung für mini Schuld. — Sie isch viellicht nit so gross als ar meint. Ich hab wohl im Oigeblick mit ghulfa, hab awer später immer wieder versüecht, Hugo zu bestimma, sina Brüeder frei zu loh. — Doch umsunscht!! — Un jetzt ver- spracha mir, Ritter, mini Bitt zu erfülla?
 
           
-",wagner-die-greifensteiner,80,17,0.5496754331693928,0.2125
+",96,wagner-die-greifensteiner,80,17,0.5496754331693928,0.2125
 289,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2787,7 +2787,7 @@ HEINRICH:
 Vo Harza garn. Uf Ritterwort.
 
           
-",wagner-die-greifensteiner,6,3,0.8169120237878392,0.5
+",96,wagner-die-greifensteiner,6,3,0.8169120237878392,0.5
 290,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2798,7 +2798,7 @@ Awer eila — denn ich kenn Hugo. Ar isch lischtig wie a Schlang! —
  Eila!
 
           
-",wagner-die-greifensteiner,22,3,0.3682137294547201,0.13636363636363635
+",96,wagner-die-greifensteiner,22,3,0.3682137294547201,0.13636363636363635
 291,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2807,7 +2807,7 @@ HEINRICH:
 Walter, liewer Ritter, was isch Euch?
 
           
-",wagner-die-greifensteiner,7,1,0.9225340379853786,0.14285714285714285
+",97,wagner-die-greifensteiner,7,1,0.9225340379853786,0.14285714285714285
 292,drama,Walter von Wettolsheim,M,,,,"
             
 WALTER:
@@ -2816,7 +2816,7 @@ WALTER:
 Adieu. Uf Wiedersah, dert... owa!
 
           
-",wagner-die-greifensteiner,6,2,0.44638095972085123,0.3333333333333333
+",97,wagner-die-greifensteiner,6,2,0.44638095972085123,0.3333333333333333
 293,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -2830,7 +2830,7 @@ Friedrich hat mir salwer gratuliert, Walter!
  Was isch das? Isch’r ohnmachtig?
 
           
-",wagner-die-greifensteiner,21,3,0.534416975054459,0.14285714285714285
+",97,wagner-die-greifensteiner,21,3,0.534416975054459,0.14285714285714285
 294,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2839,7 +2839,7 @@ HEINRICH:
 Eier edla Frind isch tot. Dr Dolch wu na ver- wundet hat isch vergiftet gsih.
 
           
-",wagner-die-greifensteiner,17,3,0.3749741639171085,0.17647058823529413
+",98,wagner-die-greifensteiner,17,3,0.3749741639171085,0.17647058823529413
 295,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -2850,7 +2850,7 @@ So hat Walter sini Frindschaft mit sim Tod be- siegelt. Dr Dolch hätt mich durc
  Doch sot ar am And sini Gheimnis verrota ha? Ich wur uf miner Hüet si un da Burscht do iwerwacha.
 
           
-",wagner-die-greifensteiner,45,7,0.46636473908013193,0.15555555555555556
+",98,wagner-die-greifensteiner,45,7,0.46636473908013193,0.15555555555555556
 296,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2864,7 +2864,7 @@ Edler Walter!
 (Der Vorhang fällt.)
 
           
-",wagner-die-greifensteiner,107,25,0.6354801723377429,0.2336448598130841
+",98,wagner-die-greifensteiner,107,25,0.6354801723377429,0.2336448598130841
 297,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2873,7 +2873,7 @@ KONRAD:
 Do war dr Brunna. Do tüet also mi unglick- lincha Frind Rudolf si furchtbara Loos erfülla. Do im d’Schoss dr Arda hat na si teiflischa Brüeder verborga,do hat ar na weila verdarwa loh, hinsiecha am Lib, andr Seel verzwiefla. Weh Dir, unnatirlicha Brüeder! Weh Dir, Dü Schuft: — Dr erschta Teil vo mim Schwur isch erfüllt, dr zweita Teil wurd erfüllt im Oigablick, wu ich dam Scheusal dr Dega durch die Bruscht renn. Un Eich, liewer Heinrich im Voraus Dank fir das Liewes- wark.
 
           
-",wagner-die-greifensteiner,89,25,0.5442480750938767,0.2808988764044944
+",99,wagner-die-greifensteiner,89,25,0.5442480750938767,0.2808988764044944
 298,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2882,7 +2882,7 @@ HEINRICH:
 So han ich’s im edla Walter versprocha! Ich han mi Ritterwort müessa halte.
 
           
-",wagner-die-greifensteiner,15,2,0.5067898289629902,0.13333333333333333
+",99,wagner-die-greifensteiner,15,2,0.5067898289629902,0.13333333333333333
 299,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2891,7 +2891,7 @@ KONRAD:
 Edel nanna Ihr da ehrvergassana Ritter, wu sini Hand gebota hat zur Uesfiehrung vo dam Verbracha?
 
           
-",wagner-die-greifensteiner,17,1,0.8089662100883288,0.058823529411764705
+",99,wagner-die-greifensteiner,17,1,0.8089662100883288,0.058823529411764705
 300,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2900,7 +2900,7 @@ HEINRICH:
 Jawohl, a edler Mansch. Als a Heiliger isch ar in mina Oiga gstorwa. Dr Emir vo Jaffa salwer hat mir ver- zehlt, bevor Kaiser Friedrich ihn entlassa hat, nochdam ar a Vertrag, a Waffenstillstandsvertrag abgschlossa hat mit ihm, wie edel sich Walter betraga hat, wie ar trotz aller Bedrangnis, trotz dr Folter widerstanda hat, sina Gloiwa um kei Richtum un Ehr vo dr Walt verleugna hat wella. — Wie edel ar gsi isch, kenna Ihr do dra sah, as Walter in Gegawart vo HUGO ge- peitscht wora isch, blüetig gepeitscht wora isch, waga siner Gloibenstreue, un Hugo rühig züa gschoit hat. Trotzdam hat Walter si Lawa hingah, um Hugo zu reita. Un as Rudolf noch labt, isch Walter zu verdanka, wu im Koch im leschta Oiga- blick noch Ordre ga hat, reichlichi Nahrung im Gfangana zu ga. Ues Frindschaft nur, üs treuer Frinschaft nur hat ar mit ghulfa, hat awer wohl bi keiner Glagaheit versümt, Hugo umzu- stimma. Un schwar hat die Tat uf siner edla Seel gebrennt, gloiwa mir. — Tat ar noch lawa, do stand ar, do an unsrer Sit um Rudolf zu befreia.
 
           
-",wagner-die-greifensteiner,191,33,0.5817530307692694,0.17277486910994763
+",100,wagner-die-greifensteiner,191,33,0.5817530307692694,0.17277486910994763
 301,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2909,7 +2909,7 @@ KONRAD:
 Wenn’s so steht, drno will ich anderscht danka lehra iwer Walter.
 
           
-",wagner-die-greifensteiner,13,3,0.7004793461414881,0.23076923076923078
+",100,wagner-die-greifensteiner,13,3,0.7004793461414881,0.23076923076923078
 302,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2918,7 +2918,7 @@ HEINRICH:
 Dr Koch macht lang mit da Strick. Sot am And dr Burgvogt reuisch wora si?
 
           
-",wagner-die-greifensteiner,16,3,0.5429354473269816,0.1875
+",100,wagner-die-greifensteiner,16,3,0.5429354473269816,0.1875
 303,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2927,7 +2927,7 @@ KONRAD:
 Dr Burgvogt isch zu alt, a zu gradi Natür, un viel zu edel, um wieder andersch zu danka. Ich bin hit Mittag, wu ich vo Eich Walters Bekenntnis erfahra han, sofort, wie Ihr wissa, uf Hohbarr gritta, im Burgvogt, wu ich scho vo frieher har kennt han, alles zu verzehla. Ich bin im Vorüs sicher gsih, as ar entrüschtet isch, iwer s’Verbracha vo sim süfra Herr! — Un ich han mich oi nit getäuscht. Doch hat ar’s nit wella gloiwa. Ich hab ihm vorgschlaga, dr Koch kumma zu loh un zu verhöra. Dr Koch, wu ar igsah hat, wie nutzlos s’Leigna isch, hat andlich alles gstanda. Do druf han mr bschlossa, hit Nacht sofort Rudolf zu befreia un dr Koch mit zu namma uf Greifen- stein, fir na zu schitza vorm Zorn vo Hugo.
 
           
-",wagner-die-greifensteiner,139,27,0.563003874269806,0.19424460431654678
+",101,wagner-die-greifensteiner,139,27,0.563003874269806,0.19424460431654678
 304,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2936,7 +2936,7 @@ HEINRICH:
 Ihr han güet geto, rasch zu handla, denn mir schwand nix Güets. Hugo hat Verdacht gha, wu ich ihm als mim Chef gsait han, ich miesst unverzüglich in d’Heimat zruck, anstatt in Brindisi zu bliewa wu mir glandet sin, noch dr Ruck- kehr üsm Hl. Land!
 
           
-",wagner-die-greifensteiner,49,6,0.48049364963888846,0.12244897959183673
+",101,wagner-die-greifensteiner,49,6,0.48049364963888846,0.12244897959183673
 305,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2945,7 +2945,7 @@ KONRAD:
 Hugo isch Eier Chef gsih?
 
           
-",wagner-die-greifensteiner,6,1,0.6409754420228518,0.16666666666666666
+",101,wagner-die-greifensteiner,6,1,0.6409754420228518,0.16666666666666666
 306,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2954,7 +2954,7 @@ HEINRICH:
 Ja, doppelt. D’Ueslieferung un dr Streich wu ar im Emir gliefert hat, han Friedrich so güet gfalla, as ar gsait hat, so a entschlossena, gewandta Mann kennt ar güet brüecha, un wenig Wucha nochhar hat ar ihn zum Befehls- haber vo da Füestruppa ernannt.
 
           
-",wagner-die-greifensteiner,47,4,0.7784114601569149,0.0851063829787234
+",102,wagner-die-greifensteiner,47,4,0.7784114601569149,0.0851063829787234
 308,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2963,7 +2963,7 @@ HEINRICH:
 Ja, un steht in hoher Gunscht bim Kaiser.
 
           
-",wagner-die-greifensteiner,9,1,0.731982479119855,0.1111111111111111
+",102,wagner-die-greifensteiner,9,1,0.731982479119855,0.1111111111111111
 309,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2972,7 +2972,7 @@ KONRAD:
 Dr Emir, hat ar im Kaiser nit d’Wohret gsait??
 
           
-",wagner-die-greifensteiner,11,1,0.947502542093038,0.09090909090909091
+",103,wagner-die-greifensteiner,11,1,0.947502542093038,0.09090909090909091
 310,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2981,7 +2981,7 @@ HEINRICH:
 Doch, awer Hugo isch so gwandt gsih, as ar Friedrich kat kenna gloiwa macha — sini Bekehrung und si Verhalta wara nur Verstellung gsih. — Als Bewies hat ar isch nit gschamt Walters Ufopferung vorzubringa — wu doch sich nit gopfert hat, wenn ar gwisst hat, as ar, Hugo, a Unwürdiger war, a Verräter vo dr Religion, a Iwerlaifer! — Uebrigens wot sich dr Emir nur rächa! tat iwertriwa. — Friedrich salwer, kei Heiliger, hat nit viel Gwicht druf glegt, hat sina Luega gegloibt un Hugo beglickwinscht!
 
           
-",wagner-die-greifensteiner,88,8,0.5668587075748229,0.09090909090909091
+",103,wagner-die-greifensteiner,88,8,0.5668587075748229,0.09090909090909091
 311,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -2990,7 +2990,7 @@ KONRAD:
 So hat ar operiert?? —— — Lischtiger isch doch kei Schlang!
 
           
-",wagner-die-greifensteiner,13,1,0.176,0.07692307692307693
+",103,wagner-die-greifensteiner,13,1,0.176,0.07692307692307693
 312,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -2999,7 +2999,7 @@ HEINRICH:
 Ja, un ewa drum han ich Befürchtunga ghegt. Ich han ihm zwar gsait, a Bote seig kumma, mich glich heim- zurüefa, waga schwarer Krankheit vo mim Vater. Ar hat mich so verdachtig angschoit un gmeint, wu isch’r da Bote? Ich tat oi garn mit’m reda, um Nachrichta üs dr Heimet ze bekumma. — Ich han ihm druf schnall gantwortet: «Dr Bote isch scho wieder furt, zu malda as mini Rückkehr bevorsteht», — Drno hat ar mich loh zieha. Awer in sina Oiga hab ich ebs glasa, wu mich be- unrühigt hat. Drum bin ich gritta Tag un Nacht. Zwei Pfard hab ich z’Schanda 'gritta, um jo nit s’spot zu kumma. Denn Walter salwer hat mich gwarnt. Eins vo sina letschta Wort isch gsih: Eila! Eila!
 
           
-",wagner-die-greifensteiner,133,19,0.45690254656736107,0.14285714285714285
+",104,wagner-die-greifensteiner,133,19,0.45690254656736107,0.14285714285714285
 313,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3010,7 +3010,7 @@ Nun, mir sin bol am Ziel. Sobol dr Koch do isch, kann d’Befreiung beginna. Mir
  Kei Antwort.
 
           
-",wagner-die-greifensteiner,62,8,0.5090369580342529,0.12903225806451613
+",104,wagner-die-greifensteiner,62,8,0.5090369580342529,0.12903225806451613
 314,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3019,7 +3019,7 @@ HEINRICH:
 Ar schlummert viellicht! Reda lüter!
 
           
-",wagner-die-greifensteiner,6,3,0.45558304219830487,0.5
+",104,wagner-die-greifensteiner,6,3,0.45558304219830487,0.5
 315,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3036,7 +3036,7 @@ Rudolf von Greifenstein! — Rudolf, mi liewer Frind!
 .
 
           
-",wagner-die-greifensteiner,50,9,0.7921385505518197,0.18
+",105,wagner-die-greifensteiner,50,9,0.7921385505518197,0.18
 316,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH :
@@ -3048,7 +3048,7 @@ HEINRICH :
 Ar labt!! Ar hat Antwort ga!! Wer riaft, hat ar gsait.
 
           
-",wagner-die-greifensteiner,15,2,0.7560777565397183,0.13333333333333333
+",105,wagner-die-greifensteiner,15,2,0.7560777565397183,0.13333333333333333
 317,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3057,7 +3057,7 @@ KONRAD:
 Dini Frind, Konrad von Lichtenberg un Heinrich vom Geroldseck.
 
           
-",wagner-die-greifensteiner,10,1,0.8439224917513257,0.1
+",105,wagner-die-greifensteiner,10,1,0.8439224917513257,0.1
 320,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3068,7 +3068,7 @@ Mr kann wohl Zwiefel ha. Sisch zwei Johr bol, as da arm unglicklich Ritter do gf
  Erkennsch Dü mini Stimm nimmer?
 
           
-",wagner-die-greifensteiner,28,4,0.37555464749549583,0.14285714285714285
+",106,wagner-die-greifensteiner,28,4,0.37555464749549583,0.14285714285714285
 321,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3083,7 +3083,7 @@ Doch
 .
 
           
-",wagner-die-greifensteiner,35,2,0.6816208574284175,0.05714285714285714
+",107,wagner-die-greifensteiner,35,2,0.6816208574284175,0.05714285714285714
 322,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -3097,7 +3097,7 @@ Wu isch Hugo, hat ar gfrogt?
  Bisch nur rühig, da isch wit awag!
 
           
-",wagner-die-greifensteiner,23,1,0.1342249255858618,0.043478260869565216
+",107,wagner-die-greifensteiner,23,1,0.1342249255858618,0.043478260869565216
 323,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3106,7 +3106,7 @@ KONRAD:
 Zu blibt denn da Lümmel vom a Koch? Ich gloib da tüet d’Strick erscht flachta.
 
           
-",wagner-die-greifensteiner,17,1,0.417,0.058823529411764705
+",107,wagner-die-greifensteiner,17,1,0.417,0.058823529411764705
 324,drama,Toni,M,,,,"
             
 TONI:
@@ -3115,7 +3115,7 @@ TONI:
 Herr, ich will na gloib ge süecha un a bissel Fir unter sini Füessohla macha.
 
           
-",wagner-die-greifensteiner,16,4,0.4993940156353317,0.25
+",108,wagner-die-greifensteiner,16,4,0.4993940156353317,0.25
 325,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3125,7 +3125,7 @@ Ja, geh.
 (Toni ab.)
 
           
-",wagner-die-greifensteiner,7,1,0.731982479119855,0.14285714285714285
+",108,wagner-die-greifensteiner,7,1,0.731982479119855,0.14285714285714285
 326,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3134,7 +3134,7 @@ HEINRICH:
 Was isch denn das für a Dienschtmann? Isch’r sicher?
 
           
-",wagner-die-greifensteiner,10,1,0.7922928928462181,0.1
+",108,wagner-die-greifensteiner,10,1,0.7922928928462181,0.1
 327,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3144,7 +3144,7 @@ S’isch a Dienschtmann vo Adelinde, ar isch züe- verlassig, müetig un ergah, 
 (Pause.)
 
           
-",wagner-die-greifensteiner,64,7,0.6067851656057576,0.109375
+",109,wagner-die-greifensteiner,64,7,0.6067851656057576,0.109375
 328,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3153,7 +3153,7 @@ HEINRICH:
 As da Koch so lang macht. As mien doch Strick bi dr Hand si. Do isch doch nit lang zu süecha.
 
           
-",wagner-die-greifensteiner,22,5,0.5548989043489387,0.22727272727272727
+",109,wagner-die-greifensteiner,22,5,0.5548989043489387,0.22727272727272727
 329,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3168,7 +3168,7 @@ Dr Koch hat am And Angscht.
  D’Freid git’m Kraft genüe, um sich allei anzu- seila, sait’r.
 
           
-",wagner-die-greifensteiner,71,11,0.5114793822573289,0.15492957746478872
+",109,wagner-die-greifensteiner,71,11,0.5114793822573289,0.15492957746478872
 330,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3177,7 +3177,7 @@ KONRAD:
 Awer Toni! Dü gehsch a bissel zu schroff um mit dam arma Tropf do!
 
           
-",wagner-die-greifensteiner,15,2,0.3210449181399909,0.13333333333333333
+",110,wagner-die-greifensteiner,15,2,0.3210449181399909,0.13333333333333333
 331,drama,Toni,M,,,,"
             
 TONI :
@@ -3191,7 +3191,7 @@ Herr Ritter! Ich gloib, da Dolla war gar nit kumma, wenn ich na nit ge hola war.
 . Ich han grat Luscht fir na salwer do awazwarfa.
 
           
-",wagner-die-greifensteiner,95,18,0.4694694570738753,0.18947368421052632
+",110,wagner-die-greifensteiner,95,18,0.4694694570738753,0.18947368421052632
 332,drama,Koch,M,,,,"
             
 KOCH :
@@ -3203,7 +3203,7 @@ KOCH :
 Ich bin unschuldig — ich... han gmeint dr Herr... hat ..... mi agloga...
 
           
-",wagner-die-greifensteiner,18,3,0.5470606958292796,0.16666666666666666
+",110,wagner-die-greifensteiner,18,3,0.5470606958292796,0.16666666666666666
 333,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3212,7 +3212,7 @@ KONRAD:
 Rühig, Toni... s’isch wie’s dr Koch sait. Nur d’Dummheit vom Koch isch schuld as’m in dana zwei Johr kei Liecht ufganga isch — un ass ar dumm isch, isch nit sini eigeni Schuld... — Doch, jetz ans Wark, un kei Sekund mehr versümt.
 
           
-",wagner-die-greifensteiner,48,7,0.3970196222177031,0.14583333333333334
+",111,wagner-die-greifensteiner,48,7,0.3970196222177031,0.14583333333333334
 335,drama,Toni,M,,,,"
             
 TONI:
@@ -3221,7 +3221,7 @@ TONI:
 Un s’Seil hat a Ruck gmacht!
 
           
-",wagner-die-greifensteiner,8,2,0.4950612302377303,0.25
+",111,wagner-die-greifensteiner,8,2,0.4950612302377303,0.25
 336,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3230,7 +3230,7 @@ KONRAD:
 Kenna mir ziega? — Ja, hat ar gsait, ar isch bereit.
 
           
-",wagner-die-greifensteiner,12,2,0.6939912395599275,0.16666666666666666
+",112,wagner-die-greifensteiner,12,2,0.6939912395599275,0.16666666666666666
 337,drama,Toni,M,,,,"
             
 TONI :
@@ -3244,7 +3244,7 @@ Hopp, Nüdlasack, jetz zieg un loss nit luck, sunscht weh Dir, Dü füli Paschte
 .
 
           
-",wagner-die-greifensteiner,85,16,0.5193474053114316,0.18823529411764706
+",112,wagner-die-greifensteiner,85,16,0.5193474053114316,0.18823529411764706
 338,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3257,7 +3257,7 @@ Gott, allmachtiger, güetiger Gott! So hasch Dü mi flehend Gebat erhört un mic
 .
 
           
-",wagner-die-greifensteiner,64,17,0.5584726949944769,0.265625
+",112,wagner-die-greifensteiner,64,17,0.5584726949944769,0.265625
 339,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3266,7 +3266,7 @@ KONRAD:
 A Ohnmacht hat na erfasst... S’isch zu versteh! D’Luft d’frischa Luft, ungewohnt sit langer Zit. D’Ufregung... das alles — isch z’viel gsih uf eimol. — Doch das geht voriwer.
 
           
-",wagner-die-greifensteiner,35,6,0.5275106644720896,0.17142857142857143
+",113,wagner-die-greifensteiner,35,6,0.5275106644720896,0.17142857142857143
 340,drama,Toni,M,,,,"
             
 TONI :
@@ -3280,7 +3280,7 @@ Wenn’r stirbt fahrsch Dü do runter in das finschtra Loch; Dü Teigaff, Dü!
 .
 
           
-",wagner-die-greifensteiner,26,4,0.24854890712377045,0.15384615384615385
+",113,wagner-die-greifensteiner,26,4,0.24854890712377045,0.15384615384615385
 341,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF :
@@ -3292,7 +3292,7 @@ RUDOLF :
 Wu bin ich? Isch’s kei Troim? Ich bin frei?
 
           
-",wagner-die-greifensteiner,19,2,0.7784180493449833,0.10526315789473684
+",113,wagner-die-greifensteiner,19,2,0.7784180493449833,0.10526315789473684
 342,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3301,7 +3301,7 @@ KONRAD:
 Frei, bisch Dü Rudolf, bi Dina Frind! In güeter Hüet.
 
           
-",wagner-die-greifensteiner,11,3,0.8028388958880189,0.2727272727272727
+",114,wagner-die-greifensteiner,11,3,0.8028388958880189,0.2727272727272727
 344,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3310,7 +3310,7 @@ KONRAD:
 Adelinde, Di lieb Gemahl, han mr mit Gwalt miessa verhindra mit zu kumma. Mir han si nit in Gfohr wella wissa. Si hat scho gnüa glitta.
 
           
-",wagner-die-greifensteiner,27,5,0.5324755385722026,0.18518518518518517
+",114,wagner-die-greifensteiner,27,5,0.5324755385722026,0.18518518518518517
 345,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3319,7 +3319,7 @@ RUDOLF:
 So — hat si mich noch lieb, isch mir treu ge- bliewa? Hat mich nit verlora ga?
 
           
-",wagner-die-greifensteiner,19,4,0.6164245395897114,0.21052631578947367
+",115,wagner-die-greifensteiner,19,4,0.6164245395897114,0.21052631578947367
 346,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3328,7 +3328,7 @@ KONRAD:
 Ihr ahnend Harz hat ihr gsait, as Dü noch labsch. Ganzi Tag isch si gekneit in dr Burgkapall, hat im Ge- bat grunga um Dich, Dini Befreiung erbata. A treuer Wib git’s nit uf Arda.
 
           
-",wagner-die-greifensteiner,38,5,0.7677260195785256,0.13157894736842105
+",115,wagner-die-greifensteiner,38,5,0.7677260195785256,0.13157894736842105
 347,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3339,7 +3339,7 @@ Furt zu ihr... Mich drängt’s, mi harzlieb Wib in mini Arm zu schliessa
 . Isch das nit Geroldseck? Heisser Dank oi Eich, Heinrich von Geroldseck.
 
           
-",wagner-die-greifensteiner,30,3,0.5029651781004355,0.1
+",115,wagner-die-greifensteiner,30,3,0.5029651781004355,0.1
 348,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3348,7 +3348,7 @@ HEINRICH:
 Ich han nur mini Pflicht geto. Un ghalta, was ich im a Starbenda versprocha han, Eich zu befreia.
 
           
-",wagner-die-greifensteiner,19,2,0.6994618873206468,0.10526315789473684
+",116,wagner-die-greifensteiner,19,2,0.6994618873206468,0.10526315789473684
 349,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3357,7 +3357,7 @@ RUDOLF:
 Im a Starbenda han ihr miessa verspracha? Sot Hugo... mi Brüeder?
 
           
-",wagner-die-greifensteiner,12,2,0.784433970974456,0.16666666666666666
+",116,wagner-die-greifensteiner,12,2,0.784433970974456,0.16666666666666666
 350,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3366,7 +3366,7 @@ HEINRICH:
 Nei, nei, dam geht’s güet, züe güet. — Awer Walter, isch nimm unter da Lawenda. Ihm han Ihr Eiri Be- freiung zu verdanka.
 
           
-",wagner-die-greifensteiner,26,3,0.6928829688960136,0.11538461538461539
+",116,wagner-die-greifensteiner,26,3,0.6928829688960136,0.11538461538461539
 351,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3377,7 +3377,7 @@ So isch mi Brüeder Hugo
  noch nit in sich ganga. Wu wilt ar denn? Ich weiss jo nix vo dr Walt.
 
           
-",wagner-die-greifensteiner,25,1,0.8663948436837723,0.04
+",117,wagner-die-greifensteiner,25,1,0.8663948436837723,0.04
 352,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3386,7 +3386,7 @@ HEINRICH:
 Ar isch ufm Krizzug gsih, isch jetz ufm Heim- wag awer noch in Brindisi. Ich bin ihm vorüsgeilt, Eich zu be- freia.
 
           
-",wagner-die-greifensteiner,25,2,0.653479010730504,0.08
+",117,wagner-die-greifensteiner,25,2,0.653479010730504,0.08
 353,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3395,7 +3395,7 @@ RUDOLF:
 Unglickseliger Brüeder. Mit'm a so na Verbracha belada, hat ar troie dr heilig Boda vo Paläschtina betrata.
 
           
-",wagner-die-greifensteiner,19,2,0.8208130319580619,0.10526315789473684
+",117,wagner-die-greifensteiner,19,2,0.8208130319580619,0.10526315789473684
 354,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3404,7 +3404,7 @@ HEINRICH:
 Ar hat noch ganz andri Sacha troia macha... Doch furt. — Das für später. Heim uf Greifenstein.
 
           
-",wagner-die-greifensteiner,18,2,0.7572400031979881,0.1111111111111111
+",118,wagner-die-greifensteiner,18,2,0.7572400031979881,0.1111111111111111
 356,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3420,7 +3420,7 @@ Ich kumm gloib ich noch zur rachta Zit. Ha, Geroldseck!!! Dü hasch mich wella b
  Im Nama vom Kaiser Friedrich, unserm oberschta Landesherr sin Ihr verhaftet. In dr Kerker mit dr ganza Gsellschafft.
 
           
-",wagner-die-greifensteiner,65,10,0.46722002577691724,0.15384615384615385
+",118,wagner-die-greifensteiner,65,10,0.46722002577691724,0.15384615384615385
 357,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3429,7 +3429,7 @@ RUDOLF:
 Brüeder — isch’s no nit genüa an dana zwei Johr, an dam unermasslicha Leid, wu Dü iwer uns gebrocht?
 
           
-",wagner-die-greifensteiner,21,2,0.48528736882038737,0.09523809523809523
+",119,wagner-die-greifensteiner,21,2,0.48528736882038737,0.09523809523809523
 358,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -3438,7 +3438,7 @@ HUGO:
 Singa Eiri Lamentationa im Gfangnis; dert klingt’s besser an da herta feschta Wand!
 
           
-",wagner-die-greifensteiner,15,3,0.52428057497429,0.2
+",119,wagner-die-greifensteiner,15,3,0.52428057497429,0.2
 360,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH :
@@ -3454,7 +3454,7 @@ Un abtrünniger Schuft! Renegat! Ehr- loser Schuft! — Sin still, Rudolf, versc
  Ues unserem Wag, oder mir bahna uns, a blüetiga Wag mit unserem Dega!!! — Mir sin uf Bischöflichem Boda, mir sin freii Ritter. Mir lehn uns nit gfanga setza. Lug un Betrug isch’s, was Dü do redsch vo Verschwörung. — Solla mir schuldig si, so soll uns Bischof oder Kaiser vor Gericht lada. Un mir wara erschiena, als freii Ritter. — Awer Hand legt keina an uns!
 
           
-",wagner-die-greifensteiner,123,15,0.46508304232996406,0.12195121951219512
+",120,wagner-die-greifensteiner,123,15,0.46508304232996406,0.12195121951219512
 361,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3463,7 +3463,7 @@ KONRAD:
 Soldata! So isch’s. Mir sin kei Verschwörer. Eier Fiehrer isch a Scheusal, wu si Brüeder zwei Johr lang in dam laara Brunna do gfanga ghalta hat. — Wenn sini Sach ehr- lich gsih war, wurum hat ar na drno do versteckt? Do dr Koch soll d’Wohret saga, da weiss am Beschta Bscheid.
 
           
-",wagner-die-greifensteiner,56,12,0.5514985430386565,0.21428571428571427
+",120,wagner-die-greifensteiner,56,12,0.5514985430386565,0.21428571428571427
 362,drama,Koch,M,,,,"
             
 KOCH :
@@ -3475,7 +3475,7 @@ KOCH :
 Zu wem soll i halta? Wer wurd acht Meischter? Dr eina hat mi zum Narra ghalta un dr ander hat mi verschlaga. — Am beschta isch’s, ich sag nix, ich halt zu niemets!
 
           
-",wagner-die-greifensteiner,42,6,0.38018232087759635,0.14285714285714285
+",120,wagner-die-greifensteiner,42,6,0.38018232087759635,0.14285714285714285
 363,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3487,7 +3487,7 @@ HUGO :
 Horcha nit uf die Liega! 100 Gulda uf dr Kopf vo Jedem wu Ihr gfanga namma! EIN SOLDAT: 100 Gulda, das losst sich höra. Druf, Kame- rada! Hat Racht wer will!
 
           
-",wagner-die-greifensteiner,40,7,0.49197910878714596,0.175
+",121,wagner-die-greifensteiner,40,7,0.49197910878714596,0.175
 364,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3496,7 +3496,7 @@ KONRAD:
 Zruck Rudolf! Wenn eina vo uns fallt, so nimmsch Dü ihm dr Dega üs dr Hand. — So lang awer decka mir Dich!
 
           
-",wagner-die-greifensteiner,24,2,0.5984100798985008,0.08333333333333333
+",121,wagner-die-greifensteiner,24,2,0.5984100798985008,0.08333333333333333
 365,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3505,7 +3505,7 @@ RUDOLF:
 D’Not wurd mina Arm stähla. — Weh Dir, Hugo! Dü Schandfleck vo unserem edla Gschlacht.
 
           
-",wagner-die-greifensteiner,17,6,0.30272483569109104,0.35294117647058826
+",121,wagner-die-greifensteiner,17,6,0.30272483569109104,0.35294117647058826
 366,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3517,7 +3517,7 @@ HUGO :
 Vorwarts, Soldata!
 
           
-",wagner-die-greifensteiner,6,2,0.5175000000000001,0.3333333333333333
+",122,wagner-die-greifensteiner,6,2,0.5175000000000001,0.3333333333333333
 367,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -3529,7 +3529,7 @@ KONRAD :
 So kumm Mörder un Renegat. Ich will s’Schild vo da Greifasteiner wascha mit Dim Blüet, d’Walt befreia vo Dir, Dü Ungeheuer.
 
           
-",wagner-die-greifensteiner,32,7,0.31369160615531433,0.21875
+",122,wagner-die-greifensteiner,32,7,0.31369160615531433,0.21875
 368,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3543,7 +3543,7 @@ Alter Narr, Dü... wursch ufm Platz bliewa!... Un iwer Leicha wur ich schritta..
 .
 
           
-",wagner-die-greifensteiner,57,10,0.3569771657447505,0.17543859649122806
+",122,wagner-die-greifensteiner,57,10,0.3569771657447505,0.17543859649122806
 369,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD :
@@ -3555,7 +3555,7 @@ KONRAD :
 So — — Dü Ungeheuer. — Das wurd langa!
 
           
-",wagner-die-greifensteiner,14,2,0.5886480150083868,0.14285714285714285
+",123,wagner-die-greifensteiner,14,2,0.5886480150083868,0.14285714285714285
 370,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3571,7 +3571,7 @@ Getroffa! — — Höll un Teifel!! Jetz!
 . SOLDAT: Harzgegend! Tief! Do nutzt kei Wunderarzt nix mehr! Herr, soll ich Eich dr Prieschter hola!!
 
           
-",wagner-die-greifensteiner,59,10,0.39243963350059297,0.1694915254237288
+",123,wagner-die-greifensteiner,59,10,0.39243963350059297,0.1694915254237288
 371,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -3582,7 +3582,7 @@ Isch’s die Zit? — Ich mües geh... uf dr Höhe vo mim Lawa — so, noch am Z
 .
 
           
-",wagner-die-greifensteiner,33,8,0.6021097960062143,0.24242424242424243
+",123,wagner-die-greifensteiner,33,8,0.6021097960062143,0.24242424242424243
 372,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3593,7 +3593,7 @@ Armer Brüeder! Ar mües schieda. Hola a Priesch- ter!
 .
 
           
-",wagner-die-greifensteiner,15,2,0.5618356718634002,0.13333333333333333
+",124,wagner-die-greifensteiner,15,2,0.5618356718634002,0.13333333333333333
 373,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO :
@@ -3609,7 +3609,7 @@ Rudolf — ich hab unseri — seligi Müeter gsah! — Ich gloib... ich bin verl
  Die do — sin unschuldig! Ich hab alli be- troga! Betroga mi Bischöflicha Herr, betroga Friedrich... han Chrischtus verleignet, mi... Brüeder wella töte... d’Unschuld gmordet... A Strom vo Verbracha... — strömt... har... blüetig, rot... Brüder... ich ertrink!!... Rudolf... hilf! Verzeih!! bevor ich stirb!
 
           
-",wagner-die-greifensteiner,89,18,0.4423716347620095,0.20224719101123595
+",124,wagner-die-greifensteiner,89,18,0.4423716347620095,0.20224719101123595
 374,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3618,7 +3618,7 @@ RUDOLF:
 Hugo, sei rühig, Dir isch vergah!
 
           
-",wagner-die-greifensteiner,7,1,0.7650852936701521,0.14285714285714285
+",124,wagner-die-greifensteiner,7,1,0.7650852936701521,0.14285714285714285
 375,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -3627,7 +3627,7 @@ HUGO:
 Noch einer... Walter! — Ar kummt. — Wie strang ar mich alüegt.
 
           
-",wagner-die-greifensteiner,13,1,0.354400490693524,0.07692307692307693
+",125,wagner-die-greifensteiner,13,1,0.354400490693524,0.07692307692307693
 376,drama,Heinrich von Geroldseck,M,,,,"
             
 HEINRICH:
@@ -3636,7 +3636,7 @@ HEINRICH:
 Ar hat Eich verzeiht vor sim Tod. Ich hab ihm jo bigstanda, in sinra letztschta Stund.
 
           
-",wagner-die-greifensteiner,17,1,0.0368309599943194,0.058823529411764705
+",125,wagner-die-greifensteiner,17,1,0.0368309599943194,0.058823529411764705
 377,drama,Hugo von Greifenstein,M,,,,"
             
 HUGO:
@@ -3649,7 +3649,7 @@ Dank! Ja — jetz lachelt ar mir züe! O Lawa — —-, wie hasch Dü mich betro
 .
 
           
-",wagner-die-greifensteiner,42,13,0.5747379237035188,0.30952380952380953
+",125,wagner-die-greifensteiner,42,13,0.5747379237035188,0.30952380952380953
 378,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3660,7 +3660,7 @@ Ar isch iwra!! ins ewiga Land — reuig. Mög Gott ihm a gnadiga Richter sie!
 .
 
           
-",wagner-die-greifensteiner,27,5,0.6137090728995926,0.18518518518518517
+",126,wagner-die-greifensteiner,27,5,0.6137090728995926,0.18518518518518517
 379,drama,Konrad von Lichtenberg,M,,,,"
             
 KONRAD:
@@ -3669,7 +3669,7 @@ KONRAD:
 Un jetz uf, noch Strasburg. Mir han dert Be- richt zu erstatta. As gilt: oi dr Schleier zu breita, iwer das was gschah! — Rudolf hat scho gnüe glitta. As gilt ihm un siner Nochkommaschaft zu erspara, as d’Schand haftet an dam edla, stolza Nama.
 
           
-",wagner-die-greifensteiner,48,5,0.6248001910031842,0.10416666666666667
+",126,wagner-die-greifensteiner,48,5,0.6248001910031842,0.10416666666666667
 380,drama,Rudolf von Greifenstein,M,,,,"
             
 RUDOLF:
@@ -3680,4 +3680,4 @@ Dank, liwer Frind! Ich will sorga as mi Brüeder bestattet wurd in dr Familiagru
 . — SCHLUSS. —
 
           
-",wagner-die-greifensteiner,99,21,0.6409242982435165,0.21212121212121213
+",126,wagner-die-greifensteiner,99,21,0.6409242982435165,0.21212121212121213

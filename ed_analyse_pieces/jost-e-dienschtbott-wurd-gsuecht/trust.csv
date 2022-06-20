@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -10,7 +10,7 @@ MEYER:
 Nein, diss iwerläw ich nitt ! Myn ganz Vermeje haw ich verlore! E ganzi Million isch füddi, wo ich in Aktie vun d'r « Australisch Auschterebank » g’steckt habb, unn jetzt isch diss ganz Unternemme iwer Nacht verkracht ! Do steht’s im Blättel !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,57,9,0.10333333333333333,0.15789473684210525
+",0,jost-e-dienschtbott-wurd-gsuecht,57,9,0.10333333333333333,0.15789473684210525
 1,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -19,7 +19,7 @@ MEYER:
 Unn do bisch numme dü dran schuld, Jean !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,9,1,0.6747367096689181,0.1111111111111111
+",1,jost-e-dienschtbott-wurd-gsuecht,9,1,0.6747367096689181,0.1111111111111111
 2,comedy,Jean,M,,,,"
           
 JEAN :
@@ -28,7 +28,7 @@ JEAN :
 Na ja, Patron, ich will jo gern zuegänn, ass ich denne Morje Ihri Café-Schissel verhejt habb, awer ...
 
         
-",jost-e-dienschtbott-wurd-gsuecht,18,4,0.3066692707388826,0.2222222222222222
+",2,jost-e-dienschtbott-wurd-gsuecht,18,4,0.3066692707388826,0.2222222222222222
 3,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -37,7 +37,7 @@ MEYER:
 Ach was, die mein ich nitt! Vun mir üss hättsch d'ganz G’schirrabteilung vum « Magmod » kapütt dengle kenne! Ich mein d’« Australisch Auschterebank»!
 
         
-",jost-e-dienschtbott-wurd-gsuecht,28,4,0.3635,0.14285714285714285
+",3,jost-e-dienschtbott-wurd-gsuecht,28,4,0.3635,0.14285714285714285
 4,comedy,Jean,M,,,,"
           
 JEAN:
@@ -46,7 +46,7 @@ JEAN:
 Ah! Isch s’e üss’m Lym gange? Unn ich soll schuld sinn ? Ich habb mich nitt druff g’setzt, Monsieur Meyer !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,22,1,0.6747367096689181,0.045454545454545456
+",4,jost-e-dienschtbott-wurd-gsuecht,22,1,0.6747367096689181,0.045454545454545456
 5,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -55,7 +55,7 @@ MEYER:
 Babbel kein Mischt, Jean! Ass s'e schiewes isch gange, isch nitt dyni Schuld, awer ass ich myn ganz Geld nyng’steckt habb !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,23,4,0.3049185425953664,0.17391304347826086
+",5,jost-e-dienschtbott-wurd-gsuecht,23,4,0.3049185425953664,0.17391304347826086
 6,comedy,Jean,M,,,,"
           
 JEAN :
@@ -64,7 +64,7 @@ JEAN :
 Jetzt wurd’s Daa! Ja, Patron, saawe emool: Sinn Sie d'r Herr odder ich? Kenne Sie nitt mache, was Sie welle ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,22,3,0.20299999999999999,0.13636363636363635
+",6,jost-e-dienschtbott-wurd-gsuecht,22,3,0.20299999999999999,0.13636363636363635
 7,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -73,7 +73,7 @@ MEYER :
 Doch, awer wo ich dich angaschiert habb, hesch dü mir versichert, ass dü dich uff alles verstehsch.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,18,2,0.3125,0.1111111111111111
+",7,jost-e-dienschtbott-wurd-gsuecht,18,2,0.3125,0.1111111111111111
 8,comedy,Jean,M,,,,"
           
 JEAN:
@@ -84,7 +84,7 @@ Sell isch wohr, wenn sich's um ’s Koche, Butze, Nähje unn so wyddersch handel
           
         
 		
-",jost-e-dienschtbott-wurd-gsuecht,33,3,0.44158606416526264,0.09090909090909091
+",8,jost-e-dienschtbott-wurd-gsuecht,33,3,0.44158606416526264,0.09090909090909091
 9,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -93,7 +93,7 @@ MEYER :
 Egal, dü hesch mir awer geroote, ass ich’s riskiere kennt, myn Vermeje in dem Unternemme anzeleije.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,18,3,0.21366666666666667,0.16666666666666666
+",9,jost-e-dienschtbott-wurd-gsuecht,18,3,0.21366666666666667,0.16666666666666666
 10,comedy,Jean,M,,,,"
           
 JEAN :
@@ -102,7 +102,7 @@ JEAN :
 Unn ich dhät’s noch emool mache, Monsieur Meyer ! Ich bin in dem Dings guet renseigniert ..... myner bescht Frind hett jo e Liebschti, wo d’Schweschter vun d'r Butzfrau vum Gouverneur vun d'r Banque de France isch ! Non, non, ich loss mir ’s nitt üssredde ..... die Ba- bierle sinn so sicher wie Zuchthüssmüre !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,55,7,0.3548620686592882,0.12727272727272726
+",10,jost-e-dienschtbott-wurd-gsuecht,55,7,0.3548620686592882,0.12727272727272726
 11,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -117,7 +117,7 @@ Ich habb jo ’s Konträr devun schwarz uff wyss ! Füddi isch füddi! Unn fur a
 : Ich glaub als noch nitt an denne Bankkrach unn waje dem will ich die Babierle do in Sicherheit bringe ..... nutzt’s nix, ze schad’s nix !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,141,7,0.18530443008331185,0.04964539007092199
+",11,jost-e-dienschtbott-wurd-gsuecht,141,7,0.18530443008331185,0.04964539007092199
 12,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -128,7 +128,7 @@ Ah, do sinn jo Schwäwes!
  : Diss isch, ma foi, e dyer’s Fyer- werik, wo mich e bari Million koschte dhuet! Ich Ar- mer !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,37,1,0.0,0.02702702702702703
+",12,jost-e-dienschtbott-wurd-gsuecht,37,1,0.0,0.02702702702702703
 13,comedy,Jean,M,,,,"
           
 JEAN :
@@ -137,7 +137,7 @@ JEAN :
 Wenn diss numme kein Dummheit isch, Patron!
 
         
-",jost-e-dienschtbott-wurd-gsuecht,8,2,0.3045,0.25
+",13,jost-e-dienschtbott-wurd-gsuecht,8,2,0.3045,0.25
 14,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -146,7 +146,7 @@ MEYER:
 Was, Dummheit ? Was erlaubsch dü dir iwerhaupt, mich dumm zu heisse! Dü kummseh mir iwerhaupt in letschter Zytt allewyll so frech !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,22,4,0.0,0.18181818181818182
+",14,jost-e-dienschtbott-wurd-gsuecht,22,4,0.0,0.18181818181818182
 15,comedy,Jean,M,,,,"
           
 JEAN :
@@ -155,7 +155,7 @@ JEAN :
 Uff jede Fall, ich hätt’s nitt gemacht.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,9,3,0.24233333333333332,0.3333333333333333
+",15,jost-e-dienschtbott-wurd-gsuecht,9,3,0.24233333333333332,0.3333333333333333
 16,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -164,7 +164,7 @@ MEYER:
 Ich will einfach nimmi an denne Fehlschlaa ge- mahnt wäre, unn waje dem kannsch au dü sofort dyne Ranze packe unn dich um e neje Platz umsähn, denn wenn ich nitt uff dich g’horicht hätt, ze wär ich hytt nitt am Bettelstab !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,44,2,0.3555,0.045454545454545456
+",16,jost-e-dienschtbott-wurd-gsuecht,44,2,0.3555,0.045454545454545456
 18,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -173,7 +173,7 @@ MEYER :
 Oh, nitt numme waje dem ! Dü bisch mir in letsch- ter Zytt au viel ze viel iwer de Kopf gewachse! Dü hesch gemacht, was de witt, unn ich habb d’Roll vum e Dienschtbott kenne spiele.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,38,2,0.3635,0.05263157894736842
+",18,jost-e-dienschtbott-wurd-gsuecht,38,2,0.3635,0.05263157894736842
 19,comedy,Jean,M,,,,"
           
 JEAN :
@@ -182,7 +182,7 @@ JEAN :
 Wie wenn ich’s nitt allewyll guet mit Ihnne gemeint hätt ! E Fröj, ob Sie e bessere Noochfoljer fur mich be- kumme ? Sie sinn numme noch nitt im Rächte in d’Fin- ger g’falle !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,37,6,0.22133333333333335,0.16216216216216217
+",19,jost-e-dienschtbott-wurd-gsuecht,37,6,0.22133333333333335,0.16216216216216217
 20,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -191,7 +191,7 @@ MEYER:
 Egal! Dü kannsch gehn ... ich habb schun e An- nonce in d’Zyttung gemacht unn wart alle Moment uff e nejer Dienschtbott.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,24,3,0.4013333333333333,0.125
+",20,jost-e-dienschtbott-wurd-gsuecht,24,3,0.4013333333333333,0.125
 21,comedy,Jean,M,,,,"
           
 JEAN :
@@ -200,7 +200,7 @@ JEAN :
 Na, ze will ich nitt noch lang by Ihnne anhalte, unn ich winsch, ass ’s Ihnne nie leid dhuet, mir de Laufbass gänn ze hann !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,26,4,0.24782045583026313,0.15384615384615385
+",21,jost-e-dienschtbott-wurd-gsuecht,26,4,0.24782045583026313,0.15384615384615385
 22,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -210,7 +210,7 @@ Mir leid dhuen! Im Läwe nie! Unn jetzt ver- schwind !
 (Kehrt'm de Buckel anne.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,19,4,0.27349999999999997,0.21052631578947367
+",22,jost-e-dienschtbott-wurd-gsuecht,19,4,0.27349999999999997,0.21052631578947367
 23,comedy,Jean,M,,,,"
           
 JEAN :
@@ -224,7 +224,7 @@ Halt, ich habb e gueti Idee, denn ich habb myne Herr viel ze lieb, als dass ich�
 .
 
         
-",jost-e-dienschtbott-wurd-gsuecht,29,5,0.1422,0.1724137931034483
+",23,jost-e-dienschtbott-wurd-gsuecht,29,5,0.1422,0.1724137931034483
 24,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -239,7 +239,7 @@ Gott sej Dank, ass’r furt isch ! Diss wär doch gelacht, wenn’s kein bessere
           
 
         
-",jost-e-dienschtbott-wurd-gsuecht,133,14,0.2904213893024513,0.10526315789473684
+",24,jost-e-dienschtbott-wurd-gsuecht,133,14,0.2904213893024513,0.10526315789473684
 25,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL :
@@ -251,7 +251,7 @@ EMIL :
 Wohnt do d'r Monsieur Meyer ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,11,1,0.0,0.09090909090909091
+",25,jost-e-dienschtbott-wurd-gsuecht,11,1,0.0,0.09090909090909091
 26,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -260,7 +260,7 @@ MEYER:
 Ja; der bin ich sälwer !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,6,1,0.0,0.16666666666666666
+",26,jost-e-dienschtbott-wurd-gsuecht,6,1,0.0,0.16666666666666666
 27,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL :
@@ -274,7 +274,7 @@ Na, dem will ich’s stecke! Myner Frind, d’r Jean, hett mich g’schickt !
 : Ich kumm waje dere Annonce, wo in d'r Zyttung isch unn .....
 
         
-",jost-e-dienschtbott-wurd-gsuecht,32,4,0.46825862015375436,0.125
+",27,jost-e-dienschtbott-wurd-gsuecht,32,4,0.46825862015375436,0.125
 28,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -284,7 +284,7 @@ Ah, guet! Awer ein Moment... ich habb grad myne Photographie-Apperat yng’stell
 (Er stellt de Emil e paar Schritt vor’m Apperat uff.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,45,6,0.3855,0.13333333333333333
+",28,jost-e-dienschtbott-wurd-gsuecht,45,6,0.3855,0.13333333333333333
 29,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL:
@@ -293,7 +293,7 @@ EMIL:
 Hoffetlich gitt’s kein Uffnahm fur ins Verbrecher- Album !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,11,1,0.555,0.09090909090909091
+",29,jost-e-dienschtbott-wurd-gsuecht,11,1,0.555,0.09090909090909091
 30,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -302,7 +302,7 @@ MEYER :
 Unn jetzt lueje e bissel frindlich dryn !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,8,1,0.484,0.125
+",30,jost-e-dienschtbott-wurd-gsuecht,8,1,0.484,0.125
 33,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL :
@@ -311,7 +311,7 @@ EMIL :
 Ich habb schun lang nix Guet’s meh g’hett mit Üss- nahm vum e saftige Styerzettel !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,18,3,0.17966666666666667,0.16666666666666666
+",33,jost-e-dienschtbott-wurd-gsuecht,18,3,0.17966666666666667,0.16666666666666666
 34,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -322,7 +322,7 @@ Also ze denke emool an e zart’s, saftig’s Kalbs- schnitzel ! EMIL
 .
 
         
-",jost-e-dienschtbott-wurd-gsuecht,20,3,0.17966666666666667,0.15
+",34,jost-e-dienschtbott-wurd-gsuecht,20,3,0.17966666666666667,0.15
 35,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -333,7 +333,7 @@ MEYER :
 .
 
         
-",jost-e-dienschtbott-wurd-gsuecht,18,4,0.248,0.2222222222222222
+",35,jost-e-dienschtbott-wurd-gsuecht,18,4,0.248,0.2222222222222222
 36,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -343,7 +343,7 @@ MEYER :
 (grinst unn’s Wasser lauft'm üss’m Müll uff de Bodde ; er butzt sich mit’m Nasduech ab.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,31,3,0.0,0.0967741935483871
+",36,jost-e-dienschtbott-wurd-gsuecht,31,3,0.0,0.0967741935483871
 38,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL :
@@ -355,7 +355,7 @@ EMIL :
 Herr, here uff, odder ich lauf üss wie e voller Eimer, wo e Loch hett! Geje Sie isch jo d’Folter im Middelalter ’s reinscht G’sellschaftsspiel !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,30,5,0.0,0.16666666666666666
+",38,jost-e-dienschtbott-wurd-gsuecht,30,5,0.0,0.16666666666666666
 39,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -370,7 +370,7 @@ So isch’s guet ..... blyewe so... ich will g’schwind scharf ynstelle !
 		  
 
 		
-",jost-e-dienschtbott-wurd-gsuecht,51,5,0.0,0.09803921568627451
+",39,jost-e-dienschtbott-wurd-gsuecht,51,5,0.0,0.09803921568627451
 41,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -386,7 +386,7 @@ Herrjeh, was isch denn diss fur e Riese-Ochse-Au in mym Apperat ?
  Wie stehts: Kenne Ihr koche ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,87,6,0.12633333333333333,0.06896551724137931
+",41,jost-e-dienschtbott-wurd-gsuecht,87,6,0.12633333333333333,0.06896551724137931
 43,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -395,7 +395,7 @@ MEYER :
 Butze?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,2,1,0.5357581924957878,0.5
+",43,jost-e-dienschtbott-wurd-gsuecht,2,1,0.5357581924957878,0.5
 49,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -404,7 +404,7 @@ MEYER:
 Ja, was welle Ihr denn no eijetlich do ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,9,1,0.0,0.1111111111111111
+",49,jost-e-dienschtbott-wurd-gsuecht,9,1,0.0,0.1111111111111111
 50,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL:
@@ -413,7 +413,7 @@ EMIL:
 Ei, ich habb Ihnne numme welle saawe, ass ich die Stell nitt annemme kann !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,15,2,0.6605000000000001,0.13333333333333333
+",50,jost-e-dienschtbott-wurd-gsuecht,15,2,0.6605000000000001,0.13333333333333333
 51,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -422,7 +422,7 @@ MEYER:
 Jetzt hett’s awer g’schellt ! Nein, so e Frechheit ! Nüss !, saaw ich, nix als wie nüss! Ihr hann mir grad noch g’fählt !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,23,1,0.5780000000000001,0.043478260869565216
+",51,jost-e-dienschtbott-wurd-gsuecht,23,1,0.5780000000000001,0.043478260869565216
 52,comedy,Emil,M,valet,elementary_professions,lower_class,"
           
 EMIL :
@@ -434,7 +434,7 @@ EMIL :
 So? No kenne Sie mich jo au angaschiere !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,12,1,0.0,0.08333333333333333
+",52,jost-e-dienschtbott-wurd-gsuecht,12,1,0.0,0.08333333333333333
 55,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -448,7 +448,7 @@ Nix als wie verzirne kamm’r sich! Oh, ’s isch e Elend mit denne Dienschtbott
  er kann deby allerhand Kapriole mache, so ass d’r Apperat wackelt unn als schier umfalle will.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,252,20,0.2171169501087467,0.07936507936507936
+",55,jost-e-dienschtbott-wurd-gsuecht,252,20,0.2171169501087467,0.07936507936507936
 56,comedy,Jean,M,,,,"
           
 JEAN :
@@ -462,7 +462,7 @@ So, do bin ich widder! Jetzt will d'r Jean emool sym liewe Monsieur Meyer zeije,
           
 
 		
-",jost-e-dienschtbott-wurd-gsuecht,81,4,0.1581668169879226,0.04938271604938271
+",56,jost-e-dienschtbott-wurd-gsuecht,81,4,0.1581668169879226,0.04938271604938271
 57,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -475,7 +475,7 @@ So, d’Statüt wär exakt yng’stellt! Jetzt kummt d’Platt nyn.
 (Nemmt üss’m Fracksack e Kassett, wo’r in de Apperat schiebt. Er kummt unter'm Duech vor unn bedracht numme noch de Apperat, so ass’r de Jean, wo in d'r Nähde vun d'r Statüt steht, nitt sieht.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,58,4,0.33599999999999997,0.06896551724137931
+",57,jost-e-dienschtbott-wurd-gsuecht,58,4,0.33599999999999997,0.06896551724137931
 58,comedy,Jean,M,,,,"
           
 JEAN :
@@ -487,7 +487,7 @@ JEAN :
 Ich bin doch schun lang nimm abkonterfeit worre !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,19,1,0.0,0.05263157894736842
+",58,jost-e-dienschtbott-wurd-gsuecht,19,1,0.0,0.05263157894736842
 59,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -504,7 +504,7 @@ Unn jetzt nimm geriehrt ..... rächt fryndlieh, s’il vous plait!... Eins-zwei-
 (Ab nooch rächts mit d'r Kassett.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,63,3,0.6876666666666668,0.047619047619047616
+",59,jost-e-dienschtbott-wurd-gsuecht,63,3,0.6876666666666668,0.047619047619047616
 61,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -518,7 +518,7 @@ Was isch mir denn nitt diss ! Myner Napoléon hett sich jo in e Bür verwan- del
 : Ah, do steht der Sindebock ! Was han Ihr denn in mynere Menasch unn gar noch in mym Photographie-Apperat ze sueche ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,59,3,0.0,0.05084745762711865
+",61,jost-e-dienschtbott-wurd-gsuecht,59,3,0.0,0.05084745762711865
 62,comedy,Jean,M,,,,"
           
 JEAN :
@@ -527,7 +527,7 @@ JEAN :
 Ich habb in d'r Zyttung Ihri Annonce geläse unn bin kumme waje dem Platz, wo by Ihnne frej isch.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,20,2,0.258,0.1
+",62,jost-e-dienschtbott-wurd-gsuecht,20,2,0.258,0.1
 65,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -538,7 +538,7 @@ Diss isch nitt grad wenni, wenn’s wohr isch ! Unn was wär diss par exemple ?
           
 
 		
-",jost-e-dienschtbott-wurd-gsuecht,16,2,0.6835,0.125
+",65,jost-e-dienschtbott-wurd-gsuecht,16,2,0.6835,0.125
 66,comedy,Jean,M,,,,"
           
 JEAN :
@@ -552,7 +552,7 @@ Na, wart, ich will dirs schun koche!
 : Ich kann e Ochs anspanne... also wurr ich Ihnne wohl au d’Kleider anzehje kenne !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,30,4,0.4141692956495098,0.13333333333333333
+",66,jost-e-dienschtbott-wurd-gsuecht,30,4,0.4141692956495098,0.13333333333333333
 67,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -561,7 +561,7 @@ MEYER:
 Ihr schynne um Verglych nitt grad arich verläje ze sinn!
 
         
-",jost-e-dienschtbott-wurd-gsuecht,11,3,0.19266666666666668,0.2727272727272727
+",67,jost-e-dienschtbott-wurd-gsuecht,11,3,0.19266666666666668,0.2727272727272727
 68,comedy,Jean,M,,,,"
           
 JEAN :
@@ -570,7 +570,7 @@ JEAN :
 No kann ich Gras mähje ..... also wurr ich wohl au Ihre Bart rasiere kenne !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,15,1,0.6176771825980392,0.06666666666666667
+",68,jost-e-dienschtbott-wurd-gsuecht,15,1,0.6176771825980392,0.06666666666666667
 69,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -579,7 +579,7 @@ MEYER:
 Unn wie steht’s mit d'r Kiche ? JEAN ch Oh, ieh bin e grosser Frind vun’re gueti Kiche! Unn no au vum e guete Gläsel Wyn... ich syberel fur myn Läwe gern !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,33,5,0.3467423127141096,0.15151515151515152
+",69,jost-e-dienschtbott-wurd-gsuecht,33,5,0.3467423127141096,0.15151515151515152
 70,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -592,7 +592,7 @@ Ah, Ihr syberle gern!
 : Unn was hann Ihr fur e Charakter ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,37,3,0.39322569431851023,0.08108108108108109
+",70,jost-e-dienschtbott-wurd-gsuecht,37,3,0.39322569431851023,0.08108108108108109
 71,comedy,Jean,M,,,,"
           
 JEAN:
@@ -601,7 +601,7 @@ JEAN:
 Oh, ich habb de bescht Charakter vun d'r Welt! Ich mach alles, was m'r will... unn sogar diss, was m'r nitt will! Kurz, e Lämmele isch geje mich e Wolf !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,31,2,0.219,0.06451612903225806
+",71,jost-e-dienschtbott-wurd-gsuecht,31,2,0.219,0.06451612903225806
 72,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -610,7 +610,7 @@ MEYER:
 Unn wie heisse Ihr ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,5,1,0.0,0.2
+",72,jost-e-dienschtbott-wurd-gsuecht,5,1,0.0,0.2
 73,comedy,Jean,M,,,,"
           
 JEAN:
@@ -619,7 +619,7 @@ JEAN:
 Ich heiss ganz kurz: Charles Auguste Leon Pierre Georges Louis Alfred Jean Dippeldappel !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,14,2,0.0,0.14285714285714285
+",73,jost-e-dienschtbott-wurd-gsuecht,14,2,0.0,0.14285714285714285
 74,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -628,7 +628,7 @@ MEYER:
 Unn diss heisse Ihr kurz! So e Schlang vum e Namme kann jo kein Mensch b’halte !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,17,2,0.0,0.11764705882352941
+",74,jost-e-dienschtbott-wurd-gsuecht,17,2,0.0,0.11764705882352941
 76,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -637,7 +637,7 @@ MEYER:
 Diss wär noch scheener, wenn Ihr Ejere eije Namme nit b’halte kennte ! Bref, ich ruef Ejch noch einfacher : Alfred !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,20,2,0.5735022331357763,0.1
+",76,jost-e-dienschtbott-wurd-gsuecht,20,2,0.5735022331357763,0.1
 79,comedy,Jean,M,,,,"
           
 JEAN :
@@ -647,7 +647,7 @@ Ich blyeh by Jean ! Unn wenn Sie mich noch länger säje, ze dhue ich Ihnne d’
 (Er wurd als frecher.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,26,3,0.0,0.11538461538461539
+",79,jost-e-dienschtbott-wurd-gsuecht,26,3,0.0,0.11538461538461539
 80,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -661,7 +661,7 @@ Unn der will e Lämmeles-Charakter hann ! Nein, myn Liewer, in dem Fall verzieht
           
 
         
-",jost-e-dienschtbott-wurd-gsuecht,48,6,0.3163336339758452,0.125
+",80,jost-e-dienschtbott-wurd-gsuecht,48,6,0.3163336339758452,0.125
 81,comedy,Jean,M,,,,"
           
 JEAN :
@@ -675,7 +675,7 @@ Wo sich awer nitt alles g’falle losst wie par exemple so e stilli, verträjlic
 (Ab nooch hinte.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,116,13,0.13038461538461538,0.11206896551724138
+",81,jost-e-dienschtbott-wurd-gsuecht,116,13,0.13038461538461538,0.11206896551724138
 82,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -687,7 +687,7 @@ Hett m'r jetzt schun emool so e boddelosi Unver- schämtheit erläbt! Er hett wa
           
         
 		
-",jost-e-dienschtbott-wurd-gsuecht,204,29,0.35489166171148073,0.14215686274509803
+",82,jost-e-dienschtbott-wurd-gsuecht,204,29,0.35489166171148073,0.14215686274509803
 83,comedy,Jean,M,,,,"
           
 JEAN :
@@ -696,7 +696,7 @@ JEAN :
 So, jetzt will ich emool sähn, ob d'r Monsieur Meyer sich e Lehr genumme hett ! Ich habb’m jo vorig d'Hell heiss genue gemacht !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,26,4,0.32625,0.15384615384615385
+",83,jost-e-dienschtbott-wurd-gsuecht,26,4,0.32625,0.15384615384615385
 84,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -708,7 +708,7 @@ MEYER :
 Unn jetzt die nej Platt in de Apperat !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,17,1,0.664,0.058823529411764705
+",84,jost-e-dienschtbott-wurd-gsuecht,17,1,0.664,0.058823529411764705
 85,comedy,Jean,M,,,,"
           
 JEAN :
@@ -720,7 +720,7 @@ JEAN :
 Wie der spanne wurd, wenn’r d’Platt entwickelt !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,19,1,0.0,0.05263157894736842
+",85,jost-e-dienschtbott-wurd-gsuecht,19,1,0.0,0.05263157894736842
 86,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -732,7 +732,7 @@ Kein Bewejung meh! Rächt frindlich, s’il vous plaît ! Eins-zwei-drej !
 (Rächts ab.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,31,2,0.6365000000000001,0.06451612903225806
+",86,jost-e-dienschtbott-wurd-gsuecht,31,2,0.6365000000000001,0.06451612903225806
 87,comedy,Jean,M,,,,"
           
 JEAN :
@@ -741,7 +741,7 @@ JEAN :
 Er hett mich als noch nitt g’sähn ! Wenn’r wisse dhät, was fur e gueti Nuwell ass ich fur’ne habb, er dhät sich mit dem Gückkaschte gewiss nimm abschinde !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,29,1,0.0,0.034482758620689655
+",87,jost-e-dienschtbott-wurd-gsuecht,29,1,0.0,0.034482758620689655
 88,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -758,7 +758,7 @@ Jetzt heert sich doch alles uff ! Myner Napoléon hett sich diss Zugg gar in de 
           
 
 		
-",jost-e-dienschtbott-wurd-gsuecht,67,4,0.19125000000000003,0.05970149253731343
+",88,jost-e-dienschtbott-wurd-gsuecht,67,4,0.19125000000000003,0.05970149253731343
 89,comedy,Jean,M,,,,"
           
 JEAN:
@@ -767,7 +767,7 @@ JEAN:
 Ich habb s’e awer offe g’funde, Monsieur Meyer ! Unn wenn e Dier offe isch, ze isch diss e Zeiche, ass m'r nyn kann unn ...
 
         
-",jost-e-dienschtbott-wurd-gsuecht,26,2,0.0,0.07692307692307693
+",89,jost-e-dienschtbott-wurd-gsuecht,26,2,0.0,0.07692307692307693
 91,comedy,Jean,M,,,,"
           
 JEAN :
@@ -777,7 +777,7 @@ Ich bin au gar nitt kumme, fur Ejer scheen’s G’sicht ze sähn ..... ich will
 (Er setzt d’Kapp uff, wo noch uff'm Bodde lejt.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,48,7,0.18942920946736466,0.14583333333333334
+",91,jost-e-dienschtbott-wurd-gsuecht,48,7,0.18942920946736466,0.14583333333333334
 92,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -789,7 +789,7 @@ MEYER :
 Im Himmel !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,6,1,0.531,0.16666666666666666
+",92,jost-e-dienschtbott-wurd-gsuecht,6,1,0.531,0.16666666666666666
 93,comedy,Jean,M,,,,"
           
 JEAN :
@@ -798,7 +798,7 @@ JEAN :
 Nein, nitt in de Himmel, awer in d'Wirtschaft vis-à- vis... er wart dort uff mich !: à
 
         
-",jost-e-dienschtbott-wurd-gsuecht,19,3,0.336,0.15789473684210525
+",93,jost-e-dienschtbott-wurd-gsuecht,19,3,0.336,0.15789473684210525
 94,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -807,7 +807,7 @@ MEYER:
 Was sieh ich ? Die Kapp ! Diss G’sicht ! Diss isch jo ’s nämlich G’sicht wie diss vum Alfred, vun dem un- g’schliffene Holwel, wo sich vorig by mir vorg’stellt hett! Wo haw ich denn numme myni Aue g’hett !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,39,2,0.523,0.05128205128205128
+",94,jost-e-dienschtbott-wurd-gsuecht,39,2,0.523,0.05128205128205128
 95,comedy,Jean,M,,,,"
           
 JEAN:
@@ -816,7 +816,7 @@ JEAN:
 Kein Wunder, ass ich'm glych ! Ich bin üss’m nämliche Ort wie er !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,15,1,0.0,0.06666666666666667
+",95,jost-e-dienschtbott-wurd-gsuecht,15,1,0.0,0.06666666666666667
 97,comedy,Jean,M,,,,"
           
 JEAN:
@@ -825,7 +825,7 @@ JEAN:
 Er hett de nämlich Vadder wie ich.
 
         
-",jost-e-dienschtbott-wurd-gsuecht,8,1,0.586,0.125
+",97,jost-e-dienschtbott-wurd-gsuecht,8,1,0.586,0.125
 99,comedy,Jean,M,,,,"
           
 JEAN:
@@ -834,7 +834,7 @@ JEAN:
 Unn ich bin’s einzig Kind vun mym Babbe !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,10,3,0.19533333333333333,0.3
+",99,jost-e-dienschtbott-wurd-gsuecht,10,3,0.19533333333333333,0.3
 100,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -843,7 +843,7 @@ MEYER :
 Haw ich dich verwitscht, dü üssgekochter Spitz- bue ..... dü farceur ! Jetzt sieh ich hell: Dü hesch denne ung'howelt unn gewalttätig Alfred g’spielt, fur ass mir d’Luscht uff e anderer valet-de-chambre vergehn soll ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,35,6,0.0,0.17142857142857143
+",100,jost-e-dienschtbott-wurd-gsuecht,35,6,0.0,0.17142857142857143
 101,comedy,Jean,M,,,,"
           
 JEAN :
@@ -852,7 +852,7 @@ JEAN :
 Ich kann’s nitt leigle, Herr !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,7,1,0.0,0.14285714285714285
+",101,jost-e-dienschtbott-wurd-gsuecht,7,1,0.0,0.14285714285714285
 102,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -861,7 +861,7 @@ MEYER:
 Ja, Jean, haltsch denn dü so arich an mir ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,10,1,0.0,0.1
+",102,jost-e-dienschtbott-wurd-gsuecht,10,1,0.0,0.1
 103,comedy,Jean,M,,,,"
           
 JEAN :
@@ -870,7 +870,7 @@ JEAN :
 Unn wie, Herr!
 
         
-",jost-e-dienschtbott-wurd-gsuecht,4,1,0.0,0.25
+",103,jost-e-dienschtbott-wurd-gsuecht,4,1,0.0,0.25
 104,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -879,7 +879,7 @@ MEYER:
 Unn au in mym Elend witt de mich nitt im Stich lonn ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,13,2,0.1015,0.15384615384615385
+",104,jost-e-dienschtbott-wurd-gsuecht,13,2,0.1015,0.15384615384615385
 105,comedy,Jean,M,,,,"
           
 JEAN :
@@ -890,7 +890,7 @@ Was, Elend ? Herr, mir sinn jo rych ! Do steht’s in d'r Zyttung!
  D’« Australisch Auschterebank » isch jo gar nitt verkracht !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,37,3,0.0,0.08108108108108109
+",105,jost-e-dienschtbott-wurd-gsuecht,37,3,0.0,0.08108108108108109
 106,comedy,Meyer,M,,,,"
           
 MEYER :
@@ -904,7 +904,7 @@ Was saasch de do, Jean !
  Oh, ich g’schlaawener Mann ! Jetzt haw ich myn Vermeje erscht erächt verlore ! Diss verwind ich nitt! Ich habb jo myni Aktie verbrennt !
 
 		
-",jost-e-dienschtbott-wurd-gsuecht,68,10,0.1477,0.14705882352941177
+",106,jost-e-dienschtbott-wurd-gsuecht,68,10,0.1477,0.14705882352941177
 107,comedy,Jean,M,,,,"
           
 JEAN :
@@ -918,7 +918,7 @@ Diss wär allerdings jetzt d'r Fall, wenn ich so e dummer Diener wär, wie Sie v
  Ich habb s’e nämlich noch rächtzyttig in Sicherheit gebroocht ! Was Sie verbrennt hann, sinn alti Zyttunge g’sinn !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,57,7,0.2448331549465656,0.12280701754385964
+",107,jost-e-dienschtbott-wurd-gsuecht,57,7,0.2448331549465656,0.12280701754385964
 108,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -928,7 +928,7 @@ Isch’s mejlich, Jean ! Dü bisch e Prachtsmensch, e Goldmensch ! Durch dich ha
 (Er umarmt’ne.)
 
         
-",jost-e-dienschtbott-wurd-gsuecht,57,7,0.2877053515303639,0.12280701754385964
+",108,jost-e-dienschtbott-wurd-gsuecht,57,7,0.2877053515303639,0.12280701754385964
 109,comedy,Jean,M,,,,"
           
 JEAN :
@@ -937,7 +937,7 @@ JEAN :
 Merci, Patron ! Unn wie steht’s mit d'r Kindigung ?
 
         
-",jost-e-dienschtbott-wurd-gsuecht,10,2,0.3045,0.2
+",109,jost-e-dienschtbott-wurd-gsuecht,10,2,0.3045,0.2
 110,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -946,7 +946,7 @@ MEYER:
 Na, guet, ich b’halt dich in dem Fall nadierlich widder ..... ich habb mich zuedem so scheen an dich gewehnt, unn dyner Verstand .....
 
         
-",jost-e-dienschtbott-wurd-gsuecht,23,4,0.10900111656788818,0.17391304347826086
+",110,jost-e-dienschtbott-wurd-gsuecht,23,4,0.10900111656788818,0.17391304347826086
 112,comedy,Meyer,M,,,,"
           
 MEYER:
@@ -955,7 +955,7 @@ MEYER:
 Awer au eins merik dir fur in Zuekunft unn nemm’s ze Härze : Ich bin d'r Herr do hinne unn dü dr Ang’stellt! ’s gält also numme dyner Wille ..... äh, ich will saawe: nitt myner Wille ..... ei, nein, ich mein... ’s gält also numme dyner Wille ..... äh, ich na, kurz, dü weisch jo schun, wie ich’s mein ! ’s G’sicht vum Alfred kannsch de mynntwäje b’halte, awer syner Charakter blyet mir zuem Hüss drüsse !
 
         
-",jost-e-dienschtbott-wurd-gsuecht,75,6,0.32949999999999996,0.08
+",112,jost-e-dienschtbott-wurd-gsuecht,75,6,0.32949999999999996,0.08
 113,comedy,Jean,M,,,,"
           
 JEAN :
@@ -970,4 +970,4 @@ Odder kurz g’saat : Mir bringe drej Kepf unter ein Kapp ! No wäre mir schun b
  Schluss. 
 
         
-",jost-e-dienschtbott-wurd-gsuecht,39,2,0.0,0.05128205128205128
+",113,jost-e-dienschtbott-wurd-gsuecht,39,2,0.0,0.05128205128205128

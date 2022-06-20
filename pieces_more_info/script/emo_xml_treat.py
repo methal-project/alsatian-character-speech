@@ -39,8 +39,22 @@ def main():
     if ("lustig" in sys.argv[1]):
         short_name = "lustig-" + short_name
     df = pd.read_csv(xml_out, index_col = False)
+    # ------------------------------- slice the piece -------------------------------------
+    num_rows = df.shape[0]
+    x_ticks = []
+    #if (num_rows > 300): # S'il y a pas mal de tournes de paroles
+    step = num_rows // 100
+    if (step == 0):
+        step = 1
+    x_ticks = [index for index in range(num_rows//step) for i in range(step)]
+    rest = num_rows - len(x_ticks)
+    rest_id = x_ticks[len(x_ticks) - 1] + 1
+    for i in range(rest):
+        x_ticks.append(rest_id)
+    print(len(x_ticks), num_rows)
+    df["progress"] = x_ticks
+    # --------------------------------------------------------------------------------------
     df["short_name"] = short_name
-
     info_df = pd.read_csv("./pieces_more_info/personnages-pieces.csv")
     print(short_name)
     genre = info_df.loc[short_name == info_df["shortName"]]

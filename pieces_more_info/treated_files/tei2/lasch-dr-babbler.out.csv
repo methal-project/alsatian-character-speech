@@ -1,4 +1,4 @@
-,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name
 0,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -11,7 +11,7 @@ Versüere möcht mer im Essikrüj. Jetz isch’s nine zmorjes un der Meischter i
 (Es Klopft.)
 
         
-",lasch-dr-babbler
+",0,lasch-dr-babbler
 1,comedy,Fritz,M,,,,"
 	  
 Fritz:
@@ -20,7 +20,7 @@ Fritz:
 Na, der Client kommt bezidde. Entrez!
 
 	
-",lasch-dr-babbler
+",1,lasch-dr-babbler
 2,comedy,Müller,M,,,,"
           
 Müller :
@@ -32,7 +32,7 @@ Müller :
 Bonjour, kann ich mit em Meischter redde?
 
         
-",lasch-dr-babbler
+",2,lasch-dr-babbler
 3,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -44,7 +44,7 @@ Fritz :
 Ewe isch er üsgange,
 
         
-",lasch-dr-babbler
+",3,lasch-dr-babbler
 4,comedy,Müller,M,,,,"
           
 Müller:
@@ -53,7 +53,7 @@ Müller:
 Ze ward i e Auesblick.
 
         
-",lasch-dr-babbler
+",4,lasch-dr-babbler
 5,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -65,7 +65,7 @@ Fritz :
 Des kennt am End e langer Auesblick wäre.
 
         
-",lasch-dr-babbler
+",5,lasch-dr-babbler
 6,comedy,Müller,M,,,,"
           
 Müller:
@@ -74,7 +74,7 @@ Müller:
 Wieso? Ihr Meischter isch doch bi kaanre Licht?
 
         
-",lasch-dr-babbler
+",6,lasch-dr-babbler
 7,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -86,7 +86,7 @@ Fritz :
 Zell nit grad. Awer er isch hit güet uffgelajt un do dürts immer e Paar Stündle bis er widder kummt.
 
         
-",lasch-dr-babbler
+",7,lasch-dr-babbler
 8,comedy,Müller,M,,,,"
           
 Müller:
@@ -95,7 +95,7 @@ Müller:
 Na dis schint mer e netti Hüshaltung ze sin. Awer saue sie emol, wie rauchts denn mit mim neue Frack? Am Dienschdaa isch mini Hoch- zit, hit isch Samschdaa. Er het mer versproche, ne unfehlbar uf hit ferti ze mache.
 
         
-",lasch-dr-babbler
+",8,lasch-dr-babbler
 9,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -104,7 +104,7 @@ Fritz:
 Ihre Frack? Pardon, do derdun weiß i nix. Kaan Wörtel het d’r Meischter gsaat, daß ebs pressiert.
 
         
-",lasch-dr-babbler
+",9,lasch-dr-babbler
 10,comedy,Müller,M,,,,"
           
 Müller :
@@ -120,7 +120,7 @@ Was?! Sie wisse nix?! Jetz wurd’s mer nimmi besser! Ja maant denn der gebickt 
 ; soll des ebbe der Frack sin?
 
         
-",lasch-dr-babbler
+",10,lasch-dr-babbler
 11,comedy,Müller,M,,,,"
           
 Müller :
@@ -134,7 +134,7 @@ Ich glaub, Sie welle ütze?! Des isch e Frechheit, e Niederträchtigkeit von Ihr
 .
 
         
-",lasch-dr-babbler
+",11,lasch-dr-babbler
 12,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -146,7 +146,7 @@ Fritz :
 Berühige Sie sich doch, Herr Müller! D’r Meischter het villicht d’Wuch von Ihre hochzit verwechselt.
 
         
-",lasch-dr-babbler
+",12,lasch-dr-babbler
 13,comedy,Müller,M,,,,"
           
 Müller :
@@ -160,7 +160,7 @@ Dhät der sine Strohkopf emol wechsle lon. Fritz
 ; Es loßt sich jo noch alles guet rangire.
 
         
-",lasch-dr-babbler
+",13,lasch-dr-babbler
 14,comedy,Müller,M,,,,"
           
 Müller :
@@ -172,7 +172,7 @@ Müller :
 Do het er mer vorgebabbelt, daß niemes e so schöne, schicke Frack han soll, wie ich. Selwer will er ne mache un em e Façon gen numero Pfiff.
 
         
-",lasch-dr-babbler
+",14,lasch-dr-babbler
 15,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -186,7 +186,7 @@ Der saad vil, wenn der Daa lang isch.
  Wie wärs, Herr Müller, wenn ich Ihne verspreche dhät, dene Frack bis am Mon- daa morjes ferdi ze mache. Sie solle sehn, ich kann au ebs, wenn i au nit Meischter bin.
 
         
-",lasch-dr-babbler
+",15,lasch-dr-babbler
 16,comedy,Müller,M,,,,"
           
 Müller:
@@ -197,7 +197,7 @@ Na ich hab nix dergeje
 , ich verloß mich meh uf Si, als uf Ihre letz- gedräjte Herr. Daß Sie im Meischter sini Par- tie annemme, des will ebs heiße bim e Gsell in dene Zitte. Amer, saue Sie emol uffrichtig : Ihr Meischter isch nimm so recht derbi, bi sim Handwerick?
 
         
-",lasch-dr-babbler
+",16,lasch-dr-babbler
 17,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -206,7 +206,7 @@ Fritz:
 Na, Herr Müller, Ihne kann ichs klaue, was mich shun lang druckt. Sie sin e Kaufmann, wie er im Büech steht. Awer wenn Sie do wärde un sehn däte, wie der Meischter über sim ewige Gebabbels alles gehn un stehn loßt und sich sel- wer D’Kundschaft vertribt, sie d’häte an de Wänd nuff! Er ish jo s'hell Wucheblättel, Wenn hinte in der Dürkei sich e Paar d’Köpf verschlaue, so halt er de ganze Nochberschaft großi politischi Rede. Greit Jemand e Kind, so rüejt er nit, bis er weiß, wer Pfedder wurd. Manchmol wurd er bi ärmere Lit au selwer genumme. Hirot Einer, so horcht er üweral, was Sie mit- bekommt. Er isch e güter Mann, het awer e böfi Zung. Un was ihm einer uff d’Nas bind, des glaubt er felsefescht. Na, ich könnt verzähle, wenn i wot.
 
         
-",lasch-dr-babbler
+",17,lasch-dr-babbler
 18,comedy,Müller,M,,,,"
           
 Müller :
@@ -218,7 +218,7 @@ Müller :
 Wie wärs, wenn mer dem Mann e Denkzettel gäb, wo ne für sin Lebdaa kurive dhät. S' fallt mer grad ebs in.
 
         
-",lasch-dr-babbler
+",18,lasch-dr-babbler
 19,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -230,7 +230,7 @@ Fritz :
 Horch do, ich hör im Meischter sine Schritt. Der het sicher ebbs vergesse, daß er so schnell wider kommt.
 
         
-",lasch-dr-babbler
+",19,lasch-dr-babbler
 20,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -242,7 +242,7 @@ Fräckel :
 Ah, lüj do, der Herr Müller. Quel honneur, quel bonheur! Freit mi, freit mi ari, daß Sie schun in aller Herrgottsfrüej kumme. Gewiß weje dem Fräckele; o es wurd ferdi, kaan Angscht, e Klaanigkeit. Angfange ischs freili noch nit, awer mer kennte vellicht s'Meß noch emol nemme. E Hochzitter wurd licht ebbs dicker bi dem vile guete Esse bi der Schweijermame. Seie Sie so güet un zeje Sie s'West üs.
 
         
-",lasch-dr-babbler
+",20,lasch-dr-babbler
 21,comedy,Müller,M,,,,"
           
 Müller :
@@ -256,7 +256,7 @@ Na, mer merkts, daß er nit uffs Mül gfalle isch.
  O, Herr Fräckel, ich kann mer jo denke, werum Sie nimmi grad gern in Ihrem Atelier schaffe.
 
         
-",lasch-dr-babbler
+",21,lasch-dr-babbler
 22,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -265,7 +265,7 @@ Fräckel:
 Ich nimm gern schaffe? Gelle Sie, ’s het mich Aaner schlecht gemacht bi Ihne?
 
         
-",lasch-dr-babbler
+",22,lasch-dr-babbler
 23,comedy,Müller,M,,,,"
           
 Müller :
@@ -277,7 +277,7 @@ Müller :
 Wenn mer halt e so Erbschäftel in Üssicht het, wie Sie.
 
         
-",lasch-dr-babbler
+",23,lasch-dr-babbler
 24,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -288,7 +288,7 @@ E Erbschäftel? Sie welle doch nit von dere alte Cafferol redde, wo mir min Juli
  : Herr Fräckel, nix für ungüt, awer Sie komme mer vor, wie e klaans Kind, wo noch am biberon nullt. Gescht hawi in der Frankfurter Zittung gelese, daß e Familie Meyer in Südditschland gsüecht wurd, füer e Erbschaft ze erhewe, wo Aaner namens Meyer in Amerika hinterlon het. Isch's mer e Recht, so isch jo ihri Frau e geboreni Meyere gsin.
 
         
-",lasch-dr-babbler
+",24,lasch-dr-babbler
 25,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -301,7 +301,7 @@ Un ob sie e Meyere isch gsin, di gued Seel. Un e Unkel het sie ghett, d'r Meyer 
  Wisse Sie was des isch e Million? Soviel Geld han Sie noch nit zsamme gsehn. O daß des min Julie nimm er- lebt het!
 
         
-",lasch-dr-babbler
+",25,lasch-dr-babbler
 26,comedy,Müller,M,,,,"
           
 Müller:
@@ -310,7 +310,7 @@ Müller:
 Halt, halt, nit so vif! Ich hab nur gsaat, was in der Zittung steht. Vergesse Sie nit: „Südditschland"" steht do, des isch groß un Stroß- buri het ze Frankrich ghert, wie der Meyer Schang ümer ’s Waffer isch.
 
         
-",lasch-dr-babbler
+",26,lasch-dr-babbler
 27,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -321,7 +321,7 @@ Nix do, Herr Müller, soviel Meyer sin nit nüwer gange. Gunne Sie unseraam au e
  Runter jetz von dem Disch. Hit wurd nimmi gschafft, un Spätter wäre kaani meh uff d’Hose gsetzt.
 
         
-",lasch-dr-babbler
+",27,lasch-dr-babbler
 28,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -330,7 +330,7 @@ Fritz:
 Meischter, under uns gsaat, ich dhät des Ding nit so schnell packe. Z’erscht müeß Aaner doch wiffe, was für e Meyer gemaant isch. S’Heiße doch noch viel Lit Meyer.
 
         
-",lasch-dr-babbler
+",28,lasch-dr-babbler
 29,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -340,7 +340,7 @@ Awer di sin nit von der Familie von dem Schang gsin. Miner Anglees her un s’St
 (Fritz hilft ihm in den Gehrock; wie er hinausgehen will, kommt der Beche Üschen herein, im Arbeitskleid, ein Paar Schuhe unterm Arm.)
 
         
-",lasch-dr-babbler
+",29,lasch-dr-babbler
 30,comedy,Bechler-Lehn,M,,,,"
           
 Bech:
@@ -349,7 +349,7 @@ Bech:
 Potz döifi! Dü wit, glauwi, uff e Hochzitt un ich hab Dir dini neje Schüeh anbrowire welle?!
 
         
-",lasch-dr-babbler
+",30,lasch-dr-babbler
 31,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -358,7 +358,7 @@ Fräckel:
 Waas Schüeh? Maansch ebbe ich draa vun jetz an noch von Dine Kanalschiffle? Naan, min Liwer, di Zitte fin erum; wenn Dü mit mir wit gehn e Budell Champagner drinke, ze jetz Dine hoche Hüt uf, no fansch zwei Schritt Hinter mer herelaufe.
 
         
-",lasch-dr-babbler
+",31,lasch-dr-babbler
 32,comedy,Bechler-Lehn,M,,,,"
           
 Bech :
@@ -370,7 +370,7 @@ Bech :
 Des müeß awer e stariks Winel sin gsin, wo der hit morje geblose het. So het er noch nie üs de Hitze geredt.
 
         
-",lasch-dr-babbler
+",32,lasch-dr-babbler
 33,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -381,7 +381,7 @@ Allons, voran, ich hab kaan Zit ze verlire mit Dir ümerzwerchem Beches;
  daß ich Millionär wur, hesch noch nit ghert, alti Pflüm. Gell jeg machsch e Gsicht un stehch do wie drei un elf.
 
         
-",lasch-dr-babbler
+",33,lasch-dr-babbler
 34,comedy,Bechler-Lehn,M,,,,"
           
 Bech :
@@ -393,7 +393,7 @@ Bech :
 Dü Millionär? Ehnder hätt ich geglaubt, daß der Minschderzipfel e Burzelbaam schlaat. Awer wie isch denn dies kumme ?
 
         
-",lasch-dr-babbler
+",34,lasch-dr-babbler
 35,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -403,7 +403,7 @@ Komm, ich verzähl Der’s. Sperr awer wenns beliebt nit Mül und Nas sowit uff.
 (Mamsel Vermicell, altmodisch gekleidet, eine Katze auf dem Arm, kommt zur eben geöffneten Tür herein, in großer Aufregung läßt sie sich auf einen Stuhl sinken.)
 
         
-",lasch-dr-babbler
+",35,lasch-dr-babbler
 36,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -415,7 +415,7 @@ Fräckel :
 Was will denn die alt Schachtel wider ?
 
         
-",lasch-dr-babbler
+",36,lasch-dr-babbler
 37,comedy,Vermicell,F,,,,"
           
 Mamfell Vermicell:
@@ -424,7 +424,7 @@ Mamfell Vermicell:
 Monsieur Fräckel, Sie sin e so e Liewer, güeteter Mann. Sie babble mit Alle, wo im Hüs sin, un sin so artli zü mir; saue Sie, isch’s erlaubt, was die böfe Büewe wider mine Katze angedon han?
 
         
-",lasch-dr-babbler
+",37,lasch-dr-babbler
 38,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -433,7 +433,7 @@ Fräckel:
 Lon Sie mi in Fridde mit dem Katzevolk. Sie kämte mer gshliche mit dem Gejomers, au noch jetz grad.
 
         
-",lasch-dr-babbler
+",38,lasch-dr-babbler
 39,comedy,Vermicell,F,,,,"
           
 Mamfell Vermicell:
@@ -442,7 +442,7 @@ Mamfell Vermicell:
 O, Herr Fräckel, Sie han sicher kaan Herz von Staan. Denke Sie numme: mim Minedel han sie e Schell ans Wäddele gebunde un im Negerle han sie de Schnüzer weggebrennt!
 
         
-",lasch-dr-babbler
+",39,lasch-dr-babbler
 40,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -451,7 +451,7 @@ Fräckel:
 Was geht des mich an? Soll ich vellicht Ihri Katze hüete helfe? Sie sin e meschuggeni Gans, e üwerspannts Frauezimmer mit Ihre Katze! Des Vieh gheert in de Bach! Daß Sie 's wiffe! Un jetz gehn Sie Ihre Wej; ich müeß furt.
 
         
-",lasch-dr-babbler
+",40,lasch-dr-babbler
 41,comedy,Vermicell,F,,,,"
           
 Mamfell Vermicell :
@@ -467,7 +467,7 @@ Oh, oh! Ich kenn Sie jo nimmeh Herr Fräckel; Herr Fräckel, mir so Dings ze sau
 .
 
         
-",lasch-dr-babbler
+",41,lasch-dr-babbler
 42,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -476,7 +476,7 @@ Fräckel:
 Zwanzig Marik! Wie wenn des ebs wär für e Millionär!
 
         
-",lasch-dr-babbler
+",42,lasch-dr-babbler
 43,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -488,7 +488,7 @@ Fräckel :
 Was neschdle Sie un bäschle Sie denn schun widder am frücje No- midda; nit emol e Nickerle kann mer mache.
 
         
-",lasch-dr-babbler
+",43,lasch-dr-babbler
 44,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -497,7 +497,7 @@ Fritz:
 S'isch der Frack vum Herr Müller, wo uff der Dienschdaa ferdi wäre müeß.
 
         
-",lasch-dr-babbler
+",44,lasch-dr-babbler
 45,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -506,7 +506,7 @@ Fräckel:
 Ich erinner mich küm meh, daß der aane bschtellt het. So isch’s halt, wenn mer rich wurd. D’halb Stadt weiß es jetz schun, daß Fräckel sich uff Geldsäckel raamt.
 
         
-",lasch-dr-babbler
+",45,lasch-dr-babbler
 46,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -515,7 +515,7 @@ Fritz:
 Wenns nur bi dem Vers blit, Meischter.
 
         
-",lasch-dr-babbler
+",46,lasch-dr-babbler
 47,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -524,7 +524,7 @@ Fräckel:
 Fritz, Sie sin e ingedrickeldi Häriseel; kaan Fraid, Kaan Lewesluscht isch ine, nur Arweit, Arweit heißt’s allewil! Un babble dhuen Sie au nix un doch wurd aam bim Babble s’Herz so licht.
 
         
-",lasch-dr-babbler
+",47,lasch-dr-babbler
 48,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -536,7 +536,7 @@ Fritz :
 Un s'Portemonnaie au.
 
         
-",lasch-dr-babbler
+",48,lasch-dr-babbler
 49,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -546,7 +546,7 @@ Awer aans müeß ich ne Ion. E Schaffer sin Sie, e Schnider numéro aans, un dor
 (Es klopft.)
 
         
-",lasch-dr-babbler
+",49,lasch-dr-babbler
 50,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -560,7 +560,7 @@ Aha, jetz finde Sie Alli mini Düer, der wurd ebs welle. Entrez! Gshwind
 : Hab ich die Ehre mit Herrn Fräckel zu sprechen?
 
         
-",lasch-dr-babbler
+",50,lasch-dr-babbler
 51,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -572,7 +572,7 @@ Fräckel :
 Der bin ich! scfhwind: Mein Name ist Gschwind; Vertreter der Autofabrik „Geruchlos"", gratuliere zu der kolos- salen Erbschaft, ein feiner Onkel gewesen, der sich so an seiner Familie revanchiert.
 
         
-",lasch-dr-babbler
+",51,lasch-dr-babbler
 52,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -581,7 +581,7 @@ Fräckel:
 Jo s'isch e glatts Früchdel gsin, wie er durch D’Latte isch. Kaan ehrlicher Mensch het ne meh angelüjt.
 
         
-",lasch-dr-babbler
+",52,lasch-dr-babbler
 53,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -590,7 +590,7 @@ Gschwind:
 Als Millionär müssen Sie selbstverständ- lich ein Automobil haben. Habe zur Zeit nur erstklassige Fabrikate auf Lager. Ein Mercedes- wagen etwa stände zur Verfügung. Fräckel der nur unvollkommen Fremdwörter versteht: E Mercerielade? Des hätt mini Julie immer, gern ghet. So Faderöllerle ze verkaafe, des wärd ihr Sach gsin.
 
         
-",lasch-dr-babbler
+",53,lasch-dr-babbler
 54,comedy,Schwind,M,,,,"
           
 Gschwind :
@@ -602,7 +602,7 @@ Gschwind :
 Sehn Sie hier eine Maschine mit Rumplerkühler, letzter sensationeller Erfolg der Technik.
 
         
-",lasch-dr-babbler
+",54,lasch-dr-babbler
 55,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -611,7 +611,7 @@ Fräckel:
 Glaabs schun, daß mer in dem Karich rumple und füllere kann. Awver, wisse Sie, mini Knoche sin mer au noch ebs wert. Bedenke Sie, Mil: lionärsknoche!
 
         
-",lasch-dr-babbler
+",55,lasch-dr-babbler
 56,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -620,7 +620,7 @@ Gschwind:
 Und hier die neuesten Michelinpneuma- tiks, unverwüstlich !
 
         
-",lasch-dr-babbler
+",56,lasch-dr-babbler
 57,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -629,7 +629,7 @@ Fräckel:
 Tiens, miner Babbe seli isch au bi de Michele gsin um Wüschtele han sie au genüe unter sich ghett in zelle Zitte. A propos, wisse Sie, was e Michelesauce isch?
 
         
-",lasch-dr-babbler
+",57,lasch-dr-babbler
 58,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -638,7 +638,7 @@ Gschwind:
 Leider führen wir diefe Maschine nicht.
 
         
-",lasch-dr-babbler
+",58,lasch-dr-babbler
 59,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -647,7 +647,7 @@ Fräckel:
 Na, ich lad Sie emol in. Des isch e Re- gal! E Paar Tropfe guets Bir von hie, e bissel Pfeffer, e bissel Salz un Senf, un no aan Stickel Schwizerkäs noch em andre drin gedunkt. Ich saa Ihne, e Gänslewerpaschtet isch- e Dreck der- geje. Also die Michelemaschin wurd genumme.
 
         
-",lasch-dr-babbler
+",59,lasch-dr-babbler
 60,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -656,7 +656,7 @@ Gschwind:
 Und darf ich fragen: Wievielsitzig? Ein Siß für Ihre Frau Gemahlin, einer für Fräu- lein Tochter ?
 
         
-",lasch-dr-babbler
+",60,lasch-dr-babbler
 61,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -665,7 +665,7 @@ Fräckel:
 Halte e bissel, ich bin Wittmann un hab kaan Kinder.
 
         
-",lasch-dr-babbler
+",61,lasch-dr-babbler
 62,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -674,7 +674,7 @@ Gschwind:
 Aber zur Vorsorge, nicht wahr. Frau und Tochter können eventuell mitgeliefert werden. Denn, gestatten, ich bin zugleich Heiratsvermittler.
 
         
-",lasch-dr-babbler
+",62,lasch-dr-babbler
 63,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -683,7 +683,7 @@ Fräckel:
 Naan, naan, nur gemach. Z'erscht emol die Kütsch, s'ander Unglück kommt noch früehj genüe.
 
         
-",lasch-dr-babbler
+",63,lasch-dr-babbler
 64,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -693,7 +693,7 @@ Zu dienen; also ein Mercedeswagen, 30000 Mark, abgemacht, Lieferung erfolgt prom
 (Während Fräckel umständlich die Brille aufsetzt und einige Krähenfüße unter das Schriftstück jetzt, hat Gschwind seiner Handtasche eine Autoausftattung entnommen.)
 
         
-",lasch-dr-babbler
+",64,lasch-dr-babbler
 65,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -702,7 +702,7 @@ Gschwind:
 Automobilausstattung habe ich gleich mit- gebracht. Bitte, den Mantel zuerst!
 
         
-",lasch-dr-babbler
+",65,lasch-dr-babbler
 66,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -711,7 +711,7 @@ Fräckel:
 Na, der het’s Meß.
 
         
-",lasch-dr-babbler
+",66,lasch-dr-babbler
 67,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -720,7 +720,7 @@ Gschwind:
 Nun die Müße.
 
         
-",lasch-dr-babbler
+",67,lasch-dr-babbler
 68,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -729,7 +729,7 @@ Fräckel:
 Do versüft mer jo drine.
 
         
-",lasch-dr-babbler
+",68,lasch-dr-babbler
 69,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -738,7 +738,7 @@ Gschwind:
 Endlich die Autobrille.
 
         
-",lasch-dr-babbler
+",69,lasch-dr-babbler
 70,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -747,7 +747,7 @@ Fräckel:
 Do sieht mer Alles grün un gel.
 
         
-",lasch-dr-babbler
+",70,lasch-dr-babbler
 71,comedy,Schwind,M,,,,"
           
 Gschwind:
@@ -761,7 +761,7 @@ Sitzt Alles wundervoll! Auf Wieder- sehen
 (Es klopft. Auf das Entrez kommt Merkel herein.)
 
         
-",lasch-dr-babbler
+",71,lasch-dr-babbler
 72,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -772,7 +772,7 @@ Herr Fräckel?
  Ich heiße Mer- kel, bin Häuseragent. Sie suchen ein ihren Ver- hältnissen entsprechendes Haus, eine Villa natür- lich, in der Ruprechtsauer Allee, zwanzig Zimmer, Portierwohnung, Stallungen, Automobilgarage, Hundehütte.
 
         
-",lasch-dr-babbler
+",72,lasch-dr-babbler
 73,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -781,7 +781,7 @@ Fräckel:
 Nix meh, am End noch e Katzestall.
 
         
-",lasch-dr-babbler
+",73,lasch-dr-babbler
 74,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -790,7 +790,7 @@ Merkel:
 Preis spielt wohl keine Rolle, 200000 Mark ist das Billigste, nur das Badezimmer muß noch hergerichtet werden.
 
         
-",lasch-dr-babbler
+",74,lasch-dr-babbler
 75,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -799,7 +799,7 @@ Fräckel:
 E Badezimmer? Alle Jor nem ich ein Mol e Douche im Bolksbad für e Nickel.
 
         
-",lasch-dr-babbler
+",75,lasch-dr-babbler
 76,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -808,7 +808,7 @@ Merkel:
 Ich denke, wir legen die Wände mit Kacheln aus, nach Entwürfen eines modernen Künstlers.
 
         
-",lasch-dr-babbler
+",76,lasch-dr-babbler
 77,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -817,7 +817,7 @@ Fräckel:
 Des isch e recht. Do kann der Schulze Edwärel sini Kunscht zeje. Dis isch e so e Kachler- meischter. Jeder Borzellinofe, wo er uffstellt, rüeßt oder fallt zamme. Awer er isch mer noch e Paar Hose schuldi; die kann er no abverdiene.
 
         
-",lasch-dr-babbler
+",77,lasch-dr-babbler
 78,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -826,7 +826,7 @@ Merkel:
 Bestimmen Sie, daß das Gartenzimmer als Salon für den five o’ clock tea eingerichtet wird ?
 
         
-",lasch-dr-babbler
+",78,lasch-dr-babbler
 79,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -835,7 +835,7 @@ Fräckel:
 Wie maane Sie? Pfiffekopf? Jo so e Pfiff kennt mer schun under de Blüeme rauche. Miner Burrus Schmeckt e bissel scharf.
 
         
-",lasch-dr-babbler
+",79,lasch-dr-babbler
 80,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -844,7 +844,7 @@ Merkel:
 Und der Hof endlich; soll er als Lawn- Tennis- oder als Fußballplatz benützt werden?
 
         
-",lasch-dr-babbler
+",80,lasch-dr-babbler
 81,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -853,7 +853,7 @@ Fräckel:
 Nix do, e Kejelbahn wurd angelajt. Die gschdüdirte Herre in der Allee solle in der Nacht höre, wie e pensionierter Schnider mit der Köjle umzegehn weiß; un e Gloriettel muß dernewe, wo mer als e paar gebacheni Fischle esse.
 
         
-",lasch-dr-babbler
+",81,lasch-dr-babbler
 82,comedy,Merkel,M,,,,"
           
 Merkel:
@@ -862,7 +862,7 @@ Merkel:
 Wird beforgt werden. Alfo Berkaufgsbe- dingungen werden bei Ihrem Notar erledigt, Vielleicht morgen 10 Uhr.
 
         
-",lasch-dr-babbler
+",82,lasch-dr-babbler
 83,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -871,7 +871,7 @@ Fräckel:
 Minetweje, Sie mins besser wisse als ich. Merkel: Besten Dank; adieu.
 
         
-",lasch-dr-babbler
+",83,lasch-dr-babbler
 84,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -883,7 +883,7 @@ Fräckel :
 Der wärd furt. Fritz, Sie han immer gsaat, ich kann babble. Die könne’s awer noch ganz andersch. Mit kaam Hämmerle kommt mer derzmische.
 
         
-",lasch-dr-babbler
+",84,lasch-dr-babbler
 85,comedy,Rederer,M,,,,"
           
 Rederer :
@@ -895,7 +895,7 @@ Rederer :
 Ums Himmels wille, Fritz, was han Ihr do for e Butzemummel fitze; isch der Meischter nit do?
 
         
-",lasch-dr-babbler
+",85,lasch-dr-babbler
 86,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -904,7 +904,7 @@ Fräckel:
 Der Meischter? Do bin ich. Was stulpre denn Ihr do erin?
 
         
-",lasch-dr-babbler
+",86,lasch-dr-babbler
 87,comedy,Rederer,M,,,,"
           
 Rederer :
@@ -916,7 +916,7 @@ Rederer :
 Im Uffdraa vun der Hüslitt gratulire mir Ihne ze dene Millione, Herr Fräckel. Dis isch d’schönscht Neüigkeit, wo mer von ine erfahre han. Wäre Sie glückli un lon Sie uns au ebs vun Ihrem Richtum gschpire.
 
         
-",lasch-dr-babbler
+",87,lasch-dr-babbler
 88,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -930,7 +930,7 @@ Ich saa Alle im Hüs merci für die Begrüßung. Lang wäre mer nit zsamme wohne
 .
 
         
-",lasch-dr-babbler
+",88,lasch-dr-babbler
 89,comedy,Fritz,M,,,,"
           
 Fritz:
@@ -939,7 +939,7 @@ Fritz:
 Meischter, Ieje Sie sich jetz uff e Ohr. Shunsch wisse Sie nit hit Owe, wo Ihne de Kopf steht.
 
         
-",lasch-dr-babbler
+",89,lasch-dr-babbler
 90,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -948,7 +948,7 @@ Fräckel:
 Sie han Recht. S'isch mer jetz sehun nimmi recht ums Babble.
 
         
-",lasch-dr-babbler
+",90,lasch-dr-babbler
 91,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -960,7 +960,7 @@ Fräckel :
 Fritz, ich bin e verlorener Mann. Nix isch’s, gar nix mit dene Millione. Hät ich mer doch s'Mül zügenäjt. Do Iefe Sie.
 
         
-",lasch-dr-babbler
+",91,lasch-dr-babbler
 92,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -972,7 +972,7 @@ Fritz :
 Nach telegraphischer Erkundigung an zu- ständiger Stelle in New-Nork teilen wir Ihnen mit, daß die Nachricht von der Errbschaft Meyer auf einem Irrtum beruht. Es liegt eine Ber- wechslung vor mit einem kleineren Barvermögen, das nicht nach Süddeutschland, sondern nach Süd- amerika gehen foll. Die Kosten im Betrag von 10 Mark bitten wir umgehend zu begleichen. Rot, Notar. Fräckel. Da Sie plötzlich reich geworden find, werden Sie einen alten Schulkameraden, der man chen dummen Streich mit Ihnen gemacht, nicht vergessen und gewiß mit Freuden mit dev näch- ften Post tausend Mark an den Unterzeichneten schicken. In Demut ersterbend Schorsch Leichtfuß. de Spott nit ze forje. daß Ihre Millionenerbschaft ein Schwindel, bitte um sofortige Rücksendung der Autoausstattung und um eine Entschädigung von 200 Mark für Nichtabschluß des Kaufes. Im Falle die Summe nicht bis in acht Tagen eintrifft, wird sich der Gerichtsvollzieher mit der Sache befassen. Gschwind. bringe, ich bin e gebrochener Mann. Ihrer bodenlosen Dummheit und Geshwätzigkeit geworden find. Trotz der Höhe des Objekts for- dere ich nur 400 Mark für den nicht zustande gekommenen Berkauf der Villa Nadelruhe. Merkel.
 
         
-",lasch-dr-babbler
+",92,lasch-dr-babbler
 93,comedy,Fräckel,M,,,,"
           
 Fräckel:
@@ -982,7 +982,7 @@ Des au noch. Un d’Rechnung derzüe vom Grumbeeresalat. E halwe Sack Grumbeere 
 (Es klopft.)
 
         
-",lasch-dr-babbler
+",93,lasch-dr-babbler
 94,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -994,7 +994,7 @@ Fräckel :
 Ich will Niemand sehn. Gehn Sie, Fritz, saue Sie, ich sei krank.
 
         
-",lasch-dr-babbler
+",94,lasch-dr-babbler
 95,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -1006,7 +1006,7 @@ Fritz :
 Herr Müller, Sie derf i nit heimschicke. Sie wisse doch am End schun Alles.
 
         
-",lasch-dr-babbler
+",95,lasch-dr-babbler
 96,comedy,Müller,M,,,,"
           
 Müller :
@@ -1018,7 +1018,7 @@ Müller :
 Ja ich weiß, Meischter Fräckel. Awer Kopf hoch, so ari isch die Gschicht doch nit. Des mit dene Lieferante rangier ich, sie zahle nur des Z'Nachtesse für d’Locataires un die 20 Marik für d’Mamsell Vermicell. Awer aans isch Be- dingung, denn Strof müeß sin. Gen Sie im Herr Fritz Ihr Gschäft un bliwe Sie bi im als erster Arweiter.
 
         
-",lasch-dr-babbler
+",96,lasch-dr-babbler
 97,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -1030,7 +1030,7 @@ Fräckel :
 Des isch au schun miner Gedanke gsin. Wenn der Fritz nur will.
 
         
-",lasch-dr-babbler
+",97,lasch-dr-babbler
 98,comedy,Fritz,M,,,,"
           
 Fritz :
@@ -1042,7 +1042,7 @@ Fritz :
 Un ob er will! Un zsammehalte welle mir, wie zwei Brüder.
 
         
-",lasch-dr-babbler
+",98,lasch-dr-babbler
 99,comedy,Fräckel,M,,,,"
           
 Fräckel :
@@ -1055,4 +1055,4 @@ Wie e Stummele will ich uff dem Schnidertisch von jetz an sitze. Soll Niemes meh
  Ende. 
 
         
-",lasch-dr-babbler
+",99,lasch-dr-babbler

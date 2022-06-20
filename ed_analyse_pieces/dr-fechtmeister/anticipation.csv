@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -11,7 +11,7 @@ Enfin, decidier Di... entweder hasch ne gern oder hasch
                     
 
         
-",lustig-dr-fechtmeister,41,6,0.25533333333333336,0.14634146341463414
+",0,lustig-dr-fechtmeister,41,6,0.25533333333333336,0.14634146341463414
 1,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -22,7 +22,7 @@ Ich ha-n-en glaüb nitt ungern... awer eso ne Chineser
                     
 
         
-",lustig-dr-fechtmeister,14,2,0.21436705079692606,0.14285714285714285
+",1,lustig-dr-fechtmeister,14,2,0.21436705079692606,0.14285714285714285
 2,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -31,7 +31,7 @@ Walther.
 's isch jo kei Chineser... Dü weisch's wohl!
 
         
-",lustig-dr-fechtmeister,10,1,0.383,0.1
+",2,lustig-dr-fechtmeister,10,1,0.383,0.1
 3,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -88,7 +88,7 @@ Fir ass me güet ka ringe.
           
 
         
-",lustig-dr-fechtmeister,101,10,0.10390000000000002,0.09900990099009901
+",3,lustig-dr-fechtmeister,101,10,0.10390000000000002,0.09900990099009901
 5,comedy,WALTHER,M,,,,"
             
 Walther.
@@ -110,7 +110,7 @@ Lo wachse sine Hoor.
             
 
           
-",lustig-dr-fechtmeister,24,4,0.17575,0.16666666666666666
+",5,lustig-dr-fechtmeister,24,4,0.17575,0.16666666666666666
 6,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -122,7 +122,7 @@ Wenn ihr hirothe mitnander, so wird er wohrschinlig
                     
 
         
-",lustig-dr-fechtmeister,21,1,0.0,0.047619047619047616
+",6,lustig-dr-fechtmeister,21,1,0.0,0.047619047619047616
 8,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -133,7 +133,7 @@ Was witt halt... er isch's g'wöhnt... siter im zehnte
                     
 
         
-",lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
+",8,lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
 9,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -144,7 +144,7 @@ Warum haltsch Dü awer jetz eso an dere Hochzit... zeig,
                     
 
         
-",lustig-dr-fechtmeister,12,1,0.6326588797970544,0.08333333333333333
+",9,lustig-dr-fechtmeister,12,1,0.6326588797970544,0.08333333333333333
 10,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -157,7 +157,7 @@ Los, Kàtele... ich sott Dir's eigentlig nitt sage...
                     
 
         
-",lustig-dr-fechtmeister,40,3,0.21866666666666668,0.075
+",10,lustig-dr-fechtmeister,40,3,0.21866666666666668,0.075
 11,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -168,7 +168,7 @@ Güet, ich versprich's... was isch denn das fir e
                     
 
         
-",lustig-dr-fechtmeister,12,4,0.0,0.3333333333333333
+",11,lustig-dr-fechtmeister,12,4,0.0,0.3333333333333333
 12,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -182,7 +182,7 @@ De weisch, ass ich noch e Schwester g'ha ha, wo
                     
 
         
-",lustig-dr-fechtmeister,46,2,0.0,0.043478260869565216
+",12,lustig-dr-fechtmeister,46,2,0.0,0.043478260869565216
 14,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -197,7 +197,7 @@ Wart nur... 's kunnt!... wo mi Schwester
                     
 
         
-",lustig-dr-fechtmeister,52,8,0.27617855543318126,0.15384615384615385
+",14,lustig-dr-fechtmeister,52,8,0.27617855543318126,0.15384615384615385
 16,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -210,7 +210,7 @@ Wart nur, 's isch no nitt ferig... im Fall awer, ass
                     
 
         
-",lustig-dr-fechtmeister,39,3,0.4031428144884834,0.07692307692307693
+",16,lustig-dr-fechtmeister,39,3,0.4031428144884834,0.07692307692307693
 17,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -221,7 +221,7 @@ Kàtele.
                     
 
         
-",lustig-dr-fechtmeister,14,1,0.0,0.07142857142857142
+",17,lustig-dr-fechtmeister,14,1,0.0,0.07142857142857142
 18,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -238,7 +238,7 @@ Dü weisch, wie mir stehn... im e Monet vo do sott ich in
           
 
         
-",lustig-dr-fechtmeister,56,2,0.4415,0.03571428571428571
+",18,lustig-dr-fechtmeister,56,2,0.4415,0.03571428571428571
 19,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -249,7 +249,7 @@ Das Ding isch z'iwerlege... meinsch weisst er ebbes vo
                     
 
         
-",lustig-dr-fechtmeister,13,1,0.461,0.07692307692307693
+",19,lustig-dr-fechtmeister,13,1,0.461,0.07692307692307693
 20,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -265,7 +265,7 @@ Ich glaüb nitt, ass em si Vater ebbes wird g'sàit ha...
                     
 
         
-",lustig-dr-fechtmeister,61,8,0.10718352539846303,0.13114754098360656
+",20,lustig-dr-fechtmeister,61,8,0.10718352539846303,0.13114754098360656
 21,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -274,7 +274,7 @@ Kàtele.
 Güet, ich will driwer nodenke...
 
         
-",lustig-dr-fechtmeister,6,1,0.0,0.16666666666666666
+",21,lustig-dr-fechtmeister,6,1,0.0,0.16666666666666666
 22,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -308,7 +308,7 @@ G'wiss wirsch Dü froh.
           
 
         
-",lustig-dr-fechtmeister,44,9,0.24309864011196738,0.20454545454545456
+",22,lustig-dr-fechtmeister,44,9,0.24309864011196738,0.20454545454545456
 24,comedy,KÀTELE,F,,,,"
             
 Kàtele.
@@ -342,7 +342,7 @@ Z'weg bring eso.
             
 
           
-",lustig-dr-fechtmeister,42,6,0.18483333333333332,0.14285714285714285
+",24,lustig-dr-fechtmeister,42,6,0.18483333333333332,0.14285714285714285
 25,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -356,7 +356,7 @@ Mach, ass es uf e Weg geht... Do kunnt er glaüb grad...
                     
 
         
-",lustig-dr-fechtmeister,35,5,0.2029468203187704,0.14285714285714285
+",25,lustig-dr-fechtmeister,35,5,0.2029468203187704,0.14285714285714285
 26,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -373,7 +373,7 @@ Also, das wo nitt will hirothe, bikunnt nit un 's
                     
 
         
-",lustig-dr-fechtmeister,37,2,0.0,0.05405405405405406
+",26,lustig-dr-fechtmeister,37,2,0.0,0.05405405405405406
 27,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
@@ -468,7 +468,7 @@ Er hat g'sàit, er heb e Kummission fir mi, ich soll
                                 uf an dr Wand, fir Mucke s'fange)
 
         
-",lustig-dr-fechtmeister,271,20,0.1902588991048853,0.07380073800738007
+",27,lustig-dr-fechtmeister,271,20,0.1902588991048853,0.07380073800738007
 28,comedy,FRANZ,M,,,,"
           
 Franz
@@ -500,7 +500,7 @@ er zieht dr Kuffer
                     
 
         
-",lustig-dr-fechtmeister,143,12,0.20575,0.08391608391608392
+",28,lustig-dr-fechtmeister,143,12,0.20575,0.08391608391608392
 29,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
@@ -516,7 +516,7 @@ Hein... was sàit er?... jetz redt er wieder chine sisch;
                     
 
         
-",lustig-dr-fechtmeister,21,2,0.3085,0.09523809523809523
+",29,lustig-dr-fechtmeister,21,2,0.3085,0.09523809523809523
 30,comedy,FRANZ,M,,,,"
           
 Franz
@@ -528,7 +528,7 @@ Franz
 Hài, Schang!
 
         
-",lustig-dr-fechtmeister,9,1,0.617,0.1111111111111111
+",30,lustig-dr-fechtmeister,9,1,0.617,0.1111111111111111
 31,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
@@ -545,7 +545,7 @@ Schang-làng-Hài!... Hài-Schang!... er soll ditsch
                     
 
         
-",lustig-dr-fechtmeister,23,1,0.0,0.043478260869565216
+",31,lustig-dr-fechtmeister,23,1,0.0,0.043478260869565216
 32,comedy,FRANZ,M,,,,"
           
 Franz
@@ -562,7 +562,7 @@ Wenn ich's awer thàt in Watte-n-iwickle?... das wàr noch
                     
 
         
-",lustig-dr-fechtmeister,36,3,0.20566666666666666,0.08333333333333333
+",32,lustig-dr-fechtmeister,36,3,0.20566666666666666,0.08333333333333333
 33,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -583,7 +583,7 @@ Weisst's dr Cüsin vom Testament oder weisst er's
                     
 
         
-",lustig-dr-fechtmeister,77,9,0.3125555555555556,0.11688311688311688
+",33,lustig-dr-fechtmeister,77,9,0.3125555555555556,0.11688311688311688
 34,comedy,FRANZ,M,,,,"
           
 Franz
@@ -603,7 +603,7 @@ Eh, tiens!... mi liewe Cüsine!... Dü machsch awer
                     
 
         
-",lustig-dr-fechtmeister,51,7,0.26283524232089706,0.13725490196078433
+",34,lustig-dr-fechtmeister,51,7,0.26283524232089706,0.13725490196078433
 36,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -616,7 +616,7 @@ Ganz un gar nitt!... obscho Dü mich glaüb nitt gross
                     
 
         
-",lustig-dr-fechtmeister,37,6,0.36253926024272837,0.16216216216216217
+",36,lustig-dr-fechtmeister,37,6,0.36253926024272837,0.16216216216216217
 37,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -628,7 +628,7 @@ Kàtele
 Er weisst 's un will mich mache z'refüsiere!
 
         
-",lustig-dr-fechtmeister,14,1,0.0,0.07142857142857142
+",37,lustig-dr-fechtmeister,14,1,0.0,0.07142857142857142
 38,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -639,7 +639,7 @@ Franz.
                     
 
         
-",lustig-dr-fechtmeister,14,4,0.15425,0.2857142857142857
+",38,lustig-dr-fechtmeister,14,4,0.15425,0.2857142857142857
 39,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -651,7 +651,7 @@ Kàtele
 Nei... er weisst's nitt!
 
         
-",lustig-dr-fechtmeister,10,1,0.0,0.1
+",39,lustig-dr-fechtmeister,10,1,0.0,0.1
 40,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -660,7 +660,7 @@ Franz.
 Ich uf jedefall refüsier nitt...
 
         
-",lustig-dr-fechtmeister,6,2,0.3085,0.3333333333333333
+",40,lustig-dr-fechtmeister,6,2,0.3085,0.3333333333333333
 41,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -672,7 +672,7 @@ Kàtele
 Doch, er weisst's!
 
         
-",lustig-dr-fechtmeister,9,1,0.0,0.1111111111111111
+",41,lustig-dr-fechtmeister,9,1,0.0,0.1111111111111111
 42,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -683,7 +683,7 @@ Wil ich weiss, ass uns're-n-Eltre Freid dra hätte, un
                     
 
         
-",lustig-dr-fechtmeister,17,6,0.33866666666666667,0.35294117647058826
+",42,lustig-dr-fechtmeister,17,6,0.33866666666666667,0.35294117647058826
 43,comedy,KÀTELE,F,,,,"
           
 Kàtele
@@ -701,7 +701,7 @@ Décidément, er weisst's nitt!... ich will ne jetz scho
                     
 
         
-",lustig-dr-fechtmeister,37,4,0.31825000000000003,0.10810810810810811
+",43,lustig-dr-fechtmeister,37,4,0.31825000000000003,0.10810810810810811
 44,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -710,7 +710,7 @@ Franz.
 Ah so!
 
         
-",lustig-dr-fechtmeister,3,1,0.617,0.3333333333333333
+",44,lustig-dr-fechtmeister,3,1,0.617,0.3333333333333333
 45,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -757,7 +757,7 @@ Vor ebb ich derzüe
           
 
         
-",lustig-dr-fechtmeister,65,8,0.20895937709311768,0.12307692307692308
+",45,lustig-dr-fechtmeister,65,8,0.20895937709311768,0.12307692307692308
 46,comedy,KÀTELE,F,,,,"
             
 
@@ -776,7 +776,7 @@ Vor ebb ich derzüe
             
 
           
-",lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
+",46,lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
 47,comedy,FRANZ,M,,,,"
             
 Franz.
@@ -798,7 +798,7 @@ Ich weiss genüe!
             
 
           
-",lustig-dr-fechtmeister,19,5,0.2499350033489883,0.2631578947368421
+",47,lustig-dr-fechtmeister,19,5,0.2499350033489883,0.2631578947368421
 48,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -811,7 +811,7 @@ So... so!...
                     
 
         
-",lustig-dr-fechtmeister,21,5,0.3726343359002676,0.23809523809523808
+",48,lustig-dr-fechtmeister,21,5,0.3726343359002676,0.23809523809523808
 49,comedy,WALTHER,M,,,,"
           
 Walther
@@ -823,7 +823,7 @@ Walther
 Was hör i... ich glaüb, ihr dispetiere mitnander?...
 
         
-",lustig-dr-fechtmeister,15,2,0.21436705079692606,0.13333333333333333
+",49,lustig-dr-fechtmeister,15,2,0.21436705079692606,0.13333333333333333
 50,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -846,7 +846,7 @@ g'steh,
                     
 
         
-",lustig-dr-fechtmeister,94,17,0.09464705882352942,0.18085106382978725
+",50,lustig-dr-fechtmeister,94,17,0.09464705882352942,0.18085106382978725
 51,comedy,WALTHER,M,,,,"
           
 Walther
@@ -867,7 +867,7 @@ E-n-Aügesblick... ich ka-n-eüch nitt eso üsnander lo
                     
 
         
-",lustig-dr-fechtmeister,88,7,0.2734285714285714,0.07954545454545454
+",51,lustig-dr-fechtmeister,88,7,0.2734285714285714,0.07954545454545454
 52,comedy,FRANZ,M,,,,"
           
 Franz
@@ -883,7 +883,7 @@ Isch's möglig, Kàtele!... worum hasch mir's awer nitt
                     
 
         
-",lustig-dr-fechtmeister,44,8,0.077125,0.18181818181818182
+",52,lustig-dr-fechtmeister,44,8,0.077125,0.18181818181818182
 53,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -895,7 +895,7 @@ Merci, Franz... awer wenn im Vater si Schuld o zahlt
                     
 
         
-",lustig-dr-fechtmeister,32,4,0.15425,0.125
+",53,lustig-dr-fechtmeister,32,4,0.15425,0.125
 54,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -916,7 +916,7 @@ Bàh, bàh, bàh... bekümmere-n-ihr eüch nitt um mich...
                     
 
         
-",lustig-dr-fechtmeister,85,11,0.21869772879499472,0.12941176470588237
+",54,lustig-dr-fechtmeister,85,11,0.21869772879499472,0.12941176470588237
 55,comedy,FRANZ,M,,,,"
           
 Franz.
@@ -928,7 +928,7 @@ Ich ha's grad awebrocht... 's isch in mim Kastefüess
                     
 
         
-",lustig-dr-fechtmeister,22,2,0.3085,0.09090909090909091
+",55,lustig-dr-fechtmeister,22,2,0.3085,0.09090909090909091
 57,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -964,7 +964,7 @@ Un wohl isch's mir z'Müeth,
           
 
         
-",lustig-dr-fechtmeister,49,10,0.1227,0.20408163265306123
+",57,lustig-dr-fechtmeister,49,10,0.1227,0.20408163265306123
 58,comedy,WALTHER,M,,,,"
             
 Walther.
@@ -990,7 +990,7 @@ Un wohl isch's mir z'Müeth.
             
 
           
-",lustig-dr-fechtmeister,33,5,0.3317882491768169,0.15151515151515152
+",58,lustig-dr-fechtmeister,33,5,0.3317882491768169,0.15151515151515152
 59,comedy,FRANZ,M,,,,"
             
 Franz un Kàtele.
@@ -1016,7 +1016,7 @@ Un wohl isch's ihm z'Müeth.
             
 
           
-",lustig-dr-fechtmeister,35,6,0.3793235409806807,0.17142857142857143
+",59,lustig-dr-fechtmeister,35,6,0.3793235409806807,0.17142857142857143
 60,comedy,KÀTELE,F,,,,"
             
 Franz un Kàtele.
@@ -1042,7 +1042,7 @@ Un wohl isch's ihm z'Müeth.
             
 
           
-",lustig-dr-fechtmeister,35,6,0.3793235409806807,0.17142857142857143
+",60,lustig-dr-fechtmeister,35,6,0.3793235409806807,0.17142857142857143
 61,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
@@ -1065,7 +1065,7 @@ Hài hat er welle!... 's isch mr erst nochher iku...
                     
 
         
-",lustig-dr-fechtmeister,62,5,0.25,0.08064516129032258
+",61,lustig-dr-fechtmeister,62,5,0.25,0.08064516129032258
 62,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -1076,7 +1076,7 @@ Schang... zeig, kumm do ane... was isch das fir Baüele
                     
 
         
-",lustig-dr-fechtmeister,12,2,0.3165,0.16666666666666666
+",62,lustig-dr-fechtmeister,12,2,0.3165,0.16666666666666666
 63,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
@@ -1087,7 +1087,7 @@ Das?... Das isch mi Baüele fir in d'Ohre, wenn ich als
                     
 
         
-",lustig-dr-fechtmeister,21,1,0.0,0.047619047619047616
+",63,lustig-dr-fechtmeister,21,1,0.0,0.047619047619047616
 65,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
@@ -1099,7 +1099,7 @@ Jà do!... das weiss ich nimmig... 's isch scho gar lang,
                     
 
         
-",lustig-dr-fechtmeister,26,4,0.10718352539846303,0.15384615384615385
+",65,lustig-dr-fechtmeister,26,4,0.10718352539846303,0.15384615384615385
 66,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -1110,7 +1110,7 @@ C'est ça... un do hasch Dü's gli miesse nàh, fir Di
                     
 
         
-",lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
+",66,lustig-dr-fechtmeister,18,1,0.0,0.05555555555555555
 67,comedy,KÀTELE,F,,,,"
           
 Kàtele.
@@ -1122,7 +1122,7 @@ Dü müesch em verzeihe, Vater... De weisch jo, ass me
                     
 
         
-",lustig-dr-fechtmeister,27,2,0.0,0.07407407407407407
+",67,lustig-dr-fechtmeister,27,2,0.0,0.07407407407407407
 68,comedy,WALTHER,M,,,,"
           
 Walther
@@ -1138,7 +1138,7 @@ Un do... was hasch do in dr Hand
                     
 
         
-",lustig-dr-fechtmeister,20,1,0.0,0.05
+",68,lustig-dr-fechtmeister,20,1,0.0,0.05
 69,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
@@ -1149,7 +1149,7 @@ Das... das isch e Brief, wo dr Facteur grad brocht
                     
 
         
-",lustig-dr-fechtmeister,12,1,0.0,0.08333333333333333
+",69,lustig-dr-fechtmeister,12,1,0.0,0.08333333333333333
 70,comedy,WALTHER,M,,,,"
           
 Walther.
@@ -1163,7 +1163,7 @@ Worum gisch ne denn nitt
                     
 
         
-",lustig-dr-fechtmeister,30,4,0.37675000000000003,0.13333333333333333
+",70,lustig-dr-fechtmeister,30,4,0.37675000000000003,0.13333333333333333
 72,comedy,FRANZ,M,,,,"
           
 Franz
@@ -1177,7 +1177,7 @@ Son-tàï...
 .
 
         
-",lustig-dr-fechtmeister,15,1,0.617,0.06666666666666667
+",72,lustig-dr-fechtmeister,15,1,0.617,0.06666666666666667
 73,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang
@@ -1194,7 +1194,7 @@ Merci, Herr Chineser!...
                     
 
         
-",lustig-dr-fechtmeister,34,5,0.1234,0.14705882352941177
+",73,lustig-dr-fechtmeister,34,5,0.1234,0.14705882352941177
 74,comedy,FRANZ,M,,,,"
           
 Franz
@@ -1212,7 +1212,7 @@ Jetz, Kàtele, bruche mir keine Sorge meh z'ha... un nit
                     
 
         
-",lustig-dr-fechtmeister,59,7,0.31142857142857144,0.11864406779661017
+",74,lustig-dr-fechtmeister,59,7,0.31142857142857144,0.11864406779661017
 75,comedy,SCHANG,M,domestic_worker,elementary_professions,,"
           
 Schang.
@@ -1251,4 +1251,4 @@ Dà isch's Glick nitt werth.
           
 
         
-",lustig-dr-fechtmeister,55,10,0.23199999999999998,0.18181818181818182
+",75,lustig-dr-fechtmeister,55,10,0.23199999999999998,0.18181818181818182

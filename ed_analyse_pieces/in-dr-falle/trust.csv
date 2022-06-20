@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -13,7 +13,7 @@ Lose Se, Herr Ungeduld, wenn Sie jetz scho wànn dr
                         ferig zwische-n-uns!
 
         
-",lustig-in-dr-falle,38,5,0.1016,0.13157894736842105
+",0,lustig-in-dr-falle,38,5,0.1016,0.13157894736842105
 1,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -27,7 +27,7 @@ Verzeiht Se mr, Jumpfer Fingerhüet, 's isch jo nur üs
                         g'wiss kei Wunder...
 
         
-",lustig-in-dr-falle,41,7,0.25119205012960294,0.17073170731707318
+",0,lustig-in-dr-falle,41,7,0.25119205012960294,0.17073170731707318
 2,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -36,7 +36,7 @@ Jumpfer Fingerhüet.
 Un worum denn das?
 
         
-",lustig-in-dr-falle,6,1,0.508,0.16666666666666666
+",1,lustig-in-dr-falle,6,1,0.508,0.16666666666666666
 3,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -47,7 +47,7 @@ Wenn ich denk, ass Sie do newe dem Espèce Professer,
                         zwei Zimmer trennt...
 
         
-",lustig-in-dr-falle,26,4,0.1445,0.15384615384615385
+",1,lustig-in-dr-falle,26,4,0.1445,0.15384615384615385
 4,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -61,7 +61,7 @@ Liftling
                         Strumpf...
 
         
-",lustig-in-dr-falle,43,6,0.08466666666666667,0.13953488372093023
+",2,lustig-in-dr-falle,43,6,0.08466666666666667,0.13953488372093023
 5,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -75,7 +75,7 @@ Herr Ungeduld.
                         er as dumme Streich!
 
         
-",lustig-in-dr-falle,54,7,0.09485714285714286,0.12962962962962962
+",2,lustig-in-dr-falle,54,7,0.09485714285714286,0.12962962962962962
 6,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -85,7 +85,7 @@ Er soll doch mache, was er will... was froge mir
                         derno...
 
         
-",lustig-in-dr-falle,13,1,0.508,0.07692307692307693
+",3,lustig-in-dr-falle,13,1,0.508,0.07692307692307693
 7,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -96,7 +96,7 @@ Das isch e schlechte Nochberschaft fir Sie... 's beste
                         z'geh.
 
         
-",lustig-in-dr-falle,22,5,0.13433177595941087,0.22727272727272727
+",3,lustig-in-dr-falle,22,5,0.13433177595941087,0.22727272727272727
 8,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -131,7 +131,7 @@ Denn sicher, sunscht hiroth ich nitt.
           
 
         
-",lustig-in-dr-falle,87,10,0.23756771825980394,0.11494252873563218
+",4,lustig-in-dr-falle,87,10,0.23756771825980394,0.11494252873563218
 9,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -153,7 +153,7 @@ Denn sicher, ich wart langer nitt!
           
 
         
-",lustig-in-dr-falle,27,6,0.2253333333333333,0.2222222222222222
+",4,lustig-in-dr-falle,27,6,0.2253333333333333,0.2222222222222222
 10,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -166,7 +166,7 @@ Worum denn thien Sie so pressiere?
           
 
         
-",lustig-in-dr-falle,8,1,0.508,0.125
+",5,lustig-in-dr-falle,8,1,0.508,0.125
 11,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -179,7 +179,7 @@ Fir Dir z'flattiere!
           
 
         
-",lustig-in-dr-falle,6,3,0.0,0.5
+",5,lustig-in-dr-falle,6,3,0.0,0.5
 12,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Mitnander.
@@ -195,7 +195,7 @@ Denn d'Jugend, die isch als glich wit.
           
 
         
-",lustig-in-dr-falle,17,3,0.0,0.17647058823529413
+",6,lustig-in-dr-falle,17,3,0.0,0.17647058823529413
 13,comedy,Herr UNGEDULD,M,,,,"
           
 Mitnander.
@@ -211,7 +211,7 @@ Denn d'Jugend, die isch als glich wit.
           
 
         
-",lustig-in-dr-falle,17,3,0.0,0.17647058823529413
+",6,lustig-in-dr-falle,17,3,0.0,0.17647058823529413
 14,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -224,7 +224,7 @@ Meint Se denn, Jumpfer Fingerhüet, mr wànn warte, fir is
                         Oncle, wenn er dasmol wieder nit vo si höre losst!
 
         
-",lustig-in-dr-falle,54,7,0.31266815470793297,0.12962962962962962
+",7,lustig-in-dr-falle,54,7,0.31266815470793297,0.12962962962962962
 15,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -234,7 +234,7 @@ Eh bien... 's isch mr recht... awer ich bi sicher, ass
                         er schribt... wer weisst, viellicht kunnt er selbst...
 
         
-",lustig-in-dr-falle,21,5,0.48593500334898837,0.23809523809523808
+",7,lustig-in-dr-falle,21,5,0.48593500334898837,0.23809523809523808
 16,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld
@@ -248,7 +248,7 @@ Also isch's e Wort... adie, liewe Brüt... ich laüf uf
 (er geht hinte-n-üse).
 
         
-",lustig-in-dr-falle,30,6,0.10544454465861507,0.2
+",8,lustig-in-dr-falle,30,6,0.10544454465861507,0.2
 17,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -261,7 +261,7 @@ Isch er jaloux, mi Hochziter, ich hoff awer, ass er sich
                         wird bessere, we mr emol g'hirothe sin.
 
         
-",lustig-in-dr-falle,23,3,0.33866666666666667,0.13043478260869565
+",8,lustig-in-dr-falle,23,3,0.33866666666666667,0.13043478260869565
 18,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -274,7 +274,7 @@ Isch Se-n-allei, Jumpfer Fingerhüet... derft ich Ihre
                         viellicht e kleine Visite mache?...
 
         
-",lustig-in-dr-falle,22,5,0.1016,0.22727272727272727
+",9,lustig-in-dr-falle,22,5,0.1016,0.22727272727272727
 19,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -289,7 +289,7 @@ Worum nitt, Herr Liftling, kämme Se nur ine!
           
 
         
-",lustig-in-dr-falle,31,6,0.40458634807919075,0.1935483870967742
+",9,lustig-in-dr-falle,31,6,0.40458634807919075,0.1935483870967742
 20,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -304,7 +304,7 @@ Nitt wohr, Se erlaübt mr, glich abz'sitze?... ich bi
                         Fingerhüet).
 
         
-",lustig-in-dr-falle,27,5,0.2594,0.18518518518518517
+",10,lustig-in-dr-falle,27,5,0.2594,0.18518518518518517
 21,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -314,7 +314,7 @@ Was isch g'schàh , Herr Liftling?.. wo fehlt's
                         Ihne?...
 
         
-",lustig-in-dr-falle,11,3,0.16933333333333334,0.2727272727272727
+",10,lustig-in-dr-falle,11,3,0.16933333333333334,0.2727272727272727
 22,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -325,7 +325,7 @@ Ich bi in ere-n-arge Verlegeheit... un als Nochbere wott
                         leiste?...
 
         
-",lustig-in-dr-falle,25,3,0.17433333333333334,0.12
+",11,lustig-in-dr-falle,25,3,0.17433333333333334,0.12
 23,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -334,7 +334,7 @@ Jumpfer Fingerhüet.
 Un was soll das fir e Dienst si, Herr Liftling?
 
         
-",lustig-in-dr-falle,12,3,0.16933333333333334,0.25
+",11,lustig-in-dr-falle,12,3,0.16933333333333334,0.25
 24,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -345,7 +345,7 @@ Ich weiss nitt recht, wie-n-i's abringe soll... enfin...
                         do ha-n-i an Sie denkt.
 
         
-",lustig-in-dr-falle,32,5,0.1156,0.15625
+",12,lustig-in-dr-falle,32,5,0.1156,0.15625
 25,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -358,7 +358,7 @@ Das glicht Ihne jetz emol wieder!... känne Se denn nie
                         kei Wort im Ernst rede!
 
         
-",lustig-in-dr-falle,20,3,0.16933333333333334,0.15
+",12,lustig-in-dr-falle,20,3,0.16933333333333334,0.15
 26,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -372,7 +372,7 @@ Herr Liftling.
                         doch g'wiss nitt recht, nitt wohr?...
 
         
-",lustig-in-dr-falle,61,5,0.2734,0.08196721311475409
+",13,lustig-in-dr-falle,61,5,0.2734,0.08196721311475409
 27,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -381,7 +381,7 @@ Jumpfer Fingerhüet.
 Jà, hat er Ihne denn noch nie nit gà, Herr Liftling?
 
         
-",lustig-in-dr-falle,13,3,0.33265399650725685,0.23076923076923078
+",13,lustig-in-dr-falle,13,3,0.33265399650725685,0.23076923076923078
 28,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -390,7 +390,7 @@ Herr Liftling.
 Doch, awer wenig genüe.... er isch eso gizig..
 
         
-",lustig-in-dr-falle,10,1,0.0,0.1
+",14,lustig-in-dr-falle,10,1,0.0,0.1
 29,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -399,7 +399,7 @@ Jumpfer Fingerhüet.
 Ah... 's isch e Gizhals?...
 
         
-",lustig-in-dr-falle,7,1,0.508,0.14285714285714285
+",14,lustig-in-dr-falle,7,1,0.508,0.14285714285714285
 30,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -413,7 +413,7 @@ Er isch als z'erst mit mir do z'Milhüse g'wohnt...
                         seltener... un z'letscht gar nit meh.
 
         
-",lustig-in-dr-falle,61,9,0.21614911076157983,0.14754098360655737
+",15,lustig-in-dr-falle,61,9,0.21614911076157983,0.14754098360655737
 31,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -423,7 +423,7 @@ Se werde-n-'m z'vielmol z'Hof g'ritte si... nitt
                         wohr?...
 
         
-",lustig-in-dr-falle,14,3,0.6016666666666667,0.21428571428571427
+",15,lustig-in-dr-falle,14,3,0.6016666666666667,0.21428571428571427
 32,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -444,7 +444,7 @@ Herr Liftling.
                         Fraü un mine Kinder lehre z'kenne!...
 
         
-",lustig-in-dr-falle,136,19,0.17682459305008896,0.13970588235294118
+",16,lustig-in-dr-falle,136,19,0.17682459305008896,0.13970588235294118
 33,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -453,7 +453,7 @@ Jumpfer Fingerhüet.
 Ich begrif Ihre Verlegeheit!...
 
         
-",lustig-in-dr-falle,6,1,0.508,0.16666666666666666
+",16,lustig-in-dr-falle,6,1,0.508,0.16666666666666666
 34,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -519,7 +519,7 @@ Sie wird sàh, das geht ganz güet.
           
 
         
-",lustig-in-dr-falle,113,17,0.10443000873527557,0.1504424778761062
+",17,lustig-in-dr-falle,113,17,0.10443000873527557,0.1504424778761062
 35,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Mitnander.
@@ -547,7 +547,7 @@ Ich bi/Er isch jetz g'wiss iwel dra?
           
 
         
-",lustig-in-dr-falle,51,8,0.13291376856246062,0.1568627450980392
+",17,lustig-in-dr-falle,51,8,0.13291376856246062,0.1568627450980392
 36,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Mitnander.
@@ -575,7 +575,7 @@ Ich bi/Er isch jetz g'wiss iwel dra?
           
 
         
-",lustig-in-dr-falle,51,8,0.13291376856246062,0.1568627450980392
+",18,lustig-in-dr-falle,51,8,0.13291376856246062,0.1568627450980392
 37,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -585,7 +585,7 @@ Das ka-n-ich nitt unternàh, Herr Liftling, gehn froge
                         Sie liewer d'Fraü Strumpf dunte.
 
         
-",lustig-in-dr-falle,18,3,0.38022242265056344,0.16666666666666666
+",18,lustig-in-dr-falle,18,3,0.38022242265056344,0.16666666666666666
 38,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -596,7 +596,7 @@ Das geht nitt... d'Fraü Strumpt isch scho, ne wenig
                         newe-n-Ihrern... we mr sàlle Thüre-n-ufmache, so...
 
         
-",lustig-in-dr-falle,33,1,0.0,0.030303030303030304
+",19,lustig-in-dr-falle,33,1,0.0,0.030303030303030304
 39,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -608,7 +608,7 @@ Jumpfer Fingerhüet
 Das Ding schint mr eso ziemlig g'wogt...
 
         
-",lustig-in-dr-falle,13,3,0.3309580181348179,0.23076923076923078
+",19,lustig-in-dr-falle,13,3,0.3309580181348179,0.23076923076923078
 40,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -618,7 +618,7 @@ Oh! nur am Tag... Jumpfer Fingerhüet... also isch's
                         üsg'macht, nitt wohr?...
 
         
-",lustig-in-dr-falle,14,3,0.4323333333333334,0.21428571428571427
+",20,lustig-in-dr-falle,14,3,0.4323333333333334,0.21428571428571427
 41,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -627,7 +627,7 @@ Jumpfer Fingerhüet.
 Jà, un Ihre zwei Kinder?
 
         
-",lustig-in-dr-falle,7,2,0.254,0.2857142857142857
+",20,lustig-in-dr-falle,7,2,0.254,0.2857142857142857
 42,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -638,7 +638,7 @@ O, d'Kinder, das isch mir e Kleinigkeit!... do isch jo
 (er nimmt dr Puppekopf).
 
         
-",lustig-in-dr-falle,21,2,0.0,0.09523809523809523
+",21,lustig-in-dr-falle,21,2,0.0,0.09523809523809523
 43,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -647,7 +647,7 @@ Jumpfer Fingerhüet.
 Was wànn Sie mit dem mache?
 
         
-",lustig-in-dr-falle,8,1,0.508,0.125
+",21,lustig-in-dr-falle,8,1,0.508,0.125
 44,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -664,7 +664,7 @@ Me wickelt's i, legt's ins Bett un deckt's güet züe...
                         sàlle Thüre-n-uf wo in mi Zimmer fiehrt...
 
         
-",lustig-in-dr-falle,78,14,0.08020981837030727,0.1794871794871795
+",22,lustig-in-dr-falle,78,14,0.08020981837030727,0.1794871794871795
 45,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -673,7 +673,7 @@ Jumpfer Fingerhüet.
 Ich find, Se fange ne wenig z'frieih a, Herr Liftling!
 
         
-",lustig-in-dr-falle,13,4,0.127,0.3076923076923077
+",22,lustig-in-dr-falle,13,4,0.127,0.3076923076923077
 46,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -685,7 +685,7 @@ Herr Liftling.
                         schickt ere ne Schmutz).
 
         
-",lustig-in-dr-falle,30,5,0.12653345359033807,0.16666666666666666
+",23,lustig-in-dr-falle,30,5,0.12653345359033807,0.16666666666666666
 47,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -710,7 +710,7 @@ Isch das e possiger Held... me ka-n-'m nitt widersteh...
           
 
         
-",lustig-in-dr-falle,90,11,0.24854545454545454,0.12222222222222222
+",23,lustig-in-dr-falle,90,11,0.24854545454545454,0.12222222222222222
 48,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -723,7 +723,7 @@ Tiens... was sieh-n-i... d'Jumpfer Fingerhüet im Herr
                         Liftling sim Zimmer!
 
         
-",lustig-in-dr-falle,21,2,0.254,0.09523809523809523
+",24,lustig-in-dr-falle,21,2,0.254,0.09523809523809523
 49,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -741,7 +741,7 @@ Ah, Sie isch's... Fraü Strumpf...
                         fir e G'spass z'mache, Fraü Strumpf...
 
         
-",lustig-in-dr-falle,37,5,0.21400000000000002,0.13513513513513514
+",24,lustig-in-dr-falle,37,5,0.21400000000000002,0.13513513513513514
 50,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -751,7 +751,7 @@ Ich weiss nitt, eb dr Propriétaire das lide thàt... he
                         he...
 
         
-",lustig-in-dr-falle,13,1,0.0,0.07692307692307693
+",25,lustig-in-dr-falle,13,1,0.0,0.07692307692307693
 51,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -762,7 +762,7 @@ Jumpfer Fingerhüet.
                         Fraü un Kinder hat...
 
         
-",lustig-in-dr-falle,28,6,0.08466666666666667,0.21428571428571427
+",25,lustig-in-dr-falle,28,6,0.08466666666666667,0.21428571428571427
 52,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -771,7 +771,7 @@ Fraü Strumpf.
 Das isch mr schön Dings, jà jà!...
 
         
-",lustig-in-dr-falle,9,1,0.586,0.1111111111111111
+",26,lustig-in-dr-falle,9,1,0.586,0.1111111111111111
 53,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -781,7 +781,7 @@ Er kunnt ewe hit uf B'süech... un do wà mr em mache
                         z'glaüwe...
 
         
-",lustig-in-dr-falle,16,2,0.254,0.125
+",26,lustig-in-dr-falle,16,2,0.254,0.125
 54,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -792,7 +792,7 @@ So so... ich verstand dr Rest... Sie will als im Herr
                         G'schichte... un Se geht das Ding eso i?
 
         
-",lustig-in-dr-falle,29,3,0.14533406092042156,0.10344827586206896
+",27,lustig-in-dr-falle,29,3,0.14533406092042156,0.10344827586206896
 55,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -803,7 +803,7 @@ Ich ha z'erscht lang nitt welle... awer er hat mr kei
                         isch rich...
 
         
-",lustig-in-dr-falle,26,3,0.3673333333333333,0.11538461538461539
+",27,lustig-in-dr-falle,26,3,0.3673333333333333,0.11538461538461539
 56,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -819,7 +819,7 @@ Wenn's fir z'erwe-n-isch, so ha-n-ich nit dergege...
                         Geld z'biku bim Alte...
 
         
-",lustig-in-dr-falle,70,9,0.3499637967090517,0.12857142857142856
+",28,lustig-in-dr-falle,70,9,0.3499637967090517,0.12857142857142856
 57,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -829,7 +829,7 @@ Eh... 's isch noch alle Zit, Fraü Strumpf... ich halt
                         gar nitt dra, si Fraü z'spiele...
 
         
-",lustig-in-dr-falle,19,5,0.23593500334898834,0.2631578947368421
+",28,lustig-in-dr-falle,19,5,0.23593500334898834,0.2631578947368421
 58,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -842,7 +842,7 @@ Tiens... do sin se glaüb'... i sieh se vo witem dert in
                         d'Gasse ku... dr Herr Liftling mit eme-n-Alte..
 
         
-",lustig-in-dr-falle,28,3,0.19533333333333333,0.10714285714285714
+",29,lustig-in-dr-falle,28,3,0.19533333333333333,0.10714285714285714
 59,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -852,7 +852,7 @@ Scho!... eh bien, Fraü Strumpf, will Se mi Platz
                         nàh?...
 
         
-",lustig-in-dr-falle,12,2,0.5898375083724708,0.16666666666666666
+",29,lustig-in-dr-falle,12,2,0.5898375083724708,0.16666666666666666
 60,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -865,7 +865,7 @@ Nei, nei... dr Herr Liftling wàr jo nitt preveniert...
                         laüft hinte-n-üse).
 
         
-",lustig-in-dr-falle,40,2,0.0,0.05
+",30,lustig-in-dr-falle,40,2,0.0,0.05
 61,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -878,7 +878,7 @@ Jumpfer Fingerhüet
                         recht... ich hätt glaüb das Ding nitt sotte-n-igeh..
 
         
-",lustig-in-dr-falle,25,6,0.30038315432620394,0.24
+",30,lustig-in-dr-falle,25,6,0.30038315432620394,0.24
 62,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -893,7 +893,7 @@ Do si mr jetz aku... gang nur ine, Oncle... gang nur
           
 
         
-",lustig-in-dr-falle,22,3,0.22133333333333335,0.13636363636363635
+",31,lustig-in-dr-falle,22,3,0.22133333333333335,0.13636363636363635
 63,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -904,7 +904,7 @@ Ouf!... endlig!... ich ha g'meint, 's nimmt kei End mit
                         Briefe, ass De-n-im erste Stock wohnsch!...
 
         
-",lustig-in-dr-falle,31,2,0.0,0.06451612903225806
+",31,lustig-in-dr-falle,31,2,0.0,0.06451612903225806
 64,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -921,7 +921,7 @@ Im erste, we me vom Himmel owe-n-awe kunnt!...
                         Höche!...
 
         
-",lustig-in-dr-falle,42,5,0.2186,0.11904761904761904
+",32,lustig-in-dr-falle,42,5,0.2186,0.11904761904761904
 65,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -931,7 +931,7 @@ Herr Gigele.
                         me-n-ufe kunnt!...
 
         
-",lustig-in-dr-falle,16,3,0.0,0.1875
+",32,lustig-in-dr-falle,16,3,0.0,0.1875
 66,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -940,7 +940,7 @@ Herr Liftling.
 Dü hasch also ne güete Reis g'macht, Oncle?
 
         
-",lustig-in-dr-falle,10,4,0.18175,0.4
+",33,lustig-in-dr-falle,10,4,0.18175,0.4
 67,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -952,7 +952,7 @@ Herr Gigele
 Wer isch denn die junge Person dert?...
 
         
-",lustig-in-dr-falle,15,3,0.16933333333333334,0.2
+",33,lustig-in-dr-falle,15,3,0.16933333333333334,0.2
 68,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -963,7 +963,7 @@ Herr Liftling.
                         Schatz!
 
         
-",lustig-in-dr-falle,24,4,0.1581668169879226,0.16666666666666666
+",34,lustig-in-dr-falle,24,4,0.1581668169879226,0.16666666666666666
 69,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -976,7 +976,7 @@ Herr Oncle, 's freit mich, ass ich d'Ehr ha... Sie jetz
                         do... bi dere G'legeheit...
 
         
-",lustig-in-dr-falle,21,4,0.23884586367373645,0.19047619047619047
+",34,lustig-in-dr-falle,21,4,0.23884586367373645,0.19047619047619047
 70,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -988,7 +988,7 @@ Herr Liftling
 Verschnapp Di nitt... gib Achtung!
 
         
-",lustig-in-dr-falle,10,2,0.0,0.2
+",35,lustig-in-dr-falle,10,2,0.0,0.2
 71,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -999,7 +999,7 @@ Ah, das isch Di Fraü!... ich mach Dr 's Compliment ich
                         un... 's dürt noch immer, nitt wohr?
 
         
-",lustig-in-dr-falle,31,4,0.3554168169879226,0.12903225806451613
+",35,lustig-in-dr-falle,31,4,0.3554168169879226,0.12903225806451613
 72,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1011,7 +1011,7 @@ Oh... 's isch grad, as wie we mr erst siter hit
                         se).
 
         
-",lustig-in-dr-falle,24,4,0.49991681698792256,0.16666666666666666
+",36,lustig-in-dr-falle,24,4,0.49991681698792256,0.16666666666666666
 73,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1023,7 +1023,7 @@ Jumpfer Fingerhüet
 Wànn Se glich ufhöre!
 
         
-",lustig-in-dr-falle,12,2,0.254,0.16666666666666666
+",36,lustig-in-dr-falle,12,2,0.254,0.16666666666666666
 74,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -1035,7 +1035,7 @@ Herr Liftling
 's isch jo nur fir mich z'verstelle.
 
         
-",lustig-in-dr-falle,13,2,0.0,0.15384615384615385
+",37,lustig-in-dr-falle,13,2,0.0,0.15384615384615385
 75,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1045,7 +1045,7 @@ Das isch brav... awer ich sieh eüre Kinder niene... sin
                         se nitt do?
 
         
-",lustig-in-dr-falle,15,3,0.21366666666666667,0.2
+",37,lustig-in-dr-falle,15,3,0.21366666666666667,0.2
 76,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1064,7 +1064,7 @@ Aha d'Kinder,
                         nourrice...
 
         
-",lustig-in-dr-falle,54,9,0.19743831573905923,0.16666666666666666
+",38,lustig-in-dr-falle,54,9,0.19743831573905923,0.16666666666666666
 77,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1073,7 +1073,7 @@ Herr Gigele.
 Ah... 's isch eins noch en nourrice?
 
         
-",lustig-in-dr-falle,9,1,0.0,0.1111111111111111
+",38,lustig-in-dr-falle,9,1,0.0,0.1111111111111111
 78,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1082,7 +1082,7 @@ Herr Liftling.
 Jo, in Lapoutroie hinte... gàll, liewe Fraü?
 
         
-",lustig-in-dr-falle,9,2,0.3163336339758452,0.2222222222222222
+",39,lustig-in-dr-falle,9,2,0.3163336339758452,0.2222222222222222
 79,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1091,7 +1091,7 @@ Jumpfer Fingerhüet.
 Jo, liewer Mann.
 
         
-",lustig-in-dr-falle,5,3,0.38022242265056344,0.6
+",39,lustig-in-dr-falle,5,3,0.38022242265056344,0.6
 80,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1102,7 +1102,7 @@ Dü hasch also ne güete Reis g'macht, Oncle? wottsch Di
 (er stellt em e Stüehl ane).
 
         
-",lustig-in-dr-falle,25,4,0.18175,0.16
+",40,lustig-in-dr-falle,25,4,0.18175,0.16
 81,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1116,7 +1116,7 @@ Ne ganz güete... un b'sunders, wil ich Dich jetz
                         Site un d'Jumpfer Fingerhüet uf dr anders).
 
         
-",lustig-in-dr-falle,51,16,0.10350000000000001,0.3137254901960784
+",40,lustig-in-dr-falle,51,16,0.10350000000000001,0.3137254901960784
 82,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1127,7 +1127,7 @@ Worum denn Angst, Oncle?... Dü bisch jo o ledig bliwe.
           
 
         
-",lustig-in-dr-falle,12,2,0.0,0.16666666666666666
+",41,lustig-in-dr-falle,12,2,0.0,0.16666666666666666
 83,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1161,7 +1161,7 @@ Ha nit meh g'sàh un nit meh ghört;
           
 
         
-",lustig-in-dr-falle,76,9,0.30737159454524676,0.11842105263157894
+",41,lustig-in-dr-falle,76,9,0.30737159454524676,0.11842105263157894
 84,comedy,Herr GIGELE,M,,,,"
             
 
@@ -1183,7 +1183,7 @@ So thüet's mir a.
             
 
           
-",lustig-in-dr-falle,34,4,0.1581668169879226,0.11764705882352941
+",42,lustig-in-dr-falle,34,4,0.1581668169879226,0.11764705882352941
 85,comedy,Herr ALEXIS LIFTLING,M,,,,"
             
 Herr Liftling un Jumpfer Fingerhüet.
@@ -1208,7 +1208,7 @@ So thüet's ihm a.
             
 
           
-",lustig-in-dr-falle,38,6,0.19011121132528172,0.15789473684210525
+",42,lustig-in-dr-falle,38,6,0.19011121132528172,0.15789473684210525
 86,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
             
 Herr Liftling un Jumpfer Fingerhüet.
@@ -1233,7 +1233,7 @@ So thüet's ihm a.
             
 
           
-",lustig-in-dr-falle,38,6,0.19011121132528172,0.15789473684210525
+",43,lustig-in-dr-falle,38,6,0.19011121132528172,0.15789473684210525
 87,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1246,7 +1246,7 @@ Tiens, De hasch mr nie nit vo dem g'sàit...
                         welle!
 
         
-",lustig-in-dr-falle,28,4,0.1465,0.14285714285714285
+",43,lustig-in-dr-falle,28,4,0.1465,0.14285714285714285
 88,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1255,7 +1255,7 @@ Herr Gigele.
 A propos... Hasch ans Mittagesse denkt?
 
         
-",lustig-in-dr-falle,8,1,0.0,0.125
+",44,lustig-in-dr-falle,8,1,0.0,0.125
 89,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1264,7 +1264,7 @@ Herr Liftling.
 Mi Fraü geht's jetz gli geh rischte...
 
         
-",lustig-in-dr-falle,10,2,0.0,0.2
+",44,lustig-in-dr-falle,10,2,0.0,0.2
 90,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1274,7 +1274,7 @@ C'est ça... un no-n-em Esse gang ich derno ne wenig geh
                         üsrüehe in mim Zimmer.
 
         
-",lustig-in-dr-falle,19,1,0.0,0.05263157894736842
+",45,lustig-in-dr-falle,19,1,0.0,0.05263157894736842
 91,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1283,7 +1283,7 @@ Herr Liftling.
 Hasch Dü scho ne Zimmer?
 
         
-",lustig-in-dr-falle,7,1,0.0,0.14285714285714285
+",45,lustig-in-dr-falle,7,1,0.0,0.14285714285714285
 92,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1293,7 +1293,7 @@ Ich denk, Dü wirsch mr eins offriere... ich thàt gern e
                         Tag oder zwe bi-n-i bliwe.
 
         
-",lustig-in-dr-falle,20,2,0.3088385414777653,0.1
+",46,lustig-in-dr-falle,20,2,0.3088385414777653,0.1
 93,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1307,7 +1307,7 @@ Herr Liftling.
                         Schàtzele?
 
         
-",lustig-in-dr-falle,34,5,0.2594,0.14705882352941177
+",46,lustig-in-dr-falle,34,5,0.2594,0.14705882352941177
 94,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1319,7 +1319,7 @@ Jumpfer Fingerhüet
 Was fir e dummer Pläuderi!
 
         
-",lustig-in-dr-falle,11,4,0.127,0.36363636363636365
+",47,lustig-in-dr-falle,11,4,0.127,0.36363636363636365
 95,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1328,7 +1328,7 @@ Herr Gigele.
 's isch schad... ich wàr jetz gern do bliwe.
 
         
-",lustig-in-dr-falle,11,3,0.20589236098517685,0.2727272727272727
+",47,lustig-in-dr-falle,11,3,0.20589236098517685,0.2727272727272727
 96,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1338,7 +1338,7 @@ Jumpfer Fingerhüet.
                         logiere drin!
 
         
-",lustig-in-dr-falle,17,4,0.2715,0.23529411764705882
+",48,lustig-in-dr-falle,17,4,0.2715,0.23529411764705882
 97,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1347,7 +1347,7 @@ Herr Liftling.
 's isch wohr... 's isch ganz nooch..
 
         
-",lustig-in-dr-falle,9,3,0.263,0.3333333333333333
+",48,lustig-in-dr-falle,9,3,0.263,0.3333333333333333
 98,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1357,7 +1357,7 @@ So gang i halt ins Hotel... ich will derno gli geh ne
                         Zimmer arretiere.
 
         
-",lustig-in-dr-falle,16,2,0.0,0.125
+",49,lustig-in-dr-falle,16,2,0.0,0.125
 99,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1367,7 +1367,7 @@ Herr Liftling.
                         brüchsch Di nitt z'derangiere...
 
         
-",lustig-in-dr-falle,16,1,0.0,0.0625
+",49,lustig-in-dr-falle,16,1,0.0,0.0625
 100,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1376,7 +1376,7 @@ Herr Gigele.
 Wie De witt... awer blib nitt lang.
 
         
-",lustig-in-dr-falle,9,2,0.0,0.2222222222222222
+",50,lustig-in-dr-falle,9,2,0.0,0.2222222222222222
 101,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1389,7 +1389,7 @@ Nur e-n-Aügesblick!...
           
 
         
-",lustig-in-dr-falle,14,1,0.0,0.07142857142857142
+",50,lustig-in-dr-falle,14,1,0.0,0.07142857142857142
 102,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -1405,7 +1405,7 @@ Herr Gigele
                         schmutzt se).
 
         
-",lustig-in-dr-falle,45,7,0.23885714285714282,0.15555555555555556
+",51,lustig-in-dr-falle,45,7,0.23885714285714282,0.15555555555555556
 103,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld
@@ -1417,7 +1417,7 @@ Herr Ungeduld
 Isch's möglig!
 
         
-",lustig-in-dr-falle,11,2,0.0,0.18181818181818182
+",51,lustig-in-dr-falle,11,2,0.0,0.18181818181818182
 104,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1429,7 +1429,7 @@ Jumpfer Fingerhüet
 Dr Herr Ungeduld!
 
         
-",lustig-in-dr-falle,9,4,0.127,0.4444444444444444
+",52,lustig-in-dr-falle,9,4,0.127,0.4444444444444444
 105,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -1441,7 +1441,7 @@ Herr Gigele
 Was isch das fir e Herr?
 
         
-",lustig-in-dr-falle,13,4,0.127,0.3076923076923077
+",52,lustig-in-dr-falle,13,4,0.127,0.3076923076923077
 106,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1451,7 +1451,7 @@ Geniert Sie sich nitt, Jumpfer Fingerhüet?... das isch
                         mr ebbes süfers... sich so lo schmutze...
 
         
-",lustig-in-dr-falle,17,5,0.14220000000000002,0.29411764705882354
+",53,lustig-in-dr-falle,17,5,0.14220000000000002,0.29411764705882354
 107,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1462,7 +1462,7 @@ Junger Mensch... seige Se wer Se wànn, so thien Se nur
                         so ha-n-ich 's Recht derzüe...
 
         
-",lustig-in-dr-falle,31,4,0.1445,0.12903225806451613
+",53,lustig-in-dr-falle,31,4,0.1445,0.12903225806451613
 108,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1474,7 +1474,7 @@ Sie hàn 's Recht?... Oh!... wie bin ich so dumm!... ich
                         nitt g'antwortet uf dr Brief...
 
         
-",lustig-in-dr-falle,39,7,0.16071428571428573,0.1794871794871795
+",54,lustig-in-dr-falle,39,7,0.16071428571428573,0.1794871794871795
 109,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1483,7 +1483,7 @@ Herr Gigele.
 Uf dr Brief?...
 
         
-",lustig-in-dr-falle,5,2,0.0,0.4
+",54,lustig-in-dr-falle,5,2,0.0,0.4
 110,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1495,7 +1495,7 @@ Jumpfer Fingerhüet
 Allons... jetz nimmt er ne fir mi Oncle!
 
         
-",lustig-in-dr-falle,14,3,0.16933333333333334,0.21428571428571427
+",55,lustig-in-dr-falle,14,3,0.16933333333333334,0.21428571428571427
 111,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1504,7 +1504,7 @@ Herr Gigele.
 Ah çà... was hàn Sie mit mir, junger Mensch?
 
         
-",lustig-in-dr-falle,11,2,0.0,0.18181818181818182
+",55,lustig-in-dr-falle,11,2,0.0,0.18181818181818182
 112,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1513,7 +1513,7 @@ Herr Ungeduld.
 Eh... ich bi dr Herr Ungeduld !
 
         
-",lustig-in-dr-falle,8,5,0.13433500334898835,0.625
+",56,lustig-in-dr-falle,8,5,0.13433500334898835,0.625
 113,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1522,7 +1522,7 @@ Herr Gigele.
 Wer isch das, dr Herr Ungeduld ?
 
         
-",lustig-in-dr-falle,8,3,0.0,0.375
+",56,lustig-in-dr-falle,8,3,0.0,0.375
 114,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1532,7 +1532,7 @@ Ihre Nièce wird's Ene scho g'sàit ha... dà, wo-n-ere dr
                         Hof macht... fir dr bon motif!
 
         
-",lustig-in-dr-falle,21,5,0.23440000000000003,0.23809523809523808
+",57,lustig-in-dr-falle,21,5,0.23440000000000003,0.23809523809523808
 115,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1541,7 +1541,7 @@ Herr Gigele.
 Fir dr bon motif... in ere g'hirothene Fraü!
 
         
-",lustig-in-dr-falle,10,2,0.0,0.2
+",57,lustig-in-dr-falle,10,2,0.0,0.2
 116,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1550,7 +1550,7 @@ Herr Ungeduld.
 G'hirothe?...
 
         
-",lustig-in-dr-falle,3,2,0.0,0.6666666666666666
+",58,lustig-in-dr-falle,3,2,0.0,0.6666666666666666
 117,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1559,7 +1559,7 @@ Herr Gigele.
 Ne Fraü mit zwei Kinder!
 
         
-",lustig-in-dr-falle,7,2,0.0,0.2857142857142857
+",58,lustig-in-dr-falle,7,2,0.0,0.2857142857142857
 118,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1568,7 +1568,7 @@ Herr Ungeduld.
 Worum nitt gar.. Sie sin glaüb g'schittelt!
 
         
-",lustig-in-dr-falle,9,3,0.238766308652408,0.3333333333333333
+",59,lustig-in-dr-falle,9,3,0.238766308652408,0.3333333333333333
 119,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1580,7 +1580,7 @@ Jumpfer Fingerhüet
 Herr Ungdeuld, ich bitt Se drum, mache Se kei Scene...
 
         
-",lustig-in-dr-falle,18,5,0.1016,0.2777777777777778
+",59,lustig-in-dr-falle,18,5,0.1016,0.2777777777777778
 120,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld
@@ -1593,7 +1593,7 @@ Do isch ebbes nitt recht, expliziert Se sich... un
                         gli... sunscht...
 
         
-",lustig-in-dr-falle,19,4,0.27149999999999996,0.21052631578947367
+",60,lustig-in-dr-falle,19,4,0.27149999999999996,0.21052631578947367
 121,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1602,7 +1602,7 @@ Jumpfer Fingerhüet.
 Ich ka jo awer nitt.
 
         
-",lustig-in-dr-falle,7,1,0.508,0.14285714285714285
+",60,lustig-in-dr-falle,7,1,0.508,0.14285714285714285
 122,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1613,7 +1613,7 @@ Sie will nitt?... güet... so gang i wieder
                         dr Thüre).
 
         
-",lustig-in-dr-falle,17,4,0.0,0.23529411764705882
+",61,lustig-in-dr-falle,17,4,0.0,0.23529411764705882
 123,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1627,7 +1627,7 @@ Herr Ungeduld !
           
 
         
-",lustig-in-dr-falle,9,3,0.16933333333333334,0.3333333333333333
+",61,lustig-in-dr-falle,9,3,0.16933333333333334,0.3333333333333333
 124,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -1639,7 +1639,7 @@ Herr Gigele
 Se rieft ne z'ruck!
 
         
-",lustig-in-dr-falle,11,3,0.0,0.2727272727272727
+",62,lustig-in-dr-falle,11,3,0.0,0.2727272727272727
 125,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1651,7 +1651,7 @@ Ich weiss eigentlig nitt, worum ass ich mich sott
                         g'hirothe gsi!...
 
         
-",lustig-in-dr-falle,31,4,0.17775000000000002,0.12903225806451613
+",62,lustig-in-dr-falle,31,4,0.17775000000000002,0.12903225806451613
 126,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1660,7 +1660,7 @@ Herr Gigele.
 Se-n-isch d'Fraü nitt vo mim Neveu?
 
         
-",lustig-in-dr-falle,11,1,0.0,0.09090909090909091
+",63,lustig-in-dr-falle,11,1,0.0,0.09090909090909091
 127,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld.
@@ -1669,7 +1669,7 @@ Herr Ungeduld.
 Si Fraü?... si Neveu?...
 
         
-",lustig-in-dr-falle,6,2,0.0,0.3333333333333333
+",63,lustig-in-dr-falle,6,2,0.0,0.3333333333333333
 128,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1678,7 +1678,7 @@ Jumpfer Fingerhüet.
 Nitt im G'ringste!
 
         
-",lustig-in-dr-falle,5,1,0.508,0.2
+",64,lustig-in-dr-falle,5,1,0.508,0.2
 129,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1687,7 +1687,7 @@ Herr Gigele.
 Un er isch nitt g'hirothe?
 
         
-",lustig-in-dr-falle,7,1,0.0,0.14285714285714285
+",64,lustig-in-dr-falle,7,1,0.0,0.14285714285714285
 130,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1697,7 +1697,7 @@ Doch, doch... ich sag das nitt... awer mit ere-n-
                         Andere.
 
         
-",lustig-in-dr-falle,13,1,0.508,0.07692307692307693
+",65,lustig-in-dr-falle,13,1,0.508,0.07692307692307693
 131,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1706,7 +1706,7 @@ Herr Gigele.
 Mit ere-n-Andere?
 
         
-",lustig-in-dr-falle,6,1,0.0,0.16666666666666666
+",65,lustig-in-dr-falle,6,1,0.0,0.16666666666666666
 132,comedy,Herr UNGEDULD,M,,,,"
           
 Herr Ungeduld
@@ -1718,7 +1718,7 @@ Herr Ungeduld
 Mit wem denn... mit wem?
 
         
-",lustig-in-dr-falle,13,3,0.16933333333333334,0.23076923076923078
+",66,lustig-in-dr-falle,13,3,0.16933333333333334,0.23076923076923078
 133,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -1731,7 +1731,7 @@ Mit dr Fraü Strumpf... sage Se nur wie-n-ich... ich will
                         se glich geh preveniere...
 
         
-",lustig-in-dr-falle,21,2,0.4065,0.09523809523809523
+",66,lustig-in-dr-falle,21,2,0.4065,0.09523809523809523
 134,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1741,7 +1741,7 @@ Sie will mich hintergeh... das isch e Lug... wo isch se
                         denn, die Andere?
 
         
-",lustig-in-dr-falle,16,2,0.0,0.125
+",67,lustig-in-dr-falle,16,2,0.0,0.125
 135,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1750,7 +1750,7 @@ Jumpfer Fingerhüet.
 Do im Hüs isch se!
 
         
-",lustig-in-dr-falle,7,2,0.254,0.2857142857142857
+",67,lustig-in-dr-falle,7,2,0.254,0.2857142857142857
 136,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1793,7 +1793,7 @@ In jedem Land.
           
 
         
-",lustig-in-dr-falle,52,10,0.2739298925957224,0.19230769230769232
+",68,lustig-in-dr-falle,52,10,0.2739298925957224,0.19230769230769232
 137,comedy,Herr GIGELE,M,,,,"
           
 Mitnander.
@@ -1811,7 +1811,7 @@ Hat mir/ihm e-n-And're presentiert.
           
 
         
-",lustig-in-dr-falle,19,1,0.0,0.05263157894736842
+",68,lustig-in-dr-falle,19,1,0.0,0.05263157894736842
 138,comedy,Herr UNGEDULD,M,,,,"
           
 Mitnander.
@@ -1829,7 +1829,7 @@ Hat mir/ihm e-n-And're presentiert.
           
 
         
-",lustig-in-dr-falle,19,1,0.0,0.05263157894736842
+",69,lustig-in-dr-falle,19,1,0.0,0.05263157894736842
 139,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -1840,7 +1840,7 @@ Ich will se gli schicke, d'rechte... kämme Se, Herr
 (se gehn hinte-n-üse).
 
         
-",lustig-in-dr-falle,20,4,0.27149999999999996,0.2
+",69,lustig-in-dr-falle,20,4,0.27149999999999996,0.2
 140,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -1854,7 +1854,7 @@ Ich weiss wahrhaft nimmig, was ich denke soll... 's
                         wird... aha... do isch er.
 
         
-",lustig-in-dr-falle,29,4,0.19725,0.13793103448275862
+",70,lustig-in-dr-falle,29,4,0.19725,0.13793103448275862
 141,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -1868,7 +1868,7 @@ Ich ha Dr e pràchtig Zimmer arretiert, Oncle... De
                         Fraü?
 
         
-",lustig-in-dr-falle,26,2,0.0,0.07692307692307693
+",70,lustig-in-dr-falle,26,2,0.0,0.07692307692307693
 142,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1880,7 +1880,7 @@ Di Fraü, Alexis!... zeig, kumm do ane... lüeg mi emol a,
           
 
         
-",lustig-in-dr-falle,16,2,0.0,0.125
+",71,lustig-in-dr-falle,16,2,0.0,0.125
 143,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1889,7 +1889,7 @@ Herr Liftling.
 Worum, was isch g'schàh?...
 
         
-",lustig-in-dr-falle,6,1,0.0,0.16666666666666666
+",71,lustig-in-dr-falle,6,1,0.0,0.16666666666666666
 144,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1898,7 +1898,7 @@ Herr Gigele.
 Ich weiss alles... alles!
 
         
-",lustig-in-dr-falle,6,1,0.0,0.16666666666666666
+",72,lustig-in-dr-falle,6,1,0.0,0.16666666666666666
 145,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1907,7 +1907,7 @@ Herr Liftling.
 Was... me hat Dr g'sàit...
 
         
-",lustig-in-dr-falle,7,1,0.0,0.14285714285714285
+",72,lustig-in-dr-falle,7,1,0.0,0.14285714285714285
 146,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1916,7 +1916,7 @@ Herr Gigele.
 Also isch's denn wohr?
 
         
-",lustig-in-dr-falle,7,2,0.3945,0.2857142857142857
+",73,lustig-in-dr-falle,7,2,0.3945,0.2857142857142857
 147,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -1928,7 +1928,7 @@ Herr Liftling
 Ich bi doch g'wiss ganz bleich!
 
         
-",lustig-in-dr-falle,12,4,0.0,0.3333333333333333
+",73,lustig-in-dr-falle,12,4,0.0,0.3333333333333333
 148,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1938,7 +1938,7 @@ Ich ha sogar e Moment glaübt, ass De gar nitt g'hirothe
                         bisch!
 
         
-",lustig-in-dr-falle,14,1,0.0,0.07142857142857142
+",74,lustig-in-dr-falle,14,1,0.0,0.07142857142857142
 149,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -1950,7 +1950,7 @@ Herr Liftling
 Gottlob... ich ha scho g'meint, er weisst alles!...
 
         
-",lustig-in-dr-falle,14,2,0.0,0.14285714285714285
+",74,lustig-in-dr-falle,14,2,0.0,0.14285714285714285
 150,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1961,7 +1961,7 @@ Un wenn das g'si wàr... wenn Dü mich eso hintergange
                         verzeiht...
 
         
-",lustig-in-dr-falle,24,2,0.0,0.08333333333333333
+",75,lustig-in-dr-falle,24,2,0.0,0.08333333333333333
 151,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -1973,7 +1973,7 @@ Herr Liftling
 Ich merk's scho... er hätt mi enterbt...
 
         
-",lustig-in-dr-falle,14,2,0.0,0.14285714285714285
+",75,lustig-in-dr-falle,14,2,0.0,0.14285714285714285
 152,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -1983,7 +1983,7 @@ Worum, zeig, hasch mt nitt gli Di rechte Fraü
                         vorg'stellt?
 
         
-",lustig-in-dr-falle,12,2,0.289,0.16666666666666666
+",76,lustig-in-dr-falle,12,2,0.289,0.16666666666666666
 153,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -1993,7 +1993,7 @@ Mi rechte Fraü?... ich... ich weiss nitt, eb ich Dir das
                         avertraüe ka...
 
         
-",lustig-in-dr-falle,15,2,0.289,0.13333333333333333
+",76,lustig-in-dr-falle,15,2,0.289,0.13333333333333333
 154,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2002,7 +2002,7 @@ Herr Gigele.
 De hasch jo nit z'riskiere mit mir!
 
         
-",lustig-in-dr-falle,10,2,0.129,0.2
+",77,lustig-in-dr-falle,10,2,0.129,0.2
 155,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2017,7 +2017,7 @@ Jetz himpelt's...
                         so will ich Dir das G'heimniss offebare.
 
         
-",lustig-in-dr-falle,25,6,0.2472791694574903,0.24
+",77,lustig-in-dr-falle,25,6,0.2472791694574903,0.24
 156,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2027,7 +2027,7 @@ Dü machsch mich wunderfitzig... g'wiss... Dü machsch
                         mich wunderfitzig!
 
         
-",lustig-in-dr-falle,11,3,0.0,0.2727272727272727
+",78,lustig-in-dr-falle,11,3,0.0,0.2727272727272727
 157,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2039,7 +2039,7 @@ Herr Liftling
 Voyons... was kännt ich ihm jetz offebare...
 
         
-",lustig-in-dr-falle,13,2,0.0,0.15384615384615385
+",78,lustig-in-dr-falle,13,2,0.0,0.15384615384615385
 158,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2048,7 +2048,7 @@ Herr Gigele.
 Zeig... kunnt's bol... ich wart...
 
         
-",lustig-in-dr-falle,8,2,0.2385,0.25
+",79,lustig-in-dr-falle,8,2,0.2385,0.25
 159,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2060,7 +2060,7 @@ Eh bien... so müesch denn wisse, ass mi Fraü heimlig vo
                         se-n-umbringt, wenn se-n-em in d'Hànd g'rothet!...
 
         
-",lustig-in-dr-falle,48,4,0.37691875418623544,0.08333333333333333
+",79,lustig-in-dr-falle,48,4,0.37691875418623544,0.08333333333333333
 160,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2069,7 +2069,7 @@ Herr Gigele.
 Das isch jo ne ganzer Roman.
 
         
-",lustig-in-dr-falle,8,1,0.0,0.125
+",80,lustig-in-dr-falle,8,1,0.0,0.125
 161,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2079,7 +2079,7 @@ Drum lebt o mi Fraü ganz z'ruckzoge, siter ass mr
                         g'hirothe sin... si wicht in alle Lit üs.
 
         
-",lustig-in-dr-falle,21,2,0.0,0.09523809523809523
+",80,lustig-in-dr-falle,21,2,0.0,0.09523809523809523
 162,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2089,7 +2089,7 @@ Awer vor mir... vor em Oncle hat se jo nit z'riskiere...
                         ich halt ewe dra fir se z'sàh... das kasch wohl denke.
 
         
-",lustig-in-dr-falle,26,5,0.17513543651960783,0.19230769230769232
+",81,lustig-in-dr-falle,26,5,0.17513543651960783,0.19230769230769232
 163,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2098,7 +2098,7 @@ Herr Liftling.
 Haltsch Dü durchüs dra?
 
         
-",lustig-in-dr-falle,6,1,0.0,0.16666666666666666
+",81,lustig-in-dr-falle,6,1,0.0,0.16666666666666666
 164,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2107,7 +2107,7 @@ Herr Gigele.
 Natirlig!
 
         
-",lustig-in-dr-falle,3,1,0.0,0.3333333333333333
+",82,lustig-in-dr-falle,3,1,0.0,0.3333333333333333
 165,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2118,7 +2118,7 @@ Wenn se-n-awer nitt wott ku?
           
 
         
-",lustig-in-dr-falle,9,2,0.0,0.2222222222222222
+",82,lustig-in-dr-falle,9,2,0.0,0.2222222222222222
 166,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2127,7 +2127,7 @@ Herr Gigele.
 Eh bien... so geh mr züe-n-ihre.
 
         
-",lustig-in-dr-falle,10,2,0.33583750837247084,0.2
+",83,lustig-in-dr-falle,10,2,0.33583750837247084,0.2
 167,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2137,7 +2137,7 @@ Herr Liftling.
                         kunnt... ich will se geh hole.
 
         
-",lustig-in-dr-falle,19,1,0.0,0.05263157894736842
+",83,lustig-in-dr-falle,19,1,0.0,0.05263157894736842
 168,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2146,7 +2146,7 @@ Herr Gigele.
 Awer dummel Di!
 
         
-",lustig-in-dr-falle,5,1,0.0,0.2
+",84,lustig-in-dr-falle,5,1,0.0,0.2
 169,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2159,7 +2159,7 @@ Ich müess jetz halt doch d'Fraü Strumpf drum aspreche...
                         se wird mr jo wohl dà Dienst leiste...
 
         
-",lustig-in-dr-falle,24,4,0.1544192956495098,0.16666666666666666
+",84,lustig-in-dr-falle,24,4,0.1544192956495098,0.16666666666666666
 170,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2168,7 +2168,7 @@ Herr Gigele.
 Zeig... was b'sinnsch Di jetz noch lang!
 
         
-",lustig-in-dr-falle,9,2,0.0,0.2222222222222222
+",85,lustig-in-dr-falle,9,2,0.0,0.2222222222222222
 171,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Hert Liftling.
@@ -2202,7 +2202,7 @@ Fir z'ruck isch's jetz z'spot.
           
 
         
-",lustig-in-dr-falle,43,8,0.089537365744653,0.18604651162790697
+",85,lustig-in-dr-falle,43,8,0.089537365744653,0.18604651162790697
 172,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 
@@ -2224,7 +2224,7 @@ Un mach dà Gang.
             
 
           
-",lustig-in-dr-falle,23,1,0.0,0.043478260869565216
+",86,lustig-in-dr-falle,23,1,0.0,0.043478260869565216
 173,comedy,Herr GIGELE,M,,,,"
             
 Herr Gigele.
@@ -2246,7 +2246,7 @@ Un mach dà Gang.
             
 
           
-",lustig-in-dr-falle,24,3,0.06766666666666667,0.125
+",86,lustig-in-dr-falle,24,3,0.06766666666666667,0.125
 174,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2256,7 +2256,7 @@ Im AügesbIick wird se do si!
 (er geht üse rechts)
 
         
-",lustig-in-dr-falle,14,1,0.0,0.07142857142857142
+",87,lustig-in-dr-falle,14,1,0.0,0.07142857142857142
 175,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2268,7 +2268,7 @@ Ich will siter e wenig ufs Kanepé geh sitze... ich bi
 (er geht ins Zimmer rechts un lehnt d'Thüre-n-a).
 
         
-",lustig-in-dr-falle,40,4,0.0,0.1
+",87,lustig-in-dr-falle,40,4,0.0,0.1
 176,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2283,7 +2283,7 @@ Schlangegasse Nümero 8 im Dritte... das isch do... du
  tiens, se-n-isch güet ig'richtet do!
 
         
-",lustig-in-dr-falle,48,7,0.1462857142857143,0.14583333333333334
+",88,lustig-in-dr-falle,48,7,0.1462857142857143,0.14583333333333334
 177,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2298,7 +2298,7 @@ Aha... sin Se jetz endlig aku, Herr Oncle!... 's freit
                         z'laüfe...
 
         
-",lustig-in-dr-falle,41,5,0.11560000000000001,0.12195121951219512
+",88,lustig-in-dr-falle,41,5,0.11560000000000001,0.12195121951219512
 178,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet
@@ -2313,7 +2313,7 @@ Wer mag jetz das si?... d'Magd viellicht?...
                         verzeihe Se, mit wem ha-n-ich d'Ehr...
 
         
-",lustig-in-dr-falle,26,6,0.25939724244915763,0.23076923076923078
+",89,lustig-in-dr-falle,26,6,0.25939724244915763,0.23076923076923078
 179,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2325,7 +2325,7 @@ Eh, merke Sie's denn nitt?.. ich bi d'Fraü!
                         wo isch denn jetz dr Herr Liftling?
 
         
-",lustig-in-dr-falle,23,3,0.22389167224831388,0.13043478260869565
+",89,lustig-in-dr-falle,23,3,0.22389167224831388,0.13043478260869565
 180,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2336,7 +2336,7 @@ D'Stundefraü?...
  ich ha mr's denkt.
 
         
-",lustig-in-dr-falle,13,2,0.0,0.15384615384615385
+",90,lustig-in-dr-falle,13,2,0.0,0.15384615384615385
 181,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2348,7 +2348,7 @@ Comment, d'Stundefraü!... d'Fraü üs em Hüs, wenn's Ene
           
 
         
-",lustig-in-dr-falle,14,1,0.0,0.07142857142857142
+",90,lustig-in-dr-falle,14,1,0.0,0.07142857142857142
 182,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2357,7 +2357,7 @@ Herr Fingerhüet.
 Ah... d'Hüsfraü also?
 
         
-",lustig-in-dr-falle,6,1,0.0,0.16666666666666666
+",91,lustig-in-dr-falle,6,1,0.0,0.16666666666666666
 183,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2367,7 +2367,7 @@ D'Fraü vom Herr Liftling... we me-n-Ihne denn müess dr
                         Tupfe ufs i mache!
 
         
-",lustig-in-dr-falle,18,1,0.0,0.05555555555555555
+",91,lustig-in-dr-falle,18,1,0.0,0.05555555555555555
 184,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2379,7 +2379,7 @@ Im Herr Liftling si Fraü?...
                         mache?
 
         
-",lustig-in-dr-falle,16,3,0.0,0.1875
+",92,lustig-in-dr-falle,16,3,0.0,0.1875
 185,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2398,7 +2398,7 @@ Was isch eigentlig jetz das fir Eine?
                         Se... kännt Se mir nitt sage, wo mi...
 
         
-",lustig-in-dr-falle,51,7,0.2532857142857143,0.13725490196078433
+",92,lustig-in-dr-falle,51,7,0.2532857142857143,0.13725490196078433
 186,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2420,7 +2420,7 @@ Er wird gli ku... warte Se nur e wenig...
                         Neveu fiehrt sich nitt allewil uf, wie-n-er sott...
 
         
-",lustig-in-dr-falle,79,16,0.2300421356488416,0.20253164556962025
+",93,lustig-in-dr-falle,79,16,0.2300421356488416,0.20253164556962025
 187,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2431,7 +2431,7 @@ Mi Neveu?...
  die Fraü agaciert mich!
 
         
-",lustig-in-dr-falle,12,2,0.0,0.16666666666666666
+",93,lustig-in-dr-falle,12,2,0.0,0.16666666666666666
 188,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2441,7 +2441,7 @@ Sie kännte mir viellicht 's Geld avanciere, liewer
                         Oncle... ass ich emol dà Zins kännt zahle...
 
         
-",lustig-in-dr-falle,18,4,0.43063554646213487,0.2222222222222222
+",94,lustig-in-dr-falle,18,4,0.43063554646213487,0.2222222222222222
 189,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2477,7 +2477,7 @@ Wenn ich's thàt anàh!
           
 
         
-",lustig-in-dr-falle,44,6,0.238766308652408,0.13636363636363635
+",94,lustig-in-dr-falle,44,6,0.238766308652408,0.13636363636363635
 190,comedy,Herr FINGERHÜET,M,,,,"
             
 
@@ -2490,7 +2490,7 @@ Was frog ich doch no Ihrem Zins.
             
 
           
-",lustig-in-dr-falle,16,1,0.0,0.0625
+",95,lustig-in-dr-falle,16,1,0.0,0.0625
 191,comedy,Fraü STRUMPF,F,,,,"
             
 Fraü Strumpf.
@@ -2506,7 +2506,7 @@ Er will ne zahle nitt, mi Zins.
             
 
           
-",lustig-in-dr-falle,18,2,0.2724687285921508,0.1111111111111111
+",95,lustig-in-dr-falle,18,2,0.2724687285921508,0.1111111111111111
 192,comedy,Herr FINGERHÜET,M,,,,"
             
 Herr Fingerhüet.
@@ -2522,7 +2522,7 @@ Das ha-n-ich scho g'sàh!
             
 
           
-",lustig-in-dr-falle,15,2,0.358149462978612,0.13333333333333333
+",96,lustig-in-dr-falle,15,2,0.358149462978612,0.13333333333333333
 193,comedy,Fraü STRUMPF,F,,,,"
             
 Fraü Strumpf.
@@ -2538,7 +2538,7 @@ Das ha-n-ich scho g'sàh!
             
 
           
-",lustig-in-dr-falle,15,3,0.43143297531907465,0.2
+",96,lustig-in-dr-falle,15,3,0.43143297531907465,0.2
 194,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2547,7 +2547,7 @@ Herr Fingerhüet.
 Ah ça... ich ha doch glaüb d'Jumpfer Fingerhüet...
 
         
-",lustig-in-dr-falle,11,3,0.4080996419857413,0.2727272727272727
+",97,lustig-in-dr-falle,11,3,0.4080996419857413,0.2727272727272727
 195,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2571,7 +2571,7 @@ D'Jumpfer Fingerhüet!...
                         Fingerhüet geht uf d'Site links).
 
         
-",lustig-in-dr-falle,63,13,0.23158445014726523,0.20634920634920634
+",97,lustig-in-dr-falle,63,13,0.23158445014726523,0.20634920634920634
 196,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2586,7 +2586,7 @@ Ich süech Se jetz scho alleweg e halb Stund im ganze
           
 
         
-",lustig-in-dr-falle,23,4,0.0,0.17391304347826086
+",98,lustig-in-dr-falle,23,4,0.0,0.17391304347826086
 197,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2600,7 +2600,7 @@ Scht!... d'Jumpfer Fingerhüet hat mich do ane g'schickt,
                         abisse!
 
         
-",lustig-in-dr-falle,28,6,0.2968333333333333,0.21428571428571427
+",98,lustig-in-dr-falle,28,6,0.2968333333333333,0.21428571428571427
 198,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2609,7 +2609,7 @@ Herr Liftling.
 Wer?
 
         
-",lustig-in-dr-falle,3,1,0.0,0.3333333333333333
+",99,lustig-in-dr-falle,3,1,0.0,0.3333333333333333
 200,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2625,7 +2625,7 @@ Tiens... was isch jetz das fir Einer?
                         Ihre-n-i, Fraü Strumpf?
 
         
-",lustig-in-dr-falle,33,3,0.0,0.09090909090909091
+",100,lustig-in-dr-falle,33,3,0.0,0.09090909090909091
 202,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet
@@ -2641,7 +2641,7 @@ Was sin jetz eigentlig das fir Lit?
                         Fingerhüet do? ... ich bi ihr' Oncle...
 
         
-",lustig-in-dr-falle,33,7,0.2408620686592882,0.21212121212121213
+",101,lustig-in-dr-falle,33,7,0.2408620686592882,0.21212121212121213
 204,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet.
@@ -2650,7 +2650,7 @@ Herr Fingerhüet.
 Sie hat mich jo nie lo üsrede!
 
         
-",lustig-in-dr-falle,9,2,0.1015,0.2222222222222222
+",102,lustig-in-dr-falle,9,2,0.1015,0.2222222222222222
 205,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2672,7 +2672,7 @@ Allons bon... wieder e frische Complication!... wo wà mr
                         bi doch g'wiss ganz bleich!
 
         
-",lustig-in-dr-falle,58,9,0.12666666666666668,0.15517241379310345
+",102,lustig-in-dr-falle,58,9,0.12666666666666668,0.15517241379310345
 207,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2681,7 +2681,7 @@ Herr Liftling.
 Weiss ich's?... er wird dert in mim Zimmer si...
 
         
-",lustig-in-dr-falle,12,1,0.0,0.08333333333333333
+",103,lustig-in-dr-falle,12,1,0.0,0.08333333333333333
 208,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet
@@ -2693,7 +2693,7 @@ Herr Fingerhüet
 Kännt ich jetz eigentlig emol wisse...
 
         
-",lustig-in-dr-falle,11,2,0.0,0.18181818181818182
+",104,lustig-in-dr-falle,11,2,0.0,0.18181818181818182
 209,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet
@@ -2707,7 +2707,7 @@ Oncle... liewer Oncle!... mr hàn's erfahre-n-in dr
                         ich presentier Dr do mi Hochziter, dr Herr Ungeduld...
 
         
-",lustig-in-dr-falle,44,8,0.21783340849396127,0.18181818181818182
+",104,lustig-in-dr-falle,44,8,0.21783340849396127,0.18181818181818182
 210,comedy,Herr FINGERHÜET,M,,,,"
           
 Herr Fingerhüet
@@ -2720,7 +2720,7 @@ Ah... endlig!... awer sag mr... was geht denn eigentlig
                         vor do bi Dir?
 
         
-",lustig-in-dr-falle,21,1,0.0,0.047619047619047616
+",105,lustig-in-dr-falle,21,1,0.0,0.047619047619047616
 211,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -2731,7 +2731,7 @@ Aha... ich merk scho, was wird g'schàh si... ich will
 (se rede lislig mitnander).
 
         
-",lustig-in-dr-falle,21,2,0.254,0.09523809523809523
+",105,lustig-in-dr-falle,21,2,0.254,0.09523809523809523
 212,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2744,7 +2744,7 @@ Das isch alles recht awer ich weiss bol nimmig, wo mr dr
                         Kopf steht...
 
         
-",lustig-in-dr-falle,20,3,0.19266666666666665,0.15
+",106,lustig-in-dr-falle,20,3,0.19266666666666665,0.15
 213,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele
@@ -2759,7 +2759,7 @@ Aha, De bisch z'ruck, Alexis... ich bi misegs ig'schlofe
           
 
         
-",lustig-in-dr-falle,28,3,0.0,0.10714285714285714
+",106,lustig-in-dr-falle,28,3,0.0,0.10714285714285714
 214,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2771,7 +2771,7 @@ Herr Liftling
 Do, liewer Oncle, isch se-n-endlig züem Vorschin ku.
 
         
-",lustig-in-dr-falle,21,3,0.21088908931723013,0.14285714285714285
+",107,lustig-in-dr-falle,21,3,0.21088908931723013,0.14285714285714285
 215,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2784,7 +2784,7 @@ Die Stimm!... das G'sicht!... eh... isch's mögli!... dr
                         Herr Gigele!...
 
         
-",lustig-in-dr-falle,19,4,0.2986687541862354,0.21052631578947367
+",107,lustig-in-dr-falle,19,4,0.2986687541862354,0.21052631578947367
 216,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2798,7 +2798,7 @@ Eh tiens... d'Fraü Strumpf... 's Bàwele, mi erste
                         un vom e Vater...
 
         
-",lustig-in-dr-falle,37,5,0.3780684569393264,0.13513513513513514
+",108,lustig-in-dr-falle,37,5,0.3780684569393264,0.13513513513513514
 217,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2810,7 +2810,7 @@ Herr Liftling
 Ei, ei, ei... was ha-n-i do ag'stellt!
 
         
-",lustig-in-dr-falle,15,2,0.0,0.13333333333333333
+",108,lustig-in-dr-falle,15,2,0.0,0.13333333333333333
 218,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2823,7 +2823,7 @@ Oh Herr Gigele... 's hat mich scho vielmol g'raüe, ass
 (se fangt a z'grine).
 
         
-",lustig-in-dr-falle,42,5,0.0,0.11904761904761904
+",109,lustig-in-dr-falle,42,5,0.0,0.11904761904761904
 219,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2834,7 +2834,7 @@ Un do hat Se derno mi Neveu dert g'hirothe... 's isch
                         e schön Pààrle gà!
 
         
-",lustig-in-dr-falle,26,5,0.338592397904354,0.19230769230769232
+",109,lustig-in-dr-falle,26,5,0.338592397904354,0.19230769230769232
 220,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf.
@@ -2844,7 +2844,7 @@ Ich... Ihr' Schlingel vo Neveu g'hirothe!... z'erlàbtig
                         nitt... ich bi noch allewil z'ha!
 
         
-",lustig-in-dr-falle,17,2,0.3085,0.11764705882352941
+",110,lustig-in-dr-falle,17,2,0.3085,0.11764705882352941
 221,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2856,7 +2856,7 @@ Herr Liftling
 Do hà mr's! Ich bi doch g'wiss ganz bleich.
 
         
-",lustig-in-dr-falle,16,4,0.0,0.25
+",110,lustig-in-dr-falle,16,4,0.0,0.25
 222,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2867,7 +2867,7 @@ Ah so, Alexis!... das isch mr schön Dings!... was hasch
                         dritte Fraü vorstelle?
 
         
-",lustig-in-dr-falle,26,2,0.293,0.07692307692307693
+",111,lustig-in-dr-falle,26,2,0.293,0.07692307692307693
 223,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling
@@ -2886,7 +2886,7 @@ Ma fois... 's isch jetz doch alles verlore!
                         g'fiehrt...
 
         
-",lustig-in-dr-falle,53,7,0.3526217285286389,0.1320754716981132
+",111,lustig-in-dr-falle,53,7,0.3526217285286389,0.1320754716981132
 224,comedy,Fraü STRUMPF,F,,,,"
           
 Fraü Strumpf
@@ -2898,7 +2898,7 @@ Fraü Strumpf
 Müess me ne Toupet ha, fir eso z'liege!
 
         
-",lustig-in-dr-falle,15,2,0.0,0.13333333333333333
+",112,lustig-in-dr-falle,15,2,0.0,0.13333333333333333
 225,comedy,Herr GIGELE,M,,,,"
           
 Herr Gigele.
@@ -2907,7 +2907,7 @@ Herr Gigele.
 Dà güete-n-Alexis!
 
         
-",lustig-in-dr-falle,6,2,0.0,0.3333333333333333
+",112,lustig-in-dr-falle,6,2,0.0,0.3333333333333333
 226,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Jumpfer Fingerhüet.
@@ -2916,7 +2916,7 @@ Jumpfer Fingerhüet.
 Das isch's Bouquet!
 
         
-",lustig-in-dr-falle,6,1,0.508,0.16666666666666666
+",113,lustig-in-dr-falle,6,1,0.508,0.16666666666666666
 227,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Herr Liftling.
@@ -2942,7 +2942,7 @@ Ich bi doch g'wiss ganz bleich un blass!
           
 
         
-",lustig-in-dr-falle,37,10,0.12353543651960783,0.2702702702702703
+",113,lustig-in-dr-falle,37,10,0.12353543651960783,0.2702702702702703
 228,comedy,Herr ALEXIS LIFTLING,M,,,,"
           
 Mitnander.
@@ -2964,7 +2964,7 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",114,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
 229,comedy,Herr UNGEDULD,M,,,,"
           
 Mitnander.
@@ -2986,7 +2986,7 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",114,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
 230,comedy,Herr GIGELE,M,,,,"
           
 Mitnander.
@@ -3008,7 +3008,7 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",115,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
 231,comedy,Jumpfer FINGERHÜET,F,stylist,intermediate_professionals,,"
           
 Mitnander.
@@ -3030,7 +3030,7 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",115,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
 232,comedy,Fraü STRUMPF,F,,,,"
           
 Mitnander.
@@ -3052,7 +3052,7 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",116,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
 233,comedy,Herr FINGERHÜET,M,,,,"
           
 Mitnander.
@@ -3074,4 +3074,4 @@ Dà kunnt als selwer dri.
           
 
         
-",lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483
+",116,lustig-in-dr-falle,29,5,0.11332296622397031,0.1724137931034483

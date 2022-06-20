@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 3,drama,Katt,M,,,,"
             
 KATT:
@@ -8,7 +8,7 @@ KATT:
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,8,1,0.3793706325640294,0.125
+",0,fuchs-heimlichi-lieb,8,1,0.3793706325640294,0.125
 4,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -17,7 +17,7 @@ MEJEL:
 Viel Aerwet — Katt.
 
           
-",fuchs-heimlichi-lieb,5,1,0.562,0.2
+",1,fuchs-heimlichi-lieb,5,1,0.562,0.2
 5,drama,Katt,M,,,,"
             
 KATT:
@@ -27,7 +27,7 @@ E Wünder, wann de Bür morn Hochzitt mocht.
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,12,4,0.6967385555436392,0.3333333333333333
+",1,fuchs-heimlichi-lieb,12,4,0.6967385555436392,0.3333333333333333
 6,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -36,7 +36,7 @@ MEJEL:
 Ja — vellicht brüche nr noch ebs.
 
           
-",fuchs-heimlichi-lieb,8,2,0.6030242898888976,0.25
+",1,fuchs-heimlichi-lieb,8,2,0.6030242898888976,0.25
 8,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -45,7 +45,7 @@ MEJEL:
 Oder — köennt i ebs halfe?
 
           
-",fuchs-heimlichi-lieb,7,1,0.833,0.14285714285714285
+",2,fuchs-heimlichi-lieb,7,1,0.833,0.14285714285714285
 10,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -54,7 +54,7 @@ MEJEL:
 Jetz, — nit, — i hab halt gemänt
 
           
-",fuchs-heimlichi-lieb,9,1,0.3111065596608406,0.1111111111111111
+",2,fuchs-heimlichi-lieb,9,1,0.3111065596608406,0.1111111111111111
 11,drama,Katt,M,,,,"
             
 KATT:
@@ -63,7 +63,7 @@ KATT:
 So, so, do hesch halt latz gemänt, Mejel.
 
           
-",fuchs-heimlichi-lieb,9,2,0.2513179351818268,0.2222222222222222
+",2,fuchs-heimlichi-lieb,9,2,0.2513179351818268,0.2222222222222222
 12,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -72,7 +72,7 @@ MEJEL:
 Na, ze geh i halt wider.
 
           
-",fuchs-heimlichi-lieb,7,1,0.3111065596608406,0.14285714285714285
+",3,fuchs-heimlichi-lieb,7,1,0.3111065596608406,0.14285714285714285
 13,drama,Katt,M,,,,"
             
 KATT:
@@ -81,7 +81,7 @@ KATT:
 Diss isch awer e schnalli Visit gewahn.
 
           
-",fuchs-heimlichi-lieb,8,1,0.711452961709516,0.125
+",3,fuchs-heimlichi-lieb,8,1,0.711452961709516,0.125
 14,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -90,7 +90,7 @@ MEJEL:
 Alleh, adjeh Katt.
 
           
-",fuchs-heimlichi-lieb,4,1,0.1787619194417025,0.25
+",3,fuchs-heimlichi-lieb,4,1,0.1787619194417025,0.25
 15,drama,Katt,M,,,,"
             
 KATT:
@@ -99,7 +99,7 @@ KATT:
 Adjeh Mejel.
 
           
-",fuchs-heimlichi-lieb,3,1,0.1787619194417025,0.3333333333333333
+",3,fuchs-heimlichi-lieb,3,1,0.1787619194417025,0.3333333333333333
 16,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -111,7 +111,7 @@ MEJEL:
 Isch ar schun do, Katt??
 
           
-",fuchs-heimlichi-lieb,20,1,0.711452961709516,0.05
+",4,fuchs-heimlichi-lieb,20,1,0.711452961709516,0.05
 17,drama,Katt,M,,,,"
             
 KATT:
@@ -123,7 +123,7 @@ KATT:
 So, jetz gfall’sch mr, als erüss mit de Sproch un nit hinderm Hüetel gspielt. Halt’sch mich dann for so dumm, Mejel? Nä, nä, diss kannsch de äm vezohle, wo d' Schüeh mit Widde binge dhüet.
 
           
-",fuchs-heimlichi-lieb,55,2,0.2655510409994693,0.03636363636363636
+",4,fuchs-heimlichi-lieb,55,2,0.2655510409994693,0.03636363636363636
 18,drama,Mejel,F,,,,"
             
 MEJEL :
@@ -135,7 +135,7 @@ MEJEL :
 Verrode mi nit — Katt.
 
           
-",fuchs-heimlichi-lieb,9,1,0.415238868310487,0.1111111111111111
+",4,fuchs-heimlichi-lieb,9,1,0.415238868310487,0.1111111111111111
 19,drama,Katt,M,,,,"
             
 KATT:
@@ -144,7 +144,7 @@ KATT:
 Mänsch, ich hab’s nit schun lang gsahne, wie d' als rot worre bisch bis hinger d' Ohrlapple, wann de als mit ünserm Jean geredd hesch. Lüej, Mejel, mir zwäj sin jo d’änziche, wo an de Jean danke un uff ne warde dhüen. De Bür, siner Vadder, ar hett kenn Zitt, ar hieroot morn züem zwäite Mol. Dar hett anderi Sorje. Awer mir: Ich, Mejel, ich hab dene Büe uffgezöje, wiel sini Müeder gstorwe isch, küm isch ar uff de Walt gewahn. — — Un dü, — — hm — — dü, — — mach jetz kenn Gsicht wie e Küehj, wann mr ere e Vejlott annehebbt, — — dü wart’sch halt uff ne, wie d’ne gare hesch.
 
           
-",fuchs-heimlichi-lieb,121,16,0.6415444053032245,0.1322314049586777
+",4,fuchs-heimlichi-lieb,121,16,0.6415444053032245,0.1322314049586777
 20,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -158,7 +158,7 @@ Bscht — Katt — bscht, wann ’s eber hoert!
 (Links ab.)
 
           
-",fuchs-heimlichi-lieb,75,3,0.36357628078648957,0.04
+",5,fuchs-heimlichi-lieb,75,3,0.36357628078648957,0.04
 21,drama,Katt,M,,,,"
             
 KATT :
@@ -170,7 +170,7 @@ KATT :
 Ass hett ganz eracht, ’s Mejel. Mr müess die Manner als e bissel mit de Nas druffdupfe, schunsch merike se nix. — Vom Batte wurd de Hawere nit fatt, mr müess äui Mischt dron moche. Awer i will doch die Rose glich nuff im Jean sin Stubb dräuje.
 
           
-",fuchs-heimlichi-lieb,54,5,0.5305489766934178,0.09259259259259259
+",5,fuchs-heimlichi-lieb,54,5,0.5305489766934178,0.09259259259259259
 22,drama,Katt,M,,,,"
             
 KATT :
@@ -189,7 +189,7 @@ Do gib mr Achting am Hard. Ich müess so wie so noch ’s Bluet hole for d' Kutt
 .
 
           
-",fuchs-heimlichi-lieb,121,12,0.37628172710563174,0.09917355371900827
+",5,fuchs-heimlichi-lieb,121,12,0.37628172710563174,0.09917355371900827
 26,drama,Katt,M,,,,"
             
 KATT :
@@ -201,7 +201,7 @@ KATT :
 Aei ze gib doch Achting, alter Schöijde. Wann dü emol im Drabb bisch, ze datsch de Hüss un Hoft zammeranne. As isch nur güed, as de so wenni in de Drabb kommsch.
 
           
-",fuchs-heimlichi-lieb,42,6,0.5161371902911405,0.14285714285714285
+",6,fuchs-heimlichi-lieb,42,6,0.5161371902911405,0.14285714285714285
 28,drama,Katt,M,,,,"
             
 KATT:
@@ -212,7 +212,7 @@ Aei jo, e Wünder isch’s, e varitawels Wünder.
  Do Basche, komm un rüehr e bissel. Awer immer noch de namlichte Sitt, schunsch gerinnt ’s Bluet un nod isch Schatte mit de Kuddelsupp.
 
           
-",fuchs-heimlichi-lieb,49,6,0.6146826241540295,0.12244897959183673
+",7,fuchs-heimlichi-lieb,49,6,0.6146826241540295,0.12244897959183673
 29,drama,Basche,M,,,,"
             
 BASCHE:
@@ -221,7 +221,7 @@ BASCHE:
 Ass geht nit, i müess im Metzjeri ’s Masser bringe, ech habs grad aagezöje.
 
           
-",fuchs-heimlichi-lieb,15,2,0.5996825730244102,0.13333333333333333
+",7,fuchs-heimlichi-lieb,15,2,0.5996825730244102,0.13333333333333333
 30,drama,Katt,M,,,,"
             
 KATT:
@@ -230,7 +230,7 @@ KATT:
 Wann ar uff dich halt warde miehn. Ar dhuet jo schun aaschwarte.
 
           
-",fuchs-heimlichi-lieb,13,3,0.509634924303096,0.23076923076923078
+",7,fuchs-heimlichi-lieb,13,3,0.509634924303096,0.23076923076923078
 31,drama,Basche,M,,,,"
             
 BASCHE:
@@ -243,7 +243,7 @@ Mientswaje, ze rühre mr halt.
  Nän, Basche, hatte mir diss gedankt, ass ünsere Harr noch e Mole e Fräuj ins Hüss bringe dhuet. Un äui noch so e jungi.
 
           
-",fuchs-heimlichi-lieb,93,6,0.5096273682434407,0.06451612903225806
+",7,fuchs-heimlichi-lieb,93,6,0.5096273682434407,0.06451612903225806
 32,drama,Basche,M,,,,"
             
 BASCHE:
@@ -252,7 +252,7 @@ BASCHE:
 Wäisch Kalt, e jungi Fräui im Bett isch äui kenn schlachti Sach. Un wann de Hünd alt isch, nod lejt er erscht racht gare in de Sunn. 9
 
           
-",fuchs-heimlichi-lieb,29,5,0.5327775140687939,0.1724137931034483
+",8,fuchs-heimlichi-lieb,29,5,0.5327775140687939,0.1724137931034483
 33,drama,Katt,M,,,,"
             
 KATT:
@@ -261,7 +261,7 @@ KATT:
 Dü hesch halt immer Holz for e Pfiffel. Awer jetz hesch de latze Finger vebunge. Säit als nit de alt Wach- ter: « Aein jünges Wäib ischt altem Mann äin Poscht- pferd züm Grabe ».
 
           
-",fuchs-heimlichi-lieb,38,6,0.4500174733934396,0.15789473684210525
+",8,fuchs-heimlichi-lieb,38,6,0.4500174733934396,0.15789473684210525
 34,drama,Basche,M,,,,"
             
 BASCHE:
@@ -271,7 +271,7 @@ Fitzekapores — Katt, — vierspannig, — vierspan- nig, wott ich do ins Grab.
 (Haut ere e saftigi uff de Buckel.)
 
           
-",fuchs-heimlichi-lieb,24,4,0.5841028343490317,0.16666666666666666
+",8,fuchs-heimlichi-lieb,24,4,0.5841028343490317,0.16666666666666666
 35,drama,Katt,M,,,,"
             
 KATT:
@@ -280,7 +280,7 @@ KATT:
 Ja, ja, do bisch dü druff versasse wie e Katz uff e Söjmäuje.
 
           
-",fuchs-heimlichi-lieb,14,3,0.7259883194132367,0.21428571428571427
+",8,fuchs-heimlichi-lieb,14,3,0.7259883194132367,0.21428571428571427
 36,drama,Basche,M,,,,"
             
 BASCHE :
@@ -293,7 +293,7 @@ Jetz köennt’sch ’s Gewüerz dran mache, Katt.
 (Sie dhuet’s.)
 
           
-",fuchs-heimlichi-lieb,21,1,0.0772299980578878,0.047619047619047616
+",9,fuchs-heimlichi-lieb,21,1,0.0772299980578878,0.047619047619047616
 37,drama,Basche,M,,,,"
             
 BASCHE :
@@ -305,7 +305,7 @@ BASCHE :
 Was mänsch, noch e wenjele Majoran war nit von Schade.
 
           
-",fuchs-heimlichi-lieb,16,2,0.42509349161549387,0.125
+",9,fuchs-heimlichi-lieb,16,2,0.42509349161549387,0.125
 38,drama,Katt,M,,,,"
             
 KATT:
@@ -320,7 +320,7 @@ Oh Basche, wann mr sich an dir hebbt, nod kejt mr äui de lange Waj uff de Bodde
 .
 
           
-",fuchs-heimlichi-lieb,124,9,0.5287751298241401,0.07258064516129033
+",9,fuchs-heimlichi-lieb,124,9,0.5287751298241401,0.07258064516129033
 40,drama,Basche,M,,,,"
             
 BASCHE:
@@ -329,7 +329,7 @@ BASCHE:
 Wäisch noch, Katt, wü se do isch gewahn, d' Hoch- zitlere vom Bür, as Gredel! Fitzekapores, Katt, isch diss e natt Mäide. Hett die e par Aeue im Kopf. Wann die äne so richti anlüejt mit ihre Sundiäue, Katt, ich gläuib, do hatt sich unser Harr Chrischtüs salwer verhobasst. De Bür isch bie ere gsasse un hett jeds Wort zeh Mol vebisse. Un zitter hare isch ar wie üss em Sankel un hett als gedrangelt uff d' Hochzitt. Un nix isch em für- nahm un grossardi genüe.
 
           
-",fuchs-heimlichi-lieb,90,10,0.7280599628468432,0.1111111111111111
+",10,fuchs-heimlichi-lieb,90,10,0.7280599628468432,0.1111111111111111
 41,drama,Katt,M,,,,"
             
 KATT:
@@ -338,7 +338,7 @@ KATT:
 Ar hett gsäit: Wann ’s Gredel äui mini zwäit Fräui isch, ze soll’s in nix zeruckstehn. D’ ganz Friendschaft, d' gross un d' klän, isch inggelode worre. 10
 
           
-",fuchs-heimlichi-lieb,30,3,0.7781875467351135,0.1
+",10,fuchs-heimlichi-lieb,30,3,0.7781875467351135,0.1
 42,drama,Basche,M,,,,"
             
 BASCHE:
@@ -347,7 +347,7 @@ BASCHE:
 Was hett’s nurr alles koscht fors Ase: 2 Kalwle 4 Söj 25 Hüehner 8 Gans 43 Pfünd Juddespitzel, Hoch- und Uewerzwarichripp for d' Supp 7 Pfünd Marik ellän for d' Knöepfle 65 Köjelhupfe an de hündert Brieli. Von dene viele Schambunge, dem Spack, dene Aeier, dene viele Sack Mahl und dem andere Dings will i gar nix säuje.
 
           
-",fuchs-heimlichi-lieb,61,4,0.5180835044927798,0.06557377049180328
+",10,fuchs-heimlichi-lieb,61,4,0.5180835044927798,0.06557377049180328
 43,drama,Katt,M,,,,"
             
 KATT:
@@ -356,7 +356,7 @@ KATT:
 Bedank Basche, ’s sin biem Ase morn 24 Litt in de Stubb un an de 50 drüsse in de Schier.
 
           
-",fuchs-heimlichi-lieb,21,1,0.6730615726591967,0.047619047619047616
+",10,fuchs-heimlichi-lieb,21,1,0.6730615726591967,0.047619047619047616
 44,drama,Basche,M,,,,"
             
 BASCHE:
@@ -365,7 +365,7 @@ BASCHE:
 Ech, wann ech de Mäischter ward, ech hatt halt d' Hochzitt bie « ihm » gemocht. Schun ellän wäje de Ingköeschte.
 
           
-",fuchs-heimlichi-lieb,22,4,0.5795284781929941,0.18181818181818182
+",11,fuchs-heimlichi-lieb,22,4,0.5795284781929941,0.18181818181818182
 45,drama,Katt,M,,,,"
             
 KATT:
@@ -374,7 +374,7 @@ KATT:
 Wäisch nit, ass ’s Stowolders noch von jehare hie Hochzitt ghalte haön un ass zitter Manschedanke in kenere andere Kirich e Hochzitt vom e Stowolder isch ghalte worre ass in dare hie? Do wurd’s de Bür doch jetz nit andersch mache! As wurd schun bal los gehn, dann e Dhäl von de Inggelodene, die wo von witt hare sin, die komme schun hitt owe un bliewe do üewer Nacht. Die andere komme morn un nod wurd drej Daj lang nix gemocht ass gasse un gedrunke.
 
           
-",fuchs-heimlichi-lieb,87,10,0.5680773187410778,0.11494252873563218
+",11,fuchs-heimlichi-lieb,87,10,0.5680773187410778,0.11494252873563218
 46,drama,Basche,M,,,,"
             
 BASCHE:
@@ -383,7 +383,7 @@ BASCHE:
 Ja, ja, do köenne sich die Büre wider Hangbichle oonfrasse.
 
           
-",fuchs-heimlichi-lieb,11,2,0.731982479119855,0.18181818181818182
+",11,fuchs-heimlichi-lieb,11,2,0.731982479119855,0.18181818181818182
 47,drama,Katt,M,,,,"
             
 KATT:
@@ -392,7 +392,7 @@ KATT:
 Ich, for min Dhäl, bin doch froh, ass widerum e Biere ins Hüss kommt. Ass isch äui höechsti Zitt. Ueweral müess mr hinge dran stehn un triewe, schunsch wachst öjch jo de Grüenspun under de Füess.
 
           
-",fuchs-heimlichi-lieb,37,5,0.6523961405802602,0.13513513513513514
+",11,fuchs-heimlichi-lieb,37,5,0.6523961405802602,0.13513513513513514
 48,drama,Basche,M,,,,"
             
 BASCHE:
@@ -401,7 +401,7 @@ BASCHE:
 Jo, daöbs Kalwel, schick di, mir mach’sch kenn Müsbolle for Makimmi vor. Hab ich nit noch immer g’schafft, was dr Zej gholte hett, un gasse, was gekocht isch gewahn. Nän, nän, Katt, dü brüch’sch noch eber, wo dr züehöere dhuet, wann d' ’s Mül frisch gschliffe hesch. Wäisch, wie dr alt Wachter ass saöt: Dräi sind nicht müd zü machen: Aein Büb im Spielen, 11 äin Pfarrer im Opfern und äin Wäibsbild im Ratschen.
 
           
-",fuchs-heimlichi-lieb,75,9,0.5491170920560582,0.12
+",12,fuchs-heimlichi-lieb,75,9,0.5491170920560582,0.12
 49,drama,Katt,M,,,,"
             
 KATT:
@@ -410,7 +410,7 @@ KATT:
 Zitter ass d' erscht Fräuj vom Bür doot isch — ass sin jetz im Kanzli zwanzig Johr gewahn — e langi Zitt, — zitter bin ich do hine d’änzich Fräuj, wo noch em Rachte lueje dhuet. Un bin allewiel d' hinger hare gewahn wie ebs böeses. Awer jetz hawi äui emole genüe. Jetz soll e anderi an mine Platz.
 
           
-",fuchs-heimlichi-lieb,61,7,0.5550795676007322,0.11475409836065574
+",12,fuchs-heimlichi-lieb,61,7,0.5550795676007322,0.11475409836065574
 50,drama,Basche,M,,,,"
             
 BASCHE:
@@ -419,7 +419,7 @@ BASCHE:
 Ar isch halt schlacht gfalle gewahn mit sinere erschte Fräui, de Bür.
 
           
-",fuchs-heimlichi-lieb,13,3,0.2954352101952009,0.23076923076923078
+",12,fuchs-heimlichi-lieb,13,3,0.2954352101952009,0.23076923076923078
 51,drama,Katt,M,,,,"
             
 KATT:
@@ -428,7 +428,7 @@ KATT:
 Schun krank, hett ar sie ghierot un in de Kindbett isch se gstorwe. E Fini isch’s gewahn, e Siedebried. Wenni geredd un numme gsasse un gedrämd. Un doch isch de Bür so arig anere ghankt. An ihre un am Büe, am Jean.
 
           
-",fuchs-heimlichi-lieb,44,2,0.15228077527819664,0.045454545454545456
+",12,fuchs-heimlichi-lieb,44,2,0.15228077527819664,0.045454545454545456
 52,drama,Basche,M,,,,"
             
 BASCHE:
@@ -437,7 +437,7 @@ BASCHE:
 Meh ass am Hoft un am Bürewase. Isch dann diss äui e Art? E so e grosses, stolzes Wase; än Bue, un schickt ne ning in d' Stodt, stüdiere. Ech, wann ech de Mäischter ward — — —
 
           
-",fuchs-heimlichi-lieb,39,2,0.5461502450961497,0.05128205128205128
+",13,fuchs-heimlichi-lieb,39,2,0.5461502450961497,0.05128205128205128
 53,drama,Katt,M,,,,"
             
 KATT:
@@ -446,7 +446,7 @@ KATT:
 Loss ne doch, Basche, ’s isch ganz eracht eso. Dr Jean hatt doch kenn güede Bür gann. Dar isch üss em e framde Holz. Ar isch so e Bedankter un e Düser un basst nit züe uns. Schun von klän uff isch ar e abartigs Kind gewahn. « Jean » hett mr em rüefe miehn, nit Schang oder Hans. Ar isch äui immer furt gewahn in de Framde, küm e paar Daj im Johr isch ar häme kom- me üss de Schuel.
 
           
-",fuchs-heimlichi-lieb,84,8,0.6553485395148588,0.09523809523809523
+",13,fuchs-heimlichi-lieb,84,8,0.6553485395148588,0.09523809523809523
 54,drama,Basche,M,,,,"
             
 BASCHE:
@@ -456,7 +456,7 @@ Katt, Katt, dar wurd ze gschied in dene viele Schuele. Dann die sin numme dezue 
 (Do höert mr drüsse e lütter Pfiff un de Schellekranz vom e Gfährt, wo ankommt.)
 
           
-",fuchs-heimlichi-lieb,84,8,0.4653701420330522,0.09523809523809523
+",13,fuchs-heimlichi-lieb,84,8,0.4653701420330522,0.09523809523809523
 55,drama,Katt,M,,,,"
             
 KATT:
@@ -468,7 +468,7 @@ Diss isch de Scharrebang mit em Hans. Jetz komme die schun un mir sin noch bis �
             
 
           
-",fuchs-heimlichi-lieb,33,4,0.4828761942795233,0.12121212121212122
+",13,fuchs-heimlichi-lieb,33,4,0.4828761942795233,0.12121212121212122
 56,drama,Basche,M,,,,"
             
 BASCHE :
@@ -481,7 +481,7 @@ Ho, ho, daöbs Kalwel, wursch warde köenne, ’s gitt halt nix daöwers wie e a
 (Zottelt langsam de Katt noch.)
 
           
-",fuchs-heimlichi-lieb,41,4,0.45342063728365933,0.0975609756097561
+",14,fuchs-heimlichi-lieb,41,4,0.45342063728365933,0.0975609756097561
 57,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -490,7 +490,7 @@ JEAN:
 Mr gehn grad durich d' Kiche, Fritzel, mr sin jo nit so difficil.
 
           
-",fuchs-heimlichi-lieb,14,1,0.6993651460488204,0.07142857142857142
+",14,fuchs-heimlichi-lieb,14,1,0.6993651460488204,0.07142857142857142
 58,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -499,7 +499,7 @@ FRITZEL:
 Huh, schmeckts do gued.
 
           
-",fuchs-heimlichi-lieb,5,1,0.872429815220587,0.2
+",14,fuchs-heimlichi-lieb,5,1,0.872429815220587,0.2
 59,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -511,7 +511,7 @@ JEAN :
 Salut Basche, wie geht’s? Wo isch de Vadder?
 
           
-",fuchs-heimlichi-lieb,19,1,0.8024733948546023,0.05263157894736842
+",14,fuchs-heimlichi-lieb,19,1,0.8024733948546023,0.05263157894736842
 61,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -523,7 +523,7 @@ Ich will grad helfe, mini Sache nuff traue, ich komm noch glich erab. Komm, Frit
 (Do höert mr drüsse e Katzemüsik. E Gej, wo lätz spielt, e Klarinett, wo in de Da nin düdelt un e Trom- bone, wo ganz lätz blost. D’ Instrümenter hüpse durich- enander wie Knäckes, wo Bockspringerles mache un ganz owe druff sitzt d' Klarinett un blost, als ob sie verspringe wodd.)
 
           
-",fuchs-heimlichi-lieb,76,9,0.5382123360819605,0.11842105263157894
+",15,fuchs-heimlichi-lieb,76,9,0.5382123360819605,0.11842105263157894
 62,drama,Basche,M,,,,"
             
 BASCHE:
@@ -542,7 +542,7 @@ Höer do, do komme jo schun d' Müsikante an. Die schmecke äui de Broote.
 (klein un mauer, wissi Hoor. Er heit d' Bass- gej uff em Buckel gebunde, e Kapp mit eme grosse Dächel uff, e alter, blöjer Soldatemantel an un e roter Barablie in de Hand.)
 
           
-",fuchs-heimlichi-lieb,185,30,0.5287786721474224,0.16216216216216217
+",15,fuchs-heimlichi-lieb,185,30,0.5287786721474224,0.16216216216216217
 63,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -551,7 +551,7 @@ BANGELESCHLACKER:
 Nurr do erin, ich wäiss, wo d' guede Gschmackle hare komme.
 
           
-",fuchs-heimlichi-lieb,12,2,0.6900967187331049,0.16666666666666666
+",15,fuchs-heimlichi-lieb,12,2,0.6900967187331049,0.16666666666666666
 65,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 DE FISSELBOEJE:
@@ -560,7 +560,7 @@ DE FISSELBOEJE:
 Do kann mr de Bangeleschlacker brü- che, dar het dis sim Griff wie de Battelmann d' Lüs un wann erigs uff siwe Mäile im Umkreis e Fass dröepfelt, ar findt’s mit sim Schmecker erüss.
 
           
-",fuchs-heimlichi-lieb,38,5,0.4103943713671649,0.13157894736842105
+",16,fuchs-heimlichi-lieb,38,5,0.4103943713671649,0.13157894736842105
 66,drama,Katt,M,,,,"
             
 KATT :
@@ -572,7 +572,7 @@ KATT :
 Ihr dhuen awer latz bloose, isch diss alles, was ihr kenne?
 
           
-",fuchs-heimlichi-lieb,17,2,0.26002068698387765,0.11764705882352941
+",16,fuchs-heimlichi-lieb,17,2,0.26002068698387765,0.11764705882352941
 67,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 DE FISSELBOEJE :
@@ -584,7 +584,7 @@ DE FISSELBOEJE :
 Katt, diss isch doch e alti Müsik, e nüechterner Drumbeter kann nit richti bloose.
 
           
-",fuchs-heimlichi-lieb,22,3,0.6504215247070452,0.13636363636363635
+",16,fuchs-heimlichi-lieb,22,3,0.6504215247070452,0.13636363636363635
 69,drama,Katt,M,,,,"
             
 KATT:
@@ -594,7 +594,7 @@ Ha joh, wo e Baöm isch, falle äui Aepfel.
 (Sie geht mit eme Kruejel rechts ab. ’s Maidel wo plotzt, geht mit ere.)
 
           
-",fuchs-heimlichi-lieb,26,3,0.4836207507789487,0.11538461538461539
+",17,fuchs-heimlichi-lieb,26,3,0.4836207507789487,0.11538461538461539
 70,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN :
@@ -606,7 +606,7 @@ DRUMBOHN :
 Nurr nit ’s Mül uffgemacht üewer de Drumbeeter. Dü machsch jo schun zitter 4 Wuche e grosser Böje um de Brunne.
 
           
-",fuchs-heimlichi-lieb,26,3,0.6015015960246557,0.11538461538461539
+",17,fuchs-heimlichi-lieb,26,3,0.6015015960246557,0.11538461538461539
 71,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -616,7 +616,7 @@ Un dir riecht mr de Schnaps uff e Stund Wäjs witt an.
 (Er hett de Cylindre uff de Tisch gebol- derd un will uff ’s Drumbohn los.)
 
           
-",fuchs-heimlichi-lieb,31,4,0.7535770392243252,0.12903225806451613
+",17,fuchs-heimlichi-lieb,31,4,0.7535770392243252,0.12903225806451613
 73,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -625,7 +625,7 @@ DRUMBOHN:
 Basche, Ihr sin e Wohltäter von de Kunscht. Wann Ihr starwe, krieje Ihr von mir ins Grab gebloose.
 
           
-",fuchs-heimlichi-lieb,19,4,0.6524078832407014,0.21052631578947367
+",18,fuchs-heimlichi-lieb,19,4,0.6524078832407014,0.21052631578947367
 74,drama,Basche,M,,,,"
             
 BASCHE:
@@ -637,7 +637,7 @@ BASCHE:
 Ich gläub, Ihr komme mit de Blabberroos.
 
           
-",fuchs-heimlichi-lieb,22,4,0.5524148017228159,0.18181818181818182
+",18,fuchs-heimlichi-lieb,22,4,0.5524148017228159,0.18181818181818182
 75,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BASSGEJ:
@@ -647,7 +647,7 @@ Mine Vadder hett ass gsäit: Wann’s schöen Wat- ter isch, nammt mr de Barebli
 (hett sich glich züem Maidel an de Herd gemacht. Er lüepft d' Deckel un gückt in d' Häfe. ’s Maidel schlat em mit em Kochleffel uff d' Händ un kittert: Hi — Hihihi —)
 
           
-",fuchs-heimlichi-lieb,68,9,0.6289623557853079,0.1323529411764706
+",18,fuchs-heimlichi-lieb,68,9,0.6289623557853079,0.1323529411764706
 77,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -659,7 +659,7 @@ Diss ward ’s erschte Mol in mim Lawe.
 (Er geht zeruck an de Herd, ’s Maidel kittert. Nodhäre geht er mit em Maidel links ab.)
 
           
-",fuchs-heimlichi-lieb,59,8,0.5922093213119182,0.13559322033898305
+",19,fuchs-heimlichi-lieb,59,8,0.5922093213119182,0.13559322033898305
 78,drama,Basche,M,,,,"
             
 BASCHE :
@@ -675,7 +675,7 @@ Allez, Gsündhäit, drinke, ass isch nit umesunscht Hochzitt morn. BASSGEJ
 : Diss isch jetz awer schnall gange, die Hieroterej von ejrem Bür.
 
           
-",fuchs-heimlichi-lieb,57,7,0.7100083051334252,0.12280701754385964
+",19,fuchs-heimlichi-lieb,57,7,0.7100083051334252,0.12280701754385964
 79,drama,Basche,M,,,,"
             
 BASCHE:
@@ -684,7 +684,7 @@ BASCHE:
 Eb diss schnall gange isch. Vor zwäj Monet isch ’s Gredel bie üns im Hopfezopfe gewahn. Niemes hett ebs gsahne, uff änsmols packt ’s Gredel sini Saches un fahrt uff un devon. Am Sundi druff häisst mich de Mäischter anspanne. Mir sin uff Graswiller, wo ’s Gredel d’häme isch un do hett de Bür um ’s Gredel gfröjt.
 
           
-",fuchs-heimlichi-lieb,60,4,0.713363240427379,0.06666666666666667
+",19,fuchs-heimlichi-lieb,60,4,0.713363240427379,0.06666666666666667
 80,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -693,7 +693,7 @@ FISSELBOEJE:
 Awer sie isch doch viel jüenger ass öjere Bür. Un so e natts Mäide. Ich kann’s. E Gsichtel wie e Schleh.
 
           
-",fuchs-heimlichi-lieb,23,2,0.6956052873076903,0.08695652173913043
+",20,fuchs-heimlichi-lieb,23,2,0.6956052873076903,0.08695652173913043
 82,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -702,7 +702,7 @@ FISSELBOEJE:
 Aei jo, anlüeje, awer nit nin bisse. Ja, hett sie sich nit lang bedankt?
 
           
-",fuchs-heimlichi-lieb,15,3,0.5082561126037131,0.2
+",20,fuchs-heimlichi-lieb,15,3,0.5082561126037131,0.2
 83,drama,Basche,M,,,,"
             
 BASCHE :
@@ -715,7 +715,7 @@ Ihr wisse jo, wie ’s uff em Land isch. Was hett do e Mäide viel ze säuje?
  Bsundersch wann d' Eldere do stehn, wie im Gredel sini.
 
           
-",fuchs-heimlichi-lieb,33,6,0.5841274149687861,0.18181818181818182
+",20,fuchs-heimlichi-lieb,33,6,0.5841274149687861,0.18181818181818182
 84,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -724,7 +724,7 @@ DRUMBOHN:
 Aei — — ja — — wie stehn se dann?
 
           
-",fuchs-heimlichi-lieb,11,1,0.731982479119855,0.09090909090909091
+",21,fuchs-heimlichi-lieb,11,1,0.731982479119855,0.09090909090909091
 85,drama,Basche,M,,,,"
             
 BASCHE:
@@ -733,7 +733,7 @@ BASCHE:
 Nit güet. De Vadder vom Gredel isch vor meh ass zeh Johre vom e Häiwäuje gfalle un isch an alle Glid- dere lahm gebliewe. Zitter sitzt ar im Stüehlele un kann kenn Schritt meh gehn.
 
           
-",fuchs-heimlichi-lieb,37,4,0.5743954567030796,0.10810810810810811
+",21,fuchs-heimlichi-lieb,37,4,0.5743954567030796,0.10810810810810811
 86,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -742,7 +742,7 @@ FISSELBOEJE:
 E Bür — un lahm — ja, diss isch jo e Unglüeck.
 
           
-",fuchs-heimlichi-lieb,13,3,0.36585558887502895,0.23076923076923078
+",21,fuchs-heimlichi-lieb,13,3,0.36585558887502895,0.23076923076923078
 87,drama,Basche,M,,,,"
             
 BASCHE:
@@ -751,7 +751,7 @@ BASCHE:
 Nadierli, ’s Wase isch zeruckgange un sie solle arig in de Schulde stacke, vor allem wie kenn Büe do isch, dann ’s Gredel isch jo ’s änzich King.
 
           
-",fuchs-heimlichi-lieb,29,1,0.1708920516955169,0.034482758620689655
+",21,fuchs-heimlichi-lieb,29,1,0.1708920516955169,0.034482758620689655
 88,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -762,7 +762,7 @@ So isch die Sach, na, jetz versteh i’s. De Eldere zu Lieb hett ’s Gredel «J
  ssst — ve- schwunde sin.
 
           
-",fuchs-heimlichi-lieb,55,6,0.5051744017063134,0.10909090909090909
+",22,fuchs-heimlichi-lieb,55,6,0.5051744017063134,0.10909090909090909
 89,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -771,7 +771,7 @@ DRUMBOHN:
 Was macht dis im riche Stowolder üss, üss’m Schilehsackel dhuet ar diss bezohle.
 
           
-",fuchs-heimlichi-lieb,15,1,0.68379825951501,0.06666666666666667
+",22,fuchs-heimlichi-lieb,15,1,0.68379825951501,0.06666666666666667
 92,drama,Basche,M,,,,"
             
 BASCHE:
@@ -780,7 +780,7 @@ BASCHE:
 De Mäischter isch d' letscht Wuch dine in de Stodt gewahn biem Junge — un hett mit m geredd. In ere halwe Stung fahrt jetz de Schang uff Graswiller, d' Hochzittere abhole.
 
           
-",fuchs-heimlichi-lieb,33,3,0.731866024390993,0.09090909090909091
+",23,fuchs-heimlichi-lieb,33,3,0.731866024390993,0.09090909090909091
 93,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -789,7 +789,7 @@ FISSELBOEJE:
 Ja, ich versteh — ass gitt halt doch viel beesi Mieler im e Dorf un wann e Gröjkopf so e jungs Mäide aahole kommt, do kann er ebs ze höere krieje.
 
           
-",fuchs-heimlichi-lieb,32,5,0.5448219356675292,0.15625
+",23,fuchs-heimlichi-lieb,32,5,0.5448219356675292,0.15625
 94,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -798,7 +798,7 @@ DRUMBOHN:
 Wan ar se hitt noch hole will, do hett er Zitt. Ich kann de Waj, ’s sin anderthalb Stung ane un fascht zwäj zeruck.
 
           
-",fuchs-heimlichi-lieb,25,1,0.5505765840004807,0.04
+",23,fuchs-heimlichi-lieb,25,1,0.5505765840004807,0.04
 95,drama,Basche,M,,,,"
             
 BASCHE:
@@ -809,7 +809,7 @@ Ar hett sie zerscht morn friehj hole söelle, awer de Harr Notari will schun am 
             
 
           
-",fuchs-heimlichi-lieb,25,6,0.6032601163084276,0.24
+",23,fuchs-heimlichi-lieb,25,6,0.6032601163084276,0.24
 96,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -818,7 +818,7 @@ FISSELBOEJE:
 Katt, Ihr sin e Engel. Ejer Läwe han er kenn gschiederi Idee ghett. Zaj, dü Drumbohn, do lüej emol dene Schambung, un do die Bürestinkkas, do kann jo e alter Esel jung wäre.
 
           
-",fuchs-heimlichi-lieb,34,4,0.7330289722392394,0.11764705882352941
+",24,fuchs-heimlichi-lieb,34,4,0.7330289722392394,0.11764705882352941
 97,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -827,7 +827,7 @@ DRUMBOHN:
 Do kann mr sich e Wangschtel oonfrasse, so satt un rund, ass mer e Wangelstänel druff verschmattere kennt.
 
           
-",fuchs-heimlichi-lieb,19,1,0.6566453679504511,0.05263157894736842
+",24,fuchs-heimlichi-lieb,19,1,0.6566453679504511,0.05263157894736842
 98,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -839,7 +839,7 @@ Mach’s Mül nit zue witt uff, schunsch schlucks’sch dich sälwer nunder.
 (Biem Wort «ebs ze esse» fahrt zeller in d' Höeche un kommt häre.)
 
           
-",fuchs-heimlichi-lieb,59,7,0.5386746206913455,0.11864406779661017
+",24,fuchs-heimlichi-lieb,59,7,0.5386746206913455,0.11864406779661017
 99,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BASSGEJ:
@@ -849,7 +849,7 @@ Diss isch ebs andersch ass so e matter was- seriger Kaffeeschlüri wie bie mir d
 (Noch un noch isch ’s Gsind dezuekomme. Alles setzt sich um de Disch.)
 
           
-",fuchs-heimlichi-lieb,32,1,0.3403067737358356,0.03125
+",24,fuchs-heimlichi-lieb,32,1,0.3403067737358356,0.03125
 101,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -859,7 +859,7 @@ Un de Bangeleschlacker?
 (In dem Moment komt de Bangeleschlacker mit em Maidel vom Herd zeruck, alli zwei draue Holz for in de Herd.)
 
           
-",fuchs-heimlichi-lieb,26,1,0.6041521774765466,0.038461538461538464
+",25,fuchs-heimlichi-lieb,26,1,0.6041521774765466,0.038461538461538464
 103,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -869,7 +869,7 @@ Zaj, do komme häre, uns isch zue Müet wie de Hüehner im e Waizefeld.
 (Sie esse un drinke.)
 
           
-",fuchs-heimlichi-lieb,21,2,0.6521553162574314,0.09523809523809523
+",25,fuchs-heimlichi-lieb,21,2,0.6521553162574314,0.09523809523809523
 104,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -879,7 +879,7 @@ Un wann mr ferdi sind, nod spiele mir diss Stüeckel: « Von dene versoffene Mü
 (Er nemmt sich 3 bis 4 Mol erüss.)
 
           
-",fuchs-heimlichi-lieb,43,3,0.39805916450447215,0.06976744186046512
+",26,fuchs-heimlichi-lieb,43,3,0.39805916450447215,0.06976744186046512
 105,drama,Katt,M,,,,"
             
 KATT:
@@ -890,7 +890,7 @@ Gann Achting, de Schambung isch scharf gsalze, mr stirbt dran, wann mr ze viel d
             
 
           
-",fuchs-heimlichi-lieb,17,3,0.40862707718958297,0.17647058823529413
+",26,fuchs-heimlichi-lieb,17,3,0.40862707718958297,0.17647058823529413
 106,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -900,7 +900,7 @@ So — äi, do will i doch minere Fräuj e Stüeck mitnamme, ich ward dene alte 
 (Nimmt noch e Stüeck, wickelt sich’s ins Nas- duech un steckt’s in.)
 
           
-",fuchs-heimlichi-lieb,40,4,0.5991567268793385,0.1
+",26,fuchs-heimlichi-lieb,40,4,0.5991567268793385,0.1
 107,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -909,7 +909,7 @@ DRUMBOHN:
 Gläuwe ’sem nit. Ar hett jo gar kenn Fräuj. Dü un e Fräuj — Hahaha.
 
           
-",fuchs-heimlichi-lieb,16,1,0.8294008769580371,0.0625
+",26,fuchs-heimlichi-lieb,16,1,0.8294008769580371,0.0625
 108,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -920,7 +920,7 @@ Was wott äui e Fräuj mit mir anfange? Un ich erscht mit ihre? Do ward ich nit 
  Do, lange noch e Kriejel von dem Vitriol.
 
           
-",fuchs-heimlichi-lieb,130,12,0.387212451909567,0.09230769230769231
+",27,fuchs-heimlichi-lieb,130,12,0.387212451909567,0.09230769230769231
 110,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -929,7 +929,7 @@ BANGELESCHLACKER:
 Als eruffgholt, ich bezahl’s. So dhier sin Win un Schnaps noch lang nit, ass mir sie nit köennte schuldi bliewe. — Allez, Gsündhäit. Ze drinke doch.
 
           
-",fuchs-heimlichi-lieb,28,3,0.6200634937552215,0.10714285714285714
+",27,fuchs-heimlichi-lieb,28,3,0.6200634937552215,0.10714285714285714
 111,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -938,7 +938,7 @@ FISSELBOEJE:
 Heh, langsam, schunsch bisch dü nimmi nüechtre wenn mr spiele müehn.
 
           
-",fuchs-heimlichi-lieb,12,1,0.6460709338525759,0.08333333333333333
+",27,fuchs-heimlichi-lieb,12,1,0.6460709338525759,0.08333333333333333
 112,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -947,7 +947,7 @@ BANGELESCHLACKER:
 Was? Ich un nüechtre? E Mensch, wo nüechtre isch, isch e Mensch, wo noch halwer schlooft. Un äni von de finschte Sache im Lawe, diss isch e anstandigi Kischt. — Wann se numme nit so Kopfweh mache dhat.
 
           
-",fuchs-heimlichi-lieb,39,2,0.6978974635736508,0.05128205128205128
+",28,fuchs-heimlichi-lieb,39,2,0.6978974635736508,0.05128205128205128
 113,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN:
@@ -956,7 +956,7 @@ DRUMBOHN:
 Jetz ass emole, kann’sch dann ’s Mül nit halte?
 
           
-",fuchs-heimlichi-lieb,10,2,0.5225532798304203,0.2
+",28,fuchs-heimlichi-lieb,10,2,0.5225532798304203,0.2
 114,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -965,7 +965,7 @@ BANGELESCHLACKER:
 I glaöib, ich kann’s, awer i habs noch nie browiert.
 
           
-",fuchs-heimlichi-lieb,12,1,0.799238608699397,0.08333333333333333
+",28,fuchs-heimlichi-lieb,12,1,0.799238608699397,0.08333333333333333
 115,drama,Basche,M,,,,"
             
 BASCHE:
@@ -974,7 +974,7 @@ BASCHE:
 Ihr babble öjch jo ’s Mül noch franzlich.
 
           
-",fuchs-heimlichi-lieb,9,1,0.734,0.1111111111111111
+",28,fuchs-heimlichi-lieb,9,1,0.734,0.1111111111111111
 116,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -983,7 +983,7 @@ BANGELESCHLACKER:
 ’s Mül franzlich, jetz lohn ihr mich gehn, jetz halt ich mich an d' Wiebslitt.
 
           
-",fuchs-heimlichi-lieb,16,3,0.552559107112646,0.1875
+",29,fuchs-heimlichi-lieb,16,3,0.552559107112646,0.1875
 117,drama,Katt,M,,,,"
             
 KATT:
@@ -992,7 +992,7 @@ KATT:
 Nä, nä, lohn uns numme gehn, alder Schöide.
 
           
-",fuchs-heimlichi-lieb,9,2,0.5665179674493757,0.2222222222222222
+",29,fuchs-heimlichi-lieb,9,2,0.5665179674493757,0.2222222222222222
 118,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -1003,7 +1003,7 @@ Ohoh, Jumpfer Katt, was i säue hab wölle, han er äui e häiss Wangelstänel i
             
 
           
-",fuchs-heimlichi-lieb,26,3,0.5689699559185896,0.11538461538461539
+",29,fuchs-heimlichi-lieb,26,3,0.5689699559185896,0.11538461538461539
 119,drama,'s Drumbohn,M,,,,"
             
 ’S DRUMBOHN:
@@ -1013,7 +1013,7 @@ Katt, lüeje ne doch e mole an, dar isch jo so fatt, ass ar kennt in de Klarinat
 (druckt em d' Hand uff ’s Mül, er bisst nin. Katt krischt uff, un mr weis nitt, isch’s vor Blaisir oder vor Weh.)
 
           
-",fuchs-heimlichi-lieb,63,6,0.5697999296045241,0.09523809523809523
+",29,fuchs-heimlichi-lieb,63,6,0.5697999296045241,0.09523809523809523
 120,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -1024,7 +1024,7 @@ Guet, namm dü se, isch mr äui eracht. Na ze halt ich mich an d’Junge.
 : Mir basse äui gued zamme, gall, un wann dü die Nacht vegass’sch d’Dhuer an dinere Kammer züezeschliesse, ze brüch ich se nit inzedradde.
 
           
-",fuchs-heimlichi-lieb,48,5,0.702505800930456,0.10416666666666667
+",30,fuchs-heimlichi-lieb,48,5,0.702505800930456,0.10416666666666667
 121,drama,'s Lipse Vadder,M,,,,"
             
 MAGD :
@@ -1036,7 +1036,7 @@ MAGD :
 Hi, hi; hi, hi.
 
           
-",fuchs-heimlichi-lieb,8,1,0.8650000000000001,0.125
+",30,fuchs-heimlichi-lieb,8,1,0.8650000000000001,0.125
 122,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -1045,7 +1045,7 @@ BANGELESCHLACKER:
 Ich wurr schun stiechem mache. Wann ’s Katzel an de Raöhm will, ze zieht’s äu nit zerscht Nussschale an d’Füess an, ass es klebbert.
 
           
-",fuchs-heimlichi-lieb,27,1,0.634924777631844,0.037037037037037035
+",30,fuchs-heimlichi-lieb,27,1,0.634924777631844,0.037037037037037035
 123,drama,Basche,M,,,,"
             
 BASCHE:
@@ -1054,7 +1054,7 @@ BASCHE:
 Ho, hoh; ich wurr schun Achting gann, morn friehj. Wann ich so am e Uehre sechse mit dare lange Kett e paar Mole d’Staje nuff un nunder fajohle dhüe for e Wecker, do bass ich schun uff, war üss de Kam- mere schlupft.
 
           
-",fuchs-heimlichi-lieb,46,7,0.5412768408431499,0.15217391304347827
+",30,fuchs-heimlichi-lieb,46,7,0.5412768408431499,0.15217391304347827
 124,drama,Katt,M,,,,"
             
 KATT :
@@ -1066,7 +1066,7 @@ KATT :
 Ihr hann awer jetz schnall d’Idee gschangscheert. Ich hab jetz gemänt, ich köennt äui emol äner bekumme.
 
           
-",fuchs-heimlichi-lieb,23,2,0.6874706325074,0.08695652173913043
+",31,fuchs-heimlichi-lieb,23,2,0.6874706325074,0.08695652173913043
 125,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -1075,7 +1075,7 @@ BANGELESCHLACKER:
 D’Hoffnung nit uffgahn, Katt, als d’Hoffnung nit uffgahn. M’r mache’s wie bie de Düerike.
 
           
-",fuchs-heimlichi-lieb,18,4,0.5634885810019,0.2222222222222222
+",31,fuchs-heimlichi-lieb,18,4,0.5634885810019,0.2222222222222222
 126,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BASSGEJ:
@@ -1084,7 +1084,7 @@ BASSGEJ:
 Ohoh, mr säit, ass derte e jeder Mansch e par Miedere hett.
 
           
-",fuchs-heimlichi-lieb,13,2,0.6949049363897342,0.15384615384615385
+",31,fuchs-heimlichi-lieb,13,2,0.6949049363897342,0.15384615384615385
 127,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -1093,7 +1093,7 @@ FISSELBOEJE:
 Katt, wenn ihr einer wodde dhäte, glaub ich, brichte n’ihr nit witt ze laufe.
 
           
-",fuchs-heimlichi-lieb,16,1,0.8294008769580371,0.0625
+",31,fuchs-heimlichi-lieb,16,1,0.8294008769580371,0.0625
 129,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -1102,7 +1102,7 @@ FISSELBOEJE:
 Uff jede Fall halte-n-ejch an d’Alte, die junge Schnüfer sin wie d’Flichholder; husch, sin se uff ere andere Bluem.
 
           
-",fuchs-heimlichi-lieb,24,7,0.5957303707135774,0.2916666666666667
+",32,fuchs-heimlichi-lieb,24,7,0.5957303707135774,0.2916666666666667
 130,drama,'s Drumbohn,M,,,,"
             
 DRUMBOHN :
@@ -1116,7 +1116,7 @@ Ja, wann m’r jung isch, do müess alles gschwind gehn, do geht’s uff de Schn
             
 
           
-",fuchs-heimlichi-lieb,37,6,0.6459549526766408,0.16216216216216217
+",32,fuchs-heimlichi-lieb,37,6,0.6459549526766408,0.16216216216216217
 131,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER :
@@ -1128,7 +1128,7 @@ BANGELESCHLACKER :
 Was isch Katt, han ihr äui schun ’s Mass von de Brotwüerscht genumme?
 
           
-",fuchs-heimlichi-lieb,25,3,0.6540160786908125,0.12
+",32,fuchs-heimlichi-lieb,25,3,0.6540160786908125,0.12
 133,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER:
@@ -1139,7 +1139,7 @@ Ei, ihr müehn doch wisse, wie gross d'Portione ware solle. — Drumbohn, komm e
  So, sahn’r, Katt, diss isch ’s Mass for än Persohn.
 
           
-",fuchs-heimlichi-lieb,51,5,0.5454524856288696,0.09803921568627451
+",33,fuchs-heimlichi-lieb,51,5,0.5454524856288696,0.09803921568627451
 134,drama,Katt,M,,,,"
             
 KATT :
@@ -1157,7 +1157,7 @@ Wöelle-n-ihr mini Brootwüerscht leje lohn.
  — Melodie: Zu Lau- terbach —: In ünserem Wirtshüss fällt 's Daönze nit schwar, Wamer wäiss, wie mr sich schwankt, Wann nüer in de Mittle de Pfoschte nit war, Wo mr als gor nit dran dankt. Ass Schulze Madlehnel, diss hesch jo gekannt, Isch mit de Nos glich an de Pfoschte gerannt.
 
           
-",fuchs-heimlichi-lieb,136,11,0.544610498959747,0.08088235294117647
+",33,fuchs-heimlichi-lieb,136,11,0.544610498959747,0.08088235294117647
 135,drama,Katt,M,,,,"
             
 KATT :
@@ -1185,7 +1185,7 @@ De Mäischter, kommt üewer de Hoft!
             
 
           
-",fuchs-heimlichi-lieb,83,7,0.740892023917614,0.08433734939759036
+",33,fuchs-heimlichi-lieb,83,7,0.740892023917614,0.08433734939759036
 137,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -1194,7 +1194,7 @@ FISSELBOEJE:
 Ja, merci, mir han ze-n-esse un ze drinke.
 
           
-",fuchs-heimlichi-lieb,11,1,0.731982479119855,0.09090909090909091
+",34,fuchs-heimlichi-lieb,11,1,0.731982479119855,0.09090909090909091
 139,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -1203,7 +1203,7 @@ FISSELBOEJE:
 Mir hat grad d’Instrümenter gstimmt, un wie Sie sehn — sin mir alli allegro.
 
           
-",fuchs-heimlichi-lieb,16,2,0.6980105567692341,0.125
+",34,fuchs-heimlichi-lieb,16,2,0.6980105567692341,0.125
 140,drama,'s Stawalders Vadder,M,,,,"
             
 STOWALDERS VADDER:
@@ -1212,7 +1212,7 @@ STOWALDERS VADDER:
 Ihr lüje druff, Katt, ass denk Manner nix fahlt, d’nachschte Daj.
 
           
-",fuchs-heimlichi-lieb,14,3,0.5784156606390736,0.21428571428571427
+",35,fuchs-heimlichi-lieb,14,3,0.5784156606390736,0.21428571428571427
 142,drama,'s Stawalders Vadder,M,,,,"
             
 STOWALDER:
@@ -1222,7 +1222,7 @@ Un noch ebs, Katt; gehsch nodhare nuff zuem Jean, ar soll sich ferdi mache un zu
 (Rechts ab.)
 
           
-",fuchs-heimlichi-lieb,67,4,0.7047686586364529,0.05970149253731343
+",35,fuchs-heimlichi-lieb,67,4,0.7047686586364529,0.05970149253731343
 143,drama,Katt,M,,,,"
             
 KATT :
@@ -1235,7 +1235,7 @@ Ich geh noch schnall e Sprung ins Nochbers.
 (Links ab.)
 
           
-",fuchs-heimlichi-lieb,17,1,0.711452961709516,0.058823529411764705
+",35,fuchs-heimlichi-lieb,17,1,0.711452961709516,0.058823529411764705
 145,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 BANGELESCHLACKER :
@@ -1254,7 +1254,7 @@ Ohoh, dar Daönz isch nonitt üss. Jetz wurd eracht äns gsunge un gedöonzt.
  — RIDEAU. — 
 
           
-",fuchs-heimlichi-lieb,69,6,0.48119903023382626,0.08695652173913043
+",36,fuchs-heimlichi-lieb,69,6,0.48119903023382626,0.08695652173913043
 146,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1263,7 +1263,7 @@ JEAN:
 Wie isch de Owe lies un mild — So rüehwich leje Feld un Garde do. Un d'Stross schlooft au schun. — De Herrgott dert am Kriz sieht mr fascht nimm. — Ich glaub au er hett d’Aue züegemacht un draimt. — — Un d’Oweschätte henke in de Hecke un dunke sie in Düschter un in Dämmerung. Kenn Vöjelton, kenn Schritt wurd lütt. — Schun gschbiert mr d' Nacht.
 
           
-",fuchs-heimlichi-lieb,72,8,0.5759267884674448,0.1111111111111111
+",36,fuchs-heimlichi-lieb,72,8,0.5759267884674448,0.1111111111111111
 147,drama,Fritzel,M,,,,"
             
 FRITZEL :
@@ -1279,7 +1279,7 @@ Schön gsat, dü Schwarmgeischt, — — schöen un drürich.
  Dü wohnsch awer hoch drowe. De ranschte Ab- grund do nab. Diss sin jo gued 10 Meter bis in de Garde.
 
           
-",fuchs-heimlichi-lieb,67,8,0.5858957501681195,0.11940298507462686
+",36,fuchs-heimlichi-lieb,67,8,0.5858957501681195,0.11940298507462686
 148,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -1298,7 +1298,7 @@ Ajetli dhuet mich die ganz Sach mit dere Hieroterej vom Vadder ambetiere. Wenn e
 : Anderi Aue süech ich in dene Aue, —e anders Gsicht in dene Züegg.
 
           
-",fuchs-heimlichi-lieb,119,16,0.6438378248375407,0.13445378151260504
+",37,fuchs-heimlichi-lieb,119,16,0.6438378248375407,0.13445378151260504
 149,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1307,7 +1307,7 @@ FRITZEL:
 Noch immer ’s nämlich. — Denksch denn noch immer an «Sie»? An dini heimlich Lieb? — Vergess sie doch.
 
           
-",fuchs-heimlichi-lieb,22,3,0.5241147834886738,0.13636363636363635
+",37,fuchs-heimlichi-lieb,22,3,0.5241147834886738,0.13636363636363635
 150,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1318,7 +1318,7 @@ Köennt ich sie je vergesse! Was for e Wunder isch doch d' Lieb. — Was for e d
 : Au dü hesch anderi Aue, —- Müeder, — so fremd, so voller Rätsel, voller Wüensch. — Ich glaub, ich hab so Aue, — so voller Wüensch.
 
           
-",fuchs-heimlichi-lieb,193,31,0.5130874552162895,0.16062176165803108
+",37,fuchs-heimlichi-lieb,193,31,0.5130874552162895,0.16062176165803108
 151,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1327,7 +1327,7 @@ FRITZEL:
 Heh, Jean, ze spinn doch nit so viel, mach doch voran, — dü müeh’sch doch noch üewer Land hitt owe. Dü müeh’sch doch noch d’Hochzittere von dim Vadder abhole.
 
           
-",fuchs-heimlichi-lieb,31,4,0.6175872062474469,0.12903225806451613
+",37,fuchs-heimlichi-lieb,31,4,0.6175872062474469,0.12903225806451613
 152,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1336,7 +1336,7 @@ JEAN:
 Verum grad ich? Soll doch e anderer gehn.
 
           
-",fuchs-heimlichi-lieb,9,1,0.6993651460488204,0.1111111111111111
+",38,fuchs-heimlichi-lieb,9,1,0.6993651460488204,0.1111111111111111
 153,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1345,7 +1345,7 @@ FRITZEL:
 Awer du bisch doch do dheim, dü mach’sch jo grad, als ob do fremd wärsch.
 
           
-",fuchs-heimlichi-lieb,16,1,0.6993651460488204,0.0625
+",38,fuchs-heimlichi-lieb,16,1,0.6993651460488204,0.0625
 154,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1358,7 +1358,7 @@ Fritzel, — loss
  jetz diss Uesspacke gehn, mr han jo 8 Däi Urlaub. — Dü bisch min beschter — — un anzicher Friend. — Un hesch mich nie verstande. — Höer mir jetz zue, — — vellicht wurd dr noch manichs klor. Dü hesch rächt gsat ewe, — — ja, ich bin do fremd, —- ich bin nit dheime do. — Wie sott ich au do heere basse? Mini Müeder isch von witt häre gsin — e scheeni fremdi Blüem. Noch ihrem früehje Dood hett mich mine Vadder zue Verwandte in d’Stadt gemacht. Fremdi Händ han mich fremd uffgezöje. — — Oh ich hab nie Hunger ghett un nie kalt. Awer e Kind brücht meh als Esse, Drinke, Kleider un e warmi Stubb. Wenn ich als mit Kamerade zue ihne heime bin, hab ich diefi Quale ge- litte. Sie hett d’Müeder mit Sorri un Zärtlichkeit erwart un im Vadder hett au bie Ernscht un Stroofe d' Lieb durichgschunne. Mit heissem Herz un dräneleere, bren- nende Aue bin ich denäwe gstande, unverstande un ellein, e einsams, fremds Kind. FRITZ: Awer dü bisch doch jeds Johr in de Vekanze do hüsse gsin, biem Vadder dheime.
 
           
-",fuchs-heimlichi-lieb,230,36,0.6073731529146584,0.1565217391304348
+",38,fuchs-heimlichi-lieb,230,36,0.6073731529146584,0.1565217391304348
 155,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1374,7 +1374,7 @@ Dheim! — — dheïm! — — Wie vielmools hab ich schun diss Wöertel ghöert
 : Dü un noch viel anderi, — — ihr köenne’s nit begriffe, ass mr e Maidel gern kann han — — ohne ass mr jemole e Wort mit em geredd hett.
 
           
-",fuchs-heimlichi-lieb,244,24,0.5149285037281001,0.09836065573770492
+",38,fuchs-heimlichi-lieb,244,24,0.5149285037281001,0.09836065573770492
 156,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1388,7 +1388,7 @@ FRITZEL:
  i
 
           
-",fuchs-heimlichi-lieb,568,68,0.5694185586911085,0.11971830985915492
+",39,fuchs-heimlichi-lieb,568,68,0.5694185586911085,0.11971830985915492
 157,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1397,7 +1397,7 @@ FRITZEL:
 Dü bisch e sunderbarer Mensch, Jean, — ver- traimt, empfindlich, —-fascht wie üss ere andere Welt. Wenn ich verliebt bin, muess ich ’s Maïdel gschbiere un wenn ich’s nit im Arm hab, frisch un warm, noch bin ich nit verliebt.
 
           
-",fuchs-heimlichi-lieb,45,8,0.5930063978813206,0.17777777777777778
+",39,fuchs-heimlichi-lieb,45,8,0.5930063978813206,0.17777777777777778
 158,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1406,7 +1406,7 @@ JEAN:
 Do drvor hesch dü au Sand in de Odere am Blatz vom Bluet un e kalts Herz.
 
           
-",fuchs-heimlichi-lieb,18,2,0.4417260850062171,0.1111111111111111
+",39,fuchs-heimlichi-lieb,18,2,0.4417260850062171,0.1111111111111111
 159,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1421,7 +1421,7 @@ Ohoh, ich bin als au verliebt, bsundersch im Früehjohr. — — Awer ’s isch 
 (Es klopft.)
 
           
-",fuchs-heimlichi-lieb,266,43,0.5802765742215303,0.16165413533834586
+",39,fuchs-heimlichi-lieb,266,43,0.5802765742215303,0.16165413533834586
 160,drama,Katt,M,,,,"
             
 KATT :
@@ -1433,7 +1433,7 @@ KATT :
 De Vadder schickt mi, Jean. Dü sollsch na komme. ’s isch Zitt for furt ze fahre.
 
           
-",fuchs-heimlichi-lieb,25,3,0.620271200366902,0.12
+",40,fuchs-heimlichi-lieb,25,3,0.620271200366902,0.12
 161,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1442,7 +1442,7 @@ JEAN:
 Ich komm. Ah, Katt, denk dran, wenn d' Stubb mach’sch, loss mr diss klane Köefferle stehn, ’s sin Fläschle drin mit Gift. De Vadder hett mr’s anbedunge, ich soll em ebs mitbringe for d’Hamschter un d’Wissele. Rüehr mr nix an.
 
           
-",fuchs-heimlichi-lieb,44,4,0.42263667246626035,0.09090909090909091
+",40,fuchs-heimlichi-lieb,44,4,0.42263667246626035,0.09090909090909091
 162,drama,Katt,M,,,,"
             
 KATT:
@@ -1453,7 +1453,7 @@ Jo, Jean, was danksch. — Flaschle mit Gift, — nän, was dü alles lehre müe
 : Ward’sch dü Bür worre, Jean.
 
           
-",fuchs-heimlichi-lieb,40,3,0.5039088719720503,0.075
+",40,fuchs-heimlichi-lieb,40,3,0.5039088719720503,0.075
 163,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -1465,7 +1465,7 @@ JEAN :
 ’s isch gued, Katt, ich wäiss, ihr meine’s rächt. Ihr denke an die Fläschle, gäll.
 
           
-",fuchs-heimlichi-lieb,25,4,0.796109735894313,0.16
+",40,fuchs-heimlichi-lieb,25,4,0.796109735894313,0.16
 164,drama,Katt,M,,,,"
             
 KATT:
@@ -1474,7 +1474,7 @@ KATT:
 — — Ech hab noch ebs, Jean. — As isch noch ebber mit mir eruff komme, — wo, — wo dir guede Daö säuje will.
 
           
-",fuchs-heimlichi-lieb,26,2,0.6900967187331049,0.07692307692307693
+",41,fuchs-heimlichi-lieb,26,2,0.6900967187331049,0.07692307692307693
 166,drama,Katt,M,,,,"
             
 KATT:
@@ -1485,7 +1485,7 @@ KATT:
 : Komm, Mejel, komm ering!
 
           
-",fuchs-heimlichi-lieb,15,2,0.5077636222456227,0.13333333333333333
+",41,fuchs-heimlichi-lieb,15,2,0.5077636222456227,0.13333333333333333
 167,drama,Mejel,F,,,,"
             
 MEJEL :
@@ -1498,7 +1498,7 @@ Buschur, Hans.
 (Sie gibt ihm d’Hand.)
 
           
-",fuchs-heimlichi-lieb,18,2,0.6363591966219366,0.1111111111111111
+",41,fuchs-heimlichi-lieb,18,2,0.6363591966219366,0.1111111111111111
 168,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1507,7 +1507,7 @@ JEAN:
 Buschur, Mejel, kommsch morn au uff d’Hochzitt?
 
           
-",fuchs-heimlichi-lieb,9,4,0.7823176781304714,0.4444444444444444
+",42,fuchs-heimlichi-lieb,9,4,0.7823176781304714,0.4444444444444444
 169,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -1518,7 +1518,7 @@ Ja, Hans. — — Blisch lang do?
             
 
           
-",fuchs-heimlichi-lieb,8,2,0.6299952807928948,0.25
+",42,fuchs-heimlichi-lieb,8,2,0.6299952807928948,0.25
 171,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -1527,7 +1527,7 @@ MEJEL:
 Kommseh äui emol in ünser Hüss?
 
           
-",fuchs-heimlichi-lieb,7,1,0.6701485966188446,0.14285714285714285
+",42,fuchs-heimlichi-lieb,7,1,0.6701485966188446,0.14285714285714285
 174,drama,Katt,M,,,,"
             
 KATT:
@@ -1536,7 +1536,7 @@ KATT:
 Ich hab em extra muehn zäje, wie mr ’ne macht.
 
           
-",fuchs-heimlichi-lieb,11,1,0.68379825951501,0.09090909090909091
+",43,fuchs-heimlichi-lieb,11,1,0.68379825951501,0.09090909090909091
 175,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -1545,7 +1545,7 @@ MEJEL:
 Wann d' komme daatsch, Hans, i daat dr e Extra- Biskwitt maache.
 
           
-",fuchs-heimlichi-lieb,14,1,0.5077636222456227,0.07142857142857142
+",43,fuchs-heimlichi-lieb,14,1,0.5077636222456227,0.07142857142857142
 176,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1555,7 +1555,7 @@ Waisch, Mejel, ajetli mach i mr gar nix üss em Biskwitt.
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,15,1,0.3793706325640294,0.06666666666666667
+",44,fuchs-heimlichi-lieb,15,1,0.3793706325640294,0.06666666666666667
 177,drama,Mejel,F,,,,"
             
 MEJEL  :
@@ -1568,7 +1568,7 @@ Oder üss dare, wo ’ne bache will. — Komm, Katt.
 (ab.)
 
           
-",fuchs-heimlichi-lieb,17,2,0.3565187475546438,0.11764705882352941
+",44,fuchs-heimlichi-lieb,17,2,0.3565187475546438,0.11764705882352941
 178,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1578,7 +1578,7 @@ Ich geh jetzt Fritzel ich hab noch witt. ’s wurd spot bis ich zeruck komm. War
 (Ab.)
 
           
-",fuchs-heimlichi-lieb,23,3,0.4548100478861367,0.13043478260869565
+",44,fuchs-heimlichi-lieb,23,3,0.4548100478861367,0.13043478260869565
 179,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -1588,7 +1588,7 @@ Arms Maidel. — Schad um die Biskwitt.
  — RIDEAU. — 
 
           
-",fuchs-heimlichi-lieb,11,2,0.3807276803297256,0.18181818181818182
+",44,fuchs-heimlichi-lieb,11,2,0.3807276803297256,0.18181818181818182
 180,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDERS VADDER :
@@ -1600,7 +1600,7 @@ STAWALDERS VADDER :
 Un de Schagob soll d’Radle am Scharebang schmiere. Awer gan Acht, ass alles in dr Ordnung gemacht wurd.
 
           
-",fuchs-heimlichi-lieb,31,5,0.5826574397898419,0.16129032258064516
+",45,fuchs-heimlichi-lieb,31,5,0.5826574397898419,0.16129032258064516
 181,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -1612,7 +1612,7 @@ JEAN :
 Do bin i, Vadder.
 
           
-",fuchs-heimlichi-lieb,10,1,0.8024733948546023,0.1
+",45,fuchs-heimlichi-lieb,10,1,0.8024733948546023,0.1
 182,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -1624,7 +1624,7 @@ VADDER :
 Mach dich jetz ferdi, Jean, dini zuekünfti Mieder aahole for d’Hochzitt. Hesch noch e witte Waj, schick di jetz un mach füerschi. Dü brüch’sch e wärmere Mutze ass dar do, — un noch e dicke Mantel. Es sin gued anderthalwe Stung bis Graswiller, d' Luft isch rüch, ’s kennt gar am And noch Schnee gann.
 
           
-",fuchs-heimlichi-lieb,62,6,0.7561980879304717,0.0967741935483871
+",45,fuchs-heimlichi-lieb,62,6,0.7561980879304717,0.0967741935483871
 183,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -1635,7 +1635,7 @@ Vadder, ich weiss, es isch nit rächt, wenn ich’s saa. Ich weiss jo, wie ejch 
             
 
           
-",fuchs-heimlichi-lieb,44,7,0.6736965786478686,0.1590909090909091
+",45,fuchs-heimlichi-lieb,44,7,0.6736965786478686,0.1590909090909091
 184,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -1646,7 +1646,7 @@ VADDER:
 : Ihr wäre nix ze klaue han, Vadder, un ich wüensch ejch viel Glüeck, — viel Glüeck in ejre neje Ehstand.
 
           
-",fuchs-heimlichi-lieb,155,29,0.7613325283074001,0.1870967741935484
+",46,fuchs-heimlichi-lieb,155,29,0.7613325283074001,0.1870967741935484
 185,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -1659,7 +1659,7 @@ Ich dank dr, Hans, — ich dank dr.
 (Sie lohn d' Händ gehn.)
 
           
-",fuchs-heimlichi-lieb,19,4,0.7750661700025361,0.21052631578947367
+",46,fuchs-heimlichi-lieb,19,4,0.7750661700025361,0.21052631578947367
 186,drama,Basche,M,,,,"
             
 BASCHE :
@@ -1671,7 +1671,7 @@ BASCHE :
 Mr warde jetz so witt. ’s isch alles parat.
 
           
-",fuchs-heimlichi-lieb,15,2,0.5461502450961497,0.13333333333333333
+",46,fuchs-heimlichi-lieb,15,2,0.5461502450961497,0.13333333333333333
 188,drama,Basche,M,,,,"
             
 BASCHE:
@@ -1680,7 +1680,7 @@ BASCHE:
 Sie hett’s schun lang gerüescht, üss Angscht, ihr köennte öjch vekälte.
 
           
-",fuchs-heimlichi-lieb,13,2,0.37233973244471924,0.15384615384615385
+",47,fuchs-heimlichi-lieb,13,2,0.37233973244471924,0.15384615384615385
 189,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -1689,7 +1689,7 @@ VADDER:
 As fahrt noch e Wäuje mit dr. Dü bringsch ’s Gredel un dr ander Wäuje ladt de Nöjroth, wie's Mode isch. Es sin zwäi Knacht uff em andere Wäuje. Wann d' witt, kann dr Schang de Char-à-banc fahre.
 
           
-",fuchs-heimlichi-lieb,40,2,0.7582366974273012,0.05
+",47,fuchs-heimlichi-lieb,40,2,0.7582366974273012,0.05
 190,drama,'s Stawalders Jean,M,,,,"
             
 HANS:
@@ -1698,7 +1698,7 @@ HANS:
 Nein, lohn, — ”s isch gued so, ich bin jo schun viel Mols mit em Gröjschimmel gfahre, ich brüch niemes. Ich fahr vor, sie solle nurr satt hinder mr bliewe.
 
           
-",fuchs-heimlichi-lieb,32,3,0.7138819816160452,0.09375
+",47,fuchs-heimlichi-lieb,32,3,0.7138819816160452,0.09375
 191,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -1707,7 +1707,7 @@ VADDER:
 Wie d' witt. — Un noch ebs: ’s Gredel soll sich gued andhüen bie dem rüche Watter, säujseh’s sine Litte.
 
           
-",fuchs-heimlichi-lieb,22,2,0.8374516050375946,0.09090909090909091
+",47,fuchs-heimlichi-lieb,22,2,0.8374516050375946,0.09090909090909091
 192,drama,'s Stawalders Jean,M,,,,"
             
 HANS:
@@ -1719,7 +1719,7 @@ HANS:
             
 
           
-",fuchs-heimlichi-lieb,23,1,0.99,0.043478260869565216
+",48,fuchs-heimlichi-lieb,23,1,0.99,0.043478260869565216
 193,drama,Katt,M,,,,"
             
 KATT:
@@ -1731,7 +1731,7 @@ KATT:
 Jetz fahrt er los, sie hole.
 
           
-",fuchs-heimlichi-lieb,20,2,0.7304052169205764,0.1
+",48,fuchs-heimlichi-lieb,20,2,0.7304052169205764,0.1
 194,drama,Basche,M,,,,"
             
 BASCHE :
@@ -1743,7 +1743,7 @@ BASCHE :
 As isch e bissel spoot, as gfallt mr nit. As lejt Schnee in dr Luft. Dr Schang hatt fahre solle, awer dr Graddel losst’s im Hans nit züe.
 
           
-",fuchs-heimlichi-lieb,39,2,0.3101650712977913,0.05128205128205128
+",48,fuchs-heimlichi-lieb,39,2,0.3101650712977913,0.05128205128205128
 195,drama,Katt,M,,,,"
             
 KATT:
@@ -1756,7 +1756,7 @@ Dr Vadder räicht em noch e Mol d' Hand.
 . Puh, was e dracketer Wind,. Gotts Wille — was isch diss? De Gröjschimmel schejt, — ar will nit ’s Dhor nüss, kerzegrad geht’r in d' Höeh.
 
           
-",fuchs-heimlichi-lieb,57,4,0.6396605669453748,0.07017543859649122
+",48,fuchs-heimlichi-lieb,57,4,0.6396605669453748,0.07017543859649122
 196,drama,Basche,M,,,,"
             
 BASCHE:
@@ -1765,7 +1765,7 @@ BASCHE:
 Joh, daöwi Katt, sieh’sch nit, ass grad e Gfahrt in de Hoft ering will. Wohrschients äner von de Inggelo- dene.
 
           
-",fuchs-heimlichi-lieb,22,2,0.6439337114963362,0.09090909090909091
+",49,fuchs-heimlichi-lieb,22,2,0.6439337114963362,0.09090909090909091
 197,drama,Katt,M,,,,"
             
 KATT :
@@ -1777,7 +1777,7 @@ KATT :
 De Jean höift, ar losst de andere ering. Ja, ja, jetz sieh ich’s. ’s isch jo ’s Grossbüre Lanz von Gäischspitze.
 
           
-",fuchs-heimlichi-lieb,27,4,0.6526266095307968,0.14814814814814814
+",49,fuchs-heimlichi-lieb,27,4,0.6526266095307968,0.14814814814814814
 198,drama,Basche,M,,,,"
             
 BASCHE:
@@ -1786,7 +1786,7 @@ BASCHE:
 Dar isch doch allewiel debie, wann’s ebs ze asse gitt.
 
           
-",fuchs-heimlichi-lieb,12,1,0.6185883572349138,0.08333333333333333
+",49,fuchs-heimlichi-lieb,12,1,0.6185883572349138,0.08333333333333333
 199,drama,Katt,M,,,,"
             
 KATT:
@@ -1795,7 +1795,7 @@ KATT:
 Komme-n-e Daö erschter ass d' andere un bliewe noch- har 3 Daj länger. Un alles waje-n-em Ase.
 
           
-",fuchs-heimlichi-lieb,23,2,0.5178858523557787,0.08695652173913043
+",49,fuchs-heimlichi-lieb,23,2,0.5178858523557787,0.08695652173913043
 200,drama,Basche,M,,,,"
             
 BASCHE :
@@ -1807,7 +1807,7 @@ BASCHE :
 Un pratzt noch: Wann’s nit waje de Friendschaft ward, üss em Ase, do moch ich mir nix, — — do gangt ich nit e Mole hingerem Offe füere. Ich, Katt, wann ich de Mäischter ward, die Friendschaft kannt mr gstohle ware.
 
           
-",fuchs-heimlichi-lieb,54,8,0.595295930931367,0.14814814814814814
+",50,fuchs-heimlichi-lieb,54,8,0.595295930931367,0.14814814814814814
 201,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER :
@@ -1819,7 +1819,7 @@ STAWALDER :
 Do komme nurr ering, ihr sin jo ganz vestawert.
 
           
-",fuchs-heimlichi-lieb,15,2,0.6541218143207994,0.13333333333333333
+",50,fuchs-heimlichi-lieb,15,2,0.6541218143207994,0.13333333333333333
 202,drama,'Grosbüre Lanz,M,,,,"
             
 ’S GROSSBUERE LENZ :
@@ -1833,7 +1833,7 @@ Ja, Stowolder, diss hatte mir üns jetz nit namme lohn, — do har ze komme. « 
 (Er geht breit in de Stub hin un here.)
 
           
-",fuchs-heimlichi-lieb,125,12,0.5226114733242614,0.096
+",50,fuchs-heimlichi-lieb,125,12,0.5226114733242614,0.096
 203,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -1844,7 +1844,7 @@ Ass isch mr arig racht, ass er kumme sin un ich dank öjch äu for d' Ehr wo ihr
  Dir Lanz, — un in dr Mej un äui im Xaveri. — E stol- zer Burscht isch er worre, öjere Xaveri.
 
           
-",fuchs-heimlichi-lieb,50,5,0.6939324818357082,0.1
+",50,fuchs-heimlichi-lieb,50,5,0.6939324818357082,0.1
 204,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -1853,7 +1853,7 @@ LANZ:
 Wie geht’s im Stall, — ’s Vieh alles gsünd, — isch d' Arn güet häme komme, hesch schun gedrosche?
 
           
-",fuchs-heimlichi-lieb,21,5,0.6917882553161647,0.23809523809523808
+",51,fuchs-heimlichi-lieb,21,5,0.6917882553161647,0.23809523809523808
 205,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -1865,7 +1865,7 @@ Ich dank de Nochfröj, ’s geht, i bin zefridde. D’ Frucht isch so schöen ge
 (Noch hinde ab.)
 
           
-",fuchs-heimlichi-lieb,64,10,0.6698069615065367,0.15625
+",51,fuchs-heimlichi-lieb,64,10,0.6698069615065367,0.15625
 206,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -1874,7 +1874,7 @@ LANZ:
 E gross Gedhuens macht er mit sinere Hieroterej.
 
           
-",fuchs-heimlichi-lieb,9,3,0.5641407910692837,0.3333333333333333
+",51,fuchs-heimlichi-lieb,9,3,0.5641407910692837,0.3333333333333333
 207,drama,Mej,M,,,,"
             
 MEJ:
@@ -1883,7 +1883,7 @@ MEJ:
 Ward öi gschieder gewahn, er hatt’s nit so füehrnahm gemoocht.
 
           
-",fuchs-heimlichi-lieb,12,2,0.5933991066242237,0.16666666666666666
+",51,fuchs-heimlichi-lieb,12,2,0.5933991066242237,0.16666666666666666
 208,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -1892,7 +1892,7 @@ LANZ:
 Ja, un mir kennte d’häime sitze biem e Kunskhthafe voll gschwellti Hardäpfel un wissem Kas. Nä, ich fing’s besser so, — ass koscht so sin Gald. Un dr Xaveri müess äui inger d' Litt. Un dü, Xaveri, vergass nit, was mr Lawesart häisst bie üns: Wammer inggelode isch, soll mr uff drej Sache Ach- ting gahn: mr soll nie meh drinke, ass mr mit aller Gewalt nun- der bringt; mr soll nie meh aase, ass bis es äm wider erufkommt; Un mr soll nie ehnder häme gehn, ass bis mr nüskejt wurd.
 
           
-",fuchs-heimlichi-lieb,97,6,0.5466729115069727,0.061855670103092786
+",52,fuchs-heimlichi-lieb,97,6,0.5466729115069727,0.061855670103092786
 209,drama,Xavier,M,,,,"
             
 XAVERI:
@@ -1906,7 +1906,7 @@ Jo — Voder — STAWALDER
 .
 
           
-",fuchs-heimlichi-lieb,64,5,0.5431851367589331,0.078125
+",52,fuchs-heimlichi-lieb,64,5,0.5431851367589331,0.078125
 210,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -1921,7 +1921,7 @@ So isch eracht, ass er kumme sin uns ass er uns d' Ehr andhüen. Läje jetz ab u
 .
 
           
-",fuchs-heimlichi-lieb,52,3,0.6305247573569815,0.057692307692307696
+",52,fuchs-heimlichi-lieb,52,3,0.6305247573569815,0.057692307692307696
 211,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL :
@@ -1933,7 +1933,7 @@ CHRISCHTEL :
 GROWE Un was mocht öjre ander Jung, de Muchele?
 
           
-",fuchs-heimlichi-lieb,14,2,0.546965206596884,0.14285714285714285
+",52,fuchs-heimlichi-lieb,14,2,0.546965206596884,0.14285714285714285
 212,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -1942,7 +1942,7 @@ LANZ:
 Ar isch jo schun 6 Monet ghierot.
 
           
-",fuchs-heimlichi-lieb,8,1,0.4325414798834772,0.125
+",53,fuchs-heimlichi-lieb,8,1,0.4325414798834772,0.125
 214,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ :
@@ -1954,7 +1954,7 @@ LANZ :
 Ar isch ghierot.
 
           
-",fuchs-heimlichi-lieb,11,2,0.5799153827289841,0.18181818181818182
+",53,fuchs-heimlichi-lieb,11,2,0.5799153827289841,0.18181818181818182
 216,drama,Mej,M,,,,"
             
 MEJ:
@@ -1963,7 +1963,7 @@ MEJ:
 Ja, ar hett e rich Mäide bekumme, — e gross Anwase, vier Ross un e Mischthüffe, so gross wie e Hüss.
 
           
-",fuchs-heimlichi-lieb,22,7,0.5884010462592927,0.3181818181818182
+",54,fuchs-heimlichi-lieb,22,7,0.5884010462592927,0.3181818181818182
 217,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -1972,7 +1972,7 @@ CHRISCHTEL:
 Was isch mit dem Mischthüffe?
 
           
-",fuchs-heimlichi-lieb,6,1,0.1712010358472473,0.16666666666666666
+",54,fuchs-heimlichi-lieb,6,1,0.1712010358472473,0.16666666666666666
 218,drama,Mej,M,,,,"
             
 MEJ :
@@ -1984,7 +1984,7 @@ MEJ :
 Aei, do hett er ning ghierot.
 
           
-",fuchs-heimlichi-lieb,12,1,0.7272892855744911,0.08333333333333333
+",54,fuchs-heimlichi-lieb,12,1,0.7272892855744911,0.08333333333333333
 219,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -1994,7 +1994,7 @@ Ah so.
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,6,1,0.3793706325640294,0.16666666666666666
+",54,fuchs-heimlichi-lieb,6,1,0.3793706325640294,0.16666666666666666
 220,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2003,7 +2003,7 @@ FRANZ:
 Schlacht Watter, — mr haön Nordwind.
 
           
-",fuchs-heimlichi-lieb,7,2,0.3036753251772796,0.2857142857142857
+",55,fuchs-heimlichi-lieb,7,2,0.3036753251772796,0.2857142857142857
 222,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2012,7 +2012,7 @@ FRANZ:
 Schlachter Nordwind hammer.
 
           
-",fuchs-heimlichi-lieb,4,2,0.3036753251772796,0.5
+",55,fuchs-heimlichi-lieb,4,2,0.3036753251772796,0.5
 223,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2021,7 +2021,7 @@ CHRISCHTEL:
 Ja, ja, de Nordwind kann hare komme, wo ar will, ze-n-isch'er allewiel nix Nutz.
 
           
-",fuchs-heimlichi-lieb,17,4,0.6475792344300617,0.23529411764705882
+",55,fuchs-heimlichi-lieb,17,4,0.6475792344300617,0.23529411764705882
 224,drama,Mej,M,,,,"
             
 MEJ :
@@ -2034,7 +2034,7 @@ Do kommt d' Schilze von Bahle.
 (Jetzt gitt’s 'e Uffrejung, de Basche, d' Katt, de Stawalder, d' Célestine, alles lauft durich und noch rächts ab.)
 
           
-",fuchs-heimlichi-lieb,35,1,0.3999510016909743,0.02857142857142857
+",56,fuchs-heimlichi-lieb,35,1,0.3999510016909743,0.02857142857142857
 225,drama,Mej,M,,,,"
             
 MEJ:
@@ -2051,7 +2051,7 @@ Zäj, Lanz, do lüj — alles in Sied. Nowel, nowel, wie unser Harr Chrischtüs 
 (Uewerem Uesszeje von dene viele Mäntel, Mäntele, Halsdüecher un Fichus.)
 
           
-",fuchs-heimlichi-lieb,147,14,0.5398215448263921,0.09523809523809523
+",56,fuchs-heimlichi-lieb,147,14,0.5398215448263921,0.09523809523809523
 226,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE :
@@ -2063,7 +2063,7 @@ D’ SCHILTZE :
 Dü, Schultz, war isch dann dar Alt?
 
           
-",fuchs-heimlichi-lieb,18,2,0.3781503982199164,0.1111111111111111
+",56,fuchs-heimlichi-lieb,18,2,0.3781503982199164,0.1111111111111111
 227,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2072,7 +2072,7 @@ SCHULTZ:
 De Growechrischtel, wo schun drissich Johr lang saöt, ass ar bal starwe dhuet. Ar isch jetz 85 Johr alt un fahlt bie kem Ase.
 
           
-",fuchs-heimlichi-lieb,25,4,0.4532966057736408,0.16
+",56,fuchs-heimlichi-lieb,25,4,0.4532966057736408,0.16
 228,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE :
@@ -2085,7 +2085,7 @@ Do lüej de Lanz, d' Mej un dr Xaveri.
 (Sie redde liesli mitnander.)
 
           
-",fuchs-heimlichi-lieb,25,6,0.5818275768190467,0.24
+",57,fuchs-heimlichi-lieb,25,6,0.5818275768190467,0.24
 229,drama,De Schultz,M,,,,"
             
 DR SCHULTZ :
@@ -2097,7 +2097,7 @@ DR SCHULTZ :
 Na, wie geht’s öjch, Chrischtel?
 
           
-",fuchs-heimlichi-lieb,12,1,0.3781503982199164,0.08333333333333333
+",57,fuchs-heimlichi-lieb,12,1,0.3781503982199164,0.08333333333333333
 230,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2106,7 +2106,7 @@ CHRISCHTEL:
 Schlacht, schlacht — mr wurd als älter. — I mach jetz nimmi lang, I starb jetz ball.
 
           
-",fuchs-heimlichi-lieb,18,5,0.2653041074743212,0.2777777777777778
+",57,fuchs-heimlichi-lieb,18,5,0.2653041074743212,0.2777777777777778
 231,drama,De Schultz,M,,,,"
             
 DR SCHULTZ:
@@ -2115,7 +2115,7 @@ DR SCHULTZ:
 Ass ihr noch dene witte Waj do hare gemacht han.
 
           
-",fuchs-heimlichi-lieb,12,2,0.5305751991099582,0.16666666666666666
+",57,fuchs-heimlichi-lieb,12,2,0.5305751991099582,0.16666666666666666
 232,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2124,7 +2124,7 @@ CHRISCHTEL:
 Jo, ich hab mr gsaöt, ’s isch, jetz doch ’s letschte Mol. Ihr kenne’s sicher glaöwe, d' Maöd hett d' Pfann schun uf em Fier ghett.
 
           
-",fuchs-heimlichi-lieb,28,4,0.6765252670143223,0.14285714285714285
+",58,fuchs-heimlichi-lieb,28,4,0.6765252670143223,0.14285714285714285
 233,drama,De Schultz,M,,,,"
             
 DR SCHULTZ:
@@ -2133,7 +2133,7 @@ DR SCHULTZ:
 Ha joh, — wajene-n-em Ase un Drinke geht mr jo nit hare.
 
           
-",fuchs-heimlichi-lieb,16,1,0.3781503982199164,0.0625
+",58,fuchs-heimlichi-lieb,16,1,0.3781503982199164,0.0625
 234,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2145,7 +2145,7 @@ Nadierli, waje dam gangt i nit e Mol zue de Dhüer nüss.
 (D’ Wiebslitt komme jetz ze Wort.)
 
           
-",fuchs-heimlichi-lieb,29,2,0.44788181112281134,0.06896551724137931
+",58,fuchs-heimlichi-lieb,29,2,0.44788181112281134,0.06896551724137931
 235,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2154,7 +2154,7 @@ D’ SCHILTZE:
 War hatt jetz diss gedankt, ass dr Stowolder noch e Mol hierode dhüet.
 
           
-",fuchs-heimlichi-lieb,15,1,0.3781503982199164,0.06666666666666667
+",58,fuchs-heimlichi-lieb,15,1,0.3781503982199164,0.06666666666666667
 237,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2163,7 +2163,7 @@ D’ SCHILTZE:
 Ja, ja, d' Lieb un de Hüeschte, die lohn sich schlacht vesteckle.
 
           
-",fuchs-heimlichi-lieb,14,6,0.5811546085193208,0.42857142857142855
+",59,fuchs-heimlichi-lieb,14,6,0.5811546085193208,0.42857142857142855
 238,drama,Mej,M,,,,"
             
 MEJ:
@@ -2174,7 +2174,7 @@ Wie lang geht dann de Schang, sine Jung, noch in d' Schuele?
             
 
           
-",fuchs-heimlichi-lieb,13,3,0.6194544950471821,0.23076923076923078
+",59,fuchs-heimlichi-lieb,13,3,0.6194544950471821,0.23076923076923078
 239,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2183,7 +2183,7 @@ SCHULTZ:
 Nit ass ’s em emole geht wü dem Knacht, wo ich e Mol hab ghett. Dar isch früehjer Schriewer gewahn un üss lütter Gewohnhäit heit ar ass d' Mischtgawel hinger’s Ohr stecke welle.
 
           
-",fuchs-heimlichi-lieb,35,2,0.3550723250933937,0.05714285714285714
+",59,fuchs-heimlichi-lieb,35,2,0.3550723250933937,0.05714285714285714
 240,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2192,7 +2192,7 @@ FRANZ:
 Ho zall, d' Kopfarwäit isch fascht noch d' schwarscht, ich gsich’s an mine Ochse.
 
           
-",fuchs-heimlichi-lieb,16,3,0.5352871142356984,0.1875
+",60,fuchs-heimlichi-lieb,16,3,0.5352871142356984,0.1875
 241,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER :
@@ -2206,7 +2206,7 @@ So, do bring i noch e Kamerad vom Jean, ich hab ’ne ingelade, e Mumpfel mit i�
  KATT un CELESTINE rüeschde de Disch.
 
           
-",fuchs-heimlichi-lieb,38,4,0.7113518983465178,0.10526315789473684
+",60,fuchs-heimlichi-lieb,38,4,0.7113518983465178,0.10526315789473684
 242,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2215,7 +2215,7 @@ SCHULTZ:
 Han er mit em Ase nit warte wöelle, bis d' Wiewer üssgsprachelt han?
 
           
-",fuchs-heimlichi-lieb,14,2,0.44097430573418195,0.14285714285714285
+",60,fuchs-heimlichi-lieb,14,2,0.44097430573418195,0.14285714285714285
 243,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2224,7 +2224,7 @@ LANZ:
 Do kamte mir nie an de Disch, — wann d' Wiewer am Ratsche sin, vegasse sie noch ’s Starwe.
 
           
-",fuchs-heimlichi-lieb,20,1,0.4325414798834772,0.05
+",60,fuchs-heimlichi-lieb,20,1,0.4325414798834772,0.05
 244,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE :
@@ -2236,7 +2236,7 @@ D’ SCHILTZE :
 Dü hesch doch ’s Mül allewiel so g’striche voll, ass es dr alle Auesblick üewer läuft.
 
           
-",fuchs-heimlichi-lieb,24,5,0.5091754967072706,0.20833333333333334
+",61,fuchs-heimlichi-lieb,24,5,0.5091754967072706,0.20833333333333334
 245,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2247,7 +2247,7 @@ A joh, a joh — —
 .
 
           
-",fuchs-heimlichi-lieb,20,4,0.41679173203223746,0.2
+",61,fuchs-heimlichi-lieb,20,4,0.41679173203223746,0.2
 246,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2256,7 +2256,7 @@ LANZ:
 Wü mr jetz grad von nix andersch ze redde han, — wisste ner mr nit e Bardie for mine Jung, de Xaveri? Awer e bissel e wifi, solidi, SCHILTZE: Aei, mir han jo so e Massik.
 
           
-",fuchs-heimlichi-lieb,37,5,0.5777814769784391,0.13513513513513514
+",61,fuchs-heimlichi-lieb,37,5,0.5777814769784391,0.13513513513513514
 247,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2265,7 +2265,7 @@ LANZ:
 Hoh, dass ward mir schun eracht, die zwäj daate guet zamme basse. Uensere, dar isch äui so e wifer. Dar fangt de Dejfel im freje Fald. SCHILTZE: Redde-n-emol mit de Mej.
 
           
-",fuchs-heimlichi-lieb,34,6,0.5297614187391849,0.17647058823529413
+",61,fuchs-heimlichi-lieb,34,6,0.5297614187391849,0.17647058823529413
 248,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -2274,7 +2274,7 @@ STAWALDER:
 Kumme jetz an de Disch.
 
           
-",fuchs-heimlichi-lieb,6,1,0.5077636222456227,0.16666666666666666
+",62,fuchs-heimlichi-lieb,6,1,0.5077636222456227,0.16666666666666666
 249,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2285,7 +2285,7 @@ Komme, ihr Manner, setze-n-ejch hare. BASCHE
 .
 
           
-",fuchs-heimlichi-lieb,18,3,0.5227683443566322,0.16666666666666666
+",62,fuchs-heimlichi-lieb,18,3,0.5227683443566322,0.16666666666666666
 250,drama,Fritzel,M,,,,"
             
 FRITZEL:
@@ -2294,7 +2294,7 @@ FRITZEL:
 Ich glaub, mir wöelle z’erscht uff d' Gsundheit vom Hochzittspaar drinke.
 
           
-",fuchs-heimlichi-lieb,13,3,0.826133625652679,0.23076923076923078
+",62,fuchs-heimlichi-lieb,13,3,0.826133625652679,0.23076923076923078
 251,drama,'s Lipse Vadder,M,,,,"
             
 ALLI:
@@ -2306,7 +2306,7 @@ Alleh, Gsündhäit.
             
 
           
-",fuchs-heimlichi-lieb,17,1,0.935,0.058823529411764705
+",62,fuchs-heimlichi-lieb,17,1,0.935,0.058823529411764705
 252,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2315,7 +2315,7 @@ SCHULTZ:
 Un ass de guet fallsch, Stawalder, dann zall Sprüe- chel häisst: Nammsch dü mich, dann hasch dü mich — mag dir’s lieb säin oder nicht — — un: Ass isch ze spoot zuem Schnitze, wann d' Nas schun ewag isch.
 
           
-",fuchs-heimlichi-lieb,43,6,0.5054898320557745,0.13953488372093023
+",63,fuchs-heimlichi-lieb,43,6,0.5054898320557745,0.13953488372093023
 253,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2324,7 +2324,7 @@ D’ SCHILTZE:
 Schultz, dü bisch gläuwi hitt widder Führ- mann.
 
           
-",fuchs-heimlichi-lieb,11,5,0.5508818161191399,0.45454545454545453
+",63,fuchs-heimlichi-lieb,11,5,0.5508818161191399,0.45454545454545453
 254,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2333,7 +2333,7 @@ LANZ:
 Führmann?
 
           
-",fuchs-heimlichi-lieb,2,1,0.4325414798834772,0.5
+",63,fuchs-heimlichi-lieb,2,1,0.4325414798834772,0.5
 255,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2342,7 +2342,7 @@ D’ SCHILTZE:
 Ah jo — ar hett frisch bschlaöje.
 
           
-",fuchs-heimlichi-lieb,9,2,0.5088393584475323,0.2222222222222222
+",63,fuchs-heimlichi-lieb,9,2,0.5088393584475323,0.2222222222222222
 256,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2351,7 +2351,7 @@ SCHULTZ:
 I wurr doch äui emole ebs saöje derfe wo nix galt. Schunsch derf i nurre ebs säuje, wann mr mini Fräuj ebs ze säuje iwri losst.
 
           
-",fuchs-heimlichi-lieb,27,1,0.3781503982199164,0.037037037037037035
+",64,fuchs-heimlichi-lieb,27,1,0.3781503982199164,0.037037037037037035
 257,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE:
@@ -2360,7 +2360,7 @@ D’ SCHILTZE:
 Bie üns isch diss gued inggedählt: Wann mir drüsse sin, hett ar nix ze säuje — — wann mir awer dhäme sin, nod haw ich ’s Wort — — ja, do isch Ordnung im Hüss.
 
           
-",fuchs-heimlichi-lieb,37,5,0.6081422578358407,0.13513513513513514
+",64,fuchs-heimlichi-lieb,37,5,0.6081422578358407,0.13513513513513514
 258,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2371,7 +2371,7 @@ As geht mir äui nit besser, Schultz. Wäisch, was ich noch dhäm ze säuje hob?
 : Was, — nix ze säuje in de äjene Hüshalting, diss war ower. Wann ich Garscht vekaöif im Möische, oder wann i mit em Metzjeri im Handel bin wäje-n-em e Stüeckel Vieh —, do —, do lüj ich «ins» nurr an. Un wann « ass» noch am linke Fürdüchbangel zopft, häisst’s «nää » — un wann ass ’s Füerdi glatt stricht, — « ja », — awer de Rascht, de Rascht hab ich ze säuje — — jah —
 
           
-",fuchs-heimlichi-lieb,156,7,0.557566236740047,0.04487179487179487
+",64,fuchs-heimlichi-lieb,156,7,0.557566236740047,0.04487179487179487
 259,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2380,7 +2380,7 @@ LANZ:
 Franz, do sin ihr grad so e guedmietiger Ochsebar wie mir.
 
           
-",fuchs-heimlichi-lieb,12,3,0.5354190920956189,0.25
+",64,fuchs-heimlichi-lieb,12,3,0.5354190920956189,0.25
 260,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2389,7 +2389,7 @@ FRANZ:
 Ja, guedmüeti bin i, zall isch wohr, — i dhat mr ’s Holz uff em Kopf hackle lohn, — awer in de Hüsshal- ting, — do kann i nix, do loss ich mir nit ningredde. GROWECHRISCHTEL Chett bis jetz ifrig an sinere Supp ge- leffelt, zupft jetz de Xaveri, wo näwe-n-em sitzt): Xaveri, gib mr noch Supp.
 
           
-",fuchs-heimlichi-lieb,63,8,0.5757377021298071,0.12698412698412698
+",65,fuchs-heimlichi-lieb,63,8,0.5757377021298071,0.12698412698412698
 261,drama,Xavier,M,,,,"
             
 XAVERI :
@@ -2401,7 +2401,7 @@ XAVERI :
 Sie isch awer schun e bissel kalt.
 
           
-",fuchs-heimlichi-lieb,14,1,0.1972412906564966,0.07142857142857142
+",65,fuchs-heimlichi-lieb,14,1,0.1972412906564966,0.07142857142857142
 262,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2414,7 +2414,7 @@ Diss macht nix, im Mäuje wurd se schun warm ware. XAVERI
 (Es wäre Platte mit gebachene Eier mit Speck erin- getraue.)
 
           
-",fuchs-heimlichi-lieb,31,2,0.6806987154951001,0.06451612903225806
+",65,fuchs-heimlichi-lieb,31,2,0.6806987154951001,0.06451612903225806
 263,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2424,7 +2424,7 @@ Aeier mit Spack, diss isch min Sach.
 (Er nemmt sich e unverschämti Portion, esst griddi.)
 
           
-",fuchs-heimlichi-lieb,18,2,0.39889754567047997,0.1111111111111111
+",65,fuchs-heimlichi-lieb,18,2,0.39889754567047997,0.1111111111111111
 265,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2438,7 +2438,7 @@ Ass isch gelunge — e Hüehn brücht 14 Daj for e paar Aeier ze läje, — e Fr
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,48,5,0.6088190377794278,0.10416666666666667
+",66,fuchs-heimlichi-lieb,48,5,0.6088190377794278,0.10416666666666667
 266,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2447,7 +2447,7 @@ LANZ:
 Mr mäint grad, ar kommt üss em Hungerland.
 
           
-",fuchs-heimlichi-lieb,9,2,0.5659533129661488,0.2222222222222222
+",66,fuchs-heimlichi-lieb,9,2,0.5659533129661488,0.2222222222222222
 267,drama,D' Schiltze von Bahle,?F,,,,"
             
 SCHILZE:
@@ -2458,7 +2458,7 @@ Lehn ’ne — e Küehbierel. Die köenne halt nit genüe bekumme. FRANZ
 : Dittlich redde, — dittlich redde, — nit uff de linke Füess ditte, wann de racht gemänt isch. Ihr brüche ’s Mül nit im Sack b’halte.
 
           
-",fuchs-heimlichi-lieb,54,9,0.5981462603759309,0.16666666666666666
+",66,fuchs-heimlichi-lieb,54,9,0.5981462603759309,0.16666666666666666
 268,drama,D' Schiltze von Bahle,?F,,,,"
             
 D’ SCHILTZE  :
@@ -2470,7 +2470,7 @@ D’ SCHILTZE  :
 Han ihr öjch gedroffe gfunge?
 
           
-",fuchs-heimlichi-lieb,13,1,0.3781503982199164,0.07692307692307693
+",67,fuchs-heimlichi-lieb,13,1,0.3781503982199164,0.07692307692307693
 269,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ :
@@ -2482,7 +2482,7 @@ FRANZ :
 Loss mich, wann mir äner e Fuess stellt, brüch ich em for ’s Leje nit ze danke. Mir warft kenner e Klatt in de Belz.
 
           
-",fuchs-heimlichi-lieb,31,5,0.5121795507326397,0.16129032258064516
+",67,fuchs-heimlichi-lieb,31,5,0.5121795507326397,0.16129032258064516
 270,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ :
@@ -2494,7 +2494,7 @@ LANZ :
 Ha — ha — hah.
 
           
-",fuchs-heimlichi-lieb,9,2,0.6222707399417386,0.2222222222222222
+",67,fuchs-heimlichi-lieb,9,2,0.6222707399417386,0.2222222222222222
 271,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FRANZ:
@@ -2503,7 +2503,7 @@ FRANZ:
 Lache nurr, lache nurr, — lohn öjer Wangschtel hüpse. Wann ich äui e Küehjbierel bin un ken Rossbür, — in dr Bürerej mache-n-ihr mir noch lang nix vor.
 
           
-",fuchs-heimlichi-lieb,31,5,0.6810968718577601,0.16129032258064516
+",67,fuchs-heimlichi-lieb,31,5,0.6810968718577601,0.16129032258064516
 272,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL :
@@ -2518,7 +2518,7 @@ Ganz racht hesch, Franz, un wo de racht hesch, do hesch de racht, diss isch so w
 (kommt von links zeruck, hinder ihm de Basche mit em e Arm voll Boudelle.)
 
           
-",fuchs-heimlichi-lieb,70,11,0.6663649280397589,0.15714285714285714
+",68,fuchs-heimlichi-lieb,70,11,0.6663649280397589,0.15714285714285714
 273,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2527,7 +2527,7 @@ SCHULTZ:
 Ohoh, dü kommsch jetz schun mit Gebitschierde. Do ware mir jo schwammevoll noch vor de Zitt.
 
           
-",fuchs-heimlichi-lieb,17,2,0.4643634911101986,0.11764705882352941
+",68,fuchs-heimlichi-lieb,17,2,0.4643634911101986,0.11764705882352941
 274,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2543,7 +2543,7 @@ Hoh zall, de Stowolder wäiss, was sich ghöert. Ass CELESTINE un KATT
 .
 
           
-",fuchs-heimlichi-lieb,41,3,0.520196914935441,0.07317073170731707
+",68,fuchs-heimlichi-lieb,41,3,0.520196914935441,0.07317073170731707
 275,drama,Mej,M,,,,"
             
 MEJ:
@@ -2556,7 +2556,7 @@ E güedi Köeche sin er, Katt. SCHILTZE: Die Bluetwüerscht, die sin jetz grad e
 .
 
           
-",fuchs-heimlichi-lieb,45,6,0.6403682209584035,0.13333333333333333
+",68,fuchs-heimlichi-lieb,45,6,0.6403682209584035,0.13333333333333333
 276,drama,Mej,M,,,,"
             
 MEJ:
@@ -2565,7 +2565,7 @@ MEJ:
 Wann’s noch so gued isch, isch’s doch bal veschluckt.
 
           
-",fuchs-heimlichi-lieb,12,1,0.872429815220587,0.08333333333333333
+",69,fuchs-heimlichi-lieb,12,1,0.872429815220587,0.08333333333333333
 277,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2574,7 +2574,7 @@ LANZ:
 Do hett mr sich so lang druff gfräit, un wie schnall isch alles gasse.
 
           
-",fuchs-heimlichi-lieb,15,3,0.5573341746863093,0.2
+",69,fuchs-heimlichi-lieb,15,3,0.5573341746863093,0.2
 278,drama,De Schultz,M,,,,"
             
 SCHULTZ :
@@ -2586,7 +2586,7 @@ SCHULTZ :
 Im Flaschel isch de Win jo gued, — awer ich män, im Fass halt ar sich doch noch besser.
 
           
-",fuchs-heimlichi-lieb,29,6,0.5024364446792037,0.20689655172413793
+",69,fuchs-heimlichi-lieb,29,6,0.5024364446792037,0.20689655172413793
 279,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2595,7 +2595,7 @@ LANZ:
 Ho zall, diss isch awer numm, im e Flaschel isch er doch besser.
 
           
-",fuchs-heimlichi-lieb,14,2,0.42329537240316145,0.14285714285714285
+",69,fuchs-heimlichi-lieb,14,2,0.42329537240316145,0.14285714285714285
 280,drama,De Schultz,M,,,,"
             
 SCHULTZ:
@@ -2604,7 +2604,7 @@ SCHULTZ:
 Was wäisch doch dü devon, dü mach’sch jo nix wie Burlegieges.
 
           
-",fuchs-heimlichi-lieb,12,1,0.3781503982199164,0.08333333333333333
+",70,fuchs-heimlichi-lieb,12,1,0.3781503982199164,0.08333333333333333
 281,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2614,7 +2614,7 @@ Ich? Hoh — wann dü schun gedrunke hatt’sch was ich.
 (Sie komme in d’ Hitz.)
 
           
-",fuchs-heimlichi-lieb,18,3,0.5206338094036619,0.16666666666666666
+",70,fuchs-heimlichi-lieb,18,3,0.5206338094036619,0.16666666666666666
 282,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -2624,7 +2624,7 @@ Stritte öjch nit, — ich findt, de Wien, — in Manschehütt gschüett’t un 
 (Alli drinke ’s Glas leer.)
 
           
-",fuchs-heimlichi-lieb,29,3,0.5088124497305527,0.10344827586206896
+",70,fuchs-heimlichi-lieb,29,3,0.5088124497305527,0.10344827586206896
 283,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER :
@@ -2638,7 +2638,7 @@ Allez, ihr Müsikante, jetz spiele emole e Stüeckel.
 : Nodhare schmeckt ’s Asse widder besser.
 
           
-",fuchs-heimlichi-lieb,31,1,0.6460709338525759,0.03225806451612903
+",70,fuchs-heimlichi-lieb,31,1,0.6460709338525759,0.03225806451612903
 286,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2647,7 +2647,7 @@ CHRISCHTEL:
 Diss isch allewaj diss Stüeckel, wo vorig Johr so weni Garscht hett gann.
 
           
-",fuchs-heimlichi-lieb,14,1,0.5311555130794368,0.07142857142857142
+",71,fuchs-heimlichi-lieb,14,1,0.5311555130794368,0.07142857142857142
 287,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ :
@@ -2659,7 +2659,7 @@ LANZ :
 Lüej, Xaveri, derte ’s Phrosin, diss ward so ebs fur dich. XAVIER: Sie hett mi biem ganze Ase angelacht, so siess wie e Hafe voll Sürmilich.
 
           
-",fuchs-heimlichi-lieb,35,7,0.5299120175261584,0.2
+",71,fuchs-heimlichi-lieb,35,7,0.5299120175261584,0.2
 288,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2668,7 +2668,7 @@ LANZ:
 Mir han mit sine Litt so witt geredd.
 
           
-",fuchs-heimlichi-lieb,9,1,0.4325414798834772,0.1111111111111111
+",72,fuchs-heimlichi-lieb,9,1,0.4325414798834772,0.1111111111111111
 290,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2677,7 +2677,7 @@ LANZ:
 An de 20 Acker uff’s wenigscht.
 
           
-",fuchs-heimlichi-lieb,8,2,0.5732707399417386,0.25
+",72,fuchs-heimlichi-lieb,8,2,0.5732707399417386,0.25
 292,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -2686,7 +2686,7 @@ LANZ:
 Dratt e Mole äne mit ere. Awer dü müeh’sch’s äui zäje, ass de se hieroode witt.
 
           
-",fuchs-heimlichi-lieb,18,1,0.4325414798834772,0.05555555555555555
+",73,fuchs-heimlichi-lieb,18,1,0.4325414798834772,0.05555555555555555
 293,drama,Xavier,M,,,,"
             
 XAVERI:
@@ -2696,7 +2696,7 @@ Ich wills ere schun ze gschbiere gann, — ich will se hewe, ass ere d' Knoche i
 (D’ Müsikante sin erinkomme, hann sich an de Hin- derwand uffgstellt, de Disch isch eweg gerutscht worre, de Chrischtel isch mit gerutscht for widdersch ze esse.)
 
           
-",fuchs-heimlichi-lieb,50,5,0.5081378999330968,0.1
+",73,fuchs-heimlichi-lieb,50,5,0.5081378999330968,0.1
 294,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -2705,7 +2705,7 @@ STAWALDER:
 Spiele jetz äns, was köenne ’ner?
 
           
-",fuchs-heimlichi-lieb,7,1,0.6460709338525759,0.14285714285714285
+",73,fuchs-heimlichi-lieb,7,1,0.6460709338525759,0.14285714285714285
 296,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -2714,7 +2714,7 @@ STAWALDER:
 Kenne-n-er au de Rutsch hin — Rutsch her?
 
           
-",fuchs-heimlichi-lieb,11,1,0.1342249255858618,0.09090909090909091
+",74,fuchs-heimlichi-lieb,11,1,0.1342249255858618,0.09090909090909091
 297,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 FISSELBOEJE:
@@ -2724,7 +2724,7 @@ Ja nadierli. — Allez, une, deux.
 (Stawalder engagiert d' Schiltze, de Schultz d' Mej etc. Sie danze, als ob se de Dielebodde wodde indrette un krische un jüchse.)
 
           
-",fuchs-heimlichi-lieb,31,7,0.5555870647066785,0.22580645161290322
+",74,fuchs-heimlichi-lieb,31,7,0.5555870647066785,0.22580645161290322
 298,drama,De Growechrischtel,F,,,,"
             
 CHRISCHTEL:
@@ -2739,7 +2739,7 @@ Ihr kenne daönze, ech hab noch Hunger.
  — RIDEAU. —
 
           
-",fuchs-heimlichi-lieb,69,8,0.574268790429269,0.11594202898550725
+",74,fuchs-heimlichi-lieb,69,8,0.574268790429269,0.11594202898550725
 299,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -2751,7 +2751,7 @@ Gredel, loss diss Griene jetz. Mir wisse jo, dü dhüesch’s for uns, unn wann 
 .
 
           
-",fuchs-heimlichi-lieb,85,13,0.6482241140499101,0.15294117647058825
+",74,fuchs-heimlichi-lieb,85,13,0.6482241140499101,0.15294117647058825
 300,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -2762,7 +2762,7 @@ VADDER:
  — — e Bür — — un lahm!
 
           
-",fuchs-heimlichi-lieb,127,14,0.647273200964644,0.11023622047244094
+",75,fuchs-heimlichi-lieb,127,14,0.647273200964644,0.11023622047244094
 301,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -2771,7 +2771,7 @@ GREDEL:
 Still, Vadder, still.
 
           
-",fuchs-heimlichi-lieb,4,3,0.6570817874533817,0.75
+",75,fuchs-heimlichi-lieb,4,3,0.6570817874533817,0.75
 302,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -2782,7 +2782,7 @@ Un danksch an dini Mieder, wo die lange Johre hare gschafft hett for drej un nie
 .
 
           
-",fuchs-heimlichi-lieb,33,6,0.6831874105835313,0.18181818181818182
+",75,fuchs-heimlichi-lieb,33,6,0.6831874105835313,0.18181818181818182
 303,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -2791,7 +2791,7 @@ VADDER:
 Ja, Mieder, ja, ich wäiss, dü witt nit, ass mr devon red. Drum bliewe mir do, was soll ich lahmer Mansch im Hochzittstrüwel, un dini Mieder will nit gehn ohne mich. Es dhat sie doch nix fräie. Un jetzt Gredel, drüeckel die Drahne. As isch e alter Bürespruch: Trü- richi Hochzittere, glüecklichi Fräuj.
 
           
-",fuchs-heimlichi-lieb,55,10,0.717224062545357,0.18181818181818182
+",75,fuchs-heimlichi-lieb,55,10,0.717224062545357,0.18181818181818182
 304,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -2800,7 +2800,7 @@ GREDEL:
 Ich wäiss nit, wie i’s üsshalt ohne öjch. Ach, ’s Harz isch mr jo so schwar. I mähn grad, im muess üss dr Walt.
 
           
-",fuchs-heimlichi-lieb,26,3,0.6166331034089269,0.11538461538461539
+",76,fuchs-heimlichi-lieb,26,3,0.6166331034089269,0.11538461538461539
 305,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -2810,7 +2810,7 @@ Im Stowolder, dim Hochzitter, sini Litt, ware bal do sin, dich aazehole, komme, 
 (Sie rolle de Vadder rechts ab.)
 
           
-",fuchs-heimlichi-lieb,28,4,0.733229887954379,0.14285714285714285
+",76,fuchs-heimlichi-lieb,28,4,0.733229887954379,0.14285714285714285
 306,drama,Lissel,F,,,,"
             
 LISSEL:
@@ -2819,7 +2819,7 @@ LISSEL:
 ’s Hochzittshamb. Alli vier platze erüss mit kittere.
 
           
-",fuchs-heimlichi-lieb,9,1,0.299308712844291,0.1111111111111111
+",76,fuchs-heimlichi-lieb,9,1,0.299308712844291,0.1111111111111111
 307,drama,Rosel,F,,,,"
             
 ROSEL:
@@ -2828,7 +2828,7 @@ ROSEL:
 Ich wott meh Spitze an de Wäsch.
 
           
-",fuchs-heimlichi-lieb,8,1,0.149,0.125
+",76,fuchs-heimlichi-lieb,8,1,0.149,0.125
 308,drama,Lissel,F,,,,"
             
 LISSEL:
@@ -2837,7 +2837,7 @@ LISSEL:
 Diss isch doch schöeni Wäsch, ich hab se halfe packe, Prachtswäsch isch diss.
 
           
-",fuchs-heimlichi-lieb,14,2,0.7809991638989386,0.14285714285714285
+",77,fuchs-heimlichi-lieb,14,2,0.7809991638989386,0.14285714285714285
 309,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2847,7 +2847,7 @@ D’ Wäsch ward mir gaönz egal, ich wodd vor allem e jüengere Hochzitter, was
 (Sie kittere widder.)
 
           
-",fuchs-heimlichi-lieb,30,3,0.6617987621404756,0.1
+",77,fuchs-heimlichi-lieb,30,3,0.6617987621404756,0.1
 310,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2857,7 +2857,7 @@ Un King wodd ich, e gaönze Disch voll King.
 (Lissel un Lenel platze erüss.)
 
           
-",fuchs-heimlichi-lieb,17,2,0.20754114743849686,0.11764705882352941
+",77,fuchs-heimlichi-lieb,17,2,0.20754114743849686,0.11764705882352941
 312,drama,Evel,F,,,,"
             
 EVEL:
@@ -2866,7 +2866,7 @@ EVEL:
 Wisse-n-ihr dann, wie’s im Gredel zue Müet isch? Ich wäiss es, ’s geht em wie mir’s in de Schuel gelehrt han: Sie stehet mit Seufzern auf und leget sich mit Weinen nieder. Und verschmachtet an dem Felsbrocken auf ihrer Brust. Un ihr? Ihr amesiere öjch noch driwer.
 
           
-",fuchs-heimlichi-lieb,52,5,0.5616557747666088,0.09615384615384616
+",78,fuchs-heimlichi-lieb,52,5,0.5616557747666088,0.09615384615384616
 313,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2875,7 +2875,7 @@ LENEL:
 Mr mäne’s jo nit so. Mir bedüre ’s Gredel äui.
 
           
-",fuchs-heimlichi-lieb,12,1,0.135,0.08333333333333333
+",78,fuchs-heimlichi-lieb,12,1,0.135,0.08333333333333333
 314,drama,Rosel,F,,,,"
             
 ROSEL:
@@ -2884,7 +2884,7 @@ ROSEL:
 Still, ’s kommt.
 
           
-",fuchs-heimlichi-lieb,4,1,0.5843859837527715,0.25
+",78,fuchs-heimlichi-lieb,4,1,0.5843859837527715,0.25
 315,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -2896,7 +2896,7 @@ GREDEL :
 Diss isch jetz natt von öjch, ass er noch komme sin.
 
           
-",fuchs-heimlichi-lieb,20,2,0.6637867317627599,0.1
+",78,fuchs-heimlichi-lieb,20,2,0.6637867317627599,0.1
 316,drama,Lissel,F,,,,"
             
 LISSEL:
@@ -2905,7 +2905,7 @@ LISSEL:
 D’ vorne biem Schmidd sin d' Burscht bienand un lade d' Sackbuffer un d' Flinte. Diss gitt e Gekrach’s wann er durichfahre.
 
           
-",fuchs-heimlichi-lieb,24,2,0.5280312675340055,0.08333333333333333
+",79,fuchs-heimlichi-lieb,24,2,0.5280312675340055,0.08333333333333333
 317,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2914,7 +2914,7 @@ LENEL:
 Ja, han se gsäit, wann ’s Gredel äui kenne von üns gewellt hett, ze söells doch sine ord’tliche Adjeh be- kumme.
 
           
-",fuchs-heimlichi-lieb,23,3,0.4728360069357267,0.13043478260869565
+",79,fuchs-heimlichi-lieb,23,3,0.4728360069357267,0.13043478260869565
 318,drama,Rosel,F,,,,"
             
 ROSEL:
@@ -2923,7 +2923,7 @@ ROSEL:
 Un d' Bas Lehn un 's Barrischuehmachers un ’s Schie- rejockels, öjri ganz Frindschaft hett schun angspanne, un warde drüsse am Ingang vom Dorf uf em Stowolder sini Litt un wanner durichfahre, fahre se mit. E stolzi Begläitung züem Dorf nüss bekommsch noch, Gredel *).
 
           
-",fuchs-heimlichi-lieb,48,6,0.7408797032740706,0.125
+",79,fuchs-heimlichi-lieb,48,6,0.7408797032740706,0.125
 319,drama,E Büe,M,,,,"
             
 BUE :
@@ -2937,7 +2937,7 @@ E Sie komme, sie komme.
 .
 
           
-",fuchs-heimlichi-lieb,20,4,0.48941312855280106,0.2
+",79,fuchs-heimlichi-lieb,20,4,0.48941312855280106,0.2
 321,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2952,7 +2952,7 @@ Käiwe Bue.
             
 
           
-",fuchs-heimlichi-lieb,31,1,0.714,0.03225806451612903
+",80,fuchs-heimlichi-lieb,31,1,0.714,0.03225806451612903
 322,drama,Lissel,F,,,,"
             
 LISSEL:
@@ -2961,7 +2961,7 @@ LISSEL:
 Doch komme sie, dert an de Kirich kommt e Wäuje um de Kehr, geziert, so gross ar isch un d' Ross han Blueme un Bandel am Gschirr.
 
           
-",fuchs-heimlichi-lieb,28,4,0.615888584994355,0.14285714285714285
+",80,fuchs-heimlichi-lieb,28,4,0.615888584994355,0.14285714285714285
 323,drama,Rosel,F,,,,"
             
 ROSEL:
@@ -2971,7 +2971,7 @@ Jetz, Gredel, jetz wurds Arnscht. Lab wohl, Gredel.
 (Sie falle ere um de Hals.)
 
           
-",fuchs-heimlichi-lieb,17,4,0.6225272316174006,0.23529411764705882
+",80,fuchs-heimlichi-lieb,17,4,0.6225272316174006,0.23529411764705882
 324,drama,Evel,F,,,,"
             
 EVEL:
@@ -2980,7 +2980,7 @@ EVEL:
 Un blie mr gsund.
 
           
-",fuchs-heimlichi-lieb,5,1,0.888,0.2
+",81,fuchs-heimlichi-lieb,5,1,0.888,0.2
 325,drama,Lissel,F,,,,"
             
 LISSEL:
@@ -2989,7 +2989,7 @@ LISSEL:
 Un loss drs gued gehn.
 
           
-",fuchs-heimlichi-lieb,6,2,0.575123752006663,0.3333333333333333
+",81,fuchs-heimlichi-lieb,6,2,0.575123752006663,0.3333333333333333
 326,drama,Lenel,F,,,,"
             
 LENEL:
@@ -2999,7 +2999,7 @@ Vegass uns nit, vegass uns nit.
 (Sie umarme un ve- schmutze ’s Gredel.)
 
           
-",fuchs-heimlichi-lieb,17,1,0.9102533610225078,0.058823529411764705
+",81,fuchs-heimlichi-lieb,17,1,0.9102533610225078,0.058823529411764705
 327,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3011,7 +3011,7 @@ GREDEL :
 Ich bsüech ejch ball.
 
           
-",fuchs-heimlichi-lieb,9,3,0.5049961548840901,0.3333333333333333
+",81,fuchs-heimlichi-lieb,9,3,0.5049961548840901,0.3333333333333333
 328,drama,Evel,F,,,,"
             
 EVEL:
@@ -3022,7 +3022,7 @@ Komm, ich half dr d' Kapp uffsetze.
  VADDER, MUEDER, komme bal druff von rächts, Sundi ange- zöje. D’ Mueder druckt de Vadder uff sim Stuehl, d' Kamerädle helfe. Uffrejung. Mr höert schiesse.
 
           
-",fuchs-heimlichi-lieb,40,11,0.6520771582418315,0.275
+",82,fuchs-heimlichi-lieb,40,11,0.6520771582418315,0.275
 329,drama,Hochzittslaader,M,,,,"
             
 HOCHZITTLADER:
@@ -3035,7 +3035,7 @@ De Hochzitter hett dran ghalte, noch e Mole alles uff d' Hochzitt ze lade.
 (Er geht erum un gitt jedem d' Hand.)
 
           
-",fuchs-heimlichi-lieb,48,7,0.681926378583131,0.14583333333333334
+",82,fuchs-heimlichi-lieb,48,7,0.681926378583131,0.14583333333333334
 330,drama,E Büe,M,,,,"
             
 EINER VON DE BUERE:
@@ -3044,7 +3044,7 @@ EINER VON DE BUERE:
 Ich gläub, dü bisch Handlanger worre, Schang?
 
           
-",fuchs-heimlichi-lieb,11,1,0.8294008769580371,0.09090909090909091
+",82,fuchs-heimlichi-lieb,11,1,0.8294008769580371,0.09090909090909091
 331,drama,Hochzittslaader,M,,,,"
             
 HOCHZITTLADER:
@@ -3057,7 +3057,7 @@ Werte un geliebte Fräindschaft, Fräinde, Nachbarn und Bekannte. Die Uenderzäi
  Aeinladung mit der innigschten Bitte, sie wollen ünsern Ehrendag mit eurer Arschäinung zieren helfen. Für die Fraindschaft warden wir üns zäitlabens dankbar ar- wäisen. Wir bläiben äier ergäbenschtes Bräuitpaar Martin Lenhardt, genannt Stawalder, Hochzäiter, Margareta Lips, Hochzäiterin.
 
           
-",fuchs-heimlichi-lieb,98,16,0.7840361275763909,0.16326530612244897
+",82,fuchs-heimlichi-lieb,98,16,0.7840361275763909,0.16326530612244897
 332,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -3066,7 +3066,7 @@ VADDER:
 Bravo, Bravo.
 
           
-",fuchs-heimlichi-lieb,3,1,0.8024733948546023,0.3333333333333333
+",83,fuchs-heimlichi-lieb,3,1,0.8024733948546023,0.3333333333333333
 333,drama,'s Lipse Vadder,M,,,,"
             
 ALLI:
@@ -3077,7 +3077,7 @@ Bravo, gued geredd, ja ja, de Schang, ar kanns. JEAN
 .
 
           
-",fuchs-heimlichi-lieb,21,5,0.7944379322810449,0.23809523809523808
+",83,fuchs-heimlichi-lieb,21,5,0.7944379322810449,0.23809523809523808
 334,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -3088,7 +3088,7 @@ Dü bisch dr Schang, ’s Stawalders Sohn
 .
 
           
-",fuchs-heimlichi-lieb,19,2,0.8374516050375946,0.10526315789473684
+",83,fuchs-heimlichi-lieb,19,2,0.8374516050375946,0.10526315789473684
 335,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3097,7 +3097,7 @@ JEAN:
 Ja, de Vadder losst ejch viel Mol grüesse un saue, ihr solle sicher sin, ’s Gredel wurd als sini Frau allewiel hoch eschtimiert sin, un nit ihr, nit es, wäre sich je beklaue kenne, ass ihr ’s em gänn han als sini Frau. Wie ’s üssgemacht isch gsin, kommt er nit sälwer, ’s Gredel hole, un es dhuet em arig leid, ass ihr nit au mit komme. Wenn ihr ejch doch entschlosse han, —- er hett mirs extra gsat, — von alle Hochzittsgäscht sin ihr em d' liebschte nod.
 
           
-",fuchs-heimlichi-lieb,91,10,0.619827647782871,0.10989010989010989
+",83,fuchs-heimlichi-lieb,91,10,0.619827647782871,0.10989010989010989
 336,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -3111,7 +3111,7 @@ Mir danke d'r, Jean, un äui dim Vadder, viel Mols ‚ viel Mols. ’s Gredel is
 .
 
           
-",fuchs-heimlichi-lieb,42,6,0.6949695613005938,0.14285714285714285
+",84,fuchs-heimlichi-lieb,42,6,0.6949695613005938,0.14285714285714285
 337,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -3123,7 +3123,7 @@ Do isch ’s Stowolders Jean un will di hole.
 (Paus.)
 
           
-",fuchs-heimlichi-lieb,37,7,0.608712532355619,0.1891891891891892
+",84,fuchs-heimlichi-lieb,37,7,0.608712532355619,0.1891891891891892
 339,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3137,7 +3137,7 @@ Ja.
             
 
           
-",fuchs-heimlichi-lieb,5,1,0.731982479119855,0.2
+",84,fuchs-heimlichi-lieb,5,1,0.731982479119855,0.2
 340,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3146,7 +3146,7 @@ JEAN:
 Ich — soll — dich grüesse — vom Vadder — un dir saue — ass er uff dich wart un dich hoch in Ehre halte will — — —
 
           
-",fuchs-heimlichi-lieb,30,7,0.6424313468961955,0.23333333333333334
+",85,fuchs-heimlichi-lieb,30,7,0.6424313468961955,0.23333333333333334
 341,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -3159,7 +3159,7 @@ Un jetzt ihr Litt, dhuen uns d' Ehr an un drinke äns, ’s isch drüsse in de S
 (Er wurd nüssgfahre.)
 
           
-",fuchs-heimlichi-lieb,39,6,0.7308437981157797,0.15384615384615385
+",85,fuchs-heimlichi-lieb,39,6,0.7308437981157797,0.15384615384615385
 342,drama,'s Lipse Mieder,M,,,,"
             
 MUEDER:
@@ -3174,7 +3174,7 @@ Komme mit mir un lohn’s i gschmecke
 .
 
           
-",fuchs-heimlichi-lieb,44,7,0.6433579219297532,0.1590909090909091
+",85,fuchs-heimlichi-lieb,44,7,0.6433579219297532,0.1590909090909091
 343,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3192,7 +3192,7 @@ Dü, dü bisch ’s Gredel! Dü? Dü hesch min Herz, dü hesch mir Daa un Nacht 
 : Nein, sie han nit gelöje.
 
           
-",fuchs-heimlichi-lieb,126,8,0.6481765011946996,0.06349206349206349
+",85,fuchs-heimlichi-lieb,126,8,0.6481765011946996,0.06349206349206349
 344,drama,'s Stawalders Jean,M,,,,"
             
 JEAN  :
@@ -3218,7 +3218,7 @@ Gredel, Gredel! GREDEL
             
 
           
-",fuchs-heimlichi-lieb,143,24,0.5885409074199716,0.16783216783216784
+",86,fuchs-heimlichi-lieb,143,24,0.5885409074199716,0.16783216783216784
 345,drama,Evel,F,,,,"
             
 EVEL:
@@ -3227,7 +3227,7 @@ EVEL:
 Huh, isch diss jetz awer schnall gange. Wie bläich ’s Gredel isch.
 
           
-",fuchs-heimlichi-lieb,13,2,0.413226480854758,0.15384615384615385
+",86,fuchs-heimlichi-lieb,13,2,0.413226480854758,0.15384615384615385
 347,drama,Lenel,F,,,,"
             
 LENEL:
@@ -3238,7 +3238,7 @@ Lüej, lüej, ”s Ross geht ene durich. Er wurd nimm Mäischter driwer. Halfe, 
  Fahre ’n-em noch.
 
           
-",fuchs-heimlichi-lieb,33,3,0.6658616369177387,0.09090909090909091
+",86,fuchs-heimlichi-lieb,33,3,0.6658616369177387,0.09090909090909091
 348,drama,Evel,F,,,,"
             
 EVEL :
@@ -3253,7 +3253,7 @@ Diss fangt schlacht an. Adjeh min Gredel.
 (Rideau.)
 
           
-",fuchs-heimlichi-lieb,21,3,0.3419206398139008,0.14285714285714285
+",87,fuchs-heimlichi-lieb,21,3,0.3419206398139008,0.14285714285714285
 349,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3266,7 +3266,7 @@ Verirrt, verirrt im Schnee. D’ andere sin witt zeruck, ich hab geglaubt, ich f
 (sitzt uff em e Felsstüeck.
 
           
-",fuchs-heimlichi-lieb,54,7,0.5042555042469836,0.12962962962962962
+",87,fuchs-heimlichi-lieb,54,7,0.5042555042469836,0.12962962962962962
 350,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3278,7 +3278,7 @@ Un doch bedür ich nix. So bin’ ich doch mit dir ellein
  Un wie e endlos leeri Reih von leere Däj kommt mir min Läwe bis jetz vor. Däj, Wuche, Monet, Johr, sie sin mir durich d' Händ gerollt grad wie e Kett üss wiss un schwarze Gralle. Jetz isch die Kett verrisse und alles küllert durichenand. Jetz wach ich uff, jetz isch mir alles klor, de ganze Wäj hetts in mir schun gebrüst un gstüermt, jetz müess i’s saue, un wenn ich’s in de Schneesturm ruef: Gredel, Gredel, ich hab dich gern, schun zitter zällemols, wo dü mir gejenüewer gsässe bisch, schun zitte zälle Däi wo mir uns gsähne han am Dracheschlössel. Die Lieb wo zällemols schun in mir gebrennt hett, stäriker un heisser isch sie uff- gflammt hitt, wo ich dich widerfind. Ich weiss nix meh, ich denk nix meh, gejaut von Lieb, vom heisse Bluet un vom Velange noch dir bliehjt d' rot Ros Liedeschaft mir üss dem Schnee.
 
           
-",fuchs-heimlichi-lieb,235,33,0.5234358471820731,0.14042553191489363
+",87,fuchs-heimlichi-lieb,235,33,0.5234358471820731,0.14042553191489363
 351,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3287,7 +3287,7 @@ GREDEL:
 Lonn mich, lonn mich, wo sin m’r?
 
           
-",fuchs-heimlichi-lieb,8,2,0.2778176887927389,0.25
+",87,fuchs-heimlichi-lieb,8,2,0.2778176887927389,0.25
 352,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3299,7 +3299,7 @@ JEAN :
 Verirrt, mittles im Schnee, mittles im Wald, mir zwei ellein.
 
           
-",fuchs-heimlichi-lieb,15,2,0.49975784039538723,0.13333333333333333
+",88,fuchs-heimlichi-lieb,15,2,0.49975784039538723,0.13333333333333333
 353,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3308,7 +3308,7 @@ GREDEL:
 Mir zwäi ellän, mir zwäi ellän? Gehn, Jean, lohn mich.
 
           
-",fuchs-heimlichi-lieb,11,1,0.6125707616770975,0.09090909090909091
+",88,fuchs-heimlichi-lieb,11,1,0.6125707616770975,0.09090909090909091
 354,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3319,7 +3319,7 @@ Ich, gehn? Ich kann nit gehn, Ich kann au nit stille sin. Geh, sa im Bach, wenn 
 .
 
           
-",fuchs-heimlichi-lieb,151,16,0.6947175394125058,0.10596026490066225
+",88,fuchs-heimlichi-lieb,151,16,0.6947175394125058,0.10596026490066225
 355,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3333,7 +3333,7 @@ Jean, dank doch an mich, an mini Eldre, an dine Vadder.
             
 
           
-",fuchs-heimlichi-lieb,22,3,0.7863612188646082,0.13636363636363635
+",88,fuchs-heimlichi-lieb,22,3,0.7863612188646082,0.13636363636363635
 356,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3342,7 +3342,7 @@ JEAN:
 Mir isch’s, als ob von je un je min Herz dich gsüecht hätt, un als ob alles Heimweh, wo mir im Herz gebrennt hett, dir gegolte hätt, nur dir. Un ich sott jetz zeruckstehn?? Sott mich andere opfere? Ich will min Rächt, ich will min aje Läwe läwe wie jeder in de Welt.
 
           
-",fuchs-heimlichi-lieb,55,8,0.6314420322643854,0.14545454545454545
+",89,fuchs-heimlichi-lieb,55,8,0.6314420322643854,0.14545454545454545
 357,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3354,7 +3354,7 @@ GREDEL :
 E grossi Stille isch um uns. D’ Nacht wo am Himmel hängt, lejt schwer un schwarz, grad wie e grossi Füscht uff mir. Kenn Starne züend in ünsri Finschternis. Durich de Winterwald schüettelt sich wild de Schnee do hare. Do setz di ane, Jean, zue mir. Ich will mich an dich lahne un hab e so e gross Vetröje in dich, als ob ich uff em Meer mich im e grosse Schiff vetröje dat.
 
           
-",fuchs-heimlichi-lieb,86,11,0.6001746004649102,0.12790697674418605
+",89,fuchs-heimlichi-lieb,86,11,0.6001746004649102,0.12790697674418605
 358,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3363,7 +3363,7 @@ JEAN:
 Ja, Gredel, dü hesch rächt. Ich bin grad wie e Schiffsmann, wo’s Rueder hett veloore uff em Meer un jetz im Sturm erumtriebt. So trieb ich uff dem dunkle See von dere Nacht au ohne Rueder uf dem Meer von Gfuehl un Lieb.
 
           
-",fuchs-heimlichi-lieb,45,11,0.6211192421833936,0.24444444444444444
+",89,fuchs-heimlichi-lieb,45,11,0.6211192421833936,0.24444444444444444
 363,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3375,7 +3375,7 @@ GREDEL :
 Ja, mit dir, mit dir, ja.
 
           
-",fuchs-heimlichi-lieb,12,2,0.731982479119855,0.16666666666666666
+",90,fuchs-heimlichi-lieb,12,2,0.731982479119855,0.16666666666666666
 364,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3390,7 +3390,7 @@ Gredel, ich möecht de Schnee dr von de Lippel schmutze, nit meh, ass mr e Ros s
 (De Mond kommt silwerich üss de Wolike.)
 
           
-",fuchs-heimlichi-lieb,36,2,0.7796294971439663,0.05555555555555555
+",91,fuchs-heimlichi-lieb,36,2,0.7796294971439663,0.05555555555555555
 365,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3406,7 +3406,7 @@ Nein! Töisigmol nein! Diss isch kenn End, diss isch e Anfang vom Läwe.
             
 
           
-",fuchs-heimlichi-lieb,63,15,0.6699612654836347,0.23809523809523808
+",91,fuchs-heimlichi-lieb,63,15,0.6699612654836347,0.23809523809523808
 366,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3415,7 +3415,7 @@ GREDEL:
 Ich kann nit, loss mich do.
 
           
-",fuchs-heimlichi-lieb,7,1,0.2778176887927389,0.14285714285714285
+",91,fuchs-heimlichi-lieb,7,1,0.2778176887927389,0.14285714285714285
 367,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3424,7 +3424,7 @@ JEAN:
 De Schnee höert uff, wittlos sieh ich e Licht. ’s isch ’s Hüss vom Unkel Franz.
 
           
-",fuchs-heimlichi-lieb,17,4,0.6356305716750061,0.23529411764705882
+",91,fuchs-heimlichi-lieb,17,4,0.6356305716750061,0.23529411764705882
 368,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3436,7 +3436,7 @@ GREDEL :
 Loss mich do bliewe, Jean, loss mich do im Schnee. Geh, geh, üss Mitlied oder üss Lieb, geh!
 
           
-",fuchs-heimlichi-lieb,29,4,0.4037192276411695,0.13793103448275862
+",92,fuchs-heimlichi-lieb,29,4,0.4037192276411695,0.13793103448275862
 369,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3445,7 +3445,7 @@ JEAN:
 Komm, Gredel, komm. Witt macht uns ’s Läwe ’s Dhor uff. Blueme un Kränz un ’s Früehjohr wart uff uns.
 
           
-",fuchs-heimlichi-lieb,21,8,0.663930358139242,0.38095238095238093
+",92,fuchs-heimlichi-lieb,21,8,0.663930358139242,0.38095238095238093
 370,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3455,7 +3455,7 @@ Zeruck jetzt nä, ich kann nit.
 (Sie schlat d' Händ vor ’s Gsicht.)
 
           
-",fuchs-heimlichi-lieb,16,1,0.590952176462202,0.0625
+",92,fuchs-heimlichi-lieb,16,1,0.590952176462202,0.0625
 371,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3465,7 +3465,7 @@ Lüej derte ’s Licht. De Sterne in de Nacht. Nurr e par Schritt un mir sin dor
 (Er zejt sie züe sich.)
 
           
-",fuchs-heimlichi-lieb,25,2,0.7187029587538998,0.08
+",92,fuchs-heimlichi-lieb,25,2,0.7187029587538998,0.08
 372,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3475,7 +3475,7 @@ Nä, Jean. Nä, nä. Oh.
 (Sie sinkt ohnmächtig Jean in d’Aerm.)
 
           
-",fuchs-heimlichi-lieb,15,1,0.333,0.06666666666666667
+",93,fuchs-heimlichi-lieb,15,1,0.333,0.06666666666666667
 373,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3488,7 +3488,7 @@ Franz, heh, Unkel Franz.
 (Verwandlung bie offener Scène oder Zwischeaktsvorhang.)
 
           
-",fuchs-heimlichi-lieb,20,4,0.5037292265758938,0.2
+",93,fuchs-heimlichi-lieb,20,4,0.5037292265758938,0.2
 374,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3509,7 +3509,7 @@ Unser Leben währet siebenzig Jahre, Und wenn es hoch kommt, so sind es 80 Jahre
             
 
           
-",fuchs-heimlichi-lieb,139,15,0.6111385209126324,0.1079136690647482
+",93,fuchs-heimlichi-lieb,139,15,0.6111385209126324,0.1079136690647482
 375,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3521,7 +3521,7 @@ JEAN :
 Klar wie e Quell uff ere Früch- johrsmatt, zart wie e Lilieblüem glänzt jetz din Gsicht, dr Glanz vom Mond, ’s Wisse vom Schnee isch druff gebliwe.
 
           
-",fuchs-heimlichi-lieb,34,6,0.669415716057193,0.17647058823529413
+",93,fuchs-heimlichi-lieb,34,6,0.669415716057193,0.17647058823529413
 377,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3533,7 +3533,7 @@ JEAN :
 Sie rueft noch mir, noch mir!
 
           
-",fuchs-heimlichi-lieb,14,2,0.6826246798365001,0.14285714285714285
+",94,fuchs-heimlichi-lieb,14,2,0.6826246798365001,0.14285714285714285
 380,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3542,7 +3542,7 @@ UNKEL:
 Ich hol ebs Warms züem drinke.
 
           
-",fuchs-heimlichi-lieb,7,1,0.2926402763357111,0.14285714285714285
+",95,fuchs-heimlichi-lieb,7,1,0.2926402763357111,0.14285714285714285
 381,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3553,7 +3553,7 @@ Ja, ja.
 : Gredel, mach dini Aue uff un loss in ihrem klare Glanz mich untergehn wie im e Meer von Lieb.
 
           
-",fuchs-heimlichi-lieb,28,8,0.6886546571920623,0.2857142857142857
+",95,fuchs-heimlichi-lieb,28,8,0.6886546571920623,0.2857142857142857
 382,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL  :
@@ -3567,7 +3567,7 @@ Lieb — Lieb. —
 : Ohhh, wo sin mir? Jean, verum hesch mich dann nit im Schnee gelohn? Dert isch’s so schöen gewahn. Aen Aeujesblick bin i glüeckli gewahn. Verum müess i zeruck in ’s Lawe jetz?
 
           
-",fuchs-heimlichi-lieb,64,11,0.7231468889079333,0.171875
+",95,fuchs-heimlichi-lieb,64,11,0.7231468889079333,0.171875
 383,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3579,7 +3579,7 @@ JEAN :
 Redd nit so, Gredel. Sieh’sch, ich bin jung un lüej mit feschtem Blick in d' Zükunft, in ’s Läwe, wo ich for dich uffböje will, for dich, mit dir, an dinere Sitt. Ich sieh die Schwierigkeite un ich weiss, ass ich sie alli zwing, mit dir, un waje dir.
 
           
-",fuchs-heimlichi-lieb,53,6,0.5356361433168843,0.11320754716981132
+",95,fuchs-heimlichi-lieb,53,6,0.5356361433168843,0.11320754716981132
 384,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3591,7 +3591,7 @@ GREDEL :
 Nä, nä.
 
           
-",fuchs-heimlichi-lieb,8,2,0.4193167675565359,0.25
+",96,fuchs-heimlichi-lieb,8,2,0.4193167675565359,0.25
 385,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3605,7 +3605,7 @@ So, un jetzt Jean, saö, was do los isch. Diss isch doch ’s Lipse Gredel, d' H
 .
 
           
-",fuchs-heimlichi-lieb,58,7,0.7408524265917837,0.1206896551724138
+",96,fuchs-heimlichi-lieb,58,7,0.7408524265917837,0.1206896551724138
 386,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3615,7 +3615,7 @@ D’ Ross sin m’r durich uff em Wäj for ham. Ich bin vom rächte Wäj abkomme
  Drum hab i ’s Ross guet zügedeckt, im Schurme ange- bunde un mir han unter de Danne Schutz gsüecht. Wie noch de Mond erüs isch komme, ’s Wetter au nochgelohn hett, bin ich do here mit em Gredel. Un von de Uffre- jung, vom Sturm un Schnee isch’s em schwach worre.
 
           
-",fuchs-heimlichi-lieb,94,13,0.5243811921300938,0.13829787234042554
+",96,fuchs-heimlichi-lieb,94,13,0.5243811921300938,0.13829787234042554
 387,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3627,7 +3627,7 @@ UNKEL :
 Un jetz?
 
           
-",fuchs-heimlichi-lieb,9,2,0.41472104119145803,0.2222222222222222
+",96,fuchs-heimlichi-lieb,9,2,0.41472104119145803,0.2222222222222222
 388,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3639,7 +3639,7 @@ GREDEL :
 Jetz füehre Ihr mich widdersch.
 
           
-",fuchs-heimlichi-lieb,15,1,0.5164786628521122,0.06666666666666667
+",97,fuchs-heimlichi-lieb,15,1,0.5164786628521122,0.06666666666666667
 389,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3651,7 +3651,7 @@ JEAN :
 Wo ane?
 
           
-",fuchs-heimlichi-lieb,6,1,0.7272892855744911,0.16666666666666666
+",97,fuchs-heimlichi-lieb,6,1,0.7272892855744911,0.16666666666666666
 390,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3662,7 +3662,7 @@ Zuem Stowolder, uff d' Hochzitt
 .
 
           
-",fuchs-heimlichi-lieb,11,3,0.7061983745384867,0.2727272727272727
+",97,fuchs-heimlichi-lieb,11,3,0.7061983745384867,0.2727272727272727
 391,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3674,7 +3674,7 @@ JEAN :
 Gredel!!
 
           
-",fuchs-heimlichi-lieb,6,1,0.714,0.16666666666666666
+",97,fuchs-heimlichi-lieb,6,1,0.714,0.16666666666666666
 392,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3683,7 +3683,7 @@ UNKEL:
 Jean? Gredel? Gredel, dü hielsch? So isch’s? Ja, ’s Früehjohr un dr Herbscht sodde nit zamme komme.
 
           
-",fuchs-heimlichi-lieb,19,3,0.685904541124772,0.15789473684210525
+",98,fuchs-heimlichi-lieb,19,3,0.685904541124772,0.15789473684210525
 393,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3692,7 +3692,7 @@ JEAN:
 Gued, Unkel Franz, Ihr sin dr Aeltscht in unserer Familli, un alli gehn, ejch Roots ze fröje. Ich will ejch alles saue. Roote uns noch. — ’s Gredel hett jo im Vadder nurr züegsat wäje ihre Eldere un üssere Umständ. Mir han uns in de Stadt schun kennt ghett un wo mir uns hitt widdergsähne han, isch d' Lieb uff’s Neje uffge- brennt in uns un ich, wo nie vorher e Maidel gärn hab ghett, hab jetz ken anderer Gedanke meh in mir als « Gredel ».
 
           
-",fuchs-heimlichi-lieb,90,10,0.7512793486249594,0.1111111111111111
+",98,fuchs-heimlichi-lieb,90,10,0.7512793486249594,0.1111111111111111
 394,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3704,7 +3704,7 @@ UNKEL :
 Macht au e Brand sich Sorje, verum ar üssgebroche isch? Odder de Bach, verum ar alles üewerschwammt? Un dü, Gredel?
 
           
-",fuchs-heimlichi-lieb,27,2,0.5721931926231463,0.07407407407407407
+",98,fuchs-heimlichi-lieb,27,2,0.5721931926231463,0.07407407407407407
 395,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3716,7 +3716,7 @@ Spare mr d' Antwort. Ich derf min Harz nit redde lohn, ich derf nit. Gitt’s da
 (Sie schlat d' Händ vor ’s Gsicht un schluchzt.)
 
           
-",fuchs-heimlichi-lieb,50,8,0.6592570746793392,0.16
+",98,fuchs-heimlichi-lieb,50,8,0.6592570746793392,0.16
 396,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3728,7 +3728,7 @@ JEAN:
 Gredel, Gredel.
 
           
-",fuchs-heimlichi-lieb,18,1,0.714,0.05555555555555555
+",99,fuchs-heimlichi-lieb,18,1,0.714,0.05555555555555555
 397,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3740,7 +3740,7 @@ UNKEL :
 In mine junge Johre han mr gsunge: Käin Feuer, käine Kohle kann brannen so häiss, Als haimliche Lieb, von dar niemanden wäiss
 
           
-",fuchs-heimlichi-lieb,26,5,0.6175340465499823,0.19230769230769232
+",99,fuchs-heimlichi-lieb,26,5,0.6175340465499823,0.19230769230769232
 398,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -3749,7 +3749,7 @@ JEAN:
 Was han mir denn verschuld’t, ass mir so bitter weh miehn liede?
 
           
-",fuchs-heimlichi-lieb,13,2,0.26814164593110196,0.15384615384615385
+",99,fuchs-heimlichi-lieb,13,2,0.26814164593110196,0.15384615384615385
 399,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3759,7 +3759,7 @@ O Bue, d' Fröj noch de Schuld hett grad so wenni Wart wie Röje. Jetz höere mi
  Dü, Hans, dü wäisch, was d' witt. Dü witt nit schwimme wie ’s Wasser läuft un mit em Kopf witt durich d' Wand. Dü fröjsch noch nix. Doch mit em Gre- del isch’s ebs andersch’s. Ich sieh zwäj Waj for öjch. Dr erscht: ’s Gredel geht morn uff d' Hochzitt un dü, Jean, in d' Framde. Un erscht wann dine Vadder d' Aeuje gschlosse hett, nod köenne ihr öjch widder sahne. Dr zwäit: ’s Gredel fahrt morn zeruck zue sine Litt. Dü fahrsch zue dim Vadder un saöjsch em alles, alles hoor un klän. Ar soll noch saöje, ob ar ’s Gredel frej gitt. Diss isch, was isch ass Uesswaj sieh. Ass isch spoot in dr Nacht. Dü, Jean, gehsch jetz, holsch Ross un Wäuje hare un stell’sch se in de Schopf. Nod schloof’sch dü do am Offe, nawe mim Sassel. Dü, Gredel, schloofsch dowe in minere Kammer, un unsere Harrgott soll dr Kraft un Müet ingann, dann dü hesch morn ze säuje, was gschahne soll.
 
           
-",fuchs-heimlichi-lieb,187,19,0.6240323039855339,0.10160427807486631
+",99,fuchs-heimlichi-lieb,187,19,0.6240323039855339,0.10160427807486631
 401,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3769,7 +3769,7 @@ Kenn Wort meh, Jean. Mach, wie ich gsaöt hab.
 (Zajt em d' Düehr, Hans ab.)
 
           
-",fuchs-heimlichi-lieb,18,1,0.388,0.05555555555555555
+",100,fuchs-heimlichi-lieb,18,1,0.388,0.05555555555555555
 402,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3778,7 +3778,7 @@ UNKEL:
 Komm, Gredel, komm.
 
           
-",fuchs-heimlichi-lieb,4,2,0.5077636222456227,0.5
+",100,fuchs-heimlichi-lieb,4,2,0.5077636222456227,0.5
 403,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3787,7 +3787,7 @@ GREDEL:
 Wie bin ich unglüecklich.
 
           
-",fuchs-heimlichi-lieb,5,1,0.1367222228635606,0.2
+",100,fuchs-heimlichi-lieb,5,1,0.1367222228635606,0.2
 404,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3799,7 +3799,7 @@ Gredel, ich bin jetz 82 Johr alt un hab viel Mansche kannt im Lawe. Un hab viel 
             
 
           
-",fuchs-heimlichi-lieb,144,26,0.6393304797336878,0.18055555555555555
+",101,fuchs-heimlichi-lieb,144,26,0.6393304797336878,0.18055555555555555
 405,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3813,7 +3813,7 @@ Wenn ich mit Menschen und mit Engelzungen redete und hätte der Liebe nicht, so 
 . D’ Lieb isch ’s gross Läid in dare Walt.
 
           
-",fuchs-heimlichi-lieb,50,3,0.7915218999225883,0.06
+",101,fuchs-heimlichi-lieb,50,3,0.7915218999225883,0.06
 406,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3825,7 +3825,7 @@ JEAN :
 ’s isch bsorrit, Unkel Franz.
 
           
-",fuchs-heimlichi-lieb,10,1,0.4743506503545591,0.1
+",101,fuchs-heimlichi-lieb,10,1,0.4743506503545591,0.1
 407,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3837,7 +3837,7 @@ Do, wickel di gued in un rüehj di üss.
 (Ab.)
 
           
-",fuchs-heimlichi-lieb,51,9,0.610926870398973,0.17647058823529413
+",101,fuchs-heimlichi-lieb,51,9,0.610926870398973,0.17647058823529413
 408,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -3852,7 +3852,7 @@ Do will ich dich erwarte. Un d' Stross in d' Züekunft soll mir mit helle Träim
 (Er schlooft.)
 
           
-",fuchs-heimlichi-lieb,92,9,0.7363732692087827,0.09782608695652174
+",102,fuchs-heimlichi-lieb,92,9,0.7363732692087827,0.09782608695652174
 409,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL :
@@ -3866,7 +3866,7 @@ UNKEL :
 .
 
           
-",fuchs-heimlichi-lieb,31,7,0.6307997292310653,0.22580645161290322
+",102,fuchs-heimlichi-lieb,31,7,0.6307997292310653,0.22580645161290322
 410,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3878,7 +3878,7 @@ GREDEL :
 Unkel Franz.
 
           
-",fuchs-heimlichi-lieb,11,1,0.4743506503545591,0.09090909090909091
+",102,fuchs-heimlichi-lieb,11,1,0.4743506503545591,0.09090909090909091
 411,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3887,7 +3887,7 @@ UNKEL:
 Was, Gredel, dü? Bscht still, de Jean schlooft.
 
           
-",fuchs-heimlichi-lieb,9,1,0.5843859837527715,0.1111111111111111
+",102,fuchs-heimlichi-lieb,9,1,0.5843859837527715,0.1111111111111111
 412,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3899,7 +3899,7 @@ GREDEL :
 Ich bitt öjch um alles in de Walt, füehre mich furt, glich, glich.
 
           
-",fuchs-heimlichi-lieb,25,3,0.3959517402122354,0.12
+",103,fuchs-heimlichi-lieb,25,3,0.3959517402122354,0.12
 414,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3911,7 +3911,7 @@ GREDEL :
 Zuem Stowolder.
 
           
-",fuchs-heimlichi-lieb,7,1,0.6351912628004123,0.14285714285714285
+",103,fuchs-heimlichi-lieb,7,1,0.6351912628004123,0.14285714285714285
 416,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3922,7 +3922,7 @@ Ja.
             
 
           
-",fuchs-heimlichi-lieb,2,1,0.731982479119855,0.5
+",104,fuchs-heimlichi-lieb,2,1,0.731982479119855,0.5
 417,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3931,7 +3931,7 @@ UNKEL:
 Fescht, felsefescht entschlosse?
 
           
-",fuchs-heimlichi-lieb,4,1,0.6351912628004123,0.25
+",104,fuchs-heimlichi-lieb,4,1,0.6351912628004123,0.25
 418,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3940,7 +3940,7 @@ GREDEL:
 Ja.
 
           
-",fuchs-heimlichi-lieb,2,1,0.731982479119855,0.5
+",104,fuchs-heimlichi-lieb,2,1,0.731982479119855,0.5
 419,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3949,7 +3949,7 @@ UNKEL:
 Gredel, bedank di gued for dene Schritt ze mache. Er schäid’t for immer dich vom Jean.
 
           
-",fuchs-heimlichi-lieb,17,1,0.872429815220587,0.058823529411764705
+",104,fuchs-heimlichi-lieb,17,1,0.872429815220587,0.058823529411764705
 420,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -3965,7 +3965,7 @@ Ar schlooft un lächelt lies im Traum. Schloof, schloof, noch kommt de Daö nit,
 : Was lejt an mir, nit äne Buechstawe derfe mini Eldre wisse.
 
           
-",fuchs-heimlichi-lieb,90,8,0.5673726777261898,0.08888888888888889
+",105,fuchs-heimlichi-lieb,90,8,0.5673726777261898,0.08888888888888889
 421,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3974,7 +3974,7 @@ UNKEL:
 Ich hab nurr noch e kläne Waj zuem Grab un ich kann stille sin.
 
           
-",fuchs-heimlichi-lieb,15,2,0.43609312517998233,0.13333333333333333
+",105,fuchs-heimlichi-lieb,15,2,0.43609312517998233,0.13333333333333333
 422,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -3986,7 +3986,7 @@ Ich hab de Jean gare, o, dr Harrgott wäiss es, awer ich kann und kann im Vadder
 (Im Fenschter wurd’s gröjer Morje.)
 
           
-",fuchs-heimlichi-lieb,188,23,0.4985235963226504,0.12234042553191489
+",105,fuchs-heimlichi-lieb,188,23,0.4985235963226504,0.12234042553191489
 423,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL:
@@ -3996,7 +3996,7 @@ UNKEL:
 (Unkel geht ab.)
 
           
-",fuchs-heimlichi-lieb,40,3,0.7457808692340887,0.075
+",105,fuchs-heimlichi-lieb,40,3,0.7457808692340887,0.075
 424,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL :
@@ -4014,7 +4014,7 @@ For immer, Jean, lab wohl
 (Gredel lüejt im Nüssgehn als furt uff de Jean. Zue de Dhüer bloost de Wind erin. Mr höert drüsse de Schelle- kranz wittersch un widdersch eweg.)
 
           
-",fuchs-heimlichi-lieb,61,5,0.7189208316888849,0.08196721311475409
+",106,fuchs-heimlichi-lieb,61,5,0.7189208316888849,0.08196721311475409
 425,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4039,7 +4039,7 @@ O süesser Traum, köennt ich dich hewe, blie, blie, farwiger Papillon. Niedisch
 (De Rideau fallt langsam.)
 
           
-",fuchs-heimlichi-lieb,122,17,0.5988179285157904,0.13934426229508196
+",106,fuchs-heimlichi-lieb,122,17,0.5988179285157904,0.13934426229508196
 426,drama,De Herr Notari,M,,,,"
             
 NOTARI :
@@ -4054,7 +4054,7 @@ Contrat de Mariage. — Au nom de la loi — — Herrgott, dass ich awer au mini
 (Er gibt im Stawalder ’s Schriftstüeck.)
 
           
-",fuchs-heimlichi-lieb,75,3,0.7217974935117292,0.04
+",106,fuchs-heimlichi-lieb,75,3,0.7217974935117292,0.04
 428,drama,De Herr Notari,M,,,,"
             
 NOTARI:
@@ -4076,7 +4076,7 @@ Do unde ane, wo ’s Datum isch.
  Diss isch mr jetzt e Nocht ge- wahn. I muess mi setze, ich kann nimmeh uff d’Füess stehn.
 
           
-",fuchs-heimlichi-lieb,98,8,0.4555401416376065,0.08163265306122448
+",107,fuchs-heimlichi-lieb,98,8,0.4555401416376065,0.08163265306122448
 429,drama,De Schultz,M,,,,"
             
 DR SCHULTZ:
@@ -4085,7 +4085,7 @@ DR SCHULTZ:
 I hab dr gsaöt, daönz nit so wiedi. Dü bisch jo nacht grod wie von de Kett gewahn. D’SCHILTZE: Dü, Schultz, werum hett dann diss Küehjbierel de Kopf so vebunge?
 
           
-",fuchs-heimlichi-lieb,33,5,0.4648226908758268,0.15151515151515152
+",107,fuchs-heimlichi-lieb,33,5,0.4648226908758268,0.15151515151515152
 430,drama,De Schultz,M,,,,"
             
 DR SCHULTZ:
@@ -4096,7 +4096,7 @@ De Basche hett mr gsaöt, dar isch die Nacht in de Vollhäit am Platz von de Dh�
  D’SCHILTZE: Aeuj schun uff, Xaveri?
 
           
-",fuchs-heimlichi-lieb,88,11,0.472333295388917,0.125
+",107,fuchs-heimlichi-lieb,88,11,0.472333295388917,0.125
 431,drama,Xavier,M,,,,"
             
 XAVERI:
@@ -4105,7 +4105,7 @@ XAVERI:
 Ja — -— de Vadder mänt, mr sotte-n-is am Sundi anschläuje lohn un in 4 Wuche Hochzitt mooche. D’SCHILTZE: Do sin er also äni mitnang?
 
           
-",fuchs-heimlichi-lieb,30,5,0.669077234746832,0.16666666666666666
+",107,fuchs-heimlichi-lieb,30,5,0.669077234746832,0.16666666666666666
 432,drama,Xavier,M,,,,"
             
 XAVERI:
@@ -4114,7 +4114,7 @@ XAVERI:
 Mir haön’s in Richtigkäit gebrocht die Noocht.
 
           
-",fuchs-heimlichi-lieb,9,1,0.7951085376843741,0.1111111111111111
+",108,fuchs-heimlichi-lieb,9,1,0.7951085376843741,0.1111111111111111
 433,drama,Euphrosine,M,,,,"
             
 EUPHROSINE:
@@ -4124,7 +4124,7 @@ Hi-hi-hi-hi.
 (In däre Zitt isch ’s Underschriewe ferdi worre.)
 
           
-",fuchs-heimlichi-lieb,12,1,0.5505765840004807,0.08333333333333333
+",108,fuchs-heimlichi-lieb,12,1,0.5505765840004807,0.08333333333333333
 434,drama,De Herr Notari,M,,,,"
             
 NOTARI :
@@ -4136,7 +4136,7 @@ NOTARI :
 So un jetz wüensch ich Ihne viel Glüeck in de Ehstand!
 
           
-",fuchs-heimlichi-lieb,21,3,0.6791673202017581,0.14285714285714285
+",108,fuchs-heimlichi-lieb,21,3,0.6791673202017581,0.14285714285714285
 435,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4145,7 +4145,7 @@ STAWALDER:
 Un Sie wöelle-n-uns nit d’Ehr andhüehn, Harr Notari un bie uns ase.
 
           
-",fuchs-heimlichi-lieb,16,2,0.7105062182884374,0.125
+",108,fuchs-heimlichi-lieb,16,2,0.7105062182884374,0.125
 436,drama,De Herr Notari,M,,,,"
             
 NOTARI:
@@ -4156,7 +4156,7 @@ Es geht leider nit. Sie wisse jo, ich bin dodrum so früehj komme, wiel ich in e
             
 
           
-",fuchs-heimlichi-lieb,42,4,0.4342897820841317,0.09523809523809523
+",109,fuchs-heimlichi-lieb,42,4,0.4342897820841317,0.09523809523809523
 437,drama,'s Lipse Vadder,M,,,,"
             
 ALLI:
@@ -4165,7 +4165,7 @@ ALLI:
 Adjeh, Harr Notari, adjeh.
 
           
-",fuchs-heimlichi-lieb,5,3,0.29950794629446836,0.6
+",109,fuchs-heimlichi-lieb,5,3,0.29950794629446836,0.6
 438,drama,'Grosbüre Lanz,M,,,,"
             
 LANZ:
@@ -4175,7 +4175,7 @@ Dar Notari, dar isch besser als ünsere, saller gangt nit zue de Litte ins Hüss
 (Er veliert sich mit de andere Büre im Hintergrund.)
 
           
-",fuchs-heimlichi-lieb,46,5,0.5078907397495889,0.10869565217391304
+",109,fuchs-heimlichi-lieb,46,5,0.5078907397495889,0.10869565217391304
 439,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER :
@@ -4187,7 +4187,7 @@ STAWALDER :
 Isch de Jean als nonitt do?
 
           
-",fuchs-heimlichi-lieb,17,1,0.4743506503545591,0.058823529411764705
+",109,fuchs-heimlichi-lieb,17,1,0.4743506503545591,0.058823529411764705
 440,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL FRANZ:
@@ -4196,7 +4196,7 @@ UNKEL FRANZ:
 Nä, was witt, diss Schneewatter hett em arig züegselzt. Ar isch die Luft halt nit gewohnt wie mir. Wo ich mit em Gredel bie mir dhäm furt bin, hett ar fescht gschloofe.
 
           
-",fuchs-heimlichi-lieb,34,3,0.473549490938604,0.08823529411764706
+",110,fuchs-heimlichi-lieb,34,3,0.473549490938604,0.08823529411764706
 441,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4207,7 +4207,7 @@ Ich hatt ’ne doch nit schicke söelle de Jean. Ich hab im Gredel un sine Lätt
 : Geh, säuj in de Katt, se soll guet warm han üeweral — ich wäiss nit, ’s Gredel isch so bläich.
 
           
-",fuchs-heimlichi-lieb,45,4,0.6305619456259471,0.08888888888888889
+",110,fuchs-heimlichi-lieb,45,4,0.6305619456259471,0.08888888888888889
 443,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4220,7 +4220,7 @@ Un noch ebs Basche. Wann de Jean häme komme dhuet; am beschte glich ins Bett mi
  Mache öjch äui ferdi, Unkel Franz, for mit in d' Kirich ze gehn.
 
           
-",fuchs-heimlichi-lieb,58,5,0.5714246240774378,0.08620689655172414
+",110,fuchs-heimlichi-lieb,58,5,0.5714246240774378,0.08620689655172414
 444,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL FRANZ:
@@ -4230,7 +4230,7 @@ Nän, Stowolder. Die Nacht isch lang ge- wahn. E kläner Nicker schad’t mr nix
 (Setzt sich in de Sessel.)
 
           
-",fuchs-heimlichi-lieb,24,4,0.42028668179019135,0.16666666666666666
+",111,fuchs-heimlichi-lieb,24,4,0.42028668179019135,0.16666666666666666
 445,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4242,7 +4242,7 @@ Ze welle mr.
 (komme von hinde, bliewe an de Dhüer stehn. Alli andere stelle sich ze Päärle. Es gitt e bissel Durichenander; es wurd geruefe: «Mej, geh’sch do hare!» — «Schulz, mach fuerschi !» etc. Au de Fritzel geht mit.)
 
           
-",fuchs-heimlichi-lieb,57,3,0.4846269811277684,0.05263157894736842
+",111,fuchs-heimlichi-lieb,57,3,0.4846269811277684,0.05263157894736842
 446,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4261,7 +4261,7 @@ Komm jetzt Gredel. As dhuet mr arig läid, ass dine Vadder un dini Mueder fahle.
 .
 
           
-",fuchs-heimlichi-lieb,101,16,0.5902256671426451,0.15841584158415842
+",111,fuchs-heimlichi-lieb,101,16,0.5902256671426451,0.15841584158415842
 447,drama,Katt,M,,,,"
             
 KATT :
@@ -4273,7 +4273,7 @@ KATT :
 Doo gehn se jetz in d’ Kirich. Wann jetz de Jean grad d' Stross era kamt, war’s doch dumm.
 
           
-",fuchs-heimlichi-lieb,29,2,0.474905472634179,0.06896551724137931
+",111,fuchs-heimlichi-lieb,29,2,0.474905472634179,0.06896551724137931
 449,drama,Katt,M,,,,"
             
 KATT:
@@ -4282,7 +4282,7 @@ KATT:
 Sie hatte äui noch warte köenne, bis ar zeruck ward gsin.
 
           
-",fuchs-heimlichi-lieb,12,2,0.5037982132484474,0.16666666666666666
+",112,fuchs-heimlichi-lieb,12,2,0.5037982132484474,0.16666666666666666
 450,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4291,7 +4291,7 @@ BASCHE:
 De Unkel Franz hett’s jo gewöellt, ass sie nit warde dhüen.
 
           
-",fuchs-heimlichi-lieb,13,2,0.48907443180150323,0.15384615384615385
+",112,fuchs-heimlichi-lieb,13,2,0.48907443180150323,0.15384615384615385
 451,drama,Katt,M,,,,"
             
 KATT:
@@ -4302,7 +4302,7 @@ Jetz sin se-n-an de Kirich. Höer’sch d' Origel spiele?
  Wie bläich diss Gredel isch — dootsbläich. Diss isch kenn luschtigi Hochzittere.
 
           
-",fuchs-heimlichi-lieb,30,4,0.6145460485916217,0.13333333333333333
+",112,fuchs-heimlichi-lieb,30,4,0.6145460485916217,0.13333333333333333
 452,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4314,7 +4314,7 @@ E Wünder, Katt, e Wünder. In dare Zitt, wo mir do gase un getrunke haön isch 
 (D’ Origel höert uff.)
 
           
-",fuchs-heimlichi-lieb,77,7,0.7212252688655918,0.09090909090909091
+",113,fuchs-heimlichi-lieb,77,7,0.7212252688655918,0.09090909090909091
 454,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4323,7 +4323,7 @@ BASCHE:
 Katt, hesch de Mäischter gsahne, wo die häme- komme sin ohne d' Hochzittere. Wiss isch ar worre wie e Waönd, — gedohn hett er mit danne Burscht, min Labdisdaö hob ich ’ne nit so gsahne ghett.
 
           
-",fuchs-heimlichi-lieb,38,2,0.6639863810541557,0.05263157894736842
+",113,fuchs-heimlichi-lieb,38,2,0.6639863810541557,0.05263157894736842
 455,drama,Katt,M,,,,"
             
 KATT:
@@ -4332,7 +4332,7 @@ KATT:
 Sie säuje, de Jean isch so viehmassi gfohre, ass sie ’ne in ere Viertelstung ger nimmi gsahne haön. — Dar hett gewisst, ass es e Watter gitt un hett gedankt, ar kommt noch häme.
 
           
-",fuchs-heimlichi-lieb,35,1,0.2282490738865382,0.02857142857142857
+",113,fuchs-heimlichi-lieb,35,1,0.2282490738865382,0.02857142857142857
 456,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4341,7 +4341,7 @@ BASCHE:
 Un wie de Unkel Franz nod in de früehje Stung mit em Gredel ankomme-n-isch!
 
           
-",fuchs-heimlichi-lieb,17,2,0.6118371218031274,0.11764705882352941
+",114,fuchs-heimlichi-lieb,17,2,0.6118371218031274,0.11764705882352941
 457,drama,Katt,M,,,,"
             
 KATT:
@@ -4351,7 +4351,7 @@ Gemahn mi nit, Basche, gemahn mi nit. De Mäischter hett kenn Aeui züegemacht d
  ar hett nit emol nit de Mutze üssgedohn. Küm hett mr 's Rossle ghöert vom Wäuje im Hoft, ze-n-isch ar äui schun haregsprunge und hett ’s Gredel üss em Wäuje ghebbt. Bläich isch se schun gewahn — grad so wie jetz, wo se-n-in d' Kirich sin.
 
           
-",fuchs-heimlichi-lieb,70,7,0.4681501122075086,0.1
+",114,fuchs-heimlichi-lieb,70,7,0.4681501122075086,0.1
 458,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4360,7 +4360,7 @@ BASCHE:
 Ich gläuib, sie hett noch kenn zeh Wort geredd.
 
           
-",fuchs-heimlichi-lieb,10,2,0.6087004384790186,0.2
+",114,fuchs-heimlichi-lieb,10,2,0.6087004384790186,0.2
 459,drama,Katt,M,,,,"
             
 KATT:
@@ -4369,7 +4369,7 @@ KATT:
 Awer Basche, mach jetz voran; wann se-n-üss de Kirich komme, noch gehts an’s Ase.
 
           
-",fuchs-heimlichi-lieb,18,1,0.5077636222456227,0.05555555555555555
+",114,fuchs-heimlichi-lieb,18,1,0.5077636222456227,0.05555555555555555
 460,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4378,7 +4378,7 @@ BASCHE:
 Ward nurr din Saches gerüescht wie mins. Dank’sch äui an d’Hochzittsgläser un ’s Krichel un ’s Brot for d' Hochzittslitt, wann se üss de Kirich komme — — — dü wäisch, ass deff nix fahle.
 
           
-",fuchs-heimlichi-lieb,37,3,0.504759050924727,0.08108108108108109
+",115,fuchs-heimlichi-lieb,37,3,0.504759050924727,0.08108108108108109
 461,drama,Katt,M,,,,"
             
 KATT:
@@ -4390,7 +4390,7 @@ Ken Angscht, as isch alles parad. Ich bring sie glich ering. Komm jetz.
 (D’ Scène bliet e Moment leer.)
 
           
-",fuchs-heimlichi-lieb,30,4,0.4287631515699152,0.13333333333333333
+",115,fuchs-heimlichi-lieb,30,4,0.4287631515699152,0.13333333333333333
 463,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4428,7 +4428,7 @@ Leer, — alles leer. — — Un üss de Kirich hab ich d' Origel ghöert. — �
  wann i die Gläser do erindraö.
 
           
-",fuchs-heimlichi-lieb,643,73,0.602390521527477,0.11353032659409021
+",115,fuchs-heimlichi-lieb,643,73,0.602390521527477,0.11353032659409021
 464,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4437,7 +4437,7 @@ BASCHE:
 As isch e üralter Brüch, un de Mäischter halt arich am Alte.
 
           
-",fuchs-heimlichi-lieb,13,2,0.40180950728325593,0.15384615384615385
+",116,fuchs-heimlichi-lieb,13,2,0.40180950728325593,0.15384615384615385
 465,drama,Katt,M,,,,"
             
 KATT:
@@ -4446,7 +4446,7 @@ KATT:
 Wann nurr de Jean do ward.
 
           
-",fuchs-heimlichi-lieb,7,1,0.5037982132484474,0.14285714285714285
+",116,fuchs-heimlichi-lieb,7,1,0.5037982132484474,0.14285714285714285
 466,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4456,7 +4456,7 @@ Se miehn ball üss de Kirich komme.
 (Beidi links ab.)
 
           
-",fuchs-heimlichi-lieb,13,1,0.5077636222456227,0.07692307692307693
+",116,fuchs-heimlichi-lieb,13,1,0.5077636222456227,0.07692307692307693
 467,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4477,7 +4477,7 @@ Wie Wasser isch’s — so hell... Im e Kätzel hab ich emol zwei Dropfe nurr in
 (Mr höert litte.)
 
           
-",fuchs-heimlichi-lieb,213,20,0.6962914335708028,0.09389671361502347
+",116,fuchs-heimlichi-lieb,213,20,0.6962914335708028,0.09389671361502347
 468,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4492,7 +4492,7 @@ Hass isch noch stäriker wie Lieb.
 : Wer rueft mir Möerder, — — bin ich'nit im Rächt?! —
 
           
-",fuchs-heimlichi-lieb,35,5,0.48416574427439907,0.14285714285714285
+",117,fuchs-heimlichi-lieb,35,5,0.48416574427439907,0.14285714285714285
 469,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL FRANZ :
@@ -4507,7 +4507,7 @@ Nän, dü bisch nit im Racht, Jean. Vebland bisch un kann’sch nimm Racht un Un
 (Nemmt im Jean ’s Fläschel un geht ab noch hinde.)
 
           
-",fuchs-heimlichi-lieb,156,19,0.6008383311322789,0.12179487179487179
+",117,fuchs-heimlichi-lieb,156,19,0.6008383311322789,0.12179487179487179
 470,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4525,7 +4525,7 @@ Bliet mir denn nix erspart? Bin ich din Stiefkind, Gott?
  ]
 
           
-",fuchs-heimlichi-lieb,70,11,0.5383406437977633,0.15714285714285714
+",117,fuchs-heimlichi-lieb,70,11,0.5383406437977633,0.15714285714285714
 472,drama,Katt,M,,,,"
             
 KATT:
@@ -4536,7 +4536,7 @@ De Jean — de Jean.
  Jean, — Schangel, — was isch, was hesch? Dü glüehjsch jo ganz, hesch sicher Fiewer.
 
           
-",fuchs-heimlichi-lieb,28,2,0.7963864496210972,0.07142857142857142
+",118,fuchs-heimlichi-lieb,28,2,0.7963864496210972,0.07142857142857142
 473,drama,Basche,M,,,,"
             
 BASCHE:
@@ -4545,7 +4545,7 @@ BASCHE:
 Schlacht isch’s em, sieh’sch’s dann nit? Katt, mach ’ne glich ins Bett.
 
           
-",fuchs-heimlichi-lieb,15,1,0.133,0.06666666666666667
+",118,fuchs-heimlichi-lieb,15,1,0.133,0.06666666666666667
 474,drama,Katt,M,,,,"
             
 KATT:
@@ -4554,7 +4554,7 @@ KATT:
 Komm, Jean, geh nuff ins Bett.
 
           
-",fuchs-heimlichi-lieb,7,1,0.5077636222456227,0.14285714285714285
+",118,fuchs-heimlichi-lieb,7,1,0.5077636222456227,0.14285714285714285
 476,drama,Katt,M,,,,"
             
 KATT:
@@ -4565,7 +4565,7 @@ Un ’s Belt gebahjt. Komm, läj di, komm! JEAN
 .
 
           
-",fuchs-heimlichi-lieb,17,3,0.5106686357811192,0.17647058823529413
+",119,fuchs-heimlichi-lieb,17,3,0.5106686357811192,0.17647058823529413
 478,drama,'s Stawalders Vadder,M,,,,"
             
 STAWALDER:
@@ -4579,7 +4579,7 @@ Gredel, ich halt’s, wie's mini Vädder un Vorvädder ghalte han un biet dir je
 .
 
           
-",fuchs-heimlichi-lieb,113,8,0.5971625086058492,0.07079646017699115
+",119,fuchs-heimlichi-lieb,113,8,0.5971625086058492,0.07079646017699115
 479,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -4592,7 +4592,7 @@ Ohhhh — Ohhhhh — — —
 (Alli stehn stumm un horiche.)
 
           
-",fuchs-heimlichi-lieb,41,1,0.277709461379097,0.024390243902439025
+",119,fuchs-heimlichi-lieb,41,1,0.277709461379097,0.024390243902439025
 480,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -4604,7 +4604,7 @@ VADDER :
 Um Gottswille, was isch dann diss?
 
           
-",fuchs-heimlichi-lieb,11,2,0.8102204584317203,0.18181818181818182
+",120,fuchs-heimlichi-lieb,11,2,0.8102204584317203,0.18181818181818182
 481,drama,Basche,M,,,,"
             
 BASCHE :
@@ -4616,7 +4616,7 @@ BASCHE :
 ’s isch ’s Nochbers Mejel, do kommt se ze läuife.
 
           
-",fuchs-heimlichi-lieb,24,1,0.588502276943852,0.041666666666666664
+",120,fuchs-heimlichi-lieb,24,1,0.588502276943852,0.041666666666666664
 482,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -4628,7 +4628,7 @@ MEJEL:
 Stowolder, kumme — schnall — de Jean — de Jean.
 
           
-",fuchs-heimlichi-lieb,32,6,0.5064944095092613,0.1875
+",120,fuchs-heimlichi-lieb,32,6,0.5064944095092613,0.1875
 484,drama,Mejel,F,,,,"
             
 MEJEL:
@@ -4638,7 +4638,7 @@ Ar isch ’s Fanschter nüss gstüerzt, im Garde lejt er.
 (Vadder un alli schreje grell uff. Fascht alli laufe nüss, au de Vadder.)
 
           
-",fuchs-heimlichi-lieb,26,5,0.6512728713201478,0.19230769230769232
+",121,fuchs-heimlichi-lieb,26,5,0.6512728713201478,0.19230769230769232
 485,drama,Katt,M,,,,"
             
 KATT :
@@ -4657,7 +4657,7 @@ Krank un vewirrt hett ar geredd schun wo ar häme komme isch. Ar hett hoch Fiewe
  DE FRITZEL un e paar Knecht bringe de Jean. Er hett d' Aue zue un üss em Mül sickert ’s Bluet. Sie laje ’ne längs uff de Bodde.
 
           
-",fuchs-heimlichi-lieb,97,15,0.45936420605429096,0.15463917525773196
+",121,fuchs-heimlichi-lieb,97,15,0.45936420605429096,0.15463917525773196
 486,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER:
@@ -4668,7 +4668,7 @@ Schnall Wasser, Line, Decke. Un äner schnall zuem Dokter un d' Ross nit gschont
 : Jean, Bue — kannsch mi — Jean?
 
           
-",fuchs-heimlichi-lieb,31,5,0.7060594493744524,0.16129032258064516
+",121,fuchs-heimlichi-lieb,31,5,0.7060594493744524,0.16129032258064516
 487,drama,'s Stawalders Jean,M,,,,"
             
 JEAN :
@@ -4680,7 +4680,7 @@ JEAN :
 Es geht — ze End — — ich sieh ejch — schun — fascht — nimm — —. Min Läwe isch ze heiss uffgflackert, — drum — müess ich jetz — vebrenne dran.
 
           
-",fuchs-heimlichi-lieb,41,3,0.6650744244200172,0.07317073170731707
+",121,fuchs-heimlichi-lieb,41,3,0.6650744244200172,0.07317073170731707
 488,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL FRANZ:
@@ -4689,7 +4689,7 @@ UNKEL FRANZ:
 Ar redd im Fiewer.
 
           
-",fuchs-heimlichi-lieb,6,1,0.4743506503545591,0.16666666666666666
+",122,fuchs-heimlichi-lieb,6,1,0.4743506503545591,0.16666666666666666
 489,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -4701,7 +4701,7 @@ VADDER :
 Esch dann nix meh ze halfe?
 
           
-",fuchs-heimlichi-lieb,11,3,0.6308061582223484,0.2727272727272727
+",122,fuchs-heimlichi-lieb,11,3,0.6308061582223484,0.2727272727272727
 490,drama,'s Stawalders Jean,M,,,,"
             
 JEAN:
@@ -4714,7 +4714,7 @@ Jetzt löescht ’s Licht üss, ’s wurd Nacht — — Nacht ohne Morje — —
 .
 
           
-",fuchs-heimlichi-lieb,64,11,0.7041099329328465,0.171875
+",122,fuchs-heimlichi-lieb,64,11,0.7041099329328465,0.171875
 491,drama,'s Stawalders Vadder,M,,,,"
             
 VADDER :
@@ -4726,7 +4726,7 @@ VADDER :
 Bue — — Bue! —
 
           
-",fuchs-heimlichi-lieb,10,2,0.7582366974273012,0.2
+",122,fuchs-heimlichi-lieb,10,2,0.7582366974273012,0.2
 492,drama,Mejel,F,,,,"
             
 MEJEL :
@@ -4738,7 +4738,7 @@ MEJEL :
 Jean — Jean — — —
 
           
-",fuchs-heimlichi-lieb,21,1,0.7272892855744911,0.047619047619047616
+",123,fuchs-heimlichi-lieb,21,1,0.7272892855744911,0.047619047619047616
 493,drama,'s Lipse Gredel,F,,,,"
             
 GREDEL:
@@ -4750,7 +4750,7 @@ O Vadder — — Mueder — —
 (Alli andere kneje ane.)
 
           
-",fuchs-heimlichi-lieb,25,5,0.5859776371821387,0.2
+",123,fuchs-heimlichi-lieb,25,5,0.5859776371821387,0.2
 494,drama,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 UNKEL FRANZ:
@@ -4760,4 +4760,4 @@ UNKEL FRANZ:
  — RIDEAU - 
 
           
-",fuchs-heimlichi-lieb,77,14,0.5210489021752861,0.18181818181818182
+",123,fuchs-heimlichi-lieb,77,14,0.5210489021752861,0.18181818181818182

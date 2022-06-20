@@ -1,4 +1,4 @@
-,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name
 0,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -37,7 +37,7 @@ hinte un dr
                         g'schwind fertig g'ha hit!...
 
         
-",lustig-hans-dich-hats
+",0,lustig-hans-dich-hats
 1,comedy,HANS,M,,,,"
           
 Hans.
@@ -52,7 +52,7 @@ Isch's e Wunder, Meister!... Wo-n-i züem Herr
                         selbscht rasiere bi dàne schlechte Zite...
 
         
-",lustig-hans-dich-hats
+",0,lustig-hans-dich-hats
 2,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -65,7 +65,7 @@ Was ha-n-ich g'sàit, 's isch nimmig züem üshalte!... A
                         un wo Dr viellicht thàt 's Geld vorstrecke?
 
         
-",lustig-hans-dich-hats
+",1,lustig-hans-dich-hats
 3,comedy,HANS,M,,,,"
           
 Hans.
@@ -75,7 +75,7 @@ O, liewer Meister! wenn alle Misle z'Grund giengte, so
                         thàt ich nitt emol e Wàdele-n-erwe!
 
         
-",lustig-hans-dich-hats
+",1,lustig-hans-dich-hats
 4,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -122,7 +122,7 @@ Un derf jo nitt si g'geniert.
           
 
         
-",lustig-hans-dich-hats
+",2,lustig-hans-dich-hats
 5,comedy,Herr SCHARFMESSER,M,,,,"
           
 
@@ -141,7 +141,7 @@ Gar glich unser schöne Kunst.
 (Dr Hans thüet siter e Sach ufrüme.)
 
         
-",lustig-hans-dich-hats
+",2,lustig-hans-dich-hats
 6,comedy,HANS,M,,,,"
           
 
@@ -160,7 +160,7 @@ Gar glich unser schöne Kunst.
 (Dr Hans thüet siter e Sach ufrüme.)
 
         
-",lustig-hans-dich-hats
+",3,lustig-hans-dich-hats
 7,comedy,Herr SCHARFMESSER,M,,,,"
           
 
@@ -192,7 +192,7 @@ Hànschig mien o noch derzüe
           
 
         
-",lustig-hans-dich-hats
+",3,lustig-hans-dich-hats
 8,comedy,Herr SCHARFMESSER,M,,,,"
           
 
@@ -208,7 +208,7 @@ Larve-n-an dr Fasenacht!
           
 
         
-",lustig-hans-dich-hats
+",4,lustig-hans-dich-hats
 9,comedy,HANS,M,,,,"
           
 
@@ -224,7 +224,7 @@ Larve-n-an dr Fasenacht!
           
 
         
-",lustig-hans-dich-hats
+",4,lustig-hans-dich-hats
 10,comedy,HANS,M,,,,"
           
 Hans.
@@ -239,7 +239,7 @@ Was wànn Se halt, Meister, ich weiss das alles, awer ich
                         drgege!...
 
         
-",lustig-hans-dich-hats
+",5,lustig-hans-dich-hats
 11,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -249,7 +249,7 @@ Allons, allons, Hans, gib Achtung, ass De nitt emol
                         agehsch dra...
 
         
-",lustig-hans-dich-hats
+",5,lustig-hans-dich-hats
 12,comedy,HANS,M,,,,"
           
 Hans.
@@ -258,7 +258,7 @@ Hans.
 O, ich versicher Sie, Meister
 
         
-",lustig-hans-dich-hats
+",6,lustig-hans-dich-hats
 13,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -270,7 +270,7 @@ Versicher Dü Dich, 's isch g'scheidter...
 (er geht hinte-n-üse rechts)
 
         
-",lustig-hans-dich-hats
+",6,lustig-hans-dich-hats
 14,comedy,HANS,M,,,,"
           
 Hans
@@ -284,7 +284,7 @@ Verlehn Sie sich uf mich, Meister!
           
 
         
-",lustig-hans-dich-hats
+",7,lustig-hans-dich-hats
 15,comedy,HANS,M,,,,"
           
 Hans
@@ -299,7 +299,7 @@ Das isch jetz alles güet, awer mit dem allem bin ich
                         wenn ich nur mi Trinele hätt...
 
         
-",lustig-hans-dich-hats
+",7,lustig-hans-dich-hats
 16,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Gsang
@@ -359,7 +359,7 @@ Eh, tiens dr Meister Bemol, wie geht's, Schwiegervater,
                         was macht Ihr Töchterle ?...
 
         
-",lustig-hans-dich-hats
+",8,lustig-hans-dich-hats
 17,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -373,7 +373,7 @@ So lang as Dü nitt etabliert bisch, Hans, so isch nit
                         ihr Klavier stimme... isch se d'heim?
 
         
-",lustig-hans-dich-hats
+",8,lustig-hans-dich-hats
 18,comedy,HANS,M,,,,"
           
 Hans
@@ -391,7 +391,7 @@ Hans
 (Er geht hinte-n-üse links).
 
         
-",lustig-hans-dich-hats
+",9,lustig-hans-dich-hats
 19,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -520,7 +520,7 @@ Tiens, 's kunnt ebber
 (er stellt d'Bartschüssle gschwind ab).
 
         
-",lustig-hans-dich-hats
+",9,lustig-hans-dich-hats
 20,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -545,7 +545,7 @@ Ah! will jetz dr Herr Scharfmesser grad allei isch, so
                         isch doch allewil dr Vater...
 
         
-",lustig-hans-dich-hats
+",10,lustig-hans-dich-hats
 21,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -558,7 +558,7 @@ Mi Tochter?..... mi Trinele?..... weisst sie ebbes
                         dervo?.....
 
         
-",lustig-hans-dich-hats
+",10,lustig-hans-dich-hats
 22,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -569,7 +569,7 @@ Ihr Tochter selbst... Sie hat mir d'Erlaübniss gà, mit
                         jetz grad presentiert....
 
         
-",lustig-hans-dich-hats
+",11,lustig-hans-dich-hats
 23,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -582,7 +582,7 @@ Das isch sunderbar, ass er do ane kunnt, fir mit mr
                         z'rede.
 
         
-",lustig-hans-dich-hats
+",11,lustig-hans-dich-hats
 24,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -632,7 +632,7 @@ Bol git's Maschine jetz, wo gar kei Mensch brüchtdra.
           
 
         
-",lustig-hans-dich-hats
+",12,lustig-hans-dich-hats
 25,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -653,7 +653,7 @@ Scho güet, scho güet...
           
 
         
-",lustig-hans-dich-hats
+",12,lustig-hans-dich-hats
 26,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -663,7 +663,7 @@ O merci, merci Meister... , wenn ka-n-i ku d'Antwort
                         hole... Nitt wohr, sa glich as moglich ?
 
         
-",lustig-hans-dich-hats
+",13,lustig-hans-dich-hats
 27,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -672,7 +672,7 @@ Herr Bemol.
 Wenn Sie wànn, morn viellicht...
 
         
-",lustig-hans-dich-hats
+",13,lustig-hans-dich-hats
 28,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -684,7 +684,7 @@ O mache Sie mich nitt eso lang z'warte, ne jede Sekunde
                         noch ku... in ere Stund?...
 
         
-",lustig-hans-dich-hats
+",14,lustig-hans-dich-hats
 29,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -693,7 +693,7 @@ Herr Bemol.
 Lehn Sie mir doch nur dr Zit, fir...
 
         
-",lustig-hans-dich-hats
+",14,lustig-hans-dich-hats
 30,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -708,7 +708,7 @@ Allons, Meister, allons, 's isch e Wort... ich kumm in
                         Bemol an Hals un laüft derno dervo wie verruckt.)
 
         
-",lustig-hans-dich-hats
+",15,lustig-hans-dich-hats
 31,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -778,7 +778,7 @@ Endlig kunnt doch jetz mi Trinele ab dr Gasse un git
                             erst noch e riche Dame derzüe!...
 
         
-",lustig-hans-dich-hats
+",15,lustig-hans-dich-hats
 32,comedy,HANS,M,,,,"
           
 Hans
@@ -794,7 +794,7 @@ Nitt wohr, ich ha se lang mache z'warte, Meister
                         Scharfmesser will noch z'erst e Lection nàmme...
 
         
-",lustig-hans-dich-hats
+",16,lustig-hans-dich-hats
 33,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -811,7 +811,7 @@ Desto besser...
 (er geht hinte-n-üse rechts).
 
         
-",lustig-hans-dich-hats
+",16,lustig-hans-dich-hats
 34,comedy,HANS,M,,,,"
           
 Hans
@@ -833,7 +833,7 @@ Hans, dich hat's?... ich weiss doch nit dervo... Was
 (er geht hinte-n-üse rechts).
 
         
-",lustig-hans-dich-hats
+",17,lustig-hans-dich-hats
 35,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
@@ -867,7 +867,7 @@ Schoppe
                         allewil... ich ha Sie scho lang nimmig g'sàh...
 
         
-",lustig-hans-dich-hats
+",17,lustig-hans-dich-hats
 36,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -878,7 +878,7 @@ Fraü Hagscheere.
                         Erb hi, wo Se g'macht hàn...
 
         
-",lustig-hans-dich-hats
+",18,lustig-hans-dich-hats
 37,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -888,7 +888,7 @@ Ah! das isch schön vo Ihre, Fraü Hagscheere, sitzt Se ne
                         wenig.
 
         
-",lustig-hans-dich-hats
+",18,lustig-hans-dich-hats
 38,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -903,7 +903,7 @@ Nei, merçi Fraü Scharfmesser, i ka nitt Iang bliwe...
                         ha...
 
         
-",lustig-hans-dich-hats
+",19,lustig-hans-dich-hats
 39,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -917,7 +917,7 @@ Isebahn lo
                         arg, was die fir Pretentione hàn...
 
         
-",lustig-hans-dich-hats
+",19,lustig-hans-dich-hats
 40,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -933,7 +933,7 @@ Jo, un wànn als erst nitt emol alles mache, was me se
                         D'Fraü Sàgmühle kunnt hinte-n-ine rechts).
 
         
-",lustig-hans-dich-hats
+",20,lustig-hans-dich-hats
 41,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser un Fraü Hagscheere
@@ -945,7 +945,7 @@ Fraü Scharfmesser un Fraü Hagscheere
 Eh buschur Fraü Sàgmühle... wie geht's?...
 
         
-",lustig-hans-dich-hats
+",20,lustig-hans-dich-hats
 42,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Scharfmesser un Fraü Hagscheere
@@ -957,7 +957,7 @@ Fraü Scharfmesser un Fraü Hagscheere
 Eh buschur Fraü Sàgmühle... wie geht's?...
 
         
-",lustig-hans-dich-hats
+",21,lustig-hans-dich-hats
 43,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -966,7 +966,7 @@ Fraü Hagscheere.
 Was mache d'Rümetisse?...
 
         
-",lustig-hans-dich-hats
+",21,lustig-hans-dich-hats
 44,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -979,7 +979,7 @@ Merci, merci, 's geht güet, se sin e wenig dämmt hit...
                         à propos... wisse Se d'Neüigkeit scho?...
 
         
-",lustig-hans-dich-hats
+",22,lustig-hans-dich-hats
 45,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -988,7 +988,7 @@ Fraü Hagscheere.
 Eh! nei... was isch, was isch?
 
         
-",lustig-hans-dich-hats
+",22,lustig-hans-dich-hats
 46,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1001,7 +1001,7 @@ Wartet Se nur e-n-Aügesblick, Fraü Sàgmühle, i will nur
                         ane un geht hinte, üse links).
 
         
-",lustig-hans-dich-hats
+",23,lustig-hans-dich-hats
 47,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
@@ -1018,7 +1018,7 @@ abnàh
                         alege fir z'lüege...
 
         
-",lustig-hans-dich-hats
+",23,lustig-hans-dich-hats
 48,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1028,7 +1028,7 @@ Ich ha kei Arwet mitbrocht... i ha dànkt, wil doch nitt
                         lang ka bliwe, so isch's si nitt derwerth.
 
         
-",lustig-hans-dich-hats
+",24,lustig-hans-dich-hats
 49,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle
@@ -1040,7 +1040,7 @@ Fraü Sàgmühle
 .Ah! Sie blibt nitt do?...
 
         
-",lustig-hans-dich-hats
+",24,lustig-hans-dich-hats
 50,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1053,7 +1053,7 @@ Eh nei, mi Neveu, wo-n-i scho so lang nimmig g'sàh ha,
                         Prise, Fraü Sàgmühle?...
 
         
-",lustig-hans-dich-hats
+",25,lustig-hans-dich-hats
 51,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1063,7 +1063,7 @@ Nei, merci, me brücht nitt noch express Dràck in d'Nase
                         z'stupfe, me hat scho g'nüe z'putze dra allewil!...
 
         
-",lustig-hans-dich-hats
+",25,lustig-hans-dich-hats
 52,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1075,7 +1075,7 @@ Wie Sie will... wenn i awer kei Arwet mitbrocht ha, so
                         packt alles üs).
 
         
-",lustig-hans-dich-hats
+",26,lustig-hans-dich-hats
 53,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1084,7 +1084,7 @@ Fraü Sàgmühle.
 Sin se g'stàmpfelt, Ihre Karte, Fraü Hagscheere?
 
         
-",lustig-hans-dich-hats
+",26,lustig-hans-dich-hats
 54,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1097,7 +1097,7 @@ Scht!... sage Se nit, ich ha's fir unnöthig g'funde...
 sage Se, Fraü Sàgmühle, das isch e Rüechene, die Fraü Scharfmesser, se isch jetz so rich uf eimol un nimmt nitt emol e Magd...
 
         
-",lustig-hans-dich-hats
+",27,lustig-hans-dich-hats
 55,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1107,7 +1107,7 @@ Un serviert eim in ere so ne abscheülige
                         Balwiererstuwe!...
 
         
-",lustig-hans-dich-hats
+",27,lustig-hans-dich-hats
 56,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1117,7 +1117,7 @@ Un i wett, se hat nitt emol keine Kuglipfle züem
                         Kaffee!...
 
         
-",lustig-hans-dich-hats
+",28,lustig-hans-dich-hats
 57,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
@@ -1130,7 +1130,7 @@ Fraü Scharfmesser
 Do hà mr's jetz... 's isch g'schwind gange?...
 
         
-",lustig-hans-dich-hats
+",28,lustig-hans-dich-hats
 58,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
@@ -1147,7 +1147,7 @@ Was ha-n-i g'sàit, se hat keine Kuglipfle...
                         wege-n-uns...
 
         
-",lustig-hans-dich-hats
+",29,lustig-hans-dich-hats
 59,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1164,7 +1164,7 @@ Lehn Se doch... kämme Se jetz ku Platz nàh...
  hat Sie ne gern brün, Fraü Hagscheere?...
 
         
-",lustig-hans-dich-hats
+",29,lustig-hans-dich-hats
 60,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1173,7 +1173,7 @@ Fraü Hagscheere.
 Jo, so ziemlig, Fraü Scharfmesser... so!... merci!...
 
         
-",lustig-hans-dich-hats
+",30,lustig-hans-dich-hats
 61,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1182,7 +1182,7 @@ Fraü Scharfmesser.
 Un Sie, Fraü Sàgmühle?...
 
         
-",lustig-hans-dich-hats
+",30,lustig-hans-dich-hats
 62,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1194,7 +1194,7 @@ Ich ha liewer viel Milch... me sàit, 's erhaltet dr
                         wieder!...
 
         
-",lustig-hans-dich-hats
+",31,lustig-hans-dich-hats
 63,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1204,7 +1204,7 @@ Eh awer nei, 's wird nitt si!... do, nàmme Sie sich jetz
                         Zucker.
 
         
-",lustig-hans-dich-hats
+",31,lustig-hans-dich-hats
 64,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1217,7 +1217,7 @@ Eh dü liewe Zit, was awer Sie nitt sàit!...
           
 
         
-",lustig-hans-dich-hats
+",32,lustig-hans-dich-hats
 65,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1228,7 +1228,7 @@ Se isch jo so alt!...
                         Zucker ane).
 
         
-",lustig-hans-dich-hats
+",32,lustig-hans-dich-hats
 66,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1238,7 +1238,7 @@ Un eso' wiescht!... was mag das fir Ein si, wo die
                         nimmt?
 
         
-",lustig-hans-dich-hats
+",33,lustig-hans-dich-hats
 67,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1268,7 +1268,7 @@ Still, 's kunnt ebber d'Stege-n-owe-n-awe, ich müess
                         Bei welle biss...
 
         
-",lustig-hans-dich-hats
+",33,lustig-hans-dich-hats
 68,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1281,7 +1281,7 @@ O! die Hunde, 's isch efange ne wahrer Abscheü... me
                         dr Stross'!...
 
         
-",lustig-hans-dich-hats
+",34,lustig-hans-dich-hats
 69,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1294,7 +1294,7 @@ Awer Fraü Sàgmühle, Sie isch doch' züe arg exigeant...
                         ischenke, Fraü Scharfmesser?...
 
         
-",lustig-hans-dich-hats
+",34,lustig-hans-dich-hats
 70,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1306,7 +1306,7 @@ G'wiss, Fraü Hagscheere
                         Tässle, Fraü Sàgmühle?
 
         
-",lustig-hans-dich-hats
+",35,lustig-hans-dich-hats
 71,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1316,7 +1316,7 @@ Ich nàmtigt noch e wenig Milch... 's isch vo wege-n-em
                         Teint...
 
         
-",lustig-hans-dich-hats
+",35,lustig-hans-dich-hats
 72,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1331,7 +1331,7 @@ Still, 's kunnt ebber d'Stege-n-ufe... ich müess wisse,
                         d'heim isch, sunschst gàb's e-n- Unglick...
 
         
-",lustig-hans-dich-hats
+",36,lustig-hans-dich-hats
 73,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1341,7 +1341,7 @@ Un derno, Fraü Hagscheere, was gàb's derno, wenn Sie in
                         dr G'meinroth kàm?
 
         
-",lustig-hans-dich-hats
+",36,lustig-hans-dich-hats
 74,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1358,7 +1358,7 @@ Was es gàb?... ich will's Ene sage was es gàb!... Nitt
                         graziose Stellung un macht d'écuyère no).
 
         
-",lustig-hans-dich-hats
+",37,lustig-hans-dich-hats
 75,comedy,Fraü SCHARFMESSER,F,,,,"
           
 raü Scharfmesser.
@@ -1368,7 +1368,7 @@ Sie möcht i jetz o noch sàh dur e Reif springe, Fraü
                         Hagscheere?
 
         
-",lustig-hans-dich-hats
+",37,lustig-hans-dich-hats
 76,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1378,7 +1378,7 @@ Jà, worum nitt?... i ha scho dur andere Sache miesse
                         springe as dur e Reif un bi doch dure ku...
 
         
-",lustig-hans-dich-hats
+",38,lustig-hans-dich-hats
 77,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Fràü Sàgmühle.
@@ -1390,7 +1390,7 @@ Awer Fraü Hagscheere, wie ka Sie ne so ebbes
                         Kapelle thàt ane stelle
 
         
-",lustig-hans-dich-hats
+",38,lustig-hans-dich-hats
 78,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 (se rede alle drei mitnander)
@@ -1401,7 +1401,7 @@ anstatt e Cirque.. das isch o noch eso ne gottlose
                         drin un wo d'Owrigkeit gar nitt lide sott!...
 
           
-",lustig-hans-dich-hats
+",39,lustig-hans-dich-hats
 79,comedy,Fraü HAGSCHEERE,F,,,,"
             
 Fraü Hagscheere
@@ -1418,7 +1418,7 @@ Jo doch ! e Kapelle! mr hàn jo scho ne paar Kapelle...
                         se nimmig rede ka).
 
           
-",lustig-hans-dich-hats
+",39,lustig-hans-dich-hats
 80,comedy,Fraü SCHARFMESSER,F,,,,"
             
 Fraü Scharfmesser
@@ -1433,7 +1433,7 @@ Ich thàt eher votiere, fir e-n-Espèce Phare ane z'stelle
                         vorgeht..
 
           
-",lustig-hans-dich-hats
+",40,lustig-hans-dich-hats
 81,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere.
@@ -1461,7 +1461,7 @@ Kännt me sàh!
           
 
         
-",lustig-hans-dich-hats
+",40,lustig-hans-dich-hats
 82,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1489,7 +1489,7 @@ Was thàt g'schàh!
           
 
         
-",lustig-hans-dich-hats
+",41,lustig-hans-dich-hats
 83,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1517,7 +1517,7 @@ Fir eüch Lit!
           
 
         
-",lustig-hans-dich-hats
+",41,lustig-hans-dich-hats
 84,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1530,7 +1530,7 @@ Still!... 's macht ebber 's Fenster uf dert àne, ich
                         Sack stosse.)
 
         
-",lustig-hans-dich-hats
+",42,lustig-hans-dich-hats
 85,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
@@ -1543,7 +1543,7 @@ Herrje!... jetz ha-n-i awer d'höchste Zit, wenn i will
                         geh mi Brüeder abhole...
 
         
-",lustig-hans-dich-hats
+",42,lustig-hans-dich-hats
 86,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1553,7 +1553,7 @@ Thàt Se doch noch e wenig warte, Fraü Hagscheere, ich
                         kumm derno o mit, dr Basler Zug hat viellicht Retard...
 
         
-",lustig-hans-dich-hats
+",43,lustig-hans-dich-hats
 87,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser
@@ -1569,7 +1569,7 @@ Fraü Scharfmesser
                         G'sicht.)
 
         
-",lustig-hans-dich-hats
+",43,lustig-hans-dich-hats
 88,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1584,7 +1584,7 @@ Das sin noch vo dàne, wo am e Màntig d'Farwe nitt
                         Pàm... Pàm...
 
         
-",lustig-hans-dich-hats
+",44,lustig-hans-dich-hats
 89,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1595,7 +1595,7 @@ Pàmselstiehl?...
           
 
         
-",lustig-hans-dich-hats
+",44,lustig-hans-dich-hats
 90,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1605,7 +1605,7 @@ C'est ça, Herr Pàmselstiehl!... i ha doch g'wisst, ass
                         es eso ebbes isch!
 
         
-",lustig-hans-dich-hats
+",45,lustig-hans-dich-hats
 91,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1625,7 +1625,7 @@ Eh!... das isch jo grad dà, wo do àne wohnt!... Nu jo,
                         d'Thure).
 
         
-",lustig-hans-dich-hats
+",45,lustig-hans-dich-hats
 92,comedy,Fraü HAGSCHEERE,F,,,,"
           
 Fraü Hagscheere
@@ -1639,7 +1639,7 @@ D'Fraü Scharfrnesser isch glaüb nur e wenig
                         Isebahn will... kunt Se jetz mit, Fraü Sàgmühle?...
 
         
-",lustig-hans-dich-hats
+",46,lustig-hans-dich-hats
 93,comedy,Fraü SAGMÜHLE,F,,,,"
           
 Fraü Sàgmühle.
@@ -1650,7 +1650,7 @@ Eh jo, i müess jetz doch o mache, ass i heim kumm...
                         packe-n-uf).
 
         
-",lustig-hans-dich-hats
+",46,lustig-hans-dich-hats
 94,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1660,7 +1660,7 @@ Eh, was! wànn Se jetz scho heim?... Das isch jetz e
                         kurze Visite gsi... kämme Se ne-n-andermol wieder...
 
         
-",lustig-hans-dich-hats
+",47,lustig-hans-dich-hats
 95,comedy,Fraü HAGSCHEERE,F,,,,"
           
 D'Fraü Hagscheere un d'Fraü Sàgmühle.
@@ -1692,7 +1692,7 @@ Lebt Se siter wohl.
           
 
         
-",lustig-hans-dich-hats
+",47,lustig-hans-dich-hats
 96,comedy,Fraü SAGMÜHLE,F,,,,"
           
 D'Fraü Hagscheere un d'Fraü Sàgmühle.
@@ -1724,7 +1724,7 @@ Lebt Se siter wohl.
           
 
         
-",lustig-hans-dich-hats
+",48,lustig-hans-dich-hats
 97,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1759,7 +1759,7 @@ Lewe Sie denn wohl.
 (D'Fraü Hagscheere un d'Fraü Sàgmühle gehn hinte üse rechts.)
 
         
-",lustig-hans-dich-hats
+",48,lustig-hans-dich-hats
 98,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Fraü Scharfmesser.
@@ -1774,7 +1774,7 @@ Ich bi froh, ass se furt sin , .. mi Mann isch dowe, er
 (Se nimmt 's Plateau un geht hinte üse links.)
 
         
-",lustig-hans-dich-hats
+",49,lustig-hans-dich-hats
 99,comedy,HANS,M,,,,"
           
 Hans
@@ -1790,7 +1790,7 @@ Do bi-n-i jetz wieder... i ha doch nitt lang g'macht?...
                         isch er jo scho.
 
         
-",lustig-hans-dich-hats
+",49,lustig-hans-dich-hats
 100,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
@@ -1875,7 +1875,7 @@ Ne Klapperstei-Fawrike thàte mr afange, Hans, das
                         
 
         
-",lustig-hans-dich-hats
+",50,lustig-hans-dich-hats
 101,comedy,HANS,M,,,,"
           
 Hans
@@ -1893,7 +1893,7 @@ Allons, bon, dr Herr Scharfmesser hat wieder Mischbes
                         Herr Bemol).
 
         
-",lustig-hans-dich-hats
+",50,lustig-hans-dich-hats
 102,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -1902,7 +1902,7 @@ Herr Scharfmesser.
 Bisch Dü eigentlig verruckt, Hans?...
 
         
-",lustig-hans-dich-hats
+",51,lustig-hans-dich-hats
 103,comedy,HANS,M,,,,"
           
 Hans.
@@ -1914,7 +1914,7 @@ Ich nitt, awer wohrschinlig der Herr Bemol... grad isch
                         stimme...
 
         
-",lustig-hans-dich-hats
+",51,lustig-hans-dich-hats
 104,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -1924,7 +1924,7 @@ Si Fraü wird ne verruckt g'macht ha, Hans hiroth nitt...
                         glaüb mir, 's sin alle Mànner unglicklig...
 
         
-",lustig-hans-dich-hats
+",52,lustig-hans-dich-hats
 105,comedy,HANS,M,,,,"
           
 Hans.
@@ -1934,7 +1934,7 @@ Sie hàn güet z'rede, Meister... nitt wohr, Sie hàn e
                         Fraü?
 
         
-",lustig-hans-dich-hats
+",52,lustig-hans-dich-hats
 106,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
@@ -1947,7 +1947,7 @@ Jo, Gottlob... Isch Nieme do gsi, Hans, hat mi Nieme
                         welle hole wàhrend ass ich furt gsi bi?...
 
         
-",lustig-hans-dich-hats
+",53,lustig-hans-dich-hats
 107,comedy,HANS,M,,,,"
           
 Hans.
@@ -1957,7 +1957,7 @@ Nieme, Meister, as mi züekünftiger Schwiegervater... 's
                         nimmt mi nur Wunder, was er g'ha hat...
 
         
-",lustig-hans-dich-hats
+",53,lustig-hans-dich-hats
 108,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -1983,7 +1983,7 @@ Kei Mensch!... do isch's als frieiher anderscht
                         Zit, wo me d'Lit noch iwer dr Läffel balwiert hat?...
 
         
-",lustig-hans-dich-hats
+",54,lustig-hans-dich-hats
 109,comedy,HANS,M,,,,"
           
 Hans.
@@ -1995,7 +1995,7 @@ Me macht's jetz noch, Meister, awer uf e ganz andere
           
 
         
-",lustig-hans-dich-hats
+",54,lustig-hans-dich-hats
 110,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2006,7 +2006,7 @@ Züem Unglick isch jetz o noch d'Konkürrenz eso gross...
                         wo Sidezäpf feil hat!...
 
         
-",lustig-hans-dich-hats
+",55,lustig-hans-dich-hats
 111,comedy,HANS,M,,,,"
           
 Hans.
@@ -2016,7 +2016,7 @@ Das isch jetz doch e wenig stark!.. glaübt denn emol ei
                         Mensch, ass in de Lit Side züem Kopf üse wachst?...
 
         
-",lustig-hans-dich-hats
+",55,lustig-hans-dich-hats
 112,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2031,7 +2031,7 @@ Ich o ha als Zäpf g'macht, awer rechte... doch jetz
                         Milhüserditsch?..
 
         
-",lustig-hans-dich-hats
+",56,lustig-hans-dich-hats
 113,comedy,HANS,M,,,,"
           
 Hans.
@@ -2040,7 +2040,7 @@ Hans.
 Parricke, parbleu, ich weiss nitt anders?..
 
         
-",lustig-hans-dich-hats
+",56,lustig-hans-dich-hats
 114,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2051,7 +2051,7 @@ Das kunnt vom franzesche Wort « Perruque », awer 's
                         achtezwanzig Büechstawe hat... weisch's nitt?..
 
         
-",lustig-hans-dich-hats
+",57,lustig-hans-dich-hats
 115,comedy,HANS,M,,,,"
           
 Hans.
@@ -2060,7 +2060,7 @@ Hans.
 Nei, Meister.
 
         
-",lustig-hans-dich-hats
+",57,lustig-hans-dich-hats
 116,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2070,7 +2070,7 @@ Eh bien, los recht, e Parricke heisst me uf ditsch:
                         «Kahlkopfverlegeheitsabhelfer.»
 
         
-",lustig-hans-dich-hats
+",58,lustig-hans-dich-hats
 117,comedy,HANS,M,,,,"
           
 Hans.
@@ -2079,7 +2079,7 @@ Hans.
 Kahl.. was fir e-n-Abhelfer?..
 
         
-",lustig-hans-dich-hats
+",58,lustig-hans-dich-hats
 118,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2088,7 +2088,7 @@ Herr Scharfmesser.
 Kahl-kopf-ver-le-ge-heits-ab-hel-fer!
 
         
-",lustig-hans-dich-hats
+",59,lustig-hans-dich-hats
 119,comedy,HANS,M,,,,"
           
 Hans.
@@ -2101,7 +2101,7 @@ Enfin, 's isch mr eithüen, was fir e-n-Abhelfer... Was
                         süeche Se, Meister, süeche Se...
 
         
-",lustig-hans-dich-hats
+",59,lustig-hans-dich-hats
 120,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2111,7 +2111,7 @@ Herr Scharfmesser.
                         Parricke alles im Stand isch...
 
         
-",lustig-hans-dich-hats
+",60,lustig-hans-dich-hats
 121,comedy,HANS,M,,,,"
           
 Hans.
@@ -2131,7 +2131,7 @@ Eh bien, ich will's Ene verzehle, Meister... Sie wisse
                         g'loffe sin... Hein, Meister, was sage Se züe dem!...
 
         
-",lustig-hans-dich-hats
+",60,lustig-hans-dich-hats
 122,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2141,7 +2141,7 @@ Das isch e güete... Parricke gsi... A propos, Hans,
                         hasch Dü hit dr Herr Mülkorb rasiert?
 
         
-",lustig-hans-dich-hats
+",61,lustig-hans-dich-hats
 123,comedy,HANS,M,,,,"
           
 Hans.
@@ -2150,7 +2150,7 @@ Hans.
 Jo Meister, wo-n-i vom Herr Pappedeckel ku bi..
 
         
-",lustig-hans-dich-hats
+",61,lustig-hans-dich-hats
 124,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2209,7 +2209,7 @@ Was wàr das fir e Làwe.
           
 
         
-",lustig-hans-dich-hats
+",62,lustig-hans-dich-hats
 125,comedy,HANS,M,,,,"
           
 Hans
@@ -2234,7 +2234,7 @@ Vo siner Jugendzit.
           
 
         
-",lustig-hans-dich-hats
+",62,lustig-hans-dich-hats
 126,comedy,HANS,M,,,,"
           
 Mitnander.
@@ -2250,7 +2250,7 @@ Noch lang wird's eim umschwàwe.
           
 
         
-",lustig-hans-dich-hats
+",63,lustig-hans-dich-hats
 127,comedy,Fraü SCHARFMESSER,F,,,,"
           
 Mitnander.
@@ -2266,7 +2266,7 @@ Noch lang wird's eim umschwàwe.
           
 
         
-",lustig-hans-dich-hats
+",63,lustig-hans-dich-hats
 128,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2279,7 +2279,7 @@ Jà, Hans, das isch wohr... me-n-isch nie glickliger as
                         sotte ku...
 
         
-",lustig-hans-dich-hats
+",64,lustig-hans-dich-hats
 129,comedy,HANS,M,,,,"
           
 Hans
@@ -2291,7 +2291,7 @@ Hans
 In das vo Burtzwiller.
 
         
-",lustig-hans-dich-hats
+",64,lustig-hans-dich-hats
 130,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2300,7 +2300,7 @@ Herr Scharfmesser.
 Hein?...
 
         
-",lustig-hans-dich-hats
+",65,lustig-hans-dich-hats
 131,comedy,HANS,M,,,,"
           
 Hans.
@@ -2309,7 +2309,7 @@ Hans.
 Nit, Meister, verzähle Se nur furt...
 
         
-",lustig-hans-dich-hats
+",65,lustig-hans-dich-hats
 132,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2321,7 +2321,7 @@ Un siter si mr allewil güete Frind gsi, mr spiele jetz
                         Hans?...
 
         
-",lustig-hans-dich-hats
+",66,lustig-hans-dich-hats
 133,comedy,HANS,M,,,,"
           
 Hans.
@@ -2332,7 +2332,7 @@ Hans.
                         brücht me viel Blost?...
 
         
-",lustig-hans-dich-hats
+",66,lustig-hans-dich-hats
 134,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2343,7 +2343,7 @@ Alleweg mehr ass fir dr Dreiangel, Dü Schaüde.. awer
                         Basson... das isch e schön Instrument!...
 
         
-",lustig-hans-dich-hats
+",67,lustig-hans-dich-hats
 135,comedy,HANS,M,,,,"
           
 Hans.
@@ -2353,7 +2353,7 @@ Hat's nitt noch e-n-anderer Name?... me heisst's glaüb
                         dr...
 
         
-",lustig-hans-dich-hats
+",67,lustig-hans-dich-hats
 136,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2396,7 +2396,7 @@ Un los nitt uf Spott un Hohn.
           
 
         
-",lustig-hans-dich-hats
+",68,lustig-hans-dich-hats
 137,comedy,HANS,M,,,,"
           
 Hans
@@ -2430,7 +2430,7 @@ G'wiss, Meister, ich wott das nitt spiele in ere
                         Rasiermesser fir's abz'zieh)
 
         
-",lustig-hans-dich-hats
+",68,lustig-hans-dich-hats
 138,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2449,7 +2449,7 @@ Awer 's Trombone à coulisse, Hans, Dü weisch nitt, wie
                         e Tanz!...
 
         
-",lustig-hans-dich-hats
+",69,lustig-hans-dich-hats
 139,comedy,HANS,M,,,,"
           
 Hans.
@@ -2474,7 +2474,7 @@ Das isch noch nit, Meistër, ich ha noch ebbes bessers
                         risst em si Coulisse unte üse, mittle in sim Solo!
 
         
-",lustig-hans-dich-hats
+",69,lustig-hans-dich-hats
 140,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2483,7 +2483,7 @@ Herr Scharfmesser.
 Do siesch jetz, Hans!...
 
         
-",lustig-hans-dich-hats
+",70,lustig-hans-dich-hats
 141,comedy,HANS,M,,,,"
           
 Hans.
@@ -2493,7 +2493,7 @@ Hans.
                         weniger.
 
         
-",lustig-hans-dich-hats
+",70,lustig-hans-dich-hats
 142,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2515,7 +2515,7 @@ Prawier's emol... De kasch's viellicht, ohne ass De's
                         glicher Zit... verstehsch, Hans?
 
         
-",lustig-hans-dich-hats
+",71,lustig-hans-dich-hats
 143,comedy,HANS,M,,,,"
           
 Hans.
@@ -2524,7 +2524,7 @@ Hans.
 Jo, Meister.
 
         
-",lustig-hans-dich-hats
+",71,lustig-hans-dich-hats
 144,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -2539,7 +2539,7 @@ Wenn ich ebbe nitt do bi, we me kunnt ku froge, so
                         links).
 
         
-",lustig-hans-dich-hats
+",72,lustig-hans-dich-hats
 145,comedy,HANS,M,,,,"
           
 Hans.
@@ -2601,7 +2601,7 @@ Sogar Vögel müess me känne üsstopfe un de Lit Hoor mache z'wachse, wo se kei
  dr Herr Bemol welle sage mit sim « Hans, dich hat's,» 's wird mr als uf eimol ganz bang!...
 
         
-",lustig-hans-dich-hats
+",72,lustig-hans-dich-hats
 146,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -2616,7 +2616,7 @@ Sage mr, güeter Frind,
                         Herr Scharfmesser nitt do?
 
         
-",lustig-hans-dich-hats
+",73,lustig-hans-dich-hats
 147,comedy,HANS,M,,,,"
           
 Hans.
@@ -2626,7 +2626,7 @@ Jetz grad nitt... er isch geh im Herr Endschüeh ebbes
                         ischindle. - Was wàr Ihne g'fällig?...
 
         
-",lustig-hans-dich-hats
+",73,lustig-hans-dich-hats
 148,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -2680,7 +2680,7 @@ Ich soll ewe ku ne Antwort hole.. Ich kumm halt derno wieder, wenn er d'heim isc
 (er git im Hans si Visitekarte).
 
         
-",lustig-hans-dich-hats
+",74,lustig-hans-dich-hats
 149,comedy,HANS,M,,,,"
           
 Hans
@@ -2691,7 +2691,7 @@ Ich ka Ihne selbst Üskunft gà, wenn Sie nitt gern noch
                         ha...
 
         
-",lustig-hans-dich-hats
+",74,lustig-hans-dich-hats
 150,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -2704,7 +2704,7 @@ Was, dr Herr Scharfmesser hat Eüch ebbes g'sàit
                         dervo?...
 
         
-",lustig-hans-dich-hats
+",75,lustig-hans-dich-hats
 151,comedy,HANS,M,,,,"
           
 Hans.
@@ -2715,7 +2715,7 @@ Grad vor ebb er furt isch... er hat g'sàit, im Fall, ass
                         Ihne sage, Sie kännte se ha, wie eher, wie liewer...
 
         
-",lustig-hans-dich-hats
+",75,lustig-hans-dich-hats
 152,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -2724,7 +2724,7 @@ Herr Lindeblüescht.
 Par exemple?...
 
         
-",lustig-hans-dich-hats
+",76,lustig-hans-dich-hats
 153,comedy,HANS,M,,,,"
           
 Hans.
@@ -2733,7 +2733,7 @@ Hans.
 Er isch froh, wenn er se-n-emol ab hat!...
 
         
-",lustig-hans-dich-hats
+",76,lustig-hans-dich-hats
 154,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -2745,7 +2745,7 @@ Herr Lindeblüescht
 Das isch jetz doch e wenig stark!...
 
         
-",lustig-hans-dich-hats
+",77,lustig-hans-dich-hats
 155,comedy,HANS,M,,,,"
           
 Hans.
@@ -2756,7 +2756,7 @@ Er hat se-n-ewe nie ràcht kanne lide... se-n-isch halt e
                         seig nitt güet formiert... ich find's nitt...
 
         
-",lustig-hans-dich-hats
+",77,lustig-hans-dich-hats
 156,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -2772,7 +2772,7 @@ Ah, so, eh bien, merci... Das isch mr jetz emol e schöne
                         dervo wie verruckt).
 
         
-",lustig-hans-dich-hats
+",78,lustig-hans-dich-hats
 157,comedy,HANS,M,,,,"
           
 Hans
@@ -2794,7 +2794,7 @@ Me ka se-n-E schicke, wenn Sie pressiert sin...
                         hinte-n-üse links).
 
         
-",lustig-hans-dich-hats
+",78,lustig-hans-dich-hats
 158,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -2811,7 +2811,7 @@ Er isch nimmig ku... un doch isch's jetz scho mehr ass e
                         ihre ewe scho ne paar 's hirote versproche...
 
         
-",lustig-hans-dich-hats
+",79,lustig-hans-dich-hats
 159,comedy,HANS,M,,,,"
           
 Hans
@@ -2830,7 +2830,7 @@ So, jetz isch se abg'reist... Tiens, dr Herr Bemol!
                         hit nitt ganz wohl!... oder fehlt ebbe im Trinele ebbes?...
 
         
-",lustig-hans-dich-hats
+",79,lustig-hans-dich-hats
 160,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -2844,7 +2844,7 @@ Er kunnt viellicht noch... er ka jo noch ku... er isch
                         wieder heim geh...
 
         
-",lustig-hans-dich-hats
+",80,lustig-hans-dich-hats
 161,comedy,HANS,M,,,,"
           
 Hans
@@ -2860,7 +2860,7 @@ Wenn's e Dokter isch vo Staffelfelde, wo-n-er erwartet,
                         Herr Bemol!
 
         
-",lustig-hans-dich-hats
+",80,lustig-hans-dich-hats
 162,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -2874,7 +2874,7 @@ Hein!...
  Ka-n-i glich afange? ..
 
         
-",lustig-hans-dich-hats
+",81,lustig-hans-dich-hats
 163,comedy,HANS,M,,,,"
           
 Hans
@@ -2891,7 +2891,7 @@ Ah! er kunnt wieder züe si...
                         süecht ne ine z'schiewe).
 
         
-",lustig-hans-dich-hats
+",81,lustig-hans-dich-hats
 164,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -2907,7 +2907,7 @@ Ich will mi glich an d'Arwet mache, ass i glich wieder
 (er geht ine. Hans lehnt d'Türe-n-a).
 
         
-",lustig-hans-dich-hats
+",82,lustig-hans-dich-hats
 165,comedy,HANS,M,,,,"
           
 Hans.
@@ -2985,7 +2985,7 @@ Im Trinele si Hand.
           
 
         
-",lustig-hans-dich-hats
+",82,lustig-hans-dich-hats
 166,comedy,PETER,M,,,,"
           
 Peter
@@ -2998,7 +2998,7 @@ Ne schön Cumpliment vo mim Herr un er möcht gern
                         d'Antwort wisse...
 
         
-",lustig-hans-dich-hats
+",83,lustig-hans-dich-hats
 167,comedy,HANS,M,,,,"
           
 Hans.
@@ -3007,7 +3007,7 @@ Hans.
 Was fir e-n-Antwort?
 
         
-",lustig-hans-dich-hats
+",83,lustig-hans-dich-hats
 168,comedy,PETER,M,,,,"
           
 Peter.
@@ -3017,7 +3017,7 @@ Ich weiss nitt mehr... er hat g'sàit, Ihr wisste's
                         scho...
 
         
-",lustig-hans-dich-hats
+",84,lustig-hans-dich-hats
 169,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -3032,7 +3032,7 @@ Ah! endlig!... do isch's em denn doch Ernst gsi!... Sage
                         sàh, ass ihn dà Schritt g'wiss nie reie wird...
 
         
-",lustig-hans-dich-hats
+",84,lustig-hans-dich-hats
 170,comedy,PETER,M,,,,"
           
 Peter
@@ -3048,7 +3048,7 @@ Das isch e possige Cummission
 (er geht hinte-n-üse rechts).
 
         
-",lustig-hans-dich-hats
+",85,lustig-hans-dich-hats
 171,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -3062,7 +3062,7 @@ Hans, Dich hat's !
 (er geht ine).
 
         
-",lustig-hans-dich-hats
+",85,lustig-hans-dich-hats
 172,comedy,HANS,M,,,,"
           
 Hans
@@ -3074,7 +3074,7 @@ Hans
 Do kumm i nimmig drüs!...
 
         
-",lustig-hans-dich-hats
+",86,lustig-hans-dich-hats
 173,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -3089,7 +3089,7 @@ Sin Ihr eigentlig vo Sinne, güeter Frind, ass Ihr mir e
                         Eüch, ass Ihr's nur wisse...
 
         
-",lustig-hans-dich-hats
+",86,lustig-hans-dich-hats
 174,comedy,HANS,M,,,,"
           
 Hans.
@@ -3098,7 +3098,7 @@ Hans.
 Sie sin jo ku froge drum!
 
         
-",lustig-hans-dich-hats
+",87,lustig-hans-dich-hats
 175,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -3110,7 +3110,7 @@ Das isch jetz wieder emol güet!... ich kumm ku froge um
                         's ka nitt anderscht si!...
 
         
-",lustig-hans-dich-hats
+",87,lustig-hans-dich-hats
 176,comedy,HANS,M,,,,"
           
 Hans
@@ -3122,7 +3122,7 @@ Hans
 Ich glaüb's efange selbst, wenn's eso furt geht.
 
         
-",lustig-hans-dich-hats
+",88,lustig-hans-dich-hats
 177,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
@@ -3134,7 +3134,7 @@ Herr Scharfmesser
 Was isch, was git's... was isch das fir e Làrme?..
 
         
-",lustig-hans-dich-hats
+",88,lustig-hans-dich-hats
 178,comedy,HANS,M,,,,"
           
 Hans.
@@ -3145,7 +3145,7 @@ Hans.
                         Tochter g'frogt un nitt um Ihre Badbittig...
 
         
-",lustig-hans-dich-hats
+",89,lustig-hans-dich-hats
 179,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser
@@ -3158,7 +3158,7 @@ Ich glaüb, De bisch g'schittelt, Hans, ich kenn jo dà
                         Herr gar nitt.
 
         
-",lustig-hans-dich-hats
+",89,lustig-hans-dich-hats
 180,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -3170,7 +3170,7 @@ Herr Lindeblüescht
 Dr Meister?... was soll das sage?
 
         
-",lustig-hans-dich-hats
+",90,lustig-hans-dich-hats
 181,comedy,HANS,M,,,,"
           
 Hans
@@ -3184,7 +3184,7 @@ Enfin, ich weiss nitt, was in dem Hüs vorgeht!... uf
                         isch mir nitt z'wohl!...
 
         
-",lustig-hans-dich-hats
+",90,lustig-hans-dich-hats
 182,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -3200,7 +3200,7 @@ Sie mien ihm
                         g'heische..
 
         
-",lustig-hans-dich-hats
+",91,lustig-hans-dich-hats
 183,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -3215,7 +3215,7 @@ Ah, do isch jetz endlig dr Herr Scharfmesser. Voyons,
           
 
         
-",lustig-hans-dich-hats
+",91,lustig-hans-dich-hats
 184,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol.
@@ -3228,7 +3228,7 @@ Ich dr Herr Scharfmesser?
                         mi schöner Traüm!..
 
         
-",lustig-hans-dich-hats
+",92,lustig-hans-dich-hats
 185,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Scharfmeser
@@ -3241,7 +3241,7 @@ Ah ça,... güeter Frind wànn Sie eigentlig mi Badbittig
                         oder mi Tochter?...
 
         
-",lustig-hans-dich-hats
+",92,lustig-hans-dich-hats
 186,comedy,HANS,M,,,,"
           
 Hans.
@@ -3251,7 +3251,7 @@ Das isch kei Balwiererstuwe meh, das isch e
                         Narrehüs!...
 
         
-",lustig-hans-dich-hats
+",93,lustig-hans-dich-hats
 187,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -3261,7 +3261,7 @@ Das isch doch jetz iwer's Bohnelied!... wer isch jetz
                         eigentlig do Herr un Meister im Hüs?...
 
         
-",lustig-hans-dich-hats
+",93,lustig-hans-dich-hats
 188,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -3270,7 +3270,7 @@ Herr Scharfmesser.
 Ich.
 
         
-",lustig-hans-dich-hats
+",94,lustig-hans-dich-hats
 189,comedy,HANS,M,,,,"
           
 Hans.
@@ -3285,7 +3285,7 @@ Dà do!
                         Scharfrnesser!...
 
         
-",lustig-hans-dich-hats
+",94,lustig-hans-dich-hats
 190,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht
@@ -3297,7 +3297,7 @@ Herr Lindeblüescht
 Un dà Herr dert?
 
         
-",lustig-hans-dich-hats
+",95,lustig-hans-dich-hats
 191,comedy,HANS,M,,,,"
           
 Hans.
@@ -3310,7 +3310,7 @@ Das isch dr Herr Bemol, unser Klavierstimmer...
                         Herr Scharfmesser un Hans lüege ne verwundert a.)
 
         
-",lustig-hans-dich-hats
+",95,lustig-hans-dich-hats
 192,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -3327,7 +3327,7 @@ Ich sieh scho, ich müess Ihne das Ding expliziere... mr
                         g'heische... Dr Rest isch licht z'errothe...
 
         
-",lustig-hans-dich-hats
+",96,lustig-hans-dich-hats
 193,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -3338,7 +3338,7 @@ Verzeihe Se mr, Herr Scharfmesser, ass ich mich eso
                         d'Hand vo Ihrer Tochter bitte?...
 
         
-",lustig-hans-dich-hats
+",96,lustig-hans-dich-hats
 194,comedy,HANS,M,,,,"
           
 Hans.
@@ -3348,7 +3348,7 @@ Un ich, wo ufkünde ha!... jetz kumm i nitt an
                         d'Hochzit...
 
         
-",lustig-hans-dich-hats
+",97,lustig-hans-dich-hats
 195,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -3362,7 +3362,7 @@ Obschon ich Sie nitt persönlig kenn', so isch mir doch
                         hàn un mi Tochter z'friede-n-isch...
 
         
-",lustig-hans-dich-hats
+",97,lustig-hans-dich-hats
 196,comedy,Herr BEMOL,M,,,,"
           
 Herr Bemol
@@ -3375,7 +3375,7 @@ Jà, un mi Trinele, wo Sie jetz Schuld sin, ass si
                         Repütation verlore-n-nisch?...
 
         
-",lustig-hans-dich-hats
+",98,lustig-hans-dich-hats
 197,comedy,HANS,M,,,,"
           
 Hans
@@ -3389,7 +3389,7 @@ Bin ich denn nitt do, Herr Bemol?... Ich will se jo gern
                         wie's will, so verloss ich 's Trinele nitt!...
 
         
-",lustig-hans-dich-hats
+",98,lustig-hans-dich-hats
 198,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Herr Lindeblüescht.
@@ -3401,7 +3401,7 @@ Eh bien... wil ich denn schuldig bi, so will ich, fir's
                         hirothet...
 
         
-",lustig-hans-dich-hats
+",99,lustig-hans-dich-hats
 199,comedy,HANS,M,,,,"
           
 Hans
@@ -3415,7 +3415,7 @@ So Cunditione ka me scho anàh... was sage Sie derzüe,
 (se gàn enander d'Hand).
 
         
-",lustig-hans-dich-hats
+",99,lustig-hans-dich-hats
 200,comedy,Herr SCHARFMESSER,M,,,,"
           
 Herr Scharfmesser.
@@ -3460,7 +3460,7 @@ Wà mir ha, Gross un Klei',
           
 
         
-",lustig-hans-dich-hats
+",100,lustig-hans-dich-hats
 201,comedy,HANS,M,,,,"
           
 Mitnander.
@@ -3482,7 +3482,7 @@ Müsik wà mr ha.
           
 
         
-",lustig-hans-dich-hats
+",100,lustig-hans-dich-hats
 202,comedy,Herr SCHARFMESSER,M,,,,"
           
 Mitnander.
@@ -3504,7 +3504,7 @@ Müsik wà mr ha.
           
 
         
-",lustig-hans-dich-hats
+",101,lustig-hans-dich-hats
 203,comedy,Herr LINDEBLÜESCHT,M,,,,"
           
 Mitnander.
@@ -3526,7 +3526,7 @@ Müsik wà mr ha.
           
 
         
-",lustig-hans-dich-hats
+",101,lustig-hans-dich-hats
 204,comedy,Herr BEMOL,M,,,,"
           
 Mitnander.
@@ -3548,4 +3548,4 @@ Müsik wà mr ha.
           
 
         
-",lustig-hans-dich-hats
+",102,lustig-hans-dich-hats

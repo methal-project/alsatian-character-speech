@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -24,7 +24,7 @@ Die Gesundheit ist des Menschen höchstes und teuerstes Gut.
           !
 
         
-",clemens-gift,82,6,0.77690036637131,0.07317073170731707
+",0,clemens-gift,82,6,0.77690036637131,0.07317073170731707
 3,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -33,7 +33,7 @@ Daniel:
 I-ich hab grad d' Müsfall g'stellt, no haw-ich mr noch d'r Finger verquetscht.
 
         
-",clemens-gift,14,1,0.6993651460488204,0.07142857142857142
+",1,clemens-gift,14,1,0.6993651460488204,0.07142857142857142
 4,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -46,7 +46,7 @@ Steinle :
           kummt, allewäj d'r Barickes !
 
         
-",clemens-gift,34,2,0.4703994057971328,0.058823529411764705
+",2,clemens-gift,34,2,0.4703994057971328,0.058823529411764705
 5,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -59,7 +59,7 @@ Buschur. Herr Steinle, ich will fröje, ob ich Eich ebs mit soll bringe üs d'r 
           grad nin mit-em Tram, e Kommission mache.
 
         
-",clemens-gift,32,4,0.7651350443458722,0.125
+",2,clemens-gift,32,4,0.7651350443458722,0.125
 6,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -70,7 +70,7 @@ Doch, Anselm, diss isch grad recht, ass-r fröje... Ihr kennte m'r üs d'r Droge
           in d' Stubb kumme se m'r sogar ; es isch vun nix andersch als vun d'r Mälzerei do newe-n-uns.
 
         
-",clemens-gift,56,7,0.48154372320727784,0.125
+",3,clemens-gift,56,7,0.48154372320727784,0.125
 8,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -83,7 +83,7 @@ Ebä, do Anselm, bringe mir e Päckel mit für e Franke, will Ihr doch grad in d
           gelle!... Un wie isch's mit-em Eise do hinte am Hals, isch-r noch nit zitti ?
 
         
-",clemens-gift,40,3,0.5011173401517867,0.075
+",4,clemens-gift,40,3,0.5011173401517867,0.075
 9,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -93,7 +93,7 @@ Ich glaub, ass-r jetz doch uffgeht... es wär au ball Zitt, es isch jetzt schun 
           dass ich ne hab.
 
         
-",clemens-gift,24,2,0.6899887304792589,0.08333333333333333
+",4,clemens-gift,24,2,0.6899887304792589,0.08333333333333333
 10,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -103,7 +103,7 @@ Nurre nit verzwifelt, Anselm, ich bring-ne schun uf, numme d' Bäbb vun Hanfsoot
           heiss ufgelajt, wie Ihr's verlide kenne ; — uf muss-r un wenn alles hin geht.
 
         
-",clemens-gift,32,5,0.4338924125713438,0.15625
+",5,clemens-gift,32,5,0.4338924125713438,0.15625
 11,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -115,7 +115,7 @@ Anselm :
 Jo, jo — — wenn ich awer emol zuem Dokter dätt gehn...
 
         
-",clemens-gift,20,1,0.6361058512675609,0.05
+",5,clemens-gift,20,1,0.6361058512675609,0.05
 12,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -130,7 +130,7 @@ Seje mr still, kenn Wort vom Dokter ; den der geht anne un schnied Ejch glich e 
           ich Ejch gänn hab ?
 
         
-",clemens-gift,69,12,0.5638176867800465,0.17391304347826086
+",6,clemens-gift,69,12,0.5638176867800465,0.17391304347826086
 13,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -139,7 +139,7 @@ Anselm :
 Nit vum Beschte, ich hab mich d' ganz Nacht vun einere Sitt uf d' ander gewälzt.
 
         
-",clemens-gift,17,2,0.7572400031979881,0.11764705882352941
+",6,clemens-gift,17,2,0.7572400031979881,0.11764705882352941
 14,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -167,7 +167,7 @@ So, so — —
  Der isch famos, hä ?—
 
         
-",clemens-gift,71,2,0.7955000000000001,0.028169014084507043
+",7,clemens-gift,71,2,0.7955000000000001,0.028169014084507043
 15,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -178,7 +178,7 @@ Exelänt isch'r, Herr Steinle ; wisse-nr, ich versteh ebs vum Schnaps, miner Bab
           au ...
 
         
-",clemens-gift,31,5,0.705281818932961,0.16129032258064516
+",7,clemens-gift,31,5,0.705281818932961,0.16129032258064516
 16,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -187,7 +187,7 @@ Steinle :
 Nit d'rwärt, Anselm, un vergesse mr diss Gift nit !
 
         
-",clemens-gift,11,2,0.18792898686834864,0.18181818181818182
+",8,clemens-gift,11,2,0.18792898686834864,0.18181818181818182
 17,comedy,Anselm,M,,,,"
           
 Anselm :
@@ -196,7 +196,7 @@ Anselm :
 Aba — — ich denk dran, adje, Herr Steinle !
 
         
-",clemens-gift,10,2,0.37873543564363676,0.2
+",8,clemens-gift,10,2,0.37873543564363676,0.2
 18,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -207,7 +207,7 @@ Adje, Anselm !
 (Anselm rechts ab.)
 
         
-",clemens-gift,8,1,0.1787619194417025,0.125
+",9,clemens-gift,8,1,0.1787619194417025,0.125
 19,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -250,7 +250,7 @@ No wurd doch die Plöj mit dene Mies ufhöere... Wieviel Ühr isch denn au ?
  Daniel — Daniel !!
 
         
-",clemens-gift,235,24,0.5704572848404411,0.10212765957446808
+",9,clemens-gift,235,24,0.5704572848404411,0.10212765957446808
 21,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -259,7 +259,7 @@ Steinle :
 Do kumme here un griffe emol, ob ich wieder kalti Füess hab, ich hab wieder Rumatisse.
 
         
-",clemens-gift,17,4,0.35365085158055737,0.23529411764705882
+",10,clemens-gift,17,4,0.35365085158055737,0.23529411764705882
 22,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -271,7 +271,7 @@ Daniel:
 D'r links isch warm, un d'r rechts - ho - ho - ho, der isch kalt wie-n-e Iszapfe am Neujohr !
 
         
-",clemens-gift,34,3,0.6042801540438956,0.08823529411764706
+",11,clemens-gift,34,3,0.6042801540438956,0.08823529411764706
 23,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -281,7 +281,7 @@ Ze hole glich e warme Socke — zeje m'r d'r linkse Pantoffel wieder an, d'r lin
           warm.
 
         
-",clemens-gift,21,3,0.6390661143167934,0.14285714285714285
+",11,clemens-gift,21,3,0.6390661143167934,0.14285714285714285
 24,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -293,7 +293,7 @@ Daniel:
 Ho - ho - hoi, do lejt-r !
 
         
-",clemens-gift,23,2,0.5448745830943985,0.08695652173913043
+",12,clemens-gift,23,2,0.5448745830943985,0.08695652173913043
 25,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -305,7 +305,7 @@ Steinle :
 Ze stehn au wieder uf un mache, dass der Socke glich kummt.
 
         
-",clemens-gift,16,2,0.4273350969154076,0.125
+",12,clemens-gift,16,2,0.4273350969154076,0.125
 27,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -320,7 +320,7 @@ Der Mensch wurd alle Daa dauwer, ich glaub, der grejt als d'r Gänsdirmel.
  Daniel ! Herrschaft, wurd's ball mit dem Socke ?!
 
         
-",clemens-gift,33,3,0.5503467400480815,0.09090909090909091
+",13,clemens-gift,33,3,0.5503467400480815,0.09090909090909091
 28,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -336,7 +336,7 @@ Do - do - do haw-ich ne !
           galle Meischter ?
 
         
-",clemens-gift,39,3,0.7141511845238296,0.07692307692307693
+",14,clemens-gift,39,3,0.7141511845238296,0.07692307692307693
 29,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -348,7 +348,7 @@ Ah ! dess macht guet, füer Rumatisse isch halt nix besser wie warmi Füess, dä
 (Trägt nun am rechten Fuss den Socken, am linken den Pantoffel.)
 
         
-",clemens-gift,45,7,0.5850325451129492,0.15555555555555556
+",14,clemens-gift,45,7,0.5850325451129492,0.15555555555555556
 30,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -358,7 +358,7 @@ Mr sott's gar nitt füer mejli halte, ass im e Buech so heilsami Sache kenne ste
           dess Buech numme häre ?
 
         
-",clemens-gift,25,2,0.5934842898378614,0.08
+",15,clemens-gift,25,2,0.5934842898378614,0.08
 31,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -370,7 +370,7 @@ Vore Johre drissig haw-ichs kauft vum e Grimpler in d'r Stadt un es rejt mich ni
 (es schellt).
 
         
-",clemens-gift,29,1,0.2258885156657865,0.034482758620689655
+",15,clemens-gift,29,1,0.2258885156657865,0.034482758620689655
 33,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -386,7 +386,7 @@ Gehn un mache-n-uf.
           Socke üsmacht.
 
         
-",clemens-gift,38,2,0.695799585737595,0.05263157894736842
+",16,clemens-gift,38,2,0.695799585737595,0.05263157894736842
 34,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -398,7 +398,7 @@ Daniel :
 Mei - Meischter, as isch iemes do, rote-n-emol wer ?
 
         
-",clemens-gift,15,1,0.6152182076445754,0.06666666666666667
+",17,clemens-gift,15,1,0.6152182076445754,0.06666666666666667
 36,comedy,Robert,M,,,,"
           
 Robert:
@@ -412,7 +412,7 @@ Ich bin's Unkel! Bonjour Unkel, wie geht's ? — Do haw-ich e Strüss füer Dich
           dem Wunsch von minere Mamme schliess ich mich voll un ganz an !
 
         
-",clemens-gift,57,12,0.7142306905468497,0.21052631578947367
+",18,clemens-gift,57,12,0.7142306905468497,0.21052631578947367
 37,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -427,7 +427,7 @@ Merci Robert, vielmols merci, dess frajt mich, dass Ihr an mine Geburtsdaa geden
           ins Fremdezimmer un no gehn-'r-nab in de Keller un hole e Fläschl, von dene mit Spinnhuddle dran —
 
         
-",clemens-gift,79,6,0.604972788952527,0.0759493670886076
+",18,clemens-gift,79,6,0.604972788952527,0.0759493670886076
 40,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -440,7 +440,7 @@ Wie Ihr saue, so wurd's gemacht, Meischter.
  Des Fläschl trink ich uf sini G'sundheit.
 
         
-",clemens-gift,42,4,0.6473191250107571,0.09523809523809523
+",20,clemens-gift,42,4,0.6473191250107571,0.09523809523809523
 41,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -449,7 +449,7 @@ Steinle :
 So — un jetz kumm un setz Dich do here, no welle-mr e bissel verzehle.
 
         
-",clemens-gift,16,1,0.5077636222456227,0.0625
+",20,clemens-gift,16,1,0.5077636222456227,0.0625
 42,comedy,Robert,M,,,,"
           
 Robert :
@@ -459,7 +459,7 @@ Bon, Unkel. — Un wie geht's D'r denn allewill ? Immer noch frisch un munter ?!
           Füess, dass De e Socke anhesch ?
 
         
-",clemens-gift,26,3,0.6461469023646487,0.11538461538461539
+",21,clemens-gift,26,3,0.6461469023646487,0.11538461538461539
 43,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -469,7 +469,7 @@ Ah — nit schlimm, ich hab grad ewe so e Schmerz nin bekumme, so e-n-Art Rumati
           wieder besser.
 
         
-",clemens-gift,25,5,0.402026420140404,0.2
+",21,clemens-gift,25,5,0.402026420140404,0.2
 44,comedy,Robert,M,,,,"
           
 Robert :
@@ -478,7 +478,7 @@ Robert :
 Oho, Rumatisse hesch, do will ich Dir glich e guets Mittel drgeje — —
 
         
-",clemens-gift,15,2,0.3897381852216914,0.13333333333333333
+",22,clemens-gift,15,2,0.3897381852216914,0.13333333333333333
 45,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -487,7 +487,7 @@ Steinle :
 Pscht, pscht, ich brüch kenn Mittel von Dir — ich kürier mich selwer. Do min Buch ! —
 
         
-",clemens-gift,18,2,0.6627381852216914,0.1111111111111111
+",22,clemens-gift,18,2,0.6627381852216914,0.1111111111111111
 46,comedy,Robert,M,,,,"
           
 Robert :
@@ -497,7 +497,7 @@ Hesch denn dess Buch als noch ! Do bisch noch nit güet uf Dokter ze spreche, wi
           wisse ?
 
         
-",clemens-gift,21,3,0.7332473419064282,0.14285714285714285
+",23,clemens-gift,21,3,0.7332473419064282,0.14285714285714285
 47,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -509,7 +509,7 @@ Robert, Dü kennsch mini Abneigung geje Dokter. Zitter zellemols, wie ich die in
           g'holfe oder doch Linderung verschafft.
 
         
-",clemens-gift,60,10,0.5055790544044072,0.16666666666666666
+",23,clemens-gift,60,10,0.5055790544044072,0.16666666666666666
 49,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -520,7 +520,7 @@ Nit ütze, Robert! — Unseri Bas Theres hätt sicher noch vierzehn Daa länger 
           !
 
         
-",clemens-gift,35,5,0.5336118000483095,0.14285714285714285
+",24,clemens-gift,35,5,0.5336118000483095,0.14285714285714285
 50,comedy,Robert,M,,,,"
           
 Robert :
@@ -532,7 +532,7 @@ Robert :
 O hör Unkel, bi-n-re Fräu vun 82 Johr — was heisst do vierzehn Daa —
 
         
-",clemens-gift,21,1,0.75,0.047619047619047616
+",25,clemens-gift,21,1,0.75,0.047619047619047616
 51,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -544,7 +544,7 @@ So! — Vierzehn Daa sin als wieder zwei Wuche! Awer die im Spital un die Dokter
 no eim noch e Hüffe Geld abnemme für ihri Plöjerej un Litschinderej !
 
         
-",clemens-gift,49,6,0.5740485325733545,0.12244897959183673
+",25,clemens-gift,49,6,0.5740485325733545,0.12244897959183673
 52,comedy,Robert,M,,,,"
           
 Robert :
@@ -557,7 +557,7 @@ Höer Unkel! ich loss d'r Dokter stand nit schlecht mache vun Dir, denn ich will
           ich vor drei Daa mine Exame gemacht hab als Dokter.
 
         
-",clemens-gift,32,7,0.495671367456212,0.21875
+",26,clemens-gift,32,7,0.495671367456212,0.21875
 53,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -566,7 +566,7 @@ Steinle :
 So, so, Dokter bisch!— Ja un jetz ? !
 
         
-",clemens-gift,9,2,0.6840441651937079,0.2222222222222222
+",26,clemens-gift,9,2,0.6840441651937079,0.2222222222222222
 54,comedy,Robert,M,,,,"
           
 Robert:
@@ -577,7 +577,7 @@ Un jetz !? — Jetz haw-ich eso gedenkt. Diner Exame als Dokter hesch gemacht, j
           füer e Stell als Dokter ze üewernemme, wo mir angebotte isch worre.""
 
         
-",clemens-gift,48,6,0.6064670051708334,0.125
+",27,clemens-gift,48,6,0.6064670051708334,0.125
 55,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -587,7 +587,7 @@ Un dr Unkel wurd die Hand erab mache vun sinere Achsel, wurd Dir de Buckel dräh
           ""Min liewer Herr Dokter: Nix ze mache.""
 
         
-",clemens-gift,27,4,0.6552199772081392,0.14814814814814814
+",27,clemens-gift,27,4,0.6552199772081392,0.14814814814814814
 56,comedy,Robert,M,,,,"
           
 Robert :
@@ -597,7 +597,7 @@ Unkel, dass De eso bisch gege dine Neveu, dess hätt ich nit gedenkt !— Was wu
           saue?
 
         
-",clemens-gift,21,2,0.5749939125055537,0.09523809523809523
+",28,clemens-gift,21,2,0.5749939125055537,0.09523809523809523
 57,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -612,7 +612,7 @@ Wurum isch mim Rot nit g'follit worre! Hättsch ebs rächts gelehrt, wärsch Mü
           !
 
         
-",clemens-gift,55,6,0.5948469245926892,0.10909090909090909
+",28,clemens-gift,55,6,0.5948469245926892,0.10909090909090909
 58,comedy,Robert,M,,,,"
           
 Robert :
@@ -624,7 +624,7 @@ Unkel, ich hab kenn Luscht g'hett füer's Bäufach, ich hab vun jehär füer d'r
           helfsch m'r jetz, gell Unkele ? !
 
         
-",clemens-gift,59,9,0.6391721731847332,0.15254237288135594
+",29,clemens-gift,59,9,0.6391721731847332,0.15254237288135594
 59,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -633,7 +633,7 @@ Steinle :
 Brüchsch mir nit ze fladiere — ich gib nix — emol nit füer e Dokter.
 
         
-",clemens-gift,16,1,0.6361058512675609,0.0625
+",29,clemens-gift,16,1,0.6361058512675609,0.0625
 60,comedy,Robert,M,,,,"
           
 Robert :
@@ -645,7 +645,7 @@ Ich gib d'Hoffnung nit uf. — Unkel, wenn Dü dätsch sehn, wie witt dass wirkl
 vun de Dokter — un gib acht, Unkel, nit dass Dü noch emol froh bisch um e Dokter.
 
         
-",clemens-gift,56,12,0.7206255941316542,0.21428571428571427
+",30,clemens-gift,56,12,0.7206255941316542,0.21428571428571427
 61,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -654,7 +654,7 @@ Steinle :
 Ganz üsg'schlosse, niemols, do kennsch Dü mich schlecht; — do dät ich d'gröscht Wettung mache.
 
         
-",clemens-gift,17,4,0.42528007599684525,0.23529411764705882
+",30,clemens-gift,17,4,0.42528007599684525,0.23529411764705882
 62,comedy,Robert,M,,,,"
           
 Robert :
@@ -666,7 +666,7 @@ Robert :
 Unkel, wett nit !
 
         
-",clemens-gift,7,1,0.8769041206512223,0.14285714285714285
+",31,clemens-gift,7,1,0.8769041206512223,0.14285714285714285
 63,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -676,7 +676,7 @@ Doch ich wett — — um was ass de witt.... dass de siehsch, wie sicher ich bin
           die 5000 Franke geje e Flasch Schampanjer.
 
         
-",clemens-gift,30,3,0.46117753042051407,0.1
+",31,clemens-gift,30,3,0.46117753042051407,0.1
 64,comedy,Robert,M,,,,"
           
 Robert :
@@ -686,7 +686,7 @@ Die Wettung nemm ich an !... Also, sobald Dü e Dokter brüchsch, bekumm ich die
           andernfalls müess ich e Flasch Schampanjer zahle. Gilt's eso? Awer ich derf alli Farce anwende ?
 
         
-",clemens-gift,33,5,0.502487509520824,0.15151515151515152
+",32,clemens-gift,33,5,0.502487509520824,0.15151515151515152
 65,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -701,7 +701,7 @@ Alles angenumme!
           alt wäre....
 
         
-",clemens-gift,63,9,0.6639394333728557,0.14285714285714285
+",32,clemens-gift,63,9,0.6639394333728557,0.14285714285714285
 66,comedy,Robert,M,,,,"
           
 Robert :
@@ -710,7 +710,7 @@ Robert :
 Wenn de 's Läwe b'halsch...
 
         
-",clemens-gift,6,1,0.8722145007409952,0.16666666666666666
+",33,clemens-gift,6,1,0.8722145007409952,0.16666666666666666
 67,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -722,7 +722,7 @@ Brüchsch nit ze ütze, grad ze leid wur ich so alt — un uf mini G'sundheit an
 (holt ein frisches Gläschen aus dem Büffet.)
 
         
-",clemens-gift,33,6,0.6515041744002998,0.18181818181818182
+",33,clemens-gift,33,6,0.6515041744002998,0.18181818181818182
 68,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -734,7 +734,7 @@ Daniel:
 Mei - Meischter, e Müs haw-ich g'fange...
 
         
-",clemens-gift,16,1,0.235,0.0625
+",34,clemens-gift,16,1,0.235,0.0625
 69,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -743,7 +743,7 @@ Steinle :
 Ja, wie hann-r se denn, ich sieh kenni ?
 
         
-",clemens-gift,9,1,0.731982479119855,0.1111111111111111
+",34,clemens-gift,9,1,0.731982479119855,0.1111111111111111
 71,comedy,Robert,M,,,,"
           
 Robert :
@@ -755,7 +755,7 @@ Robert :
  Ihr sin guet, — fangt Mies un losst se wieder furt.
 
         
-",clemens-gift,15,2,0.8308180872258617,0.13333333333333333
+",35,clemens-gift,15,2,0.8308180872258617,0.13333333333333333
 72,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -764,7 +764,7 @@ Steinle :
 Was hann-r denn do wieder gemacht ?
 
         
-",clemens-gift,7,1,0.683,0.14285714285714285
+",36,clemens-gift,7,1,0.683,0.14285714285714285
 73,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -777,7 +777,7 @@ Do, do, d' Müs isch mit-m Wäddele zwische d'r Fall ingeklämmt g'sin un ass se
  un no esch se fort gewänn.
 
         
-",clemens-gift,40,3,0.5833333333333334,0.075
+",36,clemens-gift,40,3,0.5833333333333334,0.075
 74,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -793,7 +793,7 @@ Ihr brüche noch ze lache üewer Ejere Daubheit; mache dass-r nüss kumme —
  G'sundheit !
 
         
-",clemens-gift,48,4,0.7246293562711525,0.08333333333333333
+",37,clemens-gift,48,4,0.7246293562711525,0.08333333333333333
 75,comedy,Robert,M,,,,"
           
 Robert :
@@ -805,7 +805,7 @@ Uf din Wohl, Unkel !
  E guets Tröpfel.
 
         
-",clemens-gift,12,3,0.5564066223584649,0.25
+",37,clemens-gift,12,3,0.5564066223584649,0.25
 76,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -822,7 +822,7 @@ Jaa, e guets Schnäpsel un e gueter Humor hilft geje alli Maläschte — un morj
  D' Juchhee ! Autsch ! min-r Füess — uh!
 
         
-",clemens-gift,70,12,0.6751547281013153,0.17142857142857143
+",38,clemens-gift,70,12,0.6751547281013153,0.17142857142857143
 77,comedy,Robert,M,,,,"
           
 Robert :
@@ -834,7 +834,7 @@ Robert :
 Unkel, was hesch ? Kumm ich helf D'r.
 
         
-",clemens-gift,12,3,0.5137120337076136,0.25
+",38,clemens-gift,12,3,0.5137120337076136,0.25
 78,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -848,7 +848,7 @@ Nein, nein, eweg, Dü bisch e Dokter ! Ich geh in d' Kiche, dr Daniel muess mr e
           sinn.
 
         
-",clemens-gift,44,5,0.6774616240224482,0.11363636363636363
+",39,clemens-gift,44,5,0.6774616240224482,0.11363636363636363
 79,comedy,Robert,M,,,,"
           
 Robert :
@@ -857,7 +857,7 @@ Robert :
 Unkel, kumm ich helf D'r, ich weiss e guets Mittel geje Rumatisse —
 
         
-",clemens-gift,14,5,0.48983752227249877,0.35714285714285715
+",39,clemens-gift,14,5,0.48983752227249877,0.35714285714285715
 80,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -871,7 +871,7 @@ Ich will Din Mittel nit wisse.
 (ab)
 
         
-",clemens-gift,25,3,0.6748137762276976,0.12
+",40,clemens-gift,25,3,0.6748137762276976,0.12
 81,comedy,Robert,M,,,,"
           
 Robert:
@@ -909,7 +909,7 @@ d'r Unkel dess Geld nit gitt, un ich muess-'s hann, sunsch schnappt mr e-n-ander
           min Zimmer, mini Sache üspacke un e Kart schriewe an d' Mamme !
 
         
-",clemens-gift,263,29,0.574927651336417,0.11026615969581749
+",40,clemens-gift,263,29,0.574927651336417,0.11026615969581749
 82,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -921,7 +921,7 @@ Steinle :
 's isch erecht, ich kumm grad, ich bin wieder herg'stellt.
 
         
-",clemens-gift,16,2,0.6035643841472216,0.125
+",41,clemens-gift,16,2,0.6035643841472216,0.125
 83,comedy,Robert,M,,,,"
           
 Robert :
@@ -932,7 +932,7 @@ So, so, es freijt mich, Unkel !
 (Geht lustig pfeifend nach rechts ab.)
 
         
-",clemens-gift,15,1,0.8769041206512223,0.06666666666666667
+",41,clemens-gift,15,1,0.8769041206512223,0.06666666666666667
 84,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -952,7 +952,7 @@ So, es geht jetz wieder. — Dass ich grad hitt so Maläschte muess hann —
  Daniel, Daniel !
 
         
-",clemens-gift,58,4,0.4898339776754036,0.06896551724137931
+",42,clemens-gift,58,4,0.4898339776754036,0.06896551724137931
 86,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -963,7 +963,7 @@ Mache-n-em uf, sunsch risst-r noch d'r Schällezug erab.
 (Daniel ab.)
 
         
-",clemens-gift,15,1,0.714,0.06666666666666667
+",43,clemens-gift,15,1,0.714,0.06666666666666667
 87,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -983,7 +983,7 @@ Worum mache-n-'r denn nit uf, Dunderwetter noch-emol, ich bin pressiert !
           g'schafft, viel g'schafft hit.
 
         
-",clemens-gift,69,5,0.572802379120788,0.07246376811594203
+",43,clemens-gift,69,5,0.572802379120788,0.07246376811594203
 88,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -996,7 +996,7 @@ Salü Barasoll !
           gehts guet hit.
 
         
-",clemens-gift,25,3,0.8110907829678157,0.12
+",44,clemens-gift,25,3,0.8110907829678157,0.12
 89,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1012,7 +1012,7 @@ Ja, ich bin allewill vivant
           denn wenn ich emol nimi red — no bin ich dot !
 
         
-",clemens-gift,49,4,0.5563137835136356,0.08163265306122448
+",44,clemens-gift,49,4,0.5563137835136356,0.08163265306122448
 91,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1027,7 +1027,7 @@ Merci bien ! Gälle, der lehrt Note, dass'r als do, do, do macht.
 (Schlägt Schaum.)
 
         
-",clemens-gift,39,2,0.5977683674503731,0.05128205128205128
+",45,clemens-gift,39,2,0.5977683674503731,0.05128205128205128
 92,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1037,7 +1037,7 @@ Min'r Neveu, d'r Robert, isch uf B'suech kumme, es isch e Bue vun minere Schwest
           Exame gemacht als Doktor.
 
         
-",clemens-gift,23,6,0.6062897826877265,0.2608695652173913
+",46,clemens-gift,23,6,0.6062897826877265,0.2608695652173913
 93,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1047,7 +1047,7 @@ A la bonheur, do kenne Sie stolz sin ; e Dokter in der Familie, do isch's e Plä
           kenn besser's Métier, wie Dokter!
 
         
-",clemens-gift,29,6,0.646662745564015,0.20689655172413793
+",46,clemens-gift,29,6,0.646662745564015,0.20689655172413793
 94,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1060,7 +1060,7 @@ Was saue-n-Ihr .... 's isch nit wohr, nix isch e Dokter; ich hab welle hann, er 
           lehre.
 
         
-",clemens-gift,24,4,0.5789864480343476,0.16666666666666666
+",47,clemens-gift,24,4,0.5789864480343476,0.16666666666666666
 95,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1074,7 +1074,7 @@ Jaa, do hann Sie recht, ganz erecht, Monsieur Steinle, nix besseres hittzedaa's 
 Mürer, die verdiene e hüffe Geld, ich bin ganz vun Ihrer Meinung. —
 
         
-",clemens-gift,31,7,0.7375727148375361,0.22580645161290322
+",47,clemens-gift,31,7,0.7375727148375361,0.22580645161290322
 96,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -1086,7 +1086,7 @@ Un min G'schäft...
  pfui, Seif ins Müll!...
 
         
-",clemens-gift,11,2,0.6829226908787122,0.18181818181818182
+",48,clemens-gift,11,2,0.6829226908787122,0.18181818181818182
 97,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1102,7 +1102,7 @@ Pardon, exküsiere Se; Monsieur Steinle, awer Sie derfe nit rede üwer-m Inseife
           Händ un will-em de Hals abschnide...
 
         
-",clemens-gift,92,10,0.543219145925704,0.10869565217391304
+",48,clemens-gift,92,10,0.543219145925704,0.10869565217391304
 98,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1114,7 +1114,7 @@ Steinle :
 He, he, Barasoll, lon die Plän eweg, sunsch derfe-n-Ihr mich nim rasiere.
 
         
-",clemens-gift,18,2,0.4756020145039993,0.1111111111111111
+",49,clemens-gift,18,2,0.4756020145039993,0.1111111111111111
 99,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1130,7 +1130,7 @@ Ich glaub, Sie hann Angscht, Monsieur Steinle, allez, — ich mach jo nur Plän,
  Was isch denn los ? !
 
         
-",clemens-gift,60,11,0.551417536324846,0.18333333333333332
+",49,clemens-gift,60,11,0.551417536324846,0.18333333333333332
 101,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1140,7 +1140,7 @@ Barasoll :
           sich ängstlich.)
 
         
-",clemens-gift,21,2,0.4422369953942351,0.09523809523809523
+",50,clemens-gift,21,2,0.4422369953942351,0.09523809523809523
 102,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1152,7 +1152,7 @@ Steinle :
 Wo isch se — — wo?
 
         
-",clemens-gift,18,1,0.590952176462202,0.05555555555555555
+",51,clemens-gift,18,1,0.590952176462202,0.05555555555555555
 103,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1163,7 +1163,7 @@ Do, do, im Eck
 (deutet in die rechte Ecke.)
 
         
-",clemens-gift,12,1,0.6400876506878803,0.08333333333333333
+",51,clemens-gift,12,1,0.6400876506878803,0.08333333333333333
 104,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1174,7 +1174,7 @@ Wart, dü Kaib, ich gib d'r füer d' Wändle
 (tritt nach der Maus).
 
         
-",clemens-gift,16,3,0.342500215600682,0.1875
+",52,clemens-gift,16,3,0.342500215600682,0.1875
 105,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1185,7 +1185,7 @@ Wäck, wäck, ich schlaa se hin!
 (schlägt Steinle.)
 
         
-",clemens-gift,11,2,0.23799147525762834,0.18181818181818182
+",52,clemens-gift,11,2,0.23799147525762834,0.18181818181818182
 106,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1194,7 +1194,7 @@ Steinle :
 Autsch ! Basse doch uff, e Nuntebuckel !
 
         
-",clemens-gift,7,1,0.714,0.14285714285714285
+",53,clemens-gift,7,1,0.714,0.14285714285714285
 107,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1206,7 +1206,7 @@ Daniel :
 Hahaha! — Barasoll, was mache denn Ihr uf'm Disch ? Ich hab gemaint, Ihr kenne kenn Angscht ?
 
         
-",clemens-gift,25,2,0.4653356912117519,0.08
+",53,clemens-gift,25,2,0.4653356912117519,0.08
 108,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1218,7 +1218,7 @@ Ich hab au kenn Angscht, parole d'honneur ! Sie hett chance kett, dass se nit do
 (kommt vom Tisch herunter).
 
         
-",clemens-gift,32,5,0.4375494216344194,0.15625
+",54,clemens-gift,32,5,0.4375494216344194,0.15625
 109,comedy,Steinle,M,,,,"
           
 Beide :
@@ -1227,7 +1227,7 @@ Beide :
 (lachen ihn aus).
 
         
-",clemens-gift,6,1,0.8952774323956044,0.16666666666666666
+",54,clemens-gift,6,1,0.8952774323956044,0.16666666666666666
 110,comedy,Daniel,M,,,,"
           
 Beide :
@@ -1236,7 +1236,7 @@ Beide :
 (lachen ihn aus).
 
         
-",clemens-gift,6,1,0.8952774323956044,0.16666666666666666
+",55,clemens-gift,6,1,0.8952774323956044,0.16666666666666666
 111,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1245,7 +1245,7 @@ Daniel :
 Ja, jo, mit-em Müll, alter Hosseloddel !
 
         
-",clemens-gift,7,3,0.6528316446751754,0.42857142857142855
+",55,clemens-gift,7,3,0.6528316446751754,0.42857142857142855
 112,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1258,7 +1258,7 @@ Daniel, mache mich nit wüeti ! Wenn mir diss aner vor 30 Jahr g'saat hätt, Her
 (macht einige Sprünge wie volte de fasse usw. — Gelächter.)
 
         
-",clemens-gift,60,7,0.4703686419454049,0.11666666666666667
+",56,clemens-gift,60,7,0.4703686419454049,0.11666666666666667
 113,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1267,7 +1267,7 @@ Steinle :
 Barasoll, jetz steck-es awer uf mit dene Plän un rasiere mich.
 
         
-",clemens-gift,12,2,0.6936931701076299,0.16666666666666666
+",56,clemens-gift,12,2,0.6936931701076299,0.16666666666666666
 114,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1284,7 +1284,7 @@ Avec plaisir, Monsieur Steinle... Miner Wüet isch schun wieder eweg.
 (trocknet Steinle ab und macht sein Rasierzeug zusammen.)
 
         
-",clemens-gift,90,7,0.6630072086081225,0.07777777777777778
+",57,clemens-gift,90,7,0.6630072086081225,0.07777777777777778
 115,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1294,7 +1294,7 @@ Ich schmeck de Büchon, alter Schikanebuckel ! ... Daniel, lange de Trawere un z
           !
 
         
-",clemens-gift,16,3,0.5588401791238686,0.1875
+",57,clemens-gift,16,3,0.5588401791238686,0.1875
 117,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1303,7 +1303,7 @@ Steinle :
 Zwei — füer d'r Barasoll un füer mich ; Dü trinksch genuej dervun im Versteckte.
 
         
-",clemens-gift,15,1,0.3210309118792295,0.06666666666666667
+",58,clemens-gift,15,1,0.3210309118792295,0.06666666666666667
 118,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1312,7 +1312,7 @@ Daniel :
 Mei - Meischter, noch kenn Tropfe haw-ich...
 
         
-",clemens-gift,8,1,0.3848133362369537,0.125
+",59,clemens-gift,8,1,0.3848133362369537,0.125
 119,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1322,7 +1322,7 @@ Steinle :
           Lange jetz numme d' Budell un zwei Gläsle ! ..... Barasoll, nemme noch e bissel Platz...
 
         
-",clemens-gift,34,6,0.6567530139009957,0.17647058823529413
+",59,clemens-gift,34,6,0.6567530139009957,0.17647058823529413
 120,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1332,7 +1332,7 @@ Daniel :
           Flasche.)
 
         
-",clemens-gift,18,2,0.5775117194208009,0.1111111111111111
+",60,clemens-gift,18,2,0.5775117194208009,0.1111111111111111
 121,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1344,7 +1344,7 @@ Steinle :
 Kummt der Schnaps — ja was Schinders, was mache denn Ihr an dere Budell ?
 
         
-",clemens-gift,21,1,0.731982479119855,0.047619047619047616
+",60,clemens-gift,21,1,0.731982479119855,0.047619047619047616
 122,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -1355,7 +1355,7 @@ Ei, ei, der Zapfe geht so böes erab — er isch jetz hüsse.
 (wischt den Mund verstohlen ab mit der Schürze.)
 
         
-",clemens-gift,24,2,0.35968009605418416,0.08333333333333333
+",61,clemens-gift,24,2,0.35968009605418416,0.08333333333333333
 123,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1370,7 +1370,7 @@ Ich mach Ejch glich d'r Zapfe herab — schenke-n-emol in un mache nit so lang �
 (trinkt)
 
         
-",clemens-gift,44,5,0.6177368136321075,0.11363636363636363
+",61,clemens-gift,44,5,0.6177368136321075,0.11363636363636363
 124,comedy,Barasoll,M,,,,"
           
 Barasoll:
@@ -1383,7 +1383,7 @@ A votre santé, Monsieur Steinle!
           schmeckt e Blinder uf 10 Meter; diss isch au Trawere, diss isch kenn Gieges...
 
         
-",clemens-gift,37,1,0.714,0.02702702702702703
+",62,clemens-gift,37,1,0.714,0.02702702702702703
 125,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -1393,7 +1393,7 @@ Ja, ja, e famoser Schnaweretraps - - ä-ä Trawereschnaps, will ich saue. - - Me
           eins pfätze ?
 
         
-",clemens-gift,20,2,0.731982479119855,0.1
+",62,clemens-gift,20,2,0.731982479119855,0.1
 126,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1402,7 +1402,7 @@ Steinle :
 Es pressiert nit ; Barasoll, han-r Ejere Büchs do ? Lange-n-emol e Bris !
 
         
-",clemens-gift,14,2,0.593175850847087,0.14285714285714285
+",63,clemens-gift,14,2,0.593175850847087,0.14285714285714285
 127,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1415,7 +1415,7 @@ Voilà, Monsieur Steinle, ächter franzescher.
           diss isch e souvenir von mim Colonel... Mit dere Büchs haw-ich emol e Löeb g'fange...
 
         
-",clemens-gift,37,3,0.56797734042358,0.08108108108108109
+",63,clemens-gift,37,3,0.56797734042358,0.08108108108108109
 128,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1428,7 +1428,7 @@ Alle, alle, Barasoll, fange-nr schun wieder an ze schnitze ; diss hann-r mir noc
           dass-r als uf d' Löewejagd sin.
 
         
-",clemens-gift,25,3,0.6043983667827245,0.12
+",64,clemens-gift,25,3,0.6043983667827245,0.12
 129,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1438,7 +1438,7 @@ Na, no will ich's verzehle — wart, wie fangt's an ? — Ah ja — — also, am
           in d'r Wüschte Sahara spaziere, ganz allein mit minere Schnupftüwaksbüchs un denk an nit Böses ...
 
         
-",clemens-gift,41,7,0.5596731837892289,0.17073170731707318
+",64,clemens-gift,41,7,0.5596731837892289,0.17073170731707318
 130,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -1447,7 +1447,7 @@ Daniel:
 War, war isch diss, die ""Wüschte Sarah"" ?
 
         
-",clemens-gift,8,1,0.4393925396935518,0.125
+",65,clemens-gift,8,1,0.4393925396935518,0.125
 131,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1458,7 +1458,7 @@ Oh ""Schiff der Wüste"", ass-r sinn !... Diss isch e grosses Stück Land, wo ni
           mache, so heiss isch's — jo, noch heisser, un do greijt-mr e Durscht, e Durscht greit-mr do...
 
         
-",clemens-gift,55,10,0.45940227266948896,0.18181818181818182
+",65,clemens-gift,55,10,0.45940227266948896,0.18181818181818182
 133,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1495,7 +1495,7 @@ Glotzgückle so trürich angeluejt, grad as wenn-r saue hätt wotte: ""Barasoll,
 (Diese Erzählung muss Barasoll genau markieren und recht prahlerisch sprechen.)
 
         
-",clemens-gift,350,50,0.5387576637457347,0.14285714285714285
+",66,clemens-gift,350,50,0.5387576637457347,0.14285714285714285
 134,comedy,Steinle,M,,,,"
           
 Steinle und Daniel:
@@ -1507,7 +1507,7 @@ Steinle und Daniel:
 Hahaha !
 
         
-",clemens-gift,7,1,0.8952774323956044,0.14285714285714285
+",67,clemens-gift,7,1,0.8952774323956044,0.14285714285714285
 135,comedy,Daniel,M,,,,"
           
 Steinle und Daniel:
@@ -1519,7 +1519,7 @@ Steinle und Daniel:
 Hahaha !
 
         
-",clemens-gift,7,1,0.8952774323956044,0.14285714285714285
+",67,clemens-gift,7,1,0.8952774323956044,0.14285714285714285
 137,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1528,7 +1528,7 @@ Daniel :
 De - de - der lijt, ass m'r blöj wäre !
 
         
-",clemens-gift,11,1,0.2208332708130244,0.09090909090909091
+",68,clemens-gift,11,1,0.2208332708130244,0.09090909090909091
 138,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1539,7 +1539,7 @@ Ihr kenne's ruehig glauwe, es isch sicher wohr ! Ihr kenne dene Arawerscheik fr�
           kenne, wenn's nit wohr isch !
 
         
-",clemens-gift,44,5,0.7313608042439791,0.11363636363636363
+",69,clemens-gift,44,5,0.7313608042439791,0.11363636363636363
 139,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1554,7 +1554,7 @@ Alter Farçeur, dass Ihr sin — ich will Ejch noch Eins inschenke, un no mache-
           gemacht, und dess do druff gebäbbt ?
 
         
-",clemens-gift,69,5,0.5841958334001764,0.07246376811594203
+",69,clemens-gift,69,5,0.5841958334001764,0.07246376811594203
 141,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1569,7 +1569,7 @@ Dess isch jo e Dotekopf ! — Ja, mort du vinaigre — dess isch jo Gift ! —
  ja — wie — ?!
 
         
-",clemens-gift,27,3,0.5221523140705958,0.1111111111111111
+",70,clemens-gift,27,3,0.5221523140705958,0.1111111111111111
 142,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -1579,7 +1579,7 @@ Dü liewer Himmel! mir han Gift getrunke. Wie kummt awer nurre dess Gift do nin,
           schun im Hals —
 
         
-",clemens-gift,24,4,0.4917093934762947,0.16666666666666666
+",71,clemens-gift,24,4,0.4917093934762947,0.16666666666666666
 143,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1588,7 +1588,7 @@ Barasoll :
 Ihr hann mich vergift, Ihr kenne mich bezahle. — Mort du diable ! — Uaatsch, miner Büch !
 
         
-",clemens-gift,17,1,0.7174614274296905,0.058823529411764705
+",71,clemens-gift,17,1,0.7174614274296905,0.058823529411764705
 144,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1610,7 +1610,7 @@ Bei schweren Vergiftungen durch Flüssigkeiten, nehme man sofort ein Brechmittel
           Milich ! — Uuh, miner Hals !
 
         
-",clemens-gift,68,9,0.4840694518400168,0.1323529411764706
+",72,clemens-gift,68,9,0.4840694518400168,0.1323529411764706
 146,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -1623,7 +1623,7 @@ Daniel:
 U-u-aaah!!
 
         
-",clemens-gift,31,4,0.4173047447597479,0.12903225806451613
+",73,clemens-gift,31,4,0.4173047447597479,0.12903225806451613
 148,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1632,7 +1632,7 @@ Daniel :
 Ja, ja Meischter, vor wie ich se üss-'m Büffet gelangt hab.
 
         
-",clemens-gift,13,3,0.7066549860799034,0.23076923076923078
+",74,clemens-gift,13,3,0.7066549860799034,0.23076923076923078
 149,comedy,Steinle,M,,,,"
           
 Steinle:
@@ -1642,7 +1642,7 @@ Dü Simpel, wenn de geluejt hättsch, hättsch dene Dotekopf müen sehn — jetz
           erecht — jetz müe-m'r alli Drej sterwe !
 
         
-",clemens-gift,25,3,0.5921482403081958,0.12
+",74,clemens-gift,25,3,0.5921482403081958,0.12
 153,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1651,7 +1651,7 @@ Steinle :
 Un morje haw-ich au noch Geburtsdaa — uaah!
 
         
-",clemens-gift,9,2,0.7347317094812322,0.2222222222222222
+",76,clemens-gift,9,2,0.7347317094812322,0.2222222222222222
 154,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1661,7 +1661,7 @@ Un am Mondaa steht's in d'r Zitung, ass m'r e so miserawel sterwe han müen, un 
           meh lese, ujeh !
 
         
-",clemens-gift,25,1,0.1415860368349995,0.04
+",77,clemens-gift,25,1,0.1415860368349995,0.04
 155,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1671,7 +1671,7 @@ Un am Dienschdaa isch d'Licht — drej ledichi Burscht ! — Ojeh, ojeh, un ich 
           mim Läwe ; die G'schicht von dere Löewejagd isch au nit wohr.
 
         
-",clemens-gift,32,3,0.7932642220584786,0.09375
+",77,clemens-gift,32,3,0.7932642220584786,0.09375
 158,comedy,Barasoll,M,,,,"
           
 Alle:
@@ -1683,7 +1683,7 @@ Alle:
 Helfe, helfe !
 
         
-",clemens-gift,9,2,0.833,0.2222222222222222
+",79,clemens-gift,9,2,0.833,0.2222222222222222
 159,comedy,Daniel,M,,,,"
           
 Alle:
@@ -1695,7 +1695,7 @@ Alle:
 Helfe, helfe !
 
         
-",clemens-gift,9,2,0.833,0.2222222222222222
+",79,clemens-gift,9,2,0.833,0.2222222222222222
 160,comedy,Steinle,M,,,,"
           
 Alle:
@@ -1707,7 +1707,7 @@ Alle:
 Helfe, helfe !
 
         
-",clemens-gift,9,2,0.833,0.2222222222222222
+",80,clemens-gift,9,2,0.833,0.2222222222222222
 161,comedy,Robert,M,,,,"
           
 Robert :
@@ -1722,7 +1722,7 @@ Aha, es hett gezöje!
  Was isch denn bassiert ?
 
         
-",clemens-gift,16,1,0.7272892855744911,0.0625
+",80,clemens-gift,16,1,0.7272892855744911,0.0625
 162,comedy,Steinle,M,,,,"
           
 Alle drei:
@@ -1731,7 +1731,7 @@ Alle drei:
 (hängen an Robert und sprechen durcheinander).
 
         
-",clemens-gift,10,1,0.3833330359482302,0.1
+",81,clemens-gift,10,1,0.3833330359482302,0.1
 163,comedy,Barasoll,M,,,,"
           
 Alle drei:
@@ -1740,7 +1740,7 @@ Alle drei:
 (hängen an Robert und sprechen durcheinander).
 
         
-",clemens-gift,10,1,0.3833330359482302,0.1
+",81,clemens-gift,10,1,0.3833330359482302,0.1
 164,comedy,Daniel,M,,,,"
           
 Alle drei:
@@ -1749,7 +1749,7 @@ Alle drei:
 (hängen an Robert und sprechen durcheinander).
 
         
-",clemens-gift,10,1,0.3833330359482302,0.1
+",82,clemens-gift,10,1,0.3833330359482302,0.1
 165,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1758,7 +1758,7 @@ Steinle :
 Robert, helf, mir sin vergift !
 
         
-",clemens-gift,6,1,0.833,0.16666666666666666
+",82,clemens-gift,6,1,0.833,0.16666666666666666
 166,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -1767,7 +1767,7 @@ Barasoll :
 Monsieur Robär, ich hab Gift — o min Büch, min Büch !
 
         
-",clemens-gift,12,1,0.1024919839720775,0.08333333333333333
+",83,clemens-gift,12,1,0.1024919839720775,0.08333333333333333
 167,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -1776,7 +1776,7 @@ Daniel:
 Do, do, do, Budell Gift, Gift, Gift !
 
         
-",clemens-gift,8,3,0.1024919839720775,0.375
+",83,clemens-gift,8,3,0.1024919839720775,0.375
 168,comedy,Robert,M,,,,"
           
 Robert :
@@ -1785,7 +1785,7 @@ Robert :
 Ihr müen nit alli mit-e-nand rede, — stille ! Unkel, red, was isch bassiert ?
 
         
-",clemens-gift,14,1,0.5843859837527715,0.07142857142857142
+",84,clemens-gift,14,1,0.5843859837527715,0.07142857142857142
 169,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1795,7 +1795,7 @@ Do in dere Budell isch Gift ! Mir hann gemeint, es isch Trawere un han drvun get
           kann m'r nit denke, wie häre in die Budell Gift kumme-n-isch ? !
 
         
-",clemens-gift,33,3,0.23758253006325922,0.09090909090909091
+",84,clemens-gift,33,3,0.23758253006325922,0.09090909090909091
 170,comedy,Robert,M,,,,"
           
 Robert:
@@ -1805,7 +1805,7 @@ Do han Ihr drvun getrunke? — Ei, ei, — do haw-ich e Gift nin gemacht füer E
           brücht m'r nurre 10 Tropfe uf e Stückel Zucker ze mache, ze gehn 100 Mies hin !
 
         
-",clemens-gift,37,5,0.4037060491589786,0.13513513513513514
+",85,clemens-gift,37,5,0.4037060491589786,0.13513513513513514
 171,comedy,Steinle,M,,,,"
           
 Alle drei:
@@ -1817,7 +1817,7 @@ Alle drei:
 Uaaah !
 
         
-",clemens-gift,6,1,0.277709461379097,0.16666666666666666
+",85,clemens-gift,6,1,0.277709461379097,0.16666666666666666
 172,comedy,Barasoll,M,,,,"
           
 Alle drei:
@@ -1829,7 +1829,7 @@ Alle drei:
 Uaaah !
 
         
-",clemens-gift,6,1,0.277709461379097,0.16666666666666666
+",86,clemens-gift,6,1,0.277709461379097,0.16666666666666666
 173,comedy,Daniel,M,,,,"
           
 Alle drei:
@@ -1841,7 +1841,7 @@ Alle drei:
 Uaaah !
 
         
-",clemens-gift,6,1,0.277709461379097,0.16666666666666666
+",86,clemens-gift,6,1,0.277709461379097,0.16666666666666666
 174,comedy,Robert,M,,,,"
           
 Robert :
@@ -1850,7 +1850,7 @@ Robert :
 Ich hab awer doch e Dotekopf uf d' Flasch gebäbbt, dass mr's jo sieht, ass Gift drinne isch.
 
         
-",clemens-gift,20,3,0.35959468790463783,0.15
+",87,clemens-gift,20,3,0.35959468790463783,0.15
 176,comedy,Barasoll,M,,,,"
           
 Barasoll und Daniel :
@@ -1859,7 +1859,7 @@ Barasoll und Daniel :
 E Dokter, e Dokter ! Uuh !
 
         
-",clemens-gift,8,2,0.6361058512675609,0.25
+",88,clemens-gift,8,2,0.6361058512675609,0.25
 177,comedy,Daniel,M,,,,"
           
 Barasoll und Daniel :
@@ -1868,7 +1868,7 @@ Barasoll und Daniel :
 E Dokter, e Dokter ! Uuh !
 
         
-",clemens-gift,8,2,0.6361058512675609,0.25
+",88,clemens-gift,8,2,0.6361058512675609,0.25
 178,comedy,Robert,M,,,,"
           
 Robert:
@@ -1877,7 +1877,7 @@ Robert:
 Unkel — e Dokter sell ich hole?!
 
         
-",clemens-gift,8,1,0.6361058512675609,0.125
+",89,clemens-gift,8,1,0.6361058512675609,0.125
 179,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -1886,7 +1886,7 @@ Steinle :
 Lauf doch — ebs ze spot isch — schnell, hol einer !
 
         
-",clemens-gift,12,3,0.3822532531526715,0.25
+",89,clemens-gift,12,3,0.3822532531526715,0.25
 180,comedy,Steinle,M,,,,"
           
 Alle drei:
@@ -1895,7 +1895,7 @@ Alle drei:
 (halten den Leib und jammern.)
 
         
-",clemens-gift,9,2,0.3800519809403073,0.2222222222222222
+",90,clemens-gift,9,2,0.3800519809403073,0.2222222222222222
 181,comedy,Barasoll,M,,,,"
           
 Alle drei:
@@ -1904,7 +1904,7 @@ Alle drei:
 (halten den Leib und jammern.)
 
         
-",clemens-gift,9,2,0.3800519809403073,0.2222222222222222
+",90,clemens-gift,9,2,0.3800519809403073,0.2222222222222222
 182,comedy,Daniel,M,,,,"
           
 Alle drei:
@@ -1913,7 +1913,7 @@ Alle drei:
 (halten den Leib und jammern.)
 
         
-",clemens-gift,9,2,0.3800519809403073,0.2222222222222222
+",91,clemens-gift,9,2,0.3800519809403073,0.2222222222222222
 183,comedy,Robert,M,,,,"
           
 Robert :
@@ -1936,7 +1936,7 @@ Stille! — Ich brüch kenn Dokter ze hole, ich bin jo Dokter — ich will Ejch 
 (hat sich hinter die Stühle gestellt, lacht für sich.)
 
         
-",clemens-gift,84,11,0.5588808539441116,0.13095238095238096
+",91,clemens-gift,84,11,0.5588808539441116,0.13095238095238096
 184,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -1948,7 +1948,7 @@ Daniel :
 Ga-ga-ganz rot isch se, Meischter.
 
         
-",clemens-gift,12,1,0.7259120114050541,0.08333333333333333
+",92,clemens-gift,12,1,0.7259120114050541,0.08333333333333333
 186,comedy,Barasoll,M,,,,"
           
 Barasoll:
@@ -1957,7 +1957,7 @@ Barasoll:
 Wenn ich nit halwer dot wär, ze müsst ich noch lache, hahaha.
 
         
-",clemens-gift,13,2,0.5179808650476889,0.15384615384615385
+",93,clemens-gift,13,2,0.5179808650476889,0.15384615384615385
 187,comedy,Robert,M,,,,"
           
 Robert :
@@ -1966,7 +1966,7 @@ Robert :
 Jaa — ruehig müen-r sin; kenn Dummheite mache, wenn Eich 's Läwe lieb isch ! —
 
         
-",clemens-gift,16,4,0.6867799758986308,0.25
+",93,clemens-gift,16,4,0.6867799758986308,0.25
 191,comedy,Robert,M,,,,"
           
 Robert :
@@ -1976,7 +1976,7 @@ Stille, — lon d' Zunge schöen hüsse, ich will in d'r Kieche e Glas Wasser ho
           fawriziere, wo Ejch glich küriere wurd!
 
         
-",clemens-gift,26,5,0.5794404000686776,0.19230769230769232
+",95,clemens-gift,26,5,0.5794404000686776,0.19230769230769232
 195,comedy,Robert,M,,,,"
           
 Robert :
@@ -1993,7 +1993,7 @@ Nuere ruehig. —
 (Erheben sich auf Kommando dreimal.)
 
         
-",clemens-gift,81,7,0.6009768472517268,0.08641975308641975
+",97,clemens-gift,81,7,0.6009768472517268,0.08641975308641975
 196,comedy,Steinle,M,,,,"
           
 Alle drei:
@@ -2005,7 +2005,7 @@ Alle drei:
 Es isch besser — ganz küriert!...
 
         
-",clemens-gift,21,3,0.5101514869233506,0.14285714285714285
+",98,clemens-gift,21,3,0.5101514869233506,0.14285714285714285
 197,comedy,Barasoll,M,,,,"
           
 Alle drei:
@@ -2017,7 +2017,7 @@ Alle drei:
 Es isch besser — ganz küriert!...
 
         
-",clemens-gift,21,3,0.5101514869233506,0.14285714285714285
+",98,clemens-gift,21,3,0.5101514869233506,0.14285714285714285
 198,comedy,Daniel,M,,,,"
           
 Alle drei:
@@ -2029,7 +2029,7 @@ Alle drei:
 Es isch besser — ganz küriert!...
 
         
-",clemens-gift,21,3,0.5101514869233506,0.14285714285714285
+",99,clemens-gift,21,3,0.5101514869233506,0.14285714285714285
 199,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -2039,7 +2039,7 @@ Ich gschpier kenn Grimmele meh, ganz wohl isch 's mr. Parole d'honneur !... Sich
           gschpier nix meh im Büech !
 
         
-",clemens-gift,22,4,0.7134981915793973,0.18181818181818182
+",99,clemens-gift,22,4,0.7134981915793973,0.18181818181818182
 200,comedy,Daniel,M,,,,"
           
 Daniel:
@@ -2048,7 +2048,7 @@ Daniel:
 Vejele wohl isch's-mr ; ich kennt singe vor lütter Fraid !
 
         
-",clemens-gift,12,4,0.6818521077113237,0.3333333333333333
+",100,clemens-gift,12,4,0.6818521077113237,0.3333333333333333
 201,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2060,7 +2060,7 @@ Dir hätt-r gar nit helfe solle füer d' Strof, will de als hinterwärts Schnaps
           isch au nix vum-e Dokter, verstehsch !
 
         
-",clemens-gift,61,9,0.6799106291276089,0.14754098360655737
+",100,clemens-gift,61,9,0.6799106291276089,0.14754098360655737
 202,comedy,Robert,M,,,,"
           
 Robert :
@@ -2070,7 +2070,7 @@ Diss stimmt, Unkel, awer zum Erschte hawich e Dotekopf druf gekläbt, wie's Vors
           Zweite — — isch gar kenn Gift in d'r Flasch gsin.
 
         
-",clemens-gift,29,4,0.34950122509742787,0.13793103448275862
+",101,clemens-gift,29,4,0.34950122509742787,0.13793103448275862
 203,comedy,Steinle,M,,,,"
           
 Alle drei :
@@ -2082,7 +2082,7 @@ Alle drei :
 Was ? ! ..... Gar kenn Gift?!
 
         
-",clemens-gift,9,1,0.1024919839720775,0.1111111111111111
+",101,clemens-gift,9,1,0.1024919839720775,0.1111111111111111
 204,comedy,Barasoll,M,,,,"
           
 Alle drei :
@@ -2094,7 +2094,7 @@ Alle drei :
 Was ? ! ..... Gar kenn Gift?!
 
         
-",clemens-gift,9,1,0.1024919839720775,0.1111111111111111
+",102,clemens-gift,9,1,0.1024919839720775,0.1111111111111111
 205,comedy,Daniel,M,,,,"
           
 Alle drei :
@@ -2106,7 +2106,7 @@ Alle drei :
 Was ? ! ..... Gar kenn Gift?!
 
         
-",clemens-gift,9,1,0.1024919839720775,0.1111111111111111
+",102,clemens-gift,9,1,0.1024919839720775,0.1111111111111111
 206,comedy,Robert,M,,,,"
           
 Robert:
@@ -2119,7 +2119,7 @@ Nein, 's isch gar kenn Gift drinne gsinn, Ihr hann de rein unverfälschte Schnap
 (lacht).
 
         
-",clemens-gift,41,5,0.41159679358883106,0.12195121951219512
+",103,clemens-gift,41,5,0.41159679358883106,0.12195121951219512
 207,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2131,7 +2131,7 @@ Steinle :
 Höer, Robert, diss isch doch zue starik, mit-eme alte Mann so Kabriole ze mache! — Schäm Dich !
 
         
-",clemens-gift,21,4,0.4820522769532115,0.19047619047619047
+",103,clemens-gift,21,4,0.4820522769532115,0.19047619047619047
 208,comedy,Robert,M,,,,"
           
 Robert :
@@ -2144,7 +2144,7 @@ Unkel, verzej-mr.... Ich hab's ja e bissel zue starik getriewe; awer Dü hesch a
           hol e Dokter."" Hahaha !
 
         
-",clemens-gift,80,10,0.5331484625052517,0.125
+",104,clemens-gift,80,10,0.5331484625052517,0.125
 209,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2162,7 +2162,7 @@ E Nuntebuckel ! — So daub bin ich do ningebatscht !
 (wirft es zum Fenster hinaus.)
 
         
-",clemens-gift,62,5,0.38407896194562624,0.08064516129032258
+",104,clemens-gift,62,5,0.38407896194562624,0.08064516129032258
 210,comedy,Robert,M,,,,"
           
 Robert :
@@ -2172,7 +2172,7 @@ Bravo, Unkel! So isch's recht — un dass Dü trotzdem 100 Johr alt wursch, do w
           Mejlichscht mache, denn ich versteh min métier.
 
         
-",clemens-gift,28,1,0.6400876506878803,0.03571428571428571
+",105,clemens-gift,28,1,0.6400876506878803,0.03571428571428571
 211,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2181,7 +2181,7 @@ Steinle :
 Ja, ja, Dü Wackebumm, dü bisch e ganz riewener Dokter.
 
         
-",clemens-gift,11,4,0.7251377039758118,0.36363636363636365
+",105,clemens-gift,11,4,0.7251377039758118,0.36363636363636365
 212,comedy,Barasoll,M,,,,"
           
 Barasoll:
@@ -2194,7 +2194,7 @@ Ah — jetz grej ich doch e Wuet wie e Hüs ; Ihr hann e Wettung mitnand gemacht
 (Gelächter.)
 
         
-",clemens-gift,51,9,0.5291990188426774,0.17647058823529413
+",106,clemens-gift,51,9,0.5291990188426774,0.17647058823529413
 213,comedy,Robert,M,,,,"
           
 Robert :
@@ -2206,7 +2206,7 @@ Monsieur Barasoll, exküsiere vielmols, awer ich will ne füer die üsg'stande A
 (Gibt ihm das Geld.)
 
         
-",clemens-gift,27,5,0.6220547413711853,0.18518518518518517
+",106,clemens-gift,27,5,0.6220547413711853,0.18518518518518517
 214,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -2218,7 +2218,7 @@ Barasoll :
 Avec plaisir, Monsieur Robär — mille fois merci !
 
         
-",clemens-gift,12,2,0.898070396460406,0.16666666666666666
+",107,clemens-gift,12,2,0.898070396460406,0.16666666666666666
 215,comedy,Robert,M,,,,"
           
 Robert :
@@ -2230,7 +2230,7 @@ Robert :
 Un für Ejch Daniel, isch's e Warnung un e Strof.
 
         
-",clemens-gift,16,2,0.3013025877131873,0.125
+",107,clemens-gift,16,2,0.3013025877131873,0.125
 216,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -2242,7 +2242,7 @@ Ja, ja — ich denk dran. — In mim Läwe drink ich nimmi üs-ere Budell, wie i
  Meischter, 's hätt glauwi g'schellt.
 
         
-",clemens-gift,29,4,0.7838545169200256,0.13793103448275862
+",108,clemens-gift,29,4,0.7838545169200256,0.13793103448275862
 217,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2256,7 +2256,7 @@ Gehn, un mache-n-uf !
 (Man hört Ernest hinter der Bühne weinen.)
 
         
-",clemens-gift,23,4,0.48928865871249505,0.17391304347826086
+",108,clemens-gift,23,4,0.48928865871249505,0.17391304347826086
 218,comedy,Daniel,M,,,,"
           
 Daniel :
@@ -2268,7 +2268,7 @@ Daniel :
 Do, do isch e Kneckes, wie zue Ejch will.
 
         
-",clemens-gift,19,2,0.5196446427872455,0.10526315789473684
+",109,clemens-gift,19,2,0.5196446427872455,0.10526315789473684
 219,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2277,7 +2277,7 @@ Steinle :
 Was hesch denn gewellt, Männel ?
 
         
-",clemens-gift,6,1,0.6561441325867684,0.16666666666666666
+",109,clemens-gift,6,1,0.6561441325867684,0.16666666666666666
 220,comedy,Ernest,M,,,,"
           
 Ernest :
@@ -2290,7 +2290,7 @@ E schöen's — hü-hü-hü — Kumpliment vom Herr Maire, un do schickt-r Ihne 
           — hü-hü-hü -
 
         
-",clemens-gift,27,5,0.5955893127309729,0.18518518518518517
+",110,clemens-gift,27,5,0.5955893127309729,0.18518518518518517
 221,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2299,7 +2299,7 @@ Steinle :
 Ja, worum hielsch denn — wo hesch denn die Tart ?
 
         
-",clemens-gift,11,1,0.731982479119855,0.09090909090909091
+",110,clemens-gift,11,1,0.731982479119855,0.09090909090909091
 222,comedy,Ernest,M,,,,"
           
 Ernest :
@@ -2311,7 +2311,7 @@ Ei, wie ich in Ihre Hoft erin bin, hett mr Jemes so e dicks Buch mittles uf d'Ta
 (Gelächter.)
 
         
-",clemens-gift,41,5,0.5478535302980404,0.12195121951219512
+",111,clemens-gift,41,5,0.5478535302980404,0.12195121951219512
 223,comedy,Robert,M,,,,"
           
 Robert :
@@ -2322,7 +2322,7 @@ Do setze mr uns grad derzüe un esse se im Hoft.
 (Gelächter — Ernest weint noch stärker.)
 
         
-",clemens-gift,20,3,0.6267076266925179,0.15
+",111,clemens-gift,20,3,0.6267076266925179,0.15
 224,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2334,7 +2334,7 @@ Stille Männel — 's macht nix; ich geh no selwer zuem Herr Maire! — Do hesch
 (Gibt ihm ein Geldstück.)
 
         
-",clemens-gift,31,5,0.5112074655400243,0.16129032258064516
+",112,clemens-gift,31,5,0.5112074655400243,0.16129032258064516
 225,comedy,Ernest,M,,,,"
           
 Ernest:
@@ -2353,7 +2353,7 @@ nimi hiele, hahaha ! Vielmols merci, guet Nacht biesamme !
 (lustig rechts ab).
 
         
-",clemens-gift,35,6,0.6842222145613647,0.17142857142857143
+",112,clemens-gift,35,6,0.6842222145613647,0.17142857142857143
 226,comedy,Barasoll,M,,,,"
           
 Barasoll:
@@ -2362,7 +2362,7 @@ Barasoll:
 Ja, un ich will jetz au gehn, un —
 
         
-",clemens-gift,10,1,0.731982479119855,0.1
+",113,clemens-gift,10,1,0.731982479119855,0.1
 227,comedy,Steinle,M,,,,"
           
 Steinle :
@@ -2375,7 +2375,7 @@ Nix do — do gebliewe ! — Ich will mir durch die Affär mit dere Tart dr Owe 
           un vom ganze Dokterstand !
 
         
-",clemens-gift,86,13,0.5905033649043612,0.1511627906976744
+",113,clemens-gift,86,13,0.5905033649043612,0.1511627906976744
 228,comedy,Robert,M,,,,"
           
 Robert :
@@ -2385,7 +2385,7 @@ Angenumme Unkel ! — Do hett dess Gift doch ebs genutzt, Dü bisch von dinere s
           Dü üewer d' Dokter hesch g'hett, küriert worre.
 
         
-",clemens-gift,26,4,0.3787360653676396,0.15384615384615385
+",114,clemens-gift,26,4,0.3787360653676396,0.15384615384615385
 229,comedy,Barasoll,M,,,,"
           
 Barasoll :
@@ -2399,4 +2399,4 @@ Un ich kumm zuem e g'fitzte Friko — do dran isch numme di Giftbudell schuld.
 Vorhang fällt.
 
         
-",clemens-gift,21,2,0.4524730105226763,0.09523809523809523
+",114,clemens-gift,21,2,0.4524730105226763,0.09523809523809523

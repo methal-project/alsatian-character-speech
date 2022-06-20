@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -9,7 +9,7 @@ Grand'mère:
  
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.258,0.125
+",0,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.258,0.125
 4,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -18,7 +18,7 @@ Grand'mère:
 Ja min Liewer. Awer der Hanstrapp kummt awer au mit.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.0,0.18181818181818182
+",2,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.0,0.18181818181818182
 5,tale,Charele ,M,,,,"
           
 Charele:
@@ -30,7 +30,7 @@ Charele:
 Grand’- meman zue uns brüecht jo de Hanstrapp nit zu kumme, ich bin jo immer brav! ! Grand’mère: Ich weiss nit, ich weiss nit? Am End kummt de Hanstrapp doch zue uns! Zeij lüej mich emol aan, Charele. Bisch düe immer brav g'sinn? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,53,3,0.0,0.05660377358490566
+",2,weber-am-wihnachtsowe-bym-e-kriejsblinde,53,3,0.0,0.05660377358490566
 6,tale,Charele ,M,,,,"
           
 Charele:
@@ -39,7 +39,7 @@ Charele:
 Ja, ja Grand'meman ich immer, awer s’Jeanne als nit.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.0,0.18181818181818182
+",3,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.0,0.18181818181818182
 7,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -49,7 +49,7 @@ Grand'mère:
  Ah düe immer, awer s’Jeanne als nit?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
+",3,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
 8,tale,Charele ,M,,,,"
           
 Charele:
@@ -59,7 +59,7 @@ Ja, ja Grand’meman.
 (spielt weiter)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
+",4,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
 9,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -68,7 +68,7 @@ Grand'mère:
 Ich glaub, düe bisch als au bœss g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.0,0.1111111111111111
+",4,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.0,0.1111111111111111
 10,tale,Charele ,M,,,,"
           
 Charele:
@@ -77,7 +77,7 @@ Charele:
 Ein Mol, e kleins bissele. Awer düe müesch dess nit im Hanstrapp saawe. Grand’mère: Ja der weiss alles, dem brüecht m'r nix ze saawe.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,25,1,0.0,0.04
+",5,weber-am-wihnachtsowe-bym-e-kriejsblinde,25,1,0.0,0.04
 11,tale,Charele ,M,,,,"
           
 Charele:
@@ -86,7 +86,7 @@ Charele:
 Ich schliess einfach Tüer zu, wenns Chrischtkindel hinne isch, no kummt er nit erin. Grand’mère : Ja no kummt er züem Fenschter erin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
+",5,weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
 12,tale,Charele ,M,,,,"
           
 Charele:
@@ -95,7 +95,7 @@ Charele:
 No versteckel ich mich; un ich kann jo bete, un de Babe hilft mir, un ich will jo nix vum Hanstrapp! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,2,0.133,0.09090909090909091
+",6,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,2,0.133,0.09090909090909091
 13,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -104,7 +104,7 @@ Grand'mère:
 Wie düe jetzt awer uff einmol e grosses Mül hesch? Ich will numme sähn was düe machsch, wenn de Hanstrapp kummt? ? ? 6
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
+",6,weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
 14,tale,Charele ,M,,,,"
           
 Charele:
@@ -116,7 +116,7 @@ Charele:
 Grand’- meman, kummt s’Chrischtkindel bal? Es isch jo schun ganz finschter drüsse.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,24,2,0.0,0.08333333333333333
+",7,weber-am-wihnachtsowe-bym-e-kriejsblinde,24,2,0.0,0.08333333333333333
 15,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -125,7 +125,7 @@ Grand'mère:
 Es kummt, wie de Babe un s’Jeanne d’heime sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
+",7,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
 16,tale,Charele ,M,,,,"
           
 Charele:
@@ -137,7 +137,7 @@ Charele:
 Kummt de Babe uns Jeanne bal, Grand’meman? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",8,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 17,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -146,7 +146,7 @@ Grand'mère:
 Ich weiss nit, awer ich denk sie wäre bal kumme.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
+",8,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
 18,tale,Charele ,M,,,,"
           
 Charele:
@@ -158,7 +158,7 @@ Charele:
 Weisch was Grand’meman, wenn de Hanstrapp do erin-kumme will, no saasch düe züem, es sin kein Kinder do.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
+",9,weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
 19,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -170,7 +170,7 @@ Grand'mère:
 Werum nit gar! M’r derf doch nit lüeje! Un de Hanstrapp weiss doch wo alli Kinder wohne.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,21,2,0.0,0.09523809523809523
+",9,weber-am-wihnachtsowe-bym-e-kriejsblinde,21,2,0.0,0.09523809523809523
 20,tale,Charele ,M,,,,"
           
 Charele:
@@ -180,7 +180,7 @@ Ich will awer nit, dass er züe uns kummt. Grand’möre: Gäll düe hesch jetzt
 (es klopft)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,56,3,0.0,0.05357142857142857
+",10,weber-am-wihnachtsowe-bym-e-kriejsblinde,56,3,0.0,0.05357142857142857
 21,tale,Charele ,M,,,,"
           
 Charele:
@@ -193,7 +193,7 @@ Charele:
  
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,17,3,0.09266666666666667,0.17647058823529413
+",10,weber-am-wihnachtsowe-bym-e-kriejsblinde,17,3,0.09266666666666667,0.17647058823529413
 23,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -205,7 +205,7 @@ Hol:
 Bonsoir Madame Braun! Sie wundere sich viellicht, will ich noch um dess Zyt züe ihne kumm, awer ihr Sohn het mir versproche, hyt Owe Antwort zu gän weje de Wohnung. Ich bin dodeweje kumme. Het er jetzt e Wohnung gfunde? ? Sie wisse nit? ? ? ? Güet ich wart bis er kummt.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,54,9,0.003333333333333333,0.16666666666666666
+",11,weber-am-wihnachtsowe-bym-e-kriejsblinde,54,9,0.003333333333333333,0.16666666666666666
 24,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -217,7 +217,7 @@ Han sie sich e bissel setze wœlle?
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,2,0.2033818438054267,0.1111111111111111
+",12,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,2,0.2033818438054267,0.1111111111111111
 25,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -226,7 +226,7 @@ Hol:
 Merci, ich will nit sitze. Also sie wisse nit ob er e Wohnung g’funde het ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,16,1,0.0,0.0625
+",12,weber-am-wihnachtsowe-bym-e-kriejsblinde,16,1,0.0,0.0625
 26,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -235,7 +235,7 @@ Grand'mère:
 Nein, Herr Hol.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.038,0.5
+",13,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.038,0.5
 27,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -244,7 +244,7 @@ Hol:
 Sicher nit, denn sunscht het er’s ihne g’saat. Mini Geduld het awer jetzt e End! ! ! Ich müess die Woh- nung do han, miner Sohn will hyrode. Ich hab lang genüej Rucksicht uff sie g’het, will ihre Sohn e Kriejs- blinder isch. D’r Staat soll sich um d’Kriejsblinde annehme. Mir Hüessherre han numme Unangenehms ..... Do wäre einfach 500 Mietsg’setzer votiert un unsereins het no die Scherereje mit. ..... Ich bin jo gar net ver- pflicht g’sin, euch so lang do wohne ze lonn, awer was macht m'r nit alles üess Mitleid? ? ? Also saawe sie ihrem Sohn, dass ich am erschte Jänner die Woh- nung müess han, sunscht bin ich gezwunge, de Hüessjé kumme ze lonn.... Nix wie Unkœschte het m'r hyt- zedaas mit sine Locataires ..... Es wurd doch au emol wieder andersch kumme! ! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,139,16,0.053768201477263355,0.11510791366906475
+",13,weber-am-wihnachtsowe-bym-e-kriejsblinde,139,16,0.053768201477263355,0.11510791366906475
 28,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -253,7 +253,7 @@ Grand'mère:
 Herr Hol ich glaub nit, dass miner Sohn e Wohnung g’funde het, awer es vergeht kein Daa, wo er nit süecht.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,4,0.019,0.18181818181818182
+",14,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,4,0.019,0.18181818181818182
 29,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -265,7 +265,7 @@ Hol:
 Mini Geduld isch züe End, ich saa’s ihne züem letschde Mol. Am erschte Jänner miess die Woh- nung gerümt sin! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,26,1,0.0,0.038461538461538464
+",14,weber-am-wihnachtsowe-bym-e-kriejsblinde,26,1,0.0,0.038461538461538464
 30,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -274,7 +274,7 @@ Grand'mère:
 Bedänke sie doch, es sin zwei Kinder do.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.0,0.1111111111111111
+",15,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.0,0.1111111111111111
 31,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -283,7 +283,7 @@ Hol:
 Ich weiss dess alles; alles weiss ich. Ihre Sohn het üewerhaupt gar kein Recht do in dere Wohnung, er het jo by mir gar nit gelehnt, sie sin jo Locataire. Er wohnt jo by ihne.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,36,2,0.0,0.05555555555555555
+",15,weber-am-wihnachtsowe-bym-e-kriejsblinde,36,2,0.0,0.05555555555555555
 32,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -292,7 +292,7 @@ Grand'mère:
 Ja werum wœlle sie denn mim Sohn die Wohnung nit gänn ? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
+",16,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
 33,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -301,7 +301,7 @@ Hol:
 Will ich nit kann, ich müess sie füer miner Sohn han. Grand’were: Sie wisse ganz genau, dass mir nit meh Zins bezahle kœnne, drum dränge sie druff, dass mir zeje. Mit dere Pension, wo miner Sohn bekummt, müen mir alli 4 läwe. Viel verdiene kann er jo nit.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,49,8,0.0,0.16326530612244897
+",16,weber-am-wihnachtsowe-bym-e-kriejsblinde,49,8,0.0,0.16326530612244897
 34,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -312,7 +312,7 @@ Au wenn Sie mir 100 Franke meh wodde gänn im Monet, kœnnt ich ihne die Wohnung
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,3,0.11471520393936895,0.15789473684210525
+",17,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,3,0.11471520393936895,0.15789473684210525
 35,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -321,7 +321,7 @@ Grand'mère:
 Ja wo solle mir denn am erschte Jänner ane, wenn mir kein anderi Wohnung han?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,16,1,0.0,0.0625
+",17,weber-am-wihnachtsowe-bym-e-kriejsblinde,16,1,0.0,0.0625
 36,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -330,7 +330,7 @@ Hol:
 Ich weiss nit! Gehn sie züem Maire, er soll ihne eini b’sorje.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",18,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 37,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -339,7 +339,7 @@ Grand'mère:
 Miner Sohn isch jo schun e paar Mol dorte g’'sinn, er het awer keini. Wenn sie numme däte warte wœlle, bis im Früehjohr, Herr Hol.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,26,4,0.019,0.15384615384615385
+",18,weber-am-wihnachtsowe-bym-e-kriejsblinde,26,4,0.019,0.15384615384615385
 38,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -348,7 +348,7 @@ Hol:
 Bis im Früehjohr? ? ? Saawe sie doch glich bis im Spootjohr! ! Ich kann nit, ich hab lang genüej gewart. Hätte sie sich früejer um e anderi Wohnung bekümmert un nit gewart bis züem letschde Moment. Grand’mère: Mir han jo alles gemacht.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,41,3,0.0,0.07317073170731707
+",19,weber-am-wihnachtsowe-bym-e-kriejsblinde,41,3,0.0,0.07317073170731707
 39,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -360,7 +360,7 @@ Hol:
 Schint’s doch nit, denn sunscht hätte sie schun eini.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,25,3,0.23125456253695112,0.12
+",19,weber-am-wihnachtsowe-bym-e-kriejsblinde,25,3,0.23125456253695112,0.12
 40,tale,Charele ,M,,,,"
           
 Charele:
@@ -372,7 +372,7 @@ Charele:
 Grand’mère. Doch, doch, ich versicher ihne, Herr Hol! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,25,5,0.0708,0.2
+",20,weber-am-wihnachtsowe-bym-e-kriejsblinde,25,5,0.0708,0.2
 41,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -381,7 +381,7 @@ Hol:
 Dess ich gar net notwendi. Zeje sie am erschte Jänner un no bin ich zefriedde un brüech ihri Versicherunge nimmi !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,21,4,0.0,0.19047619047619047
+",20,weber-am-wihnachtsowe-bym-e-kriejsblinde,21,4,0.0,0.19047619047619047
 42,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -390,7 +390,7 @@ Grand'mère:
 Wo solle mir jetzt schnell, in 4-5 Daa, e Wohnung here nämme?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",21,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 43,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -399,7 +399,7 @@ Hol:
 Ja do min sie mich nit froeje, ich hab keini! Un wenn ich eini het, no gäb ich sie ihne nit. Mir sieht jo, wie sie sin, kumpliziert un noch frech dezüe. Grand'mère. Dess isch awer nit wohr, Herr Hol, dess sin mir nit! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,45,6,0.09599999999999999,0.13333333333333333
+",21,weber-am-wihnachtsowe-bym-e-kriejsblinde,45,6,0.09599999999999999,0.13333333333333333
 44,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -408,7 +408,7 @@ Hol:
 Sooo? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
+",22,weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
 46,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -418,7 +418,7 @@ Na, no sin sie ebs andersch’s, wenn sie dess nit woelle sin. Uff alli Fäll ha
 (Schritte und Stimmen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,46,4,0.0,0.08695652173913043
+",23,weber-am-wihnachtsowe-bym-e-kriejsblinde,46,4,0.0,0.08695652173913043
 47,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -432,7 +432,7 @@ Güete Owe Grand'mère!
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",23,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 48,tale,Charele ,M,,,,"
           
 Charele:
@@ -441,7 +441,7 @@ Charele:
 (sobald sich die Türe öffnet, verschwindet wieder  unter den Tisch)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.35950000000000004,0.15384615384615385
+",24,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.35950000000000004,0.15384615384615385
 49,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -450,7 +450,7 @@ Braun:
 Güete Owe Mame!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.0,0.5
+",24,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.0,0.5
 50,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -460,7 +460,7 @@ Grand'mère:
  Güete Owe Albert! ! D'r Herr Hol isch do un will mit dir redde.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,3,0.025333333333333333,0.15789473684210525
+",25,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,3,0.025333333333333333,0.15789473684210525
 51,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -469,7 +469,7 @@ Jeanne:
 (zieht den Mantel aus und wärmt sich dann am  Ofen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.129,0.15384615384615385
+",25,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.129,0.15384615384615385
 52,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -478,7 +478,7 @@ Braun:
 Güete Owe Herr Hol! Sie kumme waje de Wohnung? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,4,0.019,0.4
+",26,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,4,0.019,0.4
 53,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -487,7 +487,7 @@ Hol:
 Ja, han sie jetzt eini g'funde ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.0,0.2857142857142857
+",26,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.0,0.2857142857142857
 54,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -496,7 +496,7 @@ Braun:
 Es düet mir arich leid, dass sie sich wieder de- rangiere han müen. Ich hab mit'm beschte Wille noch kein anderi Wohnung finde kenne.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.5774901837877446,0.07407407407407407
+",27,weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.5774901837877446,0.07407407407407407
 55,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -505,7 +505,7 @@ Hol:
 Des verzehle sie mir jetzt schon 4 Monet lang.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,2,0.0,0.2
+",27,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,2,0.0,0.2
 56,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -514,7 +514,7 @@ Braun:
 Ess isch d’Wohrheit Herr Hol! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,3,0.025333333333333333,0.42857142857142855
+",28,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,3,0.025333333333333333,0.42857142857142855
 57,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -523,7 +523,7 @@ Hol:
 Dene Witz koenne sie im’e andere verzehle. Ich mein, wenn sie numme e bissel güeter Wille hätte g’het, no hätte sie in 4 Monet e Wohnung koennte finde. Am erschte Jänner will ich die Wohnung gerümt han.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,38,5,0.1126982986169931,0.13157894736842105
+",28,weber-am-wihnachtsowe-bym-e-kriejsblinde,38,5,0.1126982986169931,0.13157894736842105
 58,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -532,7 +532,7 @@ Braun:
 Ja woelle sie uns by dem Wetter uff d’Stross stelle?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.0,0.25
+",29,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.0,0.25
 59,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -541,7 +541,7 @@ Hol:
 Ich kann kein ander Wetter mache!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",29,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 60,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -550,7 +550,7 @@ Braun:
 Denke sie doch an mini 2 Kinder, an mini alt Mame! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
+",30,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
 61,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -562,7 +562,7 @@ Hol:
 Am erschte Jänner müess ich die Wohnung han, sunscht loss ich de Hüessjé kumme. Braun; Herr Hol, ich bitt sie, seje sie nit so hart! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,29,9,0.16140436255564977,0.3103448275862069
+",30,weber-am-wihnachtsowe-bym-e-kriejsblinde,29,9,0.16140436255564977,0.3103448275862069
 62,tale,Hol,M,landlord,rentiers,,"
           
 Hol:
@@ -574,7 +574,7 @@ Ich hät vor 6 Monet schun mit ihne so solle sin, no hätte sie hyt au e anderi 
 (kl. Pause)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,31,4,0.0,0.12903225806451613
+",31,weber-am-wihnachtsowe-bym-e-kriejsblinde,31,4,0.0,0.12903225806451613
 63,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -583,7 +583,7 @@ Braun:
 Un jetzt Mame?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
+",31,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
 64,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -594,7 +594,7 @@ Düe müesch de Müet nit verliere. Es isch bis züem erschte Jänner noch fasch
 (hilft Braun den Mantel ausziehen und führt ihn zu einem Stuhl beim Tische)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,43,5,0.0882,0.11627906976744186
+",32,weber-am-wihnachtsowe-bym-e-kriejsblinde,43,5,0.0882,0.11627906976744186
 65,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -603,7 +603,7 @@ Braun:
 Ich bin hyt wiedder an 4, 5 Plätz g’sin, es isch awer nierigs e Wohnung zu krieje. D’Maire het mir jetzt eini versproche uff de erschte März. Un mit der Arweit isch au nit viel los. Alles isch eim verleid! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,42,5,0.0182,0.11904761904761904
+",32,weber-am-wihnachtsowe-bym-e-kriejsblinde,42,5,0.0182,0.11904761904761904
 66,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -612,7 +612,7 @@ Grand'mère:
 Allez, Allez, Albert! Redd nit eso! Denk an dini Kinder!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
+",33,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
 67,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -621,7 +621,7 @@ Braun:
 Ja, ja, mini Kinder. Güet dass die do sin! Wer weiss, wer weiss? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,4,0.0,0.2857142857142857
+",33,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,4,0.0,0.2857142857142857
 68,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -630,7 +630,7 @@ Grand'mère:
 Stille Büe, stille.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.0,0.5
+",34,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,2,0.0,0.5
 70,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -639,7 +639,7 @@ Grand'mère:
 De Charele? ? ? Ich weiss nit. Ah, so, er het sich wohrschints vorhere versteckelt, will er gemeint het, de Hanstrapp kummt schun.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,1,0.0,0.045454545454545456
+",35,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,1,0.0,0.045454545454545456
 71,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -648,7 +648,7 @@ Braun:
 Het er denn Angscht er bekummt se vum Hans- trapp?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
+",35,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
 73,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -657,7 +657,7 @@ Jeanne:
 Ja er isch als au boes.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.3033335407693183,0.2857142857142857
+",36,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.3033335407693183,0.2857142857142857
 75,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -666,7 +666,7 @@ Braun:
 Ja wo steckt er denn?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
+",37,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
 76,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -678,7 +678,7 @@ Jeanne:
 Er sitzt unterem Tisch, Babe.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,2,0.0,0.2222222222222222
+",38,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,2,0.0,0.2222222222222222
 78,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -690,7 +690,7 @@ Grand'mère:
 Do sitzt er jo, unsere Angschtpeter !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.0,0.23076923076923078
+",39,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.0,0.23076923076923078
 80,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -705,7 +705,7 @@ Ah do bisch jo.
 (lässt Charele wieder gehen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,35,2,0.0,0.05714285714285714
+",40,weber-am-wihnachtsowe-bym-e-kriejsblinde,35,2,0.0,0.05714285714285714
 81,tale,Charele ,M,,,,"
           
 Charele:
@@ -714,7 +714,7 @@ Charele:
 (geht zu Jeanne an den Ofen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.258,0.1111111111111111
+",40,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.258,0.1111111111111111
 82,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -726,7 +726,7 @@ Grand'mère:
 Albert, hesch düe noch e bissel Geld? s’Jeanne sott e paar Wecke hole füer hyt Owe. Ich hab sunscht nix füer d’Kinder un sie sölle doch au wisse, dass Wihnachte isch. Ich hab kein Süü meh im Hüess.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,46,3,0.0,0.06521739130434782
+",41,weber-am-wihnachtsowe-bym-e-kriejsblinde,46,3,0.0,0.06521739130434782
 84,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -735,7 +735,7 @@ Grand'mère:
 (zählt das Geld)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
+",42,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
 85,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -744,7 +744,7 @@ Braun:
 .... Wihnachte, un kenn Geld im Hüess! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.0,0.2857142857142857
+",42,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,2,0.0,0.2857142857142857
 87,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -753,7 +753,7 @@ Braun:
 Dess Klavier wo ich hyt g’stimmt hab, bekumm ich an Nejohr bezahlt, un Gott weiss wenn die be- zahle, wo mir s’Geld noch schuldig sin! Grand’mère: Soll s’Jeanne für alles Geld Wecke hole? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,37,7,0.0,0.1891891891891892
+",43,weber-am-wihnachtsowe-bym-e-kriejsblinde,37,7,0.0,0.1891891891891892
 88,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -762,7 +762,7 @@ Braun:
 Ja. Wenn de Charele gesse het, vergisst er viel- licht s’Chrischtkindel.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,2,0.0,0.14285714285714285
+",44,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,2,0.0,0.14285714285714285
 89,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -771,7 +771,7 @@ Grand'mère:
 Armer Büe! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
+",44,weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
 90,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -780,7 +780,7 @@ Braun:
 Mame, im Mantel hab ich e Trumpet, wo ich füer ne kauft hab. Dess isch alles was er bekummt. s’Jeanne kriejt halt dess Johr gar nix. Grand’mère: Es versteht’s un weiss dass mir arm sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,38,5,0.10239999999999996,0.13157894736842105
+",45,weber-am-wihnachtsowe-bym-e-kriejsblinde,38,5,0.10239999999999996,0.13157894736842105
 91,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -791,7 +791,7 @@ Ja, ja; ..... arm! ! ! arm! ! !
  Es gibt viellicht noch ärmeri wie mir, gäll Mame? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,25,8,0.05662499999999999,0.32
+",45,weber-am-wihnachtsowe-bym-e-kriejsblinde,25,8,0.05662499999999999,0.32
 92,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -802,7 +802,7 @@ Aermeri? ? ?
  ärmeri ..... ?? Ja, es gibt noch ärmeri Lyt wie mir.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,24,5,0.0,0.20833333333333334
+",46,weber-am-wihnachtsowe-bym-e-kriejsblinde,24,5,0.0,0.20833333333333334
 93,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -811,7 +811,7 @@ Braun:
 Was hech denn Mame? ? ? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
+",46,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
 94,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -822,7 +822,7 @@ Nix, nix, Albert.
  Ich schick no s’Jeanne furt Wecke hole.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.0,0.05555555555555555
+",47,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.0,0.05555555555555555
 95,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -831,7 +831,7 @@ Braun:
 Ja, es soll awer güet acht gänn, wenn es üewer d’Stross geht.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,3,0.0,0.21428571428571427
+",47,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,3,0.0,0.21428571428571427
 96,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -841,7 +841,7 @@ Kumm Jeanne.
 (geht zu Jeanne und redet mit ihr)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
+",48,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
 98,tale,Charele ,M,,,,"
           
 Charele:
@@ -851,7 +851,7 @@ Ja, Babe.
 (geht zu Braun)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
+",49,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
 101,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -864,7 +864,7 @@ Wo bisch denn, min Liewer? Zeij kumm setzt dich e bissel züe mir.
 (setzt Charele auf seine Knie)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,25,2,0.0,0.08
+",50,weber-am-wihnachtsowe-bym-e-kriejsblinde,25,2,0.0,0.08
 102,tale,Charele ,M,,,,"
           
 Charele:
@@ -873,7 +873,7 @@ Charele:
 Babe meinsch vergisst uns s’Chrischtkindel nit?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
+",51,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
 103,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -882,7 +882,7 @@ Braun:
 Allewej, wo denksch düe ane! Es vergisst kein Kind. Un dir bringt es doch die Trumpet mit, wo düe schun lang witt.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,23,3,0.019666666666666634,0.13043478260869565
+",51,weber-am-wihnachtsowe-bym-e-kriejsblinde,23,3,0.019666666666666634,0.13043478260869565
 105,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -893,7 +893,7 @@ Ja was denn? ?
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
+",52,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
 106,tale,Charele ,M,,,,"
           
 Charele:
@@ -902,7 +902,7 @@ Charele:
 Es soll e Tannebaum bringe un ich will noch e Flint un e Savel un e Soldatekapp.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.4501776944887621,0.05555555555555555
+",53,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.4501776944887621,0.05555555555555555
 107,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -914,7 +914,7 @@ Braun:
 Charele, nein! ! kein Flint un kein Sawel! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.22508884724438105,0.18181818181818182
+",53,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.22508884724438105,0.18181818181818182
 108,tale,Charele ,M,,,,"
           
 Charele:
@@ -923,7 +923,7 @@ Charele:
 Doch Babe, füer ze spiele.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.0,0.3333333333333333
+",54,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.0,0.3333333333333333
 109,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -932,7 +932,7 @@ Braun:
 Nein!! nein!! mit Flint un Sawel spielt m'r nit! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.4501776944887621,0.1
+",54,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.4501776944887621,0.1
 110,tale,Charele ,M,,,,"
           
 Charele:
@@ -941,7 +941,7 @@ Charele:
 Doch Babe, Soldatels un Kriej! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.367,0.3333333333333333
+",55,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.367,0.3333333333333333
 111,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -957,7 +957,7 @@ Nein! ! nein! !
  Gäll Charele, düe spielsch nie, nie Soldatels un Kriej, nie, gäll nit min liewer Büe!!! Lüej, d’Soldate sin alles boesi Männer, wo de andere Lyt numme Weh mache. Lüej, dim Babe han d’Soldate au arich weh an de Gigele gemacht, ich kann jetzt nix meh sehn, au dich nimmi min Liewer! ! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,90,16,0.22066669259616478,0.17777777777777778
+",55,weber-am-wihnachtsowe-bym-e-kriejsblinde,90,16,0.22066669259616478,0.17777777777777778
 113,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -968,7 +968,7 @@ Ja min Liewer, an de Gigele.
  Charele, liewer goldiger Büe, dir sol’s emol nit gehn wie mir.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,29,4,0.0,0.13793103448275862
+",56,weber-am-wihnachtsowe-bym-e-kriejsblinde,29,4,0.0,0.13793103448275862
 114,tale,Charele ,M,,,,"
           
 Charele:
@@ -980,7 +980,7 @@ Charele:
 Babe, ja werum mache d’Soldate eim Weh? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,4,0.182,0.3076923076923077
+",57,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,4,0.182,0.3076923076923077
 115,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -995,7 +995,7 @@ Werum??? werum??? Kind, dess wisse ah jo d’Soldate sälwer nit. Sie müen, un 
  Was hesch düe denn Albert? Düe reddsch jo so lütt, dass mir näwes dran e jeds Wort versteht. 4
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,66,10,0.20594425836602892,0.15151515151515152
+",57,weber-am-wihnachtsowe-bym-e-kriejsblinde,66,10,0.20594425836602892,0.15151515151515152
 116,tale,Charele ,M,,,,"
           
 Charele:
@@ -1008,7 +1008,7 @@ Grand’meman, d’Soldate han im Papa weh an de Gigele gemacht. Ich will vum Ch
 (holt sein Roess- lein, setzt sich in eine Ecke und spielt damit)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,41,4,0.2945444236221905,0.0975609756097561
+",58,weber-am-wihnachtsowe-bym-e-kriejsblinde,41,4,0.2945444236221905,0.0975609756097561
 118,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1019,7 +1019,7 @@ Isch wo de Kriej so arich hass, hab e Büe wo e Flint un e Sawel will füer mit 
  Ja min Liewer spiel düe scheen mit dim Rœssele.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,48,10,0.2012177694488762,0.20833333333333334
+",59,weber-am-wihnachtsowe-bym-e-kriejsblinde,48,10,0.2012177694488762,0.20833333333333334
 119,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1030,7 +1030,7 @@ Mame!!!! Mame! ! ! !
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,3,2,0.0,0.6666666666666666
+",59,weber-am-wihnachtsowe-bym-e-kriejsblinde,3,2,0.0,0.6666666666666666
 121,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1042,7 +1042,7 @@ Braun:
 Mame! ! ! ! Mame! ! ! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,4,0.11324999999999998,0.2857142857142857
+",60,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,4,0.11324999999999998,0.2857142857142857
 123,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1056,7 +1056,7 @@ Mame!! ......ich wott...... gern hiele!!!! Grand’mère: Armer, armer Büe!!!!
 (es klopft an die Türe)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,28,6,0.0,0.21428571428571427
+",61,weber-am-wihnachtsowe-bym-e-kriejsblinde,28,6,0.0,0.21428571428571427
 124,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1065,7 +1065,7 @@ Braun:
 Mame!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
+",62,weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
 125,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1074,7 +1074,7 @@ Grand'mère:
 Ja;
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
+",62,weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
 126,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1084,7 +1084,7 @@ Ich glaub es het geklopft.
 (es klopft an die Türe)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",63,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 127,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1096,7 +1096,7 @@ Kumm setzt dich.
 (es klopft fest an die Türe)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,17,3,0.0,0.17647058823529413
+",63,weber-am-wihnachtsowe-bym-e-kriejsblinde,17,3,0.0,0.17647058823529413
 128,tale,Charele ,M,,,,"
           
 Charele:
@@ -1105,7 +1105,7 @@ Charele:
 (geht schnell unter den Tisch)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.139,0.25
+",64,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.139,0.25
 129,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1115,7 +1115,7 @@ Ja, ja.
 (geht an die Türe und macht auf)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.0,0.25
+",64,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.0,0.25
 130,tale,Paul ,M,,,,"
           
 Paul:
@@ -1127,7 +1127,7 @@ Paul:
 Pardon Madame, wohnt do viellicht Braun? ? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.015,0.16666666666666666
+",65,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.015,0.16666666666666666
 131,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1136,7 +1136,7 @@ Grand'mère:
 Ja, was soll sin Monsieur? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
+",65,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
 132,tale,Paul ,M,,,,"
           
 Paul:
@@ -1149,7 +1149,7 @@ Ein Moment, Madame.
  Sie müen nit verschrecke Madame, es isch nit schlimm.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,35,6,0.23111318554799223,0.17142857142857143
+",66,weber-am-wihnachtsowe-bym-e-kriejsblinde,35,6,0.23111318554799223,0.17142857142857143
 133,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1158,7 +1158,7 @@ Grand'mère:
 Ja was isch denn? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
+",66,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
 134,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1170,7 +1170,7 @@ Braun:
 Was isch Mame, saa! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
+",67,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,1,0.0,0.09090909090909091
 135,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1181,7 +1181,7 @@ Ich weiss nit.
  O Gott was ich denn passiert??? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,1,0.0,0.05263157894736842
+",67,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,1,0.0,0.05263157894736842
 136,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1190,7 +1190,7 @@ Henri:
 (trägt auf seinen Armen Jeanne, legt sie auf das  Canapé)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",68,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 137,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1199,7 +1199,7 @@ Jeanne:
 (ist ohnmächtig)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
+",68,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
 139,tale,Paul ,M,,,,"
           
 Paul:
@@ -1213,7 +1213,7 @@ Es isch jo nit schlimm Madame.
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.37166666666666665,0.25
+",69,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,3,0.37166666666666665,0.25
 140,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1222,7 +1222,7 @@ Braun:
 Mame, Mame!!!!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,3,2,0.0,0.6666666666666666
+",70,weber-am-wihnachtsowe-bym-e-kriejsblinde,3,2,0.0,0.6666666666666666
 142,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1232,7 +1232,7 @@ Was isch, was het’s???
 (hält Grand'mère am Arme fest)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.22649999999999995,0.15384615384615385
+",71,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.22649999999999995,0.15384615384615385
 143,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1244,7 +1244,7 @@ Henri:
 Sie kœnne ganz berüehigt sin Madame, es isch numme e kleini Ohnmacht.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,4,0.0075,0.18181818181818182
+",71,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,4,0.0075,0.18181818181818182
 144,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1254,7 +1254,7 @@ Wo isch denn s’Jeanne, Mame??? Wo??? Grand’mère:
 (führt Braun zu Jeanne ans Canapé)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,17,1,0.0,0.058823529411764705
+",72,weber-am-wihnachtsowe-bym-e-kriejsblinde,17,1,0.0,0.058823529411764705
 145,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1266,7 +1266,7 @@ Braun:
 Jeanne, Jeanne, min Kind!!! Was hesch düe denn??. ..... Mame es gibt jo kein Ant- wort!!!!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,21,3,0.0,0.14285714285714285
+",72,weber-am-wihnachtsowe-bym-e-kriejsblinde,21,3,0.0,0.14285714285714285
 146,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1275,7 +1275,7 @@ Henri:
 Es isch nix Monsieur, sie kœnne sicher berüehigt sin. Ihri Tochder isch uff de Stross aneg’fallle, direckt vor min Auto. Vor Schrecke isch sie jetzt ohnmächtig. Es düert noch e paar Auwesblick. Sie het nit die geringschde Verletzunge.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,39,6,0.09077811637070954,0.15384615384615385
+",73,weber-am-wihnachtsowe-bym-e-kriejsblinde,39,6,0.09077811637070954,0.15384615384615385
 147,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1284,7 +1284,7 @@ Braun:
 Uessgerutscht saawe sie? Sie wäres üewerfahre han, dess arme Kind.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.2045,0.18181818181818182
+",73,weber-am-wihnachtsowe-bym-e-kriejsblinde,11,2,0.2045,0.18181818181818182
 148,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1293,7 +1293,7 @@ Henri:
 Ich versicher ihne Monsieur, dass ihri Tochder nit üewerfahre isch wore. Es sin jo Zeje do wo’s g’sähne han: e Schutzmann un e Frau wo do im Hüess wohnt.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,31,4,0.10225,0.12903225806451613
+",74,weber-am-wihnachtsowe-bym-e-kriejsblinde,31,4,0.10225,0.12903225806451613
 149,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1302,7 +1302,7 @@ Braun:
 S’isch schun güet, sie han Recht, wie immer all richi Lyt Recht han, wenn ebs pasiert. D’r arm Teifel isch immer de Schuldig. Gehn sie jetzt numme...... sie han jo ihri Pflicht gemacht.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,35,7,0.09751037721727103,0.2
+",74,weber-am-wihnachtsowe-bym-e-kriejsblinde,35,7,0.09751037721727103,0.2
 150,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1311,7 +1311,7 @@ Henri:
 Nein Monsieur, ich blie. Ich bin Dokter un geh erscht, wenn ich seh, dass alles erum isch.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.0,0.05555555555555555
+",75,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,1,0.0,0.05555555555555555
 151,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1323,7 +1323,7 @@ Grand'mère:
 Jeanne!!! Jeanne! !!!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",75,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 152,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1335,7 +1335,7 @@ Braun:
 Mame was isch? ? Grand’mère: Es kummt züe sich. Es isch wie der Herr do saat, es isch nit schlimm.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,27,4,0.177,0.14814814814814814
+",76,weber-am-wihnachtsowe-bym-e-kriejsblinde,27,4,0.177,0.14814814814814814
 154,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1344,7 +1344,7 @@ Grand'mère:
 (hat sich zu Jeanne gesetzt und sie auf-  gerichtet, hält sie nun in ihren Armen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.22649999999999995,0.10526315789473684
+",77,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.22649999999999995,0.10526315789473684
 155,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1353,7 +1353,7 @@ Braun:
 Mame, saa wie geht's ihm? ? Grand’mère: Stille, stille.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,3,0.0,0.3
+",77,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,3,0.0,0.3
 156,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1368,7 +1368,7 @@ Grand'mère! ! ! !
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",78,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 158,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1377,7 +1377,7 @@ Jeanne:
 Babe!!!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
+",79,weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
 159,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1386,7 +1386,7 @@ Braun:
 Hesch weh min Kind?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.235,0.4
+",79,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.235,0.4
 160,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1395,7 +1395,7 @@ Jeanne:
 Nein, Babe; ich hab nit weh.... Grand'mère, wo sinn denn d’Wecke wo ich g’holt hab? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,17,2,0.235,0.11764705882352941
+",80,weber-am-wihnachtsowe-bym-e-kriejsblinde,17,2,0.235,0.11764705882352941
 161,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1405,7 +1405,7 @@ Die leje drunte uff de Stross un sin nass
 (geht zu Paul und sagt etwas)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,2,0.16933131996690065,0.1111111111111111
+",80,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,2,0.16933131996690065,0.1111111111111111
 163,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1414,7 +1414,7 @@ Braun:
 Was hesch denn gemacht Kind? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.0,0.3333333333333333
+",81,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.0,0.3333333333333333
 164,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1423,7 +1423,7 @@ Jeanne:
 Ich hab wœlle schnell üewer d’Stross laufe, wo ich d’Wecke hab g’hett; bin awer üessgerutscht un aneg’falle. Ich hab noch die zwei grosse Lichter vum Auto g’sähn, un no isch alles schwarz worre.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,36,3,0.0,0.08333333333333333
+",82,weber-am-wihnachtsowe-bym-e-kriejsblinde,36,3,0.0,0.08333333333333333
 165,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1432,7 +1432,7 @@ Braun:
 Hesch sicher nierigs Weh?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.235,0.4
+",82,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.235,0.4
 166,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1441,7 +1441,7 @@ Jeanne:
 Nein, ganz sicher nit.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.0,0.4
+",83,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.0,0.4
 168,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1450,7 +1450,7 @@ Jeanne:
 Grand'mère ich hab nierigs Weh.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.47,0.16666666666666666
+",84,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.47,0.16666666666666666
 169,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1459,7 +1459,7 @@ Henri:
 Ich versicher ihne nochemol Monsieur, dass ihri Tochder nit vum Auto berührt worre isch. Wenn sie wœlle untersüech ich sie awer trotzdem.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
+",84,weber-am-wihnachtsowe-bym-e-kriejsblinde,23,2,0.0,0.08695652173913043
 170,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1468,7 +1468,7 @@ Braun:
 Merci vielmols Monsieur un verzeje sie mir vun vorhere.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.0,0.1
+",85,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.0,0.1
 171,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1477,7 +1477,7 @@ Henri:
 s’isch schun güet, ich kann’s verstehn, d'Uffrejung im erschte Moment.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,2,0.2405874480776743,0.14285714285714285
+",85,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,2,0.2405874480776743,0.14285714285714285
 172,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1486,7 +1486,7 @@ Braun:
 Ja so isch’s. Awer ‚merci will ich ihne doch saawe, denn Geld kann ich ihne nit gän, will ich kein’s hab.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,24,3,0.0,0.125
+",86,weber-am-wihnachtsowe-bym-e-kriejsblinde,24,3,0.0,0.125
 173,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1495,7 +1495,7 @@ Henri:
 s’isch schun güet Monsieur. Sie han e Auweliede ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.0,0.1
+",86,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,1,0.0,0.1
 174,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1504,7 +1504,7 @@ Braun:
 Ja, es isch vum Kriej.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.367,0.3333333333333333
+",87,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.367,0.3333333333333333
 176,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1513,7 +1513,7 @@ Braun:
 Ja ..... blind.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
+",88,weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
 178,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1522,7 +1522,7 @@ Braun:
 Ja, Monsieur.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
+",89,weber-am-wihnachtsowe-bym-e-kriejsblinde,3,1,0.0,0.3333333333333333
 179,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1531,7 +1531,7 @@ Henri:
 Sie nämme mir’s doch nit in Uewel uff, wenn ich sie frœj?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,14,1,0.0,0.07142857142857142
+",89,weber-am-wihnachtsowe-bym-e-kriejsblinde,14,1,0.0,0.07142857142857142
 181,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1540,7 +1540,7 @@ Henri:
 Durich was isch’s den kumme ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",90,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 184,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1549,7 +1549,7 @@ Braun:
 Ja, ich bin grad vum Sanitätsunterstand here kum- me, wo ich e Schwerverletzter anegetrawe hab g’het. Es ich noch e Büe gsin, küm 19 Johr alt. Ich hab grad in de Grawe ningewœllt, no het e Miin iingschlaawe. s’Fier wo ich dert g’sähne hab, isch’s s’letschde g’sin, was isch g’sähne hab. Blind! ! blind!!! vun dert aan isch immer Nacht um mich g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,67,5,0.0,0.07462686567164178
+",92,weber-am-wihnachtsowe-bym-e-kriejsblinde,67,5,0.0,0.07462686567164178
 185,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1558,7 +1558,7 @@ Henri:
 Armer Mam!!...... un wo ich dess g’sin, wo sie verwundt worre sin? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.20613471762897306,0.23076923076923078
+",92,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.20613471762897306,0.23076923076923078
 188,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1567,7 +1567,7 @@ Braun:
 Ja, in de Stellung vun Pronville.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",94,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 190,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1576,7 +1576,7 @@ Braun:
 Ja. Sie kenne die Stellunge dort ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",95,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 191,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1585,7 +1585,7 @@ Henri:
 Ja. Un der Soldat wo sie üess’m Drohtverhau erüesg’holt han ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.129,0.16666666666666666
+",95,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.129,0.16666666666666666
 197,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1594,7 +1594,7 @@ Henri:
 Ja Albert, ich bin’s. Mich hesch düe üess’m Droht- verhau erüess g’holt, mir hesch s’Läwe gerett un bisch debie blind worre.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,26,2,0.0,0.07692307692307693
+",98,weber-am-wihnachtsowe-bym-e-kriejsblinde,26,2,0.0,0.07692307692307693
 198,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1604,7 +1604,7 @@ Düe bisch de Henri?
 (tastet das Gesicht von Henri ab)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
+",99,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,1,0.0,0.07692307692307693
 199,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1613,7 +1613,7 @@ Henri:
 Ja, ja ich bin’s. Hyt endlich noch lange Johre kann ich dir merci saawe.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,16,4,0.0,0.25
+",99,weber-am-wihnachtsowe-bym-e-kriejsblinde,16,4,0.0,0.25
 200,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1622,7 +1622,7 @@ Braun:
 Loss, loss Henri. Loss „Kleiner“.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,4,0.25810920886358013,0.5
+",100,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,4,0.25810920886358013,0.5
 201,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1631,7 +1631,7 @@ Henri:
 Ja „Kleiner“, so hesch düe mir als g’saat, die Zyt, die paar Monet, wo mir bynand sin g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,21,2,0.0,0.09523809523809523
+",100,weber-am-wihnachtsowe-bym-e-kriejsblinde,21,2,0.0,0.09523809523809523
 203,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1640,7 +1640,7 @@ Braun:
 Ja „Kleiner“ ..... awer saa, wie isch’s dir denn speder no gange?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,15,2,0.0,0.13333333333333333
+",101,weber-am-wihnachtsowe-bym-e-kriejsblinde,15,2,0.0,0.13333333333333333
 204,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1651,7 +1651,7 @@ Henri:
 Ich bin by Cambrai in e Feldlazarett kumme. Im Früehjohr 1918 wo no d'r Vormarsch, d. h. de Rüeck- marsch ang’fange het, sin mir no vun Engländer in’s Innere transportiert worre. Ich hab noch Orleans in’e Lazarett verlangt, will ich dort Verwandti hab. Dort bin ich au operiert worre. Mini Eldere sin noch’m Armistice au ane kumme und dort gebliewe. Ich hab no mini Stüdie in Paris ferti gemacht un bin jetzt in Orleans etabliert.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,79,5,0.0,0.06329113924050633
+",102,weber-am-wihnachtsowe-bym-e-kriejsblinde,79,5,0.0,0.06329113924050633
 205,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1660,7 +1660,7 @@ Braun:
 Un dini Wunde ???
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.379,0.25
+",102,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.379,0.25
 206,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1669,7 +1669,7 @@ Henri:
 Es isch alles güet g’heilt, numme düe bisch nit güet devun kumme.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.0,0.23076923076923078
+",103,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,3,0.0,0.23076923076923078
 207,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1678,7 +1678,7 @@ Braun:
 Loss „Kleiner“.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.1720728059090534,0.4
+",103,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,2,0.1720728059090534,0.4
 209,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1687,7 +1687,7 @@ Braun:
 Ja min Jeannele!! kumm here züe mir Jeanne!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,2,0.0,0.2222222222222222
+",104,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,2,0.0,0.2222222222222222
 212,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1696,7 +1696,7 @@ Henri:
 Ja!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
+",106,weber-am-wihnachtsowe-bym-e-kriejsblinde,2,1,0.0,0.5
 213,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1707,7 +1707,7 @@ Braun:
  ..... isch ..... voreme ..... halwe Johr .....g’storwe.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.63,0.1111111111111111
+",106,weber-am-wihnachtsowe-bym-e-kriejsblinde,9,1,0.63,0.1111111111111111
 214,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1716,7 +1716,7 @@ Henri:
 Düe Armer, hesch au gar kein chance!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
+",107,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,2,0.0,0.25
 215,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1725,7 +1725,7 @@ Braun:
 E Lungeentzüendung ..... un noch ..... s’Misère! Ah, un dort ich au mini lieb un güet Mame, Henri! !!!
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,18,4,0.0,0.2222222222222222
+",107,weber-am-wihnachtsowe-bym-e-kriejsblinde,18,4,0.0,0.2222222222222222
 216,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1737,7 +1737,7 @@ Henri:
 Ich hab viel vun ihne ver- zehle hœre, Madame Braun. D’Mame, d’Frau un sin Jeannel sin immer sin Alles g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,29,3,0.01,0.10344827586206896
+",108,weber-am-wihnachtsowe-bym-e-kriejsblinde,29,3,0.01,0.10344827586206896
 217,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1746,7 +1746,7 @@ Braun:
 Noch ebs „Kleiner“.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
+",108,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,1,0.0,0.16666666666666666
 223,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1755,7 +1755,7 @@ Braun:
 Ja, e fils wo ich kenn awer noch nie g’sähne hab.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
+",111,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.0,0.08333333333333333
 225,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1766,7 +1766,7 @@ Ja wo steckt er denn. Charele! !!!
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",112,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 226,tale,Jeanne  ,F,,,,"
           
 Jeanne:
@@ -1778,7 +1778,7 @@ Jeanne:
 Do sitzt er jo. Zeij kumm vor, Charele.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,2,0.0,0.09090909090909091
+",113,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,2,0.0,0.09090909090909091
 228,tale,Charele ,M,,,,"
           
 Alle:
@@ -1787,7 +1787,7 @@ Alle:
 (lachen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
+",114,weber-am-wihnachtsowe-bym-e-kriejsblinde,4,1,0.0,0.25
 229,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1799,7 +1799,7 @@ Henri:
 D'r Hans- trapp? ? Ja der isch jo gar nit do g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,22,1,0.0,0.045454545454545456
+",114,weber-am-wihnachtsowe-bym-e-kriejsblinde,22,1,0.0,0.045454545454545456
 232,tale,Charele ,M,,,,"
           
 Charele:
@@ -1812,7 +1812,7 @@ Dort steht er jo.
 (lauft schnell hinter Grand'mère)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,15,1,0.0,0.06666666666666667
+",116,weber-am-wihnachtsowe-bym-e-kriejsblinde,15,1,0.0,0.06666666666666667
 234,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1821,7 +1821,7 @@ Henri:
 Nein. Awer er kann, ne jetzt emol spiele. Paul, hole sie alli Sache wo im Auto leje, eruff.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.16933131996690065,0.10526315789473684
+",117,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.16933131996690065,0.10526315789473684
 236,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1830,7 +1830,7 @@ Henri:
 Ich bin nämlich by minere Schwechder wo hy g'hyrot isch, üewer Wihnachte. Ich hab grad Inkeif gemacht un bin jetzt durich des Accident vum Jeanne do here kumme. Wie geht’s dir sunscht Albert, was machsch? ?
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,37,5,0.0,0.13513513513513514
+",118,weber-am-wihnachtsowe-bym-e-kriejsblinde,37,5,0.0,0.13513513513513514
 237,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1839,7 +1839,7 @@ Braun:
 Ich hab noch’m Kriej Klavierstimmer gelehrt, will ich uff mim Handwerik nimmi schaffe kann.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,16,2,0.367,0.125
+",118,weber-am-wihnachtsowe-bym-e-kriejsblinde,16,2,0.367,0.125
 240,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1848,7 +1848,7 @@ Henri:
 ..... un emol gar nix, gäll. Dess hœrt jetzt uff. Ich sorig vun hyt an füer dich. Wer weiss wo ich wär, wenn düe nit wärsch g’sin.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
+",120,weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
 241,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1857,7 +1857,7 @@ Braun:
 Loss „Kleiner“ ..... nein.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.1720728059090534,0.3333333333333333
+",120,weber-am-wihnachtsowe-bym-e-kriejsblinde,6,2,0.1720728059090534,0.3333333333333333
 242,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1866,7 +1866,7 @@ Henri:
 Doch Albert ....... loss düe numme diner „Kleiner“ mache. Ich denk mir, dass düe mit dinere Pen- sion un mit dem was düe verdiensch mit 4 Persone in däne Zyte nit läwe kannsch. Ich hab noch ebs quitt zu mache. Vor alle Dinge bekummsch düe emol e Woh- nung in eim vun de Hiser vun mine Eldere. S’andere wo no noch ze mache isch, wur ich no schun sähn.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,74,5,0.06882912236362136,0.06756756756756757
+",121,weber-am-wihnachtsowe-bym-e-kriejsblinde,74,5,0.06882912236362136,0.06756756756756757
 244,tale,Charele ,M,,,,"
           
 Charele:
@@ -1877,7 +1877,7 @@ Charele:
           
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.278,0.08333333333333333
+",122,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,1,0.278,0.08333333333333333
 245,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1889,7 +1889,7 @@ Henri:
 Düe brüesch doch kein Angscht ze han.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.22649999999999995,0.15384615384615385
+",122,weber-am-wihnachtsowe-bym-e-kriejsblinde,13,2,0.22649999999999995,0.15384615384615385
 247,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1899,7 +1899,7 @@ Do Madame Braun, ebs füer ihri Kinder. Miner neveu un mini nièce bekumme ander
 (gibt Grand'mère Geld)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,21,5,0.006,0.23809523809523808
+",123,weber-am-wihnachtsowe-bym-e-kriejsblinde,21,5,0.006,0.23809523809523808
 248,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -1908,7 +1908,7 @@ Grand'mère:
 (will es nicht annehmen)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
+",124,weber-am-wihnachtsowe-bym-e-kriejsblinde,7,1,0.0,0.14285714285714285
 249,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1917,7 +1917,7 @@ Henri:
 Doch doch Madame Braun; sie müens nämme.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.03,0.125
+",124,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.03,0.125
 252,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1926,7 +1926,7 @@ Braun:
 „Kleiner“ nein, ich kann dess nit annämme.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,10,2,0.0,0.2
+",126,weber-am-wihnachtsowe-bym-e-kriejsblinde,10,2,0.0,0.2
 253,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1935,7 +1935,7 @@ Henri:
 Albert, ich hab gar kein Zyt, füer mit dir ze disch- betiere. Ich müess unbedingt glich furt. Ich kumm morje wieder, no redde mir mitnand.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
+",126,weber-am-wihnachtsowe-bym-e-kriejsblinde,27,2,0.0,0.07407407407407407
 255,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1946,7 +1946,7 @@ Nein Madame Braun,
  dort steht der, wo ellein e „Merci“ verdient.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.0695,0.10526315789473684
+",127,weber-am-wihnachtsowe-bym-e-kriejsblinde,19,2,0.0695,0.10526315789473684
 257,tale,Henri Greiner ,M,,,,"
           
 Henri:
@@ -1957,7 +1957,7 @@ Aurevoir Albert! ich kumm morje wieder un no fiere mir Wihnachte do by dir.
  Amüesiere euch hyt Owes güet.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,24,5,0.0,0.20833333333333334
+",128,weber-am-wihnachtsowe-bym-e-kriejsblinde,24,5,0.0,0.20833333333333334
 258,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1966,7 +1966,7 @@ Braun:
 Aurevoir „Kleiner“.
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
+",129,weber-am-wihnachtsowe-bym-e-kriejsblinde,5,1,0.0,0.2
 260,tale,Charele ,M,,,,"
           
 Charele:
@@ -1976,7 +1976,7 @@ Adjé Hanstrapp ! ! Grand’mère:
 (geht mit Jeanne an die Türe, machen sie zu)
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,15,1,0.0,0.06666666666666667
+",130,weber-am-wihnachtsowe-bym-e-kriejsblinde,15,1,0.0,0.06666666666666667
 261,tale,Charele ,M,,,,"
           
 Charele:
@@ -1987,7 +1987,7 @@ Charele:
  
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
+",130,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
 262,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -1998,7 +1998,7 @@ Mame, Mame!! Grand’mère:
  Was myn Büe ??
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
+",131,weber-am-wihnachtsowe-bym-e-kriejsblinde,12,2,0.0,0.16666666666666666
 263,tale,Albert Braun ,M,,,,"
           
 Braun:
@@ -2007,7 +2007,7 @@ Braun:
 Wenn numme noch s’Madeleine läwe dät! ! !
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
+",131,weber-am-wihnachtsowe-bym-e-kriejsblinde,8,1,0.0,0.125
 264,tale,d'Grand-mère oder Grand-père,B,,,,"
           
 Grand'mère:
@@ -2018,4 +2018,4 @@ Ja, ja s’Madeleine! Awer lüej dess isch sicher au so zefriedde wenn es weiss,
  Un au ihr Kinder,
 
         
-",weber-am-wihnachtsowe-bym-e-kriejsblinde,62,11,0.040090909090909094,0.1774193548387097
+",132,weber-am-wihnachtsowe-bym-e-kriejsblinde,62,11,0.040090909090909094,0.1774193548387097

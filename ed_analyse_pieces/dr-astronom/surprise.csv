@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -36,7 +36,7 @@ Das isch jetz emol e Wunder, ass dr Herr Lerch no nitt
           
 
         
-",lustig-dr-astronom,210,25,0.054959999999999995,0.11904761904761904
+",0,lustig-dr-astronom,210,25,0.054959999999999995,0.11904761904761904
 1,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -52,7 +52,7 @@ Jumpfer Wachtle, ich wünsch Ere ne güeter Morge... ich
                     
 
         
-",lustig-dr-astronom,30,8,0.06837499999999999,0.26666666666666666
+",1,lustig-dr-astronom,30,8,0.06837499999999999,0.26666666666666666
 2,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -62,7 +62,7 @@ Jumpfer Wachtle.
 Siter wenn hàn Sie ne böser Finger?
 
         
-",lustig-dr-astronom,9,2,0.0,0.2222222222222222
+",2,lustig-dr-astronom,9,2,0.0,0.2222222222222222
 3,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -74,7 +74,7 @@ Scho drei Tàg... 's isch glaüb dr Umlaüf... un grad noch
                     
 
         
-",lustig-dr-astronom,19,4,0.0,0.21052631578947367
+",3,lustig-dr-astronom,19,4,0.0,0.21052631578947367
 4,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -84,7 +84,7 @@ Jumpfer Wachtle.
 Se känne-n-is awer doch e wenig accompagniere?...
 
         
-",lustig-dr-astronom,11,1,0.0,0.09090909090909091
+",4,lustig-dr-astronom,11,1,0.0,0.09090909090909091
 5,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -96,7 +96,7 @@ Was denkt Se... Se sieht jo, ass ich ne verbunde ha...
                     
 
         
-",lustig-dr-astronom,18,3,0.06,0.16666666666666666
+",5,lustig-dr-astronom,18,3,0.06,0.16666666666666666
 6,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -108,7 +108,7 @@ Un ich ha mich eso g'freit fir Müsik z'mache!... unsre
                     
 
         
-",lustig-dr-astronom,21,5,0.036,0.23809523809523808
+",6,lustig-dr-astronom,21,5,0.036,0.23809523809523808
 7,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -120,7 +120,7 @@ Ich ka jo doch singe, wenn ich scho dr Finger verbunde
                     
 
         
-",lustig-dr-astronom,19,4,0.0,0.21052631578947367
+",7,lustig-dr-astronom,19,4,0.0,0.21052631578947367
 8,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -132,7 +132,7 @@ Das geht nitt, Herr Lerch!... 's hat jo kei Art
                     
 
         
-",lustig-dr-astronom,13,2,0.0,0.15384615384615385
+",8,lustig-dr-astronom,13,2,0.0,0.15384615384615385
 9,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -144,7 +144,7 @@ Thàt Sie-n-emol prawiere z'accompagniere... 's isch
                     
 
         
-",lustig-dr-astronom,17,2,0.0,0.11764705882352941
+",9,lustig-dr-astronom,17,2,0.0,0.11764705882352941
 10,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -156,7 +156,7 @@ Derno ka-n-ich nitt güet singe... ich müess gar
                     
 
         
-",lustig-dr-astronom,21,3,0.0,0.14285714285714285
+",10,lustig-dr-astronom,21,3,0.0,0.14285714285714285
 11,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -168,7 +168,7 @@ Was dr Kückück's hört me nur o fir e Làrme do nàwes in
                     
 
         
-",lustig-dr-astronom,21,4,0.0,0.19047619047619047
+",11,lustig-dr-astronom,21,4,0.0,0.19047619047619047
 12,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -181,7 +181,7 @@ Jumpfer Wachtle.
                     
 
         
-",lustig-dr-astronom,25,4,0.0,0.16
+",12,lustig-dr-astronom,25,4,0.0,0.16
 13,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -195,7 +195,7 @@ Awer Jumpfer Wachtle!... wie ka Sie nur eso ebbes
                     
 
         
-",lustig-dr-astronom,35,5,0.0,0.14285714285714285
+",13,lustig-dr-astronom,35,5,0.0,0.14285714285714285
 14,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -208,7 +208,7 @@ Jumpfer Wachtle
 Dr Kàmifeger viellicht im Kàmi dert....
 
         
-",lustig-dr-astronom,13,3,0.14833333333333334,0.23076923076923078
+",14,lustig-dr-astronom,13,3,0.14833333333333334,0.23076923076923078
 15,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -221,7 +221,7 @@ Tiens... ne Idee!... grad gestert hat me mir verzählt,
                     
 
         
-",lustig-dr-astronom,27,6,0.14183333333333334,0.2222222222222222
+",15,lustig-dr-astronom,27,6,0.14183333333333334,0.2222222222222222
 16,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -231,7 +231,7 @@ Jumpfer Wachtle.
 Hà hà hà... ne Kàmifeger am Klavier!
 
         
-",lustig-dr-astronom,9,1,0.0,0.1111111111111111
+",16,lustig-dr-astronom,9,1,0.0,0.1111111111111111
 17,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -244,7 +244,7 @@ Sie lacht!... ich, versicher Se, me hat mr g'sàit, dà
                     
 
         
-",lustig-dr-astronom,29,6,0.0,0.20689655172413793
+",17,lustig-dr-astronom,29,6,0.0,0.20689655172413793
 18,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -258,7 +258,7 @@ Ich zwifel nitt dra... alle Kàmifeger, wo in dr Höche
           
 
         
-",lustig-dr-astronom,19,1,0.0,0.05263157894736842
+",18,lustig-dr-astronom,19,1,0.0,0.05263157894736842
 19,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -273,7 +273,7 @@ Sie versteht mich nitt... ich mein, vor ebb er Kàmifeger
                     
 
         
-",lustig-dr-astronom,33,4,0.0,0.12121212121212122
+",19,lustig-dr-astronom,33,4,0.0,0.12121212121212122
 21,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -283,7 +283,7 @@ Herr Lerch.
 Kännte-n-Ihr uns viellicht e wenig accompagniere?..
 
         
-",lustig-dr-astronom,10,2,0.2225,0.2
+",21,lustig-dr-astronom,10,2,0.2225,0.2
 23,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -293,7 +293,7 @@ Jumpfer Wachtle.
 Do hà mr's!...
 
         
-",lustig-dr-astronom,6,1,0.0,0.16666666666666666
+",23,lustig-dr-astronom,6,1,0.0,0.16666666666666666
 24,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -305,7 +305,7 @@ E nei... ich mein, eb Ihr viellicht känne ne wenig
                     
 
         
-",lustig-dr-astronom,14,4,0.21275,0.2857142857142857
+",24,lustig-dr-astronom,14,4,0.21275,0.2857142857142857
 25,comedy,Herr BÜECHFINK,M,,,,"
           
 Kàmifeger.
@@ -314,7 +314,7 @@ Kàmifeger.
 E wenig, jo... ich bi awer nitt stark!
 
         
-",lustig-dr-astronom,9,1,0.0,0.1111111111111111
+",25,lustig-dr-astronom,9,1,0.0,0.1111111111111111
 26,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -328,7 +328,7 @@ Güet, so kämme nur awe... 's gitt nitt difficil's
                     
 
         
-",lustig-dr-astronom,24,4,0.1015,0.16666666666666666
+",26,lustig-dr-astronom,24,4,0.1015,0.16666666666666666
 27,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -343,7 +343,7 @@ Das isch awer jetz ganz merkwürdig!
                     
 
         
-",lustig-dr-astronom,32,4,0.043,0.125
+",27,lustig-dr-astronom,32,4,0.043,0.125
 28,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -360,7 +360,7 @@ Do setze-n-i ans Klavier... mr wann emol lüege was Ihr
           
 
         
-",lustig-dr-astronom,34,2,0.203,0.058823529411764705
+",28,lustig-dr-astronom,34,2,0.203,0.058823529411764705
 29,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -440,7 +440,7 @@ Fir uns beide.
           
 
         
-",lustig-dr-astronom,108,19,0.08147368421052632,0.17592592592592593
+",29,lustig-dr-astronom,108,19,0.08147368421052632,0.17592592592592593
 30,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -520,7 +520,7 @@ Fir uns beide.
           
 
         
-",lustig-dr-astronom,108,19,0.08147368421052632,0.17592592592592593
+",30,lustig-dr-astronom,108,19,0.08147368421052632,0.17592592592592593
 31,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -543,7 +543,7 @@ Un z'ruck kunnt se nimmig meh.
           
 
         
-",lustig-dr-astronom,28,3,0.3180729005540912,0.10714285714285714
+",31,lustig-dr-astronom,28,3,0.3180729005540912,0.10714285714285714
 32,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -580,7 +580,7 @@ Wenn ich 's Herz etc.
                         
 
         
-",lustig-dr-astronom,56,6,0.28940623388742454,0.10714285714285714
+",32,lustig-dr-astronom,56,6,0.28940623388742454,0.10714285714285714
 33,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -596,7 +596,7 @@ Wie findet Sie ne?
 (er zeigt uf dr Kàmifeger.)
 
         
-",lustig-dr-astronom,18,3,0.0,0.16666666666666666
+",33,lustig-dr-astronom,18,3,0.0,0.16666666666666666
 34,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -606,7 +606,7 @@ Jumpfer Wachtle.
 Wisse Se, ass er erst noch güet spielt!
 
         
-",lustig-dr-astronom,10,2,0.0,0.2
+",34,lustig-dr-astronom,10,2,0.0,0.2
 35,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -618,7 +618,7 @@ Weisst Sie awer, ass Sie jetz o-n-efange güet singt,
                         
 
         
-",lustig-dr-astronom,15,4,0.0,0.26666666666666666
+",35,lustig-dr-astronom,15,4,0.0,0.26666666666666666
 36,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -630,7 +630,7 @@ Ich's e Wunder mit eme so ne Lehrmeister, wie Sie
                         
 
         
-",lustig-dr-astronom,15,2,0.3865,0.13333333333333333
+",36,lustig-dr-astronom,15,2,0.3865,0.13333333333333333
 37,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -645,7 +645,7 @@ Wenn's awer eso furtgeht, so wird Se mich jetz bol
 (Dr Kàmifeger fangt a z'spiele.)
 
         
-",lustig-dr-astronom,46,9,0.12755555555555556,0.1956521739130435
+",37,lustig-dr-astronom,46,9,0.12755555555555556,0.1956521739130435
 38,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -725,7 +725,7 @@ Im leere Wald.
                 
 
         
-",lustig-dr-astronom,135,25,0.02468,0.18518518518518517
+",38,lustig-dr-astronom,135,25,0.02468,0.18518518518518517
 39,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -737,7 +737,7 @@ Mit allem dem hat Sie mir vorig kei Antwort gà,
                         
 
         
-",lustig-dr-astronom,21,4,0.0,0.19047619047619047
+",39,lustig-dr-astronom,21,4,0.0,0.19047619047619047
 40,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -747,7 +747,7 @@ Jumpfer Wachtle.
 Was hàn Se mich denn g'frogt g'ha?
 
         
-",lustig-dr-astronom,9,1,0.0,0.1111111111111111
+",40,lustig-dr-astronom,9,1,0.0,0.1111111111111111
 41,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -759,7 +759,7 @@ Sie weisst's jo wohl... awer Sie wicht mir allewil
                         
 
         
-",lustig-dr-astronom,19,3,0.073,0.15789473684210525
+",41,lustig-dr-astronom,19,3,0.073,0.15789473684210525
 42,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -769,7 +769,7 @@ Jumpfer Wachtle.
 Was denn, Herr Lerch?...
 
         
-",lustig-dr-astronom,6,2,0.0,0.3333333333333333
+",42,lustig-dr-astronom,6,2,0.0,0.3333333333333333
 43,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -779,7 +779,7 @@ Herr Lerch.
 Wie gern ass ich Se ha?...
 
         
-",lustig-dr-astronom,8,2,0.1095,0.25
+",43,lustig-dr-astronom,8,2,0.1095,0.25
 44,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -790,7 +790,7 @@ Gehn Se doch!... das sage-n-eim alle junge Lit!...
                         
 
         
-",lustig-dr-astronom,12,2,0.082,0.16666666666666666
+",44,lustig-dr-astronom,12,2,0.082,0.16666666666666666
 45,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -803,7 +803,7 @@ Awer mir isch's Ernst, Jumpfer Wachtle!... Oh, sieht
                         
 
         
-",lustig-dr-astronom,29,5,0.12500000000000003,0.1724137931034483
+",45,lustig-dr-astronom,29,5,0.12500000000000003,0.1724137931034483
 46,comedy,Herr BÜECHFINK,M,,,,"
           
 Dr Kàmifeger
@@ -821,7 +821,7 @@ Jumpfer Wachtle, ich ha o d'Ehr, Sie définitivement
           
 
         
-",lustig-dr-astronom,36,6,0.1536666666666667,0.16666666666666666
+",46,lustig-dr-astronom,36,6,0.1536666666666667,0.16666666666666666
 47,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -831,7 +831,7 @@ Herr Lerch un Jumpfer Wachtle.
 Dr Herr Büechfink!...
 
         
-",lustig-dr-astronom,8,3,0.0,0.375
+",47,lustig-dr-astronom,8,3,0.0,0.375
 48,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -841,7 +841,7 @@ Herr Lerch un Jumpfer Wachtle.
 Dr Herr Büechfink!...
 
         
-",lustig-dr-astronom,8,3,0.0,0.375
+",48,lustig-dr-astronom,8,3,0.0,0.375
 49,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -853,7 +853,7 @@ Un ich, wo Sie fir e wirkliger Kàmifeger gnu hà!...
                         
 
         
-",lustig-dr-astronom,21,3,0.0,0.14285714285714285
+",49,lustig-dr-astronom,21,3,0.0,0.14285714285714285
 50,comedy,Herr BÜECHFINK,M,,,,"
           
 Herr Büechfink.
@@ -870,7 +870,7 @@ Ich bi halt jaloux gsi, Jumpfer Wachtle... un wil
                         
 
         
-",lustig-dr-astronom,81,14,0.09429741591888817,0.1728395061728395
+",50,lustig-dr-astronom,81,14,0.09429741591888817,0.1728395061728395
 51,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -883,7 +883,7 @@ Herr Lerch
 Herr Büechfink!...
 
         
-",lustig-dr-astronom,7,3,0.0,0.42857142857142855
+",51,lustig-dr-astronom,7,3,0.0,0.42857142857142855
 52,comedy,Herr BÜECHFINK,M,,,,"
           
 Herr Büechfink.
@@ -892,7 +892,7 @@ Herr Büechfink.
 Herr Lerch!...
 
         
-",lustig-dr-astronom,4,2,0.0,0.5
+",52,lustig-dr-astronom,4,2,0.0,0.5
 53,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -908,7 +908,7 @@ nitt wohr, Sie singe?
  nitt wohr, Sie spiele?
 
         
-",lustig-dr-astronom,46,16,0.036625000000000005,0.34782608695652173
+",53,lustig-dr-astronom,46,16,0.036625000000000005,0.34782608695652173
 54,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -923,7 +923,7 @@ Mit Vergniege, Jumpfer Wachtle!
                         
 
         
-",lustig-dr-astronom,21,5,0.0,0.23809523809523808
+",54,lustig-dr-astronom,21,5,0.0,0.23809523809523808
 55,comedy,Herr BÜECHFINK,M,,,,"
           
 Beide.
@@ -937,7 +937,7 @@ Mit Vergniege, Jumpfer Wachtle!
                         
 
         
-",lustig-dr-astronom,21,5,0.0,0.23809523809523808
+",55,lustig-dr-astronom,21,5,0.0,0.23809523809523808
 56,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -1010,7 +1010,7 @@ bis{
           
 
         
-",lustig-dr-astronom,86,10,0.08520000000000001,0.11627906976744186
+",56,lustig-dr-astronom,86,10,0.08520000000000001,0.11627906976744186
 57,comedy,"Herr LERCH
                     ",M,,,,"
           
@@ -1083,7 +1083,7 @@ bis{
           
 
         
-",lustig-dr-astronom,86,10,0.08520000000000001,0.11627906976744186
+",57,lustig-dr-astronom,86,10,0.08520000000000001,0.11627906976744186
 58,comedy,"Jumpfer WACHTLE
                     ",F,,,,"
           
@@ -1099,4 +1099,4 @@ Ihr Herre... d'Singstund isch fertig!
 (se verschwindet; dr Vorhang fallt.)
 
         
-",lustig-dr-astronom,22,3,0.0,0.13636363636363635
+",58,lustig-dr-astronom,22,3,0.0,0.13636363636363635

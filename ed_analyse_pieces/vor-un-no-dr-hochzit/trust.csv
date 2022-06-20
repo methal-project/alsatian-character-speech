@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -98,7 +98,7 @@ Glich alle drei!
             
 
           
-",lustig-vor-un-no-dr-hochzit,236,35,0.16048136567140636,0.1483050847457627
+",0,lustig-vor-un-no-dr-hochzit,236,35,0.16048136567140636,0.1483050847457627
 1,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -113,7 +113,7 @@ Eh, güete-n-Owe Jumpfer Schnitz... ich ha g'sàh im
                             anderscht känne, ich ha miesse-n-ine ku...
 
           
-",lustig-vor-un-no-dr-hochzit,41,8,0.1474593770931177,0.1951219512195122
+",1,lustig-vor-un-no-dr-hochzit,41,8,0.1474593770931177,0.1951219512195122
 2,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -134,7 +134,7 @@ Allewil uf d'letschte Mode... wenn er nur schöner
                             lang... nimmt er denn allewil no nitt ab?
 
           
-",lustig-vor-un-no-dr-hochzit,54,11,0.28126127767313214,0.2037037037037037
+",2,lustig-vor-un-no-dr-hochzit,54,11,0.28126127767313214,0.2037037037037037
 3,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -144,7 +144,7 @@ Nie, Jumpfer Schnitz... So lang ass Sie Sieselsaft
                             z'verkaüfe hat!
 
           
-",lustig-vor-un-no-dr-hochzit,13,4,0.127,0.3076923076923077
+",3,lustig-vor-un-no-dr-hochzit,13,4,0.127,0.3076923076923077
 4,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -160,7 +160,7 @@ ne Find...
                             kämme ku Sieselsaft kaüfe...
 
           
-",lustig-vor-un-no-dr-hochzit,40,5,0.24485978519144477,0.125
+",4,lustig-vor-un-no-dr-hochzit,40,5,0.24485978519144477,0.125
 5,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -173,7 +173,7 @@ Oh Jumpfer Lisette!... Sie weisst ganz güet, ass es
                             doch ebbe mir nitt vorzieh?...
 
           
-",lustig-vor-un-no-dr-hochzit,30,5,0.1016,0.16666666666666666
+",5,lustig-vor-un-no-dr-hochzit,30,5,0.1016,0.16666666666666666
 7,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -196,7 +196,7 @@ Eh nei, dr Commis... er hat ganz Recht, wenn er
                             Zwàtschke werde!...
 
           
-",lustig-vor-un-no-dr-hochzit,84,10,0.3719809332572818,0.11904761904761904
+",7,lustig-vor-un-no-dr-hochzit,84,10,0.3719809332572818,0.11904761904761904
 8,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -208,7 +208,7 @@ Lisettle
 Er hat Recht... wenn er nur schöner wàr!...
 
           
-",lustig-vor-un-no-dr-hochzit,13,3,0.38799999999999996,0.23076923076923078
+",8,lustig-vor-un-no-dr-hochzit,13,3,0.38799999999999996,0.23076923076923078
 9,comedy,LISETTLE,F,,,,"
             
 Mitnander.
@@ -250,7 +250,7 @@ Un uf d'Bàll geh tanze-n-als!
             
 
           
-",lustig-vor-un-no-dr-hochzit,56,12,0.19122661957505593,0.21428571428571427
+",9,lustig-vor-un-no-dr-hochzit,56,12,0.19122661957505593,0.21428571428571427
 10,comedy,Herr SPATZLE,M,,,,"
             
 Mitnander.
@@ -292,7 +292,7 @@ Un uf d'Bàll geh tanze-n-als!
             
 
           
-",lustig-vor-un-no-dr-hochzit,56,12,0.19122661957505593,0.21428571428571427
+",10,lustig-vor-un-no-dr-hochzit,56,12,0.19122661957505593,0.21428571428571427
 11,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -347,7 +347,7 @@ Oh Lisettle!
                             so gang ich gli jetz uf dr Stell'...
 
           
-",lustig-vor-un-no-dr-hochzit,104,12,0.1880043472457484,0.11538461538461539
+",11,lustig-vor-un-no-dr-hochzit,104,12,0.1880043472457484,0.11538461538461539
 12,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -358,7 +358,7 @@ Nei... jetz nitt... dr Pape-n-isch glaüb iwel
                             z'Owe...
 
           
-",lustig-vor-un-no-dr-hochzit,15,2,0.358149462978612,0.13333333333333333
+",12,lustig-vor-un-no-dr-hochzit,15,2,0.358149462978612,0.13333333333333333
 13,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -367,7 +367,7 @@ Herr Spàtzle.
 Das sàit Sie mr jetz scho Monete lang!
 
           
-",lustig-vor-un-no-dr-hochzit,10,2,0.0,0.2
+",13,lustig-vor-un-no-dr-hochzit,10,2,0.0,0.2
 14,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -384,7 +384,7 @@ Ich müess mi doch emol entschliesse fir Ein oder dr
 (se lüegt am Fenster).
 
           
-",lustig-vor-un-no-dr-hochzit,29,4,0.1405,0.13793103448275862
+",14,lustig-vor-un-no-dr-hochzit,29,4,0.1405,0.13793103448275862
 15,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -394,7 +394,7 @@ Eh bien, ich mach mich dervo... awer nitt wohr, Sie
                             verspricht mr...
 
           
-",lustig-vor-un-no-dr-hochzit,14,3,0.48689167224831387,0.21428571428571427
+",15,lustig-vor-un-no-dr-hochzit,14,3,0.48689167224831387,0.21428571428571427
 16,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -409,7 +409,7 @@ Se känne jetz nitt üse... 's isch dr Commis... er
                             laüfe...
 
           
-",lustig-vor-un-no-dr-hochzit,30,2,0.28900000000000003,0.06666666666666667
+",16,lustig-vor-un-no-dr-hochzit,30,2,0.28900000000000003,0.06666666666666667
 17,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -420,7 +420,7 @@ Eh bien... ich kaüf fir e Grosche Meertriwel... das
                             ganz natürell...
 
           
-",lustig-vor-un-no-dr-hochzit,15,4,0.16791875418623542,0.26666666666666666
+",17,lustig-vor-un-no-dr-hochzit,15,4,0.16791875418623542,0.26666666666666666
 18,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -435,7 +435,7 @@ Nei, nei... Sie wisse-n-ass er Sie hasst... ich wott
                             Mehlschrank).
 
           
-",lustig-vor-un-no-dr-hochzit,37,1,0.0,0.02702702702702703
+",18,lustig-vor-un-no-dr-hochzit,37,1,0.0,0.02702702702702703
 19,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -444,7 +444,7 @@ Herr Spàtzle.
 Ich, do dri?... mit mim neüe Kleid!
 
           
-",lustig-vor-un-no-dr-hochzit,9,1,0.0,0.1111111111111111
+",19,lustig-vor-un-no-dr-hochzit,9,1,0.0,0.1111111111111111
 20,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -458,7 +458,7 @@ Lisettle
                             Sie hàn ganz güet Platz drin...
 
           
-",lustig-vor-un-no-dr-hochzit,23,4,0.0,0.17391304347826086
+",20,lustig-vor-un-no-dr-hochzit,23,4,0.0,0.17391304347826086
 21,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -467,7 +467,7 @@ Herr Spàtzle.
 Awer mi Kleid!...
 
           
-",lustig-vor-un-no-dr-hochzit,5,1,0.0,0.2
+",21,lustig-vor-un-no-dr-hochzit,5,1,0.0,0.2
 22,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -480,7 +480,7 @@ Ich bitt Se drum, Herr Spàtzle... wenn Sie mich gern
                             do...
 
           
-",lustig-vor-un-no-dr-hochzit,25,4,0.15441927073888265,0.16
+",22,lustig-vor-un-no-dr-hochzit,25,4,0.15441927073888265,0.16
 23,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -489,7 +489,7 @@ Herr Spàtzle.
 Awer nitt lang, nitt wohr?...
 
           
-",lustig-vor-un-no-dr-hochzit,7,3,0.263,0.42857142857142855
+",23,lustig-vor-un-no-dr-hochzit,7,3,0.263,0.42857142857142855
 24,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -503,7 +503,7 @@ Nur e-n-Aügesblick... wie-n-er wieder üse geht, so
                             züe un springt üse rechts).
 
           
-",lustig-vor-un-no-dr-hochzit,31,2,0.332,0.06451612903225806
+",24,lustig-vor-un-no-dr-hochzit,31,2,0.332,0.06451612903225806
 25,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
@@ -536,7 +536,7 @@ Also mir, im erste Commis, wo so z'age 's ganze
                             wo-n-afange-n-allewil do ummeflattert...
 
           
-",lustig-vor-un-no-dr-hochzit,122,25,0.2316,0.20491803278688525
+",25,lustig-vor-un-no-dr-hochzit,122,25,0.2316,0.20491803278688525
 26,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -550,7 +550,7 @@ Dem g'schieht's jetz emol Recht!
                             verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,17,4,0.1445,0.23529411764705882
+",26,lustig-vor-un-no-dr-hochzit,17,4,0.1445,0.23529411764705882
 27,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
@@ -603,7 +603,7 @@ Ass er thüet verachte d'Kleine...
             
 
           
-",lustig-vor-un-no-dr-hochzit,93,18,0.09116666666666667,0.1935483870967742
+",27,lustig-vor-un-no-dr-hochzit,93,18,0.09116666666666667,0.1935483870967742
 28,comedy,Herr SPATZLE,M,,,,"
             
 Hërr Spàtzle
@@ -616,7 +616,7 @@ Dir g'schieht's recht!
 (er verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,18,3,0.19266666666666665,0.16666666666666666
+",28,lustig-vor-un-no-dr-hochzit,18,3,0.19266666666666665,0.16666666666666666
 29,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
@@ -650,7 +650,7 @@ Hein... dasmol ha-n-i jetz glaübt, ich hör singe...
 (er geht hinte-n-üse).
 
           
-",lustig-vor-un-no-dr-hochzit,132,18,0.13217979925943174,0.13636363636363635
+",29,lustig-vor-un-no-dr-hochzit,132,18,0.13217979925943174,0.13636363636363635
 30,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -684,7 +684,7 @@ Endlig!... ich ha g'meint, er will nimmig üsegeh!
                             züe).
 
           
-",lustig-vor-un-no-dr-hochzit,108,11,0.1489362659961113,0.10185185185185185
+",30,lustig-vor-un-no-dr-hochzit,108,11,0.1489362659961113,0.10185185185185185
 31,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -710,7 +710,7 @@ gazin un
                             rechts).
 
           
-",lustig-vor-un-no-dr-hochzit,74,12,0.09241666666666666,0.16216216216216217
+",31,lustig-vor-un-no-dr-hochzit,74,12,0.09241666666666666,0.16216216216216217
 32,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -722,7 +722,7 @@ Jo Herr...
                             Rand).
 
           
-",lustig-vor-un-no-dr-hochzit,17,6,0.11066666666666668,0.35294117647058826
+",32,lustig-vor-un-no-dr-hochzit,17,6,0.11066666666666668,0.35294117647058826
 33,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -739,7 +739,7 @@ Gàn awer Achtung, 's isch Hunig drin... un
 (er geht üse rechts).
 
           
-",lustig-vor-un-no-dr-hochzit,37,4,0.129,0.10810810810810811
+",33,lustig-vor-un-no-dr-hochzit,37,4,0.129,0.10810810810810811
 34,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -845,7 +845,7 @@ Doch, ich will jetz geh mi Sack ins Magazin
 (er geht hinte-n-üse)
 
           
-",lustig-vor-un-no-dr-hochzit,228,21,0.28805447977253823,0.09210526315789473
+",34,lustig-vor-un-no-dr-hochzit,228,21,0.28805447977253823,0.09210526315789473
 35,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -870,7 +870,7 @@ Jetz bin i schön,
                             verschwindet)
 
           
-",lustig-vor-un-no-dr-hochzit,77,10,0.1313,0.12987012987012986
+",35,lustig-vor-un-no-dr-hochzit,77,10,0.1313,0.12987012987012986
 36,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
@@ -911,7 +911,7 @@ So... do wàr jetz das Ding... dr ganz gliche Hafe un
             
 
           
-",lustig-vor-un-no-dr-hochzit,137,12,0.05341666666666667,0.08759124087591241
+",36,lustig-vor-un-no-dr-hochzit,137,12,0.05341666666666667,0.08759124087591241
 37,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -931,7 +931,7 @@ Was soll ich nur afange!... müess ich eigentlig mi
                             verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,52,7,0.1479654560708268,0.1346153846153846
+",37,lustig-vor-un-no-dr-hochzit,52,7,0.1479654560708268,0.1346153846153846
 38,comedy,LISETTLE,F,,,,"
             
 Lisettle
@@ -952,7 +952,7 @@ Tiens... isch nieme do?... ich ha g'meint, ich hör e
                             stellt ne unter dr Ladetisch).
 
           
-",lustig-vor-un-no-dr-hochzit,59,7,0.18300000000000002,0.11864406779661017
+",38,lustig-vor-un-no-dr-hochzit,59,7,0.18300000000000002,0.11864406779661017
 39,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -967,7 +967,7 @@ Oh Jumpfer Schnitz!...
                             Schrecke un laüft dervo rechts).
 
           
-",lustig-vor-un-no-dr-hochzit,26,6,0.08466666666666667,0.23076923076923078
+",39,lustig-vor-un-no-dr-hochzit,26,6,0.08466666666666667,0.23076923076923078
 40,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -992,7 +992,7 @@ Ich bi's... Jumpfer Lisettle! thàt Se doch nur nitt
                             verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,63,9,0.10066666666666667,0.14285714285714285
+",40,lustig-vor-un-no-dr-hochzit,63,9,0.10066666666666667,0.14285714285714285
 41,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -1023,7 +1023,7 @@ Sa... jetz wà mir denn dà Hunig geh trage...
                             hinte-n-üse).
 
           
-",lustig-vor-un-no-dr-hochzit,102,8,0.0,0.0784313725490196
+",41,lustig-vor-un-no-dr-hochzit,102,8,0.0,0.0784313725490196
 42,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -1043,7 +1043,7 @@ Ich wird halt doch miesse woge, heim z'geh... 's
                             verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,48,9,0.1438109917730249,0.1875
+",42,lustig-vor-un-no-dr-hochzit,48,9,0.1438109917730249,0.1875
 43,comedy,Herr MÜES,M,,,,"
             
 Herr Mües
@@ -1063,7 +1063,7 @@ Jetz g'schwind mi Hunig... ich ha dr Knecht g'sàh
                             gange).
 
           
-",lustig-vor-un-no-dr-hochzit,52,4,0.0,0.07692307692307693
+",43,lustig-vor-un-no-dr-hochzit,52,4,0.0,0.07692307692307693
 44,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -1077,7 +1077,7 @@ Wenn ich mich nur o kännt drüs mache!
                             verschwindet).
 
           
-",lustig-vor-un-no-dr-hochzit,21,3,0.0,0.14285714285714285
+",44,lustig-vor-un-no-dr-hochzit,21,3,0.0,0.14285714285714285
 45,comedy,Herr MÜES,M,,,,"
             
 Herr Mües.
@@ -1088,7 +1088,7 @@ Das git jetz grad e güete Régalade fir mich un mine
 (er springt hinte-n-üse.
 
           
-",lustig-vor-un-no-dr-hochzit,20,6,0.3230569994757031,0.3
+",45,lustig-vor-un-no-dr-hochzit,20,6,0.3230569994757031,0.3
 46,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -1180,7 +1180,7 @@ was ha-n-i g'sàit?... 's kunnt scho wieder ebber!...
 (er springt in dr Kaste un macht dr Deckel züe).
 
           
-",lustig-vor-un-no-dr-hochzit,188,24,0.2600263942441919,0.1276595744680851
+",46,lustig-vor-un-no-dr-hochzit,188,24,0.2600263942441919,0.1276595744680851
 47,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1200,7 +1200,7 @@ Lisettle!... Lisettle!...
                             stàcksch?...
 
           
-",lustig-vor-un-no-dr-hochzit,35,7,0.17857142857142858,0.2
+",47,lustig-vor-un-no-dr-hochzit,35,7,0.17857142857142858,0.2
 49,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1214,7 +1214,7 @@ Was tribsch dert owe?... stehsch wieder vor em
                             Spitzbüe!...
 
           
-",lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
+",49,lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
 51,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1255,7 +1255,7 @@ Das Ding isch halt nitt güet!
             
 
           
-",lustig-vor-un-no-dr-hochzit,111,19,0.1270526315789474,0.17117117117117117
+",51,lustig-vor-un-no-dr-hochzit,111,19,0.1270526315789474,0.17117117117117117
 52,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -1271,7 +1271,7 @@ Wenn's ihm' nitt g'schmecke thüet!
             
 
           
-",lustig-vor-un-no-dr-hochzit,12,1,0.0,0.08333333333333333
+",52,lustig-vor-un-no-dr-hochzit,12,1,0.0,0.08333333333333333
 53,comedy,LISETTLE,F,,,,"
             
 Mitnander.
@@ -1293,7 +1293,7 @@ Wo Dir/mir offriert si Hand!
             
 
           
-",lustig-vor-un-no-dr-hochzit,30,3,0.0,0.1
+",53,lustig-vor-un-no-dr-hochzit,30,3,0.0,0.1
 54,comedy,Herr SCHNITZ,M,,,,"
             
 Mitnander.
@@ -1315,7 +1315,7 @@ Wo Dir/mir offriert si Hand!
             
 
           
-",lustig-vor-un-no-dr-hochzit,30,3,0.0,0.1
+",54,lustig-vor-un-no-dr-hochzit,30,3,0.0,0.1
 55,comedy,Herr SCHNITZ,M,,,,"
             
 Er.
@@ -1331,7 +1331,7 @@ Das Ding isch halt nitt güet!
             
 
           
-",lustig-vor-un-no-dr-hochzit,12,3,0.18233333333333335,0.25
+",55,lustig-vor-un-no-dr-hochzit,12,3,0.18233333333333335,0.25
 56,comedy,LISETTLE,F,,,,"
             
 Sie.
@@ -1354,7 +1354,7 @@ Un derno, was brüchsch Dü Dir bös Gebliet z'mache
                             Hiroth...
 
           
-",lustig-vor-un-no-dr-hochzit,36,4,0.1445,0.1111111111111111
+",56,lustig-vor-un-no-dr-hochzit,36,4,0.1445,0.1111111111111111
 57,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1367,7 +1367,7 @@ Awer ich verlier si Pratik jetz mit dem G'spass!...
             
 
           
-",lustig-vor-un-no-dr-hochzit,18,4,0.0,0.2222222222222222
+",57,lustig-vor-un-no-dr-hochzit,18,4,0.0,0.2222222222222222
 58,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -1376,7 +1376,7 @@ Lisettle.
 Worum hat awer dr Herr Mües das g'macht?
 
           
-",lustig-vor-un-no-dr-hochzit,9,2,0.3635,0.2222222222222222
+",58,lustig-vor-un-no-dr-hochzit,9,2,0.3635,0.2222222222222222
 59,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1389,7 +1389,7 @@ Worum?... ah, Dü weisch's no nitt... ha-n-ich Dir's
                             welle wisse dervo...
 
           
-",lustig-vor-un-no-dr-hochzit,32,3,0.0,0.09375
+",59,lustig-vor-un-no-dr-hochzit,32,3,0.0,0.09375
 60,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -1403,7 +1403,7 @@ Awer, Pape... uf die Art verlier ich jo jetz zwe
 (se grint).
 
           
-",lustig-vor-un-no-dr-hochzit,28,3,0.0,0.10714285714285714
+",60,lustig-vor-un-no-dr-hochzit,28,3,0.0,0.10714285714285714
 61,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -1418,7 +1418,7 @@ Un ich, Jumpfer Schnitz... bin ich denn nitt do!...
                             Lisettle losst e Schrei üs).
 
           
-",lustig-vor-un-no-dr-hochzit,25,5,0.1016,0.2
+",61,lustig-vor-un-no-dr-hochzit,25,5,0.1016,0.2
 62,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1431,7 +1431,7 @@ Was dr Kückück's isch jetz das fir e Mehlwurm
                             do?...
 
           
-",lustig-vor-un-no-dr-hochzit,16,3,0.0,0.1875
+",62,lustig-vor-un-no-dr-hochzit,16,3,0.0,0.1875
 63,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -1445,7 +1445,7 @@ Schäut Se, in was fir eme Züestand as ich bi dur
                             un was ich jetz g'litte ha fir Sie!..
 
           
-",lustig-vor-un-no-dr-hochzit,27,4,0.16868417741722952,0.14814814814814814
+",63,lustig-vor-un-no-dr-hochzit,27,4,0.16868417741722952,0.14814814814814814
 64,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1459,7 +1459,7 @@ Ah çà was isch das fir einer?... wie kunnt jetz dà
                             mi Mehlkaste?...
 
           
-",lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
+",64,lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
 65,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -1478,7 +1478,7 @@ Eh... 's isch dr Herr Spàtzle, Pape... er kunnt Dich
                             Letscht... ich derf mi nimmig lang b'sinne!
 
           
-",lustig-vor-un-no-dr-hochzit,44,8,0.15720937709311772,0.18181818181818182
+",65,lustig-vor-un-no-dr-hochzit,44,8,0.15720937709311772,0.18181818181818182
 66,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -1487,7 +1487,7 @@ Herr Spàtzle.
 Eh jo, Herr Schnitz...ich kumm ku froge...
 
           
-",lustig-vor-un-no-dr-hochzit,10,6,0.11194583612415694,0.6
+",66,lustig-vor-un-no-dr-hochzit,10,6,0.11194583612415694,0.6
 67,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1506,7 +1506,7 @@ Un fir das isch er in dr Mehlschrank krobelt?...
                             z'mache...
 
           
-",lustig-vor-un-no-dr-hochzit,42,5,0.0,0.11904761904761904
+",67,lustig-vor-un-no-dr-hochzit,42,5,0.0,0.11904761904761904
 69,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -1522,7 +1522,7 @@ Hi Hi Hi!... ha ha ha!... oh!...
                             Mehlschrank).
 
           
-",lustig-vor-un-no-dr-hochzit,30,2,0.0,0.06666666666666667
+",69,lustig-vor-un-no-dr-hochzit,30,2,0.0,0.06666666666666667
 70,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1532,7 +1532,7 @@ Was isch das fir e Manier, Schambedis, sich so
                             z'presentiere!...
 
           
-",lustig-vor-un-no-dr-hochzit,13,3,0.0,0.23076923076923078
+",70,lustig-vor-un-no-dr-hochzit,13,3,0.0,0.23076923076923078
 71,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -1543,7 +1543,7 @@ Verzeihe Se, Herr... awer wenn Sie wisse thàte... ha
                             ha!...
 
           
-",lustig-vor-un-no-dr-hochzit,12,2,0.2735,0.16666666666666666
+",71,lustig-vor-un-no-dr-hochzit,12,2,0.2735,0.16666666666666666
 72,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1559,7 +1559,7 @@ Genüeg eso!... Ihr hàn da Hafe ane tràit, nitt wohr,
                             üsz'richte...
 
           
-",lustig-vor-un-no-dr-hochzit,38,9,0.15622222222222223,0.23684210526315788
+",72,lustig-vor-un-no-dr-hochzit,38,9,0.15622222222222223,0.23684210526315788
 73,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -1577,7 +1577,7 @@ Güet... jetz isch's wieder nitt recht!...
                             eb ich will oder nitt!...
 
           
-",lustig-vor-un-no-dr-hochzit,34,5,0.3245036176950289,0.14705882352941177
+",73,lustig-vor-un-no-dr-hochzit,34,5,0.3245036176950289,0.14705882352941177
 75,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -1621,7 +1621,7 @@ Wo-n-i z'ruck ku bi vom Herr Gas un bi bim « Wisse
 (alle lache).
 
           
-",lustig-vor-un-no-dr-hochzit,213,18,0.0941033380738535,0.08450704225352113
+",75,lustig-vor-un-no-dr-hochzit,213,18,0.0941033380738535,0.08450704225352113
 76,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1638,7 +1638,7 @@ Also hätt denn dr Herr Gas doch dr rechte Hafe mit
                             g'ha...
 
           
-",lustig-vor-un-no-dr-hochzit,38,9,0.06422222222222222,0.23684210526315788
+",76,lustig-vor-un-no-dr-hochzit,38,9,0.06422222222222222,0.23684210526315788
 77,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -1649,7 +1649,7 @@ Sie werde doch nitt wege me Hunighafe ihr Wort, wo
                             gà hàn, wieder z'ruck nàh...
 
           
-",lustig-vor-un-no-dr-hochzit,20,4,0.12249049738044263,0.2
+",77,lustig-vor-un-no-dr-hochzit,20,4,0.12249049738044263,0.2
 78,comedy,LISETTLE,F,,,,"
             
 Lisettle.
@@ -1666,7 +1666,7 @@ Dr Herr Spàtzle hat Recht... 's isch z'spot Pape...
                             zwe Stiehl awe sitze.
 
           
-",lustig-vor-un-no-dr-hochzit,43,8,0.2965786571841826,0.18604651162790697
+",78,lustig-vor-un-no-dr-hochzit,43,8,0.2965786571841826,0.18604651162790697
 79,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -1679,7 +1679,7 @@ Ich möcht jetz nur wisse, was das fir e Held
                             isch...
 
           
-",lustig-vor-un-no-dr-hochzit,20,4,0.19325000000000003,0.2
+",79,lustig-vor-un-no-dr-hochzit,20,4,0.19325000000000003,0.2
 80,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1694,7 +1694,7 @@ Enfin, will ich «jo» g'sàit ha, so wà mir's lo
                             selbst dri!...
 
           
-",lustig-vor-un-no-dr-hochzit,40,6,0.13016666666666665,0.15
+",80,lustig-vor-un-no-dr-hochzit,40,6,0.13016666666666665,0.15
 81,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -1716,7 +1716,7 @@ Er hätt d'Schmierseife tràit in d'Stadt.
             
 
           
-",lustig-vor-un-no-dr-hochzit,29,2,0.0,0.06896551724137931
+",81,lustig-vor-un-no-dr-hochzit,29,2,0.0,0.06896551724137931
 82,comedy,Herr SCHNITZ,M,,,,"
             
 Mitnander.
@@ -1733,7 +1733,7 @@ Er isch e Rehrle-n-in sim Fach.
             
 
           
-",lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
+",82,lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
 83,comedy,LISETTLE,F,,,,"
             
 Mitnander.
@@ -1750,7 +1750,7 @@ Er isch e Rehrle-n-in sim Fach.
             
 
           
-",lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
+",83,lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
 84,comedy,Herr SPATZLE,M,,,,"
             
 Mitnander.
@@ -1767,7 +1767,7 @@ Er isch e Rehrle-n-in sim Fach.
             
 
           
-",lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
+",84,lustig-vor-un-no-dr-hochzit,17,1,0.0,0.058823529411764705
 85,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
@@ -1866,7 +1866,7 @@ Mi Mann hingege thàt mich gern d'heim
                                 awer hat denn nitt Jedermann sine Fehler...
 
           
-",lustig-vor-un-no-dr-hochzit,321,39,0.1649618347245185,0.12149532710280374
+",85,lustig-vor-un-no-dr-hochzit,321,39,0.1649618347245185,0.12149532710280374
 86,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -1882,7 +1882,7 @@ Scho wieder g'ristet fir üsz'geh... allewil furt un
                             d'heim!... wo witt jetz scho wieder ane springe?
 
           
-",lustig-vor-un-no-dr-hochzit,34,5,0.1234,0.14705882352941177
+",86,lustig-vor-un-no-dr-hochzit,34,5,0.1234,0.14705882352941177
 87,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
@@ -1898,7 +1898,7 @@ Madame Spàtzle
 Eh, ich gang in mi Fritig hit, Pape!...
 
           
-",lustig-vor-un-no-dr-hochzit,47,4,0.25391875418623544,0.0851063829787234
+",87,lustig-vor-un-no-dr-hochzit,47,4,0.25391875418623544,0.0851063829787234
 88,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -1954,7 +1954,7 @@ Das bringt wahrhaft kei Glick ins Hüs,
             
 
           
-",lustig-vor-un-no-dr-hochzit,130,16,0.21710182859209132,0.12307692307692308
+",88,lustig-vor-un-no-dr-hochzit,130,16,0.21710182859209132,0.12307692307692308
 89,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -1976,7 +1976,7 @@ Vo alle Site!
             
 
           
-",lustig-vor-un-no-dr-hochzit,22,1,0.344,0.045454545454545456
+",89,lustig-vor-un-no-dr-hochzit,22,1,0.344,0.045454545454545456
 90,comedy,LISETTLE,F,,,,"
             
 Mitnander.
@@ -2000,7 +2000,7 @@ Ich derf scho drüs;
             
 
           
-",lustig-vor-un-no-dr-hochzit,26,3,0.0,0.11538461538461539
+",90,lustig-vor-un-no-dr-hochzit,26,3,0.0,0.11538461538461539
 91,comedy,Herr SCHNITZ,M,,,,"
             
 Mitnander.
@@ -2024,7 +2024,7 @@ Ich derf scho drüs;
             
 
           
-",lustig-vor-un-no-dr-hochzit,26,3,0.0,0.11538461538461539
+",91,lustig-vor-un-no-dr-hochzit,26,3,0.0,0.11538461538461539
 92,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2046,7 +2046,7 @@ Das bringt wahrhaft kei Glick ins Hüs,
             
 
           
-",lustig-vor-un-no-dr-hochzit,26,6,0.21316033158696177,0.23076923076923078
+",92,lustig-vor-un-no-dr-hochzit,26,6,0.21316033158696177,0.23076923076923078
 93,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -2069,7 +2069,7 @@ Dü thüesch das Ding viel z'viel chargiere, Pape...
                             dra...
 
           
-",lustig-vor-un-no-dr-hochzit,86,8,0.2452096353694413,0.09302325581395349
+",93,lustig-vor-un-no-dr-hochzit,86,8,0.2452096353694413,0.09302325581395349
 94,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2083,7 +2083,7 @@ Ich will nit wisse vo dem... hätte-n-ihr ne selbst
                             z'depensiere hätte-n-ihr noch g'wunne derbi...
 
           
-",lustig-vor-un-no-dr-hochzit,44,7,0.07784820867322106,0.1590909090909091
+",94,lustig-vor-un-no-dr-hochzit,44,7,0.07784820867322106,0.1590909090909091
 95,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -2093,7 +2093,7 @@ De weisch jo awer, ass ich nie nit gsi bi fir in e
                             Lade!...
 
           
-",lustig-vor-un-no-dr-hochzit,16,2,0.172,0.125
+",95,lustig-vor-un-no-dr-hochzit,16,2,0.172,0.125
 96,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2106,7 +2106,7 @@ Desto schlechter... wenn ihr jetz eso furtmache, so
                             er verkaüft wird!...
 
           
-",lustig-vor-un-no-dr-hochzit,27,4,0.1465,0.14814814814814814
+",96,lustig-vor-un-no-dr-hochzit,27,4,0.1465,0.14814814814814814
 97,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
@@ -2122,7 +2122,7 @@ Un ich, wo glaübt ha, ich heb ne jetz scho ab!...
                             Pape...
 
           
-",lustig-vor-un-no-dr-hochzit,22,3,0.302,0.13636363636363635
+",97,lustig-vor-un-no-dr-hochzit,22,3,0.302,0.13636363636363635
 98,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2135,7 +2135,7 @@ Nit... ich will nit wisse... so lang as ich leb wird
                             si...
 
           
-",lustig-vor-un-no-dr-hochzit,28,7,0.24000000000000002,0.25
+",98,lustig-vor-un-no-dr-hochzit,28,7,0.24000000000000002,0.25
 99,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -2148,7 +2148,7 @@ O fir das garantier ich Dir... wie vielmol hat er
                             Rüeh lo mit!...
 
           
-",lustig-vor-un-no-dr-hochzit,29,5,0.37062099677840954,0.1724137931034483
+",99,lustig-vor-un-no-dr-hochzit,29,5,0.37062099677840954,0.1724137931034483
 100,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2160,7 +2160,7 @@ Herr Schnitz.
                             danke derfir, ass ich's nitt g'litte ha...
 
           
-",lustig-vor-un-no-dr-hochzit,29,6,0.0,0.20689655172413793
+",100,lustig-vor-un-no-dr-hochzit,29,6,0.0,0.20689655172413793
 101,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -2177,7 +2177,7 @@ Dü hasch halt allewil Dine schwarze-n-Idee, Pape,
                             hinte-n-üse.)
 
           
-",lustig-vor-un-no-dr-hochzit,42,9,0.10677777777777778,0.21428571428571427
+",101,lustig-vor-un-no-dr-hochzit,42,9,0.10677777777777778,0.21428571428571427
 102,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2225,7 +2225,7 @@ Ne so sin jetz also d'Hirothe hitigstags!... dr Mann
                             bringe-n-eso d'làcherligste Sache-n-uf!...
 
           
-",lustig-vor-un-no-dr-hochzit,224,28,0.14050201940957857,0.125
+",102,lustig-vor-un-no-dr-hochzit,224,28,0.14050201940957857,0.125
 103,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2239,7 +2239,7 @@ Wo isch se, mi Frau?.. ich süech se jetz scho im
                             Hüs!... isch se denn scho wieder furt?...
 
           
-",lustig-vor-un-no-dr-hochzit,27,4,0.0,0.14814814814814814
+",103,lustig-vor-un-no-dr-hochzit,27,4,0.0,0.14814814814814814
 104,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2248,7 +2248,7 @@ Herr Schnitz.
 Grad isch se-n-üsgange... im Aügesblick.
 
           
-",lustig-vor-un-no-dr-hochzit,9,4,0.14450000000000002,0.4444444444444444
+",104,lustig-vor-un-no-dr-hochzit,9,4,0.14450000000000002,0.4444444444444444
 105,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2267,7 +2267,7 @@ Ich sieh se-n-efange ninmig vielmol d'heim, mi
                             b'schaüt).
 
           
-",lustig-vor-un-no-dr-hochzit,70,9,0.03211111111111111,0.12857142857142856
+",105,lustig-vor-un-no-dr-hochzit,70,9,0.03211111111111111,0.12857142857142856
 106,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2283,7 +2283,7 @@ Er hat Recht, awer ich derf's em doch nitt sage...
                             Lisettle-n-isch halt noch jung un...
 
           
-",lustig-vor-un-no-dr-hochzit,28,7,0.16285714285714287,0.25
+",106,lustig-vor-un-no-dr-hochzit,28,7,0.16285714285714287,0.25
 107,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2331,7 +2331,7 @@ Ihr G'staat kennt gar kei Grenze meh,
             
 
           
-",lustig-vor-un-no-dr-hochzit,114,16,0.04781250000000001,0.14035087719298245
+",107,lustig-vor-un-no-dr-hochzit,114,16,0.04781250000000001,0.14035087719298245
 108,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2340,7 +2340,7 @@ Herr Schnitz.
 's Bierhüs, das kost' a viel Geld!
 
           
-",lustig-vor-un-no-dr-hochzit,9,3,0.18164582023751583,0.3333333333333333
+",108,lustig-vor-un-no-dr-hochzit,9,3,0.18164582023751583,0.3333333333333333
 109,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2349,7 +2349,7 @@ Herr Spàtzle.
 D'Fraü isch's Unglick uf dr Welt!
 
           
-",lustig-vor-un-no-dr-hochzit,10,3,0.0,0.3
+",109,lustig-vor-un-no-dr-hochzit,10,3,0.0,0.3
 110,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2358,7 +2358,7 @@ Herr Schnitz.
 Worum hàn Sie Eine g'nu?
 
           
-",lustig-vor-un-no-dr-hochzit,7,2,0.0,0.2857142857142857
+",110,lustig-vor-un-no-dr-hochzit,7,2,0.0,0.2857142857142857
 111,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2367,7 +2367,7 @@ Herr Spàtzle.
 Leider ha-n-ich satt biku!
 
           
-",lustig-vor-un-no-dr-hochzit,8,3,0.18733333333333335,0.375
+",111,lustig-vor-un-no-dr-hochzit,8,3,0.18733333333333335,0.375
 112,comedy,Herr SPATZLE,M,,,,"
               
 Herr Spàtzle.
@@ -2380,7 +2380,7 @@ Me müess, etc...
               
 
             
-",lustig-vor-un-no-dr-hochzit,5,1,0.0,0.2
+",112,lustig-vor-un-no-dr-hochzit,5,1,0.0,0.2
 113,comedy,Herr SCHNITZ,M,,,,"
               
 Herr Schnitz.
@@ -2402,7 +2402,7 @@ Die mien jetz halt do dure geh!
               
 
             
-",lustig-vor-un-no-dr-hochzit,29,5,0.24673500334898835,0.1724137931034483
+",113,lustig-vor-un-no-dr-hochzit,29,5,0.24673500334898835,0.1724137931034483
 114,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2415,7 +2415,7 @@ Sie mien em halt e wenig nogà... un züedem, Sie,
                             d'Schuld?...
 
           
-",lustig-vor-un-no-dr-hochzit,24,6,0.11245611827815301,0.25
+",114,lustig-vor-un-no-dr-hochzit,24,6,0.11245611827815301,0.25
 115,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2429,7 +2429,7 @@ Hein!... was isch das?... Ah so!... also bin ich dra
                             wenn sich Ihre Tochter schlecht uffiehrt!...
 
           
-",lustig-vor-un-no-dr-hochzit,26,6,0.11245611827815301,0.23076923076923078
+",115,lustig-vor-un-no-dr-hochzit,26,6,0.11245611827815301,0.23076923076923078
 116,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2443,7 +2443,7 @@ Herr Spàtzle!...
             
 
           
-",lustig-vor-un-no-dr-hochzit,7,4,0.0,0.5714285714285714
+",116,lustig-vor-un-no-dr-hochzit,7,4,0.0,0.5714285714285714
 117,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2455,7 +2455,7 @@ Ah, Sie glaüwe's erst nitt emol?... do b'schaüe
                             git im 's Briefle).
 
           
-",lustig-vor-un-no-dr-hochzit,19,1,0.0,0.05263157894736842
+",117,lustig-vor-un-no-dr-hochzit,19,1,0.0,0.05263157894736842
 118,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2464,7 +2464,7 @@ Herr Schnitz.
 Was isch das?...
 
           
-",lustig-vor-un-no-dr-hochzit,5,2,0.0,0.4
+",118,lustig-vor-un-no-dr-hochzit,5,2,0.0,0.4
 119,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2475,7 +2475,7 @@ Lese Se... mi Fraü hat's wohrschinlig do verlore,
                             furt isch.
 
           
-",lustig-vor-un-no-dr-hochzit,15,2,0.0,0.13333333333333333
+",119,lustig-vor-un-no-dr-hochzit,15,2,0.0,0.13333333333333333
 120,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2488,7 +2488,7 @@ Herr Schnitz
                             getreüer Jacques Mües. »
 
           
-",lustig-vor-un-no-dr-hochzit,20,3,0.0,0.15
+",120,lustig-vor-un-no-dr-hochzit,20,3,0.0,0.15
 121,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2499,7 +2499,7 @@ Ne Rendez-vous, wie Sie sàhn, mit Ihrem eh'malige
                             se hàn schint's enander no nitt vergesse!..
 
           
-",lustig-vor-un-no-dr-hochzit,19,2,0.0,0.10526315789473684
+",121,lustig-vor-un-no-dr-hochzit,19,2,0.0,0.10526315789473684
 122,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -2511,7 +2511,7 @@ Herr Schnitz.
 (er losst si uf o Stüehl sinke).
 
           
-",lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
+",122,lustig-vor-un-no-dr-hochzit,22,3,0.0,0.13636363636363635
 123,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2526,7 +2526,7 @@ Dà elende Herr Mües, wo dr Lade g'lehnt hat siter
                             z'àmme ku!...
 
           
-",lustig-vor-un-no-dr-hochzit,29,5,0.0,0.1724137931034483
+",123,lustig-vor-un-no-dr-hochzit,29,5,0.0,0.1724137931034483
 124,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2543,7 +2543,7 @@ Un ich sag Ene, 's ka nitt si!... ich kenn 's
 (er geht üse rechts).
 
           
-",lustig-vor-un-no-dr-hochzit,42,4,0.0,0.09523809523809523
+",124,lustig-vor-un-no-dr-hochzit,42,4,0.0,0.09523809523809523
 125,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2566,7 +2566,7 @@ Bis er g'rischtet isch un dert ane kunnt isch d'Zit
                             Schambedis!
 
           
-",lustig-vor-un-no-dr-hochzit,62,6,0.09633333333333334,0.0967741935483871
+",125,lustig-vor-un-no-dr-hochzit,62,6,0.09633333333333334,0.0967741935483871
 126,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -2575,7 +2575,7 @@ Schambedis.
 Was b'liebt, Herr?...
 
           
-",lustig-vor-un-no-dr-hochzit,4,1,0.0,0.25
+",126,lustig-vor-un-no-dr-hochzit,4,1,0.0,0.25
 127,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2584,7 +2584,7 @@ Herr Spàtzle.
 Kämme g'schwind!
 
           
-",lustig-vor-un-no-dr-hochzit,4,1,0.0,0.25
+",127,lustig-vor-un-no-dr-hochzit,4,1,0.0,0.25
 128,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -2598,7 +2598,7 @@ Ich ka jetz grad nitt... ich müess 's Kind wagle,
                             grint's!...
 
           
-",lustig-vor-un-no-dr-hochzit,17,2,0.28900000000000003,0.11764705882352941
+",128,lustig-vor-un-no-dr-hochzit,17,2,0.28900000000000003,0.11764705882352941
 129,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2618,7 +2618,7 @@ Wenn halt d'Madame allewil furt geht, so macht's
                             grine-n-un kämme g'schwind... 's pressiert!...
 
           
-",lustig-vor-un-no-dr-hochzit,48,9,0.24300000000000002,0.1875
+",129,lustig-vor-un-no-dr-hochzit,48,9,0.24300000000000002,0.1875
 130,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -2632,7 +2632,7 @@ Ich kumm gli, Herr... im Aügesblick... ich will nur
                             Zulli z'àmmebinde!...
 
           
-",lustig-vor-un-no-dr-hochzit,18,2,0.0,0.1111111111111111
+",130,lustig-vor-un-no-dr-hochzit,18,2,0.0,0.1111111111111111
 131,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2646,7 +2646,7 @@ Ich weiss wirklig nitt, wie's gieng, we mr dr
                             nitt hätte...
 
           
-",lustig-vor-un-no-dr-hochzit,19,3,0.263,0.15789473684210525
+",131,lustig-vor-un-no-dr-hochzit,19,3,0.263,0.15789473684210525
 132,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -2661,7 +2661,7 @@ Do wàr ich jetz, Herr!...
             
 
           
-",lustig-vor-un-no-dr-hochzit,26,1,0.0,0.038461538461538464
+",132,lustig-vor-un-no-dr-hochzit,26,1,0.0,0.038461538461538464
 133,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2671,7 +2671,7 @@ Was Kückücks isch das fir e Seil, wo-n-Ihr do
                             noziehn?...
 
           
-",lustig-vor-un-no-dr-hochzit,14,2,0.0,0.14285714285714285
+",133,lustig-vor-un-no-dr-hochzit,14,2,0.0,0.14285714285714285
 134,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -2685,7 +2685,7 @@ Ich ha's an dr Wagle-n-ag'macht, ass ich wagle ka vo
                             furt).
 
           
-",lustig-vor-un-no-dr-hochzit,30,2,0.0,0.06666666666666667
+",134,lustig-vor-un-no-dr-hochzit,30,2,0.0,0.06666666666666667
 135,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2708,7 +2708,7 @@ Herr Spàtzle.
                             derno Wort fir Wort ku sage...
 
           
-",lustig-vor-un-no-dr-hochzit,88,11,0.05254545454545454,0.125
+",135,lustig-vor-un-no-dr-hochzit,88,11,0.05254545454545454,0.125
 136,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -2717,7 +2717,7 @@ Schambedis.
 Oho... Herr Spàtzle... o das noch?...
 
           
-",lustig-vor-un-no-dr-hochzit,7,1,0.0,0.14285714285714285
+",136,lustig-vor-un-no-dr-hochzit,7,1,0.0,0.14285714285714285
 137,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -2729,7 +2729,7 @@ Schambedis, mache mir dà G'falle... 's geht um mi
                             Herr Mües höre...
 
           
-",lustig-vor-un-no-dr-hochzit,23,3,0.0,0.13043478260869565
+",137,lustig-vor-un-no-dr-hochzit,23,3,0.0,0.13043478260869565
 138,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -2743,7 +2743,7 @@ Aha... jetz merk ich scho, wo d'Katz im Hei
                             lichtsinnig, awer eso doch nitt.
 
           
-",lustig-vor-un-no-dr-hochzit,40,4,0.29500000000000004,0.1
+",138,lustig-vor-un-no-dr-hochzit,40,4,0.29500000000000004,0.1
 139,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2760,7 +2760,7 @@ Desto besser... awer gehn jetz...
                             ku...
 
           
-",lustig-vor-un-no-dr-hochzit,29,6,0.09633333333333334,0.20689655172413793
+",139,lustig-vor-un-no-dr-hochzit,29,6,0.09633333333333334,0.20689655172413793
 140,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -2770,7 +2770,7 @@ Güet ich gang, wenn's nur wàr, fir Sie
                             z'versichere...
 
           
-",lustig-vor-un-no-dr-hochzit,12,3,0.23736832796401594,0.25
+",140,lustig-vor-un-no-dr-hochzit,12,3,0.23736832796401594,0.25
 141,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2787,7 +2787,7 @@ Passe recht uf un b'sunders kämme gli wieder,
 (er nimmt dr Schnüer un geht üse links).
 
           
-",lustig-vor-un-no-dr-hochzit,38,5,0.1156,0.13157894736842105
+",141,lustig-vor-un-no-dr-hochzit,38,5,0.1156,0.13157894736842105
 142,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -2843,7 +2843,7 @@ Do geht's züe in dem Hüs!... do geht's züe!...
 (er springt hinte-n-üse)
 
           
-",lustig-vor-un-no-dr-hochzit,110,10,0.0344,0.09090909090909091
+",142,lustig-vor-un-no-dr-hochzit,110,10,0.0344,0.09090909090909091
 143,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2890,7 +2890,7 @@ Herr Spàtzle
                             verschwindet links).
 
           
-",lustig-vor-un-no-dr-hochzit,161,22,0.12987722390714654,0.13664596273291926
+",143,lustig-vor-un-no-dr-hochzit,161,22,0.12987722390714654,0.13664596273291926
 144,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -2913,7 +2913,7 @@ Jetz wà mr denn geh lüege, was das fir e
 (er geht hinte-n-üse).
 
           
-",lustig-vor-un-no-dr-hochzit,76,9,0.08766666666666667,0.11842105263157894
+",144,lustig-vor-un-no-dr-hochzit,76,9,0.08766666666666667,0.11842105263157894
 145,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -2977,7 +2977,7 @@ n-untersüech, so find ich's o nitt ohne
                             nàh!...
 
           
-",lustig-vor-un-no-dr-hochzit,280,37,0.15210514518206808,0.13214285714285715
+",145,lustig-vor-un-no-dr-hochzit,280,37,0.15210514518206808,0.13214285714285715
 146,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -2994,7 +2994,7 @@ Do bin i jetz scho wieder! ich ha nitt lang Zit
                             umme).
 
           
-",lustig-vor-un-no-dr-hochzit,32,3,0.0,0.09375
+",146,lustig-vor-un-no-dr-hochzit,32,3,0.0,0.09375
 147,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -3003,7 +3003,7 @@ Herr Spàtzle.
 Rede-n-ungeniert... ich bin uf alles g'fasst!...
 
           
-",lustig-vor-un-no-dr-hochzit,10,3,0.0,0.3
+",147,lustig-vor-un-no-dr-hochzit,10,3,0.0,0.3
 148,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3013,7 +3013,7 @@ Fir z'wisse... ass ich...
 (er stockt).
 
           
-",lustig-vor-un-no-dr-hochzit,10,1,0.0,0.1
+",148,lustig-vor-un-no-dr-hochzit,10,1,0.0,0.1
 149,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3025,7 +3025,7 @@ Herr Spàtzle
 Ass Ihr Eüch trumpiert hàn... nitt wohr?...
 
           
-",lustig-vor-un-no-dr-hochzit,12,2,0.3945,0.16666666666666666
+",149,lustig-vor-un-no-dr-hochzit,12,2,0.3945,0.16666666666666666
 150,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3038,7 +3038,7 @@ Leider ha-n-ich mich schint's trumpiert iwer
                             viellicht nitt sage...
 
           
-",lustig-vor-un-no-dr-hochzit,28,4,0.28325,0.14285714285714285
+",150,lustig-vor-un-no-dr-hochzit,28,4,0.28325,0.14285714285714285
 151,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3050,7 +3050,7 @@ Herr Spàtzle
 Was hàn Ihr denn g'hört... so rede doch emol!...
 
           
-",lustig-vor-un-no-dr-hochzit,14,2,0.1015,0.14285714285714285
+",151,lustig-vor-un-no-dr-hochzit,14,2,0.1015,0.14285714285714285
 152,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3070,7 +3070,7 @@ Also bin ich an die Thüre gange dert hinte, wo Sie
                             glickligste Mensch mache... »
 
           
-",lustig-vor-un-no-dr-hochzit,69,8,0.3057096353694413,0.11594202898550725
+",152,lustig-vor-un-no-dr-hochzit,69,8,0.3057096353694413,0.11594202898550725
 153,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3082,7 +3082,7 @@ Herr Spàtzle
 Un... d'Madame?...
 
           
-",lustig-vor-un-no-dr-hochzit,10,3,0.11466666666666665,0.3
+",153,lustig-vor-un-no-dr-hochzit,10,3,0.11466666666666665,0.3
 154,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3096,7 +3096,7 @@ Se hat weniger stark g'redt... drum ha-n-i nitt viel
                             gedulde...
 
           
-",lustig-vor-un-no-dr-hochzit,36,4,0.295,0.1111111111111111
+",154,lustig-vor-un-no-dr-hochzit,36,4,0.295,0.1111111111111111
 155,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -3109,7 +3109,7 @@ Ah so!... also an dr Mann hat se nitt emol denkt...
                             z'ruckhaltet...
 
           
-",lustig-vor-un-no-dr-hochzit,28,3,0.19533333333333333,0.10714285714285714
+",155,lustig-vor-un-no-dr-hochzit,28,3,0.19533333333333333,0.10714285714285714
 156,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3122,7 +3122,7 @@ Ich bi derno gli furt... denn ich ha-n-Angst g'ha,
                             atroffe, wo grad ane-n-isch...
 
           
-",lustig-vor-un-no-dr-hochzit,32,4,0.14450000000000002,0.125
+",156,lustig-vor-un-no-dr-hochzit,32,4,0.14450000000000002,0.125
 157,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -3135,7 +3135,7 @@ Herr Spàtzle.
                             scho, was ich z'mache ha!
 
           
-",lustig-vor-un-no-dr-hochzit,21,3,0.0,0.14285714285714285
+",157,lustig-vor-un-no-dr-hochzit,21,3,0.0,0.14285714285714285
 159,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3153,7 +3153,7 @@ Also isch's denn wohr!... mi Fräu isch mr untreü!...
                             d'Stirne).
 
           
-",lustig-vor-un-no-dr-hochzit,40,8,0.3163343770931177,0.2
+",159,lustig-vor-un-no-dr-hochzit,40,8,0.3163343770931177,0.2
 160,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
@@ -3170,7 +3170,7 @@ Unglickliger!... was witt astelle!... grad hat mr dr
                             bisch!...
 
           
-",lustig-vor-un-no-dr-hochzit,39,7,0.13171428571428573,0.1794871794871795
+",160,lustig-vor-un-no-dr-hochzit,39,7,0.13171428571428573,0.1794871794871795
 161,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3191,7 +3191,7 @@ Ah so... 's isch e-n-Irrthum!
 (er hebt ere d'Pistole vor's G'sicht).
 
           
-",lustig-vor-un-no-dr-hochzit,52,5,0.1452,0.09615384615384616
+",161,lustig-vor-un-no-dr-hochzit,52,5,0.1452,0.09615384615384616
 162,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3213,7 +3213,7 @@ Bscht!... Sie wecke jo 's Kind, wenn Se schiesse
                             wenn d'Kindsmagd spaziere geht mit ihrem Soldat!
 
           
-",lustig-vor-un-no-dr-hochzit,59,7,0.08257142857142859,0.11864406779661017
+",162,lustig-vor-un-no-dr-hochzit,59,7,0.08257142857142859,0.11864406779661017
 163,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle
@@ -3236,7 +3236,7 @@ Was fir e Lektion fir mich!...
                             in de Hand).
 
           
-",lustig-vor-un-no-dr-hochzit,54,11,0.12990909090909092,0.2037037037037037
+",163,lustig-vor-un-no-dr-hochzit,54,11,0.12990909090909092,0.2037037037037037
 164,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3250,7 +3250,7 @@ Ich ha jo allewil g'sàit 's isch nitt wohr... awer
                             halt miesse sage, was ich g'hört ha!
 
           
-",lustig-vor-un-no-dr-hochzit,23,3,0.46866666666666673,0.13043478260869565
+",164,lustig-vor-un-no-dr-hochzit,23,3,0.46866666666666673,0.13043478260869565
 165,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3261,7 +3261,7 @@ Un was hàn Ihr denn g'hört... üse mit emol!...
             
 
           
-",lustig-vor-un-no-dr-hochzit,11,1,0.344,0.09090909090909091
+",165,lustig-vor-un-no-dr-hochzit,11,1,0.344,0.09090909090909091
 166,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3271,7 +3271,7 @@ Eh... vom gern ha... vom Lewensglick mache un eso
                             Dings...
 
           
-",lustig-vor-un-no-dr-hochzit,11,2,0.6446760498502362,0.18181818181818182
+",166,lustig-vor-un-no-dr-hochzit,11,2,0.6446760498502362,0.18181818181818182
 167,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3289,7 +3289,7 @@ Also isch's denn das?.. un ihr hàn beide nitt
                             git's em).
 
           
-",lustig-vor-un-no-dr-hochzit,56,3,0.37766666666666665,0.05357142857142857
+",167,lustig-vor-un-no-dr-hochzit,56,3,0.37766666666666665,0.05357142857142857
 168,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3319,7 +3319,7 @@ Ihr getreüer: Jacques Mües.
 (Dr Herr Spatzle fangt a ufz'lüege)
 
           
-",lustig-vor-un-no-dr-hochzit,73,4,0.23108717781372679,0.0547945205479452
+",168,lustig-vor-un-no-dr-hochzit,73,4,0.23108717781372679,0.0547945205479452
 169,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3349,7 +3349,7 @@ Uf das hi ha-n-ich em g'antwortet, ass ich mit em
                             G'schichte.
 
           
-",lustig-vor-un-no-dr-hochzit,134,15,0.10524513886370204,0.11194029850746269
+",169,lustig-vor-un-no-dr-hochzit,134,15,0.10524513886370204,0.11194029850746269
 170,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3362,7 +3362,7 @@ Ha-n-i nitt allewil g'sàit, ass es nitt wohr
                             isch!...
 
           
-",lustig-vor-un-no-dr-hochzit,17,3,0.46866666666666673,0.17647058823529413
+",170,lustig-vor-un-no-dr-hochzit,17,3,0.46866666666666673,0.17647058823529413
 171,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3378,7 +3378,7 @@ O Lisettle!... isch's möglig?... kumm verzeih mr,
                             umarme-n-enander).
 
           
-",lustig-vor-un-no-dr-hochzit,27,3,0.0,0.1111111111111111
+",171,lustig-vor-un-no-dr-hochzit,27,3,0.0,0.1111111111111111
 172,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3392,7 +3392,7 @@ Un mir Madame, ka Se mir o verzeille, ass ich eso
                             g'schwàzt ha... ich ha halt nitt känne wisse...
 
           
-",lustig-vor-un-no-dr-hochzit,27,4,0.172,0.14814814814814814
+",172,lustig-vor-un-no-dr-hochzit,27,4,0.172,0.14814814814814814
 173,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3405,7 +3405,7 @@ G'wiss, Schambedis, verzeih ich Eüch... denn Ihr hàn
                             eso bol nimmig vergesse wird!
 
           
-",lustig-vor-un-no-dr-hochzit,30,5,0.3823923979043541,0.16666666666666666
+",173,lustig-vor-un-no-dr-hochzit,30,5,0.3823923979043541,0.16666666666666666
 174,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle.
@@ -3421,7 +3421,7 @@ Un ich o, Schambedis, verdank Eüch alles... wenn Ihr
                             Kind!...
 
           
-",lustig-vor-un-no-dr-hochzit,46,7,0.07142857142857142,0.15217391304347827
+",174,lustig-vor-un-no-dr-hochzit,46,7,0.07142857142857142,0.15217391304347827
 175,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3432,7 +3432,7 @@ G'wiss, liewer Mann... ich versprich Dir's un wird's
                             z'halte!...
 
           
-",lustig-vor-un-no-dr-hochzit,16,5,0.33293345359033805,0.3125
+",175,lustig-vor-un-no-dr-hochzit,16,5,0.33293345359033805,0.3125
 176,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis
@@ -3450,7 +3450,7 @@ Aha!... das heiss ich jetz emol g'redt... dr
                             paar Schitz abfire vor lüter Freid!
 
           
-",lustig-vor-un-no-dr-hochzit,48,7,0.08371428571428571,0.14583333333333334
+",176,lustig-vor-un-no-dr-hochzit,48,7,0.08371428571428571,0.14583333333333334
 177,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz
@@ -3466,7 +3466,7 @@ Do bring ich dr Herr Mües, Herr Tochtermann, ass
             
 
           
-",lustig-vor-un-no-dr-hochzit,32,5,0.0,0.15625
+",177,lustig-vor-un-no-dr-hochzit,32,5,0.0,0.15625
 178,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3478,7 +3478,7 @@ Madame Spàtzle.
                             wànn!...
 
           
-",lustig-vor-un-no-dr-hochzit,23,5,0.4204,0.21739130434782608
+",178,lustig-vor-un-no-dr-hochzit,23,5,0.4204,0.21739130434782608
 179,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -3491,7 +3491,7 @@ A la bonne heure! un wenn das isch, so känne-n-ihr
                             ha nit meh dergege.
 
           
-",lustig-vor-un-no-dr-hochzit,32,5,0.0,0.15625
+",179,lustig-vor-un-no-dr-hochzit,32,5,0.0,0.15625
 180,comedy,Herr SPATZLE,M,,,,"
             
 Herr Spàtzle
@@ -3505,7 +3505,7 @@ Awer mache Se nur Etiquettes uf d'Hunighàfe, Herr
                             ass Sie sich wieder emol trumpiere..
 
           
-",lustig-vor-un-no-dr-hochzit,24,5,0.036,0.20833333333333334
+",180,lustig-vor-un-no-dr-hochzit,24,5,0.036,0.20833333333333334
 181,comedy,Herr MÜES,M,,,,"
             
 Herr Mües.
@@ -3518,7 +3518,7 @@ Un dr Mehlschrank will ich o lo absite mache, nitt
                             Spàtzle!...
 
           
-",lustig-vor-un-no-dr-hochzit,23,5,0.1984,0.21739130434782608
+",181,lustig-vor-un-no-dr-hochzit,23,5,0.1984,0.21739130434782608
 182,comedy,Herr SCHNITZ,M,,,,"
             
 Herr Schnitz.
@@ -3528,7 +3528,7 @@ Ah çà!... was macht denn dr Schambedis do mit sin're
                             Pistole?....
 
           
-",lustig-vor-un-no-dr-hochzit,13,4,0.166,0.3076923076923077
+",182,lustig-vor-un-no-dr-hochzit,13,4,0.166,0.3076923076923077
 183,comedy,LISETTLE,F,,,,"
             
 Madame Spàtzle.
@@ -3538,7 +3538,7 @@ Dr Schambedis, Pape, hat uns beide vom Verderwe
                             g'rettet!...
 
           
-",lustig-vor-un-no-dr-hochzit,11,2,0.172,0.18181818181818182
+",183,lustig-vor-un-no-dr-hochzit,11,2,0.172,0.18181818181818182
 184,comedy,SCHAMBEDIS,M,,,,"
             
 Schambedis.
@@ -3560,7 +3560,7 @@ Wenn sie sich nàh will an de Hoor!
             
 
           
-",lustig-vor-un-no-dr-hochzit,27,4,0.24889056685431754,0.14814814814814814
+",184,lustig-vor-un-no-dr-hochzit,27,4,0.24889056685431754,0.14814814814814814
 185,comedy,alle,B,,,,"
             
 Alle.
@@ -3577,4 +3577,4 @@ Sunscht hätt er jo bol nimm g'nüeg Hànd!
             
 
           
-",lustig-vor-un-no-dr-hochzit,21,1,0.0,0.047619047619047616
+",185,lustig-vor-un-no-dr-hochzit,21,1,0.0,0.047619047619047616

@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -15,7 +15,7 @@ G'wiss, Rosele... g'wiss, mi lieb Kind, schaü, glaüb
                     
 
         
-",lustig-dr-chineserfranz,58,9,0.1631111111111111,0.15517241379310345
+",0,lustig-dr-chineserfranz,58,9,0.1631111111111111,0.15517241379310345
 1,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -24,7 +24,7 @@ Rosele.
 Awer dr Herr Alfred, Tante...
 
         
-",lustig-dr-chineserfranz,6,1,0.141,0.16666666666666666
+",0,lustig-dr-chineserfranz,6,1,0.141,0.16666666666666666
 2,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -36,7 +36,7 @@ Dr Herr Alfred, lieb Kind, wird grad si as wie
                     
 
         
-",lustig-dr-chineserfranz,31,4,0.03525,0.12903225806451613
+",1,lustig-dr-chineserfranz,31,4,0.03525,0.12903225806451613
 3,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -56,7 +56,7 @@ Awer e Zuckerbäck, Tante, ne Zuckerback wie dr Herr
           
 
         
-",lustig-dr-chineserfranz,50,6,0.125,0.12
+",1,lustig-dr-chineserfranz,50,6,0.125,0.12
 4,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -83,7 +83,7 @@ Ne Zuckerbäck, Rosele, isch vom ganz gliche Teig
                     
 
         
-",lustig-dr-chineserfranz,182,22,0.06551472247673427,0.12087912087912088
+",2,lustig-dr-chineserfranz,182,22,0.06551472247673427,0.12087912087912088
 5,comedy,ROSELE,F,,,,"
           
 Rosele
@@ -95,7 +95,7 @@ Rosele
 Wie isch's Dir gange, Tante, verzähl mr's emol?...
 
         
-",lustig-dr-chineserfranz,14,1,0.0,0.07142857142857142
+",2,lustig-dr-chineserfranz,14,1,0.0,0.07142857142857142
 6,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -110,7 +110,7 @@ Nit, nit!... glaüb mir, Rosele, hiroth Dü dr Herr
                     
 
         
-",lustig-dr-chineserfranz,31,6,0.041666666666666664,0.1935483870967742
+",3,lustig-dr-chineserfranz,31,6,0.041666666666666664,0.1935483870967742
 7,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -122,7 +122,7 @@ Jo, eso ne-n-Alter, Tante... dr Herr Alfred isch o kei
                     
 
         
-",lustig-dr-chineserfranz,27,3,0.20833333333333334,0.1111111111111111
+",3,lustig-dr-chineserfranz,27,3,0.20833333333333334,0.1111111111111111
 8,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -141,7 +141,7 @@ Rosele)
                     
 
         
-",lustig-dr-chineserfranz,70,8,0.076125,0.11428571428571428
+",4,lustig-dr-chineserfranz,70,8,0.076125,0.11428571428571428
 9,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -153,7 +153,7 @@ Jo, 's isch wohr, ich wird wieder g'ar nitt fertig
                     
 
         
-",lustig-dr-chineserfranz,28,1,0.0,0.03571428571428571
+",4,lustig-dr-chineserfranz,28,1,0.0,0.03571428571428571
 10,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -164,7 +164,7 @@ Sonige brüche-n-unserein's noch z'verachte, so
                     
 
         
-",lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
+",5,lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
 11,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -191,7 +191,7 @@ Oh! Tante, 's isch nitt halwer so g'fàhrlig, wie Dü
                     
 
         
-",lustig-dr-chineserfranz,167,19,0.05866806018292869,0.11377245508982035
+",5,lustig-dr-chineserfranz,167,19,0.05866806018292869,0.11377245508982035
 12,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -211,7 +211,7 @@ Dr Herr Alfred ka Dir verzähle was er will, lieb Kind
           
 
         
-",lustig-dr-chineserfranz,51,9,0.099,0.17647058823529413
+",6,lustig-dr-chineserfranz,51,9,0.099,0.17647058823529413
 13,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -233,7 +233,7 @@ Dr Herr Gàlfink jetz z'nàh.
           
 
         
-",lustig-dr-chineserfranz,20,4,0.0625,0.2
+",6,lustig-dr-chineserfranz,20,4,0.0625,0.2
 14,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -255,7 +255,7 @@ Ich will ihn gar nit sàh.
           
 
         
-",lustig-dr-chineserfranz,22,1,0.75,0.045454545454545456
+",7,lustig-dr-chineserfranz,22,1,0.75,0.045454545454545456
 15,comedy,Tante DOMINO,F,,,,"
             
 Tante.
@@ -268,7 +268,7 @@ Kind glaüb Dü mir etc.
             
 
           
-",lustig-dr-chineserfranz,6,2,0.0545,0.3333333333333333
+",7,lustig-dr-chineserfranz,6,2,0.0545,0.3333333333333333
 16,comedy,ROSELE,F,,,,"
             
 Rosele.
@@ -290,7 +290,7 @@ Ich will ne gar nitt sàh.
             
 
           
-",lustig-dr-chineserfranz,21,1,0.109,0.047619047619047616
+",8,lustig-dr-chineserfranz,21,1,0.109,0.047619047619047616
 18,comedy,ROSELE,F,,,,"
           
 Rosele.
@@ -311,7 +311,7 @@ Ich gang, Tante, ich gang...
                     
 
         
-",lustig-dr-chineserfranz,65,5,0.15,0.07692307692307693
+",9,lustig-dr-chineserfranz,65,5,0.15,0.07692307692307693
 19,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -353,7 +353,7 @@ recht,
                     
 
         
-",lustig-dr-chineserfranz,244,22,0.18275022117419776,0.09016393442622951
+",9,lustig-dr-chineserfranz,244,22,0.18275022117419776,0.09016393442622951
 20,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred
@@ -455,7 +455,7 @@ Wo bin i ine ku?... dert glaüb
 (er springt in d'Schlofstuwe-n-un macht d' Thüre züe).
 
         
-",lustig-dr-chineserfranz,478,45,0.12302059706378411,0.09414225941422594
+",10,lustig-dr-chineserfranz,478,45,0.12302059706378411,0.09414225941422594
 22,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -470,7 +470,7 @@ Ah!... Sie sin's, Herr Gàlfink, 's isch mr doch gs? ich
                     
 
         
-",lustig-dr-chineserfranz,38,2,0.0705,0.05263157894736842
+",11,lustig-dr-chineserfranz,38,2,0.0705,0.05263157894736842
 23,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -481,7 +481,7 @@ Scht! scht!
 .
 
         
-",lustig-dr-chineserfranz,13,2,0.0705,0.15384615384615385
+",11,lustig-dr-chineserfranz,13,2,0.0705,0.15384615384615385
 24,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -492,7 +492,7 @@ Potz taüsig!... was mache Sie fir e G'sicht hit!... isch
                     
 
         
-",lustig-dr-chineserfranz,20,4,0.3085,0.2
+",12,lustig-dr-chineserfranz,20,4,0.3085,0.2
 25,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -505,7 +505,7 @@ Scht!... Oh! wenn das möglig wàr, wenn das möglig wàr!
                     
 
         
-",lustig-dr-chineserfranz,19,2,0.3123337856787832,0.10526315789473684
+",12,lustig-dr-chineserfranz,19,2,0.3123337856787832,0.10526315789473684
 26,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -516,7 +516,7 @@ Was möglig wàr?... e Domino z'mache?... uf dr Stell,
                     
 
         
-",lustig-dr-chineserfranz,22,6,0.12516666666666668,0.2727272727272727
+",13,lustig-dr-chineserfranz,22,6,0.12516666666666668,0.2727272727272727
 27,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -527,7 +527,7 @@ Domino, jetz?... 's handelt sich nitt um das... thàt
                     
 
         
-",lustig-dr-chineserfranz,18,1,0.141,0.05555555555555555
+",13,lustig-dr-chineserfranz,18,1,0.141,0.05555555555555555
 28,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -538,7 +538,7 @@ D'Thüre züegschpliesse!... fir was?
           
 
         
-",lustig-dr-chineserfranz,6,1,0.609,0.16666666666666666
+",14,lustig-dr-chineserfranz,6,1,0.609,0.16666666666666666
 29,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -549,7 +549,7 @@ Thàt Se nur emol züegschpliesse, ich will's Ere derno
                     
 
         
-",lustig-dr-chineserfranz,13,1,0.141,0.07692307692307693
+",14,lustig-dr-chineserfranz,13,1,0.141,0.07692307692307693
 30,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -562,7 +562,7 @@ Sie mache mich wunderfitzig, Herr Gàlfink...
                     
 
         
-",lustig-dr-chineserfranz,15,2,0.0705,0.13333333333333333
+",15,lustig-dr-chineserfranz,15,2,0.0705,0.13333333333333333
 31,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -576,7 +576,7 @@ Herr Gàlfink
                     
 
         
-",lustig-dr-chineserfranz,18,2,0.375,0.1111111111111111
+",15,lustig-dr-chineserfranz,18,2,0.375,0.1111111111111111
 32,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -590,7 +590,7 @@ So, jetz isch's züe... was isch jetz das fir e
                     
 
         
-",lustig-dr-chineserfranz,17,1,0.609,0.058823529411764705
+",16,lustig-dr-chineserfranz,17,1,0.609,0.058823529411764705
 33,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -604,7 +604,7 @@ Thàt Se viellicht d'Thüre noch e wenig verbarrikadiere
                     
 
         
-",lustig-dr-chineserfranz,19,2,0.0705,0.10526315789473684
+",16,lustig-dr-chineserfranz,19,2,0.0705,0.10526315789473684
 34,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -615,7 +615,7 @@ Ah çà, sin Sie eigentlig g'schosse in dr Pelzkappe, Herr
                     
 
         
-",lustig-dr-chineserfranz,12,1,0.141,0.08333333333333333
+",17,lustig-dr-chineserfranz,12,1,0.141,0.08333333333333333
 35,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -627,7 +627,7 @@ Herr Gàlfink
 's isch o nit unmögligs... 's isch ganz natürell!
 
         
-",lustig-dr-chineserfranz,19,3,0.20822252378585548,0.15789473684210525
+",17,lustig-dr-chineserfranz,19,3,0.20822252378585548,0.15789473684210525
 36,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -645,7 +645,7 @@ Ich will em halt si Wille thüe, sunscht erfahr ich nie
                     
 
         
-",lustig-dr-chineserfranz,49,6,0.2265,0.12244897959183673
+",18,lustig-dr-chineserfranz,49,6,0.2265,0.12244897959183673
 37,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -656,7 +656,7 @@ Was brocht?... ich?
 .
 
         
-",lustig-dr-chineserfranz,11,1,0.141,0.09090909090909091
+",18,lustig-dr-chineserfranz,11,1,0.141,0.09090909090909091
 39,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -676,7 +676,7 @@ Tiens, das isch e Tarte wie die, wo-n-ich dà Morge
                     
 
         
-",lustig-dr-chineserfranz,50,6,0.328,0.12
+",19,lustig-dr-chineserfranz,50,6,0.328,0.12
 40,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -689,7 +689,7 @@ Do wird's halt 's Rosele si, wo mr se do ane tho hat...
                     
 
         
-",lustig-dr-chineserfranz,37,3,0.20299999999999999,0.08108108108108109
+",20,lustig-dr-chineserfranz,37,3,0.20299999999999999,0.08108108108108109
 41,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -698,7 +698,7 @@ Herr Gàlfink.
 Isch alles züe?
 
         
-",lustig-dr-chineserfranz,5,1,0.141,0.2
+",20,lustig-dr-chineserfranz,5,1,0.141,0.2
 43,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -707,7 +707,7 @@ Herr Gàlfink.
 Eh bien...
 
         
-",lustig-dr-chineserfranz,4,2,0.0705,0.5
+",21,lustig-dr-chineserfranz,4,2,0.0705,0.5
 44,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -719,7 +719,7 @@ Tante
 Was denn?
 
         
-",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+",22,lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
 45,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -728,7 +728,7 @@ Herr Gàlfink.
 Ich ha traümt, ich heb 's grosse Loos g'wunne.
 
         
-",lustig-dr-chineserfranz,11,2,0.0705,0.18181818181818182
+",22,lustig-dr-chineserfranz,11,2,0.0705,0.18181818181818182
 46,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -742,7 +742,7 @@ Un fir dass hàn Sie mich mache d'Türe
                     
 
         
-",lustig-dr-chineserfranz,15,1,0.609,0.06666666666666667
+",23,lustig-dr-chineserfranz,15,1,0.609,0.06666666666666667
 47,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -751,7 +751,7 @@ Herr Gàlfink.
 's hat gar viel Schelme bi dàne schlechte Zite!
 
         
-",lustig-dr-chineserfranz,11,2,0.3125,0.18181818181818182
+",23,lustig-dr-chineserfranz,11,2,0.3125,0.18181818181818182
 48,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -763,7 +763,7 @@ Sie hàn e Sprosse z'viel, Herr Gàlfink, 's ka nitt
                     
 
         
-",lustig-dr-chineserfranz,24,4,0.17213970479866186,0.16666666666666666
+",24,lustig-dr-chineserfranz,24,4,0.17213970479866186,0.16666666666666666
 49,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -779,7 +779,7 @@ Sie wird sàh, Tante, 's kunnt... denn dreimol
           
 
         
-",lustig-dr-chineserfranz,44,3,0.04699999999999999,0.06818181818181818
+",24,lustig-dr-chineserfranz,44,3,0.04699999999999999,0.06818181818181818
 50,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -797,7 +797,7 @@ Jà, wenn dass isch, Herr Gàlfink, so kännt viellicht
                     
 
         
-",lustig-dr-chineserfranz,52,6,0.1253003217445678,0.11538461538461539
+",25,lustig-dr-chineserfranz,52,6,0.1253003217445678,0.11538461538461539
 51,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -811,7 +811,7 @@ Drum sieht Se, Tante. Oh! ich ha kei Rüeh meh!... wenn's
                     
 
         
-",lustig-dr-chineserfranz,48,7,0.10714285714285714,0.14583333333333334
+",25,lustig-dr-chineserfranz,48,7,0.10714285714285714,0.14583333333333334
 52,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -824,7 +824,7 @@ Zeige Se, Herr Gàlfink, was thàte mr mache, wenn Sie 's
                     
 
         
-",lustig-dr-chineserfranz,30,4,0.03525,0.13333333333333333
+",26,lustig-dr-chineserfranz,30,4,0.03525,0.13333333333333333
 53,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Hèrr Gàlfink.
@@ -837,7 +837,7 @@ Une Hochzit thàte mr mache, Tante Domino, ass noch
                     
 
         
-",lustig-dr-chineserfranz,40,4,0.0,0.1
+",26,lustig-dr-chineserfranz,40,4,0.0,0.1
 54,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -848,7 +848,7 @@ Grad dà Morge ha-n-ich im Rosele wieder dervo g'redt...
                     
 
         
-",lustig-dr-chineserfranz,19,3,0.0,0.15789473684210525
+",27,lustig-dr-chineserfranz,19,3,0.0,0.15789473684210525
 55,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -858,7 +858,7 @@ Do will's denn schint's noch allewil nit vo mr wisse?
                     
 
         
-",lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
+",27,lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
 56,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -871,7 +871,7 @@ Das grad nitt... un züedem, wenn Sie jetz 's grosse Loos
                     
 
         
-",lustig-dr-chineserfranz,34,5,0.0,0.14705882352941177
+",28,lustig-dr-chineserfranz,34,5,0.0,0.14705882352941177
 57,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -880,7 +880,7 @@ Herr Gàlfink.
 Wieso!
 
         
-",lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
+",28,lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
 58,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -899,7 +899,7 @@ Eh! mit de Karte!... mr känne jo ne Reüssite mache...
                     
 
         
-",lustig-dr-chineserfranz,78,5,0.1341188388884715,0.0641025641025641
+",29,lustig-dr-chineserfranz,78,5,0.1341188388884715,0.0641025641025641
 59,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -913,7 +913,7 @@ Herr Gàlfink
 Was isch?... was git's?... brennt's im Hüs?
 
         
-",lustig-dr-chineserfranz,31,3,0.04699999999999999,0.0967741935483871
+",29,lustig-dr-chineserfranz,31,3,0.04699999999999999,0.0967741935483871
 60,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -924,7 +924,7 @@ Eh... hàn Se den nit g'sàh?... Ne wisser Schatte wie ne
                     
 
         
-",lustig-dr-chineserfranz,23,2,0.0,0.08695652173913043
+",30,lustig-dr-chineserfranz,23,2,0.0,0.08695652173913043
 61,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -935,7 +935,7 @@ Sie trumpiert sich, Tante, ich ha nit g'sàh un nit
                     
 
         
-",lustig-dr-chineserfranz,13,1,0.141,0.07692307692307693
+",30,lustig-dr-chineserfranz,13,1,0.141,0.07692307692307693
 62,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -953,7 +953,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,57,4,0.0705,0.07017543859649122
+",31,lustig-dr-chineserfranz,57,4,0.0705,0.07017543859649122
 63,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -966,7 +966,7 @@ Glaübt Sie denn wirklig an d' Reüssites, Tante Domino?
                     
 
         
-",lustig-dr-chineserfranz,17,2,0.0705,0.11764705882352941
+",31,lustig-dr-chineserfranz,17,2,0.0705,0.11764705882352941
 64,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -983,7 +983,7 @@ Durni...
                     
 
         
-",lustig-dr-chineserfranz,51,5,0.0,0.09803921568627451
+",32,lustig-dr-chineserfranz,51,5,0.0,0.09803921568627451
 65,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -995,7 +995,7 @@ Herr Gàlfink
 Ich glaüb, ass ei Mittel 's anders werth isch!
 
         
-",lustig-dr-chineserfranz,15,5,0.1718,0.3333333333333333
+",32,lustig-dr-chineserfranz,15,5,0.1718,0.3333333333333333
 66,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1012,7 +1012,7 @@ Do, sàhn Se jetz, isch emol d'Herz-Dame... das isch 's
                     
 
         
-",lustig-dr-chineserfranz,58,4,0.1875,0.06896551724137931
+",33,lustig-dr-chineserfranz,58,4,0.1875,0.06896551724137931
 67,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1023,7 +1023,7 @@ Güet, güet, Tante... we mr nur z'àmme kamme, das isch
                     
 
         
-",lustig-dr-chineserfranz,15,3,0.04699999999999999,0.2
+",33,lustig-dr-chineserfranz,15,3,0.04699999999999999,0.2
 68,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1034,7 +1034,7 @@ Jetz do in dr Mittle sieh-n-i 's Eckstei-Ass... das isch
                     
 
         
-",lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
+",34,lustig-dr-chineserfranz,19,1,0.0,0.05263157894736842
 69,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1051,7 +1051,7 @@ Diable, diable... wenn nur d'Adresse nitt druf steht!...
                     
 
         
-",lustig-dr-chineserfranz,30,3,0.453,0.1
+",34,lustig-dr-chineserfranz,30,3,0.453,0.1
 70,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1062,7 +1062,7 @@ Oder einer, wo Sie im Sinn hàn z'schriwe... in wem
                     
 
         
-",lustig-dr-chineserfranz,18,1,0.141,0.05555555555555555
+",35,lustig-dr-chineserfranz,18,1,0.141,0.05555555555555555
 71,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1074,7 +1074,7 @@ Kännt's viellicht nitt o ne Depesche si, Tante, ich
                     
 
         
-",lustig-dr-chineserfranz,28,5,0.2718,0.17857142857142858
+",35,lustig-dr-chineserfranz,28,5,0.2718,0.17857142857142858
 72,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1085,7 +1085,7 @@ Ah! do isch's halt das... do sàhn Se, d'g'heimste
                     
 
         
-",lustig-dr-chineserfranz,18,1,0.0,0.05555555555555555
+",36,lustig-dr-chineserfranz,18,1,0.0,0.05555555555555555
 73,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1097,7 +1097,7 @@ Herr Gàlfink
 Wie finde-n-ihr se?
 
         
-",lustig-dr-chineserfranz,15,2,0.37590096523370337,0.13333333333333333
+",36,lustig-dr-chineserfranz,15,2,0.37590096523370337,0.13333333333333333
 74,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1113,7 +1113,7 @@ Un sàhn Se do,
                     
 
         
-",lustig-dr-chineserfranz,49,7,0.12728571428571428,0.14285714285714285
+",37,lustig-dr-chineserfranz,49,7,0.12728571428571428,0.14285714285714285
 75,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1122,7 +1122,7 @@ Herr Gàlfink.
 Jà, un 's Rosele?
 
         
-",lustig-dr-chineserfranz,6,1,0.141,0.16666666666666666
+",37,lustig-dr-chineserfranz,6,1,0.141,0.16666666666666666
 77,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1133,7 +1133,7 @@ Aha... me legt se-n-eso d'Karte, bis ass me findet drin,
                     
 
         
-",lustig-dr-chineserfranz,19,2,0.0705,0.10526315789473684
+",38,lustig-dr-chineserfranz,19,2,0.0705,0.10526315789473684
 78,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1149,7 +1149,7 @@ Sàhn Se jetz... jetz sin Se schier bi dr Herz-Dame, nur
                     
 
         
-",lustig-dr-chineserfranz,47,5,0.4654,0.10638297872340426
+",39,lustig-dr-chineserfranz,47,5,0.4654,0.10638297872340426
 79,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1162,7 +1162,7 @@ Eh... me därf ne jo nur eweg nàh, wenn er eim geniert!
                     
 
         
-",lustig-dr-chineserfranz,25,3,0.04699999999999999,0.12
+",39,lustig-dr-chineserfranz,25,3,0.04699999999999999,0.12
 80,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1174,7 +1174,7 @@ Jà, das geht nitt eso... 's isch g'schriwe, ass e
                     
 
         
-",lustig-dr-chineserfranz,25,2,0.484,0.08
+",40,lustig-dr-chineserfranz,25,2,0.484,0.08
 81,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1188,7 +1188,7 @@ d'Sunne
                     
 
         
-",lustig-dr-chineserfranz,38,5,0.028199999999999996,0.13157894736842105
+",40,lustig-dr-chineserfranz,38,5,0.028199999999999996,0.13157894736842105
 82,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1205,7 +1205,7 @@ Ich hätt jetz liewer e Domino g'macht, denn 's isch
                     
 
         
-",lustig-dr-chineserfranz,62,12,0.1172603125444921,0.1935483870967742
+",41,lustig-dr-chineserfranz,62,12,0.1172603125444921,0.1935483870967742
 83,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1221,7 +1221,7 @@ Also, so geh mr, Tante?
                     
 
         
-",lustig-dr-chineserfranz,41,3,0.43740231068527485,0.07317073170731707
+",41,lustig-dr-chineserfranz,41,3,0.43740231068527485,0.07317073170731707
 84,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1243,7 +1243,7 @@ Dert als bis genüe.
           
 
         
-",lustig-dr-chineserfranz,20,2,0.0,0.1
+",42,lustig-dr-chineserfranz,20,2,0.0,0.1
 85,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1256,7 +1256,7 @@ Me sieht dert dicke Fraüe .
           
 
         
-",lustig-dr-chineserfranz,7,1,0.141,0.14285714285714285
+",42,lustig-dr-chineserfranz,7,1,0.141,0.14285714285714285
 89,comedy,Tante DOMINO,F,,,,"
           
 Warte Se ne-n-Aügesblick, Herr Gàlfink, ich will nur
@@ -1273,7 +1273,7 @@ in's
                     
 
         
-",lustig-dr-chineserfranz,66,8,0.1366992743052947,0.12121212121212122
+",44,lustig-dr-chineserfranz,66,8,0.1366992743052947,0.12121212121212122
 90,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1284,7 +1284,7 @@ Ich gIaüb décidément Sie traümt, Tante; siter ass ich
                     
 
         
-",lustig-dr-chineserfranz,21,3,0.04699999999999999,0.14285714285714285
+",45,lustig-dr-chineserfranz,21,3,0.04699999999999999,0.14285714285714285
 91,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1296,7 +1296,7 @@ Das isch jetz doch sunderbar!... ich hätt jetz
                     
 
         
-",lustig-dr-chineserfranz,22,2,0.0705,0.09090909090909091
+",45,lustig-dr-chineserfranz,22,2,0.0705,0.09090909090909091
 92,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1309,7 +1309,7 @@ En route, Tante!
                     
 
         
-",lustig-dr-chineserfranz,15,1,0.141,0.06666666666666667
+",46,lustig-dr-chineserfranz,15,1,0.141,0.06666666666666667
 93,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1323,7 +1323,7 @@ Gschpliesse Se d'Thüre güet züe un gàn Se mir dr
                     
 
         
-",lustig-dr-chineserfranz,20,1,0.0,0.05
+",46,lustig-dr-chineserfranz,20,1,0.0,0.05
 94,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1332,7 +1332,7 @@ Herr Gàlfink.
 Jà, un 's Rosele, wenn's heimkunnt?
 
         
-",lustig-dr-chineserfranz,9,1,0.141,0.1111111111111111
+",47,lustig-dr-chineserfranz,9,1,0.141,0.1111111111111111
 95,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1343,7 +1343,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,17,2,0.0705,0.11764705882352941
+",47,lustig-dr-chineserfranz,17,2,0.0705,0.11764705882352941
 96,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1357,7 +1357,7 @@ Güet... gehn Se-n-efange, ich will nur g'schwind mi Hüet
                     
 
         
-",lustig-dr-chineserfranz,28,4,0.09,0.14285714285714285
+",48,lustig-dr-chineserfranz,28,4,0.09,0.14285714285714285
 97,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred
@@ -1391,7 +1391,7 @@ n-ich
                     
 
         
-",lustig-dr-chineserfranz,185,17,0.07532907026131515,0.0918918918918919
+",48,lustig-dr-chineserfranz,185,17,0.07532907026131515,0.0918918918918919
 99,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
@@ -1400,7 +1400,7 @@ Herr Alfred.
 Was dr Kückücks kunnsch Dü do ku mache?
 
         
-",lustig-dr-chineserfranz,10,2,0.0705,0.2
+",49,lustig-dr-chineserfranz,10,2,0.0705,0.2
 100,comedy,TOM,M,,,,"
           
 Tom
@@ -1419,7 +1419,7 @@ Jumpfer Rosele züe mir ku... so g'sàit: nimm das
                     
 
         
-",lustig-dr-chineserfranz,60,9,0.07813410356175828,0.15
+",50,lustig-dr-chineserfranz,60,9,0.07813410356175828,0.15
 101,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
@@ -1456,7 +1456,7 @@ Wie gern ich's ha.
           
 
         
-",lustig-dr-chineserfranz,68,14,0.11499999999999999,0.20588235294117646
+",50,lustig-dr-chineserfranz,68,14,0.11499999999999999,0.20588235294117646
 102,comedy,TOM,M,,,,"
           
 Tom.
@@ -1476,7 +1476,7 @@ Wie gern ich's ha.
           
 
         
-",lustig-dr-chineserfranz,28,4,0.0,0.14285714285714285
+",51,lustig-dr-chineserfranz,28,4,0.0,0.14285714285714285
 103,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
@@ -1488,7 +1488,7 @@ Awer sag, Tom, das isch jo die Tarte, wo dà Herr
                     
 
         
-",lustig-dr-chineserfranz,26,3,0.09399999999999999,0.11538461538461539
+",51,lustig-dr-chineserfranz,26,3,0.09399999999999999,0.11538461538461539
 105,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
@@ -1506,7 +1506,7 @@ Still, do isch jetz 's Rosele.
                     
 
         
-",lustig-dr-chineserfranz,60,8,0.1776992743052947,0.13333333333333333
+",52,lustig-dr-chineserfranz,60,8,0.1776992743052947,0.13333333333333333
 106,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1520,7 +1520,7 @@ Z'Hilf! z'Hilf'!... dr Geist... er hat mi um dr Hals
                     
 
         
-",lustig-dr-chineserfranz,20,1,0.0,0.05
+",53,lustig-dr-chineserfranz,20,1,0.0,0.05
 107,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1536,7 +1536,7 @@ Was isch... was git's... me ka nitt emol riehig si
                     
 
         
-",lustig-dr-chineserfranz,41,1,0.141,0.024390243902439025
+",53,lustig-dr-chineserfranz,41,1,0.141,0.024390243902439025
 108,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1550,7 +1550,7 @@ Dert!...
 .
 
         
-",lustig-dr-chineserfranz,13,1,0.0,0.07692307692307693
+",54,lustig-dr-chineserfranz,13,1,0.0,0.07692307692307693
 109,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1566,7 +1566,7 @@ fir e
                     
 
         
-",lustig-dr-chineserfranz,57,7,0.19414285714285714,0.12280701754385964
+",54,lustig-dr-chineserfranz,57,7,0.19414285714285714,0.12280701754385964
 110,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1580,7 +1580,7 @@ Oh!... ich bitt Se drum, Herr Gàlfink, gehn Se doch emol
                     
 
         
-",lustig-dr-chineserfranz,24,2,0.0705,0.08333333333333333
+",55,lustig-dr-chineserfranz,24,2,0.0705,0.08333333333333333
 111,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1589,7 +1589,7 @@ Herr Gàlfink.
 Sie sieht nit ass Geister hit, Tante.
 
         
-",lustig-dr-chineserfranz,9,2,0.0705,0.2222222222222222
+",55,lustig-dr-chineserfranz,9,2,0.0705,0.2222222222222222
 112,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1598,7 +1598,7 @@ Tante.
 Wenn ich sag!... er isch ganz wiss.
 
         
-",lustig-dr-chineserfranz,8,1,0.0,0.125
+",56,lustig-dr-chineserfranz,8,1,0.0,0.125
 113,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1615,7 +1615,7 @@ Weisst Sie denn nitt, voyons Tante, ass es keine Geister
                     
 
         
-",lustig-dr-chineserfranz,45,4,0.0705,0.08888888888888889
+",56,lustig-dr-chineserfranz,45,4,0.0705,0.08888888888888889
 115,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1630,7 +1630,7 @@ Sapristi... jà do!... hewe ne, hewe ne... ich müess vor
                     
 
         
-",lustig-dr-chineserfranz,40,2,0.0705,0.05
+",57,lustig-dr-chineserfranz,40,2,0.0705,0.05
 116,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1647,7 +1647,7 @@ Herr Gàlfink! Herr Gàlfink!!.. er isch scho wieder
                     
 
         
-",lustig-dr-chineserfranz,27,4,0.1915,0.14814814814814814
+",58,lustig-dr-chineserfranz,27,4,0.1915,0.14814814814814814
 117,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -1666,7 +1666,7 @@ Das isch 'jetz doch sunderbar... mr wànn jetz emol
                     
 
         
-",lustig-dr-chineserfranz,60,6,0.26316666666666666,0.1
+",58,lustig-dr-chineserfranz,60,6,0.26316666666666666,0.1
 118,comedy,TOM,M,,,,"
           
 Tom
@@ -1680,7 +1680,7 @@ Ich liewer alles sage.
  Ich Neger...
 
         
-",lustig-dr-chineserfranz,15,2,0.3045,0.13333333333333333
+",59,lustig-dr-chineserfranz,15,2,0.3045,0.13333333333333333
 119,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1694,7 +1694,7 @@ Er Neger...
 .
 
         
-",lustig-dr-chineserfranz,14,1,0.141,0.07142857142857142
+",59,lustig-dr-chineserfranz,14,1,0.141,0.07142857142857142
 120,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1703,7 +1703,7 @@ Herr Gàlfink.
 Vo Riedese?...
 
         
-",lustig-dr-chineserfranz,4,1,0.141,0.25
+",60,lustig-dr-chineserfranz,4,1,0.141,0.25
 121,comedy,TOM,M,,,,"
           
 Tom
@@ -1715,7 +1715,7 @@ Tom
 Ich Mississippi-Neger!
 
         
-",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+",60,lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
 122,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1727,7 +1727,7 @@ Tante
 Er Missippippi-Neger...
 
         
-",lustig-dr-chineserfranz,8,1,0.141,0.125
+",61,lustig-dr-chineserfranz,8,1,0.141,0.125
 123,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1740,7 +1740,7 @@ Me ka's jo prawiere
                     
 
         
-",lustig-dr-chineserfranz,24,3,0.04699999999999999,0.125
+",61,lustig-dr-chineserfranz,24,3,0.04699999999999999,0.125
 125,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1751,7 +1751,7 @@ Allons, allons... 's isch e güete Farb... 's isch nit
                     
 
         
-",lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
+",62,lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
 126,comedy,TOM,M,,,,"
           
 Tom.
@@ -1760,7 +1760,7 @@ Tom.
 Ich dà Morge Herr Alfred gsi un...
 
         
-",lustig-dr-chineserfranz,8,2,0.0705,0.25
+",63,lustig-dr-chineserfranz,8,2,0.0705,0.25
 127,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1780,7 +1780,7 @@ Wenn er dà Morge dr Herr Alfred gsi isch, so wird er's
                     
 
         
-",lustig-dr-chineserfranz,68,8,0.09375,0.11764705882352941
+",63,lustig-dr-chineserfranz,68,8,0.09375,0.11764705882352941
 128,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -1795,7 +1795,7 @@ Enfin, mache-n-ihr's üs mitnander.... ich will jetz emol
           
 
         
-",lustig-dr-chineserfranz,22,2,0.0705,0.09090909090909091
+",64,lustig-dr-chineserfranz,22,2,0.0705,0.09090909090909091
 129,comedy,TOM,M,,,,"
           
 Tom
@@ -1807,7 +1807,7 @@ Tom
 Ich das brocht... Jumpfere mir Schlissel gà...
 
         
-",lustig-dr-chineserfranz,14,3,0.0,0.21428571428571427
+",64,lustig-dr-chineserfranz,14,3,0.0,0.21428571428571427
 130,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1843,7 +1843,7 @@ Aha!... jetz merk i's scho... Ihr hà mr welle ne
                     
 
         
-",lustig-dr-chineserfranz,174,15,0.13233333333333333,0.08620689655172414
+",65,lustig-dr-chineserfranz,174,15,0.13233333333333333,0.08620689655172414
 131,comedy,TOM,M,,,,"
           
 Tom.
@@ -1857,7 +1857,7 @@ Ich nitt stark... ich als liewer mit Messer g'spielt!
                     
 
         
-",lustig-dr-chineserfranz,23,3,0.0,0.13043478260869565
+",65,lustig-dr-chineserfranz,23,3,0.0,0.13043478260869565
 132,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -1888,7 +1888,7 @@ Isch er schön, dà Neger, wenn er eso macht!... wenn er
                     
 
         
-",lustig-dr-chineserfranz,121,12,0.2617706250889842,0.09917355371900827
+",66,lustig-dr-chineserfranz,121,12,0.2617706250889842,0.09917355371900827
 134,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1899,7 +1899,7 @@ Eh bien, sechse
 .
 
         
-",lustig-dr-chineserfranz,10,1,0.0,0.1
+",67,lustig-dr-chineserfranz,10,1,0.0,0.1
 138,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1913,7 +1913,7 @@ Eh, ich ha jo o kei fünf...
                     
 
         
-",lustig-dr-chineserfranz,26,3,0.20299999999999999,0.11538461538461539
+",69,lustig-dr-chineserfranz,26,3,0.20299999999999999,0.11538461538461539
 143,comedy,TOM,M,,,,"
           
 Tom.
@@ -1922,7 +1922,7 @@ Tom.
 Nei, ich schwarz am ganze Lib... wiss un zwei!
 
         
-",lustig-dr-chineserfranz,10,3,0.39066666666666666,0.3
+",71,lustig-dr-chineserfranz,10,3,0.39066666666666666,0.3
 146,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1940,7 +1940,7 @@ Eh! das isch jo pràchtig
                     
 
         
-",lustig-dr-chineserfranz,50,5,0.15,0.1
+",73,lustig-dr-chineserfranz,50,5,0.15,0.1
 148,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -1952,7 +1952,7 @@ Sie brüche sich nitt z'verstelle... ich weiss alles...
                     
 
         
-",lustig-dr-chineserfranz,27,2,0.0,0.07407407407407407
+",74,lustig-dr-chineserfranz,27,2,0.0,0.07407407407407407
 149,comedy,TOM,M,,,,"
           
 Tom.
@@ -1963,7 +1963,7 @@ Ah!... wenn das isch... mir scho recht... Rosele schöne
                     
 
         
-",lustig-dr-chineserfranz,14,2,0.0,0.14285714285714285
+",74,lustig-dr-chineserfranz,14,2,0.0,0.14285714285714285
 151,comedy,TOM,M,,,,"
           
 Tom.
@@ -1972,7 +1972,7 @@ Tom.
 Ich frei... ich mache ka, was' ich will!
 
         
-",lustig-dr-chineserfranz,9,1,0.0,0.1111111111111111
+",75,lustig-dr-chineserfranz,9,1,0.0,0.1111111111111111
 152,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2000,7 +2000,7 @@ Das isch alles recht, awer 's isch mr èwe nur um's
                     
 
         
-",lustig-dr-chineserfranz,91,8,0.107375,0.08791208791208792
+",76,lustig-dr-chineserfranz,91,8,0.107375,0.08791208791208792
 153,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2016,7 +2016,7 @@ Aha, do isch jetz emol d'Tante... d'Nièce wird nitt wit
                     Verzeihe Se, wohnt nitt do ne g'wisser Herr... Knopf?
 
         
-",lustig-dr-chineserfranz,42,6,0.1485,0.14285714285714285
+",76,lustig-dr-chineserfranz,42,6,0.1485,0.14285714285714285
 154,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2027,7 +2027,7 @@ Knopf... Knopf... nei, 's wohnt Nieme-n-eso im Hüs...
                     
 
         
-",lustig-dr-chineserfranz,16,2,0.0705,0.125
+",77,lustig-dr-chineserfranz,16,2,0.0705,0.125
 155,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samuel.
@@ -2047,7 +2047,7 @@ Verzeihe Se... nitt wohr, Sie erlaüwe mir e wenig
                     
 
         
-",lustig-dr-chineserfranz,90,9,0.015666666666666666,0.1
+",77,lustig-dr-chineserfranz,90,9,0.015666666666666666,0.1
 156,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2060,7 +2060,7 @@ Tiens, tiens, tiens!... ah! Sie sin emol züem Fenster
                     
 
         
-",lustig-dr-chineserfranz,21,2,0.3045,0.09523809523809523
+",78,lustig-dr-chineserfranz,21,2,0.3045,0.09523809523809523
 157,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2072,7 +2072,7 @@ Pardon, ich verzähl Ihre do Sache, wo Sie gar nitt
                     
 
         
-",lustig-dr-chineserfranz,24,2,0.305,0.08333333333333333
+",78,lustig-dr-chineserfranz,24,2,0.305,0.08333333333333333
 158,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2083,7 +2083,7 @@ Gar nitt... gar nitt... Sie thien mich gar nitt
                     
 
         
-",lustig-dr-chineserfranz,12,1,0.141,0.08333333333333333
+",79,lustig-dr-chineserfranz,12,1,0.141,0.08333333333333333
 159,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2094,7 +2094,7 @@ Samüel !
           
 
         
-",lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
+",79,lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
 160,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2115,7 +2115,7 @@ Herr Samüel?
                     
 
         
-",lustig-dr-chineserfranz,54,3,0.25,0.05555555555555555
+",80,lustig-dr-chineserfranz,54,3,0.25,0.05555555555555555
 161,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2126,7 +2126,7 @@ Also wohnt Nieme-n-eso do?... isch Sie allei do im
                     
 
         
-",lustig-dr-chineserfranz,14,3,0.10799999999999997,0.21428571428571427
+",80,lustig-dr-chineserfranz,14,3,0.10799999999999997,0.21428571428571427
 162,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2140,7 +2140,7 @@ Mi Nièce isch bi mr un dert newe-n-uns wohnt dr Herr
                     
 
         
-",lustig-dr-chineserfranz,47,3,0.20333333333333334,0.06382978723404255
+",81,lustig-dr-chineserfranz,47,3,0.20333333333333334,0.06382978723404255
 163,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2149,7 +2149,7 @@ Herr Samüel.
 Ne so ebbes wie vierzig Johr.
 
         
-",lustig-dr-chineserfranz,8,1,0.141,0.125
+",81,lustig-dr-chineserfranz,8,1,0.141,0.125
 164,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2161,7 +2161,7 @@ Tante
 Un derno... isch's vo hoch, as Sie üseg'sprunge sin?
 
         
-",lustig-dr-chineserfranz,14,1,0.4529999999999999,0.07142857142857142
+",82,lustig-dr-chineserfranz,14,1,0.4529999999999999,0.07142857142857142
 165,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2170,7 +2170,7 @@ Herr Samüel.
 So ziemlig... vom erste Stock.
 
         
-",lustig-dr-chineserfranz,7,3,0.12,0.42857142857142855
+",82,lustig-dr-chineserfranz,7,3,0.12,0.42857142857142855
 166,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2182,7 +2182,7 @@ Wohrschinlig isch's wege-n-ere Jumpfre gsi, nitt wohr,
                     
 
         
-",lustig-dr-chineserfranz,27,2,0.3045,0.07407407407407407
+",83,lustig-dr-chineserfranz,27,2,0.3045,0.07407407407407407
 167,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2194,7 +2194,7 @@ Herr Samüel
 Tiens, wie weisst Sie das?
 
         
-",lustig-dr-chineserfranz,10,1,0.141,0.1
+",83,lustig-dr-chineserfranz,10,1,0.141,0.1
 168,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2206,7 +2206,7 @@ Tante
 B'schaüe Sie mich emol recht, Herr Samüel.
 
         
-",lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
+",84,lustig-dr-chineserfranz,14,2,0.0705,0.14285714285714285
 169,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2218,7 +2218,7 @@ Herr Samüel
 Schelastika, Sie! Dü! isch's möglig?
 
         
-",lustig-dr-chineserfranz,17,3,0.04699999999999999,0.17647058823529413
+",84,lustig-dr-chineserfranz,17,3,0.04699999999999999,0.17647058823529413
 170,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2236,7 +2236,7 @@ Er hat mich erkennt.
                     
 
         
-",lustig-dr-chineserfranz,36,3,0.11466666666666665,0.08333333333333333
+",85,lustig-dr-chineserfranz,36,3,0.11466666666666665,0.08333333333333333
 171,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2261,7 +2261,7 @@ Los, Schelastika, 's isch g'wiss nitt mi Schuld gsi!...
                     
 
         
-",lustig-dr-chineserfranz,140,17,0.046948455913759124,0.12142857142857143
+",85,lustig-dr-chineserfranz,140,17,0.046948455913759124,0.12142857142857143
 173,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2270,7 +2270,7 @@ Herr Samüel.
 So hat se halt mi Oncle z'ruck b'halte.
 
         
-",lustig-dr-chineserfranz,11,3,0.2866666666666667,0.2727272727272727
+",86,lustig-dr-chineserfranz,11,3,0.2866666666666667,0.2727272727272727
 174,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2285,7 +2285,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,38,6,0.20033333333333334,0.15789473684210525
+",87,lustig-dr-chineserfranz,38,6,0.20033333333333334,0.15789473684210525
 175,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samuel.
@@ -2306,7 +2306,7 @@ Mi Galanterie losst mir's nitt züe, Dir 's gliche
                     
 
         
-",lustig-dr-chineserfranz,78,9,0.151,0.11538461538461539
+",87,lustig-dr-chineserfranz,78,9,0.151,0.11538461538461539
 176,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2315,7 +2315,7 @@ Tante.
 Eh, wege dem Herr Knopf, wo do sott wohne.
 
         
-",lustig-dr-chineserfranz,10,2,0.0705,0.2
+",88,lustig-dr-chineserfranz,10,2,0.0705,0.2
 177,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2326,7 +2326,7 @@ Dü bisch nitt drin!... das isch nur e-n-Üsred gsi...
                     
 
         
-",lustig-dr-chineserfranz,22,1,0.141,0.045454545454545456
+",88,lustig-dr-chineserfranz,22,1,0.141,0.045454545454545456
 179,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2339,7 +2339,7 @@ Ich... ich ha mr vorgnu g'ha, ku z'lüege, was eigentlig
                     
 
         
-",lustig-dr-chineserfranz,39,3,0.25,0.07692307692307693
+",89,lustig-dr-chineserfranz,39,3,0.25,0.07692307692307693
 180,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2353,7 +2353,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,35,7,0.10714285714285714,0.2
+",90,lustig-dr-chineserfranz,35,7,0.10714285714285714,0.2
 181,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2366,7 +2366,7 @@ Ich zwifel nitt dra... un wil's jetz eso isch, so gib
                     
 
         
-",lustig-dr-chineserfranz,41,9,0.03977777777777777,0.21951219512195122
+",90,lustig-dr-chineserfranz,41,9,0.03977777777777777,0.21951219512195122
 182,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2378,7 +2378,7 @@ Mr wànn's hoffe... ich gunn 's Rosele im Herr Alfred, er
                     
 
         
-",lustig-dr-chineserfranz,27,5,0.125,0.18518518518518517
+",91,lustig-dr-chineserfranz,27,5,0.125,0.18518518518518517
 183,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2387,7 +2387,7 @@ Herr Samüel.
 Wer?
 
         
-",lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
+",91,lustig-dr-chineserfranz,3,1,0.141,0.3333333333333333
 184,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2396,7 +2396,7 @@ Tante.
 Eh, dr Herr Alfred, parbleu!
 
         
-",lustig-dr-chineserfranz,6,2,0.0705,0.3333333333333333
+",92,lustig-dr-chineserfranz,6,2,0.0705,0.3333333333333333
 185,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2405,7 +2405,7 @@ Herr Samüel.
 Dr Alfred schwarz?... ich glaüb, Dü traümsch!
 
         
-",lustig-dr-chineserfranz,9,3,0.24466666666666667,0.3333333333333333
+",92,lustig-dr-chineserfranz,9,3,0.24466666666666667,0.3333333333333333
 186,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2418,7 +2418,7 @@ Was traüme!... er glànzt jo ganz vor Schwärze!... De
                     
 
         
-",lustig-dr-chineserfranz,36,4,0.11725,0.1111111111111111
+",93,lustig-dr-chineserfranz,36,4,0.11725,0.1111111111111111
 187,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2429,7 +2429,7 @@ Was dr Kückücks verzahlsch jetz Dü mir do vo Neger!...
                     
 
         
-",lustig-dr-chineserfranz,15,1,0.141,0.06666666666666667
+",93,lustig-dr-chineserfranz,15,1,0.141,0.06666666666666667
 188,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2443,7 +2443,7 @@ Ah çà!... De wirsch doch ebbe nitt welle làigne, ass dr
                     
 
         
-",lustig-dr-chineserfranz,21,2,0.0705,0.09523809523809523
+",94,lustig-dr-chineserfranz,21,2,0.0705,0.09523809523809523
 189,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2452,7 +2452,7 @@ Herr Samüel.
 Par exemple!
 
         
-",lustig-dr-chineserfranz,4,1,0.141,0.25
+",94,lustig-dr-chineserfranz,4,1,0.141,0.25
 190,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2465,7 +2465,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,34,2,0.0,0.058823529411764705
+",95,lustig-dr-chineserfranz,34,2,0.0,0.058823529411764705
 191,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2479,7 +2479,7 @@ Aha, ich merk ebbes... zeig, wie hat er das Ding
                     
 
         
-",lustig-dr-chineserfranz,16,2,0.0705,0.125
+",95,lustig-dr-chineserfranz,16,2,0.0705,0.125
 192,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2492,7 +2492,7 @@ Er hat g'sàit: « Ich dà Morge Herr Alfred gsi », also,
                     
 
         
-",lustig-dr-chineserfranz,38,5,0.05639999999999999,0.13157894736842105
+",96,lustig-dr-chineserfranz,38,5,0.05639999999999999,0.13157894736842105
 193,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2507,7 +2507,7 @@ er wird
                     
 
         
-",lustig-dr-chineserfranz,56,6,0.04699999999999999,0.10714285714285714
+",96,lustig-dr-chineserfranz,56,6,0.04699999999999999,0.10714285714285714
 194,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2529,7 +2529,7 @@ Eh, 's isch jo wohr... wo ha-n-i denn mi Verstand g'ha
                     
 
         
-",lustig-dr-chineserfranz,79,12,0.15358333333333332,0.1518987341772152
+",97,lustig-dr-chineserfranz,79,12,0.15358333333333332,0.1518987341772152
 195,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2541,7 +2541,7 @@ Un jetz will ich im Alfred geh dà güete B'richt
                     
 
         
-",lustig-dr-chineserfranz,27,3,0.04699999999999999,0.1111111111111111
+",97,lustig-dr-chineserfranz,27,3,0.04699999999999999,0.1111111111111111
 196,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2553,7 +2553,7 @@ Tante.
                     
 
         
-",lustig-dr-chineserfranz,26,4,0.03525,0.15384615384615385
+",98,lustig-dr-chineserfranz,26,4,0.03525,0.15384615384615385
 197,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2572,7 +2572,7 @@ Also in ere halb Stund
                     
 
         
-",lustig-dr-chineserfranz,37,5,0.15,0.13513513513513514
+",98,lustig-dr-chineserfranz,37,5,0.15,0.13513513513513514
 199,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -2592,7 +2592,7 @@ so
                     
 
         
-",lustig-dr-chineserfranz,54,7,0.31128539462739024,0.12962962962962962
+",99,lustig-dr-chineserfranz,54,7,0.31128539462739024,0.12962962962962962
 200,comedy,TOM,M,,,,"
           
 Tom
@@ -2609,7 +2609,7 @@ Ich alles g'hört!... awer ich Rosele hirothe oder
                     
 
         
-",lustig-dr-chineserfranz,33,3,0.6295313981474525,0.09090909090909091
+",100,lustig-dr-chineserfranz,33,3,0.6295313981474525,0.09090909090909091
 201,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2623,7 +2623,7 @@ Ich o alles g'hört... ich o will Rosele hirothe oder
                     
 
         
-",lustig-dr-chineserfranz,20,2,0.4455,0.1
+",100,lustig-dr-chineserfranz,20,2,0.4455,0.1
 203,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2642,7 +2642,7 @@ Ich nimmig welle! ich nimmig welle!
                     
 
         
-",lustig-dr-chineserfranz,60,7,0.23442857142857143,0.11666666666666667
+",101,lustig-dr-chineserfranz,60,7,0.23442857142857143,0.11666666666666667
 204,comedy,TOM,M,,,,"
           
 Tom
@@ -2658,7 +2658,7 @@ Ich nimmig so lewe... ich wieder wild werde
                     
 
         
-",lustig-dr-chineserfranz,23,3,0.4220412501779684,0.13043478260869565
+",102,lustig-dr-chineserfranz,23,3,0.4220412501779684,0.13043478260869565
 205,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2683,7 +2683,7 @@ Diable, diable!... wenn er nur nitt dr G'lust an mir
                     
 
         
-",lustig-dr-chineserfranz,91,12,0.3190101461421383,0.13186813186813187
+",102,lustig-dr-chineserfranz,91,12,0.3190101461421383,0.13186813186813187
 206,comedy,TOM,M,,,,"
           
 Tom.
@@ -2692,7 +2692,7 @@ Tom.
 Jà, jà... ganz eso!
 
         
-",lustig-dr-chineserfranz,5,1,0.0,0.2
+",103,lustig-dr-chineserfranz,5,1,0.0,0.2
 207,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2707,7 +2707,7 @@ Mir alles üszieh un wieder si, wie d'Natür uns erschaffe
                     
 
         
-",lustig-dr-chineserfranz,31,2,0.0705,0.06451612903225806
+",103,lustig-dr-chineserfranz,31,2,0.0705,0.06451612903225806
 209,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2753,7 +2753,7 @@ Mir scho fir 's Esse g'nüe hàn z'thüe!
           
 
         
-",lustig-dr-chineserfranz,140,14,0.15408026789527893,0.1
+",104,lustig-dr-chineserfranz,140,14,0.15408026789527893,0.1
 211,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -2762,7 +2762,7 @@ Herr Gàlfink.
 Wenn ich nur die Sproch scho kännt!
 
         
-",lustig-dr-chineserfranz,9,1,0.141,0.1111111111111111
+",105,lustig-dr-chineserfranz,9,1,0.141,0.1111111111111111
 213,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -2771,7 +2771,7 @@ Herr Gàlfink.
 Jà, 's wird harze, das isch wohr!
 
         
-",lustig-dr-chineserfranz,9,3,0.04699999999999999,0.3333333333333333
+",106,lustig-dr-chineserfranz,9,3,0.04699999999999999,0.3333333333333333
 214,comedy,Herr GALFING,M,,,,"
           
 Mitnander.
@@ -2793,7 +2793,7 @@ Mir scho fir 's Esse g'nüe hàn z'thüe
           
 
         
-",lustig-dr-chineserfranz,31,5,0.253224750106781,0.16129032258064516
+",107,lustig-dr-chineserfranz,31,5,0.253224750106781,0.16129032258064516
 215,comedy,TOM,M,,,,"
           
 Mitnander.
@@ -2815,7 +2815,7 @@ Mir scho fir 's Esse g'nüe hàn z'thüe
           
 
         
-",lustig-dr-chineserfranz,31,5,0.253224750106781,0.16129032258064516
+",107,lustig-dr-chineserfranz,31,5,0.253224750106781,0.16129032258064516
 216,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2836,7 +2836,7 @@ Allons!... noch 's Hemd un d'Hose, derno hat's es
                     
 
         
-",lustig-dr-chineserfranz,61,4,0.17213970479866186,0.06557377049180328
+",108,lustig-dr-chineserfranz,61,4,0.17213970479866186,0.06557377049180328
 218,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink
@@ -2856,7 +2856,7 @@ Ich sieh scho, das Ding isch nitt so güet z'mache,
                     
 
         
-",lustig-dr-chineserfranz,68,9,0.23968041672598947,0.1323529411764706
+",109,lustig-dr-chineserfranz,68,9,0.23968041672598947,0.1323529411764706
 219,comedy,TOM,M,,,,"
           
 Tom.
@@ -2867,7 +2867,7 @@ Nix, nix!... nitt warte... ich Hunger no
                     
 
         
-",lustig-dr-chineserfranz,9,2,0.0705,0.2222222222222222
+",109,lustig-dr-chineserfranz,9,2,0.0705,0.2222222222222222
 220,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -2892,7 +2892,7 @@ Bigr! bigr!... ich ha mich glaüb e wenig z'wit
           
 
         
-",lustig-dr-chineserfranz,86,10,0.14679999999999999,0.11627906976744186
+",110,lustig-dr-chineserfranz,86,10,0.14679999999999999,0.11627906976744186
 221,comedy,TOM,M,,,,"
           
 Tom.
@@ -2901,7 +2901,7 @@ Tom.
 Güet!... awer mir glich geh...
 
         
-",lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
+",110,lustig-dr-chineserfranz,6,1,0.0,0.16666666666666666
 222,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -2921,7 +2921,7 @@ Uf dr Stell!...
                     
 
         
-",lustig-dr-chineserfranz,57,11,0.12345454545454547,0.19298245614035087
+",111,lustig-dr-chineserfranz,57,11,0.12345454545454547,0.19298245614035087
 223,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel
@@ -2947,7 +2947,7 @@ Was dr Kückücks isch das?
                     
 
         
-",lustig-dr-chineserfranz,92,11,0.13968958075581853,0.11956521739130435
+",111,lustig-dr-chineserfranz,92,11,0.13968958075581853,0.11956521739130435
 224,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -2961,7 +2961,7 @@ Eh, denke nur, dr Neger un dr Herr Gàlfink wànn in
                     
 
         
-",lustig-dr-chineserfranz,45,7,0.19887482150484356,0.15555555555555556
+",112,lustig-dr-chineserfranz,45,7,0.19887482150484356,0.15555555555555556
 225,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -2978,7 +2978,7 @@ De brüchsch kei Angst z'ha vor em Neger, 's kunnt
                     
 
         
-",lustig-dr-chineserfranz,57,5,0.3390843368620862,0.08771929824561403
+",112,lustig-dr-chineserfranz,57,5,0.3390843368620862,0.08771929824561403
 226,comedy,ROSELE,F,,,,"
           
 Rosele
@@ -2993,7 +2993,7 @@ Awer Herr Gàlfink, wie hàn Sie känne mi Tante in eso ne
                     
 
         
-",lustig-dr-chineserfranz,26,3,0.37833333333333335,0.11538461538461539
+",113,lustig-dr-chineserfranz,26,3,0.37833333333333335,0.11538461538461539
 227,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -3007,7 +3007,7 @@ Herr Gàlfink.
                     
 
         
-",lustig-dr-chineserfranz,26,3,0.09399999999999999,0.11538461538461539
+",113,lustig-dr-chineserfranz,26,3,0.09399999999999999,0.11538461538461539
 228,comedy,Herr ALFRED,M,,,,"
           
 Herr Alfred.
@@ -3020,7 +3020,7 @@ Eh tiens, das isch jo dà Herr, wo mir dà Morge ne Tarte
                     
 
         
-",lustig-dr-chineserfranz,45,8,0.1875,0.17777777777777778
+",114,lustig-dr-chineserfranz,45,8,0.1875,0.17777777777777778
 229,comedy,Tante DOMINO,F,,,,"
           
 Tante.
@@ -3032,7 +3032,7 @@ Ah so, Herr Gàlfink!... das isch e schöne G'schichte..
                     
 
         
-",lustig-dr-chineserfranz,23,2,0.0705,0.08695652173913043
+",114,lustig-dr-chineserfranz,23,2,0.0705,0.08695652173913043
 230,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -3043,7 +3043,7 @@ Was will Se halt, Tante Domino, 's isch
                     
 
         
-",lustig-dr-chineserfranz,12,2,0.0705,0.16666666666666666
+",115,lustig-dr-chineserfranz,12,2,0.0705,0.16666666666666666
 231,comedy,TOM,M,,,,"
           
 Tom
@@ -3057,7 +3057,7 @@ Ich glaübt, Sie d'Menschheit hasse... Allons, vorwàrts
                     
 
         
-",lustig-dr-chineserfranz,17,3,0.04699999999999999,0.17647058823529413
+",115,lustig-dr-chineserfranz,17,3,0.04699999999999999,0.17647058823529413
 232,comedy,Herr GALFING,M,,,,"
           
 Herr Gàlfink.
@@ -3068,7 +3068,7 @@ Kasch Dr ibilde!... wenn's do Hochzitlewe git!...
                     
 
         
-",lustig-dr-chineserfranz,11,1,0.141,0.09090909090909091
+",116,lustig-dr-chineserfranz,11,1,0.141,0.09090909090909091
 233,comedy,Tante DOMINO,F,,,,"
           
 Tante
@@ -3084,7 +3084,7 @@ Un ich, wo jetz um mi Neger spring! un wer wird jetz mit
           
 
         
-",lustig-dr-chineserfranz,26,2,0.0,0.07692307692307693
+",116,lustig-dr-chineserfranz,26,2,0.0,0.07692307692307693
 234,comedy,Herr SAMÜEL,M,,,,"
           
 Herr Samüel.
@@ -3097,7 +3097,7 @@ Ich, Schelastika!... wenn die junge Lit emol g'hirothe
                     
 
         
-",lustig-dr-chineserfranz,34,6,0.023499999999999997,0.17647058823529413
+",117,lustig-dr-chineserfranz,34,6,0.023499999999999997,0.17647058823529413
 235,comedy,Herr GALFING,M,,,,"
           
 
@@ -3128,7 +3128,7 @@ Drum nur applaüdiert druf los.
           
 
         
-",lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
+",117,lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
 236,comedy,Herr SAMÜEL,M,,,,"
           
 
@@ -3159,7 +3159,7 @@ Drum nur applaüdiert druf los.
           
 
         
-",lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
+",118,lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
 237,comedy,Tante DOMINO,F,,,,"
           
 
@@ -3190,7 +3190,7 @@ Drum nur applaüdiert druf los.
           
 
         
-",lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
+",118,lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
 238,comedy,ROSELE,F,,,,"
           
 
@@ -3221,4 +3221,4 @@ Drum nur applaüdiert druf los.
           
 
         
-",lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256
+",119,lustig-dr-chineserfranz,39,4,0.13688970479866186,0.10256410256410256

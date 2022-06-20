@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -7,7 +7,7 @@ Lehrer:
 Guete Daa, Frau Mehlstaub.
 
           
-",bastian-struwelpeter,5,2,0.0,0.4
+",0,bastian-struwelpeter,5,2,0.0,0.4
 1,tale,"Mehlstaub, Müller",M,,,,"
             
 Müllere
@@ -16,7 +16,7 @@ Müllere
 Ah, guete Daa, Herr Lehrer. Was verschafft uns die Ehr’, Euch in d'r Mühl ze sehn? Isch Euch ebbe s’Mehl üssgange?
 
           
-",bastian-struwelpeter,23,7,0.0,0.30434782608695654
+",0,bastian-struwelpeter,23,7,0.0,0.30434782608695654
 2,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -25,7 +25,7 @@ Lehrer:
 Nix Mehl. Ich möcht gern mit-em Maischter redde.
 
           
-",bastian-struwelpeter,9,3,0.0,0.3333333333333333
+",0,bastian-struwelpeter,9,3,0.0,0.3333333333333333
 4,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -34,7 +34,7 @@ Lehrer:
 Doch. Awer ich möcht d'r Maischter d’rbie han.
 
           
-",bastian-struwelpeter,10,2,0.0,0.2
+",0,bastian-struwelpeter,10,2,0.0,0.2
 5,tale,"Mehlstaub, Müller",M,,,,"
             
 Müllere:
@@ -46,7 +46,7 @@ Müllere:
 Michel, kumm hurtli eryn, es isch Bsuech do. Kumme Ihr amend wäje unserem Bue?
 
           
-",bastian-struwelpeter,20,3,0.0,0.15
+",0,bastian-struwelpeter,20,3,0.0,0.15
 6,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -55,7 +55,7 @@ Lehrer:
 Geduld, Frau Mehlstaub, Geduld. Numme d’Ruehj kann’s mache un d’Uewerlajung.
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",0,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 7,tale,E Müller,M,,,,"
             
 Müllere:
@@ -64,7 +64,7 @@ Müllere:
 Mir han e Söüi gemetzt, un do gibt's allerlei gueti Stüeckle. Wotte Ihr nit mithalte, dass Euch d'r Saft am Bart nablauft?
 
           
-",bastian-struwelpeter,24,2,0.0,0.08333333333333333
+",1,bastian-struwelpeter,24,2,0.0,0.08333333333333333
 8,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -73,7 +73,7 @@ Lehrer:
 Merci. Ich hab mich hitt schun so verzüernt, dass ich küm e Bisse nuntergebrocht hab.
 
           
-",bastian-struwelpeter,16,3,0.0,0.1875
+",1,bastian-struwelpeter,16,3,0.0,0.1875
 9,tale,E Müller,M,,,,"
             
 Müllere:
@@ -82,7 +82,7 @@ Müllere:
 Ei, ei, was Er nit saat. Ich hab gemaant, numme d’Ruehj kann’s mache.
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",1,bastian-struwelpeter,16,2,0.0,0.125
 10,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -91,7 +91,7 @@ Lehrer:
 Zell schun — awer —
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",1,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 11,tale,E Müller,M,,,,"
             
 Müllere:
@@ -102,7 +102,7 @@ Setze Euch doch, Herr Lehrer
 .
 
           
-",bastian-struwelpeter,11,2,0.0,0.18181818181818182
+",1,bastian-struwelpeter,11,2,0.0,0.18181818181818182
 12,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -111,7 +111,7 @@ Mehlstaub:
 Guete Daa, Herr Lehrer. Was han Ihr Guet’s uff-m Herze?
 
           
-",bastian-struwelpeter,12,5,0.0,0.4166666666666667
+",1,bastian-struwelpeter,12,5,0.0,0.4166666666666667
 13,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -121,7 +121,7 @@ Guet’s? Nit gerote, Maischter Mehlstaub. Ich kumm waje Euerem Peter.
 (Setzt sich.)
 
           
-",bastian-struwelpeter,16,4,0.0,0.25
+",1,bastian-struwelpeter,16,4,0.0,0.25
 17,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -132,7 +132,7 @@ Früechtel, ganz, erächt, Früechtel.
  Also, Maischter, ich muess mich bitter beklaaue.
 
           
-",bastian-struwelpeter,15,5,0.0,0.3333333333333333
+",2,bastian-struwelpeter,15,5,0.0,0.3333333333333333
 19,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -141,7 +141,7 @@ Lehrer:
 Er kummt jede Daa ungewäsche, mit Strüewelhoor, in d’Schuel. E Hals hett’r, mer könnt Ruebsoome druff säje, un Fingernäjel, dass Gottserbarm, wie Adlerkralle Es isch e Schand un e böses Exempel for d’andere Kinder, bsunders wenn mer in e’re Mühl d’haam isch, wo soviel Wasser lauft.
 
           
-",bastian-struwelpeter,50,6,0.0,0.12
+",2,bastian-struwelpeter,50,6,0.0,0.12
 20,tale,E Müller,M,,,,"
             
 Müllere:
@@ -150,7 +150,7 @@ Müllere:
 s’Verdraat halt nit e jed’s s’ Wasser.
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",2,bastian-struwelpeter,10,1,0.0,0.1
 21,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -159,7 +159,7 @@ Mehlstaub:
 Do muess e Ross lache, wenn mer e Frau het, wo so gscheid babbelt.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",3,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 22,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -170,7 +170,7 @@ Euere Bue het nit umesunscht d'r Uewername Strüwel- peter.
  E böses Exempel. Sini devoirs sin so schlecht, dass mer grad griene möcht. Schriewe duet’r wie e Katz, wo in’s Dintefässel getrette isch un derno uff-em cahier erum- lauft.
 
           
-",bastian-struwelpeter,45,5,0.0906,0.1111111111111111
+",3,bastian-struwelpeter,45,5,0.0906,0.1111111111111111
 24,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -179,7 +179,7 @@ Lehrer:
 Mit-m Lese geht's so. Geographie, Gschicht nix, Zeichne nix.
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",3,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 26,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -188,7 +188,7 @@ Mehlstaub:
 Sei emol still mit dim dumme ei-ei-ei. Herr Lehrer, verzehle mer alles, was Ihr vun dem Galjestrick wisse. Wie isch’s denn mit-em Rechne?
 
           
-",bastian-struwelpeter,25,5,0.0,0.2
+",3,bastian-struwelpeter,25,5,0.0,0.2
 27,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -199,7 +199,7 @@ Galjestrick, ganz erächt.
  Rechne kann’r guet. Was wobr isch, isch wohr.
 
           
-",bastian-struwelpeter,15,6,0.0,0.4
+",3,bastian-struwelpeter,15,6,0.0,0.4
 29,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -208,7 +208,7 @@ Lehrer:
 Awer Zahle macht’r wie Fleischhooge in e’re Metz.
 
           
-",bastian-struwelpeter,9,3,0.0,0.3333333333333333
+",4,bastian-struwelpeter,9,3,0.0,0.3333333333333333
 30,tale,E Müller,M,,,,"
             
 Müllere:
@@ -217,7 +217,7 @@ Müllere:
 Schön singe kann’r au noch.
 
           
-",bastian-struwelpeter,6,2,0.00449999999999995,0.3333333333333333
+",4,bastian-struwelpeter,6,2,0.00449999999999995,0.3333333333333333
 31,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -227,7 +227,7 @@ Meh brüehle wie singe, Frau Mehlstaub, un sich mit sine Schuelkamerade erumschl
 (Priest.)
 
           
-",bastian-struwelpeter,59,10,0.0,0.1694915254237288
+",4,bastian-struwelpeter,59,10,0.0,0.1694915254237288
 33,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub :
@@ -239,7 +239,7 @@ Mehlstaub :
 Was, er isch näwe d’Schuel? Do soll doch e Haauelwetter — denne soll e Bumm pfetze.
 
           
-",bastian-struwelpeter,25,3,0.18548382519951503,0.12
+",4,bastian-struwelpeter,25,3,0.18548382519951503,0.12
 34,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -248,7 +248,7 @@ Lehrer:
 Numme d’Ruhj kann’s mache. Setze Euch, Maischter.
 
           
-",bastian-struwelpeter,10,2,0.0,0.2
+",4,bastian-struwelpeter,10,2,0.0,0.2
 35,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -257,7 +257,7 @@ Mehlstaub:
 Ich kann nit. Ah, wart, ah, wart, dü Büerschtel. Jetzt isch’s Messel voll. Was zeviel isch, isch zeviel. Ich bind’ ne uff’s Mühlrad und drickel ’ne mit 'me Hewel!
 
           
-",bastian-struwelpeter,32,4,0.0,0.125
+",5,bastian-struwelpeter,32,4,0.0,0.125
 36,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -267,7 +267,7 @@ Ich hab mich gezwunge gsehn, so leid ass mer duet, e Brief an d'r Schuelinspekte
 (Priest.)
 
           
-",bastian-struwelpeter,29,6,0.17588925724703533,0.20689655172413793
+",5,bastian-struwelpeter,29,6,0.17588925724703533,0.20689655172413793
 37,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -276,7 +276,7 @@ Mehlstaub:
 Zue d'r Schuel nüss. Hörsch’s, Frau?
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",5,bastian-struwelpeter,8,1,0.0,0.125
 38,tale,E Müller,M,,,,"
             
 Müllere:
@@ -285,7 +285,7 @@ Müllere:
 Ei, ei, er isch doch nit so dumm, dass —
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",5,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 39,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -294,7 +294,7 @@ Mehlstaub:
 In de Lumpestreich nit. Ah, wart Büerschtel.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",5,bastian-struwelpeter,8,1,0.0,0.125
 40,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -303,7 +303,7 @@ Lehrer:
 Ganz erächt, Lumpestreich. Er sott sich schämme, so gross un so starik dass’r isch.
 
           
-",bastian-struwelpeter,15,4,0.16962864886842885,0.26666666666666666
+",5,bastian-struwelpeter,15,4,0.16962864886842885,0.26666666666666666
 41,tale,E Müller,M,,,,"
             
 Müllere:
@@ -312,7 +312,7 @@ Müllere:
 O, er het awer e guet’s Herz.’ Er gäb’s Hemd here.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",5,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 42,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -321,7 +321,7 @@ Mehlstaub:
 Ich pfiff-em uff’s Herz un sin Hemd, wo niemes wott. Der Nixnutz isch e Naauel an mim Todebaam. Oh, was het der schun Wichs vun mir bekumme. Gschtroft hab ich ’ne sogar um’s Esse. Awer ich glaab als, dass d’Müllere do ihm als hinterucks ebbs zueschuestert.
 
           
-",bastian-struwelpeter,50,4,0.15059121392857686,0.08
+",6,bastian-struwelpeter,50,4,0.15059121392857686,0.08
 44,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -330,7 +330,7 @@ Mehlstaub:
 Liej nit, Frau.
 
           
-",bastian-struwelpeter,4,1,0.585,0.25
+",6,bastian-struwelpeter,4,1,0.585,0.25
 45,tale,E Müller,M,,,,"
             
 Müllere :
@@ -342,7 +342,7 @@ Müllere :
 Ich hab 'ne sogar emol in d’Aepfelkammer gschberrt.
 
           
-",bastian-struwelpeter,13,1,0.6325528117830095,0.07692307692307693
+",6,bastian-struwelpeter,13,1,0.6325528117830095,0.07692307692307693
 46,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -351,7 +351,7 @@ Mehlstaub:
 Wo d’Confitürhäfe stehn. Ja, diss isch d'r richtig Platz for ze strofe. Frau, Frau, dü bisch nit ze kuriere. Dü verdeck’sch sini Bosheite, sini Spitzbuewereie. Awer wart, Büerschtel, dissmol raucht’s, dissmol danzt d'r Stock uff dim
 
           
-",bastian-struwelpeter,39,7,0.08605212224490107,0.1794871794871795
+",6,bastian-struwelpeter,39,7,0.08605212224490107,0.1794871794871795
 47,tale,E Müller,M,,,,"
             
 Müllere:
@@ -360,7 +360,7 @@ Müllere:
 Hossebodde erum, dass-es klebbert, un nit ze knapp. Kleb. bere muess-es! : Der arm Bue.
 
           
-",bastian-struwelpeter,15,2,0.492,0.13333333333333333
+",6,bastian-struwelpeter,15,2,0.492,0.13333333333333333
 48,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -369,7 +369,7 @@ Mehlstaub:
 Stille will ich han.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",6,bastian-struwelpeter,5,1,0.0,0.2
 49,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -378,7 +378,7 @@ Lehrer:
 Maischter, wenn ich Euch e gueter Rot derf gänn, lonn ’ne e schwers Handwerik lehre — dass-em d’Ribbe krache. Grobschmidt, odder —
 
           
-",bastian-struwelpeter,24,8,0.0702576843958196,0.3333333333333333
+",7,bastian-struwelpeter,24,8,0.0702576843958196,0.3333333333333333
 51,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -390,7 +390,7 @@ Mehlstaub:
 Frau!
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",7,bastian-struwelpeter,8,1,0.0,0.125
 52,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -399,7 +399,7 @@ Lehrer:
 Odder Staanhauer, Zimmermann, Pfläschterer.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",7,bastian-struwelpeter,5,1,0.0,0.2
 53,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -409,7 +409,7 @@ Odder Mehlsäck furtdraaue wie unser Esel. Au guet.
 (Priest.)
 
           
-",bastian-struwelpeter,12,2,0.0,0.16666666666666666
+",7,bastian-struwelpeter,12,2,0.0,0.16666666666666666
 55,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -418,7 +418,7 @@ Mehlstaub:
 Bedüür ‘ne numme, diner Herzkäfer.
 
           
-",bastian-struwelpeter,6,1,0.576,0.16666666666666666
+",7,bastian-struwelpeter,6,1,0.576,0.16666666666666666
 56,tale,Mayküechel,F,,,,"
             
 Mayküechel :
@@ -430,7 +430,7 @@ Mayküechel :
 Maischter Mehlstaub, wo isch’r?
 
           
-",bastian-struwelpeter,8,2,0.0,0.25
+",8,bastian-struwelpeter,8,2,0.0,0.25
 58,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -439,7 +439,7 @@ Mayküechel:
 Euer frech Bue. Er het mer e Schieb yngeworfe
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",8,bastian-struwelpeter,10,1,0.0,0.1
 60,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -448,7 +448,7 @@ Mayküechel:
 Un wie ich gsaat hab, die zahlt awer diner Vadder, hett’r mer e langi Nas gemacht un het gsunge: Mayküechel, Crinolin, D’Schieb isch hin, uff d'r Büehn.
 
           
-",bastian-struwelpeter,29,5,0.20189029511970902,0.1724137931034483
+",8,bastian-struwelpeter,29,5,0.20189029511970902,0.1724137931034483
 61,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -457,7 +457,7 @@ Mehlstaub:
 Höersch’s, wie’r schön singe kann.
 
           
-",bastian-struwelpeter,7,2,0.00449999999999995,0.2857142857142857
+",8,bastian-struwelpeter,7,2,0.00449999999999995,0.2857142857142857
 63,tale,Biereschnitz,F,,,,"
             
 Biereschnitz :
@@ -469,7 +469,7 @@ Biereschnitz :
 Wo isch Euer Nixnutz, Müller?
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",9,bastian-struwelpeter,10,1,0.0,0.1
 65,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -478,7 +478,7 @@ Biereschnitz:
 Er hett unserem brave Bello, unserem Hund, e Sprenzkann an de Waddel gebunde.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",9,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 66,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -487,7 +487,7 @@ Mehlstaub:
 Hôersch’s, Frau, e Sprenzkann. Do hesch sin guet Herz.
 
           
-",bastian-struwelpeter,11,2,0.0,0.18181818181818182
+",9,bastian-struwelpeter,11,2,0.0,0.18181818181818182
 69,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -496,7 +496,7 @@ Mehlstaub:
 Ja, es wurde noch meh klebbere, Frau Biereschnitz. Was hör ich? Ich glaab, Ihr halte noch zuem.
 
           
-",bastian-struwelpeter,18,3,0.0,0.16666666666666666
+",9,bastian-struwelpeter,18,3,0.0,0.16666666666666666
 71,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -505,7 +505,7 @@ Biereschnitz:
 Un wie d'r Gendarm Açavoyons um’s Eck erum kumme isch, isch-em d'r Hund zwische d’Baan gerennt. Wer fallt-anne wie e Mehlsack, isch d'r Gendarm un verschlaat
 
           
-",bastian-struwelpeter,29,1,0.0,0.034482758620689655
+",10,bastian-struwelpeter,29,1,0.0,0.034482758620689655
 72,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -514,7 +514,7 @@ Mehlstaub:
 sich d’Nas mitsammt d'r Brill. Jesses, was sin diss for Sache. Gröuj Hoor macht mir der Lüüser.
 
           
-",bastian-struwelpeter,19,4,0.0,0.21052631578947367
+",10,bastian-struwelpeter,19,4,0.0,0.21052631578947367
 73,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -523,7 +523,7 @@ Lehrer:
 Maischter, sachte, sachte.
 
           
-",bastian-struwelpeter,4,2,0.0,0.5
+",10,bastian-struwelpeter,4,2,0.0,0.5
 74,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -532,7 +532,7 @@ Biereschnitz:
 Mache Euch uff e saftiges Protokoll gfasst.
 
           
-",bastian-struwelpeter,8,2,0.0,0.25
+",10,bastian-struwelpeter,8,2,0.0,0.25
 75,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -541,7 +541,7 @@ Mehlstaub:
 Au diss noch. Ich verlier noch d'r Kopf. Maischter, diss isch gefährlich, wenn Ihr ken zweiter han.
 
           
-",bastian-struwelpeter,18,3,0.21366666666666667,0.16666666666666666
+",10,bastian-struwelpeter,18,3,0.21366666666666667,0.16666666666666666
 76,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -551,7 +551,7 @@ Zell isch wohr. Numme d’Ruehj un d'Uewerlajung kann’s mache. Yan
 (Yun drüsse.)
 
           
-",bastian-struwelpeter,18,2,0.0,0.1111111111111111
+",10,bastian-struwelpeter,18,2,0.0,0.1111111111111111
 79,tale,E Müller,M,,,,"
             
 Müllere :
@@ -563,7 +563,7 @@ Müllere :
 Bscht! Bscht! Versteckel dich schnell.
 
           
-",bastian-struwelpeter,9,2,0.3338253082176004,0.2222222222222222
+",11,bastian-struwelpeter,9,2,0.3338253082176004,0.2222222222222222
 80,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -573,7 +573,7 @@ Lueje, wie d'r Kaminfäjer ’ne suecht. Er verliert d'r links Schlabbe. Hoha!
 (Alli lache)
 
           
-",bastian-struwelpeter,17,1,0.0,0.058823529411764705
+",11,bastian-struwelpeter,17,1,0.0,0.058823529411764705
 81,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -585,7 +585,7 @@ Strüwelpeter :
 Muedder! Muedder!
 
           
-",bastian-struwelpeter,8,2,0.016,0.25
+",11,bastian-struwelpeter,8,2,0.016,0.25
 85,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -597,7 +597,7 @@ Strüwelpeter :
 e langi Nas, schlicht in de Uehrekaschte.
 
           
-",bastian-struwelpeter,14,2,0.2265,0.14285714285714285
+",12,bastian-struwelpeter,14,2,0.2265,0.14285714285714285
 86,tale,E Müller,M,,,,"
             
 Müllere:
@@ -607,7 +607,7 @@ Bscht! Bscht!
 (Macht d'r Uehrekaschte zue, un stellt sich vor d'r grosse Kaschte.)
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",12,bastian-struwelpeter,16,2,0.0,0.125
 87,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -616,7 +616,7 @@ Mayküechel:
 Jetzt stulbert’r annoch üewer d’Leiter. Haha!
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",12,bastian-struwelpeter,8,1,0.0,0.125
 93,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -625,7 +625,7 @@ Strüwelpeter:
 Ja, Frau Crinolin.
 
           
-",bastian-struwelpeter,4,1,0.0,0.25
+",13,bastian-struwelpeter,4,1,0.0,0.25
 97,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -637,7 +637,7 @@ Strüwelpeter:
 In d'r Hütt bis üewer d’Ohre, sunscht wär-er verlore. Bscht! Bscht!
 
           
-",bastian-struwelpeter,18,1,0.0,0.05555555555555555
+",13,bastian-struwelpeter,18,1,0.0,0.05555555555555555
 98,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -647,7 +647,7 @@ So e Frechheit, so e.
 (Priest.)
 
           
-",bastian-struwelpeter,9,2,0.0,0.2222222222222222
+",14,bastian-struwelpeter,9,2,0.0,0.2222222222222222
 99,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -657,7 +657,7 @@ Unter’'m Tisch lejt siner Schuelersack.
 (Alli laufe an de Tisch, lueje nab.)
 
           
-",bastian-struwelpeter,16,1,0.328,0.0625
+",14,bastian-struwelpeter,16,1,0.328,0.0625
 102,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -666,7 +666,7 @@ Kaminfäjer:
 Maischter Mehlstaub, wo isch Euer Lüüser?
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",14,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 103,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -675,7 +675,7 @@ Mehlstaub:
 Mer sueche ’ne grad.
 
           
-",bastian-struwelpeter,5,2,0.0,0.4
+",14,bastian-struwelpeter,5,2,0.0,0.4
 104,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -684,7 +684,7 @@ Kaminfäjer:
 Miner Zorn wachst mer üewer d'r Cylinder. Alli Buewe hett’r uffgschtift, un ruefe mer: Kaminfäjer, Steckele- dräjer, Herdlochbutzer, Ziwelesehlutzer. D'r schwarz Schweis lauft mer an d'r Stirn eraa for lütter Nervezucke.
 
           
-",bastian-struwelpeter,33,5,0.075,0.15151515151515152
+",14,bastian-struwelpeter,33,5,0.075,0.15151515151515152
 105,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -693,7 +693,7 @@ Lehrer:
 Herr Kaminfäjermaischter, reje Euch nit uff, es. könnt vun Schade sin.
 
           
-",bastian-struwelpeter,12,4,0.0,0.3333333333333333
+",15,bastian-struwelpeter,12,4,0.0,0.3333333333333333
 106,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -702,7 +702,7 @@ Kaminfäjer:
 Herr Lehrer, miner Zorn wachst als meh.
 
           
-",bastian-struwelpeter,8,4,0.0,0.5
+",15,bastian-struwelpeter,8,4,0.0,0.5
 107,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -711,7 +711,7 @@ Lehrer:
 Numme d’Ruehj kann’s mache.
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",15,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 108,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -720,7 +720,7 @@ Kaminfäjer:
 Wenn ich e Zorn hab, no wurr ich gfährlich. Un Ihr Müller, Ihr sin-an-allem d’Schuld. Ihr han denne Bue letz ufigezöüje, Ihr g’hörte mit 'me Hewel traktiert.
 
           
-",bastian-struwelpeter,29,4,0.16025,0.13793103448275862
+",15,bastian-struwelpeter,29,4,0.16025,0.13793103448275862
 109,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -729,7 +729,7 @@ Mehlstaub:
 Diss fehlt mer grad noch. Saawe so ebbs jo nimi, sunscht —
 
           
-",bastian-struwelpeter,13,2,0.33688909199886974,0.15384615384615385
+",15,bastian-struwelpeter,13,2,0.33688909199886974,0.15384615384615385
 110,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -738,7 +738,7 @@ Kaminfäjer:
 Ich verlang, dass Ihr denne Boswicht vor mine Aue verprejle, dass-em schwach wurd.
 
           
-",bastian-struwelpeter,14,3,0.35554534381887853,0.21428571428571427
+",15,bastian-struwelpeter,14,3,0.35554534381887853,0.21428571428571427
 112,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -747,7 +747,7 @@ Biereschnitz:
 Schad for d’Streich, wo näwetsnüss falle.
 
           
-",bastian-struwelpeter,8,2,0.5060178186053071,0.25
+",16,bastian-struwelpeter,8,2,0.5060178186053071,0.25
 113,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -756,7 +756,7 @@ Lehrer:
 Horche, Herr Kaminfejermaischter, ich glaab d’bescht Strof wär, wenn Ihr d'r Peter däte in d’Lehr näme. !
 
           
-",bastian-struwelpeter,19,5,0.12047297114286148,0.2631578947368421
+",16,bastian-struwelpeter,19,5,0.12047297114286148,0.2631578947368421
 114,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -765,7 +765,7 @@ Kaminfäjer:
 Ich denne als Lehrbue? Pfui, er isch mer viel ze drecket.
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",16,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 119,tale,E Müller,M,,,,"
             
 Müllere:
@@ -774,7 +774,7 @@ Müllere:
 Ejo, ihr brüehle alli so arig, dass mer sin aje Wort nim hört.
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",17,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 121,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -786,7 +786,7 @@ Still, ich hab's. Weg, Frau, weg!
 (Alli: « Aha »)
 
           
-",bastian-struwelpeter,28,6,0.19651213076050564,0.21428571428571427
+",17,bastian-struwelpeter,28,6,0.19651213076050564,0.21428571428571427
 123,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub :
@@ -799,7 +799,7 @@ Do hinne, kumme, dohinne!
 (Alli laufe an d’Tüer rechts.)
 
           
-",bastian-struwelpeter,16,1,0.0,0.0625
+",17,bastian-struwelpeter,16,1,0.0,0.0625
 124,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -811,7 +811,7 @@ Strüwelpeter :
 Aprillegschirr!
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",17,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 127,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer :
@@ -823,7 +823,7 @@ Maischter, im Uehrekaschte!
 (Ali uff de Zeh anne.)
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",18,bastian-struwelpeter,16,2,0.0,0.125
 128,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -834,7 +834,7 @@ Strüwelpeter
 .
 
           
-",bastian-struwelpeter,11,1,0.328,0.09090909090909091
+",18,bastian-struwelpeter,11,1,0.328,0.09090909090909091
 129,tale,Frau Mehlstaub,F,,,,"
             
 Mehistaub:
@@ -844,7 +844,7 @@ Isch’s möglieh, do isch’r au nit. Still, ich hör ebbs wischble. Do, do, un
 (Alli grattle hinterenand unter d'r Tisch un ruefe: «Jetzt awer druff ».)
 
           
-",bastian-struwelpeter,32,2,0.164,0.0625
+",18,bastian-struwelpeter,32,2,0.164,0.0625
 131,tale,Frau Mehlstaub,F,,,,"
             
 Mehistaub:
@@ -855,7 +855,7 @@ Halt!, Männel, jetzt klebberts.
  Dü bisch näwe d’Schuel, wo hesch dich erumgetriewe?
 
           
-",bastian-struwelpeter,23,3,0.0,0.13043478260869565
+",18,bastian-struwelpeter,23,3,0.0,0.13043478260869565
 133,tale,Frau Mehlstaub,F,,,,"
             
 Mehistaub:
@@ -867,7 +867,7 @@ Mehistaub:
 Wart ich lehr dich nierjets ze sin.
 
           
-",bastian-struwelpeter,12,2,0.0,0.16666666666666666
+",19,bastian-struwelpeter,12,2,0.0,0.16666666666666666
 134,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -876,7 +876,7 @@ Strüwelpeter:
 Vadder, nit schlaaue, ich hab e Knübbe hinte.
 
           
-",bastian-struwelpeter,9,2,0.0,0.2222222222222222
+",19,bastian-struwelpeter,9,2,0.0,0.2222222222222222
 135,tale,Frau Mehlstaub,F,,,,"
             
 Mehistaub:
@@ -887,7 +887,7 @@ Ich kenn nix.
  So, diss isch for’s Schuel- schwänze, diss isch for’s Schiebinwerfe, diss isch for de Hund mit d'r Sprenzkann am Waddel.
 
           
-",bastian-struwelpeter,31,1,0.0,0.03225806451612903
+",19,bastian-struwelpeter,31,1,0.0,0.03225806451612903
 136,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -896,7 +896,7 @@ Strüwelpeter:
 Au, au, halte Vadder.
 
           
-",bastian-struwelpeter,5,2,0.0,0.4
+",19,bastian-struwelpeter,5,2,0.0,0.4
 139,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -905,7 +905,7 @@ Mehlstaub:
 Dir trieb ich dinni Streich üss, dir, halt — was, was hört mer denn schättere?
 
           
-",bastian-struwelpeter,16,2,0.2827442727412029,0.125
+",19,bastian-struwelpeter,16,2,0.2827442727412029,0.125
 140,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -914,7 +914,7 @@ Strüwelpeter:
 Es kummt vum Knübbe, Vadder.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",20,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 142,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -924,7 +924,7 @@ So e Spitzbue.
 (Priest.)
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",20,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 143,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub :
@@ -938,7 +938,7 @@ Dich solle d’Ente vertrette. So, jetzt wurd’s andersch ohne Knübbe. D’Vor
 , glich druff d'r Gendarm, im blöüje Blüüs, wissi Hosse, Zweispitz uff, e Sawel umghengt. Er het e roti Nas,
 
           
-",bastian-struwelpeter,45,2,0.0,0.044444444444444446
+",20,bastian-struwelpeter,45,2,0.0,0.044444444444444446
 144,tale,Schang,M,,,,"
             
 Schang:
@@ -947,7 +947,7 @@ Schang:
 Maischter, er kummt im Galopp ze renne.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",20,bastian-struwelpeter,8,1,0.0,0.125
 145,tale,Natz,M,,,,"
             
 Naz:
@@ -956,7 +956,7 @@ Naz:
 Maischter, d'r Gendarm! D’r Açavoyons!
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",20,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 149,tale,Frau Mehlstaub,F,,,,"
             
 Mehlstaub:
@@ -966,7 +966,7 @@ Mehlstaub:
  Er isch durichgewitscht.
 
           
-",bastian-struwelpeter,17,2,0.0,0.11764705882352941
+",21,bastian-struwelpeter,17,2,0.0,0.11764705882352941
 152,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Kaminfäjer:
@@ -982,7 +982,7 @@ Es nutzt mich alles nix. Ich muess miner Zorn ab- küehle, sunscht brennt’s. I
 (D’r Kaminfäjer un d’Müller betrachte sich e Wiel, lache unbändig.)
 
           
-",bastian-struwelpeter,62,10,0.0391,0.16129032258064516
+",21,bastian-struwelpeter,62,10,0.0391,0.16129032258064516
 153,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -991,7 +991,7 @@ Strüwelpeter :
 (lüejt ziem Fenster rächts eryn, lacht un batscht in d’Händ. — Rideau. — End vum 1. Bild.
 
           
-",bastian-struwelpeter,20,1,0.0,0.05
+",21,bastian-struwelpeter,20,1,0.0,0.05
 154,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1014,7 +1014,7 @@ Bonjour Kamerädle! Han’r gsehne, wie ich d’Blechbüechs verhaue hab bekumme
 (macht e’re d'r Reif üewer de Kopf, zeihjt dran, ver- schmiert e’re Gsicht schwarz.)
 
           
-",bastian-struwelpeter,132,9,0.041666666666666664,0.06818181818181818
+",22,bastian-struwelpeter,132,9,0.041666666666666664,0.06818181818181818
 155,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -1026,7 +1026,7 @@ Hilf! Hilf! Raiwer! Raiwer!
 (Macht s’Fenster zue.)
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",22,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 157,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter 
@@ -1035,7 +1035,7 @@ Strüwelpeter
 (macht s’nämlich.)
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",22,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 160,tale,Charlot,M,,,,"
             
 Charlot :
@@ -1048,7 +1048,7 @@ Ah, dü bisch’s, Strüwel- peter. Was gibt’s Neijs? Kumm Isabella.
 (Gehn vor an d’Scène.)
 
           
-",bastian-struwelpeter,27,1,0.0,0.037037037037037035
+",22,bastian-struwelpeter,27,1,0.0,0.037037037037037035
 161,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1057,7 +1057,7 @@ Strüwelpeter :
 Hesch dir’s üewerlajt, was ich dir gsaat hab?
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",23,bastian-struwelpeter,10,1,0.0,0.1
 162,tale,Charlot,M,,,,"
             
 Charlot :
@@ -1066,7 +1066,7 @@ Charlot :
 Ja, ich un min Schwesterle wölle schun. Waisch, mir sin Waiselkinder.
 
           
-",bastian-struwelpeter,12,2,0.367,0.16666666666666666
+",23,bastian-struwelpeter,12,2,0.367,0.16666666666666666
 163,tale,Isabella,F,,,,"
             
 Isabella:
@@ -1075,7 +1075,7 @@ Isabella:
 D’r Clowe Crie und d'r Crac macht au mit. Villicht noch d'r Athlet Boyon.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",23,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 165,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1084,7 +1084,7 @@ Strüwelpeter:
 Was nit? Armi Schlucker, Dummköpf! Was ver- diene ihr denn?
 
           
-",bastian-struwelpeter,12,3,0.18733333333333335,0.25
+",23,bastian-struwelpeter,12,3,0.18733333333333335,0.25
 171,tale,Isabella,F,,,,"
             
 Isabella
@@ -1093,7 +1093,7 @@ Isabella
 Mir han allewiel Hunger. Wenn unser Direkter nix verdient, muehn mer als an de Bach unser Esse fische, sunscht däte mer verhungere.
 
           
-",bastian-struwelpeter,23,3,0.0,0.13043478260869565
+",24,bastian-struwelpeter,23,3,0.0,0.13043478260869565
 172,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1102,7 +1102,7 @@ Strüwelpeter:
 Gschieht euch ganz erächt. Ihr g’hörte ch» ver- haue d’rzue.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",24,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 174,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1111,7 +1111,7 @@ Strüwelpeter:
 Hör, Charlot, wie ich dir schun gsaat hab. Dü un dini Kamerade un ich, mache e Zirik mitnander. Ich wurr Zirikdirekter, un dü wursch Stallmeischter odder sunscht ebbs. Witte? Un din Schwesterle wurd Kunstrittere. Witte?
 
           
-",bastian-struwelpeter,36,2,0.0,0.05555555555555555
+",24,bastian-struwelpeter,36,2,0.0,0.05555555555555555
 175,tale,Isabella,F,,,,"
             
 Isabella:
@@ -1120,7 +1120,7 @@ Isabella:
 Ja gehsch nimi in d’Schuel?
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",25,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 176,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1129,7 +1129,7 @@ Strüwelpeter:
 Naan. Ich riss üss, furt in d’gross Welt.
 
           
-",bastian-struwelpeter,10,1,0.6785145954737154,0.1
+",25,bastian-struwelpeter,10,1,0.6785145954737154,0.1
 177,tale,Isabella,F,,,,"
             
 Isabella:
@@ -1138,7 +1138,7 @@ Isabella:
 Bisch schun gscheid genue?
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",25,bastian-struwelpeter,5,1,0.0,0.2
 178,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1147,7 +1147,7 @@ Strüwelpeter:
 E paaar Pfund schwer. Ich kann mini Gscheidheit mit-em Meter messe.
 
           
-",bastian-struwelpeter,12,4,0.0985,0.3333333333333333
+",25,bastian-struwelpeter,12,4,0.0985,0.3333333333333333
 179,tale,Charlot,M,,,,"
             
 Charlot:
@@ -1156,7 +1156,7 @@ Charlot:
 Mach d’Litt nit lache. $trüwelpeter: Glaub mir, ich kann Pferd, Hund un Katze dres- sıere. Charlot Au Flöh un Löwe?
 
           
-",bastian-struwelpeter,23,4,0.0,0.17391304347826086
+",25,bastian-struwelpeter,23,4,0.0,0.17391304347826086
 180,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1165,7 +1165,7 @@ Strüwelpeter:
 kann ich. Uewerlaj dr’s nit lang. Mir könne derno läwe wie Prinze. Esse, trinke, Cigarettle rauche, un verdiene jede Daa e Grumbeeresack voll Geld. Un dü, Isabella, könnscht Bonbon schluzze un Biscuit esse, so viel ass dü witt.
 
           
-",bastian-struwelpeter,40,5,0.0906,0.125
+",25,bastian-struwelpeter,40,5,0.0906,0.125
 183,tale,Isabella,F,,,,"
             
 Isabella:
@@ -1174,7 +1174,7 @@ Isabella:
 Gfitzt wär’s jo, awer es geht nit. Wenn mer verwitscht däte wäre. Jojo!
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",26,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 184,tale,Charlot,M,,,,"
             
 Charlot:
@@ -1183,7 +1183,7 @@ Charlot:
 No könnte mir ebbs erläwe. D’r Direkter Gummielastigum isch nit süüfer. Strüwelpeter! Dü, ich kenn e alti Hex im Wald. Die hett e Zaubertee. Wenn mer vun dem e Schluck trinkt, kann mer verschwinde, ohne dass ane ebber sieht.
 
           
-",bastian-struwelpeter,40,5,0.0,0.125
+",26,bastian-struwelpeter,40,5,0.0,0.125
 187,tale,Isabella,F,,,,"
             
 Isabella:
@@ -1192,7 +1192,7 @@ Isabella:
 Dü liejsch, dü liejsch sicher.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",26,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 188,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1201,7 +1201,7 @@ Strüwelpeter:
 Gelöüje hab ich au schun. Awer dissmol nit. Charlot: D’Hand uff’s Herz.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",26,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 189,tale,Charlot,M,,,,"
             
 Charlot:
@@ -1210,7 +1210,7 @@ Charlot:
 D’Hand uff’s Herz.
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",27,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 190,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter  :
@@ -1222,7 +1222,7 @@ Strüwelpeter  :
 Do will ich blind wäre, wenn’s nit wohr isch. Also sei gscheid, redd mit dine Kamerade. Ich geh hitt noch in de Wald zue dr Hex Spitz- nas, for denne Zaubertee zu hole. No awer herzhaft ge- trunke, un hui, sin’r verschwunde.
 
           
-",bastian-struwelpeter,52,7,0.0,0.1346153846153846
+",27,bastian-struwelpeter,52,7,0.0,0.1346153846153846
 191,tale,Charlot,M,,,,"
             
 Charlot:
@@ -1232,7 +1232,7 @@ Bscht! Ich hör unsere Direkter kumme. Salü Strüwel- peter!
 (Nämt Isabella an d'r Hand, ab in d’Büdik.)
 
           
-",bastian-struwelpeter,22,2,0.0,0.09090909090909091
+",27,bastian-struwelpeter,22,2,0.0,0.09090909090909091
 193,tale,Tete,M,,,,"
             
 Direkter:
@@ -1241,7 +1241,7 @@ Direkter:
 Was mach’sch denn dü do?
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",27,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 194,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1250,7 +1250,7 @@ Strüwelpeter:
 Nix, Here Direkter Gummielastigum.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",27,bastian-struwelpeter,5,1,0.0,0.2
 195,tale,Tete,M,,,,"
             
 Direkter:
@@ -1259,7 +1259,7 @@ Direkter:
 Nix? Bass uff Männel, ich hab dich doch höre redde mit-em Charlot un d'r Isabella.
 
           
-",bastian-struwelpeter,16,3,0.0,0.1875
+",27,bastian-struwelpeter,16,3,0.0,0.1875
 197,tale,Tete,M,,,,"
             
 Direkter:
@@ -1268,7 +1268,7 @@ Direkter:
 Geh haam un wäsch dich. Dü siehsch nit ganz süüfer drin.
 
           
-",bastian-struwelpeter,12,3,0.0,0.25
+",28,bastian-struwelpeter,12,3,0.0,0.25
 198,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1277,7 +1277,7 @@ Strüwelpeter:
 So? Na, jetzt en ich zue mine Kamerade, un saa ne, sie solle nimi in dini Büdik kumme. No hesch d'r Profit. Adie.
 
           
-",bastian-struwelpeter,24,4,0.10424849621884805,0.16666666666666666
+",28,bastian-struwelpeter,24,4,0.10424849621884805,0.16666666666666666
 199,tale,Tete,M,,,,"
             
 Direkter:
@@ -1286,7 +1286,7 @@ Direkter:
 He, Männel, he, mach mer ken Plän. Do hesch zwei Grosche. Saasch, alli solle kumme, Kinder, Babbe, Mame, Grossbabbe, Grossmame. N
 
           
-",bastian-struwelpeter,22,8,0.002,0.36363636363636365
+",28,bastian-struwelpeter,22,8,0.002,0.36363636363636365
 200,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1296,7 +1296,7 @@ Diss isch jetzt gscheid. Merci, Herr Direkter!
 (Pfifft, ab hinter’s Zelt.)
 
           
-",bastian-struwelpeter,15,3,0.0,0.2
+",28,bastian-struwelpeter,15,3,0.0,0.2
 201,tale,Tete,M,,,,"
             
 Direkter:
@@ -1308,7 +1308,7 @@ Dess Büerschtel het ebbs vor. Do heisst's uffgebasst. He, Charlot, Isabella.
 (Mache Müsik, links ab.)
 
           
-",bastian-struwelpeter,44,4,0.004,0.09090909090909091
+",28,bastian-struwelpeter,44,4,0.004,0.09090909090909091
 202,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1318,7 +1318,7 @@ Ihr Mensche wenn ihr wüsste was e Herzeleid ich draa, Un g’hetzt, verlacht, v
 (Wider helli Beleichtung.)
 
           
-",bastian-struwelpeter,84,11,0.1183839969818004,0.13095238095238096
+",28,bastian-struwelpeter,84,11,0.1183839969818004,0.13095238095238096
 203,tale,Zirikdiener in Gala,U,,,,"
             
 Kinder :
@@ -1330,7 +1330,7 @@ Kinder :
 Alti Hex, alti Hex.
 
           
-",bastian-struwelpeter,9,4,0.0,0.4444444444444444
+",29,bastian-struwelpeter,9,4,0.0,0.4444444444444444
 204,tale,Spitznas,F,,,,"
             
 Spitznas :
@@ -1342,7 +1342,7 @@ Spitznas :
 Warte nume, ihr bösi Kinder. Tee! Tee! Wer kauft Tee? Sin ihr au Kinder? Naan, ihr sin Littschinder.
 
           
-",bastian-struwelpeter,24,5,0.10663742627963071,0.20833333333333334
+",29,bastian-struwelpeter,24,5,0.10663742627963071,0.20833333333333334
 205,tale,Zirikdiener in Gala,U,,,,"
             
 Kinder :
@@ -1354,7 +1354,7 @@ Kinder :
 Alti Hex, Spitznas, alti Hex.
 
           
-",bastian-struwelpeter,12,4,0.0,0.3333333333333333
+",29,bastian-struwelpeter,12,4,0.0,0.3333333333333333
 206,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1365,7 +1365,7 @@ Warte nume.
  Wenn ich besser laufe könnt, Gnad euch.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",29,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 207,tale,E Büürefrau,F,,,,"
             
 E Bue:
@@ -1376,7 +1376,7 @@ Alti Hex, Alti Gäx, G’hörsch gedaift, Im Bach versaift! Alti Hex, Alti Gäx!
 .
 
           
-",bastian-struwelpeter,21,4,0.0,0.19047619047619047
+",29,bastian-struwelpeter,21,4,0.0,0.19047619047619047
 208,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1385,7 +1385,7 @@ Strüwelpeter:
 Was isch denn do los? Wölle ihr die alt Frau in Ruehj lonn.
 
           
-",bastian-struwelpeter,14,3,0.18735382505551892,0.21428571428571427
+",29,bastian-struwelpeter,14,3,0.18735382505551892,0.21428571428571427
 209,tale,E Büürefrau,F,,,,"
             
 E Bue:
@@ -1394,7 +1394,7 @@ E Bue:
 He, d'r Strüwelpeter halt noch zue d'r Hex.
 
           
-",bastian-struwelpeter,10,2,0.0,0.2
+",29,bastian-struwelpeter,10,2,0.0,0.2
 210,tale,Zirikdiener in Gala,U,,,,"
             
 Kinder:
@@ -1403,7 +1403,7 @@ Kinder:
 He, Strüwelpeter.
 
           
-",bastian-struwelpeter,3,1,0.0,0.3333333333333333
+",30,bastian-struwelpeter,3,1,0.0,0.3333333333333333
 212,tale,Zirikdiener in Gala,U,,,,"
             
 Kinder:
@@ -1412,7 +1412,7 @@ Kinder:
 Strüwelpeter, stupf d'r Esel, no geht’r.
 
           
-",bastian-struwelpeter,7,2,0.094,0.2857142857142857
+",30,bastian-struwelpeter,7,2,0.094,0.2857142857142857
 213,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1426,7 +1426,7 @@ Als los! Kinder
 .
 
           
-",bastian-struwelpeter,17,5,0.11823317667184363,0.29411764705882354
+",30,bastian-struwelpeter,17,5,0.11823317667184363,0.29411764705882354
 214,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1435,7 +1435,7 @@ Spitznas:
 Schön vun dir, Peterle, dass dü mir g’holfe hesch. Bisch au e braver Bue.
 
           
-",bastian-struwelpeter,15,2,0.00449999999999995,0.13333333333333333
+",30,bastian-struwelpeter,15,2,0.00449999999999995,0.13333333333333333
 215,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1444,7 +1444,7 @@ Strüwelpeter:
 Brav? Maansch?
 
           
-",bastian-struwelpeter,3,1,0.0,0.3333333333333333
+",30,bastian-struwelpeter,3,1,0.0,0.3333333333333333
 216,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1453,7 +1453,7 @@ Strüwelpeter:
 Wo find ich denn d’Höll?
 
           
-",bastian-struwelpeter,7,2,0.35,0.2857142857142857
+",30,bastian-struwelpeter,7,2,0.35,0.2857142857142857
 217,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1464,7 +1464,7 @@ Jo, brav un au nit. Ich kenn dich
 . Dü hesch awer Strüwelhoor. Wart, ich bring dir e gueter Pumad, dass sie weich un fyn wäre wie Sied.
 
           
-",bastian-struwelpeter,33,5,0.0,0.15151515151515152
+",31,bastian-struwelpeter,33,5,0.0,0.15151515151515152
 220,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1474,7 +1474,7 @@ Ich hätt e anderer Wunsch.
 (M'r hört gedämpfti Zirikmüsik.)
 
           
-",bastian-struwelpeter,12,1,0.594,0.08333333333333333
+",31,bastian-struwelpeter,12,1,0.594,0.08333333333333333
 221,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1483,7 +1483,7 @@ Spitznas:
 Ich kenn diner Wunsch. Dü wottsch gern Zirik- direkter wäre.
 
           
-",bastian-struwelpeter,12,3,0.19799999999999998,0.25
+",31,bastian-struwelpeter,12,3,0.19799999999999998,0.25
 222,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1495,7 +1495,7 @@ Strüwelpeter :
 Ja... ja wo-woher waisch denn dü diss?
 
           
-",bastian-struwelpeter,11,3,0.22841696776206763,0.2727272727272727
+",31,bastian-struwelpeter,11,3,0.22841696776206763,0.2727272727272727
 223,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1504,7 +1504,7 @@ Spitznas:
 Ja, Bue, ich hab fyni Ohre, ich hör sogar e Floh hueschte.
 
           
-",bastian-struwelpeter,13,2,0.0,0.15384615384615385
+",31,bastian-struwelpeter,13,2,0.0,0.15384615384615385
 224,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1513,7 +1513,7 @@ Strüwelpeter:
 Könntsch dü mir e Zirik herhexe, e echter Zirik mit Pferd, un, un?
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",32,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 225,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1522,7 +1522,7 @@ Spitznas:
 E Zirik? E Kleinigkeit! Un wiel dü so friendlich zue mir bisch gsin, will ich dir denne Wunsch erfüelle.
 
           
-",bastian-struwelpeter,20,3,0.19799999999999998,0.15
+",32,bastian-struwelpeter,20,3,0.19799999999999998,0.15
 226,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1532,7 +1532,7 @@ For sicher un gewiss? Liewi Hex, for sicher, isch’s Wohrheit?
 (D’Müsik hört uff)
 
           
-",bastian-struwelpeter,18,7,0.002285714285714286,0.3888888888888889
+",32,bastian-struwelpeter,18,7,0.002285714285714286,0.3888888888888889
 227,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1541,7 +1541,7 @@ Spitznas:
 Jaja. Awer aan Bedingung isch d’rbie. Dü muehsch zerscht in d’Höll un im Deifel drei Hoor üss sim Bocksbart zowle. Die muehsch mir bringe.
 
           
-",bastian-struwelpeter,27,3,0.4090966248847647,0.1111111111111111
+",32,bastian-struwelpeter,27,3,0.4090966248847647,0.1111111111111111
 228,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1550,7 +1550,7 @@ Strüwelpeter:
 Hui! Die Kommission isch gfährlich. Gell, dü kannsch au e Verschwindibüstee koche? Wottsch dü mir denne gänn?
 
           
-",bastian-struwelpeter,18,3,0.21366666666666667,0.16666666666666666
+",32,bastian-struwelpeter,18,3,0.21366666666666667,0.16666666666666666
 230,tale,Zirikdiener in Gala,U,,,,"
             
 Kinder :
@@ -1562,7 +1562,7 @@ Kinder :
 Alti Hex, alti Gäx.
 
           
-",bastian-struwelpeter,9,3,0.0,0.3333333333333333
+",32,bastian-struwelpeter,9,3,0.0,0.3333333333333333
 231,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1572,7 +1572,7 @@ Zaj, gib mer diner Stock. Kinder
 (unter Gschrei ab.)
 
           
-",bastian-struwelpeter,12,4,0.22979147083980456,0.3333333333333333
+",33,bastian-struwelpeter,12,4,0.22979147083980456,0.3333333333333333
 232,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1581,7 +1581,7 @@ Strüwelpeter:
 Hesch gsehne, wie die geloffe sin? Awer hör, Frau, wenn ich diss mache dät, wie kumm ich widder üss d'r Höll?
 
           
-",bastian-struwelpeter,22,2,0.35,0.09090909090909091
+",33,bastian-struwelpeter,22,2,0.35,0.09090909090909091
 233,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1590,7 +1590,7 @@ Spitznas:
 Ei, wie dü die drei Hoor hesch.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",33,bastian-struwelpeter,8,1,0.0,0.125
 234,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1599,7 +1599,7 @@ Spitznas:
 Ich zaj dir d'r Wäj. Odider, wenn d’glich witt, kumm mit mir.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",33,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 235,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1608,7 +1608,7 @@ Spitznas:
 Strüweipeter: Hui, so schnell? Hesch amend Angscht?
 
           
-",bastian-struwelpeter,8,2,0.0,0.25
+",33,bastian-struwelpeter,8,2,0.0,0.25
 236,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1617,7 +1617,7 @@ Strüwelpeter:
 Angscht kenn ich nit. Ich hab nit emol Angscht for zwanzig Gendarme.
 
           
-",bastian-struwelpeter,13,2,0.0,0.15384615384615385
+",33,bastian-struwelpeter,13,2,0.0,0.15384615384615385
 237,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1626,7 +1626,7 @@ Spitznas:
 Hihihi, diss isch viel gsaat uff aanmol. Ich glaub dir’s awer erscht, wenn ich die drei Hoor hab. Hopp, dini Hand druff, es soll dich nit reje.
 
           
-",bastian-struwelpeter,29,3,0.0,0.10344827586206896
+",33,bastian-struwelpeter,29,3,0.0,0.10344827586206896
 238,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1635,7 +1635,7 @@ Strüwelpeter:
 Gueti Frau, ich will noch e Düür drüewer schlofe.
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",34,bastian-struwelpeter,10,1,0.0,0.1
 239,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1646,7 +1646,7 @@ Wie dü witt. Hehe. Angsthäsel.
  Angst- häsel, hehe!
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",34,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 241,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1655,7 +1655,7 @@ Strüwelpeter:
 Guete Daa Martin, kumm, ich füehr dich. Dü witt sicher e Schöbbel trinke.
 
           
-",bastian-struwelpeter,14,4,0.0,0.2857142857142857
+",34,bastian-struwelpeter,14,4,0.0,0.2857142857142857
 242,tale,Martin,M,,,,"
             
 Martin:
@@ -1664,7 +1664,7 @@ Martin:
 Nit gerote, Strüwelpeter. Ich hab ken Geld for so Sache.
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",34,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 244,tale,Martin,M,,,,"
             
 Martin:
@@ -1673,7 +1673,7 @@ Martin:
 Oho, wo hesch denn diss Geld her?
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",34,bastian-struwelpeter,8,1,0.0,0.125
 246,tale,Martin,M,,,,"
             
 Martin:
@@ -1682,7 +1682,7 @@ Martin:
 Merci. Bisch doch e gueter Bue. Dod’rfor kauf ich mir Brot. Füehr mich do an’s Eck, do gänn mer als d’Litt ebb’s in de Huet. Hesch mich emol üss-em Mühlbach gholt, wo ich nyngfalle bin. Jo, ich waiss-es noch guet. Ich will dir ebbs verrote. D’r Gendarm Açavoyons suecht dich, d'r Kaminfäjer au. Dini Mueter grient, un d'r Maischter Mehlstaub isch arig bös. Er het gsaat, der Lüüsbue kummt mer in e Besserungsanstalt. Was, Martin, in e Besserungsanstalt? Was isch denn diss?
 
           
-",bastian-struwelpeter,86,8,0.0686483914247692,0.09302325581395349
+",35,bastian-struwelpeter,86,8,0.0686483914247692,0.09302325581395349
 247,tale,Martin,M,,,,"
             
 Martin:
@@ -1691,7 +1691,7 @@ Martin:
 Ja, Männel, diss isch e grosses Hüss, wo d’böse Buewe annekumme. Dort muehn sie schaffe, dass-es buttert, un jede Daa gibt's Hewelandiffi, Stocksalat un langer Hawere.
 
           
-",bastian-struwelpeter,29,6,0.16436452189969228,0.20689655172413793
+",35,bastian-struwelpeter,29,6,0.16436452189969228,0.20689655172413793
 249,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -1700,7 +1700,7 @@ Ochsewirt:
 Strüwelpeter, kumm her! Gib mer acht uff d’Wirtschaft. Ich muess heidebritsch in d’Apethek. Minni Frau het Weh am grosse Zeh.
 
           
-",bastian-struwelpeter,23,3,0.22040798893326807,0.13043478260869565
+",35,bastian-struwelpeter,23,3,0.22040798893326807,0.13043478260869565
 250,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1709,7 +1709,7 @@ Strüwelpeter:
 Ja, wenn awer Litt kumme, soll ich sie bediene?
 
           
-",bastian-struwelpeter,10,2,0.0,0.2
+",35,bastian-struwelpeter,10,2,0.0,0.2
 251,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -1718,7 +1718,7 @@ Ochsewirt:
 Es wurd niemes kumme.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",35,bastian-struwelpeter,5,1,0.0,0.2
 252,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1727,7 +1727,7 @@ Strüwelpeter:
 Gib mer schnell dini Kabb un d'r Schurz, dass ich au üssich wie e Wirt.
 
           
-",bastian-struwelpeter,16,1,0.0,0.0625
+",36,bastian-struwelpeter,16,1,0.0,0.0625
 254,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1740,7 +1740,7 @@ Bonjour, Herr Ochsewirt!
 (Bliebt an d’r Tüer stehn.)
 
           
-",bastian-struwelpeter,17,1,0.0,0.058823529411764705
+",36,bastian-struwelpeter,17,1,0.0,0.058823529411764705
 255,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1749,7 +1749,7 @@ Mayküechel:
 Guete Daa, Käth!
 
           
-",bastian-struwelpeter,4,1,0.0,0.25
+",36,bastian-struwelpeter,4,1,0.0,0.25
 256,tale,Käth,F,,,,"
             
 Käth:
@@ -1758,7 +1758,7 @@ Käth:
 Buschur, Frau Mayküechel! Was belieabt?
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",36,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 261,tale,Käth,F,,,,"
             
 Käth:
@@ -1767,7 +1767,7 @@ Käth:
 Fufzeh Süü ’s Pfünd.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",37,bastian-struwelpeter,5,1,0.0,0.2
 262,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1776,7 +1776,7 @@ Mayküechel:
 Um’s Gottswille! Was saat Sie, Frau Biereschnitz?
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",37,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 263,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -1785,7 +1785,7 @@ Biereschnitz:
 Diss isch unverschämt, so Pries zu verlange for e Pfüendel Butter. Wo kumme mir Fraue anne mit unserem _ Hüssgeld?
 
           
-",bastian-struwelpeter,21,4,0.1485,0.19047619047619047
+",37,bastian-struwelpeter,21,4,0.1485,0.19047619047619047
 264,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1794,7 +1794,7 @@ Mayküechel:
 Horche, Kät, wenn Euri Hüehner wüesste, was e Ei koscht, däte sie for Hochmuet erumlaufe wie e Pfoo, un Euri Küehj däte sich in’s Bett laje mit siedene Umhängle un wotte mit Silverbschteck an d'r table d’höte esse.
 
           
-",bastian-struwelpeter,41,1,0.0,0.024390243902439025
+",37,bastian-struwelpeter,41,1,0.0,0.024390243902439025
 266,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1803,7 +1803,7 @@ Mayküechel:
 Jo, Plän vun Kapperschlabbersche! Was wölle n’r for diss Hüehnel?
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",38,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 269,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1812,7 +1812,7 @@ Mayküechel:
 Was, zwai Gulde? — Wenn ich e Stüehl hätt, dät ich mich setze vor Schrecke.
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",38,bastian-struwelpeter,16,2,0.0,0.125
 270,tale,Käth,F,,,,"
             
 Käth:
@@ -1821,7 +1821,7 @@ Käth:
 As esch frisch gemetzt un wejt füenf Pfünd.
 
           
-",bastian-struwelpeter,9,2,0.0,0.2222222222222222
+",38,bastian-struwelpeter,9,2,0.0,0.2222222222222222
 271,tale,Mayküechel,F,,,,"
             
 Mayküechel :
@@ -1833,7 +1833,7 @@ Mayküechel :
 Frisch gemetzt? Hm, es müchelt jo. Schmeckt Sie emol, Frau Biereschnitz. Biereschnitz! Es müchelt waier, Frau Mayküechel. Pfui!
 
           
-",bastian-struwelpeter,23,1,0.0,0.043478260869565216
+",38,bastian-struwelpeter,23,1,0.0,0.043478260869565216
 276,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -1842,7 +1842,7 @@ Açavoyons:
 Es wurd bekannt gemacht, dass e wüetiger Hund mit e’re Sprenzkann am Waddel im Städtel erumlauft, Alli Burjer wäre gewarnt. Wer gebisse wurd, isch kapores. Martin, hesch dü d'r Strüwelpeter gsehne?
 
           
-",bastian-struwelpeter,32,3,0.0,0.09375
+",39,bastian-struwelpeter,32,3,0.0,0.09375
 277,tale,Martin,M,,,,"
             
 Martin:
@@ -1851,7 +1851,7 @@ Martin:
 Wenn ich denne sehne könnt, dät ich lache.
 
           
-",bastian-struwelpeter,9,2,0.0,0.2222222222222222
+",39,bastian-struwelpeter,9,2,0.0,0.2222222222222222
 278,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -1860,7 +1860,7 @@ Açavoyons:
 Lache? Avec ga! Es wurd bekannt gemacht, dass e wüetigi Sprenzkann —
 
           
-",bastian-struwelpeter,13,5,0.09687629951401402,0.38461538461538464
+",39,bastian-struwelpeter,13,5,0.09687629951401402,0.38461538461538464
 279,tale,Mayküechel,F,,,,"
             
 Mayküechel:
@@ -1869,7 +1869,7 @@ Mayküechel:
 Ah, do ich d'r Gendarm. Herr Gendarm, kumme her un rieche an die Huehn ob die nit e Gschmäckel het for zeh Gulde.
 
           
-",bastian-struwelpeter,24,3,0.0,0.125
+",39,bastian-struwelpeter,24,3,0.0,0.125
 281,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -1878,7 +1878,7 @@ Biereschnitz:
 For was han Ihr denn e Nas? Mayküecheli Ich maan, sie ich doch gross genue, un derzue noch rot angeloffe.
 
           
-",bastian-struwelpeter,21,2,0.3392572977368577,0.09523809523809523
+",40,bastian-struwelpeter,21,2,0.3392572977368577,0.09523809523809523
 282,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -1887,7 +1887,7 @@ Açavoyons:
 Ihr Fraue, ken Beleidigung vun e’re staatsan- gschtellte Nas, sunscht, a ça voyons!
 
           
-",bastian-struwelpeter,15,1,0.594883609693283,0.06666666666666667
+",40,bastian-struwelpeter,15,1,0.594883609693283,0.06666666666666667
 283,tale,Biereschnitz,F,,,,"
             
 Biereschnitz:
@@ -1896,7 +1896,7 @@ Biereschnitz:
 Es isch amend nit wohr? Alli Burjer wisse-es.
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",40,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 284,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -1905,7 +1905,7 @@ Açavoyons:
 Wisse-es? Au nom de la loi, verhaft ich Euch. kumme mit uff’s Wachthüss. Kät, Ihr sin Zeije, Martin, dü bisch Zeije, Ochsewirt, Ihr au.
 
           
-",bastian-struwelpeter,26,2,0.0,0.07692307692307693
+",40,bastian-struwelpeter,26,2,0.0,0.07692307692307693
 285,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1917,7 +1917,7 @@ Guet, Herr Gendarm. Näme nume die zwai mit
 (Mayküechel un Biereschnitz wölle uff d'r Strüwelpeter los, wäre unter Protescht noch links abgführt.)
 
           
-",bastian-struwelpeter,28,6,0.05466666666666667,0.21428571428571427
+",40,bastian-struwelpeter,28,6,0.05466666666666667,0.21428571428571427
 286,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1926,7 +1926,7 @@ Spitznas:
 Ei luej do, d'r Strüwelpeter isch Wirt worre! Gell hesch Angscht vor mir?
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",40,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 288,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1935,7 +1935,7 @@ Spitznas:
 Jetzt hör emol. Ich hab schnell denne Tee gekochi un gib dir 'ne. Awer die drei Hoor muesch mer bringe in d’Zitt vun drei Daa. Wenn din Wort nit haltsch, so verhex ich dini Eltere, dass sie Katze wäre, un am vierte Daa loss ich dim Vadder d’Müehl abbrenne.
 
           
-",bastian-struwelpeter,52,7,0.08029449645236526,0.1346153846153846
+",41,bastian-struwelpeter,52,7,0.08029449645236526,0.1346153846153846
 289,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1944,7 +1944,7 @@ Strüwelpeter:
 ‘Was, mini Eltere Katze, un au noch d’Müehl ab- brenne? Naan, naan, alles ass diss nit.
 
           
-",bastian-struwelpeter,19,1,0.0,0.05263157894736842
+",41,bastian-struwelpeter,19,1,0.0,0.05263157894736842
 290,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1953,7 +1953,7 @@ Spitznas:
 Luej emol in miner Ruckkorb, do isch die Budell mit- em Zaubertee.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",41,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 291,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -1965,7 +1965,7 @@ Strüwelpeter :
 Ja, ich sieh sie, die Budell. J aja ich sieh sie. Spitznas: Witt sie? — Näm sie!
 
           
-",bastian-struwelpeter,22,1,0.0,0.045454545454545456
+",41,bastian-struwelpeter,22,1,0.0,0.045454545454545456
 295,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1974,7 +1974,7 @@ Spitznas:
 Hehe, Hasefuess, hehe. Un dü witt Zirikdirekter wäre? Bedenk dich nit lang, griff zue, ich verhelf dir au zue dem Zirik. Wenn dü in die gross Stadt kummsch hin-
 
           
-",bastian-struwelpeter,31,4,0.5352415177680652,0.12903225806451613
+",42,bastian-struwelpeter,31,4,0.5352415177680652,0.12903225806451613
 296,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -1983,7 +1983,7 @@ Strüwelpeter:
 term Wald, dort steht’r schun wie gewunsche. Sicher, ganz sicher?
 
           
-",bastian-struwelpeter,11,3,0.0,0.2727272727272727
+",42,bastian-struwelpeter,11,3,0.0,0.2727272727272727
 297,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -1992,7 +1992,7 @@ Spitznas:
 Ganz sicher. No bisch e stolzer Zirikdirekter, kannsch d’ganz Welt durichreise, un bisch e berüehmter Mann.
 
           
-",bastian-struwelpeter,18,5,0.0,0.2777777777777778
+",42,bastian-struwelpeter,18,5,0.0,0.2777777777777778
 298,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2001,7 +2001,7 @@ Strüwelpeter:
 Zell schun, awer, awer diss mit denne drei Hoor vum Deifel.
 
           
-",bastian-struwelpeter,12,2,0.2636449373271471,0.16666666666666666
+",42,bastian-struwelpeter,12,2,0.2636449373271471,0.16666666666666666
 299,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -2014,7 +2014,7 @@ Adie Peterle, hihi.
  Geh schämm dich, geh schämm dich. Hihi.
 
           
-",bastian-struwelpeter,30,2,0.4169939848753922,0.06666666666666667
+",42,bastian-struwelpeter,30,2,0.4169939848753922,0.06666666666666667
 300,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2023,7 +2023,7 @@ Strüwelpeter:
 Frau! Liewi Frau, hör doch.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",42,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 302,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2032,7 +2032,7 @@ Strüwelpeter:
 Ich versprech dir ze mache was dü verlangsch.
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",43,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 303,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -2041,7 +2041,7 @@ Spitznas:
 Endlich. Schwör, schwör: so wohr ass ich e Seel im Lyb hab.
 
           
-",bastian-struwelpeter,13,3,0.0,0.23076923076923078
+",43,bastian-struwelpeter,13,3,0.0,0.23076923076923078
 305,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -2050,7 +2050,7 @@ Spitznas:
 Nit eso. Mit d'r rechte Hand.
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",43,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 306,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2061,7 +2061,7 @@ Ich schwör, dass ich min Verspreche in d’Zitt vun drei Daa halt, so wohr als 
 : Merci.
 
           
-",bastian-struwelpeter,35,8,0.056625,0.22857142857142856
+",43,bastian-struwelpeter,35,8,0.056625,0.22857142857142856
 307,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -2072,7 +2072,7 @@ Vergess-es nit. Denk an d’Strof.
  Vergess-es nit.
 
           
-",bastian-struwelpeter,14,1,0.6023648557143074,0.07142857142857142
+",43,bastian-struwelpeter,14,1,0.6023648557143074,0.07142857142857142
 308,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2084,7 +2084,7 @@ Strüwelpeter :
 Soll ich sie wegwerfe, odder nit?
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",44,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 310,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2096,7 +2096,7 @@ Naan, ich bin ken Hasefuess.
 (ab.)
 
           
-",bastian-struwelpeter,36,3,0.0,0.08333333333333333
+",44,bastian-struwelpeter,36,3,0.0,0.08333333333333333
 311,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2111,7 +2111,7 @@ Was unseraaner alles üsszebisse het. Mon Dieu, un e Durscht, un e Hunger.
 (Klopft.)
 
           
-",bastian-struwelpeter,31,2,0.1095,0.06451612903225806
+",44,bastian-struwelpeter,31,2,0.1095,0.06451612903225806
 312,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2125,7 +2125,7 @@ O letz, d'r Açaavoyons!
  Was beliebt, Herr Gendarm? Açavoyons: Açavoyons! E Schobbe hab ich gsaat.
 
           
-",bastian-struwelpeter,26,3,0.0,0.11538461538461539
+",44,bastian-struwelpeter,26,3,0.0,0.11538461538461539
 313,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2135,7 +2135,7 @@ Glich, Herr Gendarm. Viel Schümm, Herr Gendarm?
 (Ab.)
 
           
-",bastian-struwelpeter,11,2,0.0,0.18181818181818182
+",44,bastian-struwelpeter,11,2,0.0,0.18181818181818182
 314,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2144,7 +2144,7 @@ Açavoyons:
 Schümm? Avecça! Nix, Bier will ich. Annoch bie denne Zitte.
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",44,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 315,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2157,7 +2157,7 @@ So, Herr Gendarm, Gsundheit!
 (Ab in Tüer.)
 
           
-",bastian-struwelpeter,28,3,0.0,0.10714285714285714
+",45,bastian-struwelpeter,28,3,0.0,0.10714285714285714
 316,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -2166,7 +2166,7 @@ Ochsewirt:
 Schmeckt’s, Herr Gendarm?
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",45,bastian-struwelpeter,5,1,0.0,0.2
 318,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -2175,7 +2175,7 @@ Ochsewirt:
 Ihr trumbiere Euch. Es isch ganz voll gsin, ich sieh’s am Schümm.
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",45,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 320,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -2184,7 +2184,7 @@ Ochsewirt:
 Ihr wäre’s in de Gedanke leer getrunke han.
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",45,bastian-struwelpeter,10,1,0.0,0.1
 323,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt:
@@ -2194,7 +2194,7 @@ Na, ich hol Euch e andere Schobbe.
 (ab.)
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",46,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 324,tale,Açavoyons,M,,,,"
             
 Açavoyons :
@@ -2206,7 +2206,7 @@ Açavoyons :
 Aha, d'r Strüwelpeter. En prison!
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",46,bastian-struwelpeter,10,1,0.0,0.1
 325,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2215,7 +2215,7 @@ Strüwelpeter:
 (schnell d’Leiter nuff.)
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",46,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 326,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2226,7 +2226,7 @@ Jetzt hett’s dich, jaja, gradel nume.
  Oweh, ’s wurd mer schwindlich, hewe mich, he- he- we mich.
 
           
-",bastian-struwelpeter,27,2,0.0,0.07407407407407407
+",46,bastian-struwelpeter,27,2,0.0,0.07407407407407407
 327,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2235,7 +2235,7 @@ Strüwelpeter:
 Ich hab ken Zitt, Herr Açavoyons.
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",46,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 330,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2244,7 +2244,7 @@ Açavoyons:
 Strüwelpeter, gib mer d’Hand, ich fall sunscht.
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",47,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 331,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2255,7 +2255,7 @@ Na, ich will dir helfe.
  Alle- hoppla!
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",47,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 333,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2266,7 +2266,7 @@ Noch nit
  Wenn d'r Laubfrosch uff d'r Leiter sitzt, gibt’s schön Wetter.
 
           
-",bastian-struwelpeter,23,3,0.0029999999999999667,0.13043478260869565
+",47,bastian-struwelpeter,23,3,0.0029999999999999667,0.13043478260869565
 334,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2275,7 +2275,7 @@ Açavoyons:
 Wart ich will dich laubfrosche. Avec ça!
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",47,bastian-struwelpeter,8,1,0.0,0.125
 335,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Ochsewirt :
@@ -2287,7 +2287,7 @@ Ochsewirt :
 Ich glaub, ihr zwai mache Gymnastik?
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",47,bastian-struwelpeter,16,2,0.0,0.125
 336,tale,Açavoyons,M,,,,"
             
 Açavoyons :
@@ -2300,7 +2300,7 @@ Jesses, d’Leiter bambelt. Gottseidank, unte sin mer.
 (Will ins Wirtshüss.)
 
           
-",bastian-struwelpeter,19,3,0.10933333333333334,0.15789473684210525
+",48,bastian-struwelpeter,19,3,0.10933333333333334,0.15789473684210525
 337,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2309,7 +2309,7 @@ Strüwelpeter:
 (schnell d’Leiter erab, verschwind unter'm Mantel vum Martin.)
 
           
-",bastian-struwelpeter,13,4,0.082,0.3076923076923077
+",48,bastian-struwelpeter,13,4,0.082,0.3076923076923077
 339,tale,Martin,M,,,,"
             
 Martin:
@@ -2318,7 +2318,7 @@ Martin:
 durich. Açavoyons, wo isch’r? O, ich verwitsch n’e. Martin, hesch dü d'r Strüwelpeter gsehne? Naan, Herr Gendarm, do dät ich lache.
 
           
-",bastian-struwelpeter,23,2,0.0,0.08695652173913043
+",48,bastian-struwelpeter,23,2,0.0,0.08695652173913043
 341,tale,Açavoyons,M,,,,"
             
 Açavoyons :
@@ -2330,7 +2330,7 @@ Oho, wer pfätzt mich do?
 (Ab ins Wirtshüss.)
 
           
-",bastian-struwelpeter,29,2,0.164,0.06896551724137931
+",48,bastian-struwelpeter,29,2,0.164,0.06896551724137931
 342,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2342,7 +2342,7 @@ Strüwelpeter:
 Adie Martin.
 
           
-",bastian-struwelpeter,8,1,0.4169939848753922,0.125
+",48,bastian-struwelpeter,8,1,0.4169939848753922,0.125
 343,tale,Açavoyons,M,,,,"
             
 Açavoyons :
@@ -2356,7 +2356,7 @@ Es geht uff Läwe un Tod,
  Umbringe dueh ich dich. Avec ça!
 
           
-",bastian-struwelpeter,22,4,0.22875,0.18181818181818182
+",49,bastian-struwelpeter,22,4,0.22875,0.18181818181818182
 345,tale,Tete,M,,,,"
             
 Direkter:
@@ -2365,7 +2365,7 @@ Direkter:
 Hochverehrts Publikum, ehrwüerdigi Fraue, Männer, lie- wi Kinder, min Theater isch’s berüehmscht vun d'r ganz Welt. Vun Schilike, Bische, Hüehne bis noch Baris finde ihr ken’s meh so. Drum, liewi Kinder un anderi Litt, seie froh, dass ich kumme bin, fur Euch unseri Kunst un mini Artiste ze zaje. Ihr wäre Träne lache üewer die gschbassige Clowe- sprüeng, ihr wäre stünne üewer die gross Zauberkunst vum weltberüehmte Zauberer Heschmichgsehn, üewer d’Ring- kämpfer Kraftini un Saftini, üewer d'r Athlet Bojon, wo Ambose in d'r Luft erumwerft als wärde’s Balle. Noch aans lejt mer am Herz. Wenn d’Madam Direkter mit-em Sammel- teller erumgeht, laje ken Hoseknöpf druff, denn vun denne ellaan kann ken Mensch läwe. Jetzt. will ich Euch d'r Ali
 
           
-",bastian-struwelpeter,129,20,0.06672572977368577,0.15503875968992248
+",49,bastian-struwelpeter,129,20,0.06672572977368577,0.15503875968992248
 346,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Alli:
@@ -2379,7 +2379,7 @@ Baba zaje, e Ries, zwai Meter gros, no geht d’Vorstellung los. Entrez, entrez 
 ( «Ali Baba! Ali Baba!»)
 
           
-",bastian-struwelpeter,48,11,0.06168314504306504,0.22916666666666666
+",49,bastian-struwelpeter,48,11,0.06168314504306504,0.22916666666666666
 347,tale,Tete,M,,,,"
             
 Direkter :
@@ -2391,7 +2391,7 @@ Direkter :
 Liewi Litt, mini Artiste sin ver-
 
           
-",bastian-struwelpeter,12,3,0.2225502054784003,0.25
+",49,bastian-struwelpeter,12,3,0.2225502054784003,0.25
 348,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Alli:
@@ -2401,7 +2401,7 @@ schwunde, ken Mensch meh ze finde. Durichgebrennt!
 ( «Durichgebrennt?»)
 
           
-",bastian-struwelpeter,13,2,0.228,0.15384615384615385
+",49,bastian-struwelpeter,13,2,0.228,0.15384615384615385
 349,tale,Tete,M,,,,"
             
 Direkter:
@@ -2411,7 +2411,7 @@ Ich bin rüiniert. Açavoyons: Was, durichgebrennt? Avec ça! Ja, Herr Gendarm. 
 (Gemurmel.)
 
           
-",bastian-struwelpeter,36,4,0.17425,0.1111111111111111
+",49,bastian-struwelpeter,36,4,0.17425,0.1111111111111111
 350,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2423,7 +2423,7 @@ Ha, denne Vagebum suech ich üewerall. Awer ich verwitsch’ne. No kummt’r en 
 (Alli: «Hewe ’nel»)
 
           
-",bastian-struwelpeter,35,2,0.0,0.05714285714285714
+",50,bastian-struwelpeter,35,2,0.0,0.05714285714285714
 351,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2436,7 +2436,7 @@ Hewe ’ne!
 (Alli hintenooch, ruefe «Hewe ’nel» kumme vun rechts, d'r Strüwelpeter springt üewer d’Köerb vun d'r Käth, d’andere au, d'r Asavoyons falls in de Eierkorb.)
 
           
-",bastian-struwelpeter,38,1,0.0,0.02631578947368421
+",50,bastian-struwelpeter,38,1,0.0,0.02631578947368421
 352,tale,Käth,F,,,,"
             
 Käth:
@@ -2448,7 +2448,7 @@ Mini Aeier, mini Aeier! Herr Gendarm, mini Aeier.
 (Strüwelpeter lauft zwaimol um d'Büdik erum, alli hintenooch, Käth lauft mit, verliert d’Schlupfkabb. Strüwelpeter rennt in d’Büdik, alli laufe nyn, Strüwelpeter kummt hinter d'r Büdik erüss, setzt d’Schlupfkabb uff, duet dr Mantel vun dr Käth an.)
 
           
-",bastian-struwelpeter,54,2,0.0,0.037037037037037035
+",50,bastian-struwelpeter,54,2,0.0,0.037037037037037035
 353,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2458,7 +2458,7 @@ Strüwelpeter:
  Frischi Eier, e Grosche s’Stüeck, frischer Butter, e Gulde s’Pfund. Als noch frischi Eier, Gemües, Salat, Ziewle, Knowli.
 
           
-",bastian-struwelpeter,27,7,0.002285714285714286,0.25925925925925924
+",50,bastian-struwelpeter,27,7,0.002285714285714286,0.25925925925925924
 355,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2468,7 +2468,7 @@ Als noch frischi Eier, Gemüess, Salat, Ziewle, Knowli.
 (D'r Hund mit d'r Sprenzkann bellt vun Wittem, kummt vun links)
 
           
-",bastian-struwelpeter,22,2,0.0,0.09090909090909091
+",50,bastian-struwelpeter,22,2,0.0,0.09090909090909091
 356,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -2482,7 +2482,7 @@ D'r wüetig Bello kummt, Sauve qui peut!
 — Rideau. — End vum 2. Bild.
 
           
-",bastian-struwelpeter,44,5,0.2972554831146662,0.11363636363636363
+",50,bastian-struwelpeter,44,5,0.2972554831146662,0.11363636363636363
 357,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2494,7 +2494,7 @@ Strüwelpeter :
 Jetzt geht d’Schüel üss.
 
           
-",bastian-struwelpeter,11,2,0.0,0.18181818181818182
+",51,bastian-struwelpeter,11,2,0.0,0.18181818181818182
 359,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2504,7 +2504,7 @@ Un ich sitz in dem Käffi.
 (Ruckt d'r Tisch ans Gitter, luejt nüss.)
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",51,bastian-struwelpeter,16,2,0.0,0.125
 360,tale,E Winmacher,M,,,,"
             
 Kinderchor:
@@ -2514,7 +2514,7 @@ Kinderchor:
 (Es litt wittlos.)
 
           
-",bastian-struwelpeter,28,2,0.0,0.07142857142857142
+",51,bastian-struwelpeter,28,2,0.0,0.07142857142857142
 361,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2523,7 +2523,7 @@ Strüwelpeter:
 D'r Vorig. Moppel, het e Nas wie e Grumbeer, e Süürkrüttschnützer un e riesiger Büch, rasselt mit-m-e Schlüesselbund, bringt e Esskessel. Luej, wie sie renne, hüpse un luschtig sin! 0, wär ich numme bie’ne!
 
           
-",bastian-struwelpeter,35,1,0.0,0.02857142857142857
+",51,bastian-struwelpeter,35,1,0.0,0.02857142857142857
 362,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2532,7 +2532,7 @@ Moppel:
 Oho! Witt dü mache dass de runter kummsch. Nüss- lueje isch streng verbotte.
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",51,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 364,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2543,7 +2543,7 @@ Erab saa ich, awer schnell. Strüwelpeter
 .
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",52,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 365,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2552,7 +2552,7 @@ Moppel:
 Wenn ich diss nochemol sieh, kummsch in e dunkli Kellerzell mit Wasser und Brot, in Gsellschaft vun Mies un Ratte,
 
           
-",bastian-struwelpeter,21,2,0.2545961438094405,0.09523809523809523
+",52,bastian-struwelpeter,21,2,0.2545961438094405,0.09523809523809523
 366,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2561,7 +2561,7 @@ Strüwelpeter:
 Ich hab ken Angscht vor Mies un Ratte.
 
           
-",bastian-struwelpeter,9,2,0.0,0.2222222222222222
+",52,bastian-struwelpeter,9,2,0.0,0.2222222222222222
 370,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2572,7 +2572,7 @@ D’Haam hab ich als Timbres in d’Sammlung ge- bäbbt, — Awer Dudde, abba. M
  Worum saasch nit: Gsundheit Herr Gfängniswärter?
 
           
-",bastian-struwelpeter,43,4,0.0,0.09302325581395349
+",52,bastian-struwelpeter,43,4,0.0,0.09302325581395349
 371,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2581,7 +2581,7 @@ Strüwelpeter:
 Mir saat au Niemes Gsundheit.
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",53,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 372,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2590,7 +2590,7 @@ Moppel:
 Büerschtel, ich lehr dich noch e Manichs, wart numme. Witt als noch nit d’Hoor gschnitte han?
 
           
-",bastian-struwelpeter,18,3,0.0,0.16666666666666666
+",53,bastian-struwelpeter,18,3,0.0,0.16666666666666666
 373,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2599,7 +2599,7 @@ Strüwelpeter:
 Naan. Die sin mine.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",53,bastian-struwelpeter,5,1,0.0,0.2
 375,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2608,7 +2608,7 @@ Strüwelpeter:
 Die sin au mine.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",53,bastian-struwelpeter,5,1,0.0,0.2
 376,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2617,7 +2617,7 @@ Moppel:
 Bon. Hitt bekummsch noch vom Hammelscherer dini Barik gschnitte, ratzekahl eweg. No wursch mit Süüdwasser, Schmirichelpapier, Schmierseif, Strohbusche un Wurzel- büerscht gefummelt, dass d'r Dreck ewegfliehjt.
 
           
-",bastian-struwelpeter,28,1,0.0,0.03571428571428571
+",53,bastian-struwelpeter,28,1,0.0,0.03571428571428571
 377,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2627,7 +2627,7 @@ Do müesst ich au d’rbie sin.
 (Setzt sich uff d'Pritsch.)
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",53,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 378,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2638,7 +2638,7 @@ Männel, dü wursch dich verwundere.
 . Siesch do denne Ochsewaddel? Der wurd dir an- gemesse bis ass dü weichgsotte bisch.
 
           
-",bastian-struwelpeter,27,2,0.0,0.07407407407407407
+",54,bastian-struwelpeter,27,2,0.0,0.07407407407407407
 379,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2647,7 +2647,7 @@ Strüwelpeter:
 Herr Gfängniswärter, ich will gern schaffe, awer z'erscht wott ich Permission han, for e bressierti Kommission ze mache.
 
           
-",bastian-struwelpeter,19,3,0.0,0.15789473684210525
+",54,bastian-struwelpeter,19,3,0.0,0.15789473684210525
 381,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2656,7 +2656,7 @@ Strüwelpeter:
 Ich hab ebbs versproche, wo bressiert.
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",54,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 385,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2665,7 +2665,7 @@ Strüwelpeter:
 Naan, sicher nit. Ich schwör, dass ich ball widder do bin.
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",55,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 386,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2674,7 +2674,7 @@ Moppel:
 Jaja, uff Nimmerwiddersehn. Mir sin froh, dass mer dich Vejele endlich verwitscht han. Nix ze mache. Was dätsch mer denn gänn for die Permission?
 
           
-",bastian-struwelpeter,25,4,0.0,0.16
+",55,bastian-struwelpeter,25,4,0.0,0.16
 388,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2684,7 +2684,7 @@ Diss isch din Glüeck, sunscht hätt ich dich wäje Beamtebschtechung angezajt.
 (Niest.)
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",55,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 389,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2693,7 +2693,7 @@ Strüwelpeter:
 Gsundheit, Herr Gfängnisdirekter.
 
           
-",bastian-struwelpeter,4,2,0.0,0.5
+",55,bastian-struwelpeter,4,2,0.0,0.5
 390,tale,Moppel,M,,,,"
             
 Moppel :
@@ -2705,7 +2705,7 @@ Moppel :
 Merci.
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",55,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 391,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2714,7 +2714,7 @@ Strüwelpeter:
 Herr Gfängnisdirekter, es klopft drüsse.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",55,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 394,tale,Moppel,M,,,,"
             
 Moppel :
@@ -2726,7 +2726,7 @@ Moppel :
 Bonjour, Herr Juge Paragraph.
 
           
-",bastian-struwelpeter,11,4,0.082,0.36363636363636365
+",56,bastian-struwelpeter,11,4,0.082,0.36363636363636365
 395,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph :
@@ -2738,7 +2738,7 @@ Paragraph :
 Strüwelpeter, kannsch nit guete Daa Herr Juge saaue, wenn ich kumm?
 
           
-",bastian-struwelpeter,18,5,0.0,0.2777777777777778
+",56,bastian-struwelpeter,18,5,0.0,0.2777777777777778
 396,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2747,7 +2747,7 @@ Strüwelpeter:
 Naan, diss kann ich dir nit saaue, Herr Juge. Paragraph: Ungezôüjener Bue. Worum nit?
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",56,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 397,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2756,7 +2756,7 @@ Strüwelpeter:
 D’r guete Daa isch drüsse vor-em Tor. Paragraph! Un «Sie» muesch zue mir saaue, verschtande! Sie!
 
           
-",bastian-struwelpeter,19,2,0.0,0.10526315789473684
+",56,bastian-struwelpeter,19,2,0.0,0.10526315789473684
 398,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2765,7 +2765,7 @@ Strüwelpeter:
 Mir saat mer jo au nit Sie.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",56,bastian-struwelpeter,8,1,0.0,0.125
 400,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2774,7 +2774,7 @@ Strüwelpeter:
 Ich bin dorin gfüehrt worre, for ze sitze. Un ich bin unschuldig.
 
           
-",bastian-struwelpeter,13,1,0.0,0.07692307692307693
+",57,bastian-struwelpeter,13,1,0.0,0.07692307692307693
 402,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -2786,7 +2786,7 @@ Strüwelpeter :
 Na, wenn’s alli saaue muess-es doch wohr sin.
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",57,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 403,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph:
@@ -2795,7 +2795,7 @@ Paragraph:
 Dini Missetate sin bekannt. Dü hesch Schiewe yn- geworfe, d’Hund g’hetzt, d'r Gendarm Açavoyons üssgelacht, un hesch sunscht noch Spitzbüewerei getriewe. Mer het dich sogar gesehne, wie dü mit d'r Hex Spitznas geredd hesch. Worum, fröüj ich dich, hesch dü diss alles gemacht?
 
           
-",bastian-struwelpeter,46,7,0.06028571428571428,0.15217391304347827
+",57,bastian-struwelpeter,46,7,0.06028571428571428,0.15217391304347827
 404,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2804,7 +2804,7 @@ Strüwelpeter:
 D’r Herr Lehrer het als gsaat: Prowiert isch üewer stüdiert. Drum hab ich alles prowiert. Un was d'r Herr Lehrer saat, ich gscheid.
 
           
-",bastian-struwelpeter,24,6,0.0,0.25
+",57,bastian-struwelpeter,24,6,0.0,0.25
 405,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph:
@@ -2813,7 +2813,7 @@ Paragraph:
 So? Na, mir gänn dir Zitt do drüewer noochze- denke. Vorlaifig wursch dü nooch-em Paragraph 20 397 zue me ganze Johr Gfängnis verdundert wäre. Un hitt wursch im Name vum Gsetz gewäsche un gebüerscht.
 
           
-",bastian-struwelpeter,36,5,0.12467713212493733,0.1388888888888889
+",57,bastian-struwelpeter,36,5,0.12467713212493733,0.1388888888888889
 406,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2822,7 +2822,7 @@ Moppel:
 Herr Juge, mit Verlaub, er het ken aanzigi Dutt ge- bäbbt. Soll ich-em s’Esse ewegnäme?
 
           
-",bastian-struwelpeter,18,2,0.1405,0.1111111111111111
+",58,bastian-struwelpeter,18,2,0.1405,0.1111111111111111
 407,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph:
@@ -2831,7 +2831,7 @@ Paragraph:
 Recht so. Was saasch do d’rzue? Strüewelpeter: Do hinne vergeht aam d'r Appetit.
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",58,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 408,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph:
@@ -2842,7 +2842,7 @@ Herr Moppel, wenn’r nit foljt, nab in de Keller mit- em. Also Büerschtel, Dut
 .
 
           
-",bastian-struwelpeter,29,6,0.0,0.20689655172413793
+",58,bastian-struwelpeter,29,6,0.0,0.20689655172413793
 409,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2851,7 +2851,7 @@ Lehrer:
 Herr Juge, ich hab Erlaubnis, d'r Strüewelpeter ze bsueche.
 
           
-",bastian-struwelpeter,10,4,0.0,0.4
+",58,bastian-struwelpeter,10,4,0.0,0.4
 410,tale,Monsieur Paragraph,M,,,,"
             
 Paragraph:
@@ -2861,7 +2861,7 @@ Kumme numme eryn, Herr Lehrer, un redde dem Galjestrick in’s Gewisse.
 (Ab.)
 
           
-",bastian-struwelpeter,16,4,0.0,0.25
+",58,bastian-struwelpeter,16,4,0.0,0.25
 411,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2870,7 +2870,7 @@ Lehrer:
 D’Vorige, ohne Paragraph, d'r Lehrer. Boujour! Strüwelpeter: Guete Daa, Herr Lehrer!
 
           
-",bastian-struwelpeter,13,6,0.0,0.46153846153846156
+",58,bastian-struwelpeter,13,6,0.0,0.46153846153846156
 412,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2879,7 +2879,7 @@ Lehrer:
 Es duet mer Leid, dich do uffsueche ze muehn. Awer
 
           
-",bastian-struwelpeter,11,2,0.2610742060420292,0.18181818181818182
+",58,bastian-struwelpeter,11,2,0.2610742060420292,0.18181818181818182
 413,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2888,7 +2888,7 @@ Strüwelpeter:
 Verschwunde?
 
           
-",bastian-struwelpeter,2,1,0.0,0.5
+",59,bastian-struwelpeter,2,1,0.0,0.5
 414,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2897,7 +2897,7 @@ Strüwelpeter:
 Mini Eltere verschwunde?
 
           
-",bastian-struwelpeter,4,2,0.0,0.5
+",59,bastian-struwelpeter,4,2,0.0,0.5
 415,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2906,7 +2906,7 @@ Strüwelpeter:
 Grosser Gott, helf!
 
           
-",bastian-struwelpeter,4,2,0.0,0.5
+",59,bastian-struwelpeter,4,2,0.0,0.5
 416,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2915,7 +2915,7 @@ Strüwelpeter:
 Un ich kann nit helfe!! Gott, o Gott, verzeih mer!
 
           
-",bastian-struwelpeter,11,3,0.0,0.2727272727272727
+",59,bastian-struwelpeter,11,3,0.0,0.2727272727272727
 417,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2924,7 +2924,7 @@ Lehrer:
 Bet brav! Wenn ich ebbs erfahr, kumm ich widder.
 
           
-",bastian-struwelpeter,10,4,0.0,0.4
+",59,bastian-struwelpeter,10,4,0.0,0.4
 418,tale,Moppel,M,,,,"
             
 Moppel:
@@ -2933,7 +2933,7 @@ Moppel:
 Hä, wurrsch jetzt weich, Männel?
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",59,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 419,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2945,7 +2945,7 @@ Strüwelpeter:
 Gueti, liewi Eltere, verzeihe
 
           
-",bastian-struwelpeter,11,5,0.0,0.45454545454545453
+",59,bastian-struwelpeter,11,5,0.0,0.45454545454545453
 421,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -2957,7 +2957,7 @@ Strüwelpeter:
 Ach, dü bischs? Wie kummsch denn mini Pflicht isch’s, dir ze saawe, dass sitter gescht dini Eltere verschwunde sin.
 
           
-",bastian-struwelpeter,25,4,0.0,0.16
+",60,bastian-struwelpeter,25,4,0.0,0.16
 422,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2966,7 +2966,7 @@ Lehrer:
 Ja! Alli Litt üss-em ganze Städtel han sie g’suecht. Im Wald, üweral. Sie sin nit ze finde gsin. Mer föercht, es isch 'ne ebbs Böses basiert.
 
           
-",bastian-struwelpeter,27,5,0.0,0.18518518518518517
+",60,bastian-struwelpeter,27,5,0.0,0.18518518518518517
 423,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2975,7 +2975,7 @@ Lehrer:
 D’Müehl isch leer, s’Mühlrad lauft nim, alles isch wie üssgschtorwe.
 
           
-",bastian-struwelpeter,13,2,0.0,0.15384615384615385
+",60,bastian-struwelpeter,13,2,0.0,0.15384615384615385
 424,tale,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Lehrer:
@@ -2988,7 +2988,7 @@ Siehsch, Bue, wie witt dass-es kumme isch mit dine lichtsinnige Streich! Womöjl
  Glaub mir, ich kumm widder, so wohr als ich do knej.
 
           
-",bastian-struwelpeter,72,15,0.15194372913140328,0.20833333333333334
+",60,bastian-struwelpeter,72,15,0.15194372913140328,0.20833333333333334
 425,tale,Moppel,M,,,,"
             
 Moppel:
@@ -3000,13 +3000,13 @@ Nix ze mache.
 (Melo höert uff.)
 
           
-",bastian-struwelpeter,17,2,0.0,0.11764705882352941
+",60,bastian-struwelpeter,17,2,0.0,0.11764705882352941
 426,tale,Strüwelpeter,M,,,,"Strüwelpeter:
 (steht uff, werft sich uff d’Pritsch, grient herzbrechend).
 
             
 (Grossi Paus. Es wurd langsam Owe.)
-",bastian-struwelpeter,20,3,0.0,0.15
+",60,bastian-struwelpeter,20,3,0.0,0.15
 427,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3015,7 +3015,7 @@ Spitznas:
 Guete Owe, Strüwelpeterle! Guete Owe!
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",61,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 428,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3024,7 +3024,7 @@ Strüwelpeter:
 Wer, wer redd denn do? dü durich die schwer ysrig Tüer?
 
           
-",bastian-struwelpeter,12,1,0.394,0.08333333333333333
+",61,bastian-struwelpeter,12,1,0.394,0.08333333333333333
 429,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3033,7 +3033,7 @@ Spitznas:
 Ich kumm üeweral nyn ohne Schlüessel. Dü hesch din Verspreche nit g'halte. Die drei Daa sin erum.
 
           
-",bastian-struwelpeter,18,2,0.0,0.1111111111111111
+",61,bastian-struwelpeter,18,2,0.0,0.1111111111111111
 430,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3042,7 +3042,7 @@ Strüwelpeter:
 Wie kann ich denn, wenn ich yngschberrt bin?
 
           
-",bastian-struwelpeter,9,1,0.5983157467723802,0.1111111111111111
+",61,bastian-struwelpeter,9,1,0.5983157467723802,0.1111111111111111
 434,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -3054,7 +3054,7 @@ Strüwelpeter :
 Was isch diss?
 
           
-",bastian-struwelpeter,7,1,0.6852509032862029,0.14285714285714285
+",62,bastian-struwelpeter,7,1,0.6852509032862029,0.14285714285714285
 435,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3065,7 +3065,7 @@ Hihi! Katze! Strüwelpeter
 .
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",62,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 437,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3074,7 +3074,7 @@ Spitznas:
 Jaja. Hihi, dini Eltere!
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",62,bastian-struwelpeter,5,1,0.0,0.2
 438,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3083,7 +3083,7 @@ Strüwelpeter:
 D’r Vadder, d’Muedder?
 
           
-",bastian-struwelpeter,5,2,0.008,0.4
+",62,bastian-struwelpeter,5,2,0.008,0.4
 440,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3092,7 +3092,7 @@ Spitznas:
 Ich hab sie verhext, wie ich dir gsaat hab. Dü bisch gewarnt gsin. Hihi!!
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",62,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 442,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3101,7 +3101,7 @@ Strüwelpeter:
 Ich kann’s gar nit glauwe, dass mer so bösi Sache mache kann.
 
           
-",bastian-struwelpeter,14,2,0.2665935656990768,0.14285714285714285
+",63,bastian-struwelpeter,14,2,0.2665935656990768,0.14285714285714285
 445,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3110,7 +3110,7 @@ Spitznas:
 Diss isch jo grad mini Kunscht.
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",63,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 446,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3119,7 +3119,7 @@ Strüwelpeter:
 Bisch dü miner Vadder?
 
           
-",bastian-struwelpeter,5,2,0.0,0.4
+",63,bastian-struwelpeter,5,2,0.0,0.4
 448,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3128,7 +3128,7 @@ Strüwelpeter:
 Bisch dü mini Muedder?
 
           
-",bastian-struwelpeter,5,1,0.016,0.2
+",64,bastian-struwelpeter,5,1,0.016,0.2
 453,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3137,7 +3137,7 @@ Spitznas:
 Glaubsch’s jetzerte? Hihi! Dini Eltere sin mini Diener, solang bis din Verspreche nit g’halte hesch.
 
           
-",bastian-struwelpeter,17,2,0.0,0.11764705882352941
+",64,bastian-struwelpeter,17,2,0.0,0.11764705882352941
 454,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3146,7 +3146,7 @@ Strüwelpeter:
 O dü bösi Hex, du giftigi Hex!
 
           
-",bastian-struwelpeter,8,4,0.2935467828495384,0.5
+",64,bastian-struwelpeter,8,4,0.2935467828495384,0.5
 455,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3155,7 +3155,7 @@ Spitznas:
 Verzüern mich nit, sunscht brennt hitt noch d'Müehl vun dine Eltere ab.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",65,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 456,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3164,7 +3164,7 @@ Strüwelpeter:
 Um’s Gottswille nit. Liewi Hex, alles will ich duen, was dü witt. Mach numme, dass mini Eltere widder Mensche wäre!
 
           
-",bastian-struwelpeter,22,3,0.0,0.13636363636363635
+",65,bastian-struwelpeter,22,3,0.0,0.13636363636363635
 458,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3173,7 +3173,7 @@ Spitznas:
 Höersch, wie sie anhalte un jomere?
 
           
-",bastian-struwelpeter,7,1,0.7076263489237056,0.14285714285714285
+",65,bastian-struwelpeter,7,1,0.7076263489237056,0.14285714285714285
 459,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3183,7 +3183,7 @@ Es geht mer e Stich in’s Herz, wenn ich sie höer. O, ich armer Bue! Hätt ich
 (Melo.)
 
           
-",bastian-struwelpeter,40,6,0.18154831244238237,0.15
+",65,bastian-struwelpeter,40,6,0.18154831244238237,0.15
 460,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3192,7 +3192,7 @@ Spitznas:
 Bass uff, was ich dir jetzt verzehl. Ich haiss Flora un bin Königin vun de Waldfee gsin. Im Maie vorigs Johr, wo alli Baam ihri grüene Aerm geje’s Sunnegold gschtreckt han, wo alli Blüemle im Maiduft gschtande sin, wo alli Käfer gsummt han, un alli Vöejele e Kunzert gänn han, do het’s' unter uns Waldfee e grosses Maifescht gänn. Uffaanmol ich e böser Waldgeischt kumme, un der het mich als sini Frau mitnäme wöelle. Dod’rgeje hab ich mich gewehrt, un üss Zorn het mich der bös Waldgeischt in e Hex verzaubert, wo numme Böeses mache muess. Awer wenn ich erlöst bin, no mach ich numme Guets in de Mensche, un dir besunders.
 
           
-",bastian-struwelpeter,114,15,0.1523582841864205,0.13157894736842105
+",65,bastian-struwelpeter,114,15,0.1523582841864205,0.13157894736842105
 462,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -3201,7 +3201,7 @@ Strüwelpeter :
 Un alles isch wohr, was dü saasch?
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",66,bastian-struwelpeter,8,1,0.0,0.125
 464,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3210,7 +3210,7 @@ Spitznas:
 Stüwelpeter: Ich will dir helfe un alles mache, was de witt! Saa, wie kumm ich denn in d’Höell? Ich weiss d'r Wäj nit. Zwanzigtöüsig Kilometer dief unter'm Bodde. Strüwelpeter: O jo, do kumm ich nim in d’Höh. Doch. Wie dü die drei Hoor hesch. Strüwelpeter: Bin ich derno frei un brüch nim in’s Gfängnis? Dod’rfor loss mich sorje. Strüwelpeter: Un wo sin denn die Litt vun d'r Messtibüdik?
 
           
-",bastian-struwelpeter,73,10,0.22134471357912436,0.136986301369863
+",66,bastian-struwelpeter,73,10,0.22134471357912436,0.136986301369863
 465,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3222,7 +3222,7 @@ Die sin bie mir, die sin guet uffg’hebbt bie mir. Strüwelpeter: Kumm, zaj mer
 (Es wurd finschter, Höllespektakel, Flamme schlaaue üss-em Bodde, d'r Strüwelpeter un d’Hex sin verschwunde. Es wurd widder hell.)
 
           
-",bastian-struwelpeter,116,14,0.03637074915520573,0.1206896551724138
+",66,bastian-struwelpeter,116,14,0.03637074915520573,0.1206896551724138
 466,tale,Moppel,M,,,,"
           
 Moppel:
@@ -3237,7 +3237,7 @@ So Männel, jetzt wursch gewäsche un ge .....
 — Rideau. — End vum 3. Bild. 
 
         
-",bastian-struwelpeter,41,4,0.33855692864552694,0.0975609756097561
+",66,bastian-struwelpeter,41,4,0.33855692864552694,0.0975609756097561
 467,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3248,7 +3248,7 @@ Hui! Jetzt bin ich awer erabgsüüt, sicher zwanzigdöüsig Kilometer. Un uffgeb
  Bin ich noch ganz? Ja, es fehlt ken Knöchel.
 
           
-",bastian-struwelpeter,40,7,0.19071459297107765,0.175
+",66,bastian-struwelpeter,40,7,0.19071459297107765,0.175
 468,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3262,7 +3262,7 @@ Wo bin ich denn? In d'r Höll sicher nit. Kuckuck, saa, wo bin ich? Hörsch denn
  Lüej do, do sin jo Litt. Wer sin denn ihr?
 
           
-",bastian-struwelpeter,44,5,0.1466,0.11363636363636363
+",66,bastian-struwelpeter,44,5,0.1466,0.11363636363636363
 472,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3271,7 +3271,7 @@ Strüwelpeter:
 Ah so! Worum laufe ihr denn allewiel im ringel- rum?
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",67,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 473,tale,Wetterwiewel,F,,,,"
             
 Wetterwiewel:
@@ -3280,7 +3280,7 @@ Wetterwiewel:
 Ei mir muehn ’s Wetter anzaje wo d'r Wetter- macher macht. Wenn ich kumm, gibt's Räje, wenn ’s Wettermännel kummt, gibt’s Sunneschin.
 
           
-",bastian-struwelpeter,26,3,0.0,0.11538461538461539
+",67,bastian-struwelpeter,26,3,0.0,0.11538461538461539
 475,tale,Wettermännel,M,,,,"
             
 Wettermännel:
@@ -3289,7 +3289,7 @@ Wettermännel:
 Waisch, dr Wettermacher het als sini Lünne, no müehn mer alli zwai laufe. Räje un glich druff d’Sunn. Wie haisch denn dü?
 
           
-",bastian-struwelpeter,24,2,0.0,0.08333333333333333
+",67,bastian-struwelpeter,24,2,0.0,0.08333333333333333
 477,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3298,7 +3298,7 @@ Wettermacher:
 D'Vorige. Wettermacher im e brüne Mantel, langer wisser Bart, grüeni langi Hoor; er redd abwechselnd rechts un links durch’s Fenster, schlaat jedsmol ’s Lädel zue. Was witt dü do, dü fremder Bue, In dinne letze Strümpf un Schueh?
 
           
-",bastian-struwelpeter,41,4,0.2265,0.0975609756097561
+",68,bastian-struwelpeter,41,4,0.2265,0.0975609756097561
 478,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3307,7 +3307,7 @@ Strüwelpeter:
 Bonjour, Herr Wettermacher! Ah dü bisch der, wo im Summer haiss, un im Winter kalt macht? Exküsier, ich hab in d’Höll gewöllt, e Kommission mache. Könntsch mer nit saaue, wie ich am schnellschte annekumm ? In d’Höll witt dü, o liewer Gott, Dü triebsch mit mir e schlechter Spott!
 
           
-",bastian-struwelpeter,51,12,0.2231486764492845,0.23529411764705882
+",68,bastian-struwelpeter,51,12,0.2231486764492845,0.23529411764705882
 479,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3316,7 +3316,7 @@ Strüwelpeter:
 Naan, sicher nit, Herr Wettermacher.
 
           
-",bastian-struwelpeter,6,2,0.0,0.3333333333333333
+",68,bastian-struwelpeter,6,2,0.0,0.3333333333333333
 480,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3326,7 +3326,7 @@ Bass uff, un babbel nit so dumm, Sunscht bloost e Sturm dich rakta um! Strüwelp
 (E Sturm süüst.)
 
           
-",bastian-struwelpeter,42,9,0.0,0.21428571428571427
+",68,bastian-struwelpeter,42,9,0.0,0.21428571428571427
 481,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -3343,7 +3343,7 @@ Halt!, halt! Ich bambel, ich .....
 (Wetterwiewel un Wettermännel lache.)
 
           
-",bastian-struwelpeter,31,6,0.09274191259975752,0.1935483870967742
+",68,bastian-struwelpeter,31,6,0.09274191259975752,0.1935483870967742
 482,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3352,7 +3352,7 @@ Wettermacher:
 Was saasch jetzt zue dim Burzelbaam? So hesch noch kener gschlaaue d’haam. Pfui het diss Büerschtel Dreck am Hals, Es sieht jo üss, wie rüesig’s Schmalz!
 
           
-",bastian-struwelpeter,29,1,0.0,0.034482758620689655
+",68,bastian-struwelpeter,29,1,0.0,0.034482758620689655
 485,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3361,7 +3361,7 @@ Wettermacher:
 Na wart, ich lehr dich d’Litt üsslache, Min Wetter wurd dir aani bache!
 
           
-",bastian-struwelpeter,15,2,0.0,0.13333333333333333
+",69,bastian-struwelpeter,15,2,0.0,0.13333333333333333
 486,tale,Margrittel,F,,,,"
             
 Waldfee Margrittel:
@@ -3370,7 +3370,7 @@ Waldfee Margrittel:
 Herr Wettermacher, möcht dich fröüje, Ob’s hitt noch gibt e Räjeböüje, Un ob’s im Mai schön Wetter gitt, Diss wär de Fee-e ihri Bitt. Sie möchte jetzt schun gäre danze, Begrüesse d’Baam un alli Pflanze.
 
           
-",bastian-struwelpeter,40,5,0.09859999999999998,0.125
+",69,bastian-struwelpeter,40,5,0.09859999999999998,0.125
 488,tale,Margrittel,F,,,,"
             
 Waldfee Margrittel:
@@ -3379,7 +3379,7 @@ Waldfee Margrittel:
 O, sicher nit, dü witt’s nit gschtehn, Wie alles spriesst un rüescht sich schön. ’s Margrittel steckt sin Dellergsichtel, Verschrocke üss-em kurze Klee. D’r Früehjohrswind verzehlt e Gschichtel Vun Sunnefraid un Blüeteschnee.
 
           
-",bastian-struwelpeter,35,4,0.1735627258215507,0.11428571428571428
+",69,bastian-struwelpeter,35,4,0.1735627258215507,0.11428571428571428
 489,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3396,7 +3396,7 @@ Siehsch dort e Spinn, sie webbt e Fade, Un strickt e luftigs Sunnehüüs. No mac
 : Heidideldum, Als runderum, Herzhaft prowiert, Es geht wie gschmiert. Heidideldum, Als runderum!
 
           
-",bastian-struwelpeter,229,29,0.03186206896551724,0.12663755458515283
+",69,bastian-struwelpeter,229,29,0.03186206896551724,0.12663755458515283
 490,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3405,7 +3405,7 @@ Wettermacher:
 Bisch als noch do, dü frecher Bue, Mit dine letzte Strüempf un Schueh!?
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",70,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 491,tale,Waldfee,F,,,,"
             
 Waldfee:
@@ -3416,7 +3416,7 @@ Waldfee:
 (Laufe unter Gschrei furt. D’Müsik brecht ab.)
 
           
-",bastian-struwelpeter,22,5,0.18703317667184366,0.22727272727272727
+",70,bastian-struwelpeter,22,5,0.18703317667184366,0.22727272727272727
 492,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3427,7 +3427,7 @@ Mini Feeekinder, wo ich frühjer ihri Königin bin gsin, laufe vor mir furt. O, 
  O, diss duet weh.
 
           
-",bastian-struwelpeter,32,4,0.4611490864209167,0.125
+",70,bastian-struwelpeter,32,4,0.4611490864209167,0.125
 494,tale,Wettermännel,M,,,,"
             
 Wettermännel:
@@ -3436,7 +3436,7 @@ Wettermännel:
 Gell! Ich hab dir’s gsaat. Awer dü hesch nit uff mich g’hört.
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",70,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 495,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3445,7 +3445,7 @@ Strüwelpeter:
 Hex, grien nit.
 
           
-",bastian-struwelpeter,4,1,0.0,0.25
+",70,bastian-struwelpeter,4,1,0.0,0.25
 496,tale,Spitznas,F,,,,"
             
 Spitznas :
@@ -3457,7 +3457,7 @@ Spitznas :
 D’r Strüwelpeter müesst schun do sin, wenn’r sin Wort g’halte hätt.
 
           
-",bastian-struwelpeter,17,1,0.0,0.058823529411764705
+",70,bastian-struwelpeter,17,1,0.0,0.058823529411764705
 497,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3466,7 +3466,7 @@ Strüwelpeter:
 Muehsch nit griene! Helf mer doch, dass ich erüss kumm üss dem Ringelerum!
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",71,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 500,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3475,7 +3475,7 @@ Spitznas:
 Gell, dü hesch unterwäjs gebett? Strüwelpeter: Ja, ich, ich hab üewer'm Nabsüüse Angst be- kumme, no, no — un uff anmol bin ich do here geplumpst.
 
           
-",bastian-struwelpeter,29,5,0.0,0.1724137931034483
+",71,bastian-struwelpeter,29,5,0.0,0.1724137931034483
 501,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -3484,7 +3484,7 @@ Spitznas:
 O Peterle, dü hesch din Verspreche vergesse, hesch dini Eltere vergesse!
 
           
-",bastian-struwelpeter,12,4,0.265,0.3333333333333333
+",71,bastian-struwelpeter,12,4,0.265,0.3333333333333333
 503,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3493,7 +3493,7 @@ Strüwelpeter:
 O weh, mini Eltere! Ich bin froh, dass dü kumme bisch. Mach schnell e Zauber.
 
           
-",bastian-struwelpeter,16,6,0.11020399446663404,0.375
+",71,bastian-struwelpeter,16,6,0.11020399446663404,0.375
 504,tale,Wettermacher,U,,,,"
             
 Wettermacher:
@@ -3504,7 +3504,7 @@ Was muss ich höre, d'Hex isch do? Jetzt kann ich mit mim Zorn nim spare, Der L�
  — Rideau. — End vum 4. Bild.
 
           
-",bastian-struwelpeter,48,10,0.12091904881728803,0.20833333333333334
+",72,bastian-struwelpeter,48,10,0.12091904881728803,0.20833333333333334
 505,tale,Vier klaani Deifel,U,,,,"
             
 Deifel :
@@ -3516,7 +3516,7 @@ Deifel :
 Was hört mer denn do howe? Es poltert un blitzt, ass gäbt’s e Erdbewe.
 
           
-",bastian-struwelpeter,19,2,0.6306449373271471,0.10526315789473684
+",72,bastian-struwelpeter,19,2,0.6306449373271471,0.10526315789473684
 506,tale,Löjebittel,F,,,,"
             
 Löjebittel:
@@ -3525,7 +3525,7 @@ Löjebittel:
 Es fahrt allewäj aaner direkt in d’Höll.
 
           
-",bastian-struwelpeter,9,1,0.7,0.1111111111111111
+",72,bastian-struwelpeter,9,1,0.7,0.1111111111111111
 507,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3534,7 +3534,7 @@ Deifel:
 Wer gibt?
 
           
-",bastian-struwelpeter,3,1,0.5272898746542942,0.3333333333333333
+",72,bastian-struwelpeter,3,1,0.5272898746542942,0.3333333333333333
 509,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3543,7 +3543,7 @@ Deifel:
 Awer diss Zuck guet mischle un nit mogle. Luej do, mini Pfiff isch üssgange. Hüpsdeifel, züend’se aan.
 
           
-",bastian-struwelpeter,18,6,0.09071497910904903,0.3333333333333333
+",72,bastian-struwelpeter,18,6,0.09071497910904903,0.3333333333333333
 510,tale,Hüpsdeifel,U,,,,"
             
 Hüpsdeifel:
@@ -3553,7 +3553,7 @@ Ja, Maischter Lüzifer.
 (Geht an d’Hinterwand, e Fyrfunke fahrt in d’Pfiff, dass Dampf erüsskummt.)
 
           
-",bastian-struwelpeter,19,4,0.12925,0.21052631578947367
+",72,bastian-struwelpeter,19,4,0.12925,0.21052631578947367
 511,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3562,7 +3562,7 @@ Deifel:
 Lüjebittel: Maischter, hab ich schun emol gemogelt? Sei still, Löjebittel.
 
           
-",bastian-struwelpeter,11,3,0.17576329155143142,0.2727272727272727
+",73,bastian-struwelpeter,11,3,0.17576329155143142,0.2727272727272727
 512,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3571,7 +3571,7 @@ Grossel:
 Ihr wäre ball widder Händel han.
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",73,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 513,tale,Hüpsdeifel,U,,,,"
             
 Hüpsdeifel:
@@ -3580,7 +3580,7 @@ Hüpsdeifel:
 Do, Maischter.
 
           
-",bastian-struwelpeter,3,1,0.0,0.3333333333333333
+",73,bastian-struwelpeter,3,1,0.0,0.3333333333333333
 514,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3590,7 +3590,7 @@ Es isch e bissel haiss do hinne. Hüpsdeifel, loss dr Ventilateur laufe. Was isc
 (druckt an d'r Wand uff e Knopf, d'r Ventilateur surrt.)
 
           
-",bastian-struwelpeter,29,5,0.21787026996417022,0.1724137931034483
+",73,bastian-struwelpeter,29,5,0.21787026996417022,0.1724137931034483
 515,tale,Löjebittel,F,,,,"
             
 Löjebittel:
@@ -3599,7 +3599,7 @@ Löjebittel:
 Herz!
 
           
-",bastian-struwelpeter,2,1,0.0,0.5
+",73,bastian-struwelpeter,2,1,0.0,0.5
 516,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3608,7 +3608,7 @@ Deifel:
 Aha, Herz — un zwanzig gemeld.
 
           
-",bastian-struwelpeter,7,2,0.2636449373271471,0.2857142857142857
+",73,bastian-struwelpeter,7,2,0.2636449373271471,0.2857142857142857
 517,tale,Springdeifel,U,,,,"
             
 Springdeifel :
@@ -3620,7 +3620,7 @@ Springdeifel :
 Halt!, halt, diss isch nit wohr.
 
           
-",bastian-struwelpeter,13,4,0.0,0.3076923076923077
+",73,bastian-struwelpeter,13,4,0.0,0.3076923076923077
 518,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3630,7 +3630,7 @@ Was hab ich nit gsaat, do han mer d'r Händel.
 (Es schellt.)
 
           
-",bastian-struwelpeter,15,1,0.0,0.06666666666666667
+",74,bastian-struwelpeter,15,1,0.0,0.06666666666666667
 519,tale,Löjebittel,F,,,,"
             
 Löjebittel:
@@ -3639,7 +3639,7 @@ Löjebittel:
 Maischter, es zowelt aaner an d'r Schell. Er muess starik bressiert sin,
 
           
-",bastian-struwelpeter,13,2,0.0,0.15384615384615385
+",74,bastian-struwelpeter,13,2,0.0,0.15384615384615385
 520,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3649,7 +3649,7 @@ Ich bin nit gern ambediert biem Kartespiele.
 (Es schellt stäriker.)
 
           
-",bastian-struwelpeter,13,4,0.2760600180277725,0.3076923076923077
+",74,bastian-struwelpeter,13,4,0.2760600180277725,0.3076923076923077
 522,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3658,7 +3658,7 @@ Deifel:
 Hüpsdeifel, geh nüss un mach dem freche Patron uff! Un Trumpf, un nochemol Trumpf!
 
           
-",bastian-struwelpeter,15,6,0.08788164577571571,0.4
+",74,bastian-struwelpeter,15,6,0.08788164577571571,0.4
 523,tale,Springdeifel,U,,,,"
             
 Springdeifel :
@@ -3670,7 +3670,7 @@ Springdeifel :
 Halt!, Maischter, diss gilt nit.
 
           
-",bastian-struwelpeter,12,3,0.0,0.25
+",74,bastian-struwelpeter,12,3,0.0,0.25
 524,tale,Vier klaani Deifel,U,,,,"
             
 Deifel :
@@ -3682,7 +3682,7 @@ Deifel :
 Erab mit dir, Springdeifel.
 
           
-",bastian-struwelpeter,11,1,0.5272898746542942,0.09090909090909091
+",74,bastian-struwelpeter,11,1,0.5272898746542942,0.09090909090909091
 525,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3694,7 +3694,7 @@ D'Vorige. Strüwelpeter
 (Macht Kumplimente.)
 
           
-",bastian-struwelpeter,20,3,0.0,0.15
+",75,bastian-struwelpeter,20,3,0.0,0.15
 526,tale,Springdeifel,U,,,,"
             
 Deifel:
@@ -3703,7 +3703,7 @@ Deifel:
 Was witt dü do, dü Malefitzlüüser?
 
           
-",bastian-struwelpeter,7,1,0.5272898746542942,0.14285714285714285
+",75,bastian-struwelpeter,7,1,0.5272898746542942,0.14285714285714285
 528,tale,Springdeifel,U,,,,"
             
 Deifel:
@@ -3712,7 +3712,7 @@ Deifel:
 Was lachsch denn so dumm?
 
           
-",bastian-struwelpeter,6,2,0.2636449373271471,0.3333333333333333
+",75,bastian-struwelpeter,6,2,0.2636449373271471,0.3333333333333333
 530,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3721,7 +3721,7 @@ Deifel:
 Ich bin e vornehmer Deifel, versteh’sch. Un hitt isch d'r Grossel ihre Geburtsdaa.
 
           
-",bastian-struwelpeter,14,3,0.35152658310286283,0.21428571428571427
+",75,bastian-struwelpeter,14,3,0.35152658310286283,0.21428571428571427
 532,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3730,7 +3730,7 @@ Deifel:
 Ich fröüj dich nochemol, was dü do witt.
 
           
-",bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
+",76,bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
 533,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3739,7 +3739,7 @@ Strüwelpeter:
 E Bsuech mache un lueje wie’s d'r unterirdisch Majestät geht — wenn’s erlaubt isch. Gratülier au Madame Grossel. Viel Gsundheit!
 
           
-",bastian-struwelpeter,23,3,0.0,0.13043478260869565
+",76,bastian-struwelpeter,23,3,0.0,0.13043478260869565
 534,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3749,7 +3749,7 @@ Grossel:
  Diss find ich jetzt nett vun dem Bue. Wie haisch denn?
 
           
-",bastian-struwelpeter,23,4,0.13182246866357356,0.17391304347826086
+",76,bastian-struwelpeter,23,4,0.13182246866357356,0.17391304347826086
 535,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3758,7 +3758,7 @@ Strüwelpeter:
 Strüwelpeter, Madam Grossel. Worum striksch denn Strüempf?
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",76,bastian-struwelpeter,8,1,0.0,0.125
 536,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3767,7 +3767,7 @@ Grossel:
 Ich hab Rhumedisse.
 
           
-",bastian-struwelpeter,4,1,0.562,0.25
+",76,bastian-struwelpeter,4,1,0.562,0.25
 537,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3776,7 +3776,7 @@ Strüwelpeter:
 Bie dere Hitz? Do laufe aam d’Schweisstropfe d'r Buckel nab so gross wie Quätschelkerne.
 
           
-",bastian-struwelpeter,16,3,0.2261715318245718,0.1875
+",76,bastian-struwelpeter,16,3,0.2261715318245718,0.1875
 538,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3785,7 +3785,7 @@ Grossel:
 Waisch, miner Enkel Lüzifer macht als Durichzugg mit-em Ventilateur, und diss verdraa ich nit guet.
 
           
-",bastian-struwelpeter,16,4,0.0,0.25
+",76,bastian-struwelpeter,16,4,0.0,0.25
 539,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3794,7 +3794,7 @@ Deifel:
 Hüpsdeifel, stell ’ne ab.
 
           
-",bastian-struwelpeter,5,2,0.2636449373271471,0.4
+",77,bastian-struwelpeter,5,2,0.2636449373271471,0.4
 540,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3805,7 +3805,7 @@ Hüpsdeifel, bring mer miner Kaffee! Hüpsdeifel
 .
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",77,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 541,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3814,7 +3814,7 @@ Strüwelpeter:
 Hesch au Zahnweh, wie ich merik, Madam Grossel?
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",77,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 542,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3823,7 +3823,7 @@ Grossel:
 Ja, Strüwelpeter! Bsunders z’nachts. Ich bring ken Au zuem andere. Es isch nume noch e Stumpe, d'r letscht wo ich hab, awer er macht mer ebbs erunter.
 
           
-",bastian-struwelpeter,29,2,0.0,0.06896551724137931
+",77,bastian-struwelpeter,29,2,0.0,0.06896551724137931
 543,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3832,7 +3832,7 @@ Strüwelpeter:
 Waisch was, ich zehj d'r ’ne schmerzlos. Dü wurrsch sehn, ich gschbier nix, E Ruck un e Zuck, un hoppla, hüsse isch’r.
 
           
-",bastian-struwelpeter,23,3,0.0,0.13043478260869565
+",77,bastian-struwelpeter,23,3,0.0,0.13043478260869565
 544,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3841,7 +3841,7 @@ Grossel:
 Wenn’s eso wär, wär ich froh. Saa, was isch jetzt d'r nejscht Damemode uff d'r Welt?
 
           
-",bastian-struwelpeter,18,2,0.0,0.1111111111111111
+",77,bastian-struwelpeter,18,2,0.0,0.1111111111111111
 545,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3850,7 +3850,7 @@ Strüwelpeter:
 O, do dätsch lache. Röck mit meterlange Schleppe, dass d'r Staub zwirwelt, un klaani Dätschhüetle uff, so gross wie e Quätschelmüessflade, un Spitze um de Hals, un Absätz an de Schueh, mer maant sie gehn uff Stelze.
 
           
-",bastian-struwelpeter,38,5,0.13570291909474308,0.13157894736842105
+",77,bastian-struwelpeter,38,5,0.13570291909474308,0.13157894736842105
 546,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3859,7 +3859,7 @@ Grossel:
 Diss muess nett sin. Han sie au Spitze an de Unterhosse?
 
           
-",bastian-struwelpeter,12,3,0.0,0.25
+",78,bastian-struwelpeter,12,3,0.0,0.25
 549,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3868,7 +3868,7 @@ Grossel:
 Merci Hüpsdeifel. Witt au versueche, Strüwelpeter ?
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",78,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 550,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3879,7 +3879,7 @@ Gueter Appetit. Wart, ich hab e Kehlemer Wecke mitgebrocht.
  Da, denne kannsch dunke.
 
           
-",bastian-struwelpeter,21,3,0.0,0.14285714285714285
+",78,bastian-struwelpeter,21,3,0.0,0.14285714285714285
 551,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -3889,7 +3889,7 @@ Dü bisch e gueter Bue. O der Zahn, der Zahnstumpe.
 (Schloft noochher üewer'm Stricke yn.)
 
           
-",bastian-struwelpeter,19,1,0.0,0.05263157894736842
+",78,bastian-struwelpeter,19,1,0.0,0.05263157894736842
 552,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3898,7 +3898,7 @@ Strüwelpeter:
 Erlauwe die Herre, dass ich mitspiel?
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",78,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 553,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3907,7 +3907,7 @@ Deifel:
 Ja, kannsch denn schun spiele?
 
           
-",bastian-struwelpeter,6,3,0.17576329155143142,0.5
+",79,bastian-struwelpeter,6,3,0.17576329155143142,0.5
 554,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3916,7 +3916,7 @@ Strüwelpeter:
 Un ob. Besser als bete.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",79,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 555,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3925,7 +3925,7 @@ Deifel:
 Hesch üwerhaupt schun gebet?
 
           
-",bastian-struwelpeter,5,2,0.2636449373271471,0.4
+",79,bastian-struwelpeter,5,2,0.2636449373271471,0.4
 556,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3934,7 +3934,7 @@ Strüwelpeter:
 Jo, emol. Liewer Gott, mach mich frumm, dass...
 
           
-",bastian-struwelpeter,9,3,0.0,0.3333333333333333
+",79,bastian-struwelpeter,9,3,0.0,0.3333333333333333
 557,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3943,7 +3943,7 @@ Deifel:
 Halt’s Müül! Kannsch au lieje?
 
           
-",bastian-struwelpeter,7,3,0.17576329155143142,0.42857142857142855
+",79,bastian-struwelpeter,7,3,0.17576329155143142,0.42857142857142855
 558,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3953,7 +3953,7 @@ So starik, wie zeh Pferd laufe könne.
 (Alli: «Bravo!»)
 
           
-",bastian-struwelpeter,14,1,0.0,0.07142857142857142
+",79,bastian-struwelpeter,14,1,0.0,0.07142857142857142
 559,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3962,7 +3962,7 @@ Deifel:
 Na, ze liej emol.
 
           
-",bastian-struwelpeter,5,2,0.5561449373271471,0.4
+",79,bastian-struwelpeter,5,2,0.5561449373271471,0.4
 560,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3971,7 +3971,7 @@ Strüwelpeter:
 D’r Maischter Lüzifer isch emol in’s Müenschter gange un het e grossi Kerz nyngedraaue.
 
           
-",bastian-struwelpeter,16,1,0.0,0.0625
+",80,bastian-struwelpeter,16,1,0.0,0.0625
 561,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -3981,7 +3981,7 @@ Diss isch gelöüje. Haha!
 (Alli lache.)
 
           
-",bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
+",80,bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
 562,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -3990,7 +3990,7 @@ Strüwelpeter:
 Derno het’r drei Vadderunser gebet.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",80,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 563,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4000,7 +4000,7 @@ Haha! Diss isch gelöüje.
 (Alli lache.)
 
           
-",bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
+",80,bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
 564,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4009,7 +4009,7 @@ Strüwelpeter:
 Un emol isch d'r Herr Luzifer in de Himmel zuem Petrüs, for’em e Visitt ze mache.
 
           
-",bastian-struwelpeter,17,2,0.0,0.11764705882352941
+",80,bastian-struwelpeter,17,2,0.0,0.11764705882352941
 565,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4018,7 +4018,7 @@ Deifel:
 Der kann lieje dass d’Balike krache. Dü gfallsch mer.
 
           
-",bastian-struwelpeter,11,2,0.2636449373271471,0.18181818181818182
+",80,bastian-struwelpeter,11,2,0.2636449373271471,0.18181818181818182
 566,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4028,7 +4028,7 @@ Diss hab ich mir glich gedenkt.
 (Lache.)
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",80,bastian-struwelpeter,10,1,0.0,0.1
 567,tale,Löjebittel,F,,,,"
             
 Löjebittel:
@@ -4037,7 +4037,7 @@ Löjebittel:
 Minsex, er stellt mich in Schande.
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",81,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 568,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4046,7 +4046,7 @@ Deifel:
 Höer, Strüweles, dü bliebsch bie mir als Owerliejer.
 
           
-",bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
+",81,bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
 569,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4057,7 +4057,7 @@ Dod’rfor hab ich ken Zitt. Waisch ich hab e Kommission ze mache.
  E schöens Bärtel hesch, diss muess mer saaue.
 
           
-",bastian-struwelpeter,26,1,0.0,0.038461538461538464
+",81,bastian-struwelpeter,26,1,0.0,0.038461538461538464
 570,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4068,7 +4068,7 @@ Händ eweck!
  Diss isch miner Stolz. Wer sich dodran vergrifft, der isch verlore.
 
           
-",bastian-struwelpeter,20,5,0.10545797493085884,0.25
+",81,bastian-struwelpeter,20,5,0.10545797493085884,0.25
 571,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4077,7 +4077,7 @@ Strüwelpeter:
 Jo, wurrsch Gschbass verstehn.
 
           
-",bastian-struwelpeter,5,1,0.0,0.2
+",81,bastian-struwelpeter,5,1,0.0,0.2
 572,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4087,7 +4087,7 @@ Parole d'honneur, verlore saa ich mit Hütt un Hoor.
 (Alli: «Verlore!»)
 
           
-",bastian-struwelpeter,17,5,0.10545797493085884,0.29411764705882354
+",81,bastian-struwelpeter,17,5,0.10545797493085884,0.29411764705882354
 573,tale,Fyrdeifel,U,,,,"
             
 Fyrdeifel:
@@ -4096,7 +4096,7 @@ Fyrdeifel:
 Maischter, soll ich ne glich päckle?
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",81,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 574,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4106,7 +4106,7 @@ Noch nit, Fyrdeifel. Saa, Strüweles, kannsch au flueche? Diss kann ich am besch
 (Lache)
 
           
-",bastian-struwelpeter,17,3,0.17576329155143142,0.17647058823529413
+",82,bastian-struwelpeter,17,3,0.17576329155143142,0.17647058823529413
 575,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4115,7 +4115,7 @@ Deifel:
 Ze fluech emol.
 
           
-",bastian-struwelpeter,4,2,0.2636449373271471,0.5
+",82,bastian-struwelpeter,4,2,0.2636449373271471,0.5
 577,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4124,7 +4124,7 @@ Deifel:
 Oho! Mich? Bass uff. Flüech emol dass-es kracht.
 
           
-",bastian-struwelpeter,9,3,0.17576329155143142,0.3333333333333333
+",82,bastian-struwelpeter,9,3,0.17576329155143142,0.3333333333333333
 578,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4133,7 +4133,7 @@ Strüwelpeter:
 D’r Deifel soll dich hole!
 
           
-",bastian-struwelpeter,6,1,0.5272898746542942,0.16666666666666666
+",82,bastian-struwelpeter,6,1,0.5272898746542942,0.16666666666666666
 579,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4143,7 +4143,7 @@ Deifel:
  Dü gfallsch mer als besser.
 
           
-",bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
+",82,bastian-struwelpeter,9,2,0.2636449373271471,0.2222222222222222
 581,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4152,7 +4152,7 @@ Deifel:
 Mer han dato nix.
 
           
-",bastian-struwelpeter,5,1,0.5272898746542942,0.2
+",83,bastian-struwelpeter,5,1,0.5272898746542942,0.2
 582,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4161,7 +4161,7 @@ Strüwelpeter:
 O ihr armi Deifel. Awer ich hab ebbs gfitzts.
 
           
-",bastian-struwelpeter,10,2,0.5446449373271471,0.2
+",83,bastian-struwelpeter,10,2,0.5446449373271471,0.2
 583,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4170,7 +4170,7 @@ Deifel:
 Was ischs denn?
 
           
-",bastian-struwelpeter,4,1,0.5272898746542942,0.25
+",83,bastian-struwelpeter,4,1,0.5272898746542942,0.25
 584,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4180,7 +4180,7 @@ E Budell gschtohlener Schnaps!
 (Alli: «Bravo!»)
 
           
-",bastian-struwelpeter,11,1,0.0,0.09090909090909091
+",83,bastian-struwelpeter,11,1,0.0,0.09090909090909091
 585,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4189,7 +4189,7 @@ Deifel:
 Annoch gschtohle? Der muess guet sin.
 
           
-",bastian-struwelpeter,7,3,0.17576329155143142,0.42857142857142855
+",83,bastian-struwelpeter,7,3,0.17576329155143142,0.42857142857142855
 586,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4198,7 +4198,7 @@ Strüwelpeter:
 Wer gewinnt, bekummt e Schluck.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",83,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 587,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4207,7 +4207,7 @@ Deifel:
 Angenumme. Setz dich do here. Jetzt kanns losgehn. Gib Karte.
 
           
-",bastian-struwelpeter,11,2,0.38064493732714705,0.18181818181818182
+",83,bastian-struwelpeter,11,2,0.38064493732714705,0.18181818181818182
 589,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4216,7 +4216,7 @@ Deifel:
 Was, e Muck?
 
           
-",bastian-struwelpeter,4,1,0.5272898746542942,0.25
+",84,bastian-struwelpeter,4,1,0.5272898746542942,0.25
 590,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4226,7 +4226,7 @@ Dorte! E Stechmuck, zwei, drei, vier. Ganz owe!
 (Alli lueje in d’Höh.)
 
           
-",bastian-struwelpeter,16,1,0.0,0.0625
+",84,bastian-struwelpeter,16,1,0.0,0.0625
 591,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4241,7 +4241,7 @@ Ganz owe!
 (Zuckt.)
 
           
-",bastian-struwelpeter,24,5,0.2109159498617177,0.20833333333333334
+",84,bastian-struwelpeter,24,5,0.2109159498617177,0.20833333333333334
 592,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4250,7 +4250,7 @@ Deifel:
 Ich glaab jo, die steche. He, ihr Deifel, fange sie! Hopp, schnell!
 
           
-",bastian-struwelpeter,13,5,0.2109159498617177,0.38461538461538464
+",84,bastian-struwelpeter,13,5,0.2109159498617177,0.38461538461538464
 593,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4263,7 +4263,7 @@ Versuech denne Schnaps, dass-es d’andere nit sehn! Deifeli Merci, Strüweles!
 (Trinkt.)
 
           
-",bastian-struwelpeter,30,4,0.2636449373271471,0.13333333333333333
+",84,bastian-struwelpeter,30,4,0.2636449373271471,0.13333333333333333
 594,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4276,7 +4276,7 @@ Strüwelpeter
  Fange die Stechmucke, fange sie!
 
           
-",bastian-struwelpeter,19,4,0.13182246866357356,0.21052631578947367
+",84,bastian-struwelpeter,19,4,0.13182246866357356,0.21052631578947367
 596,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4285,7 +4285,7 @@ Deifel:
 Ha, ich glaab dü bisch die Stechmuck, hä?
 
           
-",bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
+",85,bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
 597,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4294,7 +4294,7 @@ Strüwelpeter:
 Jo Plän! Es isch grad aani uff dim schöne Spitzbärtel gsesse.
 
           
-",bastian-struwelpeter,12,4,0.002249999999999975,0.3333333333333333
+",85,bastian-struwelpeter,12,4,0.002249999999999975,0.3333333333333333
 598,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4303,7 +4303,7 @@ Deifel:
 Ah so!
 
           
-",bastian-struwelpeter,3,1,0.5272898746542942,0.3333333333333333
+",85,bastian-struwelpeter,3,1,0.5272898746542942,0.3333333333333333
 600,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4312,7 +4312,7 @@ Deifel:
 Was jodelsch denn?
 
           
-",bastian-struwelpeter,4,1,0.5272898746542942,0.25
+",85,bastian-struwelpeter,4,1,0.5272898746542942,0.25
 601,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4321,7 +4321,7 @@ Strüwelpeter:
 Es het mich grad e Muck gstoche.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",85,bastian-struwelpeter,8,1,0.0,0.125
 602,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4330,7 +4330,7 @@ Deifel:
 Fyrdeifel, mach d’Höll uff, un jaaue die Stechmucke ins Fyr.
 
           
-",bastian-struwelpeter,12,3,0.4090966248847647,0.25
+",86,bastian-struwelpeter,12,3,0.4090966248847647,0.25
 603,tale,Fyrdeifel,U,,,,"
             
 Fyrdeifel:
@@ -4342,7 +4342,7 @@ Ja Maischter.
 (D'Felswand hinte geht in d’Höh. Flammemeer. Rauchwolike schwewe uff un ab.)
 
           
-",bastian-struwelpeter,26,5,0.0,0.19230769230769232
+",86,bastian-struwelpeter,26,5,0.0,0.19230769230769232
 605,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4351,7 +4351,7 @@ Deifel:
 Diss isch e Müller, der het als Gips un Cement unter’s Mehl gemacht. Jetzt muess’r for d’Strof denne drei Knöpfle noochhüpse.
 
           
-",bastian-struwelpeter,24,4,0.36441368259215046,0.16666666666666666
+",86,bastian-struwelpeter,24,4,0.36441368259215046,0.16666666666666666
 606,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4360,7 +4360,7 @@ Strüwelpeter:
 Nit uewel. Der het nix ze lache. Un zeller dort, wo an dem grosse Dümme nullt — un was for aane, er bringt ’ne küm in’s Müül.
 
           
-",bastian-struwelpeter,29,3,0.0,0.10344827586206896
+",86,bastian-struwelpeter,29,3,0.0,0.10344827586206896
 607,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4369,7 +4369,7 @@ Deifel:
 Der isch Metzjer gsin, un het sin Läwe lang als d'r Dümme uff d’Wöüj gelajt, un het ’ne mitgewöüje. For d’Strof muess’r am Dümme nulle.
 
           
-",bastian-struwelpeter,28,8,0.19783184129607523,0.2857142857142857
+",86,bastian-struwelpeter,28,8,0.19783184129607523,0.2857142857142857
 608,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4378,7 +4378,7 @@ Strüwelpeter:
 Au guet. Un zeller dort am Fass mit dem grosse Büch, wo d’ganz Zitt üss-em Kröüj trinkt?
 
           
-",bastian-struwelpeter,19,4,0.11325,0.21052631578947367
+",86,bastian-struwelpeter,19,4,0.11325,0.21052631578947367
 609,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4387,7 +4387,7 @@ Deifel:
 Diss isch e Winfälscher. Er muess for d’Strof siner Burlegyges trinke, bis ass’r verspringt.
 
           
-",bastian-struwelpeter,16,2,0.5648273651843008,0.125
+",87,bastian-struwelpeter,16,2,0.5648273651843008,0.125
 610,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4396,7 +4396,7 @@ Strüwelpeter:
 Diss gschieht dem erecht. Luej do d'r Schnieder- hans. Denne hab ich gekennt. Was macht denn der do?
 
           
-",bastian-struwelpeter,20,1,0.0,0.05
+",87,bastian-struwelpeter,20,1,0.0,0.05
 611,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4405,7 +4405,7 @@ Deifel:
 Der het als d’Litt um’s Tuech bschummelt, wo sie ihm gebrocht han. Jetzt muess’r for d’Strof in alli Ewigkeit mit d'r Ell am e Stüeck Tuech messe, ob’s langt for Hosse un Gillet.
 
           
-",bastian-struwelpeter,38,4,0.2824136825921504,0.10526315789473684
+",87,bastian-struwelpeter,38,4,0.2824136825921504,0.10526315789473684
 612,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4414,7 +4414,7 @@ Strüwelpeter:
 Der het au nix ze lache. Jetzt luej do, die Büüre- frau, was isch denn mit dere?
 
           
-",bastian-struwelpeter,19,1,0.0,0.05263157894736842
+",87,bastian-struwelpeter,19,1,0.0,0.05263157894736842
 613,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4423,7 +4423,7 @@ Deifel:
 Die het als. d'Milich gewässert, un for d'Strof muess sie Wasser im Ständel blotze bis ass-es Butter isch.
 
           
-",bastian-struwelpeter,21,2,0.5648273651843008,0.09523809523809523
+",87,bastian-struwelpeter,21,2,0.5648273651843008,0.09523809523809523
 614,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4432,7 +4432,7 @@ Strüwelpeter:
 Oweh, do wurd’s awer au hewe! Oho, dort hinte laufe e ganzi Portion erum, wo d'r Kopf unter’m Arm draaue.
 
           
-",bastian-struwelpeter,23,3,0.2966666666666667,0.13043478260869565
+",87,bastian-struwelpeter,23,3,0.2966666666666667,0.13043478260869565
 615,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4441,7 +4441,7 @@ Deifel:
 Diss sin Raiwer un Mörder, wo geköpft sin worre.
 
           
-",bastian-struwelpeter,10,2,0.6839564401061499,0.2
+",87,bastian-struwelpeter,10,2,0.6839564401061499,0.2
 616,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4450,7 +4450,7 @@ Strüwelpeter:
 Brr, diss isch e bösi Sach. Luej do, do leijt e Zwanzigfrankestüeckel.
 
           
-",bastian-struwelpeter,13,1,0.5331871313981535,0.07692307692307693
+",88,bastian-struwelpeter,13,1,0.5331871313981535,0.07692307692307693
 617,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4460,7 +4460,7 @@ Wo? Ich sieh nix.
 (Buckt sich.)
 
           
-",bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
+",88,bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
 618,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4470,7 +4470,7 @@ Do!
 (Risst-em e Hoor erüss.)
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",88,bastian-struwelpeter,8,1,0.0,0.125
 619,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4483,7 +4483,7 @@ Au!
  Der Gschbass hört uff. Fyrdeifel, Fyrdeifel! Hüpsdeifel!
 
           
-",bastian-struwelpeter,24,3,0.17576329155143142,0.125
+",88,bastian-struwelpeter,24,3,0.17576329155143142,0.125
 620,tale,Fyrdeifel,U,,,,"
             
 Fyrdeifel :
@@ -4495,7 +4495,7 @@ Fyrdeifel :
 Maischter!
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",88,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 621,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4504,7 +4504,7 @@ Deifel:
 Werfe denne Spitzbue in d’Höll, brenn-em sini Barik ab un pfätz-em mit d'r grosse Bisszang d’Fingernäjel küerzer. Wenn’r nit hebbt, schrüb’ne in de Schrübstock.
 
           
-",bastian-struwelpeter,27,2,0.6136449373271471,0.07407407407407407
+",88,bastian-struwelpeter,27,2,0.6136449373271471,0.07407407407407407
 622,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4513,7 +4513,7 @@ Strüwelpeter:
 Diss loss ich mir nit gfalle!
 
           
-",bastian-struwelpeter,7,2,0.4695307375832784,0.2857142857142857
+",88,bastian-struwelpeter,7,2,0.4695307375832784,0.2857142857142857
 623,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4522,7 +4522,7 @@ Deifel:
 Ich hab do ze kummediere. Deifel packe ne!
 
           
-",bastian-struwelpeter,9,2,0.5272898746542942,0.2222222222222222
+",89,bastian-struwelpeter,9,2,0.5272898746542942,0.2222222222222222
 624,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4532,7 +4532,7 @@ Ich loss mer’s nit gfalle.
 (Alli Deifel schleife ’ne hinte ab; d’Hinterwand geht mit Poltere erab.)
 
           
-",bastian-struwelpeter,21,3,0.488783783273617,0.14285714285714285
+",89,bastian-struwelpeter,21,3,0.488783783273617,0.14285714285714285
 626,tale,Sini Grossel,U,,,,"
             
 Grossel :
@@ -4545,7 +4545,7 @@ Wer macht denn so e Grambol? Ken Deifel isch do?
 (Nooch links, macht uff.)
 
           
-",bastian-struwelpeter,20,4,0.13182246866357356,0.2
+",89,bastian-struwelpeter,20,4,0.13182246866357356,0.2
 627,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4556,7 +4556,7 @@ E schainer Güetenowe.
  E schöüfli Wohnung. Hob ich geglaabt ich kimm in e Po- lascht. Kauscheri Orange, kauscheri Banane. No, liewi Memme, versuech e Dattel, e Fej, alles kauscheri Waar. Süess wie Huni, mainer Seel.
 
           
-",bastian-struwelpeter,42,6,0.023499999999999997,0.14285714285714285
+",89,bastian-struwelpeter,42,6,0.023499999999999997,0.14285714285714285
 628,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -4570,7 +4570,7 @@ Merci!
 (Alli Deifel vun rechts, stehle-n’em d’Waar üss-em Korb.)
 
           
-",bastian-struwelpeter,30,3,0.3648587219801971,0.1
+",89,bastian-struwelpeter,30,3,0.3648587219801971,0.1
 629,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4579,7 +4579,7 @@ Deifel:
 Oho! Luej do anne! Wer bisch dü?
 
           
-",bastian-struwelpeter,8,1,0.5272898746542942,0.125
+",89,bastian-struwelpeter,8,1,0.5272898746542942,0.125
 630,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4588,7 +4588,7 @@ Schlagbaum:
 Schlagbaum, Herr Deifel. Kauscheri Orange, kauscheri Dattle, Feje, Banane. Liewi Memme, uff d'r Welt isch alles kapaures, alles schöüfel, alles machulle, alles hot d'r Dalles. Kein Mensch will mache e Gschäft.
 
           
-",bastian-struwelpeter,32,5,0.10545797493085884,0.15625
+",90,bastian-struwelpeter,32,5,0.10545797493085884,0.15625
 631,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4597,7 +4597,7 @@ Deifel:
 Was geht diss uns aan. Wäje mir geht d’Welt unter.
 
           
-",bastian-struwelpeter,12,2,0.42764493732714715,0.16666666666666666
+",90,bastian-struwelpeter,12,2,0.42764493732714715,0.16666666666666666
 633,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4606,7 +4606,7 @@ Deifel:
 Sekretär Löjebittel schrieb in’s Buech: Strüwelpeter, drizeh un e halb Johr alt, Müllersbue. So! No schrieb drunter: Schlagbaum. Wie alt?
 
           
-",bastian-struwelpeter,22,1,0.5272898746542942,0.045454545454545456
+",90,bastian-struwelpeter,22,1,0.5272898746542942,0.045454545454545456
 635,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4615,7 +4615,7 @@ Deifel:
 Was for e Gschäft?
 
           
-",bastian-struwelpeter,5,2,0.2636449373271471,0.4
+",90,bastian-struwelpeter,5,2,0.2636449373271471,0.4
 636,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4624,7 +4624,7 @@ Schlagbaum:
 Hob ich gehabt e grausi Firma; d’Lait habe mich bschummelt, no hab ich gemacht Pleite, „Un jetzt bin ich e armer Colporteur.
 
           
-",bastian-struwelpeter,25,4,0.28067543911629755,0.16
+",90,bastian-struwelpeter,25,4,0.28067543911629755,0.16
 637,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4633,7 +4633,7 @@ Deifel:
 Siehsch wärsch nit so ehrlich gsin, wärsch hit e richer Mann.
 
           
-",bastian-struwelpeter,12,3,0.19642995821809808,0.25
+",91,bastian-struwelpeter,12,3,0.19642995821809808,0.25
 638,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4642,7 +4642,7 @@ Schlagbaum:
 Es isch mainsex wohr, Herr Deifel. No for was schreibt denn d'r Herr Sekretär alles in diss grause Register?
 
           
-",bastian-struwelpeter,20,4,0.13182246866357356,0.2
+",91,bastian-struwelpeter,20,4,0.13182246866357356,0.2
 639,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4651,7 +4651,7 @@ Deifel:
 Bie uns isch Ordnung. Wer do er gschriewe,
 
           
-",bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
+",91,bastian-struwelpeter,9,1,0.5272898746542942,0.1111111111111111
 640,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4660,7 +4660,7 @@ Schlagbaum:
 Ah, main Körwelisch isch leer. Schain vun euch, schain. Wüensch e langs Läwe, Wo sain die Masumme?
 
           
-",bastian-struwelpeter,18,3,0.19799999999999998,0.16666666666666666
+",91,bastian-struwelpeter,18,3,0.19799999999999998,0.16666666666666666
 641,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4669,7 +4669,7 @@ Deifel:
 Was Mummes? Gibt's bie uns nit, höchschtens Bumbes.
 
           
-",bastian-struwelpeter,10,2,0.2636449373271471,0.2
+",91,bastian-struwelpeter,10,2,0.2636449373271471,0.2
 642,tale,Schlagbaum,M,,,,"
             
 Schlagbaum:
@@ -4678,7 +4678,7 @@ Schlagbaum:
 Gott, dü Gerechter, bin ich doch kain meschug- gener Fisch. Wo sain die Masumme ?
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",91,bastian-struwelpeter,16,2,0.0,0.125
 643,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4689,7 +4689,7 @@ Ihr Deifel, packe ’ne, nüss mit-em, Schlagbaum: Gott dü Gerechter, alles bai
  ynkummt, wurd yn-
 
           
-",bastian-struwelpeter,27,8,0.2636449373271471,0.2962962962962963
+",91,bastian-struwelpeter,27,8,0.2636449373271471,0.2962962962962963
 644,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4698,7 +4698,7 @@ Deifel:
 Sekretär Löjebittel strich ’ne vorlaifig üss-em Buech.
 
           
-",bastian-struwelpeter,8,2,0.2636449373271471,0.25
+",92,bastian-struwelpeter,8,2,0.2636449373271471,0.25
 645,tale,Löjebittel,F,,,,"
             
 Lôjebittel:
@@ -4707,7 +4707,7 @@ Lôjebittel:
 Ja, Maischter.
 
           
-",bastian-struwelpeter,3,2,0.0,0.6666666666666666
+",92,bastian-struwelpeter,3,2,0.0,0.6666666666666666
 646,tale,Sini Grossel,U,,,,"
             
 Grossel :
@@ -4721,7 +4721,7 @@ O miner Stumpe, oweh, oweh. Hole mer d'r Strüwelpeter, er soll mer d'r Zahn zej
  Hole mer d'r Strüwelpeter.
 
           
-",bastian-struwelpeter,30,2,0.0,0.06666666666666667
+",92,bastian-struwelpeter,30,2,0.0,0.06666666666666667
 647,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4731,7 +4731,7 @@ Fyrdeifel, hole 'ne, schnell, schnell.
 (Rechts ab.)
 
           
-",bastian-struwelpeter,10,3,0.17576329155143142,0.3
+",92,bastian-struwelpeter,10,3,0.17576329155143142,0.3
 649,tale,Vier klaani Deifel,U,,,,"
             
 Deifel:
@@ -4740,7 +4740,7 @@ Deifel:
 Krisch doch nit eso! i Grossel: Dü hesch guet redde.
 
           
-",bastian-struwelpeter,11,3,0.35905005181564703,0.2727272727272727
+",92,bastian-struwelpeter,11,3,0.35905005181564703,0.2727272727272727
 651,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -4752,7 +4752,7 @@ Strüwelpeter :
 Kumm Grossel, setz dich, s’Müül witt uff. Wo sitzt der Stumpe?
 
           
-",bastian-struwelpeter,29,5,0.0,0.1724137931034483
+",93,bastian-struwelpeter,29,5,0.0,0.1724137931034483
 654,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -4767,7 +4767,7 @@ Do isch’r.
 (Alli rechts ab.)
 
           
-",bastian-struwelpeter,41,4,0.13182246866357356,0.0975609756097561
+",93,bastian-struwelpeter,41,4,0.13182246866357356,0.0975609756097561
 655,tale,Sini Grossel,U,,,,"
             
 Grossel:
@@ -4778,7 +4778,7 @@ Gänn mer ebbs ze gurigle. Oweh, oweh. Deifel
 : Grossel, do gurigel herzhaft.
 
           
-",bastian-struwelpeter,18,2,0.2636449373271471,0.1111111111111111
+",93,bastian-struwelpeter,18,2,0.2636449373271471,0.1111111111111111
 656,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -4791,7 +4791,7 @@ Naau denne Knoche.
 (Schnell links ab.)
 
           
-",bastian-struwelpeter,28,2,0.2636449373271471,0.07142857142857142
+",93,bastian-struwelpeter,28,2,0.2636449373271471,0.07142857142857142
 657,tale,Vier klaani Deifel,U,,,,"
             
 Deifel :
@@ -4800,7 +4800,7 @@ Deifel :
 (fallt um wie e Sack) Verwandlung. Scène: Wildi Gebirjslandschaft, ganz nood an d'r Scène.
 
           
-",bastian-struwelpeter,17,4,0.29678656944105053,0.23529411764705882
+",93,bastian-struwelpeter,17,4,0.29678656944105053,0.23529411764705882
 658,tale,Spitznas,F,,,,"
             
 Spitznas :
@@ -4816,7 +4816,7 @@ Wo numme der Strüwelpeter so lang bliebt?
  Wie will ich mich fraie, wenn ich erlöst bin, wenn ich widder e schöni Waldfeekönigin bin in mim herr- liche Wald. Ah! Ah, do kummt’r ze laufe miner Retter. Gottseidank!
 
           
-",bastian-struwelpeter,92,11,0.2363959819721192,0.11956521739130435
+",94,bastian-struwelpeter,92,11,0.2363959819721192,0.11956521739130435
 660,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4825,7 +4825,7 @@ Spitznas:
 Un wie schön proper dass dü bisch! Strüwelpeter: Annoch! Ich hab rüesiger üssgsehne als d'r Ka- minfäjer. Meh als zwanzigmool hab ich mich unterwäjs an Quellewasser gewäsche.
 
           
-",bastian-struwelpeter,29,1,0.0089999999999999,0.034482758620689655
+",94,bastian-struwelpeter,29,1,0.0089999999999999,0.034482758620689655
 662,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4834,7 +4834,7 @@ Strüwelpeter:
 Ei in d'r Höll. D’r Luzifer het mer sie durich de Fyrdeifel abbrenne lonn.
 
           
-",bastian-struwelpeter,15,2,0.6310307375832784,0.13333333333333333
+",94,bastian-struwelpeter,15,2,0.6310307375832784,0.13333333333333333
 663,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4843,7 +4843,7 @@ Spitznas:
 Hesch die drei Hoor? Gib mer s'e schnell.
 
           
-",bastian-struwelpeter,10,2,0.0,0.2
+",94,bastian-struwelpeter,10,2,0.0,0.2
 665,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4852,7 +4852,7 @@ Spitznas:
 Die drei Hoor, die —
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",95,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 667,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4861,7 +4861,7 @@ Spitznas:
 Die drei Hoor?
 
           
-",bastian-struwelpeter,4,1,0.0,0.25
+",95,bastian-struwelpeter,4,1,0.0,0.25
 668,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4870,7 +4870,7 @@ Strüwelpeter:
 Wursch warte könne!
 
           
-",bastian-struwelpeter,4,1,0.0,0.25
+",95,bastian-struwelpeter,4,1,0.0,0.25
 669,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4879,7 +4879,7 @@ Spitznas:
 Ich rieder ganz. Dummel dich.
 
           
-",bastian-struwelpeter,6,1,0.0,0.16666666666666666
+",95,bastian-struwelpeter,6,1,0.0,0.16666666666666666
 670,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4888,7 +4888,7 @@ Strüwelpeter:
 Ich hab au warte müehn in dere Höllehitz.
 
           
-",bastian-struwelpeter,9,1,0.0,0.1111111111111111
+",95,bastian-struwelpeter,9,1,0.0,0.1111111111111111
 672,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4897,7 +4897,7 @@ Strüwelpeter:
 Wart, ich hab sie in e Nussschal gemacht un d'Nuss mit Baamharz zuegelimmt, dass ich nix verlier.
 
           
-",bastian-struwelpeter,19,3,0.0,0.15789473684210525
+",96,bastian-struwelpeter,19,3,0.0,0.15789473684210525
 673,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4906,7 +4906,7 @@ Spitznas:
 Hesch’s gescheid gemacht. Here mit!
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",96,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 674,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -4918,7 +4918,7 @@ Strüwelpeter :
 Je — jerum!
 
           
-",bastian-struwelpeter,12,1,0.6852509032862029,0.08333333333333333
+",96,bastian-struwelpeter,12,1,0.6852509032862029,0.08333333333333333
 677,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4927,7 +4927,7 @@ Spitznas:
 Was? Hesch d’Nuss verlore? O Bue! O Schmerz! Jetzt isch alles, alles verlore!
 
           
-",bastian-struwelpeter,15,3,0.17534603214735592,0.2
+",96,bastian-struwelpeter,15,3,0.17534603214735592,0.2
 678,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4936,7 +4936,7 @@ Strüwelpeter:
 Was jomersch denn eso? Dü bisch jo e Hex, dü kannsch die Nuss sicher herhexe.
 
           
-",bastian-struwelpeter,16,2,0.0,0.125
+",96,bastian-struwelpeter,16,2,0.0,0.125
 679,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4945,7 +4945,7 @@ Spitznas:
 Naan, naan, diss kann ich nit. Ich hab üewer Sache, wo üss d'r Höll kumme, ken Gewalt. O Strüwelpeter, Peterle, min Herz verspringt mer üss Leid un Weh.
 
           
-",bastian-struwelpeter,29,6,0.31389539648064374,0.20689655172413793
+",97,bastian-struwelpeter,29,6,0.31389539648064374,0.20689655172413793
 680,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4956,7 +4956,7 @@ Halt! Halt!
  Do, do hab ich sie, do hesch die drei Hoor.
 
           
-",bastian-struwelpeter,20,5,0.0906,0.25
+",97,bastian-struwelpeter,20,5,0.0906,0.25
 681,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4967,7 +4967,7 @@ O liewer Peterle, goldiger Bue. Merci, merci!
  Ich gschbier schun lychti Füess. Wenn ich e Schritt in miner Wald mach, bin ich widder Waldfeekönigin.
 
           
-",bastian-struwelpeter,28,2,0.0,0.07142857142857142
+",97,bastian-struwelpeter,28,2,0.0,0.07142857142857142
 682,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -4977,7 +4977,7 @@ Ja, un miner Zirik, wo isch der?
 (Wittlos Zirikmüsik.)
 
           
-",bastian-struwelpeter,12,2,0.0,0.16666666666666666
+",97,bastian-struwelpeter,12,2,0.0,0.16666666666666666
 683,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -4986,7 +4986,7 @@ Spitznas:
 Er isch schun do. Hörsch d’Müsik?
 
           
-",bastian-struwelpeter,8,1,0.016,0.125
+",97,bastian-struwelpeter,8,1,0.016,0.125
 684,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -4999,7 +4999,7 @@ Juhu!
 (Rennt links ab)
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",97,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 685,tale,Spitznas,F,,,,"
             
 Spitznas:
@@ -5011,7 +5011,7 @@ Peterle, halt! Halt!, vergess dini Eltere nit! E goldiger Bue. Un ich bin erlöe
 — Rideau. End vum 5. Bild.
 
           
-",bastian-struwelpeter,39,6,0.23683333333333334,0.15384615384615385
+",97,bastian-struwelpeter,39,6,0.23683333333333334,0.15384615384615385
 686,tale,Charlot,M,,,,"
             
 Charlot :
@@ -5027,7 +5027,7 @@ Hochverehrts Publikum! Unser Direkter, Monsieur Strüwelpeter, het sich die Ehr 
 (Müsik brecht ab.)
 
           
-",bastian-struwelpeter,130,22,0.002181818181818182,0.16923076923076924
+",98,bastian-struwelpeter,130,22,0.002181818181818182,0.16923076923076924
 687,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5040,7 +5040,7 @@ Verehrti Herrschafte, als Numero zwai wurd d'r Direkter, Mössjö Strüwelpeter,
 (Müsik brecht ah.)
 
           
-",bastian-struwelpeter,106,14,0.14141831450785056,0.1320754716981132
+",98,bastian-struwelpeter,106,14,0.14141831450785056,0.1320754716981132
 688,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5051,7 +5051,7 @@ Als Numero drei bekumme die Herrschafte e Spring- seilballet serviert. Herr Kape
  Zwölf Dänzere im Bébékostüm trette uf. Charlot, Cric un Crac, un e klaaner Clowe danze hinte mit. Schienwerferbeleichtung. Biefall. Alles ab. Müsik brecht ab. Diener bringe e Debbi.
 
           
-",bastian-struwelpeter,46,10,0.0501,0.21739130434782608
+",98,bastian-struwelpeter,46,10,0.0501,0.21739130434782608
 689,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5061,7 +5061,7 @@ Hochverebrts Publikum, als Numero vier vum Pro- gramm trette zwai römischi Ring
 (Beidi verneige sich, gän sich d’Hand. Ringkampf. D’r Kraftini werft d'r Saftini. Tusch. Saftini ab.)
 
           
-",bastian-struwelpeter,42,5,0.1516,0.11904761904761904
+",98,bastian-struwelpeter,42,5,0.1516,0.11904761904761904
 690,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5074,7 +5074,7 @@ Wie die Herrschafte gsehne han, het d'r Signor Kraftini d'r Ringkampf gewunne. I
 : Wenn niemes ’s Herz het, ich näm’s mit dem Hosselottel uff. Ich bin Schwerarweit gewöhnt. Kumm emol her!
 
           
-",bastian-struwelpeter,125,15,0.05653333333333333,0.12
+",98,bastian-struwelpeter,125,15,0.05653333333333333,0.12
 691,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5092,7 +5092,7 @@ Bravo Madame, aller Respekt. kumme Sie. Frau: Ich wurr dem Kraftini zaje, wo d'r
 (Rideau 1 uff. Uff em Debbi leje grossi Gewichter, e Ysestang mit Köjele. D’r Crac will d’Gewichter lüepfe, s’geht nit. Cric geht unterm e rote Barebli spaziere, hebbt als d'Hand nüss. Crac setzt sich müed uff e Stuehl. Näwe n’em Stuehl steht e Photoapparat.)
 
           
-",bastian-struwelpeter,117,17,0.08091682997845194,0.1452991452991453
+",98,bastian-struwelpeter,117,17,0.08091682997845194,0.1452991452991453
 692,tale,Crac,M,,,,"
             
 Crac:
@@ -5101,7 +5101,7 @@ Crac:
 Dis-donc, camarade Cric, was mach’sch denn?
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",98,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 693,tale,Cric,M,,,,"
             
 Cric:
@@ -5110,7 +5110,7 @@ Cric:
 Ich geh promniere, camarade Crac. Es räjt jo nit. Awer d’Sunn schient. Dü bisch so schön mit dem Bareblie. Ich möcht dich gern photographiere.
 
           
-",bastian-struwelpeter,26,4,0.002249999999999975,0.15384615384615385
+",99,bastian-struwelpeter,26,4,0.002249999999999975,0.15384615384615385
 694,tale,Cric,M,,,,"
             
 Cric:
@@ -5120,7 +5120,7 @@ Photographiere? Bon, camarade Crac, très aimable.
 (Setzt sich uff d'r Stuehl.)
 
           
-",bastian-struwelpeter,14,2,0.0,0.14285714285714285
+",99,bastian-struwelpeter,14,2,0.0,0.14285714285714285
 695,tale,Crac,M,,,,"
             
 Crac:
@@ -5135,7 +5135,7 @@ C’est ça!
 .
 
           
-",bastian-struwelpeter,38,5,0.06739999999999999,0.13157894736842105
+",99,bastian-struwelpeter,38,5,0.06739999999999999,0.13157894736842105
 696,tale,Crac,M,,,,"
             
 Crac:
@@ -5148,7 +5148,7 @@ So isch recht. Uffgebasst, un, deux, trois.
 (Er schiesst.)
 
           
-",bastian-struwelpeter,22,2,0.164,0.09090909090909091
+",99,bastian-struwelpeter,22,2,0.164,0.09090909090909091
 698,tale,Crac,M,,,,"
             
 Crac:
@@ -5160,7 +5160,7 @@ Pardon, camarade, diss isch e Blitzlichtuffnahm gsin.
 (Stellt Crie uff d'r Stuehl, schlupft unter’s Tuech.)
 
           
-",bastian-struwelpeter,35,4,0.082,0.11428571428571428
+",99,bastian-struwelpeter,35,4,0.082,0.11428571428571428
 699,tale,Cric,M,,,,"
             
 Cric:
@@ -5170,7 +5170,7 @@ Cric schlicht an de Apparat, holt e Siphon üss-em Sack, spritzt uff Crac, d’r
 (ab.)
 
           
-",bastian-struwelpeter,23,1,0.0,0.043478260869565216
+",99,bastian-struwelpeter,23,1,0.0,0.043478260869565216
 701,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5184,7 +5184,7 @@ Verehrti Herrschafte, Sie wäre als Numero fünf vum Programm d'r Athlet Mössj�
 (In d'r Arena steht e schwarzumhängter Tisch mit Uffsatz. D’r Tisch het e runds Loch un steht uff e’re Versenkung. Heschmichgsehn vor'm Tisch, e grosser Cylinder ohne Bodde in d'r Hand, begrüesst ’s Publikum.)
 
           
-",bastian-struwelpeter,148,17,0.07470588235294118,0.11486486486486487
+",100,bastian-struwelpeter,148,17,0.07470588235294118,0.11486486486486487
 702,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5193,7 +5193,7 @@ Charlot:
 Verehrti Herrschafte, d'r weltberüehmt Zauberer Hesch- michgsehn wurd jetzt sini Zauberkunst zum Beschte gänn.
 
           
-",bastian-struwelpeter,16,3,0.15633333333333332,0.1875
+",100,bastian-struwelpeter,16,3,0.15633333333333332,0.1875
 703,tale,Heschmichgsehn,M,,,,"
             
 Heschmichgsehn:
@@ -5203,7 +5203,7 @@ Mesdames, messieurs, chers enfants, ich hab nix in d'r Hand als mine Cylinder, d
 (Babbier- schlange, Sprenzkännel, Gemüess, e Pferdele, e Hämmele, e Kristierspritz, e Balle, e Bubbel, e Kinderhemd, Schueh, Struempf, e Bibberon, e paar Luftballon, am End d'r lawen- dig klaan Clowe. Heschmichgsehn, Clowe ab. Diener draaue die Sache ab.)
 
           
-",bastian-struwelpeter,84,7,0.0,0.08333333333333333
+",100,bastian-struwelpeter,84,7,0.0,0.08333333333333333
 704,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5215,7 +5215,7 @@ Als Numero siewe vum Programm, Matrosedanz.
 (D’r Crac bringt e Stuehl, e Fimer mit Wasser, e Angel, setzt sich uff d’Stuehllehn, fischt. D’r Cric spielt Balles, sieht d'r Crac, werft d'r Balle in de Eimer dass ’s Wasser spritzt. D’r Crac zejt e Häri erüss, werft im Cric d'r Balle nooch.)
 
           
-",bastian-struwelpeter,110,14,0.015571428571428557,0.12727272727272726
+",100,bastian-struwelpeter,110,14,0.015571428571428557,0.12727272727272726
 705,tale,Crac,M,,,,"
             
 Crac:
@@ -5224,7 +5224,7 @@ Crac:
 Dis-donc, Cric, wottsch dü e Franke gewinne?
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",100,bastian-struwelpeter,8,1,0.0,0.125
 706,tale,Cric,M,,,,"
             
 Cric:
@@ -5233,7 +5233,7 @@ Cric:
 E Franke? O ja, camarade Crac.
 
           
-",bastian-struwelpeter,7,2,0.0,0.2857142857142857
+",100,bastian-struwelpeter,7,2,0.0,0.2857142857142857
 709,tale,Crac,M,,,,"
             
 Crac:
@@ -5245,7 +5245,7 @@ Crac:
 So, jetzt laj ich e Franke uff d’Stirn, mach e so, un hoppla, lejt d'r Franke im Sprenzelhafe. Hesch’s gsehne?
 
           
-",bastian-struwelpeter,36,1,0.0,0.027777777777777776
+",101,bastian-struwelpeter,36,1,0.0,0.027777777777777776
 712,tale,Cric,M,,,,"
             
 Cric:
@@ -5254,7 +5254,7 @@ Cric:
 (springt uff, schüettelt d’Hose un will-em d'r Bimer uff- setze. Beide ab. Diener rüme ab.)
 
           
-",bastian-struwelpeter,20,2,0.0,0.1
+",101,bastian-struwelpeter,20,2,0.0,0.1
 713,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5264,7 +5264,7 @@ Als Numero acht vum Programm wurd d'r Direkter, Mössjö Strüwelpeter, d'r Elep
 (Müsik, D’r Elephant danzt im Polkaschritt.)
 
           
-",bastian-struwelpeter,27,2,0.008,0.07407407407407407
+",101,bastian-struwelpeter,27,2,0.008,0.07407407407407407
 714,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -5274,7 +5274,7 @@ Danz schön, Bibi-Coco, danz. Lüepf schön dini nette Schunke. Allez, Bibi-Coco
 (Müsik brecht ab. Beidi ab.)
 
           
-",bastian-struwelpeter,21,6,0.005666666666666633,0.2857142857142857
+",102,bastian-struwelpeter,21,6,0.005666666666666633,0.2857142857142857
 715,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5284,7 +5284,7 @@ Hochverehrti Herrschafte! Als Numero nyn vum Programm trette uff die weltberüeh
 (Beidi han Holzschueh aan, draaue grossi Kuffer, schwitze, sitze uff d’Kuffer.)
 
           
-",bastian-struwelpeter,32,4,0.11725,0.125
+",102,bastian-struwelpeter,32,4,0.11725,0.125
 718,tale,Fricatelli Jean,M,,,,"
             
 Jean:
@@ -5293,7 +5293,7 @@ Jean:
 Non. Cest triste. Halt!, ich hab zwai Aepfel. Aaner for dich un aaner for mich.
 
           
-",bastian-struwelpeter,16,1,0.0,0.0625
+",102,bastian-struwelpeter,16,1,0.0,0.0625
 720,tale,Fricatelli Jean,M,,,,"
             
 Jean :
@@ -5305,7 +5305,7 @@ Jean :
 O-o!
 
           
-",bastian-struwelpeter,12,2,0.0,0.16666666666666666
+",102,bastian-struwelpeter,12,2,0.0,0.16666666666666666
 722,tale,Fricatelli Jean,M,,,,"
             
 Jean:
@@ -5317,7 +5317,7 @@ Maintenant nous allons faire un petit concert.
 (Holzschueh ab.)
 
           
-",bastian-struwelpeter,26,1,0.0,0.038461538461538464
+",103,bastian-struwelpeter,26,1,0.0,0.038461538461538464
 723,tale,Fricatelli Marius,M,,,,"
             
 Marius:
@@ -5330,7 +5330,7 @@ Haha, c'est rigolo.
  C'est joli Jean, hein?
 
           
-",bastian-struwelpeter,30,2,0.0,0.06666666666666667
+",103,bastian-struwelpeter,30,2,0.0,0.06666666666666667
 725,tale,Fricatelli Marius,M,,,,"
             
 Marius:
@@ -5341,7 +5341,7 @@ Marius:
 (E Diener bringt im Jean e Depesch.)
 
           
-",bastian-struwelpeter,21,1,0.0,0.047619047619047616
+",103,bastian-struwelpeter,21,1,0.0,0.047619047619047616
 728,tale,Fricatelli Jean,M,,,,"
             
 Jean:
@@ -5350,7 +5350,7 @@ Jean:
 Unseri chère grand-mère isch zuem dritte Mol gschtorwe.
 
           
-",bastian-struwelpeter,9,1,0.8910000000000001,0.1111111111111111
+",104,bastian-struwelpeter,9,1,0.8910000000000001,0.1111111111111111
 731,tale,Fricatelli Marius,M,,,,"
             
 Marius :
@@ -5365,7 +5365,7 @@ Pleurez, mes enfants, pleurez.
 (D’r Diener bringt e Depesch.)
 
           
-",bastian-struwelpeter,32,2,0.0,0.0625
+",104,bastian-struwelpeter,32,2,0.0,0.0625
 732,tale,Fricatelli Jean,M,,,,"
             
 Jean:
@@ -5377,7 +5377,7 @@ Encore une dépêche? Marius, unseri grand’mère isch nit gschtorwe.
 (Verschmutzt d’Bubb, lajt sie in de Kuffer.)
 
           
-",bastian-struwelpeter,35,2,0.8910000000000001,0.05714285714285714
+",104,bastian-struwelpeter,35,2,0.8910000000000001,0.05714285714285714
 733,tale,Fricatelli Marius,M,,,,"
             
 Marius :
@@ -5392,7 +5392,7 @@ Mon cher cousin Teddi, unseri grand’mère isch nit gschtorwe.
 (Danze, singe tralala.)
 
           
-",bastian-struwelpeter,26,3,0.29700000000000004,0.11538461538461539
+",104,bastian-struwelpeter,26,3,0.29700000000000004,0.11538461538461539
 734,tale,Fricatelli Jean,M,,,,"
             
 Jean:
@@ -5402,7 +5402,7 @@ Bonsoir, mes enfants.
 (ab.)
 
           
-",bastian-struwelpeter,7,1,0.0,0.14285714285714285
+",104,bastian-struwelpeter,7,1,0.0,0.14285714285714285
 736,tale,Charlot,M,,,,"
             
 Charlot:
@@ -5412,7 +5412,7 @@ D’r Esel Schakob, d'r Bär Chocola, in Begleitung vum Ries Ali-Baba stelle sic
 (Gehn vor an d’Scene, Ali-Baba in d'r Mitte.)
 
           
-",bastian-struwelpeter,29,3,0.0,0.10344827586206896
+",105,bastian-struwelpeter,29,3,0.0,0.10344827586206896
 737,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -5422,7 +5422,7 @@ Liewi Kamerädle, do zaj ich Euch d'r Ries Ali- Baba. Er isch so gross, dass’r
 (D'r Schakob macht biem Boxe: Ya! Ya! D'r Chocola brummelt, Crie un Crac verschlaaue sich mit Söüblose.)
 
           
-",bastian-struwelpeter,116,15,0.1508686127298287,0.12931034482758622
+",105,bastian-struwelpeter,116,15,0.1508686127298287,0.12931034482758622
 739,tale,Moppel,M,,,,"
             
 Moppel:
@@ -5431,7 +5431,7 @@ Moppel:
 Ken Zwiefel, Herr Gendarm. Arretiere mer ’ne.
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",105,bastian-struwelpeter,8,1,0.0,0.125
 740,tale,Açavoyons,M,,,,"
             
 Açavoyons:
@@ -5446,7 +5446,7 @@ Er geht uns nimmi durich. Wenn ich kummedier: «Arrêtez-le», no stüerze mer u
 (Es wurd halbdunkel, alli mieselstill.)
 
           
-",bastian-struwelpeter,55,6,0.0026666666666666666,0.10909090909090909
+",105,bastian-struwelpeter,55,6,0.0026666666666666666,0.10909090909090909
 743,tale,Waldfee,F,,,,"
             
 Waldfeekönigin :
@@ -5458,7 +5458,7 @@ Hesch dini Eltre ganz vergesse, Uess Stolz und Hochmuet ungemesse, Drum wurd for
 — Rideau. — End vum 6. Bild. 
 
           
-",bastian-struwelpeter,49,12,0.09436373797619228,0.24489795918367346
+",106,bastian-struwelpeter,49,12,0.09436373797619228,0.24489795918367346
 744,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -5470,7 +5470,7 @@ Strüwelpeter :
 Ach, in mim Kopf
 
           
-",bastian-struwelpeter,12,1,0.0,0.08333333333333333
+",106,bastian-struwelpeter,12,1,0.0,0.08333333333333333
 746,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -5479,7 +5479,7 @@ Strüwelpeter :
 Was hört mer, Müsik? O min armer Kopf.
 
           
-",bastian-struwelpeter,9,2,0.28900000000000003,0.2222222222222222
+",106,bastian-struwelpeter,9,2,0.28900000000000003,0.2222222222222222
 747,tale,Waldfee,F,,,,"
             
 Waldfeekünigin:
@@ -5492,7 +5492,7 @@ Ich bin d’Waldfeekönigin,
  Scène: Kurz noch-em Rideau, Gebirj, Walddekoration. Grüner Bodde.  Strüwelpeter sitzt im alte Kleid uff-em e Baamstumbe, d'r Kopf in d’Händ vergrawe. Noochher Waldfeekön igin, Waldfee-e, Mehlstaub, sini  
 
           
-",bastian-struwelpeter,38,2,0.3742593479769124,0.05263157894736842
+",106,bastian-struwelpeter,38,2,0.3742593479769124,0.05263157894736842
 748,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter 
@@ -5501,7 +5501,7 @@ Strüwelpeter
 Waldfeekönigin hin, Waldfeekönigin her, un wenn dü selwer üss Gold wärsch, ich glaub dir nix meh. Dü hesch mich in d’Höll gschickt, wo ich fascht gebrote wär worte, hesch mini Eltere ze Katze verzaubert, hesch d'r Zirik
 
           
-",bastian-struwelpeter,39,7,0.17949306794264933,0.1794871794871795
+",106,bastian-struwelpeter,39,7,0.17949306794264933,0.1794871794871795
 749,tale,Waldfee,F,,,,"
             
 Waldfeekünigin:
@@ -5513,7 +5513,7 @@ Ja, ich waiss; din Herz isch voll, Alles kummt wie’s kumme soll. Ich versteh d
 (Melo.)
 
           
-",bastian-struwelpeter,110,22,0.0711990361884094,0.2
+",107,bastian-struwelpeter,110,22,0.0711990361884094,0.2
 750,tale,Waldfee,F,,,,"
             
 Waldfeekönigin :
@@ -5525,7 +5525,7 @@ Waldfeekönigin :
 Strüwelpeterle!
 
           
-",bastian-struwelpeter,10,1,0.0,0.1
+",107,bastian-struwelpeter,10,1,0.0,0.1
 751,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -5534,7 +5534,7 @@ Strüwelpeter :
 (isch verwirrt, dröit nit vorzegehn)
 
           
-",bastian-struwelpeter,8,1,0.0,0.125
+",107,bastian-struwelpeter,8,1,0.0,0.125
 752,tale,Waldfee,F,,,,"
             
 Waldfeekönigin:
@@ -5546,7 +5546,7 @@ D’Haame steht e neji Müehl Mit’me Sack voll Gold, soviel Was e Esel draaue 
 (Uewerdem kumme d’Eltere üss de Roseguirlande.)
 
           
-",bastian-struwelpeter,45,7,0.0,0.15555555555555556
+",107,bastian-struwelpeter,45,7,0.0,0.15555555555555556
 753,tale,Schang,M,,,,"
             
 Wetaieckänigin :
@@ -5559,7 +5559,7 @@ Miner Säje, Glüeck un Fraid, Furt isch alles Herzeleid!
 (D’Müsik brecht ab.)
 
           
-",bastian-struwelpeter,24,5,0.0032,0.20833333333333334
+",107,bastian-struwelpeter,24,5,0.0032,0.20833333333333334
 754,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -5575,7 +5575,7 @@ Mini Eltere! Mini liewe Eltere!
  Gell dü bisch ken Katzemicker meh?
 
           
-",bastian-struwelpeter,43,9,0.0017777777777777779,0.20930232558139536
+",107,bastian-struwelpeter,43,9,0.0017777777777777779,0.20930232558139536
 755,tale,E Müller,M,,,,"
             
 Müllere:
@@ -5584,7 +5584,7 @@ Müllere:
 Naan. Min liebs schöns Peterle. O Gott, dü bisch so lang furt gsin.
 
           
-",bastian-struwelpeter,14,2,0.2265,0.14285714285714285
+",107,bastian-struwelpeter,14,2,0.2265,0.14285714285714285
 756,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter :
@@ -5596,7 +5596,7 @@ Strüwelpeter :
 Un dü Vadder, bisch ken Katzeroller meh?
 
           
-",bastian-struwelpeter,13,2,0.0,0.15384615384615385
+",108,bastian-struwelpeter,13,2,0.0,0.15384615384615385
 758,tale,Strüwelpeter,M,,,,"
             
 Strüwelpeter:
@@ -5610,4 +5610,4 @@ Un brav bin ich worre. Muedder luej, so viel hoch brav, luej, Vadder, so viel no
  End! 
 
           
-",bastian-struwelpeter,70,14,0.03865659197277722,0.2
+",108,bastian-struwelpeter,70,14,0.03865659197277722,0.2

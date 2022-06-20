@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 3,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -7,7 +7,7 @@ Alte Frau:
 Ja, sin’r ejrer Sach) denn au ganz sicher ?
 
       
-",stoskopf-e-mordsaffar,11,4,0.7043169583169302,0.36363636363636365
+",3,stoskopf-e-mordsaffar,11,4,0.7043169583169302,0.36363636363636365
 4,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -18,7 +18,7 @@ Au noch?! Ihr muehn e solide Schlof han oder daub sin wie e Pfohl, wenn er nix g
  Ihr han’s doch alli ghört? —
 
       
-",stoskopf-e-mordsaffar,39,2,0.1202963557426632,0.05128205128205128
+",4,stoskopf-e-mordsaffar,39,2,0.1202963557426632,0.05128205128205128
 5,comedy,Eine alte Frau,F,,,,"
         
 Alle :
@@ -30,7 +30,7 @@ Alle :
 Ja, un ob!—
 
       
-",stoskopf-e-mordsaffar,11,1,0.731982479119855,0.09090909090909091
+",5,stoskopf-e-mordsaffar,11,1,0.731982479119855,0.09090909090909091
 6,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -39,7 +39,7 @@ Katherin:
 Es isch ganz gottsjämmerlich g’sin, diß Gebruels anzehöre ! Die arm Frau hett gejehlt un gekrische, wie er als uf se g’haue hett, daß sich d'Stein hätte-n-erweiche möchte!
 
       
-",stoskopf-e-mordsaffar,31,4,0.4969391266097511,0.12903225806451613
+",6,stoskopf-e-mordsaffar,31,4,0.4969391266097511,0.12903225806451613
 7,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -48,7 +48,7 @@ Schuster:
 E jede Streich hawi g’hört, wie ere versetzt hett.
 
       
-",stoskopf-e-mordsaffar,10,1,0.281,0.1
+",7,stoskopf-e-mordsaffar,10,1,0.281,0.1
 8,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -57,7 +57,7 @@ Alte Frau:
 Um well Zitt isch’s g’sin?
 
       
-",stoskopf-e-mordsaffar,8,2,0.521544519453076,0.25
+",8,stoskopf-e-mordsaffar,8,2,0.521544519453076,0.25
 9,comedy,Marie,F,,,,"
         
 Marie:
@@ -66,7 +66,7 @@ Marie:
 S’isch geje de Zwölfe g’sin.
 
       
-",stoskopf-e-mordsaffar,7,1,0.3289476186734883,0.14285714285714285
+",9,stoskopf-e-mordsaffar,7,1,0.3289476186734883,0.14285714285714285
 10,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -75,7 +75,7 @@ Alte Frau:
 In d'r Beischterstund ?!
 
       
-",stoskopf-e-mordsaffar,5,1,0.4925124549056713,0.2
+",10,stoskopf-e-mordsaffar,5,1,0.4925124549056713,0.2
 11,comedy,Marie,F,,,,"
         
 Marie:
@@ -84,7 +84,7 @@ Marie:
 Ich hab grad getraimt g’hett, daß d’Hüsare vun Stroßburri versetzt worre sin, do krej ich e Mordsschrecke un verwach un hör im Zimmer newe mir — wisse Sie, ich schloof newe d’r Herr- schaft wäje-n-em kleine Kind — un hör, wie g’saat, e Heidespektakel.
 
       
-",stoskopf-e-mordsaffar,49,6,0.4796971241842614,0.12244897959183673
+",11,stoskopf-e-mordsaffar,49,6,0.4796971241842614,0.12244897959183673
 12,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -93,7 +93,7 @@ Schuster:
 Grad wie ich, ich hab grad getraimt, ich hab e Los genumme in ere Lotterie, un im Moment, wie ich m’r’s Nummero hab merike welle, wur ich uffgeweckt durich e Läwesdaa iwer mir, wie ganz gottvergesse-n-isch g’sin. Ich rieb m’r d’Aue-n- üs un fall fascht in Ohnmacht, im Bett newe mir steht e großi wiffi G'stalt uffrecht an d'r Wand...
 
       
-",stoskopf-e-mordsaffar,66,9,0.6613019317944235,0.13636363636363635
+",12,stoskopf-e-mordsaffar,66,9,0.6613019317944235,0.13636363636363635
 13,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -102,7 +102,7 @@ Alte Frau:
 Um’s Gottswille isch’s möjli? — Es isch doch ken G’spenscht g’sin?
 
       
-",stoskopf-e-mordsaffar,15,2,0.40776271519737106,0.13333333333333333
+",13,stoskopf-e-mordsaffar,15,2,0.40776271519737106,0.13333333333333333
 14,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -111,7 +111,7 @@ Schuster:
 Nein, es isch mini Frau g’sin, wie au schun vun dem Läwesdaa uffgeweckt isch g’sin, un wie gelüschtert hett. „Hörsch?“ saat sie zue mir. „Ja Frau,” hawi zue ere g’saat. „Diß isch jo schreckli,” hett sie g’saat, „diß isch jo schreckli” saa ich d’rno.
 
       
-",stoskopf-e-mordsaffar,54,5,0.4857802246999783,0.09259259259259259
+",14,stoskopf-e-mordsaffar,54,5,0.4857802246999783,0.09259259259259259
 15,comedy,Katherin,F,,,,"
         
 Katherin :
@@ -123,7 +123,7 @@ Katherin :
 Un no han m’r mitnander gelüschtert. D’Hoor sin uns ze Berry g’stande, wie der sini Frau verschlaaue hett. Bim e jede Streich wie m’r süse han höre, han m’r uns als gebuckt, un glich druff hett m’r als wid’r krische höre. Diß Ding hett e Wyl so furt gedürt, bis’r sie kalt gemacht hett g’hett. Im ganze Zimmer isch’r ’re nochgeloffe, bis’r se verwitscht hett. Sie hett sich natierlich flüchte welle, awer der elend Herr hett allewäj d’Tür zueb’schlosse g’hett —.
 
       
-",stoskopf-e-mordsaffar,93,8,0.49330582820833546,0.08602150537634409
+",15,stoskopf-e-mordsaffar,93,8,0.49330582820833546,0.08602150537634409
 16,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -132,7 +132,7 @@ Schuster:
 „Un dü gehsch m’r doch nit durich,” hett’r als g’saat, „miserawls G’schöpf, elends,” un bumms hett'r wid’r eins drufflosg’haue, un die arm Frau hett gekrische, daß’s eim durich Mark un Bein g'fahre-n-isch.
 
       
-",stoskopf-e-mordsaffar,40,2,0.4720313845196832,0.05
+",16,stoskopf-e-mordsaffar,40,2,0.4720313845196832,0.05
 17,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -141,7 +141,7 @@ Katherin:
 Do uff einmol hett m'r noch e stariker Streich g’hört, d’rno hett m’r krische höre, wie ebber, wo e Meffer im Hals stecke hett.. . .
 
       
-",stoskopf-e-mordsaffar,26,3,0.5335397085955857,0.11538461538461539
+",17,stoskopf-e-mordsaffar,26,3,0.5335397085955857,0.11538461538461539
 18,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -150,7 +150,7 @@ Schuster:
 Un d'r Mörder, haw ich g’hört, wie'r ganz dittli g’saat hett: „So jetzt hesch furs Murre —”
 
       
-",stoskopf-e-mordsaffar,20,3,0.5107605270981259,0.15
+",18,stoskopf-e-mordsaffar,20,3,0.5107605270981259,0.15
 19,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -159,7 +159,7 @@ Katherin:
 So isch's, ja so isch's!
 
       
-",stoskopf-e-mordsaffar,8,1,0.731982479119855,0.125
+",19,stoskopf-e-mordsaffar,8,1,0.731982479119855,0.125
 20,comedy,Marie,F,,,,"
         
 Marie:
@@ -168,7 +168,7 @@ Marie:
 Un no isch’s stille worre.
 
       
-",stoskopf-e-mordsaffar,7,1,0.5843859837527715,0.14285714285714285
+",20,stoskopf-e-mordsaffar,7,1,0.5843859837527715,0.14285714285714285
 21,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -177,7 +177,7 @@ Katherin:
 Stille, wie im Grab! —
 
       
-",stoskopf-e-mordsaffar,6,2,0.43609312517998233,0.3333333333333333
+",21,stoskopf-e-mordsaffar,6,2,0.43609312517998233,0.3333333333333333
 22,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -188,7 +188,7 @@ Diß isch jo grieserli ! Nein, so e Canaille ! Marie
  : Jesses Maria, jetzt kummt’r allewäj glich, er thuet grad d’Hosse-n-an.
 
       
-",stoskopf-e-mordsaffar,33,3,0.6639592003181639,0.09090909090909091
+",22,stoskopf-e-mordsaffar,33,3,0.6639592003181639,0.09090909090909091
 23,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -197,7 +197,7 @@ Katherin:
 So ganz kaltbluetig?! So mir nix dir nix ?! — O, die Canaille! S’bescht wurd sin, ich geh jetzt die arm Mamme prevenire, die wurd lueije, wenn ich's ere so hinte-n-erum ze verstehn wurr gän, daß se-n-e Mörder zuem Dochtermann hett.
 
       
-",stoskopf-e-mordsaffar,47,6,0.5229248914051049,0.1276595744680851
+",23,stoskopf-e-mordsaffar,47,6,0.5229248914051049,0.1276595744680851
 24,comedy,"Eine alte Frau. ― Leute aus dem Hause, Dienstboten, Polizisten.",B,policeman,government_executive_officials,lower_class,"
         
 Alte Frau:
@@ -206,7 +206,7 @@ Alte Frau:
 M’r grüst’s ganz, wenn’r jetzt awer so uf einmol erüs thät kumme.
 
       
-",stoskopf-e-mordsaffar,15,4,0.6286890208868176,0.26666666666666666
+",24,stoskopf-e-mordsaffar,15,4,0.6286890208868176,0.26666666666666666
 25,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -215,7 +215,7 @@ Schuster:
 Nur kenn Angscht ! Do solle Sie ebs erlewe, do solle Sie emol sehn, wie ich denne anne- stelle wurr. Sie gottvergessener Frauemörder, wurr ich zuem saaue un wurr'm d’rbi in’s Wiß vun sine-n- Aue löuije, daß'r for Scham in de Erdsgrundsbodde nin versinke möcht!
 
       
-",stoskopf-e-mordsaffar,50,3,0.49376475761030597,0.06
+",25,stoskopf-e-mordsaffar,50,3,0.49376475761030597,0.06
 26,comedy,Marie,F,,,,"
         
 Marie:
@@ -225,7 +225,7 @@ Scht! — Ich glaub er kummt
 (die Türe geht auf, Herr Müller tritt herein, er hat eine kleine Schachtel in der Hand und sieht erstaunt um sich. Marie reibt hastig mit einem Lappen an einem Möbel herum; die alte Frau, Katherin und die Leute im Türrahmen stieben entsetzt davon, Schuster hinterdrein, Müller eilt ihm nach und hält ihn zurück.)
 
       
-",stoskopf-e-mordsaffar,62,7,0.4381626388650001,0.11290322580645161
+",26,stoskopf-e-mordsaffar,62,7,0.4381626388650001,0.11290322580645161
 27,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -236,7 +236,7 @@ Schueschter, Schueschter! Ja, was Deifels, was isch, denn do Ios, ich glaub ihr 
  Ze redde doch, was han’r denn gewellt ?!
 
       
-",stoskopf-e-mordsaffar,40,2,0.7806916780389461,0.05
+",27,stoskopf-e-mordsaffar,40,2,0.7806916780389461,0.05
 28,comedy,Marie,F,,,,"
         
 Marie :
@@ -248,7 +248,7 @@ Marie :
 Schreckli ! Wie schreckli daß’r üssicht!
 
       
-",stoskopf-e-mordsaffar,10,3,0.37050618614580677,0.3
+",28,stoskopf-e-mordsaffar,10,3,0.37050618614580677,0.3
 29,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -259,7 +259,7 @@ S'isch nix, gar nix, Herr Müller, gar nix, ich hab ne numme d’Zyttung eruff g
 .
 
       
-",stoskopf-e-mordsaffar,24,1,0.578708951845571,0.041666666666666664
+",29,stoskopf-e-mordsaffar,24,1,0.578708951845571,0.041666666666666664
 30,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -268,7 +268,7 @@ Müller:
 Ja, un die viele Lytt? —
 
       
-",stoskopf-e-mordsaffar,7,1,0.731982479119855,0.14285714285714285
+",30,stoskopf-e-mordsaffar,7,1,0.731982479119855,0.14285714285714285
 31,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -277,7 +277,7 @@ Schuster:
 Ei, — ei, die han m’r sie helfe bringe...
 
       
-",stoskopf-e-mordsaffar,10,1,0.833,0.1
+",31,stoskopf-e-mordsaffar,10,1,0.833,0.1
 32,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -286,7 +286,7 @@ Müller:
 Ja, un do d’rzue brücht m’r e so viel Lytt ?
 
       
-",stoskopf-e-mordsaffar,12,1,0.731982479119855,0.08333333333333333
+",32,stoskopf-e-mordsaffar,12,1,0.731982479119855,0.08333333333333333
 33,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -295,7 +295,7 @@ Schuster:
 Diß heißt, sie han mich begleit, sie han grad guet d'r Zitt g’hett . . . . sie sin spaziere gange.
 
       
-",stoskopf-e-mordsaffar,18,4,0.6983608960112176,0.2222222222222222
+",33,stoskopf-e-mordsaffar,18,4,0.6983608960112176,0.2222222222222222
 34,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -309,7 +309,7 @@ Ich glaub der Mann hett de Verstand verlore,
  ze gän m’r se e Gottsname here die Zyttung.
 
       
-",stoskopf-e-mordsaffar,26,5,0.5970507326910277,0.19230769230769232
+",34,stoskopf-e-mordsaffar,26,5,0.5970507326910277,0.19230769230769232
 35,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -318,7 +318,7 @@ Schuster:
 Grad suech i sie, jetzt sieh i ererscht, daß i se vergeffe hab... Ich will sie glich gehn hole.
 
       
-",stoskopf-e-mordsaffar,20,2,0.6585226216733173,0.1
+",35,stoskopf-e-mordsaffar,20,2,0.6585226216733173,0.1
 36,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -327,7 +327,7 @@ Müller:
 Ich weiß gar nit, wie Ihr mir vorkumme, m’r meint, Ihr han glauwi schun e Dampf
 
       
-",stoskopf-e-mordsaffar,17,2,0.6528518964589971,0.11764705882352941
+",36,stoskopf-e-mordsaffar,17,2,0.6528518964589971,0.11764705882352941
 37,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -341,7 +341,7 @@ Besser e Dampf, wie e schlechts Gewisse schleunig
 .
 
       
-",stoskopf-e-mordsaffar,17,2,0.5892914614252284,0.11764705882352941
+",37,stoskopf-e-mordsaffar,17,2,0.5892914614252284,0.11764705882352941
 38,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -353,7 +353,7 @@ Müller:
 Total verhuttelt, total verhuttelt! Ex dürt mi, der arm Mann. —
 
       
-",stoskopf-e-mordsaffar,17,4,0.39441687816184645,0.23529411764705882
+",38,stoskopf-e-mordsaffar,17,4,0.39441687816184645,0.23529411764705882
 39,comedy,Marie,F,,,,"
         
 Marie:
@@ -364,7 +364,7 @@ Ich rieder an Arm und Bein, allein bliew ich au net
 .
 
       
-",stoskopf-e-mordsaffar,16,2,0.2713960904169014,0.125
+",39,stoskopf-e-mordsaffar,16,2,0.2713960904169014,0.125
 40,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -373,7 +373,7 @@ Müller:
 Worum lauft Sie denn so furt wie nasebluetig ? Sie hätte g’scheiter dran gethon, wenn Sie mir de Kaffee ferviert hätte, als do ze rätsche; un daß m’r diß nimm vorkummt, daß i fremdi Lytt am Morje in minere Wohnung treff.
 
       
-",stoskopf-e-mordsaffar,41,2,0.7003280734432114,0.04878048780487805
+",40,stoskopf-e-mordsaffar,41,2,0.7003280734432114,0.04878048780487805
 41,comedy,Marie,F,,,,"
         
 Marie:
@@ -384,7 +384,7 @@ Ah, de Kaffee! — Ja, Herr, im Aues- blick
 .
 
       
-",stoskopf-e-mordsaffar,15,4,0.6566174044855299,0.26666666666666666
+",41,stoskopf-e-mordsaffar,15,4,0.6566174044855299,0.26666666666666666
 42,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -393,7 +393,7 @@ Müller:
 Ich weiß nit, die Sach kummt m’r so merkwürdi vor, was do nur for e G’heimnis drunter stecke mueß. C’est curieux, très curieux!
 
       
-",stoskopf-e-mordsaffar,24,1,0.3348726462475479,0.041666666666666664
+",42,stoskopf-e-mordsaffar,24,1,0.3348726462475479,0.041666666666666664
 46,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -402,7 +402,7 @@ Müller:
 Ja, ewi Frau, ich hab schun dran gedenkt, ich hab sie do in ere Lad.
 
       
-",stoskopf-e-mordsaffar,16,2,0.7335480795734195,0.125
+",46,stoskopf-e-mordsaffar,16,2,0.7335480795734195,0.125
 48,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -417,7 +417,7 @@ Oui, Herzele.
 .
 
       
-",stoskopf-e-mordsaffar,225,22,0.4910101886938214,0.09777777777777778
+",48,stoskopf-e-mordsaffar,225,22,0.4910101886938214,0.09777777777777778
 49,comedy,Marie,F,,,,"
         
 Marie:
@@ -426,7 +426,7 @@ Marie:
 Kapüt isch kapüt!
 
       
-",stoskopf-e-mordsaffar,4,2,0.1613497758740795,0.5
+",49,stoskopf-e-mordsaffar,4,2,0.1613497758740795,0.5
 50,comedy,Adolph Müller,M,,,,"
         
 Müller :
@@ -440,7 +440,7 @@ Ei, d’r Schinder, was macht sie do schun wid’r, Sie verhejt uns jo noch alle
 : Verschone Sie mi, Herr, ver- schone Sie mi !
 
       
-",stoskopf-e-mordsaffar,47,5,0.4170973957249064,0.10638297872340426
+",50,stoskopf-e-mordsaffar,47,5,0.4170973957249064,0.10638297872340426
 51,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -455,7 +455,7 @@ Macht Sie kenn so dummi Plän, ich will Sie jo nit fresse, un paßt Sie mir e-n-
 : Männele, gäll's Marie hett wid’r ebs verhejt?
 
       
-",stoskopf-e-mordsaffar,92,12,0.5374418272812518,0.13043478260869565
+",51,stoskopf-e-mordsaffar,92,12,0.5374418272812518,0.13043478260869565
 52,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -464,7 +464,7 @@ Müller:
 Ja, ’s Kaffeeservice.
 
       
-",stoskopf-e-mordsaffar,4,1,0.731982479119855,0.25
+",52,stoskopf-e-mordsaffar,4,1,0.731982479119855,0.25
 54,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -473,7 +473,7 @@ Müller:
 Nein, liebs Kind, blieb nur noch Ieje, dü hesch bös genue g’schloofe die Nacht wäje dere Fledermüs . ... Au revoir, Schätzele, ich mueß uffs Bureau gehn.
 
       
-",stoskopf-e-mordsaffar,26,2,0.4839945032413731,0.07692307692307693
+",54,stoskopf-e-mordsaffar,26,2,0.4839945032413731,0.07692307692307693
 57,comedy,Marie,F,,,,"
         
 Marie :
@@ -485,7 +485,7 @@ Marie :
 Schreckli, fchreckli, ich zit’r am ganze Körper.
 
       
-",stoskopf-e-mordsaffar,14,3,0.4810118968867599,0.21428571428571427
+",57,stoskopf-e-mordsaffar,14,3,0.4810118968867599,0.21428571428571427
 58,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -501,7 +501,7 @@ Müller:
 .
 
       
-",stoskopf-e-mordsaffar,35,4,0.4856253645060076,0.11428571428571428
+",58,stoskopf-e-mordsaffar,35,4,0.4856253645060076,0.11428571428571428
 59,comedy,Marie,F,,,,"
         
 Marie:
@@ -518,7 +518,7 @@ Ja Herr! —
 .
 
       
-",stoskopf-e-mordsaffar,77,11,0.6147837346326311,0.14285714285714285
+",59,stoskopf-e-mordsaffar,77,11,0.6147837346326311,0.14285714285714285
 60,comedy,Marie,F,,,,"
         
 Marie:
@@ -527,7 +527,7 @@ Marie:
 D’Bolizej?! — O, es grüst m’r ganz.
 
       
-",stoskopf-e-mordsaffar,9,1,0.8004800063959763,0.1111111111111111
+",60,stoskopf-e-mordsaffar,9,1,0.8004800063959763,0.1111111111111111
 61,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -536,7 +536,7 @@ Schuster:
 Hein? Mamsell Marie, han Sie ne recht betracht, wie verstört, daß’r üsg’sehn hett, wie bleich daß'r isch g'sin? Un wier verschrocke-n-isch, wie ich'm eine niewer g’stellt hab, un wie ich’m g'saat hab, daß’s besser isch, m’r hett e Dampf in d'r Fruehj als e schlechts Gewisse !
 
       
-",stoskopf-e-mordsaffar,52,6,0.47455933971413694,0.11538461538461539
+",61,stoskopf-e-mordsaffar,52,6,0.47455933971413694,0.11538461538461539
 62,comedy,Marie,F,,,,"
         
 Marie:
@@ -545,7 +545,7 @@ Marie:
 Ja, er isch ganz zammeg’fahre !
 
       
-",stoskopf-e-mordsaffar,6,2,0.7662312427579157,0.3333333333333333
+",62,stoskopf-e-mordsaffar,6,2,0.7662312427579157,0.3333333333333333
 63,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -558,7 +558,7 @@ Han Sie's au gemerikt, wie'r mim Blick üsgewiche-n-isch, wenn ich ne als angelu
 ? Jesses, m’r sott fascht meine, m’r hört ebs!? — Jesses Maria!
 
       
-",stoskopf-e-mordsaffar,75,12,0.6806610094234206,0.16
+",63,stoskopf-e-mordsaffar,75,12,0.6806610094234206,0.16
 64,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -569,7 +569,7 @@ Sott se-n-am End noch nit ganz tot sin ? — die arm Frau, sie thät mich düre,
 ; Do kummt die arm Mamme ! —
 
       
-",stoskopf-e-mordsaffar,52,5,0.5526555070299288,0.09615384615384616
+",64,stoskopf-e-mordsaffar,52,5,0.5526555070299288,0.09615384615384616
 65,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -578,7 +578,7 @@ Katherin:
 Kumme se numme-n-rin, Madame Schmidt.
 
       
-",stoskopf-e-mordsaffar,8,2,0.5674839722878076,0.25
+",65,stoskopf-e-mordsaffar,8,2,0.5674839722878076,0.25
 66,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt :
@@ -590,7 +590,7 @@ Mme. Schmidt :
 O‚ ich armi unglicklichi Frau !
 
       
-",stoskopf-e-mordsaffar,16,3,0.19643274043971562,0.1875
+",66,stoskopf-e-mordsaffar,16,3,0.19643274043971562,0.1875
 67,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -599,7 +599,7 @@ Schuster:
 Ich nemm Antheil, recht Antheil an ihrem große-n-Unglick.
 
       
-",stoskopf-e-mordsaffar,11,2,0.40119937580594095,0.18181818181818182
+",67,stoskopf-e-mordsaffar,11,2,0.40119937580594095,0.18181818181818182
 68,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -608,7 +608,7 @@ Mme. Schmidt:
 O, ich armi, armi Mamme ! Ich kann’s als noch nit recht glauwe, isch’s denn au ganz sicher wohr?
 
       
-",stoskopf-e-mordsaffar,22,8,0.652676219877451,0.36363636363636365
+",68,stoskopf-e-mordsaffar,22,8,0.652676219877451,0.36363636363636365
 69,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -617,7 +617,7 @@ Schuster:
 Un ebs wohr isch?! — Diß wär noch schöner, wenn's nit wohr wär, ’s isch grieserlich g’sin — grieserlich ! Es hett hatt e so kumme muehn.
 
       
-",stoskopf-e-mordsaffar,28,4,0.7293262738185593,0.14285714285714285
+",69,stoskopf-e-mordsaffar,28,4,0.7293262738185593,0.14285714285714285
 70,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -626,7 +626,7 @@ Katherin:
 Ja, es hett so kumme muehn!
 
       
-",stoskopf-e-mordsaffar,7,2,0.6198730506827388,0.2857142857142857
+",70,stoskopf-e-mordsaffar,7,2,0.6198730506827388,0.2857142857142857
 72,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -635,7 +635,7 @@ Mme. Schmidt:
 Ja, un worum sin se-s-ere denn nit ze Hilf kumme, wo sie so gekrische hett?
 
       
-",stoskopf-e-mordsaffar,18,2,0.6198730506827388,0.1111111111111111
+",72,stoskopf-e-mordsaffar,18,2,0.6198730506827388,0.1111111111111111
 73,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -648,7 +648,7 @@ Ja, was soll ich do saue. Wenn einer sini Frau durichhaut, diß isch Privatsach,
  Jeanne ! Jeanne !
 
       
-",stoskopf-e-mordsaffar,59,5,0.6550136821988476,0.0847457627118644
+",73,stoskopf-e-mordsaffar,59,5,0.6550136821988476,0.0847457627118644
 74,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -657,7 +657,7 @@ Jeanne:
 Bisch dü's Mamme?
 
       
-",stoskopf-e-mordsaffar,5,1,0.821040206337619,0.2
+",74,stoskopf-e-mordsaffar,5,1,0.821040206337619,0.2
 75,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -670,7 +670,7 @@ Ja, liebs Kind.
  : Sie lebt noch ?!
 
       
-",stoskopf-e-mordsaffar,24,3,0.5366404341282218,0.125
+",75,stoskopf-e-mordsaffar,24,3,0.5366404341282218,0.125
 76,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -679,7 +679,7 @@ Jeanne:
 Ich kumm grad, Mamme.
 
       
-",stoskopf-e-mordsaffar,5,3,0.676056324877354,0.6
+",76,stoskopf-e-mordsaffar,5,3,0.676056324877354,0.6
 78,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -688,7 +688,7 @@ Katherin:
 Die mueß awer e zäh’s Lewe han.
 
       
-",stoskopf-e-mordsaffar,9,1,0.8722145007409952,0.1111111111111111
+",78,stoskopf-e-mordsaffar,9,1,0.8722145007409952,0.1111111111111111
 79,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -700,7 +700,7 @@ Jeanne:
 Guete Morje Mamme. (Sieht mit großer Verwunderung die anderen, welche ganz zusammengeknickt dastehen. Besorgt: Ja, was isch denn? Was han’r denn, daß’r mich alli so anlöuje?
 
       
-",stoskopf-e-mordsaffar,39,8,0.6950657255889446,0.20512820512820512
+",79,stoskopf-e-mordsaffar,39,8,0.6950657255889446,0.20512820512820512
 80,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt :
@@ -712,7 +712,7 @@ Mme. Schmidt :
 Jeanne, mini Tochter, mini arm unglicklich Tochter!
 
       
-",stoskopf-e-mordsaffar,14,4,0.49926526368683133,0.2857142857142857
+",80,stoskopf-e-mordsaffar,14,4,0.49926526368683133,0.2857142857142857
 81,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -723,7 +723,7 @@ Mamme, Mamme !
  Ja, was isch denn, liewi Mamme? —
 
       
-",stoskopf-e-mordsaffar,18,6,0.6999395226863484,0.3333333333333333
+",81,stoskopf-e-mordsaffar,18,6,0.6999395226863484,0.3333333333333333
 82,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -732,7 +732,7 @@ Mme. Schmidt:
 Arms Kind, hawich dich wäje dem verhierothe muehn?
 
       
-",stoskopf-e-mordsaffar,10,1,0.8069388232648106,0.1
+",82,stoskopf-e-mordsaffar,10,1,0.8069388232648106,0.1
 83,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -741,7 +741,7 @@ Jeanne:
 Ja, redd doch Mamme, gell mim Mann isch e-n-Unglick zueg’stoße ?
 
       
-",stoskopf-e-mordsaffar,13,4,0.5994311997464582,0.3076923076923077
+",83,stoskopf-e-mordsaffar,13,4,0.5994311997464582,0.3076923076923077
 84,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -750,7 +750,7 @@ Mme. Schmidt:
 Wenn's nur diß wär !? — Ich versteh dich nit, wie kannsch dü dich nur so verstelle, wie wenn de vun nix wisse thätsch. Wie kannsch dü nur noch nooch dim Mann fröuje ? — So e Monstre, so e schlechter Mensch ! So e Galleefueder !
 
       
-",stoskopf-e-mordsaffar,46,2,0.39998818023408916,0.043478260869565216
+",84,stoskopf-e-mordsaffar,46,2,0.39998818023408916,0.043478260869565216
 85,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -767,7 +767,7 @@ O, jetzt versteh ich Alles! Alles! N’est-ce pas, il me trompe? Er hintergeht m
 ; Ah do kummt der süfer Patron!
 
       
-",stoskopf-e-mordsaffar,68,8,0.5688293885031129,0.11764705882352941
+",85,stoskopf-e-mordsaffar,68,8,0.5688293885031129,0.11764705882352941
 86,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -776,7 +776,7 @@ Müller:
 Ja, zuem Gücksel, was isch denn do los? Was mache Sie denn mit minere Frau?
 
       
-",stoskopf-e-mordsaffar,16,2,0.8021453180085778,0.125
+",86,stoskopf-e-mordsaffar,16,2,0.8021453180085778,0.125
 87,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -785,7 +785,7 @@ Mme. Schmidt:
 Ich b’schuetz mini Tochter, wie e Glück ihri Huehnle, wenn d'r Raubvöjel kummt.
 
       
-",stoskopf-e-mordsaffar,15,2,0.7842775297235943,0.13333333333333333
+",87,stoskopf-e-mordsaffar,15,2,0.7842775297235943,0.13333333333333333
 88,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -796,7 +796,7 @@ Ja zum Henker, isch denn hytt Alles verruckt? — Jeanne
  : Brüchsch dich nit ze verstelle, ich weiß Alles ! Alles !
 
       
-",stoskopf-e-mordsaffar,23,4,0.40589464980914214,0.17391304347826086
+",88,stoskopf-e-mordsaffar,23,4,0.40589464980914214,0.17391304347826086
 89,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -805,7 +805,7 @@ Müller:
 Alles weisch? Ja, was Alles?
 
       
-",stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
+",89,stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
 90,comedy,Schuster,M,,,,"
         
 Schuster :
@@ -819,7 +819,7 @@ Der hett e toupet.
  : Ei, elle sait tout, sie weiß Alles!
 
       
-",stoskopf-e-mordsaffar,21,1,0.6566453679504511,0.047619047619047616
+",90,stoskopf-e-mordsaffar,21,1,0.6566453679504511,0.047619047619047616
 92,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -830,7 +830,7 @@ Min Mamme hett m’r alles g’saat
  Ja, diß hätt ich nie vun d’r geglaubt, daß dü dich mit andere-n-abgiebsch, un dini Frau so hintergehsch.
 
       
-",stoskopf-e-mordsaffar,30,4,0.5337556713643685,0.13333333333333333
+",92,stoskopf-e-mordsaffar,30,4,0.5337556713643685,0.13333333333333333
 93,comedy,Adolph Müller,M,,,,"
         
 Müller :
@@ -845,7 +845,7 @@ Na, jetzt saau ich au nix meh. Was hett dir dinni Mamme do g’saat?
 (Auf und ab.)
 
       
-",stoskopf-e-mordsaffar,67,4,0.6773747711046781,0.05970149253731343
+",93,stoskopf-e-mordsaffar,67,4,0.6773747711046781,0.05970149253731343
 95,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -854,7 +854,7 @@ Mme. Schmidt:
 Wenn d’Schwejermuedere nix werth sin, no sin awer Dochtermänner erscht recht nix nutz !
 
       
-",stoskopf-e-mordsaffar,16,1,0.6400876506878803,0.0625
+",95,stoskopf-e-mordsaffar,16,1,0.6400876506878803,0.0625
 96,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -863,7 +863,7 @@ Müller:
 Ja, in’s drei Deifels Namme, ze saaue Sie jetz doch emol, was Sie mit uns welle?
 
       
-",stoskopf-e-mordsaffar,18,1,0.731982479119855,0.05555555555555555
+",96,stoskopf-e-mordsaffar,18,1,0.731982479119855,0.05555555555555555
 97,comedy,Madame Schmidt,M,,,,"
         
 Mme, Schmidt:
@@ -872,7 +872,7 @@ Mme, Schmidt:
 Was i will?! Mini Tochter wid’r zue m’r nemme.
 
       
-",stoskopf-e-mordsaffar,11,1,0.8015311659203683,0.09090909090909091
+",97,stoskopf-e-mordsaffar,11,1,0.8015311659203683,0.09090909090909091
 99,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -881,7 +881,7 @@ Müller:
 Ich glaub Ihne rappelt’s?
 
       
-",stoskopf-e-mordsaffar,6,1,0.8294008769580371,0.16666666666666666
+",99,stoskopf-e-mordsaffar,6,1,0.8294008769580371,0.16666666666666666
 100,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -890,7 +890,7 @@ Mme. Schmidt:
 Diß Ding kann nimm so furt- gehn, meine Sie denn, daß ich Ihne mini Tochter gän hab, for daß Sie se-n-alli Nacht durichhauwe wie e Tanzbär, so daß s’ganz Hüs rewellisch wurd.
 
       
-",stoskopf-e-mordsaffar,38,5,0.7041553418888633,0.13157894736842105
+",100,stoskopf-e-mordsaffar,38,5,0.7041553418888633,0.13157894736842105
 102,comedy,Schuster,M,,,,"
         
 Schuster :
@@ -902,7 +902,7 @@ Schuster :
 Er Ieigelt, diß isch e sicherer Bewies.
 
       
-",stoskopf-e-mordsaffar,12,2,0.717279420308072,0.16666666666666666
+",102,stoskopf-e-mordsaffar,12,2,0.717279420308072,0.16666666666666666
 103,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -911,7 +911,7 @@ Jeanne:
 Was saasch dü do, Mamme ? Miner Mann haut mich wie e Tanzbär? — Ja, wer bind denn dir so Bäre-n-an?
 
       
-",stoskopf-e-mordsaffar,23,5,0.6801750250983043,0.21739130434782608
+",103,stoskopf-e-mordsaffar,23,5,0.6801750250983043,0.21739130434782608
 104,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -920,7 +920,7 @@ Mme. Schmidt:
 Verstell dich au noch, brüchsch au noch, zuem ze halte,
 
       
-",stoskopf-e-mordsaffar,12,1,0.3111065596608406,0.08333333333333333
+",104,stoskopf-e-mordsaffar,12,1,0.3111065596608406,0.08333333333333333
 107,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -929,7 +929,7 @@ Mme. Schmidt:
 ’s wurd am End nit wohr sin, daß dich diner Mann die Nacht am zwölfe g’haaue hett, un daß de e so gekrische hesch, daß m’r's im ganze Hüs g’hört hett, un daß d’Lytt gemeint han, s'isch Mord un Totschlaa, un daß m’r même d’Boli- zej preveniert hett.
 
       
-",stoskopf-e-mordsaffar,55,5,0.6032343727803136,0.09090909090909091
+",107,stoskopf-e-mordsaffar,55,5,0.6032343727803136,0.09090909090909091
 108,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -938,7 +938,7 @@ Schuster:
 Ja, sie kann alle-n-Auesblick kumme.
 
       
-",stoskopf-e-mordsaffar,8,2,0.6198730506827388,0.25
+",108,stoskopf-e-mordsaffar,8,2,0.6198730506827388,0.25
 109,comedy,Jeanne Müller,F,,,,"
         
 Jeanne :
@@ -951,7 +951,7 @@ Mamme, diß isch gelöuje, ganz gewiß gelöuje !
 (Müller lachend den Kopf schättelnd.)
 
       
-",stoskopf-e-mordsaffar,18,5,0.804927590273091,0.2777777777777778
+",109,stoskopf-e-mordsaffar,18,5,0.804927590273091,0.2777777777777778
 110,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -960,7 +960,7 @@ Mme. Schmidt:
 Was gelöuje? D’Noochberslytt han dich um Hilf ruefe höre, sie han’s au ganz dittli g’hört, wie finalement diner Mann g’saat hett: So jetzt hesch for’s Murre ! —
 
       
-",stoskopf-e-mordsaffar,32,3,0.7250251571080554,0.09375
+",110,stoskopf-e-mordsaffar,32,3,0.7250251571080554,0.09375
 112,comedy,Adolph Müller,M,,,,"
         
 Müller :
@@ -972,7 +972,7 @@ Müller :
 Aha! — Wittersch im Text !
 
       
-",stoskopf-e-mordsaffar,9,1,0.75,0.1111111111111111
+",112,stoskopf-e-mordsaffar,9,1,0.75,0.1111111111111111
 113,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -981,7 +981,7 @@ Mme. Schmidt:
 D’ganz Stadt isch jo rewellisch, iwwerall heißt's, daß dich diner Mann totg’schlaaue hett.
 
       
-",stoskopf-e-mordsaffar,17,2,0.7414355095001668,0.11764705882352941
+",113,stoskopf-e-mordsaffar,17,2,0.7414355095001668,0.11764705882352941
 114,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -990,7 +990,7 @@ Jeanne:
 Ja Mamme, wäje dem bisch kumme? — S'isch nit g’sin for mir ze saaue, daß mich miner Mann hintergeht? —
 
       
-",stoskopf-e-mordsaffar,22,5,0.692127749547429,0.22727272727272727
+",114,stoskopf-e-mordsaffar,22,5,0.692127749547429,0.22727272727272727
 115,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -1003,7 +1003,7 @@ Von dem weiß i nix, ich bin nur kumme, um d'rgeje ze protestire, daß’r dich 
  Diß soll jetzt nix sin ! —
 
       
-",stoskopf-e-mordsaffar,56,8,0.6466120220098984,0.14285714285714285
+",115,stoskopf-e-mordsaffar,56,8,0.6466120220098984,0.14285714285714285
 116,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -1013,7 +1013,7 @@ D’r V’rstand steht m’r still !
 (Katherin und Marie schütteln den Kopf.)
 
       
-",stoskopf-e-mordsaffar,14,2,0.39678869826044694,0.14285714285714285
+",116,stoskopf-e-mordsaffar,14,2,0.39678869826044694,0.14285714285714285
 117,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -1022,7 +1022,7 @@ Mme. Schmidt:
 Ja, was han'r denn ?
 
       
-",stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
+",117,stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
 118,comedy,Jeanne Müller,F,,,,"
         
 Jeanne:
@@ -1031,7 +1031,7 @@ Jeanne:
 Ei liewi Mamme, diß isch e großes Mißverständnis.
 
       
-",stoskopf-e-mordsaffar,9,3,0.63343762817846,0.3333333333333333
+",118,stoskopf-e-mordsaffar,9,3,0.63343762817846,0.3333333333333333
 119,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -1040,7 +1040,7 @@ Müller:
 Es handelt sich uff jede Fall um nix als um e Fledermüs, wie in unser Schloofzimmer g'flöuje-n-isch, un wie ich alli Muehj hab g’hett for ze fange?
 
       
-",stoskopf-e-mordsaffar,30,4,0.4703224584102964,0.13333333333333333
+",119,stoskopf-e-mordsaffar,30,4,0.4703224584102964,0.13333333333333333
 120,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -1049,7 +1049,7 @@ Mme. Schmidt:
 Ja un diß Gekrisch ?
 
       
-",stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
+",120,stoskopf-e-mordsaffar,6,1,0.731982479119855,0.16666666666666666
 121,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -1058,7 +1058,7 @@ Müller:
 C’est bien simple, jedes Mol, wie d’Fledermüs iwer’s Bett g’flöuje-n-isch, hett’s Jeanne e Gäll üsgelon — S’nettscht isch, daß ich wäje dere G'schicht üs’m Bureau heimkumme bin, au dort ver- zähle se schun, daß in unserer Stroß e Mann sini Frau un sini Kinder umgebrocht hett.
 
       
-",stoskopf-e-mordsaffar,55,3,0.7131055132329172,0.05454545454545454
+",121,stoskopf-e-mordsaffar,55,3,0.7131055132329172,0.05454545454545454
 122,comedy,Jeanne Müller,F,,,,"
         
 Jeanne :
@@ -1067,7 +1067,7 @@ Jeanne :
 Do isch üs der Fledermüs e-n-Elephant gemacht worre. Adolph, liewer Adolph, gell dü ver- zejsch m’r, daß i numme-e-n-Auesblick an d’r zwiefle hab könne ?!
 
       
-",stoskopf-e-mordsaffar,30,2,0.8027670189926893,0.06666666666666667
+",122,stoskopf-e-mordsaffar,30,2,0.8027670189926893,0.06666666666666667
 123,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -1077,7 +1077,7 @@ D’Hauptsach isch, daß Alles nit wohr isch un nie wohr wäre wurd.
 (Sie umarmen sich.)
 
       
-",stoskopf-e-mordsaffar,19,2,0.8235551257078202,0.10526315789473684
+",123,stoskopf-e-mordsaffar,19,2,0.8235551257078202,0.10526315789473684
 124,comedy,Katherin,F,,,,"
         
 Katherin:
@@ -1086,7 +1086,7 @@ Katherin:
 Diß isch e dummer Stoß.
 
       
-",stoskopf-e-mordsaffar,6,1,0.2504457992195376,0.16666666666666666
+",124,stoskopf-e-mordsaffar,6,1,0.2504457992195376,0.16666666666666666
 125,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -1095,7 +1095,7 @@ Schuster:
 S’isch doch ambetant, wenn doch numme wenigstens e bissl ebs an d’r Sach wär g'sin. Hoffent- lich kummt’s noch, ganz süfer schient’r m’r doch nit ze sin.
 
       
-",stoskopf-e-mordsaffar,31,2,0.7681364438907404,0.06451612903225806
+",125,stoskopf-e-mordsaffar,31,2,0.7681364438907404,0.06451612903225806
 126,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -1104,7 +1104,7 @@ Mme. Schmidt:
 Mon gendre, verzejhe Sie, s’isch jo nit mini Schuld, umarmt Müller).
 
       
-",stoskopf-e-mordsaffar,15,2,0.5722253332141541,0.13333333333333333
+",126,stoskopf-e-mordsaffar,15,2,0.5722253332141541,0.13333333333333333
 127,comedy,Adolph Müller,M,,,,"
         
 Müller:
@@ -1113,7 +1113,7 @@ Müller:
 Ich nemm gern zeruck, was i iwer d’Schwejermuedre g’saat hab, d’Schwejermuedre solle Iewe !
 
       
-",stoskopf-e-mordsaffar,16,1,0.7709079734070589,0.0625
+",127,stoskopf-e-mordsaffar,16,1,0.7709079734070589,0.0625
 128,comedy,Madame Schmidt,M,,,,"
         
 Mme. Schmidt:
@@ -1124,7 +1124,7 @@ Un d’Dochtermänner d'rnewe !
 .
 
       
-",stoskopf-e-mordsaffar,13,2,0.40317301125855753,0.15384615384615385
+",128,stoskopf-e-mordsaffar,13,2,0.40317301125855753,0.15384615384615385
 130,comedy,Schuster,M,,,,"
         
 Schuster:
@@ -1134,4 +1134,4 @@ Ihr liewi Herre vun d'r Bolizej, ihr muehn excusiere, ihr kumme awer, wie allewy
 Der Vorhang fällt.
 
       
-",stoskopf-e-mordsaffar,20,5,0.5540522981448548,0.25
+",130,stoskopf-e-mordsaffar,20,5,0.5540522981448548,0.25

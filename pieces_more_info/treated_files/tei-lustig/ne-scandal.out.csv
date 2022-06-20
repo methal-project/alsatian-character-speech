@@ -1,4 +1,4 @@
-,drama_type,speaker,sex,job,job_category,social_class,text,short_name
+,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name
 0,comedy,Dr Regisseur,M,movie_director,professionals_scientific_technical,,"
           
 Regisseur
@@ -13,7 +13,7 @@ Ihr Herre-n-un Dame, 's isch is Leid, awer mr känne hit
                         nitt, wo-n-er isch!
 
         
-",lustig-ne-scandal
+",0,lustig-ne-scandal
 1,comedy,HANS,M,,,,"
           
 Hans
@@ -111,7 +111,7 @@ Tiens!... ne-n-Idee... wenn jetz mi Tochter, 's
  eh, alleweg isch's es... 's süecht si z'verstecke hinter em Bolliwàr vo dere Dame dert... Bàwele!... Dü!... zeig, was machsch Dü do?
 
         
-",lustig-ne-scandal
+",1,lustig-ne-scandal
 2,comedy,BAWELE,F,,,,"
           
 Bàwele
@@ -123,7 +123,7 @@ Bàwele
 Ich lüeg Dir züe, Vater!
 
         
-",lustig-ne-scandal
+",2,lustig-ne-scandal
 3,comedy,HANS,M,,,,"
           
 Hans.
@@ -133,7 +133,7 @@ Isch's mögli!... hat me jetz scho-n-emol eso ebbes
                         g'sàh!... zeig, kum do fire!
 
         
-",lustig-ne-scandal
+",3,lustig-ne-scandal
 4,comedy,BAWELE,F,,,,"
           
 Bàwela.
@@ -142,7 +142,7 @@ Bàwela.
 Ich traü nitt... 's sin gar viel Lit do!
 
         
-",lustig-ne-scandal
+",4,lustig-ne-scandal
 5,comedy,HANS,M,,,,"
           
 Hans.
@@ -153,7 +153,7 @@ Witt jetz g'schwind do fire ku oder ich hol Di am
                         Lit!
 
         
-",lustig-ne-scandal
+",5,lustig-ne-scandal
 6,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -163,7 +163,7 @@ Ich kumm, Vater... ich kumm!
 (se geht uf d'Scene).
 
         
-",lustig-ne-scandal
+",6,lustig-ne-scandal
 7,comedy,HANS,M,,,,"
           
 Hans.
@@ -177,7 +177,7 @@ Un ich, wo glaübt ha, 's isch rüehig d'heim im Bett und
                         eso allei vo Burzwiller do ane woge!
 
         
-",lustig-ne-scandal
+",7,lustig-ne-scandal
 8,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -189,7 +189,7 @@ Ich bi jo nitt alleinig ku.
                         ha-n-ich mich verschnappt.
 
         
-",lustig-ne-scandal
+",8,lustig-ne-scandal
 9,comedy,HANS,M,,,,"
           
 Hans.
@@ -198,7 +198,7 @@ Hans.
 Ah sa, Dü bisch nitt alleinig ku!
 
         
-",lustig-ne-scandal
+",9,lustig-ne-scandal
 10,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -207,7 +207,7 @@ Bàwele.
 Eh nei, Dü bisch jo o do...
 
         
-",lustig-ne-scandal
+",10,lustig-ne-scandal
 11,comedy,HANS,M,,,,"
           
 Hans.
@@ -217,7 +217,7 @@ Ich ha Dir awer nitt g'sàit g'ha, ass ich do ane
                         kumm...
 
         
-",lustig-ne-scandal
+",11,lustig-ne-scandal
 12,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -231,7 +231,7 @@ Dü hasch mr g'sàit, De giengsch geh wache bi me güete
                         verschnappt!
 
         
-",lustig-ne-scandal
+",12,lustig-ne-scandal
 13,comedy,HANS,M,,,,"
           
 Hans.
@@ -241,7 +241,7 @@ Ah so... Dü hasch Dich lo iwerrede!... un vo wem
                         denn?...
 
         
-",lustig-ne-scandal
+",13,lustig-ne-scandal
 14,comedy,BAWELE,F,,,,"
           
 Bàwele
@@ -255,7 +255,7 @@ Ich ha halt denkt...
           
 
         
-",lustig-ne-scandal
+",14,lustig-ne-scandal
 15,comedy,HANS,M,,,,"
           
 Hans
@@ -268,7 +268,7 @@ Nur nitt drum umme g'fahre... üse mit dr Sproch.. zeig,
                         vo wem hasch Di iwerrede lo?
 
         
-",lustig-ne-scandal
+",15,lustig-ne-scandal
 16,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -278,7 +278,7 @@ Vom Seppi
 (se hebt 's Firtüech vor d'Aüge).
 
         
-",lustig-ne-scandal
+",16,lustig-ne-scandal
 17,comedy,HANS,M,,,,"
           
 Hans
@@ -294,7 +294,7 @@ Vom Seppi ... dr Suhn vo uns'rem Nochber, dr alte Marti,
                         Seppi... dà Halunk!
 
         
-",lustig-ne-scandal
+",17,lustig-ne-scandal
 18,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -304,7 +304,7 @@ Mir sin jo awer enander nitt todfind, dr Seppi un
                         ich...
 
         
-",lustig-ne-scandal
+",18,lustig-ne-scandal
 19,comedy,HANS,M,,,,"
           
 Hans.
@@ -317,7 +317,7 @@ Still!... enfin, 's isch jetz eithüen... ich kumm wieder
                         z'mache...
 
         
-",lustig-ne-scandal
+",19,lustig-ne-scandal
 20,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -326,7 +326,7 @@ Bàwele.
 Jà... derf dr Seppi o mitspiele?...
 
         
-",lustig-ne-scandal
+",20,lustig-ne-scandal
 21,comedy,HANS,M,,,,"
           
 Hans.
@@ -338,7 +338,7 @@ Scho wieder dr Seppi!...
                         ha, 's ka nitt drei zähle!...
 
         
-",lustig-ne-scandal
+",21,lustig-ne-scandal
 22,comedy,BAWELE,F,,,,"
           
 Bàwele
@@ -351,7 +351,7 @@ Kumm, Seppi... De brüchsch Di jetz nimmig z'verstecke...
                         Dü kasch dr Verliebte spiele!
 
         
-",lustig-ne-scandal
+",22,lustig-ne-scandal
 23,comedy,SEPPI,M,,,,"
           
 Seppi
@@ -363,7 +363,7 @@ Seppi
 Müess i unser Ziwelewàie-n-o mitbringe?...
 
         
-",lustig-ne-scandal
+",23,lustig-ne-scandal
 24,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -372,7 +372,7 @@ Bàwele.
 Natirlig!
 
         
-",lustig-ne-scandal
+",24,lustig-ne-scandal
 25,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -383,7 +383,7 @@ Ich weiss awer nitt recht, eb i traü oder nitt!...
                         geht gege dr Scene).
 
         
-",lustig-ne-scandal
+",25,lustig-ne-scandal
 26,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -395,7 +395,7 @@ Kumm nur!
                         Hunger, un do hat dr Seppi ne Wàie mitgnu...
 
         
-",lustig-ne-scandal
+",26,lustig-ne-scandal
 27,comedy,HANS,M,,,,"
           
 Hans.
@@ -404,7 +404,7 @@ Hans.
 Ihr wàre ringer d'heim bliwe mit eürer Ziwelewàie...
 
         
-",lustig-ne-scandal
+",27,lustig-ne-scandal
 28,comedy,SEPPI,M,,,,"
           
 Seppi
@@ -420,7 +420,7 @@ Lose Se, Herr Nochber, ich will Ene liewer glich alles
                         enander ...
 
         
-",lustig-ne-scandal
+",28,lustig-ne-scandal
 29,comedy,HANS,M,,,,"
           
 Hans.
@@ -442,7 +442,7 @@ Un beide sin ihr schich!
           
 
         
-",lustig-ne-scandal
+",29,lustig-ne-scandal
 30,comedy,SEPPI,M,,,,"
           
 Seppi un Bàwele.
@@ -466,7 +466,7 @@ Schwore mir doch jetz mit Müeth unser Eid.
           
 
         
-",lustig-ne-scandal
+",30,lustig-ne-scandal
 31,comedy,BAWELE,F,,,,"
           
 Seppi un Bàwele.
@@ -490,7 +490,7 @@ Schwore mir doch jetz mit Müeth unser Eid.
           
 
         
-",lustig-ne-scandal
+",31,lustig-ne-scandal
 32,comedy,HANS,M,,,,"
             
 Hans.
@@ -512,7 +512,7 @@ Wenn ich sag « jo » derzüe.
             
 
           
-",lustig-ne-scandal
+",32,lustig-ne-scandal
 33,comedy,SEPPI,M,,,,"
             
 Seppi.
@@ -534,7 +534,7 @@ Wenn er sàit « jo » derzüe.
             
 
           
-",lustig-ne-scandal
+",33,lustig-ne-scandal
 34,comedy,BAWELE,F,,,,"
             
 Bàwele.
@@ -556,7 +556,7 @@ Wenn Dü sàisch « jo » derzüe.
             
 
           
-",lustig-ne-scandal
+",34,lustig-ne-scandal
 35,comedy,HANS,M,,,,"
           
 Hans.
@@ -568,7 +568,7 @@ Das isch alles gli g'sàit, awer ihr wisse doch beide,
                         Hiroth nitt wird igeh.
 
         
-",lustig-ne-scandal
+",35,lustig-ne-scandal
 36,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -578,7 +578,7 @@ Lehn Se mich nur mache... ich will ne scho bekehre...
                         wenn nur Sie nit dergege hàn.
 
         
-",lustig-ne-scandal
+",36,lustig-ne-scandal
 37,comedy,HANS,M,,,,"
           
 Hans.
@@ -589,7 +589,7 @@ Ich weiss nitt, was ich sott dergege ha... wenn ihr
                         eüch züem vorüs scho mi Sege.
 
         
-",lustig-ne-scandal
+",37,lustig-ne-scandal
 38,comedy,MARTI,F,,,,"
           
 Marti
@@ -603,7 +603,7 @@ Oho!... nur g'mach le wenig mit dere Hirotherei!.. ich
 (er geht uf d'Scene).
 
         
-",lustig-ne-scandal
+",38,lustig-ne-scandal
 39,comedy,SEPPI,M,,,,"
           
 Seppi
@@ -615,7 +615,7 @@ Seppi
 Mi Vater!
 
         
-",lustig-ne-scandal
+",39,lustig-ne-scandal
 40,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -624,7 +624,7 @@ Bàwele.
 Er isch is schint's nogange!
 
         
-",lustig-ne-scandal
+",40,lustig-ne-scandal
 41,comedy,HANS,M,,,,"
           
 Hans.
@@ -634,7 +634,7 @@ Dr Marti... hàn sich denn alle Burzwillerer Rendez-vous
                         gà do!
 
         
-",lustig-ne-scandal
+",41,lustig-ne-scandal
 42,comedy,MARTI,F,,,,"
           
 Marti
@@ -652,7 +652,7 @@ Ich ha g'meint, ich will schwiege, fir kei Scandal
                         Hiroth bekunnsch nie!
 
         
-",lustig-ne-scandal
+",42,lustig-ne-scandal
 43,comedy,HANS,M,,,,"
           
 Hans.
@@ -661,7 +661,7 @@ Hans.
 Do hà mr's!...
 
         
-",lustig-ne-scandal
+",43,lustig-ne-scandal
 44,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -670,7 +670,7 @@ Seppi.
 Was hasch Dü denn gege 's Bàwele iz'wànde?
 
         
-",lustig-ne-scandal
+",44,lustig-ne-scandal
 45,comedy,MARTI,F,,,,"
           
 Marti.
@@ -679,7 +679,7 @@ Marti.
 Nit gege 's Bàwele!
 
         
-",lustig-ne-scandal
+",45,lustig-ne-scandal
 46,comedy,HANS,M,,,,"
           
 Hans
@@ -693,7 +693,7 @@ Also bin ich's, wo Dr nitt güet genüeg schine thüe?...
                         wieder güet si mitnander...
 
         
-",lustig-ne-scandal
+",46,lustig-ne-scandal
 47,comedy,MARTI,F,,,,"
           
 Marti
@@ -723,7 +723,7 @@ Ich will nit meh ha mit Dir.
           
 
         
-",lustig-ne-scandal
+",47,lustig-ne-scandal
 48,comedy,HANS,M,,,,"
           
 Hans.
@@ -745,7 +745,7 @@ Mir wànn wieder si güet Frind.
           
 
         
-",lustig-ne-scandal
+",48,lustig-ne-scandal
 49,comedy,MARTI,F,,,,"
           
 Marti.
@@ -758,7 +758,7 @@ Dü bisch mir mi ärgster Find.
           
 
         
-",lustig-ne-scandal
+",49,lustig-ne-scandal
 50,comedy,HANS,M,,,,"
             
 Hans.
@@ -777,7 +777,7 @@ Hasch Dü g'wiss, glaüb mir!
             
 
           
-",lustig-ne-scandal
+",50,lustig-ne-scandal
 51,comedy,MARTI,F,,,,"
             
 Marti.
@@ -796,7 +796,7 @@ Ich will nit mit Dir.
             
 
           
-",lustig-ne-scandal
+",51,lustig-ne-scandal
 52,comedy,HANS,M,,,,"
           
 Hans.
@@ -808,7 +808,7 @@ Dü hasch Unrecht, Marti... ich weiss ganz güet, was
                             g'steh, ass ich nitt im Fehler bi...
 
         
-",lustig-ne-scandal
+",52,lustig-ne-scandal
 53,comedy,MARTI,F,,,,"
           
 Marti.
@@ -818,7 +818,7 @@ Ich will gar nit wisse!
 (er kehrt em dr Ricke)
 
         
-",lustig-ne-scandal
+",53,lustig-ne-scandal
 54,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -827,7 +827,7 @@ Seppi.
 Awer Vater...
 
         
-",lustig-ne-scandal
+",54,lustig-ne-scandal
 55,comedy,MARTI,F,,,,"
           
 Marti
@@ -840,7 +840,7 @@ Still!
 (dr Seppi losst si Waie un si Parepli an Bode falle vor Schrecke.
 
         
-",lustig-ne-scandal
+",55,lustig-ne-scandal
 56,comedy,HANS,M,,,,"
           
 Hans.
@@ -852,7 +852,7 @@ Un ich will's jetz emol sage!... 's müess üse!... mr
                             noch d'beste Frind vo dr Welt gsi sin mitnander.
 
         
-",lustig-ne-scandal
+",56,lustig-ne-scandal
 57,comedy,MARTI,F,,,,"
           
 Marti
@@ -864,7 +864,7 @@ Marti
 Vor einedrissig Johr!
 
         
-",lustig-ne-scandal
+",57,lustig-ne-scandal
 58,comedy,HANS,M,,,,"
           
 Hans.
@@ -874,7 +874,7 @@ Oder vor einedrissig Johr... Das hat jetz nitt viel
                             derzüe z'sage.
 
         
-",lustig-ne-scandal
+",58,lustig-ne-scandal
 59,comedy,MARTI,F,,,,"
           
 Marti.
@@ -886,7 +886,7 @@ Un mir sin nitt halwer eso güete Frind gsi... denn
                             mi süeche in dr Dunkes z'bringe.
 
         
-",lustig-ne-scandal
+",59,lustig-ne-scandal
 60,comedy,HANS,M,,,,"
           
 Hans.
@@ -896,7 +896,7 @@ Ich?... was ha-n-i Dir denn g'macht, zeig, sag mr
                             emol ebbes.
 
         
-",lustig-ne-scandal
+",60,lustig-ne-scandal
 61,comedy,MARTI,F,,,,"
           
 Marti.
@@ -908,7 +908,7 @@ Was De mr g'macht hasch?... Dummheite hasch mr als
                             Glicker g'spielt hàn, so hasch mi als b'schisse!..
 
         
-",lustig-ne-scandal
+",61,lustig-ne-scandal
 62,comedy,HANS,M,,,,"
           
 Hans.
@@ -921,7 +921,7 @@ Un Dü?... hasch Dü als ebbe nitt grààtscht
                             Andere nit vorz'werfe.
 
         
-",lustig-ne-scandal
+",62,lustig-ne-scandal
 63,comedy,MARTI,F,,,,"
           
 Marti.
@@ -932,7 +932,7 @@ Marti.
           
 
         
-",lustig-ne-scandal
+",63,lustig-ne-scandal
 64,comedy,HANS,M,,,,"
           
 Hans.
@@ -949,7 +949,7 @@ Nei, ich weiss es wohl... ich will Dr sage worum.
                             sunscht e B'richt vo Dr aku isch.
 
         
-",lustig-ne-scandal
+",64,lustig-ne-scandal
 65,comedy,MARTI,F,,,,"
           
 Marti.
@@ -962,7 +962,7 @@ Ha-n-ich känne schriwe, wenn ich Schiffbruch g'litte
                             Papegàie!
 
         
-",lustig-ne-scandal
+",65,lustig-ne-scandal
 66,comedy,HANS,M,,,,"
           
 Hans.
@@ -974,7 +974,7 @@ Hans.
                             höre vo Dr, so hà mr's halt miesse glaüwe.
 
         
-",lustig-ne-scandal
+",66,lustig-ne-scandal
 67,comedy,MARTI,F,,,,"
           
 Marti.
@@ -983,7 +983,7 @@ Marti.
 Dü wirsch jo froh genüe gsi si!
 
         
-",lustig-ne-scandal
+",67,lustig-ne-scandal
 68,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -992,7 +992,7 @@ Seppi.
 Dü hasch mr nie nit verzählt, Vater, vo de-n-Affe.
 
         
-",lustig-ne-scandal
+",68,lustig-ne-scandal
 69,comedy,MARTI,F,,,,"
           
 Marti
@@ -1005,7 +1005,7 @@ Still, sag i!
 (dr Seppi losst si Wàie-n-un si Parepli falle)
 
         
-",lustig-ne-scandal
+",69,lustig-ne-scandal
 70,comedy,HANS,M,,,,"
           
 Hans
@@ -1020,7 +1020,7 @@ Wàhrend ass Dü derno-n-eso furt gsi bisch, sin im
                             g'ha hat, so ha-n-ich's g'hirothe...
 
         
-",lustig-ne-scandal
+",70,lustig-ne-scandal
 71,comedy,MARTI,F,,,,"
           
 Marti
@@ -1046,7 +1046,7 @@ C'est ça... un wo-n-ich derno heim ku bi, so isch mi
 Do sieht me... mi Vater hat doch noch allewil Hoffnung g'ha, ass ich wieder z'ruck kumm.. ihr hätte-n-o noch warte känne!
 
         
-",lustig-ne-scandal
+",71,lustig-ne-scandal
 72,comedy,HANS,M,,,,"
           
 Hans.
@@ -1055,7 +1055,7 @@ Hans.
 Eh bien, so verzeih mr un gi mr d'Hand.
 
         
-",lustig-ne-scandal
+",72,lustig-ne-scandal
 73,comedy,MARTI,F,,,,"
           
 Marti
@@ -1067,7 +1067,7 @@ Marti
 Niemols!
 
         
-",lustig-ne-scandal
+",73,lustig-ne-scandal
 74,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Toni un Bàwele.
@@ -1076,7 +1076,7 @@ Toni un Bàwele.
 Oh! oh!
 
         
-",lustig-ne-scandal
+",74,lustig-ne-scandal
 75,comedy,BAWELE,F,,,,"
           
 Toni un Bàwele.
@@ -1085,7 +1085,7 @@ Toni un Bàwele.
 Oh! oh!
 
         
-",lustig-ne-scandal
+",75,lustig-ne-scandal
 76,comedy,MARTI,F,,,,"
           
 Marti
@@ -1097,7 +1097,7 @@ Marti
 Still !
 
         
-",lustig-ne-scandal
+",76,lustig-ne-scandal
 77,comedy,HANS,M,,,,"
           
 Hans
@@ -1111,7 +1111,7 @@ Ah çà... meinsch Dü denn, mir hätte solle-n-unser
                             z'spiele in Amerika?
 
         
-",lustig-ne-scandal
+",77,lustig-ne-scandal
 78,comedy,MARTI,F,,,,"
           
 Marti.
@@ -1125,7 +1125,7 @@ Hein!... was g'falle!... sag mr nit meh-n-eso..
           
 
         
-",lustig-ne-scandal
+",78,lustig-ne-scandal
 79,comedy,HANS,M,,,,"
           
 Hans.
@@ -1136,7 +1136,7 @@ Loss nur, Seppi... 's isch kei G'fohr... un Dü
  loss nur's fechte-n-absite... mit dem isch's nitt üsg'macht... wer Recht hat, dà hat doch Recht... also sàisch, das isch e-n-Ehremann, wo Di Vater so unterstitzt hat...
 
         
-",lustig-ne-scandal
+",79,lustig-ne-scandal
 80,comedy,MARTI,F,,,,"
           
 Marti.
@@ -1146,7 +1146,7 @@ Jà, das isch er... De wirsch doch nitt 's Gegeteil
                             welle sage...
 
         
-",lustig-ne-scandal
+",80,lustig-ne-scandal
 81,comedy,HANS,M,,,,"
           
 Hans.
@@ -1155,7 +1155,7 @@ Hans.
 Eh bien...
 
         
-",lustig-ne-scandal
+",81,lustig-ne-scandal
 82,comedy,MARTI,F,,,,"
           
 Marti.
@@ -1164,7 +1164,7 @@ Marti.
 Eh bien...
 
         
-",lustig-ne-scandal
+",82,lustig-ne-scandal
 83,comedy,HANS,M,,,,"
           
 Hans
@@ -1177,7 +1177,7 @@ Eh bien, nei... ich sag's nitt... 's will mr nitt
                             züem Hals üse!
 
         
-",lustig-ne-scandal
+",83,lustig-ne-scandal
 84,comedy,SEPPI,M,,,,"
           
 Seppi
@@ -1195,7 +1195,7 @@ ass De's weisch, das isch dr Ehremann
  er isch's, wo Di Vater unterstützt hat.
 
         
-",lustig-ne-scandal
+",84,lustig-ne-scandal
 85,comedy,MARTI,F,,,,"
           
 Marti.
@@ -1206,7 +1206,7 @@ Dr Hans!...
                             Wàie druf ligt)
 
         
-",lustig-ne-scandal
+",85,lustig-ne-scandal
 86,comedy,BAWELE,F,,,,"
           
 Bàwele.
@@ -1215,7 +1215,7 @@ Bàwele.
 Herr je!... unser Ziwelewàie!
 
         
-",lustig-ne-scandal
+",86,lustig-ne-scandal
 87,comedy,SEPPI,M,,,,"
           
 Seppi.
@@ -1225,7 +1225,7 @@ Das macht ere nit... mr kännte se jetz viellicht
                             esse, ass se-n-emol üsweg kunnt!
 
         
-",lustig-ne-scandal
+",87,lustig-ne-scandal
 88,comedy,MARTI,F,,,,"
           
 Marti
@@ -1239,7 +1239,7 @@ Dü Hans?.. un hasch nie nit g'sàit
 oh kumm, verzeih mr... kumm... schaü, mine letschte Tage will ich Dir ufopfre un Dir mache, was ich mache ka... awer verzeih mr, denn ich ha Unrecht gege Dir g'handelt!
 
         
-",lustig-ne-scandal
+",88,lustig-ne-scandal
 89,comedy,SEPPI,M,,,,"
           
 Seppi un Bàwele.
@@ -1249,7 +1249,7 @@ Aha...
 (se schmutze-n-eander)
 
         
-",lustig-ne-scandal
+",89,lustig-ne-scandal
 90,comedy,BAWELE,F,,,,"
           
 Seppi un Bàwele.
@@ -1259,7 +1259,7 @@ Aha...
 (se schmutze-n-eander)
 
         
-",lustig-ne-scandal
+",90,lustig-ne-scandal
 91,comedy,HANS,M,,,,"
           
 Hans.
@@ -1298,7 +1298,7 @@ Hat Jeder uf dr Scene z'thüe,
           
 
         
-",lustig-ne-scandal
+",91,lustig-ne-scandal
 92,comedy,HANS,M,,,,"
           
 
@@ -1314,7 +1314,7 @@ So fallt dr Vorhang züe.
           
 
         
-",lustig-ne-scandal
+",92,lustig-ne-scandal
 93,comedy,MARTI,F,,,,"
           
 
@@ -1330,7 +1330,7 @@ So fallt dr Vorhang züe.
           
 
         
-",lustig-ne-scandal
+",93,lustig-ne-scandal
 94,comedy,BAWELE,F,,,,"
           
 
@@ -1346,7 +1346,7 @@ So fallt dr Vorhang züe.
           
 
         
-",lustig-ne-scandal
+",94,lustig-ne-scandal
 95,comedy,SEPPI,M,,,,"
           
 
@@ -1362,4 +1362,4 @@ So fallt dr Vorhang züe.
           
 
         
-",lustig-ne-scandal
+",95,lustig-ne-scandal

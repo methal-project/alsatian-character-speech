@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -7,7 +7,7 @@ Hanstiabelt:
 Mariurs, es isch wia i gsait ha: Dr Jörg müass hirote. Viellicht wird er derno gscheiter. Sag, wia alt bi eigetlig ich gsi, wu i ghirote ha?
 
           
-",sengelin-d-mamsell-elis,28,3,0.0,0.10714285714285714
+",0,sengelin-d-mamsell-elis,28,3,0.0,0.10714285714285714
 1,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -16,7 +16,7 @@ Mariurs:
 Eh, am Schnitzzischtig wirds wohl so witt si, as mer dr drissigjahrig Kriag fire kennte. Dü wirsch jetz 60, eh bien rachne üs !
 
           
-",sengelin-d-mamsell-elis,24,5,0.17901986740320694,0.20833333333333334
+",0,sengelin-d-mamsell-elis,24,5,0.17901986740320694,0.20833333333333334
 2,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -27,7 +27,7 @@ Das ware 30! Nüdlewatter! Geht die Zitt ume. Was fir e natt Maidle bisch dü sa
 .
 
           
-",sengelin-d-mamsell-elis,31,5,0.12179999999999999,0.16129032258064516
+",0,sengelin-d-mamsell-elis,31,5,0.12179999999999999,0.16129032258064516
 3,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -37,7 +37,7 @@ Mariurs:
  Heb di an diner Nase, Hanstiabelt. Meinsch ebbe, dü seisch no so üstrait wia salmols. Wenn dü so Rumpfle gha hatsch wie hit un so e Laternenasle, dü hatsch misex vergabe gschmüst.
 
           
-",sengelin-d-mamsell-elis,38,2,0.0,0.05263157894736842
+",0,sengelin-d-mamsell-elis,38,2,0.0,0.05263157894736842
 4,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -49,7 +49,7 @@ Hanstiabelt:
 .
 
           
-",sengelin-d-mamsell-elis,33,5,0.12821664151747011,0.15151515151515152
+",0,sengelin-d-mamsell-elis,33,5,0.12821664151747011,0.15151515151515152
 5,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -60,7 +60,7 @@ Gang ewag, alter Narr!
 .
 
           
-",sengelin-d-mamsell-elis,10,3,0.37863693980487967,0.3
+",0,sengelin-d-mamsell-elis,10,3,0.37863693980487967,0.3
 6,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -69,7 +69,7 @@ Hanst.:
 Wage mir, alter Narr! Äbä, so e glückliger alter Narr, wia ich ein bi, sell unser Jörg o emol einer warde; er müass hirote, er isch so grad in dam Alter wu ich sallemols. Uff d' Weisheitszähn könne mer nit warte bi em, ’s Warte kennt eim sunscht verdriesse.
 
           
-",sengelin-d-mamsell-elis,50,12,0.13780423851677256,0.24
+",1,sengelin-d-mamsell-elis,50,12,0.13780423851677256,0.24
 7,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -78,7 +78,7 @@ Mariurs:
 E, müasch en nit no dümmer mache, as er isch. Wenn er numme nit so e grisliger Wiaschreder war; i färcht übel, er bringts nit färig, im e Maidle schen zrede. Ä Muni an dr Hörner packe, das ka er besser, TERN
 
           
-",sengelin-d-mamsell-elis,43,4,0.09375,0.09302325581395349
+",1,sengelin-d-mamsell-elis,43,4,0.09375,0.09302325581395349
 8,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -88,7 +88,7 @@ Hanst.:
  Oh, wage salem brüchsch ke Kummer zha. Schen rede brücht er gar nimme. Ich ha em o scho eini üsgsüacht. Er brücht sich numme ge vor- stelle un so Sache.
 
           
-",sengelin-d-mamsell-elis,35,5,0.11537485052756986,0.14285714285714285
+",1,sengelin-d-mamsell-elis,35,5,0.11537485052756986,0.14285714285714285
 9,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -98,7 +98,7 @@ Mariurs:
  A, Alter, hinter mim Rucke machsch dü so Dings! Ha ich do nit dri zrede, sag?
 
           
-",sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
+",1,sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
 10,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -108,7 +108,7 @@ Hanst.:
  Heh, wage dam sag i dirs jo jetz. Mach doch ke Gschichte un so Sache!
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",1,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 11,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -119,7 +119,7 @@ Jetz, jetzt, wus färig isch!!
  Gschichte un so Sache! Gschichte un so Sache! Wer macht dumme Gschichte? Dü! Hat mer scho emo lghört sinerlabtig, as e Müater nit sell sage bim Hirote vo me Kind? Hein? Wenn si aber mir nit gfallt, dia Suhnsfraui? Hein?
 
           
-",sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
+",1,sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
 12,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -128,7 +128,7 @@ Hanst.:
 Se gfallt dr aber sicher, sag i dr. ’s isch im Maier vo Schendorf si Tochter, anzig Kind, Lisi heisst’, edder eigetlig Elis in ihrem Hüs. 's isch e nobli, mei, ’s isch kenni so z’ Krönige, nit emol im Säitrankehans sini. Si spielt Klavier wie dr Schül- meischter, singt wie e Vegele, ka brodiere, Umhangle häckle, un so Sache.
 
           
-",sengelin-d-mamsell-elis,62,5,0.0,0.08064516129032258
+",2,sengelin-d-mamsell-elis,62,5,0.0,0.08064516129032258
 13,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -137,7 +137,7 @@ Mariurs:
 So, so! Un naje, stricke, koche, uff em Fald schaffe, ka se sal 0?
 
           
-",sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
+",2,sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
 14,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -149,7 +149,7 @@ Hanst.:
 , do kenne se jo e Magd halte un so Sache!
 
           
-",sengelin-d-mamsell-elis,63,7,0.11862289034733185,0.1111111111111111
+",2,sengelin-d-mamsell-elis,63,7,0.11862289034733185,0.1111111111111111
 15,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -158,7 +158,7 @@ Mariurs:
 E Magd? E Magd? Baberlabab! Weisch, wie mi Grossmüater als gsait het? In dam Hüs geht’s sicher schlacht, Wu d' Fraui nit mache ka dr Knacht.
 
           
-",sengelin-d-mamsell-elis,28,3,0.0,0.10714285714285714
+",2,sengelin-d-mamsell-elis,28,3,0.0,0.10714285714285714
 16,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -169,7 +169,7 @@ Loss mi imkeit mit diner Grossmüater, dü weisch jo, ’s isch e alti Fraui gsi
  Un dü e Doddel!! Weisch’s jetz? Was nutzt im e Bür e Fraui, wu ka brodiere, aber ke Säck platze, Paschtetle bache, aber ke Saitranke } b
 
           
-",sengelin-d-mamsell-elis,48,4,0.4834480655775316,0.08333333333333333
+",2,sengelin-d-mamsell-elis,48,4,0.4834480655775316,0.08333333333333333
 17,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -181,7 +181,7 @@ Hanst.:
  Pfischter noch emol, jowohl. Alle Finger no em schlacke wurd se. Ein nit namme, wu si Vater 20 Stück Veh im Stall het, wu 3 Mohre unter dr Hard losst lauife, wu e neumodischi Mischtlache hett, wia keni im Pfirter Amt me isch so kommod un so Sache! ! Un er erbt alles allei. Nit name, nit name!...
 
           
-",sengelin-d-mamsell-elis,77,6,0.08249999999999998,0.07792207792207792
+",2,sengelin-d-mamsell-elis,77,6,0.08249999999999998,0.07792207792207792
 21,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -190,7 +190,7 @@ Jörg:
 He, he, i ha grad welle ku froge, ebb dr Kiahl- trank grischte isch fir d'’ Roti. Do ha i euch häre rede un ha euch nit welle verraschble.
 
           
-",sengelin-d-mamsell-elis,32,4,0.15225,0.125
+",3,sengelin-d-mamsell-elis,32,4,0.15225,0.125
 22,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -199,7 +199,7 @@ Hanst.:
 He, ’s macht jetz nit, wenn dü e Teil uffgschnappt hesch. Mir han jo grad vo dir gha. Sag Jörg, hesch no nia driber nodankt, wias war mit em hirote?
 
           
-",sengelin-d-mamsell-elis,31,4,0.0,0.12903225806451613
+",3,sengelin-d-mamsell-elis,31,4,0.0,0.12903225806451613
 23,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -209,7 +209,7 @@ Jörg:
  Mit em hirote? Wer sell denn hirote?
 
           
-",sengelin-d-mamsell-elis,12,3,0.0,0.25
+",3,sengelin-d-mamsell-elis,12,3,0.0,0.25
 24,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -219,7 +219,7 @@ Hanst.:
  E dü, bigobbliger!
 
           
-",sengelin-d-mamsell-elis,7,1,0.224,0.14285714285714285
+",4,sengelin-d-mamsell-elis,7,1,0.224,0.14285714285714285
 25,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -228,7 +228,7 @@ Jörg:
 I...i... ich? Ja, ja, s mian doch zwei si zum hirote, hett saller gsait.
 
           
-",sengelin-d-mamsell-elis,16,3,0.0,0.1875
+",4,sengelin-d-mamsell-elis,16,3,0.0,0.1875
 27,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -237,7 +237,7 @@ Jörg:
 Ja, ja, ja i weiss nit, wia mr das afangt. Hanst: ha He, sal kunt scho, dü machschs, wia ichs gmacht
 
           
-",sengelin-d-mamsell-elis,22,4,0.0,0.18181818181818182
+",4,sengelin-d-mamsell-elis,22,4,0.0,0.18181818181818182
 28,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -247,7 +247,7 @@ Jörg:
  Ja, dir, dir, dir hans güat ka, dir han numme d'’ Müater gfrogt, galet Müater?
 
           
-",sengelin-d-mamsell-elis,21,5,0.0312,0.23809523809523808
+",4,sengelin-d-mamsell-elis,21,5,0.0312,0.23809523809523808
 29,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -257,7 +257,7 @@ Mariurs:
  Los Jörg, i gläuib, wu dr Herrgott d' Hirner verteilt het, hesch dü grad uf em Mon Walle gmacht.
 
           
-",sengelin-d-mamsell-elis,23,6,0.018166666666666668,0.2608695652173913
+",4,sengelin-d-mamsell-elis,23,6,0.018166666666666668,0.2608695652173913
 30,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -266,7 +266,7 @@ Hanst.:
 I has dankt, as de so Gschichte wirdsch mache, wage dam ha i dir salbscht eini üsgsüacht. Dü Le numme anezgeh un sage: Do bin i! un so Sache.
 
           
-",sengelin-d-mamsell-elis,30,1,0.0,0.03333333333333333
+",5,sengelin-d-mamsell-elis,30,1,0.0,0.03333333333333333
 31,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -275,7 +275,7 @@ Jörg:
 Ischs ebbe dia Fini, wu d' Müater vorig verzehlt hett?
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",5,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 33,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -288,7 +288,7 @@ Ja, Müater, dir han doch gsait, se kennt nit emol ke Säitranke arichte
  koche un Pflüte mache, ein?
 
           
-",sengelin-d-mamsell-elis,33,4,0.0,0.12121212121212122
+",5,sengelin-d-mamsell-elis,33,4,0.0,0.12121212121212122
 34,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -298,7 +298,7 @@ Hanst.:
 : He, wenn se’s o nit ka, so nimmsch halt ä Magd, dü vermagschs emol scho. Un d' Pflüte sin bigüscht allewag Nabesach.
 
           
-",sengelin-d-mamsell-elis,27,2,0.0,0.07407407407407407
+",5,sengelin-d-mamsell-elis,27,2,0.0,0.07407407407407407
 35,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -307,7 +307,7 @@ Jörg:
 Nabesach ! Bi mir nit! Un drno a Magd? Äh, ä! ’s war e Mül zviel am Tisch.
 
           
-",sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
+",5,sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
 36,comedy,Mariurs,F,,,,"
             
 Mariurs :
@@ -316,7 +316,7 @@ Mariurs :
 Do hesch jetzt racht, Jörg!
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",6,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 37,comedy,Hanstiabelt,M,,,,"
             
 Hanst.:
@@ -328,7 +328,7 @@ Hanst.:
 .
 
           
-",sengelin-d-mamsell-elis,49,10,0.0359,0.20408163265306123
+",6,sengelin-d-mamsell-elis,49,10,0.0359,0.20408163265306123
 38,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -360,7 +360,7 @@ Also hirote sell i, hirote
  Ende des Vorspiels.
 
           
-",sengelin-d-mamsell-elis,375,50,0.12478917132189048,0.13333333333333333
+",6,sengelin-d-mamsell-elis,375,50,0.12478917132189048,0.13333333333333333
 39,comedy,Elis,F,,,,"
             
 Elis :
@@ -372,7 +372,7 @@ Elis :
 Dü dürsch mi eigentlig doch, Lisa, as de nit emol häckle kansch, vom brodiere will i nit emol rede, sal isch so fir minesgliche, aber häckle setsch doch lehre. Wit? Ich zeig ders.
 
           
-",sengelin-d-mamsell-elis,39,2,0.3045,0.05128205128205128
+",6,sengelin-d-mamsell-elis,39,2,0.3045,0.05128205128205128
 40,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -381,7 +381,7 @@ Lisa:
 Fir was denn! Was dü do mit dim häckle Zit ver- brüchsch, das isch je e Sind un Schand. Un d' Arbet isch gwiss d'’ Miah nit wart, Elis! Fir e paar Sü kauift mer bim Wronker z’ Milhüse ganz fine Sache, wu dü als wuchelang dra d'’ Finger verhäisch.
 
           
-",sengelin-d-mamsell-elis,54,12,0.19383333333333333,0.2222222222222222
+",6,sengelin-d-mamsell-elis,54,12,0.19383333333333333,0.2222222222222222
 41,comedy,Elis,F,,,,"
             
 Elis:
@@ -393,7 +393,7 @@ Elis:
 Mit dir ka mer halt nit vo so Sache rede, das isch grad, wie wenn dr Herr Pfarrer dr Gans predigt. So ebbis geht iber di Horizont.
 
           
-",sengelin-d-mamsell-elis,31,5,0.028199999999999996,0.16129032258064516
+",6,sengelin-d-mamsell-elis,31,5,0.028199999999999996,0.16129032258064516
 42,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -402,7 +402,7 @@ Lisa:
 Horizont! Was isch das wieder fir a fremd Tiar? Gehts o ins Wasser?
 
           
-",sengelin-d-mamsell-elis,14,3,0.44766666666666666,0.21428571428571427
+",7,sengelin-d-mamsell-elis,14,3,0.44766666666666666,0.21428571428571427
 43,comedy,Elis,F,,,,"
             
 Elis:
@@ -414,7 +414,7 @@ Elis:
 Mer merkts wohl, as dü numme d' Geishüser Schual vu innewandig kensch. An so ebbis han ihr in dr Schual halt nit gschmeckt.
 
           
-",sengelin-d-mamsell-elis,28,5,0.0,0.17857142857142858
+",7,sengelin-d-mamsell-elis,28,5,0.0,0.17857142857142858
 44,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -423,7 +423,7 @@ Lisa:
 Los Elis, schilt mir unsere Schual nit. E Pensionat ischs jo grad nit gsi, sall isch wohr, abber was mer firs Labe brücht, sal han mer därt glehrt, wenn o nit franzesch babble, Bliamle mole, Kalvier drüdle un so Dings. Das sin so Sache, wu im e Büremaidle wenig öder gar nit itrage. ..... Se |
 
           
-",sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
+",7,sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
 45,comedy,Elis,F,,,,"
             
 Elis:
@@ -436,7 +436,7 @@ Brücht mer grad allewil e Büremaidle bliewe? So Künscht han scho im e manche 
 (In diesem Augenblick klopft es. Elis ruft: Entrez!)
 
           
-",sengelin-d-mamsell-elis,38,4,0.0,0.10526315789473684
+",7,sengelin-d-mamsell-elis,38,4,0.0,0.10526315789473684
 46,comedy,Isidor,M,,,,"
             
 Isidor:
@@ -452,7 +452,7 @@ Gäate Tag, ihr Jungfrauie! Do han ihr Neuigkeite!
 .
 
           
-",sengelin-d-mamsell-elis,33,3,0.08333333333333333,0.09090909090909091
+",7,sengelin-d-mamsell-elis,33,3,0.08333333333333333,0.09090909090909091
 48,comedy,Isidor,M,,,,"
             
 Isidor:
@@ -461,7 +461,7 @@ Isidor:
 Merci, i ha scho eis gnu bis Jobbeles Hansjörg do nite. Er brennt grad, dr Hansjörg.
 
           
-",sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
+",8,sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
 49,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -472,7 +472,7 @@ E, Isidor, e Seschter Lewat geht allewil no in e Sack voll Riawe
 .
 
           
-",sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
+",8,sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
 50,comedy,Isidor,M,,,,"
             
 Isidor:
@@ -483,7 +483,7 @@ Sal isch jetz wohr, allez, mir ah!
 . +
 
           
-",sengelin-d-mamsell-elis,25,1,0.0,0.04
+",8,sengelin-d-mamsell-elis,25,1,0.0,0.04
 51,comedy,Isidor,M,,,,"
             
 Isidor:
@@ -494,7 +494,7 @@ Es isch e luschtig Stickle drin vom Schweiss- dissi z’ Milhüse; es hett em na
 .
 
           
-",sengelin-d-mamsell-elis,26,5,0.0,0.19230769230769232
+",8,sengelin-d-mamsell-elis,26,5,0.0,0.19230769230769232
 52,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -503,7 +503,7 @@ Lisa:
 Dia han jetz emol racht gha. ’s isch e Schand gsi, so e blutt Mannshild mittel uf e Marktplatz z’ stelle, wu allewil so viel Wibslitt duregehn.
 
           
-",sengelin-d-mamsell-elis,28,6,0.0,0.21428571428571427
+",8,sengelin-d-mamsell-elis,28,6,0.0,0.21428571428571427
 53,comedy,Elis,F,,,,"
             
 Elis:
@@ -513,7 +513,7 @@ Elis:
  Do merkt mers wieder, as dü niane gsi bisch, d'’ Kunscht müass alles vorstelle d’après nature.
 
           
-",sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
+",8,sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
 54,comedy,Isidor,M,,,,"
             
 Isidor:
@@ -526,7 +526,7 @@ Do sin halt d’Milhüser alle Dummköpf, dia sage schints, dr blutt Mann dat ni
 (Lisa und Isidor lachen. Isidor ab, nachdem ausgetrunken.)
 
           
-",sengelin-d-mamsell-elis,34,6,0.0,0.17647058823529413
+",9,sengelin-d-mamsell-elis,34,6,0.0,0.17647058823529413
 56,comedy,Katri,F,,,,"
             
 Katri:
@@ -538,7 +538,7 @@ Katri:
 Was isch?
 
           
-",sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
+",9,sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
 57,comedy,Elis,F,,,,"
             
 Elis:
@@ -549,7 +549,7 @@ Sapristi! Wieviel mol han i äich scho .gsait, Ihr sälle sage: Was bliabt, Mams
  .....
 
           
-",sengelin-d-mamsell-elis,31,4,0.0665,0.12903225806451613
+",9,sengelin-d-mamsell-elis,31,4,0.0665,0.12903225806451613
 58,comedy,Elis,F,,,,"
             
 Elis:
@@ -560,7 +560,7 @@ Elis:
  
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",9,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 59,comedy,Elis,F,,,,"
             
 Elis:
@@ -572,7 +572,7 @@ Elis:
 Da kennt mi jetz o bol in Rüah lo!
 
           
-",sengelin-d-mamsell-elis,13,3,0.18740231068527483,0.23076923076923078
+",9,sengelin-d-mamsell-elis,13,3,0.18740231068527483,0.23076923076923078
 60,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -582,7 +582,7 @@ Lisa:
  Wer denn?
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",10,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 63,comedy,Elis,F,,,,"
             
 Elis:
@@ -593,7 +593,7 @@ Mir sin emol vo Pfirt uff Altkirch gfahre mite- nander. Üs langer Zit han i mi 
  äh. äh, Roter, 's Elis isch z’ güat fir so e eifaltiger Coiffeur. Was meint denn so e hargloffener Stoffel eigetlig 0?!
 
           
-",sengelin-d-mamsell-elis,59,9,0.1874444444444444,0.15254237288135594
+",10,sengelin-d-mamsell-elis,59,9,0.1874444444444444,0.15254237288135594
 64,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -602,7 +602,7 @@ Lisa:
 Sag, Elis, wieviel han dr eigetlig scho dr Hof ge- macht?
 
           
-",sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
+",10,sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
 65,comedy,Elis,F,,,,"
             
 Elis:
@@ -613,7 +613,7 @@ Warum? Bisch ebhe jalouse, ass bi dir ken will abisse. Wart, i will dir se uffz�
  Lüag, das Bündel isch vum Iziger, i mein vom Percepteur vo Pfirt; dia sin vum Granzkontrolör vo Leime, dia vum Kum- messari, dia vom Apetheker vo Sept, wu er Witmann gsi isch, un dia...
 
           
-",sengelin-d-mamsell-elis,61,4,0.03525,0.06557377049180328
+",10,sengelin-d-mamsell-elis,61,4,0.03525,0.06557377049180328
 66,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -625,7 +625,7 @@ Lisa:
 Halt!, halt, halt, i ha gnüa, das isch jo scho e ganzi Litanei vu alle Heilige. Un dia han alle um di aghalte?
 
           
-",sengelin-d-mamsell-elis,34,6,0.0,0.17647058823529413
+",11,sengelin-d-mamsell-elis,34,6,0.0,0.17647058823529413
 67,comedy,Elis,F,,,,"
             
 Elis:
@@ -637,7 +637,7 @@ Elis:
 Dumm Gansle, bisch dü aber ignorante! Wia gsait, mer merkt, as dü no nit in dr Walt umeku bisch. Meinsch, so Herre falle o gli mit dr Tire ins Hüs wia e Bürekoltri? Do wird zerscht a Zitlang dr postillon d’amour ume un ane gschickt, as mer sich gegesitig kenne lehrt.
 
           
-",sengelin-d-mamsell-elis,58,9,0.13544444444444442,0.15517241379310345
+",11,sengelin-d-mamsell-elis,58,9,0.13544444444444442,0.15517241379310345
 68,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -649,7 +649,7 @@ Lisa:
 Ja un jetz?
 
           
-",sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
+",11,sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
 69,comedy,Elis,F,,,,"
             
 Elis:
@@ -658,7 +658,7 @@ Elis:
 Was jetz? Meinsch ebbe?? Ach, hesch gmeint? Nit güat, Lisa, im Elis git ken e refus, ä ä! Ich, wu zwei Johr z' Nancy.... -13_
 
           
-",sengelin-d-mamsell-elis,28,1,0.0,0.03571428571428571
+",11,sengelin-d-mamsell-elis,28,1,0.0,0.03571428571428571
 70,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -670,7 +670,7 @@ Lisa:
 Un zwei Johr z’ Offeburg...
 
           
-",sengelin-d-mamsell-elis,10,1,0.0,0.1
+",11,sengelin-d-mamsell-elis,10,1,0.0,0.1
 71,comedy,Elis,F,,,,"
             
 Elis:
@@ -683,7 +683,7 @@ Ja, und zwei Johr z` Offeburg im Pensionat gsi bin, ich im Maire vo Schöndorf s
 .
 
           
-",sengelin-d-mamsell-elis,54,7,0.08031527600797493,0.12962962962962962
+",11,sengelin-d-mamsell-elis,54,7,0.08031527600797493,0.12962962962962962
 72,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -692,7 +692,7 @@ Lisa:
 Ja, ja, aber worum....???
 
           
-",sengelin-d-mamsell-elis,5,2,0.0,0.4
+",12,sengelin-d-mamsell-elis,5,2,0.0,0.4
 73,comedy,Elis,F,,,,"
             
 Elis:
@@ -706,7 +706,7 @@ Worum as i ken gnu ha vo dane Fitzer alle?
  As dorum! Ein isch mir z’ alt gsi, ein z’ kalt, ein z’ schich, ein het Kinder gha und zwe sin ane am Rhi gewachse.
 
           
-",sengelin-d-mamsell-elis,45,2,0.1875,0.044444444444444446
+",12,sengelin-d-mamsell-elis,45,2,0.1875,0.044444444444444446
 74,comedy,Katri,F,,,,"
             
 Katri:
@@ -719,7 +719,7 @@ Jo, un ken hetts welle, so ischs. Se hai numme dr Büsel mit em gemacht, so wohr
 (ab.)
 
           
-",sengelin-d-mamsell-elis,46,5,0.0,0.10869565217391304
+",12,sengelin-d-mamsell-elis,46,5,0.0,0.10869565217391304
 75,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -728,7 +728,7 @@ Lisa:
 Jo un derno, war das ebbis, ’s git dane sicher so rachte Lit as do!
 
           
-",sengelin-d-mamsell-elis,16,2,0.0,0.125
+",12,sengelin-d-mamsell-elis,16,2,0.0,0.125
 76,comedy,Elis,F,,,,"
             
 Elis:
@@ -740,7 +740,7 @@ Elis:
 So such dü ein dert ane.
 
           
-",sengelin-d-mamsell-elis,10,1,0.0,0.1
+",12,sengelin-d-mamsell-elis,10,1,0.0,0.1
 77,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -758,7 +758,7 @@ Worum nit, wenn i do ken find!
  Pass uff, Elis, as dü nit no zwische zwe Stiahl abeplumpsch!
 
           
-",sengelin-d-mamsell-elis,61,7,0.12082884720962953,0.11475409836065574
+",12,sengelin-d-mamsell-elis,61,7,0.12082884720962953,0.11475409836065574
 78,comedy,Elis,F,,,,"
             
 Elis:
@@ -767,7 +767,7 @@ Elis:
 O sal, an jedem Finger zene, wenn i numme will. Aber se gfalle mer gar nimme, dia grossartige Mes- sieurs, ich glauib, 's isch besser, mer blibt in sim milieu fir glicklig z’warde.
 
           
-",sengelin-d-mamsell-elis,36,7,0.17857142857142858,0.19444444444444445
+",13,sengelin-d-mamsell-elis,36,7,0.17857142857142858,0.19444444444444445
 80,comedy,Elis,F,,,,"
             
 Elis:
@@ -776,7 +776,7 @@ Elis:
 Hm, rot emol!
 
           
-",sengelin-d-mamsell-elis,4,1,0.0,0.25
+",13,sengelin-d-mamsell-elis,4,1,0.0,0.25
 81,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -785,7 +785,7 @@ Lisa:
 I rot nit garn, üse mit, sunscht gits e Kropf.
 
           
-",sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
+",13,sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
 82,comedy,Elis,F,,,,"
             
 Elis:
@@ -794,7 +794,7 @@ Elis:
 Nei, rot, dü kensch en sehr güat.
 
           
-",sengelin-d-mamsell-elis,8,3,0.24880566315514088,0.375
+",13,sengelin-d-mamsell-elis,8,3,0.24880566315514088,0.375
 83,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -803,7 +803,7 @@ Lisa:
 Wenn i sag, i rot nit garn.
 
           
-",sengelin-d-mamsell-elis,8,2,0.0,0.25
+",13,sengelin-d-mamsell-elis,8,2,0.0,0.25
 84,comedy,Elis,F,,,,"
             
 Elis:
@@ -815,7 +815,7 @@ Elis:
 Eh bien denn, was seisch zu unserem neue Lehrer?
 
           
-",sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
+",14,sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
 85,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -824,7 +824,7 @@ Lisa:
 (führt erschrocken Enke
 
           
-",sengelin-d-mamsell-elis,5,1,0.7450144112577012,0.2
+",14,sengelin-d-mamsell-elis,5,1,0.7450144112577012,0.2
 87,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -836,7 +836,7 @@ Lisa:
 Nit, nit, sisch numme e Krampf gsi. Der Herr Wacker meinsch also? Hein?
 
           
-",sengelin-d-mamsell-elis,19,2,0.0705,0.10526315789473684
+",14,sengelin-d-mamsell-elis,19,2,0.0705,0.10526315789473684
 88,comedy,Elis,F,,,,"
             
 Elis:
@@ -845,7 +845,7 @@ Elis:
 Ja, gfallt er dir nit o, alli Lit riahme ne so.
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",14,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 90,comedy,Elis,F,,,,"
             
 Elis:
@@ -856,7 +856,7 @@ Eh bien, ich glaub, ass er e faible het fir mi. 's isch mer, er kam dado so gris
 .
 
           
-",sengelin-d-mamsell-elis,33,6,0.11966666666666666,0.18181818181818182
+",15,sengelin-d-mamsell-elis,33,6,0.11966666666666666,0.18181818181818182
 91,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -869,7 +869,7 @@ Dank doch, as Gmeinschriber hett ar doch alle Tag fast mit em Unkel z’ rede.
 (Amerei erscheint in der Türe, ohne dass die beiden sie sehen.)
 
           
-",sengelin-d-mamsell-elis,32,2,0.0,0.0625
+",15,sengelin-d-mamsell-elis,32,2,0.0,0.0625
 92,comedy,Elis,F,,,,"
             
 Elis:
@@ -878,7 +878,7 @@ Elis:
 Babberlababb! Der alt Lehrer isch nit halb so viel ku, da het d' Kinder üs der Schüal als gschickt. Kurz- um, ich loss mers nit namme, as es d'amour isch, wu dr Herr Wacker in unser Hüs tribt.
 
           
-",sengelin-d-mamsell-elis,41,8,0.08790086650697806,0.1951219512195122
+",15,sengelin-d-mamsell-elis,41,8,0.08790086650697806,0.1951219512195122
 94,comedy,Elis,F,,,,"
             
 Elis:
@@ -892,7 +892,7 @@ Ich? Hm, numme no vorm Johr hat er wage mir drei Auge kenne üsluage no mer, nit
  Do seht mer besser, was zamme passt, ass salmols, wu mer no ’s erschte Korsett drait het.
 
           
-",sengelin-d-mamsell-elis,59,5,0.075,0.0847457627118644
+",15,sengelin-d-mamsell-elis,59,5,0.075,0.0847457627118644
 96,comedy,Elis,F,,,,"
             
 Elis:
@@ -906,7 +906,7 @@ Sag, Lisa, passe mer nit prachtig zamme? Isch er nit e natter Mann, grad wia gsc
 .
 
           
-",sengelin-d-mamsell-elis,49,10,0.0109,0.20408163265306123
+",16,sengelin-d-mamsell-elis,49,10,0.0109,0.20408163265306123
 97,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -918,7 +918,7 @@ Amerei:
 Was hör ich do fir natte Plan? Was, dü wotsch unser Schüal- meischter hirote? Sal sin Schnacketanz! Dia kasch dir üs em Kopf schla! Pfischter no emol, han mir dich fir das 4 Johr ins Pensionat gschickt, fir as dü emol im e so e Naschtle datsch de Maidele der latz un racht Stich lehre? Do wars am halbe z’ viel gsi, dü... dü... dü...!
 
           
-",sengelin-d-mamsell-elis,83,15,0.12179999999999999,0.18072289156626506
+",16,sengelin-d-mamsell-elis,83,15,0.12179999999999999,0.18072289156626506
 98,comedy,Elis,F,,,,"
             
 Elis:
@@ -930,7 +930,7 @@ Elis:
 Un ich sag, ich hirot da wu ich will!
 
           
-",sengelin-d-mamsell-elis,14,2,0.0,0.14285714285714285
+",16,sengelin-d-mamsell-elis,14,2,0.0,0.14285714285714285
 99,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -939,7 +939,7 @@ Amerei:
 Was, no uftrumpfe tüasch, dü gottlos Tiar? Han ich das an dir verdiant, as dü e so e simpler 99er hirotsch?
 
           
-",sengelin-d-mamsell-elis,22,2,0.367,0.09090909090909091
+",16,sengelin-d-mamsell-elis,22,2,0.367,0.09090909090909091
 100,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -951,7 +951,7 @@ Lisa:
 D’ Zitte vo de 99er sin ume, Tante! Sal isch no gsi, wu d' junge Wiwer Bedelekappe drait han. Hit isch e Lehrer e g’achteter Mann, un dr Herr Wacker bsunders isch bi alle Lit bliabt; er isch so nowel un doch gar nit stolz, so ordlig, so....
 
           
-",sengelin-d-mamsell-elis,54,9,0.015666666666666666,0.16666666666666666
+",16,sengelin-d-mamsell-elis,54,9,0.015666666666666666,0.16666666666666666
 101,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -963,7 +963,7 @@ Amerei:
 Dü o? E lüag mer doch eis do ane! E, dü kasch en jo namme, dr novel Herr Wacker, da ordlig Herr Wacker; wenn er dich will, dir tüan mer en garn gänne !
 
           
-",sengelin-d-mamsell-elis,38,4,0.0705,0.10526315789473684
+",16,sengelin-d-mamsell-elis,38,4,0.0705,0.10526315789473684
 102,comedy,Elis,F,,,,"
             
 Elis:
@@ -983,7 +983,7 @@ Mi isch er, mi, mi! Ich ha jetz lang gnüa gwarte.
 .
 
           
-",sengelin-d-mamsell-elis,77,11,0.04263636363636363,0.14285714285714285
+",17,sengelin-d-mamsell-elis,77,11,0.04263636363636363,0.14285714285714285
 103,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -997,7 +997,7 @@ Sal weiss ich jo wohl, as d' Galdsäck viel züadecke.
  Wer red denn vo so ebbis? Ich mein awer, mer sott nit üs so elande Grind uff e Hirot trachte. Und derno! Ich ha gmeint, dü hesch allewil numme so z’ choisiere ka. Gal. Cousinle, Liabschter gnüa, awer ke Hochzitter!
 
           
-",sengelin-d-mamsell-elis,59,9,0.062266297503861874,0.15254237288135594
+",17,sengelin-d-mamsell-elis,59,9,0.062266297503861874,0.15254237288135594
 104,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1011,7 +1011,7 @@ Jetz, los mer emol ein das ine- schneite Maidle a! Un ich sag dir, dr Apotheker 
 .
 
           
-",sengelin-d-mamsell-elis,71,5,0.0,0.07042253521126761
+",17,sengelin-d-mamsell-elis,71,5,0.0,0.07042253521126761
 105,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1023,7 +1023,7 @@ Amerei:
 Loss numme nit vu dane Plan bim Vater häre. Da war am And im Stand, un... ! Er hett jo o dr Narr gfrasse an dam Herr Wacker. Mer meint, er war nundebuckel zuckerig, wia ner alle mache.
 
           
-",sengelin-d-mamsell-elis,42,5,0.263706472631292,0.11904761904761904
+",17,sengelin-d-mamsell-elis,42,5,0.263706472631292,0.11904761904761904
 106,comedy,Elis,F,,,,"
             
 Elis:
@@ -1033,7 +1033,7 @@ Un jetz will i ihn erscht racht.
 (Geht hocherho- benen Hauptes ab.)
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",17,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 107,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1045,7 +1045,7 @@ Amerei:
 Wart numme, wart numme!
 
           
-",sengelin-d-mamsell-elis,28,4,0.21022920031329242,0.14285714285714285
+",17,sengelin-d-mamsell-elis,28,4,0.21022920031329242,0.14285714285714285
 108,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1061,7 +1061,7 @@ A Schüalmeischter as Schwiegersuhn! ’s isch zum Totschiasse! Hahaha! Wie wenn
 .
 
           
-",sengelin-d-mamsell-elis,129,17,0.15252941176470589,0.13178294573643412
+",18,sengelin-d-mamsell-elis,129,17,0.15252941176470589,0.13178294573643412
 112,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1070,7 +1070,7 @@ Maire:
 Hoho, sall seisch im e Narr, nit mir. Dir isch hit e Katz iwer dr Wag gloffe, tüas numme gsteh.
 
           
-",sengelin-d-mamsell-elis,21,1,0.6153254311006354,0.047619047619047616
+",18,sengelin-d-mamsell-elis,21,1,0.6153254311006354,0.047619047619047616
 113,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1079,7 +1079,7 @@ Amerei:
 Wage mir, i ha no welle warte, bis... enfin, emol hatschs doch erfahre.
 
           
-",sengelin-d-mamsell-elis,14,2,0.0705,0.14285714285714285
+",18,sengelin-d-mamsell-elis,14,2,0.0705,0.14285714285714285
 114,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1088,7 +1088,7 @@ Maire:
 Dü machsch mi famos wunderfitzig.
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",19,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 116,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1100,7 +1100,7 @@ Maire:
 Wa... wa... was seisch do. Hä.. hä.. här i racht?
 
           
-",sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
+",19,sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
 117,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1112,7 +1112,7 @@ Amerei:
 Gal, Alter, do sin mir emol einig, dir gfallt er o nit, da Herr Schwiegersuhn
 
           
-",sengelin-d-mamsell-elis,21,3,0.04699999999999999,0.14285714285714285
+",19,sengelin-d-mamsell-elis,21,3,0.04699999999999999,0.14285714285714285
 118,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1124,7 +1124,7 @@ Maire:
 Nei, misex nit, wenn i nit wusst, as er viel z` räsonabel war, fir sich in unser Hochmüatsaffle z` vergaffe, dat i ihn uff der Stell geh warne?
 
           
-",sengelin-d-mamsell-elis,39,5,0.2124,0.1282051282051282
+",19,sengelin-d-mamsell-elis,39,5,0.2124,0.1282051282051282
 119,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1136,7 +1136,7 @@ Amerei:
 Warne? Oho!
 
           
-",sengelin-d-mamsell-elis,6,1,0.453,0.16666666666666666
+",19,sengelin-d-mamsell-elis,6,1,0.453,0.16666666666666666
 120,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1148,7 +1148,7 @@ Maire:
 Ja, warne! Denn i wott da güat Mann nit mit ebene Fiass sah in si Unglick renne.
 
           
-",sengelin-d-mamsell-elis,22,5,0.2406,0.22727272727272727
+",20,sengelin-d-mamsell-elis,22,5,0.2406,0.22727272727272727
 122,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1157,7 +1157,7 @@ Maire:
 Nit! No minere Meinung sott e Lehrer im Dorf e Musterhüshaltung ha, fir de andere e Exampel z’ geh Un jetz dank dir emol unser Elis as Hüshaltere! Brr !! i `
 
           
-",sengelin-d-mamsell-elis,32,4,0.15225,0.125
+",20,sengelin-d-mamsell-elis,32,4,0.15225,0.125
 123,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1169,7 +1169,7 @@ Amerei:
 E fir was sin d' Manner do? Er kennt em jo halfe!
 
           
-",sengelin-d-mamsell-elis,16,4,0.15225,0.25
+",20,sengelin-d-mamsell-elis,16,4,0.15225,0.25
 124,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1178,7 +1178,7 @@ Maire:
 Halfe! Mit sine Nawesamtle hett e Lehrer ke Zitt fir sich no um so Sache z’ kümmere. Un derno isch no ebbis, wu... nei, das verstehsch doch nit.
 
           
-",sengelin-d-mamsell-elis,29,4,0.15225,0.13793103448275862
+",20,sengelin-d-mamsell-elis,29,4,0.15225,0.13793103448275862
 125,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1187,7 +1187,7 @@ Amerei:
 So i bi denn e Gans! Los, Schambedischt, ües mit, edder ’s kracht.
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",20,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 126,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1196,7 +1196,7 @@ Maire:
 Also, wage mir! Unser Elis het ke Harz, ke Gmiat un das isch d'’ Hauptsach, worum as i gege dia Hirot war. es Isch das ebbis so notwandigs? Ich mein ’s Gald ....
 
           
-",sengelin-d-mamsell-elis,34,5,0.0,0.14705882352941177
+",21,sengelin-d-mamsell-elis,34,5,0.0,0.14705882352941177
 127,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1210,7 +1210,7 @@ Wies mit sallem bi uns steht, weisch so güat wie ich.
  Ja, ’s Gmiat isch fir e Lehrersfrau d' Hauptsach, Amerei. A Lehrer hett so ‘viel Ärger z’ schlucke in der Schüal un mangmol no sunscht wage iwerempfindlige Lit mit iwerspannte näie Idee, as er nit no e Lünenarr wia unser Elis im Hüs ha därf. Er brücht e Fraui, wu’s versteht, ihm d' Wulke z’ verschiche. Un wage dam war ich, M gsait, der erscht, wu gege dia Hirotsplan dat rede.
 
           
-",sengelin-d-mamsell-elis,90,12,0.08333333333333333,0.13333333333333333
+",21,sengelin-d-mamsell-elis,90,12,0.08333333333333333,0.13333333333333333
 128,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1224,7 +1224,7 @@ So, so, so e Vater bisch dü! Di eige Kind datsch ver- briale? Dü.. dü..! Un i
 .
 
           
-",sengelin-d-mamsell-elis,99,12,0.21466234323765102,0.12121212121212122
+",21,sengelin-d-mamsell-elis,99,12,0.21466234323765102,0.12121212121212122
 129,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1238,7 +1238,7 @@ So sin ihr, ihr Wiwer, wenn dr Eigesinn kommediert, schlupft dr Verstand in e Ka
  Nei, horch no e wenig. Mi Frind Hanstiabelt vu Krönige schribt mer, ass si Suhn, dr Jörg, hit züa nis uf Visit kummt. Im Elis han is scho gsait. Mach em ke so bes Gsicht wia letscht dam arme Lüi vum Geisesepp.
 
           
-",sengelin-d-mamsell-elis,69,7,0.09158331536962151,0.10144927536231885
+",21,sengelin-d-mamsell-elis,69,7,0.09158331536962151,0.10144927536231885
 130,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1250,7 +1250,7 @@ Amerei:
 E, i wird dankwohl no miasse im Spiegel Gsichter stüdiare fir so Büredoddel z’ emp- fange !
 
           
-",sengelin-d-mamsell-elis,21,3,0.20299999999999999,0.14285714285714285
+",21,sengelin-d-mamsell-elis,21,3,0.20299999999999999,0.14285714285714285
 131,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1262,7 +1262,7 @@ Maire:
 Amerei, mach ke Dummheite, wage dim Hochmüat verschitsch sicher no dim anzige Kind si Gliek. Dü warsch viellicht salbscht no froh, ’s dat e braver Bürebua ums ahalte.
 
           
-",sengelin-d-mamsell-elis,33,8,0.0,0.24242424242424243
+",21,sengelin-d-mamsell-elis,33,8,0.0,0.24242424242424243
 133,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -1271,7 +1271,7 @@ Lisa:
 's Asse isch grischte, Tante.
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",22,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 135,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -1280,7 +1280,7 @@ Lisa:
 ’s isch unnötig, do kunnts grad.
 
           
-",sengelin-d-mamsell-elis,7,1,0.0,0.14285714285714285
+",22,sengelin-d-mamsell-elis,7,1,0.0,0.14285714285714285
 136,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1289,7 +1289,7 @@ Maire:
 So batet, i ha bigobbliger Hunger, uf dr Jörg känne mir nit warte.
 
           
-",sengelin-d-mamsell-elis,14,3,0.04699999999999999,0.21428571428571427
+",22,sengelin-d-mamsell-elis,14,3,0.04699999999999999,0.21428571428571427
 137,comedy,Elis,F,,,,"
             
 Elis:
@@ -1298,7 +1298,7 @@ Elis:
 Da hatsch kenne dane lo. Pape !
 
           
-",sengelin-d-mamsell-elis,7,1,0.5622069320558245,0.14285714285714285
+",22,sengelin-d-mamsell-elis,7,1,0.5622069320558245,0.14285714285714285
 138,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1308,7 +1308,7 @@ Pape! Pape! I ha dir schun hundert mol gsait, ass i di Vater, nit di Pape bi!
 (Beten leise und setzen sich dann zu Tische. Katri holt die übrigen Gänge, Pflüte und Apfelmus. Lisa hilft ihr ab und zu. Elis hat allein eine Ser- viette. Sie schiebt die Pflüte usw. mit einem Brot- stückchen in der rechten Hand auf die Gabel in der Linken.)
 
           
-",sengelin-d-mamsell-elis,69,4,0.07299999999999998,0.057971014492753624
+",23,sengelin-d-mamsell-elis,69,4,0.07299999999999998,0.057971014492753624
 139,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1320,7 +1320,7 @@ Maire:
 Dunnerschiass! Worum müasch denn dü allewill so e Geifermantele aha?
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",23,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 140,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1331,7 +1331,7 @@ Loss doch emol das Maidle riäwig, wit? Worum sotts nit zeige, as es im Pensiona
 .
 
           
-",sengelin-d-mamsell-elis,27,4,0.14055173301395613,0.14814814814814814
+",23,sengelin-d-mamsell-elis,27,4,0.14055173301395613,0.14814814814814814
 141,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1342,7 +1342,7 @@ I pfiff dr uff so verruckte Maniere, wenn das alles isch, was vo dam Pensionatsg
 .
 
           
-",sengelin-d-mamsell-elis,26,3,0.0,0.11538461538461539
+",23,sengelin-d-mamsell-elis,26,3,0.0,0.11538461538461539
 143,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1351,7 +1351,7 @@ Maire:
 Also, wenn düs denn absolüt wisse wit. 's isch güat, as mer nit no e Maidle han, sunscht gabs Krach.
 
           
-",sengelin-d-mamsell-elis,21,3,0.29836644593169215,0.14285714285714285
+",23,sengelin-d-mamsell-elis,21,3,0.29836644593169215,0.14285714285714285
 144,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1360,7 +1360,7 @@ Amerei:
 Krach? Wieso?
 
           
-",sengelin-d-mamsell-elis,3,1,0.8950993377950764,0.3333333333333333
+",24,sengelin-d-mamsell-elis,3,1,0.8950993377950764,0.3333333333333333
 145,comedy,Elis,F,,,,"
             
 Elis:
@@ -1369,7 +1369,7 @@ Elis:
 Loss en doch geh, Mamme!
 
           
-",sengelin-d-mamsell-elis,6,2,0.28110346602791225,0.3333333333333333
+",24,sengelin-d-mamsell-elis,6,2,0.28110346602791225,0.3333333333333333
 146,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1378,7 +1378,7 @@ Maire:
 Mame! Mame! Red bigott wia dr der Schnabel gwachse isch! Nei, i schwärs, ins Pensionat kam mer käs meh, ke Bür sett so dumm si, nohar hett er nit as ufbloste Gansle.
 
           
-",sengelin-d-mamsell-elis,33,4,0.07025,0.12121212121212122
+",24,sengelin-d-mamsell-elis,33,4,0.07025,0.12121212121212122
 147,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1387,7 +1387,7 @@ Amerei:
 So, so! Do sät unsereins sine Maidle lo uf- wachse wie so e Jesüsbirle sine Krabbe?
 
           
-",sengelin-d-mamsell-elis,18,5,0.1124413864111649,0.2777777777777778
+",24,sengelin-d-mamsell-elis,18,5,0.1124413864111649,0.2777777777777778
 149,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1396,7 +1396,7 @@ Amerei:
 Ja, isch ebbe nit worde üs em Elis z’ Nancy un z’ Offeburg, hein?
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",24,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 150,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -1408,7 +1408,7 @@ Lisa:
 Gan doch no, Unkel!
 
           
-",sengelin-d-mamsell-elis,8,1,0.0,0.125
+",25,sengelin-d-mamsell-elis,8,1,0.0,0.125
 151,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1418,7 +1418,7 @@ Nit do, Lisa, emol müass nüss, was mi scho wuche- lang druckt. Ja, Amerei, ebb
 (Lisa und Katri mit Suppenschüssel ab in die Küche.)
 
           
-",sengelin-d-mamsell-elis,65,4,0.11725,0.06153846153846154
+",25,sengelin-d-mamsell-elis,65,4,0.11725,0.06153846153846154
 152,comedy,Elis,F,,,,"
             
 Elis:
@@ -1427,7 +1427,7 @@ Elis:
 Andere Vater sin doch o nit troublé au cerveau un schicke ihre Töchter doch ins Etranger.
 
           
-",sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
+",25,sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
 153,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1440,7 +1440,7 @@ Ja, awer wu ane? In d' Hüshaltungs- schüal, ins Bürepensionat. Vo därt bring
 (lachen schallend und sehen einander lachend an.)
 
           
-",sengelin-d-mamsell-elis,45,5,0.0,0.1111111111111111
+",25,sengelin-d-mamsell-elis,45,5,0.0,0.1111111111111111
 154,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1449,7 +1449,7 @@ Amerei:
 Das isch güat !
 
           
-",sengelin-d-mamsell-elis,4,1,0.0,0.25
+",25,sengelin-d-mamsell-elis,4,1,0.0,0.25
 155,comedy,Elis,F,,,,"
             
 Elis:
@@ -1461,7 +1461,7 @@ Ka’s Üscheni brodiere? Ka’s singe? Ka’s Klavier- spiele? Ka’s d' Brandm
 (Katri hat inzwischen Pflüte aufgestellt, Lisa das Apfelmus gebracht.)
 
           
-",sengelin-d-mamsell-elis,37,3,0.0,0.08108108108108109
+",25,sengelin-d-mamsell-elis,37,3,0.0,0.08108108108108109
 156,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1473,7 +1473,7 @@ Maire:
 I will nit meh wisse. Gant aire Miler z’ asse!
 
           
-",sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
+",26,sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
 158,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1482,7 +1482,7 @@ Amerei:
 ’s isch Fritig hit, Elis.
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",26,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 159,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1494,7 +1494,7 @@ Maire:
 Awer, Müater, dü hatsch doch un- serem liewe Kind kene Nüdle un Karpfe koche.
 
           
-",sengelin-d-mamsell-elis,19,4,0.0,0.21052631578947367
+",26,sengelin-d-mamsell-elis,19,4,0.0,0.21052631578947367
 160,comedy,Elis,F,,,,"
             
 Elis:
@@ -1506,7 +1506,7 @@ Elis:
 Allwag wars ebbs anders gsi. On dirait as mr so Armeseelebirle ware.
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",26,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 161,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1520,7 +1520,7 @@ Maire:
  E, dü danksch dir einstwile, d' Pflüte ware Karpfe. Wenn emol dr Müater ihr Notari kunnt, wirds jo alle Tag so Plattle ga.
 
           
-",sengelin-d-mamsell-elis,38,6,0.0,0.15789473684210525
+",26,sengelin-d-mamsell-elis,38,6,0.0,0.15789473684210525
 162,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1530,7 +1530,7 @@ Amerei:
 (Alle essen eine Weile still weiter. Katri schmatzend.)
 
           
-",sengelin-d-mamsell-elis,41,6,0.20299999999999999,0.14634146341463414
+",27,sengelin-d-mamsell-elis,41,6,0.20299999999999999,0.14634146341463414
 163,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1545,7 +1545,7 @@ Do bin i, het saller gsait. Sin dir der Maier
 (Alle betrachten ihn teils verdutzt, teils ironisch.)
 
           
-",sengelin-d-mamsell-elis,30,1,0.0,0.03333333333333333
+",27,sengelin-d-mamsell-elis,30,1,0.0,0.03333333333333333
 164,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1554,7 +1554,7 @@ Maire:
 Da bin i, ja. Un wer sin ihr, wenn mr froge därf? Ebbe dr...?
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",27,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 165,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1571,7 +1571,7 @@ Natirlig bin is, dr Jörg bin i, äier züakinftiger Tochterma.
 (Lisa und Katri kichern.)
 
           
-",sengelin-d-mamsell-elis,62,4,0.0,0.06451612903225806
+",27,sengelin-d-mamsell-elis,62,4,0.0,0.06451612903225806
 166,comedy,Elis,F,,,,"
             
 Elis:
@@ -1582,7 +1582,7 @@ Amerei und
  Nei, isch das e Kolteri!
 
           
-",sengelin-d-mamsell-elis,15,4,0.42996864170915183,0.26666666666666666
+",27,sengelin-d-mamsell-elis,15,4,0.42996864170915183,0.26666666666666666
 167,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1594,7 +1594,7 @@ Maire:
 So setzet äich doch, Ihr han allewag Hunger?
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",27,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 168,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1603,7 +1603,7 @@ Jörg:
 E sall grad nitt. Wisset dir, d' Müater het mr e Dotzet Eier in Ange gschlage eb i furt bi un nohar han i no e halwer Schambung verwitscht im Kansch- terle. ’s isch grad ke grosser gsi, numme vo nere zweizantrige Soi, awer 's langt allewag bis z’Owe.
 
           
-",sengelin-d-mamsell-elis,52,5,0.0,0.09615384615384616
+",28,sengelin-d-mamsell-elis,52,5,0.0,0.09615384615384616
 169,comedy,Elis,F,,,,"
             
 Elis:
@@ -1612,7 +1612,7 @@ Elis:
 Nei, so e gourmand! Vor dam müesst mer jo Angscht ha, as er eim dat abisse.
 
           
-",sengelin-d-mamsell-elis,17,1,0.756297933776526,0.058823529411764705
+",28,sengelin-d-mamsell-elis,17,1,0.756297933776526,0.058823529411764705
 170,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1621,7 +1621,7 @@ Jörg:
 O, do därfet dir riawig si, Jingferle, dr Jörg nagt nit garn an Knoche, wu nit dra isch.
 
           
-",sengelin-d-mamsell-elis,19,2,0.0,0.10526315789473684
+",28,sengelin-d-mamsell-elis,19,2,0.0,0.10526315789473684
 171,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -1633,7 +1633,7 @@ Lisa:
 Galet Jörg, ihr han z’ erscht bim Säihirt Stunde gnu, vor ebb ihr do ane ku sin?
 
           
-",sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
+",28,sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
 172,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1645,7 +1645,7 @@ E lüag mer do ane, isch das e nat Kaferle!
 (wehrt lachend ab und verduftet samt Katri.)
 
           
-",sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
+",28,sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
 173,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1654,7 +1654,7 @@ Maire:
 Allez, wenn ihr no ebbis want, schenieret eich nit; ’s isch e witer Wag vo Krönige bis do ane, do sin d' Eier allewag scho lang z’ Amerika.
 
           
-",sengelin-d-mamsell-elis,29,1,0.469,0.034482758620689655
+",28,sengelin-d-mamsell-elis,29,1,0.469,0.034482758620689655
 174,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1665,7 +1665,7 @@ Scheniere tüa i mi grad nit.
  Wenn dir ebbis güats hattet... ? Wisset dir, e Seschter Lewat...
 
           
-",sengelin-d-mamsell-elis,30,2,0.0,0.06666666666666667
+",29,sengelin-d-mamsell-elis,30,2,0.0,0.06666666666666667
 175,comedy,Elis,F,,,,"
             
 Elis:
@@ -1677,7 +1677,7 @@ Elis:
 geht allewill no in e Sack voll Riawe, sait als unser Lisa.
 
           
-",sengelin-d-mamsell-elis,16,4,0.0,0.25
+",29,sengelin-d-mamsell-elis,16,4,0.0,0.25
 176,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1686,7 +1686,7 @@ Maire:
 He, mir han halt numme Pflüte. Wissen ihr, ’s isch Fritig. Wage dam han i mi vorhar gwundert, wu ihr vo dam Schambung gred han.
 
           
-",sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
+",29,sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
 177,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1696,7 +1696,7 @@ Ah ja, bigott! An da Fritig han i jetz nimmi dankt. Jörg, Jörg, wia bisch dü 
 (schlägt sich vor die Stirn.)
 
           
-",sengelin-d-mamsell-elis,26,4,0.07025,0.15384615384615385
+",29,sengelin-d-mamsell-elis,26,4,0.07025,0.15384615384615385
 178,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1708,7 +1708,7 @@ Amerei:
 ’s isch doch schen, ass ihr das salbscht isah tian.
 
           
-",sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
+",29,sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
 179,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1721,7 +1721,7 @@ Jo, dir han verdüschmi racht. Ich Esel kum am e Fritig un ha mi so gfreit uf e 
 .
 
           
-",sengelin-d-mamsell-elis,67,10,0.05295941944423575,0.14925373134328357
+",29,sengelin-d-mamsell-elis,67,10,0.05295941944423575,0.14925373134328357
 180,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1737,7 +1737,7 @@ Hein, ich ka o Varsle mache ! O, dr Jörg isch nit so dumm, wia er dri lüagt.
 .
 
           
-",sengelin-d-mamsell-elis,57,7,0.2238991347443207,0.12280701754385964
+",30,sengelin-d-mamsell-elis,57,7,0.2238991347443207,0.12280701754385964
 181,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1750,7 +1750,7 @@ Halt, namme doch e süferer Taller.
 .
 
           
-",sengelin-d-mamsell-elis,29,2,0.0,0.06896551724137931
+",30,sengelin-d-mamsell-elis,29,2,0.0,0.06896551724137931
 182,comedy,Jörg,M,,,,"
             
 Jörg :
@@ -1762,7 +1762,7 @@ Jörg :
  Dir han jo e ganzer tall voll.
 
           
-",sengelin-d-mamsell-elis,25,3,0.0,0.12
+",30,sengelin-d-mamsell-elis,25,3,0.0,0.12
 184,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1772,7 +1772,7 @@ Do müass i blind gsi si! Häckerundia! Het dia e dick Hintergschirr. Dia tat me
 (Alle lachen schallend.)
 
           
-",sengelin-d-mamsell-elis,24,3,0.13033333333333333,0.125
+",30,sengelin-d-mamsell-elis,24,3,0.13033333333333333,0.125
 185,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1781,7 +1781,7 @@ Amerei:
 E, froget se, viellicht nimmt se ech!
 
           
-",sengelin-d-mamsell-elis,8,1,0.0,0.125
+",30,sengelin-d-mamsell-elis,8,1,0.0,0.125
 187,comedy,Katri,F,,,,"
             
 Katri:
@@ -1792,7 +1792,7 @@ Jo, galet dir, es sind scho grössere Wunger gechah
 .
 
           
-",sengelin-d-mamsell-elis,19,3,0.161,0.15789473684210525
+",31,sengelin-d-mamsell-elis,19,3,0.161,0.15789473684210525
 188,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1806,7 +1806,7 @@ O Pflüte, Pflüte, do willi wauite!
 .
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",31,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 190,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1818,7 +1818,7 @@ Jörg:
 ’s langt fir dr Afang... Nüdlewatter, sin dia güat. Han dir se gmacht, Jüngferle?
 
           
-",sengelin-d-mamsell-elis,18,4,0.15225,0.2222222222222222
+",31,sengelin-d-mamsell-elis,18,4,0.15225,0.2222222222222222
 191,comedy,Elis,F,,,,"
             
 Elis:
@@ -1830,7 +1830,7 @@ Elis:
 Ich bin fir äich ke Jingferle, comprenez- vous?
 
           
-",sengelin-d-mamsell-elis,13,2,0.609,0.15384615384615385
+",31,sengelin-d-mamsell-elis,13,2,0.609,0.15384615384615385
 193,comedy,Elis,F,,,,"
             
 Elis:
@@ -1842,7 +1842,7 @@ Elis:
 Natirlig, vo so me Mischtkür, wu nit kennt as Kiah un Ochse, ka mer nit verlange, as er eim Mamsell tituliert, wia sichs fir unsereiner conveniert.
 
           
-",sengelin-d-mamsell-elis,32,2,0.3045,0.0625
+",32,sengelin-d-mamsell-elis,32,2,0.3045,0.0625
 194,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1854,7 +1854,7 @@ Maire:
 Jetz ischs verdanzig gnüa mit dam fuchse un trate! Gascht isch Gascht! Un das sag i dir Elis,, wenn dim Vater sine Kiah un Ochse nit gsi ware, wenn ar nit o dr „Mischtbür“ gmacht hat, hatsch dü verdoni o nit kenne lehre d' Mamsell spiele, dü Hochmüatsgingel, dü! Andere Maidle im Dorf, wu ufs wenigscht sin wer dü, date sich schame, wenn mer se dat mit Mamsell arede, edder wenn se am Suntig so e Kreditfatze vors Larvle miasste setze wia dü.
 
           
-",sengelin-d-mamsell-elis,90,7,0.087,0.07777777777777778
+",32,sengelin-d-mamsell-elis,90,7,0.087,0.07777777777777778
 195,comedy,Elis,F,,,,"
             
 Elis:
@@ -1863,7 +1863,7 @@ Elis:
 Was fir Maidle? Jo, so Drackdüdi, wu nit kenne as Mischt zettle un Säitranke arichte.
 
           
-",sengelin-d-mamsell-elis,16,3,0.20299999999999999,0.1875
+",32,sengelin-d-mamsell-elis,16,3,0.20299999999999999,0.1875
 196,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1875,7 +1875,7 @@ Maire:
 In dr Kopfverdraischüal sin se halt nit gsi geh läre drüdle. Se han halt ke so gscheite Miatere gha, wu partü han welle e Halbaff mache üs ihrem Kind.
 
           
-",sengelin-d-mamsell-elis,33,6,0.0,0.18181818181818182
+",32,sengelin-d-mamsell-elis,33,6,0.0,0.18181818181818182
 197,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1884,7 +1884,7 @@ Amerei:
 Scham di, Schambedischt, fir so z’rede vor ebberm Fremd’s!
 
           
-",sengelin-d-mamsell-elis,12,1,0.609,0.08333333333333333
+",32,sengelin-d-mamsell-elis,12,1,0.609,0.08333333333333333
 198,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1898,7 +1898,7 @@ O, ich bi doch nit fremd, san dir’s nit
 .
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",33,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 199,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -1914,7 +1914,7 @@ Un ich sag dir zum toisigschte Mol, ’s Elis müass ebbis Finers hirote as so e
 .
 
           
-",sengelin-d-mamsell-elis,49,4,0.13807348580256115,0.08163265306122448
+",33,sengelin-d-mamsell-elis,49,4,0.13807348580256115,0.08163265306122448
 200,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1923,7 +1923,7 @@ Maire:
 Jo, pfiffe düat er dir uff die Mülaffle wia alle andere. Wenn’s a Herr hat welle, wars nit 27 Johr alt worde!
 
           
-",sengelin-d-mamsell-elis,24,3,0.04699999999999999,0.125
+",33,sengelin-d-mamsell-elis,24,3,0.04699999999999999,0.125
 201,comedy,Elis,F,,,,"
             
 Elis:
@@ -1933,7 +1933,7 @@ Was bin i? ’s geht jo noch mehr as e Monet, bis i so alt bi. Un das sag i, der
 (verächtl. Blick auf J.)
 
           
-",sengelin-d-mamsell-elis,37,5,0.028199999999999996,0.13513513513513514
+",33,sengelin-d-mamsell-elis,37,5,0.028199999999999996,0.13513513513513514
 202,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -1944,7 +1944,7 @@ Dü hesch racht, i wott e rachtschaffener Bür nit emol mit dir in's Unglück br
 .
 
           
-",sengelin-d-mamsell-elis,35,5,0.15,0.14285714285714285
+",33,sengelin-d-mamsell-elis,35,5,0.15,0.14285714285714285
 203,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1958,7 +1958,7 @@ Mir isch so wohl wia i ere Soi in dr Mischtlach.
  Awer Jingferle eder Mamsell, dir han mer allewil no nit gsait, wer dia güate Pflüte gmacht hett. Sin dir so e finer Kuchemutz?
 
           
-",sengelin-d-mamsell-elis,63,7,0.0,0.1111111111111111
+",33,sengelin-d-mamsell-elis,63,7,0.0,0.1111111111111111
 204,comedy,Elis,F,,,,"
             
 Elis:
@@ -1974,7 +1974,7 @@ Nei, so e Stiar! Ender as i so ein nahm, giang i ins Kloschter!
 .
 
           
-",sengelin-d-mamsell-elis,44,4,0.0,0.09090909090909091
+",34,sengelin-d-mamsell-elis,44,4,0.0,0.09090909090909091
 205,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -1985,7 +1985,7 @@ Ah ja, d' Müater het jo gsait, dir kenntet nit emol de Säi koche. Do tiant dir
 .
 
           
-",sengelin-d-mamsell-elis,66,8,0.06903674290128058,0.12121212121212122
+",34,sengelin-d-mamsell-elis,66,8,0.06903674290128058,0.12121212121212122
 207,comedy,Elis,F,,,,"
             
 Elis:
@@ -1995,7 +1995,7 @@ Elis:
 :. Nach einer Weile sinnend: Worum numme d' Mamme so schnall umegschwankt hät? Vor ere Stund no hat se So deibelet wagen em Herr Wacker. Und jetzt! Was
 
           
-",sengelin-d-mamsell-elis,63,5,0.06479999999999998,0.07936507936507936
+",34,sengelin-d-mamsell-elis,63,5,0.06479999999999998,0.07936507936507936
 208,comedy,Elis,F,,,,"
             
 Elis:
@@ -2008,7 +2008,7 @@ Jesses, i glauib, das isch en, er kunnt als gwenlig um dia Zit mit de Papierer z
 .
 
           
-",sengelin-d-mamsell-elis,51,6,0.10493089805233392,0.11764705882352941
+",34,sengelin-d-mamsell-elis,51,6,0.10493089805233392,0.11764705882352941
 209,comedy,Elis,F,,,,"
             
 Elis:
@@ -2020,7 +2020,7 @@ Elis:
 Ah, dü bischs?
 
           
-",sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
+",34,sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
 210,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2032,7 +2032,7 @@ Lisa:
 Was machsch denn dü fir e Gsicht? Bin ich am And e Gspangscht, ass dü mi so aglotze tüasch? Was hesch denn?
 
           
-",sengelin-d-mamsell-elis,26,2,0.3045,0.07692307692307693
+",35,sengelin-d-mamsell-elis,26,2,0.3045,0.07692307692307693
 213,comedy,Elis,F,,,,"
             
 Elis:
@@ -2043,7 +2043,7 @@ Nit, as dü’s weisch. I will geh e andere Rock alege; i bi do vorig bliwe hank
 .
 
           
-",sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
+",35,sengelin-d-mamsell-elis,26,2,0.0,0.07692307692307693
 214,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2055,7 +2055,7 @@ Wacker:
 Bonjour, Mamsell Lisa ! Sie han jo e Stimmle wia e Nachtigall.
 
           
-",sengelin-d-mamsell-elis,42,3,0.11333333333333334,0.07142857142857142
+",35,sengelin-d-mamsell-elis,42,3,0.11333333333333334,0.07142857142857142
 215,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2067,7 +2067,7 @@ Lisa:
 Ah, Sie sins, Herr Lehrer? Han Sie mich awer verschreckt!
 
           
-",sengelin-d-mamsell-elis,18,2,0.0705,0.1111111111111111
+",35,sengelin-d-mamsell-elis,18,2,0.0705,0.1111111111111111
 216,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2076,7 +2076,7 @@ Wacker:
 Verschreckt? Lüag i denn so schrecklig dri?
 
           
-",sengelin-d-mamsell-elis,8,1,0.7450144112577012,0.125
+",36,sengelin-d-mamsell-elis,8,1,0.7450144112577012,0.125
 217,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2090,7 +2090,7 @@ O nei, im Gegeteil! Sie sin jo so e...
 .
 
           
-",sengelin-d-mamsell-elis,17,2,0.172,0.11764705882352941
+",36,sengelin-d-mamsell-elis,17,2,0.172,0.11764705882352941
 219,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2102,7 +2102,7 @@ Lisa:
 Nei, nei, ’s isch e Dummheit gsi.
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",36,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 220,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2111,7 +2111,7 @@ Wacker:
 Macht nit, dia sin jo derfir do, as me se sait.
 
           
-",sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
+",36,sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
 221,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2122,7 +2122,7 @@ Also, in Gottes Name, fir mi Strof, Ich ha welle sage... Sie sin jo so e liawer 
  natirlig zu de Kinder un zu de Lit, han i gemeint.
 
           
-",sengelin-d-mamsell-elis,33,5,0.27278305143623993,0.15151515151515152
+",36,sengelin-d-mamsell-elis,33,5,0.27278305143623993,0.15151515151515152
 222,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2134,7 +2134,7 @@ Wacker:
 Awer natirlig, i dank jo nit an- derscht.
 
           
-",sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
+",37,sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
 223,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2146,7 +2146,7 @@ Lisa:
 Mir han scho e paar rachte Lehrer gha, ’s isch wohr, awer no kenn het d' Kinder eso wisse z’ namme, Sie fliage jo numme so in d' Schüal dato. Mir han’s nit so güat gha un mer han doch o e braver Lehrer gha. Awer er isch allewil eso arnscht gsi, mir han gar nia därfe lache, Sie mache als salbscht Gspass, ass d' Wand als zittere vor'm Lache vo de Kinder.
 
           
-",sengelin-d-mamsell-elis,84,16,0.0305432407997961,0.19047619047619047
+",37,sengelin-d-mamsell-elis,84,16,0.0305432407997961,0.19047619047619047
 224,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2158,7 +2158,7 @@ Wacker:
 Awer Mamsell Lisa, isch denn das ebs bsunders? Das isch jo ganz natirlig, as mer die Kleine dann und wann uffrischt. Sie mache z’ viel
 
           
-",sengelin-d-mamsell-elis,29,3,0.0,0.10344827586206896
+",37,sengelin-d-mamsell-elis,29,3,0.0,0.10344827586206896
 225,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2167,7 +2167,7 @@ Lisa:
 Z' viel? Z’ viel? Oh nei, Herr Wacker, viel z’ weni, In e so e Schüal möchte jo mir alte Esel no geh, wu wer so frei därf rede, so vo der Brust awag schriewe, wie d' Kinder als verzähle. Bi uns ischs grad gsi, wia wenn mer im e Joch dat stake wu me niane anders ane därf, ass wu eim dr Führmann anefährt.
 
           
-",sengelin-d-mamsell-elis,66,7,0.02014285714285714,0.10606060606060606
+",37,sengelin-d-mamsell-elis,66,7,0.02014285714285714,0.10606060606060606
 226,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2179,7 +2179,7 @@ Wacker:
 Halte Sie doch emol, Mam....
 
           
-",sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
+",37,sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
 227,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2191,7 +2191,7 @@ Lisa:
 Nei, und dia gfitzte Spaziergangle, wu Sie als mit der Schüal mache in der Wald, uf der Barg, zum Weiher. So ebbis han mer nia gha, numme ’s dummme Lasebuach. Un was fir Molereie as sie jetz mache gege dia dumme Tafele, wu mer han miasse nomole. Kurz, Sie sin e Muschter vom e Lehrer.
 
           
-",sengelin-d-mamsell-elis,59,7,0.087,0.11864406779661017
+",37,sengelin-d-mamsell-elis,59,7,0.087,0.11864406779661017
 228,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2200,7 +2200,7 @@ Wacker:
 Awer nei, Mamsell Lisa, das isch doch nit mi Verdianst, das isch hitigestags Vorschrift. Das mache jo alle.
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",38,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 229,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2214,7 +2214,7 @@ Still, still, sal isch nit wohr, ich weiss es. Dr Unkel kunnt jo viel in dr Umge
 .
 
           
-",sengelin-d-mamsell-elis,123,18,0.0,0.14634146341463414
+",38,sengelin-d-mamsell-elis,123,18,0.0,0.14634146341463414
 230,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2228,7 +2228,7 @@ A harzig, harzig Kind, ’s Lisa. Wer kennt glichgiltig bliewe, wenn so e ordlig
 .
 
           
-",sengelin-d-mamsell-elis,98,17,0.05299999999999999,0.17346938775510204
+",38,sengelin-d-mamsell-elis,98,17,0.05299999999999999,0.17346938775510204
 231,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2244,7 +2244,7 @@ Do han is, lose Se emol, Herr Lehrer
 .
 
           
-",sengelin-d-mamsell-elis,130,17,0.016588235294117647,0.13076923076923078
+",38,sengelin-d-mamsell-elis,130,17,0.016588235294117647,0.13076923076923078
 232,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2256,7 +2256,7 @@ Wacker:
 Awer sicher. Mamsell Lisa, fascht uffs Tipfele. Mer meint grad, d' Sundgauinachtigall hat dasmol mit minere Fadere gschriwe. Fascht ganz eso dank ich mir mie Wiwele, wenn i emol ’s Glick sott ha, fir eins heim z’fiahre.
 
           
-",sengelin-d-mamsell-elis,59,8,0.076125,0.13559322033898305
+",38,sengelin-d-mamsell-elis,59,8,0.076125,0.13559322033898305
 233,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2268,7 +2268,7 @@ Lisa:
 Ja, meine Sie denn. so e Ideal war z’ finde? ’s miasst ja fascht e Angel si.
 
           
-",sengelin-d-mamsell-elis,21,5,0.12216038609348134,0.23809523809523808
+",38,sengelin-d-mamsell-elis,21,5,0.12216038609348134,0.23809523809523808
 234,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2280,7 +2280,7 @@ Wacker:
 Ebbs e so git? Ich sag Ihne, Lisa, pardon, Mamsell Lisa, ich wusst scho eini un ich....
 
           
-",sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
+",39,sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
 235,comedy,Elis,F,,,,"
             
 Elis:
@@ -2292,7 +2292,7 @@ Elis:
 A, bonjour, Monsieur Wacker, käme Sie o z’visite?
 
           
-",sengelin-d-mamsell-elis,20,1,0.0,0.05
+",39,sengelin-d-mamsell-elis,20,1,0.0,0.05
 236,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2306,7 +2306,7 @@ As dich der... hesch dü jetz grad im schenschte Augeblick muasse derzwische ku 
  Sal nit, fir z’visite z’ku fahlt mer d’Zit, i ha
 
           
-",sengelin-d-mamsell-elis,33,7,0.15863225789611843,0.21212121212121213
+",39,sengelin-d-mamsell-elis,33,7,0.15863225789611843,0.21212121212121213
 237,comedy,Elis,F,,,,"
             
 Elis:
@@ -2322,7 +2322,7 @@ Je comprend, Monsieur Wacker, awer nit wohr, e bizzele bliewe Sie doch bin is. D
  .
 
           
-",sengelin-d-mamsell-elis,49,2,0.0,0.04081632653061224
+",39,sengelin-d-mamsell-elis,49,2,0.0,0.04081632653061224
 238,comedy,Elis,F,,,,"
             
 Elis:
@@ -2338,7 +2338,7 @@ Jetz oder nia!
 .
 
           
-",sengelin-d-mamsell-elis,47,5,0.12179999999999999,0.10638297872340426
+",39,sengelin-d-mamsell-elis,47,5,0.12179999999999999,0.10638297872340426
 239,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2354,7 +2354,7 @@ Was dia mir fir Auge gschickt hat! Meint se ebbe?
  „augmentation“... Un iwerhaupt bi so zwei Kusinle ka eim d' Wahl nit schwar falle, bim Elis e Köpfle voll Schnickschnack, bim Lisa e guldig Harzle.
 
           
-",sengelin-d-mamsell-elis,108,15,0.14300193367942005,0.1388888888888889
+",39,sengelin-d-mamsell-elis,108,15,0.14300193367942005,0.1388888888888889
 240,comedy,Elis,F,,,,"
             
 Elis:
@@ -2368,7 +2368,7 @@ Nit wohr, Sie akzeptiere e Glasle?
 .
 
           
-",sengelin-d-mamsell-elis,18,2,0.0,0.1111111111111111
+",40,sengelin-d-mamsell-elis,18,2,0.0,0.1111111111111111
 241,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2377,7 +2377,7 @@ Wacker:
 Wage mir, wenns Ihne Fraid macht.
 
           
-",sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
+",40,sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
 244,comedy,Elis,F,,,,"
             
 Elis:
@@ -2386,7 +2386,7 @@ Elis:
 Sie han allewag bol langi Zit gha, nit? I bin numme gschwind geh lüage, eb dr Babe no nit kunnt.
 
           
-",sengelin-d-mamsell-elis,21,3,0.15633333333333332,0.14285714285714285
+",40,sengelin-d-mamsell-elis,21,3,0.15633333333333332,0.14285714285714285
 245,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2400,7 +2400,7 @@ Se kennt jetz ku, d’langi Zit. Awer se sell mers zahle.
  Allwag hat i kirzeri Zit Nm
 
           
-",sengelin-d-mamsell-elis,26,6,0.07816666666666666,0.23076923076923078
+",40,sengelin-d-mamsell-elis,26,6,0.07816666666666666,0.23076923076923078
 247,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2411,7 +2411,7 @@ Awer sicher nit, Mademoiselle Elis, ich liag nia, eder i sags
 .
 
           
-",sengelin-d-mamsell-elis,16,2,0.0,0.125
+",41,sengelin-d-mamsell-elis,16,2,0.0,0.125
 248,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2420,7 +2420,7 @@ Wacker:
 Fir e Mamsell, wu im Pensionat gsi isch, isch'g ‚o nit z’verwundere, wenn sie vo ebbs anderm z’rede weiss as vom Watter un de näie Hiat. Apropos, Made- moiselle Elis, wu sin Sie eigetlig im Pensionat gsi?
 
           
-",sengelin-d-mamsell-elis,41,1,0.609,0.024390243902439025
+",41,sengelin-d-mamsell-elis,41,1,0.609,0.024390243902439025
 249,comedy,Elis,F,,,,"
             
 Elis:
@@ -2432,7 +2432,7 @@ Elis:
 Zwei Johr z’Nancy un zwei Johr z’Offe- burg!
 
           
-",sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
+",41,sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
 250,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2450,7 +2450,7 @@ Ah, ah, in zwei, jetz nimmt’s mi nimme wunder.
  Oh, ich benied da, wu Sie emol mit Ihrer Hand beglicke.
 
           
-",sengelin-d-mamsell-elis,65,6,0.13803448867597076,0.09230769230769231
+",41,sengelin-d-mamsell-elis,65,6,0.13803448867597076,0.09230769230769231
 251,comedy,Elis,F,,,,"
             
 Elis:
@@ -2464,7 +2464,7 @@ Comme il est charmant! Er bisst a. Awer züa schich, ich müass e bizi nochhalfe
  Awer Monsieur Wacker, wer hat in Ihne so e gfahliger Flatteur gsüacht! Sie han allewag scho mankem Maidli ’s Harz gstohle.
 
           
-",sengelin-d-mamsell-elis,48,7,0.07984525732188139,0.14583333333333334
+",41,sengelin-d-mamsell-elis,48,7,0.07984525732188139,0.14583333333333334
 252,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2476,7 +2476,7 @@ Wacker:
 Ich, o nei, das Verbrache han i grad nit uf em Gwisse. Ich wott wette, ass Sie de junge Herre zehmol gfahrliger sin.
 
           
-",sengelin-d-mamsell-elis,27,6,0.023499999999999997,0.2222222222222222
+",42,sengelin-d-mamsell-elis,27,6,0.023499999999999997,0.2222222222222222
 253,comedy,Elis,F,,,,"
             
 Elis:
@@ -2488,7 +2488,7 @@ Elis:
 Vous vous trompez, Monsieur Wacker, d' Koketti z’spiele isch mer no nia gange.
 
           
-",sengelin-d-mamsell-elis,18,2,0.0,0.1111111111111111
+",42,sengelin-d-mamsell-elis,18,2,0.0,0.1111111111111111
 254,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2500,7 +2500,7 @@ Wacker:
 Sapristi, das isch starker Tübak.
 
           
-",sengelin-d-mamsell-elis,10,1,0.0,0.1
+",42,sengelin-d-mamsell-elis,10,1,0.0,0.1
 255,comedy,Elis,F,,,,"
             
 Elis:
@@ -2514,7 +2514,7 @@ Ich wusst o nit, wage wem. User- einer het jo so wenig Glageheit, Bekanntschaft 
  Awer, Sie, so e schener, junger Herr un ke Liabschte, ’s isch nit z’glauibe. Wenns jo numme gsi war fir kurze Zit, denn Sie han doch gwiss schrecklig langi Zit in dr Schüal, so allei mit Kinder, wu mer nit gscheits rede ka mit ene.
 
           
-",sengelin-d-mamsell-elis,70,14,0.1611438865184072,0.2
+",42,sengelin-d-mamsell-elis,70,14,0.1611438865184072,0.2
 256,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2530,7 +2530,7 @@ Aha, jetz kunt scho ’s grobe Gschitz.
  Gits e scheenere Beruf, as e so kleine Biawle un Maidele langsam, langsam züa sich ufe z’zieah? Ka das langwilig si, üs dane junge Menscheblüame süache Persönlichkeite z’ mache wu Kopf un Harz uf em rachte Flack han?
 
           
-",sengelin-d-mamsell-elis,121,20,0.10234999999999998,0.1652892561983471
+",42,sengelin-d-mamsell-elis,121,20,0.10234999999999998,0.1652892561983471
 257,comedy,Elis,F,,,,"
             
 Elis:
@@ -2542,7 +2542,7 @@ Elis:
 Güat, awer no der Schüal, wenn Sie so allei sin in Ihrem grosse, laare Schüal- hüs, so müaterseeleallei zwische viar Müre, do mian Sie jo allewag schier starwe vor ennui.
 
           
-",sengelin-d-mamsell-elis,37,7,0.02614285714285713,0.1891891891891892
+",42,sengelin-d-mamsell-elis,37,7,0.02614285714285713,0.1891891891891892
 259,comedy,Elis,F,,,,"
             
 Elis:
@@ -2556,7 +2556,7 @@ Häre Sie mich eigetlig, Monsieur Wacker? Voyons, an was danke Sie denn?
 .
 
           
-",sengelin-d-mamsell-elis,21,3,0.15,0.14285714285714285
+",43,sengelin-d-mamsell-elis,21,3,0.15,0.14285714285714285
 260,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2568,7 +2568,7 @@ Wacker:
 An was i dankt ha? Das will ich Ihne sage. Ich ha mer üs- gmolt, wia Sie eigetli racht han mit dam Alleisi. Wia viel saliger war ich no in minere Arwet, wenn i no dr Schüal eber hat, wu mich voll un ganz dat versteh. Wia garn dat ich mine Schüalfreide mit ere teile, wia wohl dat’s mer awer o mangmol, wenn i im e Wiwele klage kännt. wenn eim züa grosse Stei in Wag kämme un eim d' Fattig lahm warde.
 
           
-",sengelin-d-mamsell-elis,93,16,0.08044828430688794,0.17204301075268819
+",43,sengelin-d-mamsell-elis,93,16,0.08044828430688794,0.17204301075268819
 261,comedy,Elis,F,,,,"
             
 Elis:
@@ -2580,7 +2580,7 @@ Elis:
 Eh bien, Monsieur Wacker, so mache Sie numme d' Auge uff, so e Angel müass z’ finde si.
 
           
-",sengelin-d-mamsell-elis,24,5,0.16696038609348135,0.20833333333333334
+",43,sengelin-d-mamsell-elis,24,5,0.16696038609348135,0.20833333333333334
 262,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2594,7 +2594,7 @@ Dunnerschiass, jetz kas bol nimm ditliger warde. Wart Fischle, dü müasch-zappl
  Racht han Sie, toisigmol racht, so e Angel müass z'finde si. Un ich glauib, ass ich en scho gfunde ha.
 
           
-",sengelin-d-mamsell-elis,43,9,0.1795241319609563,0.20930232558139536
+",43,sengelin-d-mamsell-elis,43,9,0.1795241319609563,0.20930232558139536
 263,comedy,Elis,F,,,,"
             
 Elis:
@@ -2606,7 +2606,7 @@ Elis:
 Ach, un därf mer erfahre, wer das isch? Kenn ich en ebe, da Angel?
 
           
-",sengelin-d-mamsell-elis,19,3,0.17633333333333334,0.15789473684210525
+",43,sengelin-d-mamsell-elis,19,3,0.17633333333333334,0.15789473684210525
 264,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2618,7 +2618,7 @@ Wacker:
 O ja, racht güat sogar.
 
           
-",sengelin-d-mamsell-elis,9,4,0.0,0.4444444444444444
+",44,sengelin-d-mamsell-elis,9,4,0.0,0.4444444444444444
 266,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2630,7 +2630,7 @@ Wacker:
 Na- tirlig, se wohnt sogar in dam Hüs.
 
           
-",sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
+",44,sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
 267,comedy,Elis,F,,,,"
             
 Elis:
@@ -2642,7 +2642,7 @@ Elis:
 In dam Hüs???
 
           
-",sengelin-d-mamsell-elis,10,2,0.0,0.2
+",44,sengelin-d-mamsell-elis,10,2,0.0,0.2
 268,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2651,7 +2651,7 @@ Wacker:
 Sal dscho, in dam Hüs! Sie firt sogar am nam- lige Kalandertag Namestag wia Sie.
 
           
-",sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
+",44,sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
 269,comedy,Elis,F,,,,"
             
 Elis:
@@ -2663,7 +2663,7 @@ Elis:
 Mi liawer...
 
           
-",sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
+",44,sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
 270,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2675,7 +2675,7 @@ Wacker:
 Numme riaft mer ihr LISA anstatt Elis.
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",45,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 271,comedy,Elis,F,,,,"
             
 Elis:
@@ -2691,7 +2691,7 @@ I...i...i ha gmeint, se .. se.. heisst anderscht.
 .
 
           
-",sengelin-d-mamsell-elis,56,6,0.08600000000000001,0.10714285714285714
+",45,sengelin-d-mamsell-elis,56,6,0.08600000000000001,0.10714285714285714
 272,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2711,7 +2711,7 @@ Dunnerwatter, das gab i nit billig, hät das Fischle awer nat abisse, hahaha! Ne
  Tiens, das isch der Herr Maire, i kenn en am Schritt. Güat, as mine Gschafte nit lang düre, sunscht bekam i am And d' Madame uf dr Buckel mit em Kochlöffel.
 
           
-",sengelin-d-mamsell-elis,130,26,0.09705097811925521,0.2
+",45,sengelin-d-mamsell-elis,130,26,0.09705097811925521,0.2
 273,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -2720,7 +2720,7 @@ Maire:
 Güate Tag, Herr Lehrer! Ich ha e bizi lang gmacht, hein? s’ Lisa het mi nit gli gfunde, i bi nam- lig no bim Nochber gsi, er het e kranki Küah,
 
           
-",sengelin-d-mamsell-elis,33,7,0.1792705593280097,0.21212121212121213
+",45,sengelin-d-mamsell-elis,33,7,0.1792705593280097,0.21212121212121213
 274,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2729,7 +2729,7 @@ Wacker:
 Oh, ’s macht nit, Herr Maire. Ich ha derwilscht d' kirzeschti Zit gha. Ihre zwei Mamselle han mi so lang unterhalte.
 
           
-",sengelin-d-mamsell-elis,22,5,0.122,0.22727272727272727
+",45,sengelin-d-mamsell-elis,22,5,0.122,0.22727272727272727
 277,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -2738,7 +2738,7 @@ Maire:
 Nundefütter! Numme e Dotzet? Dia meine alle- wag bol, d' Lehrer ware bloss fir d' Gmeinschriwerei uf dr Walt.
 
           
-",sengelin-d-mamsell-elis,21,4,0.15225,0.19047619047619047
+",46,sengelin-d-mamsell-elis,21,4,0.15225,0.19047619047619047
 278,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2749,7 +2749,7 @@ So-ganz Unracht han Ihr nit, mr weiss bol nimme wuhar d' Zitt fir d' notwendigsc
  i will se derno gli im Bot mitgah, wenn er dure kunt, nit ass is Adminis- tration am Samschtig wider ins Bulletin officiel setzt wias letschtemol.
 
           
-",sengelin-d-mamsell-elis,69,6,0.10149999999999999,0.08695652173913043
+",46,sengelin-d-mamsell-elis,69,6,0.10149999999999999,0.08695652173913043
 279,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -2763,7 +2763,7 @@ Oh, wage salem starwe mer grad doch no nit.
 .
 
           
-",sengelin-d-mamsell-elis,20,2,0.156,0.1
+",46,sengelin-d-mamsell-elis,20,2,0.156,0.1
 280,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2775,7 +2775,7 @@ Wacker:
 Was han Sie, Mamsell Lisa, wu fahlt’s? Druckt Sie ebbis? Han Sie e Kummer? Hat Ihne ebber weh do? Harzle find ich nimmi uf dr Walt. Lüag, vorig scho, wu mer is iwer em Zumstein si Ideal unterhalte han, hat i dr garn mi Liab gstande. Also, gal, dü wit? Gal, dü seisch jo?
 
           
-",sengelin-d-mamsell-elis,73,10,0.2030049872016369,0.136986301369863
+",46,sengelin-d-mamsell-elis,73,10,0.2030049872016369,0.136986301369863
 281,comedy,Lisa,F,,,,"
             
 Lisa :
@@ -2789,7 +2789,7 @@ Nit, nit, Herr Lehrer.
 .
 
           
-",sengelin-d-mamsell-elis,26,5,0.11579999999999999,0.19230769230769232
+",46,sengelin-d-mamsell-elis,26,5,0.11579999999999999,0.19230769230769232
 282,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2801,7 +2801,7 @@ Wacker:
 Nit, eso Mamsell Lisa. Ich loss Se nit üse bis i weiss, was Sie druckt. Viellicht kann ich halfe. -34'
 
           
-",sengelin-d-mamsell-elis,29,3,0.18740231068527483,0.10344827586206896
+",47,sengelin-d-mamsell-elis,29,3,0.18740231068527483,0.10344827586206896
 283,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2812,7 +2812,7 @@ Nei, nei!
  Lohn Sie mich geh, Herr Wacker. Unmiglig kann ich Ihne sage, was mers Harz so schwar macht, Ihne gar nit.
 
           
-",sengelin-d-mamsell-elis,26,5,0.08919999999999999,0.19230769230769232
+",47,sengelin-d-mamsell-elis,26,5,0.08919999999999999,0.19230769230769232
 286,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2821,7 +2821,7 @@ Wacker:
 Mer wann sah. Lüage Sie mir emol ufrichtig in d' Auige, Lisa, Galte, Ihr Cousinle het Krach mit Ihne gha.
 
           
-",sengelin-d-mamsell-elis,21,3,0.29836644593169215,0.14285714285714285
+",47,sengelin-d-mamsell-elis,21,3,0.29836644593169215,0.14285714285714285
 287,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2833,7 +2833,7 @@ Lisa:
 Jesses, wuhar wisse Sie....
 
           
-",sengelin-d-mamsell-elis,8,2,0.3725072056288506,0.25
+",47,sengelin-d-mamsell-elis,8,2,0.3725072056288506,0.25
 288,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2845,7 +2845,7 @@ Wacker:
 Un was het se welle mit Ihne?
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",48,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 289,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2857,7 +2857,7 @@ Lisa:
 Nei, nei, froge Sie mich nit länger. I därf nit sage. ’s war wiascht vo mir, wu ich scho so viel Güats in dam Hüs gnosse ha, bsunders vom Unkel, do schickt’s sich schlacht fir mich, ewer üs em Hüs azschwärze.
 
           
-",sengelin-d-mamsell-elis,46,7,0.15399999999999997,0.15217391304347827
+",48,sengelin-d-mamsell-elis,46,7,0.15399999999999997,0.15217391304347827
 290,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2869,7 +2869,7 @@ Wacker:
 Wenn ich Se awer drum bitt. Ich frog gwiss nit üs Wunderfitz. Sahn Se, ich ka Sie nit so trürig sah, mache Sie’s Harzle doch lichter dur e freji Üssproch.
 
           
-",sengelin-d-mamsell-elis,35,5,0.0833099000737455,0.14285714285714285
+",48,sengelin-d-mamsell-elis,35,5,0.0833099000737455,0.14285714285714285
 291,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2885,7 +2885,7 @@ Eh bien, Ihne will i vertroje. Sie sinn e Ehremann un dia kenne schwige.
 .
 
           
-",sengelin-d-mamsell-elis,75,8,0.2231617429012806,0.10666666666666667
+",48,sengelin-d-mamsell-elis,75,8,0.2231617429012806,0.10666666666666667
 292,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2899,7 +2899,7 @@ Nit grine, Lisa, ich ahn ebis. Un was Sie viellicht fir e Unglück alüage, kenn
 .
 
           
-",sengelin-d-mamsell-elis,34,9,0.27950653546607196,0.2647058823529412
+",48,sengelin-d-mamsell-elis,34,9,0.27950653546607196,0.2647058823529412
 293,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2908,7 +2908,7 @@ Wacker:
 Ja, ja, 's isch eso. Awer jetzt verzehle Sie numme wieder.
 
           
-",sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
+",48,sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
 294,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2923,7 +2923,7 @@ Vorig bi i in dr Kuche gsi am Zoweasserischte. Do sin uf einmol d’Tante un’s
  dat i numme de junge Manner Auige schicke un ene d' Köpf verdraje. I weiss gar nit, wu das üse will.
 
           
-",sengelin-d-mamsell-elis,105,16,0.08214046881673813,0.1523809523809524
+",49,sengelin-d-mamsell-elis,105,16,0.08214046881673813,0.1523809523809524
 296,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2933,7 +2933,7 @@ Un ich säll’s Bindele rischte, am Suntig miasst i zum Hüs üs, si hatte jetz
 (schlägt wieder die Hände vors Gesicht und sinkt schluchzend auf einen Stuhl.)
 
           
-",sengelin-d-mamsell-elis,37,5,0.0938,0.13513513513513514
+",49,sengelin-d-mamsell-elis,37,5,0.0938,0.13513513513513514
 297,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2947,7 +2947,7 @@ Wie dank ich im Herrgott fir dia Stund! Wie froh bi ich, ass alles eso ku isch! 
 .
 
           
-",sengelin-d-mamsell-elis,106,10,0.12179999999999999,0.09433962264150944
+",49,sengelin-d-mamsell-elis,106,10,0.12179999999999999,0.09433962264150944
 298,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2962,7 +2962,7 @@ Sahn Sie, firs kurz z’sage, Ihri Cousine hat mir vorhar soz'sage e Hirotsantra
 .
 
           
-",sengelin-d-mamsell-elis,51,4,0.0,0.0784313725490196
+",49,sengelin-d-mamsell-elis,51,4,0.0,0.0784313725490196
 299,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2974,7 +2974,7 @@ Wacker:
 Un jetz frog ich dich, kenntsch dü mich o e bizzele garn ha, Lisa? Wotsch? Datsch züa mer ziah ins stille, awer grad deswage so heimelige Schüalhüs? Wotsch mi harzig Wiwele warde? Wotsch ?
 
           
-",sengelin-d-mamsell-elis,42,7,0.02014285714285714,0.16666666666666666
+",49,sengelin-d-mamsell-elis,42,7,0.02014285714285714,0.16666666666666666
 300,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -2984,7 +2984,7 @@ Lisa:
  O Gott, war’s möglig? 's ka jo nit si. 's war z’viel Glick fir so e arm eifach Maidle wia ich.
 
           
-",sengelin-d-mamsell-elis,30,7,0.163,0.23333333333333334
+",50,sengelin-d-mamsell-elis,30,7,0.163,0.23333333333333334
 301,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -2996,7 +2996,7 @@ Wacker:
 Z’ viel Glick? O dü Schatz, dü harzigi Eifalt! Dü weisch jo nit, wie rich ass dü mich machsch mit dim guldige Gmiat. Fir mich isch’s z’viel Glick, fir mich! Denn so e rich en
 
           
-",sengelin-d-mamsell-elis,43,7,0.24985714285714286,0.16279069767441862
+",50,sengelin-d-mamsell-elis,43,7,0.24985714285714286,0.16279069767441862
 302,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -3010,7 +3010,7 @@ Mi liawer Xavier!
 .
 
           
-",sengelin-d-mamsell-elis,18,3,0.15633333333333332,0.16666666666666666
+",50,sengelin-d-mamsell-elis,18,3,0.15633333333333332,0.16666666666666666
 303,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -3026,7 +3026,7 @@ Un das mit diner Tante un mit em Elis säll dr jetz ke Kummer meh mache. In hech
  Un bis därt ane gesch zu miner Müater, dia wird sich fraje, wenn ich ihre so e liabs, liabs Töchterle bring. Hit no red ich mit dim Unkel, ar isch e rachter Mann, er wird nit z’wider si.
 
           
-",sengelin-d-mamsell-elis,90,9,0.04676380584864992,0.1
+",50,sengelin-d-mamsell-elis,90,9,0.04676380584864992,0.1
 304,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -3041,7 +3041,7 @@ O wia lab bisch dü zu mir, o, jetz därf is sage, vo Afang a han i di scho garn
 (Man hört Schritte.)
 
           
-",sengelin-d-mamsell-elis,50,6,0.0,0.12
+",50,sengelin-d-mamsell-elis,50,6,0.0,0.12
 305,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -3051,7 +3051,7 @@ Wacker:
 (Neue Umarmung, Lisa ab.)
 
           
-",sengelin-d-mamsell-elis,40,3,0.0,0.075
+",50,sengelin-d-mamsell-elis,40,3,0.0,0.075
 306,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3065,7 +3065,7 @@ Do han i dia Briafe. Wenn numme emol das Gsüach mit dam Vizinalwag ebbis nutzt!
 .
 
           
-",sengelin-d-mamsell-elis,67,6,0.2571050753001303,0.08955223880597014
+",51,sengelin-d-mamsell-elis,67,6,0.2571050753001303,0.08955223880597014
 307,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -3074,7 +3074,7 @@ Wacker:
 Mr wann dasmol ’s beschte hoffe, Adje, Herr Maire.
 
           
-",sengelin-d-mamsell-elis,10,3,0.04699999999999999,0.3
+",51,sengelin-d-mamsell-elis,10,3,0.04699999999999999,0.3
 308,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3083,7 +3083,7 @@ Maire:
 Awer bliwe doch no e wenig. Ihr sie doch o pres- siert. Wann mer nit zerscht der Näi versüache? Allons! 37
 
           
-",sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
+",51,sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
 309,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -3096,7 +3096,7 @@ E andermol, Herr Maire!
  Der Bot | müass allewag bol dureku. Adje, Herr Maire! |
 
           
-",sengelin-d-mamsell-elis,29,6,0.16859923331459034,0.20689655172413793
+",51,sengelin-d-mamsell-elis,29,6,0.16859923331459034,0.20689655172413793
 310,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3105,7 +3105,7 @@ Maire:
 So, adje denn, Herr Lehrer. Kämme bol widder | z’ Stubete! | Vorhang fällt.
 
           
-",sengelin-d-mamsell-elis,13,3,0.04699999999999999,0.23076923076923078
+",51,sengelin-d-mamsell-elis,13,3,0.04699999999999999,0.23076923076923078
 311,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3123,7 +3123,7 @@ Jo, jetzt langt's! Dia ungschmälzte Pflüte sie no besser gsi as d’angere. Ku
 .
 
           
-",sengelin-d-mamsell-elis,73,8,0.076125,0.1095890410958904
+",51,sengelin-d-mamsell-elis,73,8,0.076125,0.1095890410958904
 312,comedy,Katri,F,,,,"
             
 Katri:
@@ -3135,7 +3135,7 @@ Katri:
 besonder entschieden) Aber nei, dir sind ein!
 
           
-",sengelin-d-mamsell-elis,15,2,0.2415,0.13333333333333333
+",52,sengelin-d-mamsell-elis,15,2,0.2415,0.13333333333333333
 313,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3147,7 +3147,7 @@ Jörg:
 Sag jo, Katri, un bsinn di nit so lang! Dich eder keini! Wit mi? Dine Pflüte hai mers ado!
 
           
-",sengelin-d-mamsell-elis,23,2,0.5,0.08695652173913043
+",52,sengelin-d-mamsell-elis,23,2,0.5,0.08695652173913043
 314,comedy,Katri,F,,,,"
             
 Kati:
@@ -3161,7 +3161,7 @@ Numme wage de Pflüte? ... Ich kumm nit lar in äier Hüs. Do!
  Sahn dr! Ich ka o spare. I hang nit an dr Gstate!
 
           
-",sengelin-d-mamsell-elis,45,6,0.0,0.13333333333333333
+",52,sengelin-d-mamsell-elis,45,6,0.0,0.13333333333333333
 315,comedy,Jörg,M,,,,"
             
 Jörg :
@@ -3175,7 +3175,7 @@ O Katri, Katri! So e Maidle gits kes me im Sungau!
  Un jetz zum Meier, ass er di üszahlt. Und derno im Vater un dr Müater ergege. Dia warde lüage, wenn ich ne anstatt e Lisi e Katri bring.
 
           
-",sengelin-d-mamsell-elis,49,6,0.07033333333333334,0.12244897959183673
+",52,sengelin-d-mamsell-elis,49,6,0.07033333333333334,0.12244897959183673
 316,comedy,Katri,F,,,,"
             
 Katri:
@@ -3187,7 +3187,7 @@ Katri:
 Eis sag i dir aber Jörg, sag im Maier nit vo dam, wu mer do vorig dur d' Wand dure uff- gschnappt hai.
 
           
-",sengelin-d-mamsell-elis,28,2,0.0,0.07142857142857142
+",52,sengelin-d-mamsell-elis,28,2,0.0,0.07142857142857142
 318,comedy,Katri,F,,,,"
             
 Katri:
@@ -3198,7 +3198,7 @@ E... do ane
 , wia unser Schüalmeischter unser Elis verwitscht het! Weisch, es sin doch alle- wil mine Meischterslit.
 
           
-",sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
+",53,sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
 319,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3208,7 +3208,7 @@ Ke Bang! Ich ha iberhauipt nit ghärt. Ich ha gnüa mit de Pflüte Z'tüa gha. W
 (Wie sie zur Tür hinauswollen, kommt der Maire herein.)
 
           
-",sengelin-d-mamsell-elis,49,3,0.0,0.061224489795918366
+",53,sengelin-d-mamsell-elis,49,3,0.0,0.061224489795918366
 322,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3222,7 +3222,7 @@ Wia käme mir denn dia zwei vor? Ebbe...? Hahaha! Das war Nüdlawatter nit latz!
 .
 
           
-",sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
+",53,sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
 323,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3232,7 +3232,7 @@ Amerei:
  Ah, do stacksch! Wu bisch denn bigobbliger so lang gsi? Mir süache di scho a Rung in alle Ecke!
 
           
-",sengelin-d-mamsell-elis,27,2,0.2345,0.07407407407407407
+",53,sengelin-d-mamsell-elis,27,2,0.2345,0.07407407407407407
 324,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3241,7 +3241,7 @@ Maire:
 Wu i gsi bi? E zerscht bim Nochber siner Küah, derno hat i mit em Lehrer Papierer erledigt un nohar bi i e bizzi im Kaller gsi, jetz weischs. Un was gits denn, ― ass allebed so Auge machet wie firige Drache?
 
           
-",sengelin-d-mamsell-elis,43,4,0.1485,0.09302325581395349
+",54,sengelin-d-mamsell-elis,43,4,0.1485,0.09302325581395349
 325,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3250,7 +3250,7 @@ Amerei:
 Ah, er isch scho furt, da nat Schüalmeischter? I ha mers doch dankt!
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",54,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 326,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3259,7 +3259,7 @@ Maire:
 Meinsch der Herr Wacker? Was säll das heisse: Nater Schüalmeischter! Red! Üse mit!
 
           
-",sengelin-d-mamsell-elis,14,2,0.0705,0.14285714285714285
+",54,sengelin-d-mamsell-elis,14,2,0.0705,0.14285714285714285
 327,comedy,Elis,F,,,,"
             
 Elis:
@@ -3268,7 +3268,7 @@ Elis:
 Da Schinheilig! Da Wackes! Da Kaib!
 
           
-",sengelin-d-mamsell-elis,7,3,0.43142725576480334,0.42857142857142855
+",54,sengelin-d-mamsell-elis,7,3,0.43142725576480334,0.42857142857142855
 328,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3279,7 +3279,7 @@ Oho, oho, oho!
  Dü redsch fin fir so e Mamsell wia dü witt si!
 
           
-",sengelin-d-mamsell-elis,18,2,0.3045,0.1111111111111111
+",54,sengelin-d-mamsell-elis,18,2,0.3045,0.1111111111111111
 329,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3288,7 +3288,7 @@ Amerei:
 Halts Mül vo dam jetz! Do ane müass er, da Halunk, do ane losch en ku, un uf der Stell!
 
           
-",sengelin-d-mamsell-elis,21,4,0.0,0.19047619047619047
+",54,sengelin-d-mamsell-elis,21,4,0.0,0.19047619047619047
 331,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3297,7 +3297,7 @@ Maire:
 E Nundebuckel, was isch denn do los? Dir machet eine jo Angscht!
 
           
-",sengelin-d-mamsell-elis,13,2,0.378148966888263,0.15384615384615385
+",55,sengelin-d-mamsell-elis,13,2,0.378148966888263,0.15384615384615385
 332,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3309,7 +3309,7 @@ Amerei:
 Sunscht macht er, wia wenn er der heilig Alisi war, da Kaib. Nia hat i glauibt, ass er e Maidle numme droit az’lüage, verschwige so, da falsch Jüdas.
 
           
-",sengelin-d-mamsell-elis,33,5,0.155656353458882,0.15151515151515152
+",55,sengelin-d-mamsell-elis,33,5,0.155656353458882,0.15151515151515152
 333,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3321,7 +3321,7 @@ Maire:
 Jetz üse mit, was isch passiert?
 
           
-",sengelin-d-mamsell-elis,10,1,0.453,0.1
+",55,sengelin-d-mamsell-elis,10,1,0.453,0.1
 334,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3330,7 +3330,7 @@ Amerei:
 Was passiert isch? Meinsch nit, da nobel Ehre- mann, da Muschterlehrer, da Üsstich edder wia ihr im sunscht alle saget, het er nit vorig im Elis e schand- liger Atrag gmacht!
 
           
-",sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
+",55,sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
 335,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3344,7 +3344,7 @@ Der Herr Wacker!
  Sal isch e Lug, e elander Lug!
 
           
-",sengelin-d-mamsell-elis,17,3,0.2988865604635082,0.17647058823529413
+",55,sengelin-d-mamsell-elis,17,3,0.2988865604635082,0.17647058823529413
 336,comedy,Elis,F,,,,"
             
 Elis:
@@ -3356,7 +3356,7 @@ Elis:
 I ha dir’s jo gsait, Maman, er hilft em no.
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",56,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 337,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3365,7 +3365,7 @@ Amerei:
 Sal wan mer doch sah, eb da Soikaib das dür dure schlupft. Abgsetzt müass er si, un uff der Stell.
 
           
-",sengelin-d-mamsell-elis,21,2,0.0,0.09523809523809523
+",56,sengelin-d-mamsell-elis,21,2,0.0,0.09523809523809523
 339,comedy,Elis,F,,,,"
             
 Elis :
@@ -3374,7 +3374,7 @@ Elis :
 Eh bien, Babe, derwilscht ass’s Lisa dich gsüacht het, han ich im ... im Herr Lehrer Gesellschaft gleischte.
 
           
-",sengelin-d-mamsell-elis,19,4,0.03525,0.21052631578947367
+",56,sengelin-d-mamsell-elis,19,4,0.03525,0.21052631578947367
 340,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3383,7 +3383,7 @@ Amerei:
 Sag em doch nimme Herr, dam Lüader!
 
           
-",sengelin-d-mamsell-elis,8,1,0.141,0.125
+",56,sengelin-d-mamsell-elis,8,1,0.141,0.125
 341,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3394,7 +3394,7 @@ Still dü!
  Witterscht dü!
 
           
-",sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
+",56,sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
 342,comedy,Elis,F,,,,"
             
 Elis:
@@ -3403,7 +3403,7 @@ Elis:
 Zerscht het er mer so schen gred, so gflatiert un Kumplimante gschnite. Derno het er mi glockt mit so firige Wort, ass es mir ums Harz ganz heiss worde isch. Wias z’arg worde isch, bin i üsgrisse un ha um Hilf gschroje.
 
           
-",sengelin-d-mamsell-elis,44,6,0.0,0.13636363636363635
+",57,sengelin-d-mamsell-elis,44,6,0.0,0.13636363636363635
 344,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3412,7 +3412,7 @@ Amerei:
 Natirlig, wenn dü sälsch here, hasch allewil Drack in de Ohre.
 
           
-",sengelin-d-mamsell-elis,12,2,0.164,0.16666666666666666
+",57,sengelin-d-mamsell-elis,12,2,0.164,0.16666666666666666
 345,comedy,Elis,F,,,,"
             
 Elis:
@@ -3421,7 +3421,7 @@ Elis:
 E Babe, dü hasch jo salbscht gsait, dü warsch bim Nochber gsi.
 
           
-",sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
+",57,sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
 346,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3430,7 +3430,7 @@ Maire:
 Ja, da wohnt doch numme nawes a, i hats miasse häre.
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",57,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 348,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3440,7 +3440,7 @@ Maire:
  Wer hilft? Awer heiter sah will i, eb i ischritt.
 
           
-",sengelin-d-mamsell-elis,14,2,0.3045,0.14285714285714285
+",58,sengelin-d-mamsell-elis,14,2,0.3045,0.14285714285714285
 349,comedy,Elis,F,,,,"
             
 Elis:
@@ -3451,7 +3451,7 @@ Un Babe, weisch, so lüt ha i nit gschroje. i ha doch ke Skandal wälle. ’s is
 . pee f -4 1-
 
           
-",sengelin-d-mamsell-elis,44,5,0.20713862869512906,0.11363636363636363
+",58,sengelin-d-mamsell-elis,44,5,0.20713862869512906,0.11363636363636363
 350,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3460,7 +3460,7 @@ Maire:
 Bisch verruckt? E Schand fir dich? F ir ihn wars eine, nit fir dich! Eder steckt do am And ebbis anders derhinter? Hesch dü am And.....
 
           
-",sengelin-d-mamsell-elis,27,5,0.24359999999999998,0.18518518518518517
+",58,sengelin-d-mamsell-elis,27,5,0.24359999999999998,0.18518518518518517
 351,comedy,Elis,F,,,,"
             
 Elis:
@@ -3474,7 +3474,7 @@ Was danksch, Babe? Sicher Babe, ’s isch wia i gsait ha, sicher!
 .
 
           
-",sengelin-d-mamsell-elis,20,5,0.0,0.25
+",58,sengelin-d-mamsell-elis,20,5,0.0,0.25
 352,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3488,7 +3488,7 @@ Maire:
 .
 
           
-",sengelin-d-mamsell-elis,45,4,0.0,0.08888888888888889
+",58,sengelin-d-mamsell-elis,45,4,0.0,0.08888888888888889
 353,comedy,Elis,F,,,,"
             
 Elis:
@@ -3499,7 +3499,7 @@ Amerei und
  Zum Dorf üse müass er, hit no, hit no! Fir was bisch Maire?
 
           
-",sengelin-d-mamsell-elis,23,3,0.20299999999999999,0.13043478260869565
+",58,sengelin-d-mamsell-elis,23,3,0.20299999999999999,0.13043478260869565
 354,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3510,7 +3510,7 @@ Oho, so schnall schiasse d' Präisse nit. Dü meinsch, e Lehrer säi numme e Sch
 , derno käje mir ine.
 
           
-",sengelin-d-mamsell-elis,50,7,0.10485714285714286,0.14
+",59,sengelin-d-mamsell-elis,50,7,0.10485714285714286,0.14
 355,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3519,7 +3519,7 @@ Amerei:
 Numme ke Bang, ‘s Elis liagt nit. Un das ischs einzige Unglick nit hit. Meinsch nit, hett is nit da dirmlig Doddel ’s Katri abgspanschtig gmacht !
 
           
-",sengelin-d-mamsell-elis,27,4,0.1875,0.14814814814814814
+",59,sengelin-d-mamsell-elis,27,4,0.1875,0.14814814814814814
 356,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3531,7 +3531,7 @@ Maire:
 Wer, der Lehrer?
 
           
-",sengelin-d-mamsell-elis,7,1,0.0,0.14285714285714285
+",59,sengelin-d-mamsell-elis,7,1,0.0,0.14285714285714285
 357,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3540,7 +3540,7 @@ Amerei:
 Eh nei, bisch dü awer dumm hit. Da Jörg mein i, dr Pflütesack!
 
           
-",sengelin-d-mamsell-elis,14,3,0.0,0.21428571428571427
+",59,sengelin-d-mamsell-elis,14,3,0.0,0.21428571428571427
 358,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3552,7 +3552,7 @@ Maire:
 Also ischs wohr?
 
           
-",sengelin-d-mamsell-elis,8,1,0.0,0.125
+",59,sengelin-d-mamsell-elis,8,1,0.0,0.125
 359,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3561,7 +3561,7 @@ Amerei:
 Dü weischs scho? Ja, hirote tüat er se. I ha ene ufglost, wie se gschmüst han, Zum Totlache wars gsi, wenn mir numme widder so e Magd hatte.
 
           
-",sengelin-d-mamsell-elis,29,2,0.0,0.06896551724137931
+",59,sengelin-d-mamsell-elis,29,2,0.0,0.06896551724137931
 360,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3570,7 +3570,7 @@ Maire:
 Ah, ah, also han i racht dankt vorig, ’s isch mer numme nit gli iku.
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",60,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 361,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3581,7 +3581,7 @@ Do stehn mer jetz nat do, mittel im Hardäpfel- üsmachet!
  Hatsch ringer gsait, dü hatsch dia verwirkte Pflüte gmacht, Elis!
 
           
-",sengelin-d-mamsell-elis,26,3,0.0,0.11538461538461539
+",60,sengelin-d-mamsell-elis,26,3,0.0,0.11538461538461539
 362,comedy,Elis,F,,,,"
             
 Elis:
@@ -3590,7 +3590,7 @@ Elis:
 Wer hat an so ebbs dankt, Maman. Un los mi geh, 's isch mir nit ums Dispetiare.
 
           
-",sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
+",60,sengelin-d-mamsell-elis,18,1,0.0,0.05555555555555555
 364,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3599,7 +3599,7 @@ Amerei:
 Das? Lo schlacke het's sich wia e jung Katzl, da ramlig Aff!
 
           
-",sengelin-d-mamsell-elis,14,3,0.18740231068527483,0.21428571428571427
+",60,sengelin-d-mamsell-elis,14,3,0.18740231068527483,0.21428571428571427
 365,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3610,7 +3610,7 @@ Hm, hm, do seht mer wider emol, ass d’alte Schire am ärgschte brenne, wenn se
  Ah, do käme se jo, dia Hochzitslit. Mer wann ene doch gli grateliere!
 
           
-",sengelin-d-mamsell-elis,44,1,0.0,0.022727272727272728
+",60,sengelin-d-mamsell-elis,44,1,0.0,0.022727272727272728
 366,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3621,7 +3621,7 @@ Ja, Meier, Hochzitslit sin mer. Hein, das isch e ander Dundi ass äier Handschig
 .
 
           
-",sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
+",61,sengelin-d-mamsell-elis,23,1,0.0,0.043478260869565216
 367,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3633,7 +3633,7 @@ Maire:
 I müass lache, ebs mer drumm isch edder nit. Sin dir zwei eigetlig verruckt?
 
           
-",sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
+",61,sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
 368,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3643,7 +3643,7 @@ Jörg:
  Verrückt? Wie so. Ich find do nit verruckts dra. Dü Katri!
 
           
-",sengelin-d-mamsell-elis,15,3,0.20360064348913556,0.2
+",61,sengelin-d-mamsell-elis,15,3,0.20360064348913556,0.2
 369,comedy,Katri,F,,,,"
             
 Katri:
@@ -3652,7 +3652,7 @@ Katri:
 Loss se doch lache, se häre allei wieder üf.
 
           
-",sengelin-d-mamsell-elis,10,4,0.1863017330139561,0.4
+",61,sengelin-d-mamsell-elis,10,4,0.1863017330139561,0.4
 370,comedy,Elis,F,,,,"
             
 Elis:
@@ -3661,7 +3661,7 @@ Elis:
 E säll mer nit lache un Fraid ha, wenn d’Gscheid- heit und d' Schenheit mitenander en mariage trate?
 
           
-",sengelin-d-mamsell-elis,21,6,0.0,0.2857142857142857
+",61,sengelin-d-mamsell-elis,21,6,0.0,0.2857142857142857
 371,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3672,7 +3672,7 @@ O schwiget numme dir, Jungfere Mamsell. Hein, mit aller äirer Gscheidheit un ag
  un mit samt äirem Walsch- babble het äich dr Schüal....
 
           
-",sengelin-d-mamsell-elis,33,4,0.072,0.12121212121212122
+",61,sengelin-d-mamsell-elis,33,4,0.072,0.12121212121212122
 372,comedy,Katri,F,,,,"
             
 Katri:
@@ -3684,7 +3684,7 @@ Katri:
  Nit do, Katri, se hat mi scho z’viel gfoppt hitt, so dumm bin i nit, ass is nit gmerkt ha.
 
           
-",sengelin-d-mamsell-elis,39,3,0.17352846277133452,0.07692307692307693
+",62,sengelin-d-mamsell-elis,39,3,0.17352846277133452,0.07692307692307693
 373,comedy,Katri,F,,,,"
             
 Katri:
@@ -3698,7 +3698,7 @@ Jörg
  Un i sags doch.
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",62,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 376,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3709,7 +3709,7 @@ Doch, doch. Mir han vorig glost vor dr Türe, un han do fächterlig häre liage.
  Wer het gschmüst eder glockt? Dir, dir! Wer het awer nit welle abisse un het äich verwitscht wie e Misle, dr Schüalmeischter.
 
           
-",sengelin-d-mamsell-elis,42,2,0.42089998317839655,0.047619047619047616
+",62,sengelin-d-mamsell-elis,42,2,0.42089998317839655,0.047619047619047616
 377,comedy,Elis,F,,,,"
             
 Elis:
@@ -3718,7 +3718,7 @@ Elis:
 Amerei zugleich Üse mit dam Liager! Liager, elander!
 
           
-",sengelin-d-mamsell-elis,9,3,0.2518865604635082,0.3333333333333333
+",62,sengelin-d-mamsell-elis,9,3,0.2518865604635082,0.3333333333333333
 378,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3727,7 +3727,7 @@ Jörg:
 Ah, so kämet dir bigüscht, ah! Alle Wort hets Katri ghärt, un ich e teil, jowohl.
 
           
-",sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
+",63,sengelin-d-mamsell-elis,17,2,0.0,0.11764705882352941
 379,comedy,Elis,F,,,,"
             
 Elis:
@@ -3741,7 +3741,7 @@ Nit hesch ghärt, Cochon! Üse mit dir!
 .
 
           
-",sengelin-d-mamsell-elis,18,2,0.30295667994474806,0.1111111111111111
+",63,sengelin-d-mamsell-elis,18,2,0.30295667994474806,0.1111111111111111
 380,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3753,7 +3753,7 @@ Jörg:
 Un’s isch doch eso, dir sind no ender e ramliger Aff, ass’s Katri.
 
           
-",sengelin-d-mamsell-elis,19,2,0.632,0.10526315789473684
+",63,sengelin-d-mamsell-elis,19,2,0.632,0.10526315789473684
 381,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3765,7 +3765,7 @@ Amerei:
 Fracher Kaib! Wiaschter Liager! Nit han Ihr kenne here, suscht hat ichs im Rumpel- kammerle o miasse here.
 
           
-",sengelin-d-mamsell-elis,24,3,0.20742725576480336,0.125
+",63,sengelin-d-mamsell-elis,24,3,0.20742725576480336,0.125
 382,comedy,Katri,F,,,,"
             
 Katri:
@@ -3777,7 +3777,7 @@ Katri:
 A, dir hait äis üfglost, ah! Aber do hait dir halt numme Ohre gha fir äis. Un derno danket dir nit dra, ass därt no e Gang derzwische isch, aber in der Chuche nit. Ah, dir hait glost. I hat nit gsait, aber jetz schwig i o nit. Ja, Meischter, ’s isch eso wia dr Jörg gsait het. ’s Elis het gloge wia e Säihandler.
 
           
-",sengelin-d-mamsell-elis,70,3,0.20299999999999999,0.04285714285714286
+",63,sengelin-d-mamsell-elis,70,3,0.20299999999999999,0.04285714285714286
 383,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3789,7 +3789,7 @@ Maire:
 Ah, so isch des Dings. A Korb het er dir ga, der Herr Wacker, dir, wie em no vor e paar Monet e Notari nit emol güat gnüa gsi isch, wenn mer dich un di Müâter ghert het? I bi doch wunderfitzig, was das fir e Herr isch, wie sich vo äich losst fange.
 
           
-",sengelin-d-mamsell-elis,60,9,0.099,0.15
+",63,sengelin-d-mamsell-elis,60,9,0.099,0.15
 384,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -3803,7 +3803,7 @@ Ja, mir wann lüage. Awer dam elande nineninziger un dam Dundi, wie im dr Kopf v
 .
 
           
-",sengelin-d-mamsell-elis,61,11,0.3342634476222493,0.18032786885245902
+",64,sengelin-d-mamsell-elis,61,11,0.3342634476222493,0.18032786885245902
 385,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3821,7 +3821,7 @@ Wenn ar mit em Verspringe uf di Notari därf warte, wird er allewag älter ass d
 .
 
           
-",sengelin-d-mamsell-elis,61,11,0.03418181818181818,0.18032786885245902
+",64,sengelin-d-mamsell-elis,61,11,0.03418181818181818,0.18032786885245902
 387,comedy,Katri,F,,,,"
             
 Katri:
@@ -3830,7 +3830,7 @@ Katri:
 Aber Meischter, dir sind mer doch no dr Lohn schulig fir e ganz Johr!
 
           
-",sengelin-d-mamsell-elis,15,4,0.273,0.26666666666666666
+",64,sengelin-d-mamsell-elis,15,4,0.273,0.26666666666666666
 388,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3842,7 +3842,7 @@ Maire:
 Aber pressiert denn das eso? —
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",64,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 389,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3851,7 +3851,7 @@ Jörg:
 Sal dscho. morn scho lehn mer is aschlah, gal Katri?
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",64,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 390,comedy,Katri,F,,,,"
             
 Katri:
@@ -3860,7 +3860,7 @@ Katri:
 Je ender, je liaber, wenn mer emol so lang gwartet hett.
 
           
-",sengelin-d-mamsell-elis,12,2,0.2345,0.16666666666666666
+",65,sengelin-d-mamsell-elis,12,2,0.2345,0.16666666666666666
 391,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3869,7 +3869,7 @@ Maire:
 Zerscht müass awer doch dr Vater z’fride si, nit?
 
           
-",sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
+",65,sengelin-d-mamsell-elis,11,2,0.0,0.18181818181818182
 392,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3878,7 +3878,7 @@ Jörg:
 Oh, da git scho no, d' Müater hilft mer scho. Also, üse mit dam Mumes!
 
           
-",sengelin-d-mamsell-elis,16,2,0.0,0.125
+",65,sengelin-d-mamsell-elis,16,2,0.0,0.125
 393,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3890,7 +3890,7 @@ Maire:
 Ufe gstande, i ka dato nit! Dir miant warte, bis i d' Frucht verkauft ha.
 
           
-",sengelin-d-mamsell-elis,20,2,0.0705,0.1
+",65,sengelin-d-mamsell-elis,20,2,0.0705,0.1
 394,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3899,7 +3899,7 @@ Jörg:
 Ah so sind dir ein, das isch nit latz.
 
           
-",sengelin-d-mamsell-elis,10,2,0.2415,0.2
+",65,sengelin-d-mamsell-elis,10,2,0.2415,0.2
 395,comedy,Katri,F,,,,"
             
 Katri:
@@ -3913,7 +3913,7 @@ Ich loss mi Meischter nit schalte, Jörg, verstange? Ar isch nit d' schuld. Un d
 .
 
           
-",sengelin-d-mamsell-elis,37,4,0.14055173301395613,0.10810810810810811
+",65,sengelin-d-mamsell-elis,37,4,0.14055173301395613,0.10810810810810811
 396,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -3924,7 +3924,7 @@ Wage mir, so warte mir no meh. Mr hais jo nit eso netig.
 .
 
           
-",sengelin-d-mamsell-elis,18,1,0.141,0.05555555555555555
+",66,sengelin-d-mamsell-elis,18,1,0.141,0.05555555555555555
 397,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3936,7 +3936,7 @@ Maire:
 Wia doch das ka ku. Jetz han i mi Labtag ghüst un gschafft un müass jetz no z’schande steh vor ere Magd!!
 
           
-",sengelin-d-mamsell-elis,33,3,0.0,0.09090909090909091
+",66,sengelin-d-mamsell-elis,33,3,0.0,0.09090909090909091
 398,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -3950,7 +3950,7 @@ Adje, Unkel
  Vielmol merci fir alles Liawe un Güate, wu Ihr mir arme Maidle allewil anto han. Ihr wenigsch- tens hans doch allewil güat gmeint mit mir.
 
           
-",sengelin-d-mamsell-elis,48,8,0.076125,0.16666666666666666
+",66,sengelin-d-mamsell-elis,48,8,0.076125,0.16666666666666666
 399,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3962,7 +3962,7 @@ Maire:
 Ja, Dunnerschiass, was isch dann do wieder los? Was will di Red sage? Wu witt ane in dr Suntigkleider un mit eme Reissack?
 
           
-",sengelin-d-mamsell-elis,28,2,0.0,0.07142857142857142
+",66,sengelin-d-mamsell-elis,28,2,0.0,0.07142857142857142
 400,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -3971,7 +3971,7 @@ Lisa:
 Was Unkel, Ihr wisse nit? Isch’s miglig? Ah, Ihr wisse nit, ass se mich üs em Hüs triewe han?
 
           
-",sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
+",66,sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
 401,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -3983,7 +3983,7 @@ Maire:
 Üs em Hüs triewe? Dich? Wer?
 
           
-",sengelin-d-mamsell-elis,10,1,0.0,0.1
+",66,sengelin-d-mamsell-elis,10,1,0.0,0.1
 402,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -3995,7 +3995,7 @@ Lisa:
 D’ Tante uns Elis wann mi nimme dulde. Ich säi z’fül, i tat’s Brot nimme verdiane, sage se; enfin, se han mer z’versteh ga, ass se mich do han i....
 
           
-",sengelin-d-mamsell-elis,39,5,0.0,0.1282051282051282
+",67,sengelin-d-mamsell-elis,39,5,0.0,0.1282051282051282
 403,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4011,7 +4011,7 @@ Dü z’fül? Dü, dü!
  Zeig, sags im Unkel.
 
           
-",sengelin-d-mamsell-elis,69,5,0.12118267197789923,0.07246376811594203
+",67,sengelin-d-mamsell-elis,69,5,0.12118267197789923,0.07246376811594203
 405,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4022,7 +4022,7 @@ Aha, i ha’s doch dankt. Jetz awer loss i erscht racht nit luk.
  Dü gehsch do nit üse, vor eb dü bichte hesch.
 
           
-",sengelin-d-mamsell-elis,31,3,0.2760689773519415,0.0967741935483871
+",67,sengelin-d-mamsell-elis,31,3,0.2760689773519415,0.0967741935483871
 406,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4036,7 +4036,7 @@ I ka nit, i scham mi fir’s z’sage
 .
 
           
-",sengelin-d-mamsell-elis,22,3,0.3956666666666666,0.13636363636363635
+",67,sengelin-d-mamsell-elis,22,3,0.3956666666666666,0.13636363636363635
 407,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4047,7 +4047,7 @@ Dü schamsch di? Dü? Un vor mir? Allons, ebs schlachts droj ich dir nit züa, u
  Lisa, zeig, bisch ufrichtig.
 
           
-",sengelin-d-mamsell-elis,39,4,0.11324999999999998,0.10256410256410256
+",67,sengelin-d-mamsell-elis,39,4,0.11324999999999998,0.10256410256410256
 408,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4056,7 +4056,7 @@ Lisa:
 Also denn, wenns nit andersch ka si, ’s isch wage- nem Herr Wacker,
 
           
-",sengelin-d-mamsell-elis,15,1,0.141,0.06666666666666667
+",68,sengelin-d-mamsell-elis,15,1,0.141,0.06666666666666667
 409,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4070,7 +4070,7 @@ Wagenem He.. He.. Herr Wa.. a Wa..cker ? Lisa
 .
 
           
-",sengelin-d-mamsell-elis,17,1,0.141,0.058823529411764705
+",68,sengelin-d-mamsell-elis,17,1,0.141,0.058823529411764705
 410,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4079,7 +4079,7 @@ Maire:
 Ja, was hat denn da mit dir z’tüa? Wit dü en am And o aschwärze bi mir?
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",68,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 413,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4088,7 +4088,7 @@ Lisa:
 's stimmt, Unkel, e Schelm, awer numme ein, wu dr Maidle d' Harzle stiehlt.
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",68,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 414,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4100,7 +4100,7 @@ Maire:
 Ah so! Hm! Ja un derno, un dü?
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",69,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 415,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4112,7 +4112,7 @@ Lisa:
 Ass er im Elis hit e Korb ga het, wisse Ihr?
 
           
-",sengelin-d-mamsell-elis,16,2,0.0,0.125
+",69,sengelin-d-mamsell-elis,16,2,0.0,0.125
 417,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4121,7 +4121,7 @@ Lisa:
 Eh bien, er het’s gmacht, will er.. will, eh jo, will...
 
           
-",sengelin-d-mamsell-elis,13,3,0.0,0.23076923076923078
+",69,sengelin-d-mamsell-elis,13,3,0.0,0.23076923076923078
 418,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4130,7 +4130,7 @@ Maire:
 Was will? liawer hit scho ziah sahn ass morn, un
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",69,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 419,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4142,7 +4142,7 @@ Lisa:
 Will, will er mich garn het.
 
           
-",sengelin-d-mamsell-elis,10,2,0.0,0.2
+",69,sengelin-d-mamsell-elis,10,2,0.0,0.2
 420,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4158,7 +4158,7 @@ Hit fallt allewag no dr Himmel zamme! Ah so, jetz seh i heiter ! Wartet, dir Zat
 .
 
           
-",sengelin-d-mamsell-elis,76,13,0.16247779182046324,0.17105263157894737
+",70,sengelin-d-mamsell-elis,76,13,0.16247779182046324,0.17105263157894737
 421,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4167,7 +4167,7 @@ Maire:
 Abgmacht, fertig! Potz Nundebuckel, wia mich das frait! Ke besserer Mann hat ich dir kenne winsche, awer i weiss o, ass dr Lehrer mit dir ‘s grosse Loos zoge het, wenn dü o ke Millionäre bisch. Abgseh dr- vo, mit lare Hand loss ich di grad o nit ins Schüal- hüs ziah, fir sal loss numme mich sorge.
 
           
-",sengelin-d-mamsell-elis,61,13,0.17780106647012683,0.21311475409836064
+",70,sengelin-d-mamsell-elis,61,13,0.17780106647012683,0.21311475409836064
 422,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -4179,7 +4179,7 @@ Lisa:
 Dü güater Unkel!
 
           
-",sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
+",70,sengelin-d-mamsell-elis,11,1,0.0,0.09090909090909091
 423,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4193,7 +4193,7 @@ Loss doch!... Un jetz kumm numme wieder zu unsere Wibslit. Mir wann doch sah, we
 .
 
           
-",sengelin-d-mamsell-elis,31,3,0.18740231068527483,0.0967741935483871
+",70,sengelin-d-mamsell-elis,31,3,0.18740231068527483,0.0967741935483871
 424,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4202,7 +4202,7 @@ Bannwart:
 Do bliwe er jetz alle schen binenander, ich will geh dr Maier hole.
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",70,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 425,comedy,Ziginerburscht und Ziginermaidle,B,,,,"
             
 Alle:
@@ -4213,7 +4213,7 @@ Alle:
  
 
           
-",sengelin-d-mamsell-elis,29,4,0.29667948624406565,0.13793103448275862
+",70,sengelin-d-mamsell-elis,29,4,0.29667948624406565,0.13793103448275862
 426,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4227,7 +4227,7 @@ Do sin se, Toni? Worum zum Kückück fiahrsch dü dia Bande grad in d’Kuche? A
  Zei- get Alti, was han dir dscho im Firtüech?
 
           
-",sengelin-d-mamsell-elis,40,3,0.0,0.075
+",71,sengelin-d-mamsell-elis,40,3,0.0,0.075
 427,comedy,Geissa,F,,,,"
             
 Geisha:
@@ -4238,7 +4238,7 @@ Nix, nix, Missie
 .
 
           
-",sengelin-d-mamsell-elis,8,1,0.0,0.125
+",71,sengelin-d-mamsell-elis,8,1,0.0,0.125
 428,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4250,7 +4250,7 @@ Maire:
 Aha, das isch vo unserem Kneippkaffee, da kenn i am bsundere Zeiche. San dir Toni, was dir agrichte han.
 
           
-",sengelin-d-mamsell-elis,29,1,0.0,0.034482758620689655
+",71,sengelin-d-mamsell-elis,29,1,0.0,0.034482758620689655
 429,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4259,7 +4259,7 @@ Bannwart:
 He, i ha dankt, se date sunscht d' Stube drackig mache.
 
           
-",sengelin-d-mamsell-elis,12,1,0.328,0.08333333333333333
+",71,sengelin-d-mamsell-elis,12,1,0.328,0.08333333333333333
 430,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4271,7 +4271,7 @@ Maire:
 Ihr han allewil so iwergscheite Ifall, Toni. ’s isch nit nutz, wenn e Weibel z’viel dankt. Also, redet jetzt, was isch eigetlig los mit dene Vegel?
 
           
-",sengelin-d-mamsell-elis,31,4,0.13275,0.12903225806451613
+",71,sengelin-d-mamsell-elis,31,4,0.13275,0.12903225806451613
 431,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4287,7 +4287,7 @@ Dia ganzi Bagage do han i in de Reyrawe atroffe. Erscht geschter han i därt e T
 .
 
           
-",sengelin-d-mamsell-elis,70,7,0.0,0.1
+",71,sengelin-d-mamsell-elis,70,7,0.0,0.1
 432,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4299,7 +4299,7 @@ Schaber:
 Ihr brücha äich uflo mit äire Triwel. Mer kennt jo no Spatze schiasse mit un z’ Altkirch gits scho Näjer.
 
           
-",sengelin-d-mamsell-elis,28,2,0.367,0.07142857142857142
+",72,sengelin-d-mamsell-elis,28,2,0.367,0.07142857142857142
 433,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4315,7 +4315,7 @@ E, was dir nit saget, e, e ! Awer hof- fetlig sin das unsere Sache, eb mer Rawe 
  Han dir nit kenne lase, ass mer nit dur d' Rawe därf?
 
           
-",sengelin-d-mamsell-elis,58,2,0.0,0.034482758620689655
+",72,sengelin-d-mamsell-elis,58,2,0.0,0.034482758620689655
 434,comedy,Ziginerburscht und Ziginermaidle,B,,,,"
             
 Zigeuner:
@@ -4325,7 +4325,7 @@ Zigeuner:
 .
 
           
-",sengelin-d-mamsell-elis,7,2,0.3285618752669525,0.2857142857142857
+",72,sengelin-d-mamsell-elis,7,2,0.3285618752669525,0.2857142857142857
 435,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4336,7 +4336,7 @@ Rüah!
  Nundefuter, so rede allewag d' Gselle vum Herr Lüzifar, Kenne dir nit ditsch?
 
           
-",sengelin-d-mamsell-elis,20,3,0.04699999999999999,0.15
+",72,sengelin-d-mamsell-elis,20,3,0.04699999999999999,0.15
 436,comedy,Micki,U,,,,"
             
 Miecki:
@@ -4348,7 +4348,7 @@ Miecki:
 Ich se kann se, Herze Bückel- meischter.
 
           
-",sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
+",72,sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
 438,comedy,Micki,U,,,,"
             
 Micki:
@@ -4360,7 +4360,7 @@ Micki:
 Grosses, rotes Mensch sein gangen vor mich, sein ich so nachgehüpft, Herze Bückelmeischter un sein nachgommt alle sammen.
 
           
-",sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
+",73,sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
 439,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4369,7 +4369,7 @@ Maire:
 So, so. Ja kenne dir nit lase? Dir sind doch all- wag o emol in d' Schüal gange! Hia allewag sin alle paar Tag so Vegel in dr Schüal fir unsere Kinder Lis az’hanke. Dacki: Sehn Se, Mizziö Bürgelmeizi, wir sie gehn so sweimal oder dreimal in der Monet in de Sul, da lern nit viel. Ei Mizziö Lehr makt grad runde Buchßtab, so welsch, e aner so mit Hek, so dütsch, do weiss arm Ziginer nit, was gilt.
 
           
-",sengelin-d-mamsell-elis,81,13,0.084,0.16049382716049382
+",73,sengelin-d-mamsell-elis,81,13,0.084,0.16049382716049382
 440,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4383,7 +4383,7 @@ Das ka ich mir grad danke.
  Gehnt Katri, holet dane arme Kaibe eis z’trinke.
 
           
-",sengelin-d-mamsell-elis,28,4,0.15557044182360252,0.14285714285714285
+",73,sengelin-d-mamsell-elis,28,4,0.15557044182360252,0.14285714285714285
 442,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4399,7 +4399,7 @@ E Nundefuter, das hat gwiss im Däifel ke Ohr abgfrasse, mein i. So gang i halt 
 .
 
           
-",sengelin-d-mamsell-elis,35,5,0.1442720464862646,0.14285714285714285
+",73,sengelin-d-mamsell-elis,35,5,0.1442720464862646,0.14285714285714285
 443,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -4411,7 +4411,7 @@ Jörg:
 Han dir awer e färchterliger Bammert! Da lüagt jo no schnauiziger dri ass unser Schandarm, hett saller gsait.
 
           
-",sengelin-d-mamsell-elis,23,1,0.1963532893100105,0.043478260869565216
+",73,sengelin-d-mamsell-elis,23,1,0.1963532893100105,0.043478260869565216
 444,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4423,7 +4423,7 @@ Bannwart:
 Das geht äich e Kas a, Koltri! Wenn me so e wichtig Amtle het, ka mer nit allewil siass lüage, sunscht geht dr Respakt bläite.
 
           
-",sengelin-d-mamsell-elis,29,6,0.13799999999999998,0.20689655172413793
+",74,sengelin-d-mamsell-elis,29,6,0.13799999999999998,0.20689655172413793
 445,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4432,7 +4432,7 @@ Schaber:
 Awer äich lo schmiere, därt hat dr Respakt nit dergege, hein?
 
           
-",sengelin-d-mamsell-elis,12,4,0.14055173301395613,0.3333333333333333
+",74,sengelin-d-mamsell-elis,12,4,0.14055173301395613,0.3333333333333333
 447,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4444,7 +4444,7 @@ Schaber:
 Das isch güat! Han Ihr mir nit vo- rig 10 Sü wälle ablüse? Han Ihr nit gsait, Ihr datte derno d' Auige züadrucke? Passe uf, ich lang äich ein.
 
           
-",sengelin-d-mamsell-elis,34,5,0.0938,0.14705882352941177
+",74,sengelin-d-mamsell-elis,34,5,0.0938,0.14705882352941177
 448,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4456,7 +4456,7 @@ Bannwart:
 Nei, galet nit, Herr, dir saget im Maier nit, er isch gar ein. Dir wardet doch e armer Familievater nit welle ums Brot bringe, galet nit! 's isch jo numme Gspass gsi.
 
           
-",sengelin-d-mamsell-elis,36,4,0.16475,0.1111111111111111
+",74,sengelin-d-mamsell-elis,36,4,0.16475,0.1111111111111111
 449,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4465,7 +4465,7 @@ Schaber:
 Ah, lüag emol do, wia heflig dam Mann uf eimol der Schnawel gwachse isch! Nit do, im sous-prefet verzehl is, wenn i am Samstig züa em gang fir en z’rasiere.
 
           
-",sengelin-d-mamsell-elis,32,4,0.15225,0.125
+",74,sengelin-d-mamsell-elis,32,4,0.15225,0.125
 450,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4477,7 +4477,7 @@ Bannwart:
 Ach, dir sind so ein, so e Sehureputzer, so e hochnasiger! Will dir der Sü- prefakt rasieret? Bah, wage mir kennet dir’s im Präsident z’ Paris verzehle. In sinere Heimat warde d' Bammert grad so güat e Sü dernave z’ verdiane süache, wie im Sungau. Vu was wot mer sunscht Tüwak kauife fir d' Pfife?
 
           
-",sengelin-d-mamsell-elis,62,8,0.154125,0.12903225806451613
+",75,sengelin-d-mamsell-elis,62,8,0.154125,0.12903225806451613
 451,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4489,7 +4489,7 @@ Maire:
 So, un jetz zu äich, Velo- fahrer! Saget dir viellicht o, dir kennet nit lase, wia die Ziginer?
 
           
-",sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
+",75,sengelin-d-mamsell-elis,24,2,0.0,0.08333333333333333
 452,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4501,7 +4501,7 @@ Schaber:
 He nei, Herr Maire, so- viel han i in der Schüal grad scho glehrt. Awer in dr Geographiestund het mer halt niames gsait, ass do im Pfirter Amt no Rawe sin, un do han i halt nit gross acht ga.
 
           
-",sengelin-d-mamsell-elis,47,8,0.08606985239933093,0.1702127659574468
+",75,sengelin-d-mamsell-elis,47,8,0.08606985239933093,0.1702127659574468
 454,comedy,Schaber,M,,,,"
             
 Sehawer:
@@ -4510,7 +4510,7 @@ Sehawer:
 Ich bi halt mit andere Gedanke bschaftigt gsi, un do han i se tatsachlig nit gsah.
 
           
-",sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
+",75,sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
 455,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4519,7 +4519,7 @@ Bannwart:
 Un dia Tafele vorne am Umrank, dia han dir doch gwiss miasse sah, wenn dir nit blind sin.
 
           
-",sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
+",75,sengelin-d-mamsell-elis,19,1,0.0,0.05263157894736842
 456,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4528,7 +4528,7 @@ Schaber:
 Heh jo, i ha so e Gschribs gsah, bi awer nit gscheit worde drüss!
 
           
-",sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
+",76,sengelin-d-mamsell-elis,15,2,0.0,0.13333333333333333
 458,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4540,7 +4540,7 @@ Bannwart:
 Nit kenne lase? Un ich has doch salbscht gschriwe, un no derzüa mit gotische Büach- stawe.
 
           
-",sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
+",76,sengelin-d-mamsell-elis,21,1,0.0,0.047619047619047616
 459,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4549,7 +4549,7 @@ Schaber:
 Gotisch eder hollandisch, i bi miner Träi nit drüs ku.
 
           
-",sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
+",76,sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
 460,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4561,7 +4561,7 @@ Maire:
 Das kunt dervo, wenn mer so- e gscheiter Bammert het. Hattet's bigott ringer mit so Kirsehäcke gmolt, derno hat er ke Üsred. — Awer wia ischs gsi mit dare Frau?
 
           
-",sengelin-d-mamsell-elis,37,2,0.1405,0.05405405405405406
+",76,sengelin-d-mamsell-elis,37,2,0.1405,0.05405405405405406
 461,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4570,7 +4570,7 @@ Schaber:
 I ha ere d' Eier zahlt un unschuldigerwis, uf mi Seel! Schalle ha i ere nit kenne, denn sie isch mer do nite ab em Velo käit, awer gschroje un pfiffe han i wia bsasse, doch die Fraui isch nit abzite.
 
           
-",sengelin-d-mamsell-elis,42,5,0.0992924778360063,0.11904761904761904
+",76,sengelin-d-mamsell-elis,42,5,0.0992924778360063,0.11904761904761904
 462,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4582,7 +4582,7 @@ Maire:
 Brücht se o nit, hat se nit notwandig! Absolüt nit! Sin denn hitigestags d' Wag numme do, ass mer äich Velofahrer un dane barepelzige Stink- karreherre druf üswiche müass. Boiet sackermant eigene Strosse eder gehnt z’ Füass, wia unsereiner o, wenn dir nit kenne langsam fahre. Worum sin dir eigetlig so schnall gfahre? Het’s brennt?
 
           
-",sengelin-d-mamsell-elis,61,3,0.18733333333333335,0.04918032786885246
+",77,sengelin-d-mamsell-elis,61,3,0.18733333333333335,0.04918032786885246
 463,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4591,7 +4591,7 @@ Schaber:
 Sal grad nit, awer 's het mi sunscht ebs triwe.
 
           
-",sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
+",77,sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
 464,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4600,7 +4600,7 @@ Maire:
 Üse mit! Mir wann lüage, i strof nit garn, wenn i nit müass.
 
           
-",sengelin-d-mamsell-elis,14,2,0.30695762859059983,0.14285714285714285
+",77,sengelin-d-mamsell-elis,14,2,0.30695762859059983,0.14285714285714285
 465,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4609,7 +4609,7 @@ Schaber:
 Eh bien, äich kann is jo sage. Ich bin vor e paar Wuche mit ere Mamsell vu hia Isebahn gfahre, Elie het se gheisse.
 
           
-",sengelin-d-mamsell-elis,25,2,0.0,0.08
+",77,sengelin-d-mamsell-elis,25,2,0.0,0.08
 467,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4618,7 +4618,7 @@ Schaber:
 Ja, Elis het ihre ewer grüefe. Sie isch salmols uf Altkirch zum Masson gfahre fir e Büach z'hole, glauib i.
 
           
-",sengelin-d-mamsell-elis,22,5,0.1436,0.22727272727272727
+",77,sengelin-d-mamsell-elis,22,5,0.1436,0.22727272727272727
 468,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4630,7 +4630,7 @@ Maire:
 I wett, das isch un- seri Mamsell gsi.
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",78,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 469,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4639,7 +4639,7 @@ Schaber:
 Dia hat mer gfalle wia no kenni in mim Lawe, un das düat ebs heisse bi me Mann, wu d' Walt gsah het wia ich.
 
           
-",sengelin-d-mamsell-elis,26,5,0.0782,0.19230769230769232
+",78,sengelin-d-mamsell-elis,26,5,0.0782,0.19230769230769232
 471,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4648,7 +4648,7 @@ Schaber:
 Nei, ebe nit, awer gschriwe han i ere scho e paarmol. Se hat mir merkwirdigerwis no nia Antwort ga. Un doch han i salmols gmeint, sie dat sich e wenig interessiare fir mi. Wage dam han i emol welle lüage, eb ihre am And ebs passiert isch. Do bi i in der Gedanke an se allewil schnaller un schnaller gfahre un ha halt nimme schnall gnüa kenne halte, wu dia Fraui mir im Wag umeglofe isch.
 
           
-",sengelin-d-mamsell-elis,77,9,0.06766666666666667,0.11688311688311688
+",78,sengelin-d-mamsell-elis,77,9,0.06766666666666667,0.11688311688311688
 472,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4662,7 +4662,7 @@ Elis! Alkilch! Büach gholt! Ke Zwifel 's isch se!
  Zeige, sage mir e wenig, wia se üsgsah het, die Mamsell, viellicht ka ich äich derno dr Wag wise.
 
           
-",sengelin-d-mamsell-elis,36,2,0.0,0.05555555555555555
+",78,sengelin-d-mamsell-elis,36,2,0.0,0.05555555555555555
 473,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4674,7 +4674,7 @@ Schaber:
 Üsgsah? Grad wia e Angele, e fini Taille, rote Backle, blitzblanke Zehn, wenn se glacht het.
 
           
-",sengelin-d-mamsell-elis,20,5,0.075,0.25
+",78,sengelin-d-mamsell-elis,20,5,0.075,0.25
 474,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4688,7 +4688,7 @@ Bigüscht, ‘s isch se. I kenn se an de rote Backle, an sine agstrichene un an 
  Un was han dir denne jetz im Sinn, hein?
 
           
-",sengelin-d-mamsell-elis,46,4,0.0235,0.08695652173913043
+",79,sengelin-d-mamsell-elis,46,4,0.0235,0.08695652173913043
 475,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4699,7 +4699,7 @@ Mi Harz mächt i ere ku z’ Fiasse lege, denn siter salmols ka i nimme riawi sc
  Elis kommt herein mit dem Gesicht gegen den Flur gewendet. Sie sieht also Schaber nicht. Sie spricht gegen draussen.
 
           
-",sengelin-d-mamsell-elis,43,8,0.0,0.18604651162790697
+",79,sengelin-d-mamsell-elis,43,8,0.0,0.18604651162790697
 476,comedy,Elis,F,,,,"
             
 Elis:
@@ -4708,7 +4708,7 @@ Elis:
 Un ich sag, ich hirot der nechscht wu kunnt. I wart uf ke Notari, ke Iziger un ke Akotheker. Viellicht kam emol so e alter Kracher. E junger will i, e junger, säi er was er will un wia er will un dermit basta. (schlägt die Türe zu und dreht sich um; sie erblickt Schaber, den sie zuerst mit offenem Mund anstarrt,
 
           
-",sengelin-d-mamsell-elis,64,10,0.014099999999999998,0.15625
+",79,sengelin-d-mamsell-elis,64,10,0.014099999999999998,0.15625
 477,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4720,7 +4720,7 @@ Schaber:
 Natirlig bin i’s, Mademoiselle Elis, awer wia.....
 
           
-",sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
+",79,sengelin-d-mamsell-elis,12,2,0.0,0.16666666666666666
 479,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4729,7 +4729,7 @@ Schaber:
 Grad so frog ich, dur was fir e glickliger Züa- fall ich Sie do im Hüs vum Herr Maire find! Sin Sie ewe....?
 
           
-",sengelin-d-mamsell-elis,25,8,0.18772524130842583,0.32
+",79,sengelin-d-mamsell-elis,25,8,0.18772524130842583,0.32
 480,comedy,Elis,F,,,,"
             
 Elis:
@@ -4738,7 +4738,7 @@ Elis:
 ’s Tächterle vom Hüs? Natirlig! Han is Ihne denn salmols nit gsait?
 
           
-",sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
+",80,sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
 481,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4750,7 +4750,7 @@ Schaber:
 En vérité, main- tenant je m'en souviens, wie kann mer awer so ebbs vergasse! Um so dankbarer bin i dam Züafall, wu...
 
           
-",sengelin-d-mamsell-elis,31,4,0.0665,0.12903225806451613
+",80,sengelin-d-mamsell-elis,31,4,0.0665,0.12903225806451613
 482,comedy,Elis,F,,,,"
             
 Elis:
@@ -4759,7 +4759,7 @@ Elis:
 Mit dam han Sie mir alls no nit gsait, weller hasard ass Sie meine.
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",80,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 483,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4770,7 +4770,7 @@ Fir d' Wohret z'sage, Mademoiselle Elis, Sie han i gsüacht.
  Un do ewe isch mer der Witz passiert, ass mich Ihr Bammert därt arretiart het; denn voyez-vous, Mademoiselle Elis, will ich do allewil numme an Sie dankt ha, han i nim uf d'r Wag acht ga, un do han i Ihre hl. Rawe- bode betrate un no gar d' Eierfraui mit samt ihre Eier zammegfahre, meine Se, do hets üsgsah! Un jetz wann sie mi ufs wenigscht hanke, wenn nit gar la- wandig brote derwage.
 
           
-",sengelin-d-mamsell-elis,94,10,0.060899999999999996,0.10638297872340426
+",80,sengelin-d-mamsell-elis,94,10,0.060899999999999996,0.10638297872340426
 484,comedy,Elis,F,,,,"
             
 Elis:
@@ -4782,7 +4782,7 @@ Elis:
 Awer Pape, das isch doch der Herr Schaher vu Alkilch, weisch, i ha dir jo von em ver- zehlt.
 
           
-",sengelin-d-mamsell-elis,25,1,0.141,0.04
+",80,sengelin-d-mamsell-elis,25,1,0.141,0.04
 485,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -4796,7 +4796,7 @@ Ke Schnüf! Awer hit wird gloge, ass d' Schwarte krache, viellicht nutzt's ebs.
  Doch, doch, 's kunnt mer jetz. Ach, dir sind’s, Herr Schaber, do müass i äich no merci sage, ass dir salmols im Elis d' langwilige Isebahnfahrt so kurzwilig gmacht han.
 
           
-",sengelin-d-mamsell-elis,53,9,0.06933333333333333,0.16981132075471697
+",80,sengelin-d-mamsell-elis,53,9,0.06933333333333333,0.16981132075471697
 486,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4810,7 +4810,7 @@ Oh, Herr Maire, ’s isch garn g'schah.
  Quel heureux hasard!
 
           
-",sengelin-d-mamsell-elis,18,4,0.03525,0.2222222222222222
+",81,sengelin-d-mamsell-elis,18,4,0.03525,0.2222222222222222
 487,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4820,7 +4820,7 @@ Bannwart:
  Ich seh scho, Herr Maier, do gits wider ke Zigegald z’ Pfirt, un i ha mi no so gfrait, ass i wider emol hat känne Tüwak kauife. Dir wisset jo, d’Alti blacht nit üse fir so Sache.
 
           
-",sengelin-d-mamsell-elis,43,2,0.375,0.046511627906976744
+",81,sengelin-d-mamsell-elis,43,2,0.375,0.046511627906976744
 488,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4831,7 +4831,7 @@ Oh, wenns numme das isch, do, voilà fir e paar Packle
 ; Ihr han mir jo dr Wag zeigt zu mim Glick.
 
           
-",sengelin-d-mamsell-elis,27,4,0.15225,0.14814814814814814
+",81,sengelin-d-mamsell-elis,27,4,0.15225,0.14814814814814814
 489,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
             
 Bannwart:
@@ -4842,7 +4842,7 @@ Bannwart:
 (ab)
 
           
-",sengelin-d-mamsell-elis,23,2,0.0705,0.08695652173913043
+",81,sengelin-d-mamsell-elis,23,2,0.0705,0.08695652173913043
 490,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -4853,7 +4853,7 @@ Un mir wann dankwohl o geh, Katri, hein? Kämmet, Maier, haltet is dr Vater iwer
 .
 
           
-",sengelin-d-mamsell-elis,73,4,0.0235,0.0547945205479452
+",81,sengelin-d-mamsell-elis,73,4,0.0235,0.0547945205479452
 491,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4862,7 +4862,7 @@ Schaber:
 Was isch denn das fir a patron gsi?
 
           
-",sengelin-d-mamsell-elis,9,3,0.20299999999999999,0.3333333333333333
+",81,sengelin-d-mamsell-elis,9,3,0.20299999999999999,0.3333333333333333
 492,comedy,Elis,F,,,,"
             
 Elis:
@@ -4871,7 +4871,7 @@ Elis:
 Oh, lehn Se ne doch geh, qu’est-ce que cela nous fait? Mir sin allei, Monsieur Schaber, grad wia sal- mols im coupé. Mer meint, me dat e Roman lase, wie sunderbar ass uns der hasard hit do zammegfiahrt het.
 
           
-",sengelin-d-mamsell-elis,41,4,0.04574999999999998,0.0975609756097561
+",82,sengelin-d-mamsell-elis,41,4,0.04574999999999998,0.0975609756097561
 493,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4880,7 +4880,7 @@ Schaber:
 Un ich glauib, es isch so ku, will mir allewil anenander dankt han. Do han sich unsere Geischter azoge, 's isch spiritisme,
 
           
-",sengelin-d-mamsell-elis,23,5,0.0218,0.21739130434782608
+",82,sengelin-d-mamsell-elis,23,5,0.0218,0.21739130434782608
 494,comedy,Elis,F,,,,"
             
 Elis:
@@ -4889,7 +4889,7 @@ Elis:
 Vom spiritisme weiss i grad nit, wisse Sie, dia näje Mode brüche gar viel Zit bis zu uns do hinte dure. Awer wenn Sie's sage, wird’s wohl so si; denn sahn Sie, Monsieur Schaber, i ha e granzelos Vertroie zu Ihne.
 
           
-",sengelin-d-mamsell-elis,44,4,0.0,0.09090909090909091
+",82,sengelin-d-mamsell-elis,44,4,0.0,0.09090909090909091
 495,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4901,7 +4901,7 @@ Schaber:
 Oh, Mademoiselle Elis, ich...
 
           
-",sengelin-d-mamsell-elis,8,1,0.0,0.125
+",82,sengelin-d-mamsell-elis,8,1,0.0,0.125
 496,comedy,Elis,F,,,,"
             
 Elis:
@@ -4912,7 +4912,7 @@ Ja, un mit em dra danke, das han Se nat gsait. Ich allewag han’s e so ka, je v
  Uf e Lug mehr kunts jetz nimme a.
 
           
-",sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
+",82,sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
 497,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4924,7 +4924,7 @@ Schaber:
 Un wia bin i Ihne erschiene, Made- moiselle Elis?
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",82,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 498,comedy,Elis,F,,,,"
             
 Elis:
@@ -4933,7 +4933,7 @@ Elis:
 Gwehnlig, wenn i als e natte Roman lies, so vo zwei verliabte Turteltiwle, do mol ich mir als üs, wia wenn Sie der amoureux ware un ich das Kind, wu nem 's Harz gstohle worde isch. Denn Sie wisse grad so agnahm z’redde wia so richtiger Romanheld.
 
           
-",sengelin-d-mamsell-elis,49,7,0.0,0.14285714285714285
+",83,sengelin-d-mamsell-elis,49,7,0.0,0.14285714285714285
 499,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4945,7 +4945,7 @@ Schaber:
 Sie mache mich züa stolz, Mademoiselle Elis; awer ich gsteh mir gehts als grad wia Ihne. Wenn ich als lies, wia in Angland eder Frankrich d’Frauje sich ufschwingewann, wia sie sich frei wann mache vu dr Sklavefessle, wu se hit noch trage, do dank i allewal an Sie.
 
           
-",sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
+",83,sengelin-d-mamsell-elis,55,6,0.0,0.10909090909090909
 500,comedy,Elis,F,,,,"
             
 Elis:
@@ -4957,7 +4957,7 @@ Elis:
 Awer nei! Sie stelle mich z’hoch.
 
           
-",sengelin-d-mamsell-elis,11,3,0.15099999999999997,0.2727272727272727
+",83,sengelin-d-mamsell-elis,11,3,0.15099999999999997,0.2727272727272727
 501,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4966,7 +4966,7 @@ Schaber:
 Z’ hoch? Emil, sag i als züa mir salbscht, Emil, kennsch dü nit o so eini, wu sich üs ihrem Stand himmelhoch ufegschwunge het! Kennsch nit eini, wu ihre Geischt, ihre Talante im Sungoi owe müass verbarge wie sich e Väjele unter de Därn ver- steckt? „Emil“, so riaf i mir als derno züa, „kenntsch dü denn nit mache, fir da Starn am Sungauihimmel an e Platz z’stelle, wu er zündet?“
 
           
-",sengelin-d-mamsell-elis,78,8,0.22649999999999998,0.10256410256410256
+",83,sengelin-d-mamsell-elis,78,8,0.22649999999999998,0.10256410256410256
 502,comedy,Elis,F,,,,"
             
 Elis:
@@ -4978,7 +4978,7 @@ Elis:
 Ich glaib Sie z’versteh. Sahn se, vorgeschter han i e scheni Gschicht vom Zola glase, wia e Paarle sich im coupé kenne lehre het, un wia derno langsam, langsam ihre Harze han afange z'brenne bis se z’letscht nimm han kenne läsche. Do sin mir ganz sunderbari Gedanke kumme.
 
           
-",sengelin-d-mamsell-elis,57,9,0.0,0.15789473684210525
+",83,sengelin-d-mamsell-elis,57,9,0.0,0.15789473684210525
 503,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -4990,7 +4990,7 @@ Schaber:
 Un was firige denn, Elis? Oh, martere mich nit länger!
 
           
-",sengelin-d-mamsell-elis,15,4,0.11725,0.26666666666666666
+",83,sengelin-d-mamsell-elis,15,4,0.11725,0.26666666666666666
 504,comedy,Elis,F,,,,"
             
 Elis:
@@ -5002,7 +5002,7 @@ Elis:
 Wia wars, han i dankt, wann d' Harze vu zwei gewisse Lit o date afange z’brenne. Set mer acht derno läsche? Sott mer?
 
           
-",sengelin-d-mamsell-elis,28,4,0.0,0.14285714285714285
+",84,sengelin-d-mamsell-elis,28,4,0.0,0.14285714285714285
 505,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5016,7 +5016,7 @@ Oh, nei, numme das nit, no blose, blose müass mer, ass es no meh brennt. Do dä
 .
 
           
-",sengelin-d-mamsell-elis,35,6,0.09204899053504077,0.17142857142857143
+",84,sengelin-d-mamsell-elis,35,6,0.09204899053504077,0.17142857142857143
 506,comedy,Elis,F,,,,"
             
 Elis:
@@ -5028,7 +5028,7 @@ Elis:
 Mia liawer Emil!
 
           
-",sengelin-d-mamsell-elis,10,1,0.0,0.1
+",84,sengelin-d-mamsell-elis,10,1,0.0,0.1
 507,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5040,7 +5040,7 @@ Mia harziger Angel!
 (Während derselben stürtzt Amerei in höchster Erregung herein und drängt die beiden voneinander. Die Hände auf den Hüften schaut Amerei die beiden mit blitzenden Augen an, indem sie donnert:)
 
           
-",sengelin-d-mamsell-elis,39,6,0.1175,0.15384615384615385
+",84,sengelin-d-mamsell-elis,39,6,0.1175,0.15384615384615385
 508,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5055,7 +5055,7 @@ Oho, oho, oho! Do will ich o derbi si. Üse mit dir, dü roter Putzemummel!
 .
 
           
-",sengelin-d-mamsell-elis,69,6,0.2025206222181657,0.08695652173913043
+",84,sengelin-d-mamsell-elis,69,6,0.2025206222181657,0.08695652173913043
 510,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5067,7 +5067,7 @@ Amerei:
 Was tüasch dü, Schnuderding?
 
           
-",sengelin-d-mamsell-elis,12,2,0.6025429796863573,0.16666666666666666
+",85,sengelin-d-mamsell-elis,12,2,0.6025429796863573,0.16666666666666666
 511,comedy,Elis,F,,,,"
             
 Elis:
@@ -5081,7 +5081,7 @@ Ich bi ke Schnuderding meh, ich bi bol siebe....
 .
 
           
-",sengelin-d-mamsell-elis,25,4,0.3815036028144253,0.16
+",85,sengelin-d-mamsell-elis,25,4,0.3815036028144253,0.16
 512,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5092,7 +5092,7 @@ Was, no umeschnauize, dü wiaschti Zatz?
  Isch das der Dank derfir, ass ich bim Vater allewil di Partie agnu ha, hein? Dü datsch’s mer glauib z’leid, ass er mi kennt üslache!
 
           
-",sengelin-d-mamsell-elis,38,6,0.11021565720170744,0.15789473684210525
+",85,sengelin-d-mamsell-elis,38,6,0.11021565720170744,0.15789473684210525
 513,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5101,7 +5101,7 @@ Schaber:
 Aber Madame....
 
           
-",sengelin-d-mamsell-elis,3,2,0.0,0.6666666666666666
+",85,sengelin-d-mamsell-elis,3,2,0.0,0.6666666666666666
 514,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5114,7 +5114,7 @@ Halt! d’Gosche, dü Schirebirtzler! Bisch iwerhauipt no do? Üse mit dr, üse,
 (drängt ihn nach der Türe)
 
           
-",sengelin-d-mamsell-elis,33,6,0.1668539584223175,0.18181818181818182
+",85,sengelin-d-mamsell-elis,33,6,0.1668539584223175,0.18181818181818182
 515,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5128,7 +5128,7 @@ Mer kenne jo drinne warte. Mir packe derwilscht eins,
  Was zum Kückück isch denn do fir e Spektakel?
 
           
-",sengelin-d-mamsell-elis,27,2,0.375,0.07407407407407407
+",85,sengelin-d-mamsell-elis,27,2,0.375,0.07407407407407407
 516,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5139,7 +5139,7 @@ Meinsch nit, da Affegingel do möcht 's Elis hi- rote.
  Wia gfallt er dr, da Herr Tochter- mann?
 
           
-",sengelin-d-mamsell-elis,24,4,0.05875,0.16666666666666666
+",86,sengelin-d-mamsell-elis,24,4,0.05875,0.16666666666666666
 517,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5148,7 +5148,7 @@ Maire:
 He, ufs Üssah allei kams grad nit a, wenn er sunscht e rachter Mann war.
 
           
-",sengelin-d-mamsell-elis,16,4,0.04574999999999998,0.25
+",86,sengelin-d-mamsell-elis,16,4,0.04574999999999998,0.25
 518,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5160,7 +5160,7 @@ Amerei:
 Ach, pfifft dr Wind üs dam Loch? Mächtsch lache iwer mi, Schambedischt, hein?
 
           
-",sengelin-d-mamsell-elis,17,2,0.30295667994474806,0.11764705882352941
+",86,sengelin-d-mamsell-elis,17,2,0.30295667994474806,0.11764705882352941
 519,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5172,7 +5172,7 @@ Maire:
 Sal isch z’dumm, ass ich wage so ebs 's Lawesglick vo mim anzig Kind dat ufs Spiel setze.
 
           
-",sengelin-d-mamsell-elis,23,3,0.0,0.13043478260869565
+",86,sengelin-d-mamsell-elis,23,3,0.0,0.13043478260869565
 520,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5181,7 +5181,7 @@ Amerei:
 Dia schene Sprich kasch bhalte, Alter!
 
           
-",sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
+",86,sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
 521,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5190,7 +5190,7 @@ Maire:
 Schene Sprich? ’s isch mi bitterer Arnscht. Un wenn dü dir dia Sach iwerlegsch, wirdsch mer am And racht ga.
 
           
-",sengelin-d-mamsell-elis,21,5,0.09773837055934752,0.23809523809523808
+",86,sengelin-d-mamsell-elis,21,5,0.09773837055934752,0.23809523809523808
 523,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5201,7 +5201,7 @@ Dine hohe Plan kasch in Rauich hanke, sal wirdsch bol salbscht isah. E Amtsricht
 .
 
           
-",sengelin-d-mamsell-elis,83,15,0.1,0.18072289156626506
+",87,sengelin-d-mamsell-elis,83,15,0.1,0.18072289156626506
 524,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5210,7 +5210,7 @@ Schaber:
 Pardon, Herr Maire, ke simple Rasierer, e coiffeur.
 
           
-",sengelin-d-mamsell-elis,9,2,0.0705,0.2222222222222222
+",87,sengelin-d-mamsell-elis,9,2,0.0705,0.2222222222222222
 525,comedy,Elis,F,,,,"
             
 Elis:
@@ -5222,7 +5222,7 @@ Elis:
 Awer Pape, er isch doch coiffeur, das isch ....
 
           
-",sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
+",87,sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
 526,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5233,7 +5233,7 @@ Jo, jo, ich verstand mi, wenn i mit mer red, also wage mir Coiffeur, das war gra
  Nit wohr?
 
           
-",sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
+",87,sengelin-d-mamsell-elis,34,4,0.0,0.11764705882352941
 527,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5242,7 +5242,7 @@ Schaber:
 ‘s isch eso, Herr Maire.
 
           
-",sengelin-d-mamsell-elis,6,2,0.0705,0.3333333333333333
+",87,sengelin-d-mamsell-elis,6,2,0.0705,0.3333333333333333
 528,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5255,7 +5255,7 @@ Eh bien, das dat passe, denn wisse n'r, zum schaffe isch’s Elis nia bsunders a
  Dir sahnt, ich bi ufrichtig, awer wage dam wardet dir jo nit räig warde. Ich mein numme, was für e Büersfraui netig war. das ka’s nit. Koche un so Dings, wus bi äich dat brücha, das war no z’lehre. By
 
           
-",sengelin-d-mamsell-elis,82,10,0.014099999999999998,0.12195121951219512
+",88,sengelin-d-mamsell-elis,82,10,0.014099999999999998,0.12195121951219512
 529,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5267,7 +5267,7 @@ Schaber:
 Gwiss, gwiss. Bi unserem Gschaft isch d' Hauptsach dr Geischt fir d' elientele z’ unter- halte, un da han i bi Ihrer Tochter gfunde; do kann ich doch nit o no verlange, ass se noch alle qualité von ere grosse ménagère het.
 
           
-",sengelin-d-mamsell-elis,47,11,0.08372727272727273,0.23404255319148937
+",88,sengelin-d-mamsell-elis,47,11,0.08372727272727273,0.23404255319148937
 530,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5279,7 +5279,7 @@ Maire:
 Ménagère? Han dir am And no e Menagerie? Sal war latz. Fir äire Lewe z’fiatere gab ich äich mi Tochter nit.
 
           
-",sengelin-d-mamsell-elis,26,6,0.11449999999999998,0.23076923076923078
+",88,sengelin-d-mamsell-elis,26,6,0.11449999999999998,0.23076923076923078
 532,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5291,7 +5291,7 @@ Maire:
 Ah so!
 
           
-",sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
+",88,sengelin-d-mamsell-elis,6,1,0.0,0.16666666666666666
 533,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5300,7 +5300,7 @@ Amerei:
 Un ich sag, grad wage Ihrem Geischt gib is nit züa. Wenns o grad ke Notari gsi war, awer doch wenigschtens e Mann, wu’s si savoir vivre, wia mer seit, hat kenne zeige. Awer so, brr! Bim hiasige Bart- putzer rede se nit as vo Mischt un vo Hardäpfel, das isch dr ganze Geischt, un z’Alkilch wirds nit an- dersch si.
 
           
-",sengelin-d-mamsell-elis,66,8,0.0,0.12121212121212122
+",88,sengelin-d-mamsell-elis,66,8,0.0,0.12121212121212122
 534,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5309,7 +5309,7 @@ Schaber:
 Awer, Madame, Sie han jo ke...
 
           
-",sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
+",89,sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
 535,comedy,Elis,F,,,,"
             
 Elis:
@@ -5323,7 +5323,7 @@ Awer Mame, dr Herr Schaber isch doch ke so gwehnliger Bartputzer wia hia der alt
  glehrt hat.
 
           
-",sengelin-d-mamsell-elis,109,15,0.04039999999999999,0.13761467889908258
+",89,sengelin-d-mamsell-elis,109,15,0.04039999999999999,0.13761467889908258
 536,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5335,7 +5335,7 @@ Maire:
  Isch das awer o wohr?
 
           
-",sengelin-d-mamsell-elis,17,3,0.0,0.17647058823529413
+",89,sengelin-d-mamsell-elis,17,3,0.0,0.17647058823529413
 537,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5344,7 +5344,7 @@ Schaber:
 Wort fir Wort! Un so e Fraui, wia Ihre Toch- ter, sahn Se, dia war fir mi Gschaft e Vermöge wart. Dia dat aziage, do kame dia Herre no liawer wage dr sini conversation mit der Madame as fir wider süfer z'warde. Ich brüchte ke Zitung meh, pour sur, denn d' Mademoiselle Elis dat scho fir Gsprachstoff sorge.
 
           
-",sengelin-d-mamsell-elis,61,14,0.2455,0.22950819672131148
+",89,sengelin-d-mamsell-elis,61,14,0.2455,0.22950819672131148
 538,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5356,7 +5356,7 @@ Amerei:
 Das isch ebs andrs. Jetz bin i o derfir.
 
           
-",sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
+",89,sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
 539,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5365,7 +5365,7 @@ Maire:
 Halt, Amerei, jetz bisch dü z’ schnall! Zerscht mian mer doch e mangs wisse, dr Charakter, eb er Religion het un so Dings. Dü weisch jo, in de Städt git’s hitigestags so viel neimodische Heide, un so ein war mir als Tochtermann halt doch nit willkumme.
 
           
-",sengelin-d-mamsell-elis,48,4,0.0,0.08333333333333333
+",89,sengelin-d-mamsell-elis,48,4,0.0,0.08333333333333333
 540,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5374,7 +5374,7 @@ Schaber:
 Ah, wage salem därfe Sie nochfroge in Alkilch, wu Sie wann.
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",90,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 541,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5383,7 +5383,7 @@ Maire:
 Das war racht. Awer derno müass mer doch o wisse, wias mit em Ikummes steht? Nit ass mir schliasslig ’s Elis mit samt äich miasste erhalte un no e paar Krabbe derzüa. Alo, wia steht äier Gschaft? Han Ihr Gselle ?
 
           
-",sengelin-d-mamsell-elis,41,3,0.0,0.07317073170731707
+",90,sengelin-d-mamsell-elis,41,3,0.0,0.07317073170731707
 542,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5392,7 +5392,7 @@ Schaber:
 Nei, awer se kamme. I ha e grossi Kundschaft, i ka alle Monet so 100 Franke reiner bénéfice rachne.
 
           
-",sengelin-d-mamsell-elis,20,2,0.0,0.1
+",90,sengelin-d-mamsell-elis,20,2,0.0,0.1
 543,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5401,7 +5401,7 @@ Maire:
 Hm, hm, 100 Fr., do han dir allewag e eige Gschaft?
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",90,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 544,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5413,7 +5413,7 @@ Schaber:
 He nei, awer’s kunnt. I ha dankt, jo... i wart numme ....
 
           
-",sengelin-d-mamsell-elis,16,3,0.04699999999999999,0.1875
+",90,sengelin-d-mamsell-elis,16,3,0.04699999999999999,0.1875
 545,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5425,7 +5425,7 @@ Maire:
 Ebe uf d' Ehstier vo ere riche Frau ? Do waret dir bi uns latz. Das will ich äich gli sage; i bi nit so schwar, ass i schin.
 
           
-",sengelin-d-mamsell-elis,32,5,0.061,0.15625
+",90,sengelin-d-mamsell-elis,32,5,0.061,0.15625
 546,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5437,7 +5437,7 @@ Schaber:
 Sie spiele numme dr Bscheide. Mer seit nit vergawe, dane wu klage, sott mer namme uns dane gah, wu riahme.
 
           
-",sengelin-d-mamsell-elis,25,6,0.0625,0.24
+",91,sengelin-d-mamsell-elis,25,6,0.0625,0.24
 547,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -5450,7 +5450,7 @@ Jörg:
 (Die beiden haben bald gespannt.gelauscht, bald wieder gekost.)
 
           
-",sengelin-d-mamsell-elis,29,3,0.20299999999999999,0.10344827586206896
+",91,sengelin-d-mamsell-elis,29,3,0.20299999999999999,0.10344827586206896
 549,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5464,7 +5464,7 @@ Ganz racht, Herr Schaber! D’ Sprichwörter rede gwehnlig wohr. Wenn mr im Elis
 . Awer as gebil- deter Mann wisse Sie jo, ass’s Gald allei nit glicklig macht. — Zeige, sage emol d' Wohret, was gfallt äich denn so bsunders am Elis?
 
           
-",sengelin-d-mamsell-elis,76,15,0.021599999999999994,0.19736842105263158
+",91,sengelin-d-mamsell-elis,76,15,0.021599999999999994,0.19736842105263158
 550,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5476,7 +5476,7 @@ Schaber:
 Alles! Alles! Wennisag! D’ Bil- dung, ihr savoir vivre. Sahn Se, Madame Maire, ’s isch fir e Mann wia unsereins doch ebs anderscht, e Fräui z’beku, wu im Pensionat gsi isch, wu Sinn fir progres un Ideale het.
 
           
-",sengelin-d-mamsell-elis,44,7,0.21414285714285716,0.1590909090909091
+",91,sengelin-d-mamsell-elis,44,7,0.21414285714285716,0.1590909090909091
 551,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5488,7 +5488,7 @@ Maire:
 progres in dr Mode un im Fälsche!
 
           
-",sengelin-d-mamsell-elis,12,1,0.156,0.08333333333333333
+",91,sengelin-d-mamsell-elis,12,1,0.156,0.08333333333333333
 552,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -5497,7 +5497,7 @@ Schaber:
 As so eifaltig Dundi, wu nia üs em Bann ku isch un wu numme hischt un hott kennt.
 
           
-",sengelin-d-mamsell-elis,19,2,0.0,0.10526315789473684
+",92,sengelin-d-mamsell-elis,19,2,0.0,0.10526315789473684
 553,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -5511,7 +5511,7 @@ Hasch shert, Vater? Hein, das isch emol anderi Müsik! Kumm an mi Harz, mi Tocht
 .
 
           
-",sengelin-d-mamsell-elis,27,7,0.0,0.25925925925925924
+",92,sengelin-d-mamsell-elis,27,7,0.0,0.25925925925925924
 556,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5520,7 +5520,7 @@ Maire:
 Nit, nit! I ha numme nograchnet im Kalander wagenem Hochzitstag. Wenn wars äich liab?
 
           
-",sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
+",92,sengelin-d-mamsell-elis,15,1,0.0,0.06666666666666667
 557,comedy,Elis,F,,,,"
             
 Elis:
@@ -5531,7 +5531,7 @@ Schaber und Je ehnder, je liawer!
 .
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",92,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 558,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5542,7 +5542,7 @@ So wann mer dann sage, hit in viar Wuche. Un jetz en avent in d' eweri Stube, pa
 .
 
           
-",sengelin-d-mamsell-elis,43,1,0.0,0.023255813953488372
+",93,sengelin-d-mamsell-elis,43,1,0.0,0.023255813953488372
 559,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5554,7 +5554,7 @@ Wacker:
 Andlig isch se do! Andlig!
 
           
-",sengelin-d-mamsell-elis,9,2,0.0,0.2222222222222222
+",93,sengelin-d-mamsell-elis,9,2,0.0,0.2222222222222222
 560,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5568,7 +5568,7 @@ Holla, Herr Lehrer, dir sind jo ganz üs em Hisle. Was täifels isch do passiart
  Die andern drängen neugierig nach.
 
           
-",sengelin-d-mamsell-elis,31,5,0.1248,0.16129032258064516
+",93,sengelin-d-mamsell-elis,31,5,0.1248,0.16129032258064516
 561,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5577,7 +5577,7 @@ Wacker:
 Do, voilä, grad vor ere Minüt hat se dr Bot bracht.
 
           
-",sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
+",93,sengelin-d-mamsell-elis,12,1,0.0,0.08333333333333333
 563,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5588,7 +5588,7 @@ E mini definitivi Astellung, Ihr wisse jo! Wu isch....?
 .
 
           
-",sengelin-d-mamsell-elis,16,1,0.0,0.0625
+",93,sengelin-d-mamsell-elis,16,1,0.0,0.0625
 564,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5600,7 +5600,7 @@ Maire:
 Wer süache dir, Herr Lehrer, am And unser Lisa?
 
           
-",sengelin-d-mamsell-elis,13,4,0.03525,0.3076923076923077
+",94,sengelin-d-mamsell-elis,13,4,0.03525,0.3076923076923077
 566,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5612,7 +5612,7 @@ Maire:
 ’s wird scho so sie.
 
           
-",sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
+",94,sengelin-d-mamsell-elis,9,1,0.0,0.1111111111111111
 567,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5624,7 +5624,7 @@ Wacker:
 E so nu denn, Herr Maire, äire luschtige Auge verrote äich. Da ischs o nimme netig, ass i zerscht gang geh grand tenue mache. Ihr sin d'r Mamsell Lisa Vogt. Eh bien, wann Ihr mir äler niècle avertroje?
 
           
-",sengelin-d-mamsell-elis,42,4,0.14472701408626684,0.09523809523809523
+",94,sengelin-d-mamsell-elis,42,4,0.14472701408626684,0.09523809523809523
 568,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5640,7 +5640,7 @@ Ja, do müass i halt ewer anderscht froge. Lisa! Lisa! Lisa
 .
 
           
-",sengelin-d-mamsell-elis,39,5,0.16499999999999998,0.1282051282051282
+",94,sengelin-d-mamsell-elis,39,5,0.16499999999999998,0.1282051282051282
 570,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5652,7 +5652,7 @@ Maire:
 Also Lisa, unser sunscht so braver Lehrer isch uf eimol e Schelm worde. Er mächt absolüt stahle. Un meinsch wer? Dich! Witt dü dir das gfalle lo?
 
           
-",sengelin-d-mamsell-elis,32,7,0.2630337053210179,0.21875
+",95,sengelin-d-mamsell-elis,32,7,0.2630337053210179,0.21875
 571,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -5664,7 +5664,7 @@ Lisa:
 Jo, Unkel, vo so me liawe Schelm scho.
 
           
-",sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
+",95,sengelin-d-mamsell-elis,17,1,0.0,0.058823529411764705
 572,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5677,7 +5677,7 @@ So gant enander e Schmutz, Kinder!
 .
 
           
-",sengelin-d-mamsell-elis,46,3,0.0,0.06521739130434782
+",95,sengelin-d-mamsell-elis,46,3,0.0,0.06521739130434782
 573,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5689,7 +5689,7 @@ Maire:
 Un do, nit ass dir meinet, dir waret hit allei glieklig, do stell ich äich mi züakünftiger Tochtermann vor, der Herr Schaber vu Altkilch un do dr Jörg uns Katri, dia sin zerscht einig gsi, awer’s wird no harze bis dr alt Hanstiawelt jo un Amen sait.
 
           
-",sengelin-d-mamsell-elis,55,8,0.04049999999999999,0.14545454545454545
+",95,sengelin-d-mamsell-elis,55,8,0.04049999999999999,0.14545454545454545
 574,comedy,Lisa,F,,,,"
             
 Lisa:
@@ -5702,7 +5702,7 @@ Wacker un
             
 
           
-",sengelin-d-mamsell-elis,12,1,0.469,0.08333333333333333
+",95,sengelin-d-mamsell-elis,12,1,0.469,0.08333333333333333
 575,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5711,7 +5711,7 @@ Wacker:
 Awer nei, was fir e Üwerraschung! Hit isch jo. dr reinscht Wundertag!
 
           
-",sengelin-d-mamsell-elis,13,2,0.3045,0.15384615384615385
+",95,sengelin-d-mamsell-elis,13,2,0.3045,0.15384615384615385
 576,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5723,7 +5723,7 @@ Un was,fir ein! Allons, Amerei! Wi do ane, ass mir kenne astosse. Mr bliwe jetz 
 (Die drei Paare kosen miteinander je nach Na- turell: Lisa und Wacker innig, Elis und Schaber leer, auffallend, Jörg und Katri derb.)
 
           
-",sengelin-d-mamsell-elis,94,12,0.11325,0.1276595744680851
+",96,sengelin-d-mamsell-elis,94,12,0.11325,0.1276595744680851
 577,comedy,Amerei,F,,,,"
             
 Maire und Amerei:
@@ -5738,7 +5738,7 @@ So, sin dir jetz emol do, so miant dir o mit Gsundheit trinke. Hit därf do inne
 (Alle geben laut ihrer Zustim- mung Ausdruck. Die Zigeuner stimmen die Geigen. Wie Maire einschenken will, treten Hanstiawelt und Mariurs in die Stube.)
 
           
-",sengelin-d-mamsell-elis,72,6,0.0,0.08333333333333333
+",96,sengelin-d-mamsell-elis,72,6,0.0,0.08333333333333333
 579,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5747,7 +5747,7 @@ Maire:
 Sal nit, alter Frind, ebbis luschtigers, Hochzit, eder wage mir Verspruch.
 
           
-",sengelin-d-mamsell-elis,12,3,0.0,0.25
+",96,sengelin-d-mamsell-elis,12,3,0.0,0.25
 580,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -5758,7 +5758,7 @@ Hochzit?
  Also hat’s dr Jörg das dür doch ane bracht? Un di Maidle hat also nit dergege?
 
           
-",sengelin-d-mamsell-elis,22,3,0.0,0.13636363636363635
+",96,sengelin-d-mamsell-elis,22,3,0.0,0.13636363636363635
 581,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5772,7 +5772,7 @@ Nei, nei, das war doch e züa unglich Paarle gsi, fir dia in ei Joch z’spanne.
  Un do, därf i dia zwei o vorstelle? Dr Jörg uns Katri, unseri Käche.
 
           
-",sengelin-d-mamsell-elis,70,8,0.13874999999999998,0.11428571428571428
+",96,sengelin-d-mamsell-elis,70,8,0.13874999999999998,0.11428571428571428
 583,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5784,7 +5784,7 @@ Maire:
 Wie wenns ’s erschte Mol war, ass e richer Bür e Magd hirotet! Zeig, Hanstiabelt, wieviel Kröninger Büre han ihre Magd g’hirote? Mehr as e halb Dotzet. Un han se sich nit all güat bettet dermit? Sie han doch Wiwer beku, Schaffere, ke Gstaatepuppe un Zuckerschlackere!
 
           
-",sengelin-d-mamsell-elis,50,1,0.0,0.02
+",97,sengelin-d-mamsell-elis,50,1,0.0,0.02
 584,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -5793,7 +5793,7 @@ Hanstiabelt:
 I ka nit 's Gegeteil behaupte, aber.... nei, i bi jo wia vum Himmel gfalle!
 
           
-",sengelin-d-mamsell-elis,16,4,0.18375,0.25
+",97,sengelin-d-mamsell-elis,16,4,0.18375,0.25
 585,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5805,7 +5805,7 @@ Maire:
 Nundefutter, wer hat mir hitte morge gsait, ass ich z’ Mittag dat firs Katri dr Brüt- warber mache! Awer ’s isch bigobbhliger eso. Ebis Unrachts geht mer emol nit! Lüag, Hanstiawelt, 's Katri bringt im Jörg ke zeh Jürde Acker uf e Fald, awer ebbis hets doch. I weiss, es het die zeh Johr, wus bi is isch, a nats zammegspart. Un was i sage müass, e schafrigiri un hurtigeri Fraui findet di Jörg nimme. Dia düat em in zeh Johr mehr erhüse, ass e mangi richi Büredochter in d' Eh bringt, wus viel- licht derno wieder dur d' Finger gingle losst.
 
           
-",sengelin-d-mamsell-elis,109,5,0.0,0.045871559633027525
+",97,sengelin-d-mamsell-elis,109,5,0.0,0.045871559633027525
 586,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -5815,7 +5815,7 @@ Härsch Vater, so sag emol „jo“. Lüag ’s Katri un ich wann äich un d' M�
 (Alles hält sich den Bauch vor Lachen, Hanstiabelt und Mariurs inbegriffen.)
 
           
-",sengelin-d-mamsell-elis,38,5,0.0,0.13157894736842105
+",97,sengelin-d-mamsell-elis,38,5,0.0,0.13157894736842105
 587,comedy,Katri,F,,,,"
             
 Katri:
@@ -5824,7 +5824,7 @@ Katri:
 alle Fritig dat i Pflüte mache, e ganzi Wanne voll!
 
           
-",sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
+",97,sengelin-d-mamsell-elis,11,3,0.0,0.2727272727272727
 588,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -5836,7 +5836,7 @@ Hanstiabelt:
 streckt beschwörend die Hände aus: Um Gotteswille, ich heiss nit Jörg, liawer trocke Brot!
 
           
-",sengelin-d-mamsell-elis,20,2,0.0,0.1
+",98,sengelin-d-mamsell-elis,20,2,0.0,0.1
 589,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5848,7 +5848,7 @@ Maire:
 Do härsch, Hans- tiawelt, wia güat ass düs bekunnsch uf dine alte Tage.
 
           
-",sengelin-d-mamsell-elis,21,4,0.0,0.19047619047619047
+",98,sengelin-d-mamsell-elis,21,4,0.0,0.19047619047619047
 590,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -5860,7 +5860,7 @@ Hanstiabelt:
 Was meinsch, Müater, es wird is am And nit iwrig bliwe, ass dane zwei der Sage z’ gah ?
 
           
-",sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
+",98,sengelin-d-mamsell-elis,23,2,0.0,0.08695652173913043
 591,comedy,Mariurs,F,,,,"
             
 Mariurs:
@@ -5869,7 +5869,7 @@ Mariurs:
 Ich bi scho lang iverstande. Ich glauib em Maier. Dam Maidle seht mers a, ass es ka Fülanzere isch. So e Hilf kenne mine alte Bei güat brüche. ―63―
 
           
-",sengelin-d-mamsell-elis,32,7,0.08257142857142856,0.21875
+",98,sengelin-d-mamsell-elis,32,7,0.08257142857142856,0.21875
 592,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -5879,7 +5879,7 @@ E so mira denn, Jörg, so nimm di Katri.
 (Alle klatschen dröhnend Beifall.)
 
           
-",sengelin-d-mamsell-elis,16,2,0.0,0.125
+",98,sengelin-d-mamsell-elis,16,2,0.0,0.125
 593,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -5890,7 +5890,7 @@ Jörg:
  
 
           
-",sengelin-d-mamsell-elis,35,4,0.16428093763347626,0.11428571428571428
+",98,sengelin-d-mamsell-elis,35,4,0.16428093763347626,0.11428571428571428
 594,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5903,7 +5903,7 @@ Un jetzt hewet ech an de Gleser! Allez, dir Schnurrante, griffet o züa! Jetzt l
 (Alle haben um den grossen Tisch einen Kreis gebildet und singen nun dreimal: Sie leben hoch... und stossen während dessen miteinander lachend an.)
 
           
-",sengelin-d-mamsell-elis,61,10,0.18119999999999997,0.16393442622950818
+",99,sengelin-d-mamsell-elis,61,10,0.18119999999999997,0.16393442622950818
 595,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5915,7 +5915,7 @@ Awer jetz wird eis gwalzt! Allez, Amerei, heb di am Tisch.
 (Die Zigeuner spielen lustige Weisen. Die drei Paare drehen sich nach Temperament. Jörg jauchzt dazwischen. Maire und Mariurs, Hanstiabelt und Amerei drehen sich eine Weile mit.)
 
           
-",sengelin-d-mamsell-elis,48,3,0.0,0.0625
+",99,sengelin-d-mamsell-elis,48,3,0.0,0.0625
 596,comedy,Dacki,U,,,,"
             
 Wacker:
@@ -5929,7 +5929,7 @@ So, jetz e extra Gross- vaterwalzerle fir unsere züakinftige Grosspapa un Gross
 .
 
           
-",sengelin-d-mamsell-elis,26,4,0.28913970479866186,0.15384615384615385
+",99,sengelin-d-mamsell-elis,26,4,0.28913970479866186,0.15384615384615385
 597,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5941,7 +5941,7 @@ Maire:
 Mer merkt wohl, ass mer nimm conscrit sin.
 
           
-",sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
+",99,sengelin-d-mamsell-elis,13,1,0.0,0.07692307692307693
 598,comedy,Geissa,F,,,,"
             
 Geisha:
@@ -5954,7 +5954,7 @@ Du wirst begommen viel Kind.
 (Alles lacht.)
 
           
-",sengelin-d-mamsell-elis,30,2,0.0,0.06666666666666667
+",99,sengelin-d-mamsell-elis,30,2,0.0,0.06666666666666667
 599,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5964,7 +5964,7 @@ Dr Herr Wacker miasst scho üs dr Art schla. Das tian doch d' Lehrer nit andersc
 (Schallendes Gelächter.)
 
           
-",sengelin-d-mamsell-elis,21,4,0.03525,0.19047619047619047
+",99,sengelin-d-mamsell-elis,21,4,0.03525,0.19047619047619047
 600,comedy,Geissa,F,,,,"
             
 Geisha:
@@ -5978,7 +5978,7 @@ Un du wirst hab drei gross vornehm Sönn. Ein wird sein Schandarm. bös Find vo 
  Un e Dochter wirst begomm, heirat reich Notari.
 
           
-",sengelin-d-mamsell-elis,33,10,0.20197940536311992,0.30303030303030304
+",100,sengelin-d-mamsell-elis,33,10,0.20197940536311992,0.30303030303030304
 601,comedy,Maire vu Schöndorf,M,,,,"
             
 Maire:
@@ -5990,7 +5990,7 @@ Maire:
 Hesch ghert, Alti, dr Notari kunnt doch no in d' Familie.
 
           
-",sengelin-d-mamsell-elis,17,3,0.0,0.17647058823529413
+",100,sengelin-d-mamsell-elis,17,3,0.0,0.17647058823529413
 602,comedy,Amerei,F,,,,"
             
 Amerei:
@@ -6002,7 +6002,7 @@ Amerei:
 Han is nit allewil gsait?
 
           
-",sengelin-d-mamsell-elis,9,2,0.0,0.2222222222222222
+",100,sengelin-d-mamsell-elis,9,2,0.0,0.2222222222222222
 603,comedy,Geissa,F,,,,"
             
 Geisha:
@@ -6015,7 +6015,7 @@ D’ Madam wird nur hab ei Sun, awer sein viel gscheit, gross gscheit.
 (Lachen.)
 
           
-",sengelin-d-mamsell-elis,21,6,0.09125980319910791,0.2857142857142857
+",100,sengelin-d-mamsell-elis,21,6,0.09125980319910791,0.2857142857142857
 604,comedy,Hanstiabelt,M,,,,"
             
 Hanstiabelt:
@@ -6025,7 +6025,7 @@ Er miasst bigott nit der Eltere noschla.
 (Neues Lachen.)
 
           
-",sengelin-d-mamsell-elis,12,3,0.09366666666666668,0.25
+",100,sengelin-d-mamsell-elis,12,3,0.09366666666666668,0.25
 605,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -6037,7 +6037,7 @@ Jörg:
 Am And no gscheiter as si Vater?
 
           
-",sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
+",100,sengelin-d-mamsell-elis,13,2,0.0,0.15384615384615385
 606,comedy,Geissa,F,,,,"
             
 Geisha:
@@ -6049,7 +6049,7 @@ Geisha:
 Wohl, wohl!
 
           
-",sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
+",101,sengelin-d-mamsell-elis,7,2,0.0,0.2857142857142857
 607,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -6062,7 +6062,7 @@ Galet, Vater, so e Sun han dir ken ka!
 (Schallende Heiterkeit.)
 
           
-",sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
+",101,sengelin-d-mamsell-elis,18,3,0.0,0.16666666666666666
 608,comedy,Jörg,M,,,,"
             
 Jörg:
@@ -6072,7 +6072,7 @@ Was lachet dir, dir Doddel? Allez, Müsikante, giget is no ein, do isch e Taler!
 (Tanz wie anfangs. Jörg schwenkt Katri jauch- zend in der Luft. Dann phantastischer Fandango der Zigeunerburschen und Dirnen. Jörg und Katri ahmen das komisch nach.)
 
           
-",sengelin-d-mamsell-elis,44,4,0.0665,0.09090909090909091
+",101,sengelin-d-mamsell-elis,44,4,0.0665,0.09090909090909091
 609,comedy,Elis,F,,,,"
             
 Elis:
@@ -6084,7 +6084,7 @@ Elis:
 Wu Schick un Esprit sich üniare
 
           
-",sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
+",101,sengelin-d-mamsell-elis,14,1,0.0,0.07142857142857142
 610,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -6093,7 +6093,7 @@ Schaber:
 Do wird gwiss ’s Labe interessant. Elise: Wenn mir un d' Klient conversiare,
 
           
-",sengelin-d-mamsell-elis,14,2,0.0,0.14285714285714285
+",101,sengelin-d-mamsell-elis,14,2,0.0,0.14285714285714285
 611,comedy,Schaber,M,,,,"
             
 Schaber:
@@ -6108,4 +6108,4 @@ Do heisst’s bi all: ’s isch epatant.
 ENDE
 
           
-",sengelin-d-mamsell-elis,19,3,0.09366666666666668,0.15789473684210525
+",101,sengelin-d-mamsell-elis,19,3,0.09366666666666668,0.15789473684210525

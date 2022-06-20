@@ -10,17 +10,27 @@ def plot_emotion(file_paths, emotion_list, filters):
         if (filters != []):
             my_hue = df[filters].apply(tuple, axis=1)
         emotion_label = emotion_list[i]
+
+        '''num_rows = df.shape[0]
+        x_ticks = []
+        if (num_rows > 300): # S'il y a pas mal de tournes de paroles
+            step = num_rows // 100
+            x_ticks = [index for index in range(0, num_rows, step)]'''
     #df = df.query("speaker == 'Ne Pierrot'")
         if (filters and emotion_list):
-            graph = sb.lineplot(y="avgLexVal", x="Unnamed: 0", data=df, hue = my_hue)
+            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, hue = my_hue, err_style = None)
             graph.set_ylim(0,1)
+            '''if (x_ticks):
+                graph.set_xticks(x_ticks)'''
             graph.set_xlabel("progress of drama")
             graph.set_ylabel(emotion_label)
             plt.show()
         else:
-            graph = sb.lineplot(y="avgLexVal", x="Unnamed: 0", data=df, label = emotion_label)
+            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, label = emotion_label, err_style = None)
     graph.set_ylim(0,1)
     graph.set_xlabel("progress of drama")
+    '''if (x_ticks):
+        graph.set_xticks(x_ticks)'''
     graph.set_ylabel("emotion level")
     plt.show()
 
@@ -40,7 +50,14 @@ def get_moyennes():
                     if (drama_type == False):
                         piece_moyen.append(df["drama_type"].values[0])
                         drama_type = True
-                    piece_moyen.append(df["avgLexVal"].mean())
+                    # get first 10% largest values, and then their mean
+                    num_rows = df.shape[0]
+                    if (num_rows // 10 == 0):
+                        num_largest_coeffs = 1
+                    else:
+                        num_largest_coeffs = num_rows // 10
+                    df_largest = df.nlargest(num_largest_coeffs, "avgLexVal")
+                    piece_moyen.append(df_largest["avgLexVal"].mean())
             all_moyen.append(piece_moyen)
             piece_moyen = []
     return all_moyen
@@ -87,17 +104,37 @@ def more_pieces():
         handle = sys.argv[2]     
         if (handle == "--emotion"):
             emotion = sys.argv[3]
+            emotion = emotion.split(",")
+            print(emotion)
             if (len(sys.argv) == 4):
-                graph = sb.barplot(data = df, x = "shortName", y = emotion, hue="drama_type")
-                graph.set_ylim(0,1)
-                plt.show()
-            else:
+                if (len(emotion) == 1):
+                    graph = sb.barplot(data = df, x = "shortName", y = emotion[0], hue="drama_type")
+                    graph.set_ylim(0,1)
+                    plt.show()
+                elif (len(emotion) == 2):
+                    graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="drama_type")
+                    graph.set_ylim(0,1)
+                    graph.set_xlim(0,1)
+                    plt.show()
+                else:
+                    print("Can only compare two emotions\n")
+                    sys.exit(1)
+            else: # emotion + drama type
                 drama_type = sys.argv[4]
                 query = "drama_type == '" + drama_type + "'"
                 df = df.query(query)
-                graph = sb.barplot(data = df, x = "shortName", y = emotion, hue="drama_type")
-                graph.set_ylim(0,1)
-                plt.show()
+                if (len(emotion) == 1):
+                    graph = sb.barplot(data = df, x = "shortName", y = emotion[0], hue="drama_type")
+                    graph.set_ylim(0,1)
+                    plt.show()
+                elif (len(emotion) == 2):
+                    graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="drama_type")
+                    graph.set_ylim(0,1)
+                    graph.set_xlim(0,1)
+                    plt.show()
+                else:
+                    print("Can only compare two emotions\n")
+                    sys.exit(1)
         elif(handle == "--shortName"):
             shortName = sys.argv[3]
             query = "shortName == '" + shortName + "'"
@@ -106,15 +143,17 @@ def more_pieces():
             graph.set_title(shortName)
             plt.show()
     elif (len(sys.argv) == 2): # sans argument, plot tous
-        graph = sb.barplot(data = df)
+        graph = sb.scatterplot(data = df)
+        graph.set_ylabel("emotion_coeffs")
         graph.set_ylim(0,1)
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]
         query = "drama_type == '" + drama_type + "'"
         df = df.query(query)
-        graph = sb.barplot(data = df)
+        graph = sb.scatterplot(data = df)
         graph.set_ylim(0,1)
+        graph.set_ylabel("emotion_coeffs")
         graph.set_title(drama_type)
         plt.show()
     else:
@@ -127,4 +166,5 @@ if __name__ == "__main__":
         single_piece()
     elif(sys.argv[1] == "group"):
         more_pieces()
-    #df = df.query("shortName == 'am-letzte-maskebal' or shortName == 'arnold-der-pfingstmontag'")
+    # df = df.query("shortName == 'am-letzte-maskebal' or shortName == 'arnold-der-pfingstmontag'")
+    # group_info()

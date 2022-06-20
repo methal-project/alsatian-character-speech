@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -9,7 +9,7 @@ Das isch nit schlacht, sing ich do s’schenschta Maialied un mr han doch hit er
 , es isch jo glich drei un se han mr versproche fir racht friahi z’ku. Wenn nur d’Tante Florentine nit so schlacht glünt war. Das wird noch ebbs absetze. Ja, wenn i mini Frindinna nit schu alli iglada hat vor acht Tag, so war üs dam Teekranzla nit wora. Rißt is net vorgescht Knall un Fall unseri Kecha üs. Das isch d’zweite g’si sitter Neijohr. Hoffentlig git’s bol Ersatz, denn die menus, wu mini chère tante* sitter combiniert het, brrr.
 
           
-",weigel-in-dr-awril-gschickt,158,17,0.6141421112617913,0.10759493670886076
+",0,weigel-in-dr-awril-gschickt,158,17,0.6141421112617913,0.10759493670886076
 1,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -18,7 +18,7 @@ Suzanne:
 Aha, do kumme se alla mitnander.
 
           
-",weigel-in-dr-awril-gschickt,7,2,0.42540629549085623,0.2857142857142857
+",1,weigel-in-dr-awril-gschickt,7,2,0.42540629549085623,0.2857142857142857
 2,comedy,Mlle Florentine Blind,F,,,,"
             
 Freundinnen:
@@ -30,7 +30,7 @@ Freundinnen:
 Bonjour Suzanne, salut Suzi, bonjour ma chère etc.
 
           
-",weigel-in-dr-awril-gschickt,13,1,0.802,0.07692307692307693
+",2,weigel-in-dr-awril-gschickt,13,1,0.802,0.07692307692307693
 3,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -42,7 +42,7 @@ Bonjour Kinder
 (Alle setzen sich.)
 
           
-",weigel-in-dr-awril-gschickt,24,6,0.4506194481144307,0.25
+",3,weigel-in-dr-awril-gschickt,24,6,0.4506194481144307,0.25
 4,comedy,Jeanne,F,,,,"
             
 Jeanne:
@@ -51,7 +51,7 @@ Jeanne:
 Mr han anander rendez-vous gah, fir unser Izug mitnander z’fiera und do hatt’s halt a Will ge- dürt, bis alli présentes g’si sin. S’Juliette isch natier- lig weder s’letschta gsi, wie immer.
 
           
-",weigel-in-dr-awril-gschickt,39,4,0.4861407535203583,0.10256410256410256
+",4,weigel-in-dr-awril-gschickt,39,4,0.4861407535203583,0.10256410256410256
 5,comedy,Irène,F,,,,"
             
 Irène:
@@ -60,7 +60,7 @@ Irène:
 As meint, es isch a Todsind, wenn as uf uns warte müeß, ich bin ganz sicher, as kunt o a mol z’spot fir in dr Himmel.
 
           
-",weigel-in-dr-awril-gschickt,28,7,0.46111742534252836,0.25
+",5,weigel-in-dr-awril-gschickt,28,7,0.46111742534252836,0.25
 6,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -69,7 +69,7 @@ Juliette:
 Han nur ke so groß Mül, so g’fahrlig isch’s nit; un iwerhäupt in dr Bibel steht’s jo: die letzten werden die ersten sein. Das isch m i Troscht, hoffentlig geht's mir o so.
 
           
-",weigel-in-dr-awril-gschickt,37,3,0.3753518342205102,0.08108108108108109
+",6,weigel-in-dr-awril-gschickt,37,3,0.3753518342205102,0.08108108108108109
 8,comedy,Lucie,F,,,,"
             
 Luzie:
@@ -78,7 +78,7 @@ Luzie:
 Ja, ja, ich han’s o gedankt.
 
           
-",weigel-in-dr-awril-gschickt,8,2,0.6402102505617395,0.25
+",8,weigel-in-dr-awril-gschickt,8,2,0.6402102505617395,0.25
 9,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -87,7 +87,7 @@ Suzanne:
 O jeh, sinn mr nur still, ich han schu ebbes mitg’macht, mr han schu zwe Tag ke Kecha me.
 
           
-",weigel-in-dr-awril-gschickt,20,1,0.2204693930016622,0.05
+",9,weigel-in-dr-awril-gschickt,20,1,0.2204693930016622,0.05
 10,comedy,Jeanne,F,,,,"
             
 Jeanne:
@@ -96,7 +96,7 @@ Jeanne:
 Ja, kat denn eira femme de chambre nit üshalfa?
 
           
-",weigel-in-dr-awril-gschickt,10,1,0.6402102505617395,0.1
+",10,weigel-in-dr-awril-gschickt,10,1,0.6402102505617395,0.1
 11,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -106,7 +106,7 @@ Jo die Gans, s’hat jo ke Ahnung vu dr Koch- kunscht, das weiß nit amol, wenn 
 (Lachen.)
 
           
-",weigel-in-dr-awril-gschickt,69,9,0.4902407843370682,0.13043478260869565
+",11,weigel-in-dr-awril-gschickt,69,9,0.4902407843370682,0.13043478260869565
 13,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -115,7 +115,7 @@ Suzanne:
 Nei, mini chère tante kocht salwer un d’Mam- selle Amélie müeß re halfa. Mich will si nit in dr Kucha ha, si seit ich seig z’schtrutlig,
 
           
-",weigel-in-dr-awril-gschickt,30,2,0.41929821277995283,0.06666666666666667
+",13,weigel-in-dr-awril-gschickt,30,2,0.41929821277995283,0.06666666666666667
 14,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -124,7 +124,7 @@ Juliette:
 Ja kat dini tante denn koche?
 
           
-",weigel-in-dr-awril-gschickt,7,2,0.6621051252808698,0.2857142857142857
+",14,weigel-in-dr-awril-gschickt,7,2,0.6621051252808698,0.2857142857142857
 15,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -133,7 +133,7 @@ Suzanne:
 Un ebb. Si lest alles üs’m Kochbüech. Meine gescht z’Mittag isch re ein passiert. D’Mamselle Amelie hat re schient alles mieße rischta, wie’s im
 
           
-",weigel-in-dr-awril-gschickt,29,3,0.5593186026423415,0.10344827586206896
+",15,weigel-in-dr-awril-gschickt,29,3,0.5593186026423415,0.10344827586206896
 16,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -142,7 +142,7 @@ Lucie:
 Das isch güet, das g’hert in d’Zittung.
 
           
-",weigel-in-dr-awril-gschickt,9,1,0.4974327231143904,0.1111111111111111
+",16,weigel-in-dr-awril-gschickt,9,1,0.4974327231143904,0.1111111111111111
 18,comedy,Marthe,F,,,,"
             
 Marthe:
@@ -151,7 +151,7 @@ Marthe:
 Schad aß es nit hit am 1. Awril passiert isch.
 
           
-",weigel-in-dr-awril-gschickt,11,1,0.7645264208470598,0.09090909090909091
+",18,weigel-in-dr-awril-gschickt,11,1,0.7645264208470598,0.09090909090909091
 19,comedy,Irène,F,,,,"
             
 Irène :
@@ -163,7 +163,7 @@ Irène :
 Ja han ihr noch ke andre Kecha in Uessicht ?
 
           
-",weigel-in-dr-awril-gschickt,14,2,0.5151782146533228,0.14285714285714285
+",19,weigel-in-dr-awril-gschickt,14,2,0.5151782146533228,0.14285714285714285
 21,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -172,7 +172,7 @@ Lucie:
 Kinder, ihr wisse was hit fir a Tag isch, hit mien mr unbedingt in ebbrem a Streich spiela, denn ohne das gett’s bi uns ke 1. Awril.
 
           
-",weigel-in-dr-awril-gschickt,29,3,0.6246034158872728,0.10344827586206896
+",21,weigel-in-dr-awril-gschickt,29,3,0.6246034158872728,0.10344827586206896
 22,comedy,Irène,F,,,,"
             
 Irène:
@@ -181,7 +181,7 @@ Irène:
 Awer sicher, ich mach schu mit, dü doch o, Ju- liette ?
 
           
-",weigel-in-dr-awril-gschickt,13,2,0.5133920339191047,0.15384615384615385
+",22,weigel-in-dr-awril-gschickt,13,2,0.5133920339191047,0.15384615384615385
 23,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -190,7 +190,7 @@ Juliette:
 Salbschtverstandlig, fir so ebbis bin i nie s’letschte.
 
           
-",weigel-in-dr-awril-gschickt,10,1,0.7088646669245691,0.1
+",23,weigel-in-dr-awril-gschickt,10,1,0.7088646669245691,0.1
 24,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -199,7 +199,7 @@ Suzanne:
 Uf wer han ihr’s abg’sah ?
 
           
-",weigel-in-dr-awril-gschickt,7,1,0.441,0.14285714285714285
+",24,weigel-in-dr-awril-gschickt,7,1,0.441,0.14285714285714285
 26,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -208,7 +208,7 @@ Suzanne:
 Jo, do hat’s ke charme, sich mit dr personi- fizierte Dummheit z’amüsiere.
 
           
-",weigel-in-dr-awril-gschickt,16,2,0.549761192275265,0.125
+",26,weigel-in-dr-awril-gschickt,16,2,0.549761192275265,0.125
 28,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -217,7 +217,7 @@ Lucie:
 Nei, nei, das git’s nit, do mach ich nit mit. Ich han namlig a faible fir d’Mamselle Amélie. Se isch immer so lieb, hat a Himmelsgeduld für d’Lüna vu ihrer Patronne, in eim Wort, se isch a Engel. In dr Awril g'schickt 3
 
           
-",weigel-in-dr-awril-gschickt,47,6,0.5171410290923063,0.1276595744680851
+",28,weigel-in-dr-awril-gschickt,47,6,0.5171410290923063,0.1276595744680851
 29,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -226,7 +226,7 @@ Suzanne:
 Ja, um s’Himmels Wille, wer wan ihr denn in dr Awril schicke, doch ebba nit mini Tanta.
 
           
-",weigel-in-dr-awril-gschickt,19,1,0.6402102505617395,0.05263157894736842
+",29,weigel-in-dr-awril-gschickt,19,1,0.6402102505617395,0.05263157894736842
 30,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -235,7 +235,7 @@ Lucie:
 Was war jetz do derbi, wenn mr is a so a un- schuldiger Witz data erläuiwa, schada dat’s re nit, im Gegateil, weisch dü bisch grad o nit uf Rosa betta do.
 
           
-",weigel-in-dr-awril-gschickt,35,5,0.48559938408717346,0.14285714285714285
+",30,weigel-in-dr-awril-gschickt,35,5,0.48559938408717346,0.14285714285714285
 31,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -244,7 +244,7 @@ Suzanne:
 Sal schu, awer nochhar hat ich jo d’Heil, wenn se das dat erfahre.
 
           
-",weigel-in-dr-awril-gschickt,15,2,0.4867013696018039,0.13333333333333333
+",31,weigel-in-dr-awril-gschickt,15,2,0.4867013696018039,0.13333333333333333
 33,comedy,Irène,F,,,,"
             
 Irène:
@@ -253,7 +253,7 @@ Irène:
 Jo, dü bisch nie en peine an Witz.
 
           
-",weigel-in-dr-awril-gschickt,9,1,0.5624288227962848,0.1111111111111111
+",33,weigel-in-dr-awril-gschickt,9,1,0.5624288227962848,0.1111111111111111
 35,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -262,7 +262,7 @@ Lucie:
 Ja, so schnall wird nit gschossa. Kumma nur alle mit ins Gartahisla do dernawa, dert halla mr großer Rot.
 
           
-",weigel-in-dr-awril-gschickt,20,5,0.602901946371133,0.25
+",35,weigel-in-dr-awril-gschickt,20,5,0.602901946371133,0.25
 36,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -271,7 +271,7 @@ Juliette:
 Ja, wenn is awer d’Mamselle Florentine schu g’sah hat?
 
           
-",weigel-in-dr-awril-gschickt,11,1,0.6402102505617395,0.09090909090909091
+",36,weigel-in-dr-awril-gschickt,11,1,0.6402102505617395,0.09090909090909091
 37,comedy,Irène,F,,,,"
             
 Irène:
@@ -280,7 +280,7 @@ Irène:
 Jo dü, g’sah, sie isch jo so kurzsichtig, nit amol wenn sie noch drei Brilla uf d’Nas setzt, g’seht sie a so wit.
 
           
-",weigel-in-dr-awril-gschickt,25,1,0.441,0.04
+",37,weigel-in-dr-awril-gschickt,25,1,0.441,0.04
 38,comedy,Jeanne,F,,,,"
             
 Jeanne :
@@ -292,7 +292,7 @@ Jeanne :
 Un do unta kunt d’Mamselle Amélie, ganz ins Lasa vertieft.
 
           
-",weigel-in-dr-awril-gschickt,20,1,0.426066672788339,0.05
+",38,weigel-in-dr-awril-gschickt,20,1,0.426066672788339,0.05
 40,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -303,7 +303,7 @@ Was, niemeds do, as isch mr doch g’si, wie wenn i ebber hat hera reda.
  S’isch doch trürig, je älter i wird, desto schlachter wird mini
 
           
-",weigel-in-dr-awril-gschickt,32,4,0.5944366364819033,0.125
+",40,weigel-in-dr-awril-gschickt,32,4,0.5944366364819033,0.125
 41,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie:
@@ -315,7 +315,7 @@ Mlle Amélie:
 Oh pardon, mademoiselle, veuillez bien excuser.
 
           
-",weigel-in-dr-awril-gschickt,25,1,0.426066672788339,0.04
+",41,weigel-in-dr-awril-gschickt,25,1,0.426066672788339,0.04
 42,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -324,7 +324,7 @@ Mlle Florentine:
 Mais mademoiselle, sie sott mi nit verschreckt ha, gett se doch a ander Mol besser acht. A propos, hat sie vorig grad so lüt g’red un glacht?
 
           
-",weigel-in-dr-awril-gschickt,29,2,0.5246106706461187,0.06896551724137931
+",42,weigel-in-dr-awril-gschickt,29,2,0.5246106706461187,0.06896551724137931
 43,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie:
@@ -335,7 +335,7 @@ Ich g’lacht un g’red! Awer mademoiselle, was dankt Se denn vu mir, ich kum j
  un bin a so in a fran- zescher Roman vertieft gsi, daß ich se jo schier um- g’rennt han.
 
           
-",weigel-in-dr-awril-gschickt,49,1,0.3954513279714086,0.02040816326530612
+",43,weigel-in-dr-awril-gschickt,49,1,0.3954513279714086,0.02040816326530612
 44,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -346,7 +346,7 @@ Schier, meint se nur. — — — Awer hert Se, Sie müeß hit mittag dana junge
  Das prachtvolle Watter hit, es macht eim weder ganz jung, findet Se nit o mademoiselle?
 
           
-",weigel-in-dr-awril-gschickt,65,8,0.4859195295578115,0.12307692307692308
+",44,weigel-in-dr-awril-gschickt,65,8,0.4859195295578115,0.12307692307692308
 45,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie:
@@ -355,7 +355,7 @@ Mlle Amélie:
 Ich fir mi Teil, ka halt do nit mitreda, mi Alter isch jo grad s’schenschta. Bi Ihra isch das ebbis anderschs, ich ka mr’s labhaft danka...
 
           
-",weigel-in-dr-awril-gschickt,30,7,0.48864861325155245,0.23333333333333334
+",45,weigel-in-dr-awril-gschickt,30,7,0.48864861325155245,0.23333333333333334
 46,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -367,7 +367,7 @@ Elise :
 Pardon, mademoiselle Blind, awer s'isch scha weder eina do, wu sich fir Kecha maldet. Ich han se in dr salon g’fiehrt.
 
           
-",weigel-in-dr-awril-gschickt,29,2,0.4987680908106946,0.06896551724137931
+",46,weigel-in-dr-awril-gschickt,29,2,0.4987680908106946,0.06896551724137931
 47,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -378,7 +378,7 @@ So, das glicht dr weder, dü dumma Gans. Sofort gesch se geh hola un bringsch se
  Un Sie kennt geh lüaga, ob dr patis- sier scha a Sach g’schickt hat, wenn nit, so reklamiert Se am Telephon.
 
           
-",weigel-in-dr-awril-gschickt,47,2,0.528440996885899,0.0425531914893617
+",47,weigel-in-dr-awril-gschickt,47,2,0.528440996885899,0.0425531914893617
 48,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie:
@@ -388,7 +388,7 @@ C'est ça, ich will o glich dr Tisch decka fir die Dame, s’Ellse kat mr no gra
 (Beide ab.)
 
           
-",weigel-in-dr-awril-gschickt,25,5,0.5164322936459181,0.2
+",48,weigel-in-dr-awril-gschickt,25,5,0.5164322936459181,0.2
 49,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -397,7 +397,7 @@ Mlle Florentine:
 Hoffentlig g’fallt mr die, ich bin jo gar nit difficile un verlang o nit unmegligs un doch hall’s keini bi mr üs, i frog mi nur, was do Schuld dra isch. Mr hat’s halt nit licht, wenn mr sich mit so n’re Klasse Lit müeß umaschlaga, wu doch gar nit in mi cadre passa.
 
           
-",weigel-in-dr-awril-gschickt,59,6,0.4356246321775505,0.1016949152542373
+",49,weigel-in-dr-awril-gschickt,59,6,0.4356246321775505,0.1016949152542373
 51,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -410,7 +410,7 @@ S’isch güet, Elise, da kasch geh. Schick di a bitzi un hilf dr Mamselle Amél
 : So, Sie war also die neia Kecha, wu eventuell in Betracht kam. Kunnt Sie doch a bitzi necher, ich g’seh namlig nit ganz güet. Wie heißt Se denn?
 
           
-",weigel-in-dr-awril-gschickt,65,7,0.5298189704179659,0.1076923076923077
+",51,weigel-in-dr-awril-gschickt,65,7,0.5298189704179659,0.1076923076923077
 52,comedy,Sophie,F,,,,"
             
 Sophie :
@@ -422,7 +422,7 @@ Sophie :
 Sophie Meller geb. Schmitt.
 
           
-",weigel-in-dr-awril-gschickt,12,1,0.333,0.08333333333333333
+",52,weigel-in-dr-awril-gschickt,12,1,0.333,0.08333333333333333
 53,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -431,7 +431,7 @@ Mlle Florentine:
 Was, — — ja isch Sie denn g’hirota?
 
           
-",weigel-in-dr-awril-gschickt,10,1,0.6402102505617395,0.1
+",53,weigel-in-dr-awril-gschickt,10,1,0.6402102505617395,0.1
 54,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -440,7 +440,7 @@ Sophie:
 Ich bin’s amol g’si, awer schu sitter 25 Johr bin i Wittfräu.
 
           
-",weigel-in-dr-awril-gschickt,14,1,0.45,0.07142857142857142
+",54,weigel-in-dr-awril-gschickt,14,1,0.45,0.07142857142857142
 55,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -449,7 +449,7 @@ Mlle Florentine:
 Hat Sie ebba Kinder?
 
           
-",weigel-in-dr-awril-gschickt,6,1,0.4730366448298597,0.16666666666666666
+",55,weigel-in-dr-awril-gschickt,6,1,0.4730366448298597,0.16666666666666666
 56,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -458,7 +458,7 @@ Sophie:
 Ich han ein’s ka, s’isch awer ganz klei schu g’storwa.
 
           
-",weigel-in-dr-awril-gschickt,13,1,0.426066672788339,0.07692307692307693
+",56,weigel-in-dr-awril-gschickt,13,1,0.426066672788339,0.07692307692307693
 57,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -467,7 +467,7 @@ Mlle Florentine:
 So, ja kat Sie denn o kocha? Ich mein do dermit nit Suppa, G’mies, Hartepfel usw. Ich mecht wissa, ob se ebbis vu dr fina Kucha versteht, in mim Hüs git’s namlig nur güete Platta.
 
           
-",weigel-in-dr-awril-gschickt,38,6,0.5054746524165906,0.15789473684210525
+",57,weigel-in-dr-awril-gschickt,38,6,0.5054746524165906,0.15789473684210525
 58,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -476,7 +476,7 @@ Sophie:
 Awer sicher, ich bin iwer zwanzig Johr Kecha bin re marquise gsi.
 
           
-",weigel-in-dr-awril-gschickt,13,1,0.38657381727647,0.07692307692307693
+",58,weigel-in-dr-awril-gschickt,13,1,0.38657381727647,0.07692307692307693
 60,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -485,7 +485,7 @@ Sophie:
 Will die marquise, wu Wittfräui gsi isch, g’storwe isch un Kinder het si keini g’ha.
 
           
-",weigel-in-dr-awril-gschickt,16,2,0.46151832241492985,0.125
+",60,weigel-in-dr-awril-gschickt,16,2,0.46151832241492985,0.125
 61,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -496,7 +496,7 @@ Hat Sie ke Zeignis? Sophie
 : Doch, doch, voilà madame!
 
           
-",weigel-in-dr-awril-gschickt,24,2,0.5144890247531647,0.08333333333333333
+",61,weigel-in-dr-awril-gschickt,24,2,0.5144890247531647,0.08333333333333333
 62,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -509,7 +509,7 @@ Pardon, ich bin kei madame,
  Ihre Zeignis isch nit schlacht, wieviel Lohn verlangt Se denn?
 
           
-",weigel-in-dr-awril-gschickt,50,6,0.610566740012002,0.12
+",62,weigel-in-dr-awril-gschickt,50,6,0.610566740012002,0.12
 63,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -518,7 +518,7 @@ Sophie:
 Ich han bi minre letschte Herrschaft 200 Franka g'ha. —
 
           
-",weigel-in-dr-awril-gschickt,11,1,0.6972339352170577,0.09090909090909091
+",63,weigel-in-dr-awril-gschickt,11,1,0.6972339352170577,0.09090909090909091
 64,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -532,7 +532,7 @@ Was, her ich racht?
  Was? 200 Franka? isch das meglig ? Mini dame de compagnie het jo küm mehr.
 
           
-",weigel-in-dr-awril-gschickt,27,4,0.515042259431085,0.14814814814814814
+",64,weigel-in-dr-awril-gschickt,27,4,0.515042259431085,0.14814814814814814
 65,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -541,7 +541,7 @@ Sophie:
 Eh ben, Mamselle, Sie kat jo dr Lohn salbscht b’stimma, mr wara schu einig wara.
 
           
-",weigel-in-dr-awril-gschickt,16,2,0.5139081822646403,0.125
+",65,weigel-in-dr-awril-gschickt,16,2,0.5139081822646403,0.125
 66,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -550,7 +550,7 @@ Mlle Florentine:
 Bis jetz han i noch nie mehr wie 120 Franka bezahlt, un es sin noch immer alli mini Kecha z’friede gsi.
 
           
-",weigel-in-dr-awril-gschickt,24,1,0.2469657944575468,0.041666666666666664
+",66,weigel-in-dr-awril-gschickt,24,1,0.2469657944575468,0.041666666666666664
 67,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -559,7 +559,7 @@ Sophie:
 Nu, so will ich halt mit 120 z’frieda si. Es isch mr mehr um a güete Behandlung z’tüe, als um a großer Lohn un daß i alli Morga in mi Maß ka geh.
 
           
-",weigel-in-dr-awril-gschickt,36,6,0.38579748003821274,0.16666666666666666
+",67,weigel-in-dr-awril-gschickt,36,6,0.38579748003821274,0.16666666666666666
 68,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -568,7 +568,7 @@ Mlle Florentine:
 Was? alla Morga in d’Kircha renna, nei, das geht nit, ich mein alla Wuch a mol, am a Sunntig, isch Ding’s genüe.
 
           
-",weigel-in-dr-awril-gschickt,26,2,0.4336957934834563,0.07692307692307693
+",68,weigel-in-dr-awril-gschickt,26,2,0.4336957934834563,0.07692307692307693
 69,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -577,7 +577,7 @@ Sophie:
 Ich tüe jo dermit nix vu miner Arwet versüme, denn das halwa Stendla, wu ich in dr Kircha bin, spar ich mir am Schlof ab. Lüegt Sie, ich bin das sitter Kind vu d’heim üs g’wehnt un ’s tat mr arg a tüe, wenn i jetz nem kennt geh.
 
           
-",weigel-in-dr-awril-gschickt,51,5,0.4550421100803108,0.09803921568627451
+",69,weigel-in-dr-awril-gschickt,51,5,0.4550421100803108,0.09803921568627451
 70,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -586,7 +586,7 @@ Mlle Florentine:
 Sie schient mr jo a richtiga Bat- schweschter z’si, wu alla Kirchatera irennt.
 
           
-",weigel-in-dr-awril-gschickt,17,1,0.380252573270382,0.058823529411764705
+",70,weigel-in-dr-awril-gschickt,17,1,0.380252573270382,0.058823529411764705
 71,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -595,7 +595,7 @@ Sophie:
 Sie excusiert, mademoiselle, awer a Batschwesch- ter bin i nit un o ke Kopfhangere, awer ohne unser Herrgott kann i halt amol nit fertig ware.
 
           
-",weigel-in-dr-awril-gschickt,27,1,0.4304222742857499,0.037037037037037035
+",71,weigel-in-dr-awril-gschickt,27,1,0.4304222742857499,0.037037037037037035
 72,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -604,7 +604,7 @@ Mlle Florentine:
 Ich merk schu, am Mül fahlt re o nit. Mr meint, sie kunnt mit ihrem Zingla frisch üs dr Schliffmehl. Also Sophie heißt Sie?
 
           
-",weigel-in-dr-awril-gschickt,26,3,0.47795533058970835,0.11538461538461539
+",72,weigel-in-dr-awril-gschickt,26,3,0.47795533058970835,0.11538461538461539
 73,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -613,7 +613,7 @@ Sophie:
 Ja, mademoiselle.
 
           
-",weigel-in-dr-awril-gschickt,3,1,0.6402102505617395,0.3333333333333333
+",73,weigel-in-dr-awril-gschickt,3,1,0.6402102505617395,0.3333333333333333
 74,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -622,7 +622,7 @@ Mlle Florentine:
 Das will mr o nit g’falla, denn da Nama mahnt mi an ebs — — — a souvenir, wu i schu lang vergrawa han un folglig nit immer dra er- innert will si. Sie miaßt vor allem a anderer Nama anah. Zum Biespiel Joséphine oder Eugénie oder Emilie. Do data mr schu noch einig ware drewer. Un a bitzi a andere Kleidung g’sacht i o garn, a wenig moderner, denn es verkehrt bi mir nur d’haute volée, un do halt i dra, daß mine domestiques immer a — —
 
           
-",weigel-in-dr-awril-gschickt,93,5,0.49089688531124925,0.053763440860215055
+",74,weigel-in-dr-awril-gschickt,93,5,0.49089688531124925,0.053763440860215055
 75,comedy,Sophie,F,,,,"
             
 Sophie :
@@ -634,7 +634,7 @@ Sophie :
 Pardon, mademoiselle, mine friahere patronne, wu doch a marquise g’si isch, hat nie ke Anstoß an minre Kleidung un an mim Name g’funda.
 
           
-",weigel-in-dr-awril-gschickt,27,3,0.47224450138675866,0.1111111111111111
+",75,weigel-in-dr-awril-gschickt,27,3,0.47224450138675866,0.1111111111111111
 76,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -648,7 +648,7 @@ Eh bien, madame Sophie,
  no müeßt se halt wider zu so re marquise ins Frankrich.
 
           
-",weigel-in-dr-awril-gschickt,26,4,0.5303490210875509,0.15384615384615385
+",76,weigel-in-dr-awril-gschickt,26,4,0.5303490210875509,0.15384615384615385
 77,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -657,7 +657,7 @@ Sophie:
 Es tüet mir halt sehr leid, ich war züe garn bin re in Stellung ku, waga will mi einzige Schweschter wu ich han, hie verhirote isch un mr hat doch garn ebber in dr Necha, wu mr hie un da kat s’Harz üslara.
 
           
-",weigel-in-dr-awril-gschickt,45,12,0.5608119688256227,0.26666666666666666
+",77,weigel-in-dr-awril-gschickt,45,12,0.5608119688256227,0.26666666666666666
 78,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -669,7 +669,7 @@ Was, o noch das, nei a so ebbs lied ich nit in mim Hüs, mir han fertig mitnande
 (Stolz rechts ab.)
 
           
-",weigel-in-dr-awril-gschickt,86,7,0.4568344239740502,0.08139534883720931
+",78,weigel-in-dr-awril-gschickt,86,7,0.4568344239740502,0.08139534883720931
 79,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -678,7 +678,7 @@ Lucie:
 Andlig, Gott sei Dank, aß se furt isch.
 
           
-",weigel-in-dr-awril-gschickt,9,3,0.4660104111382331,0.3333333333333333
+",79,weigel-in-dr-awril-gschickt,9,3,0.4660104111382331,0.3333333333333333
 80,comedy,Marthe,F,,,,"
             
 Marthe:
@@ -687,7 +687,7 @@ Marthe:
 Ich bin ganz g’stiff, ka mi nem riahre.
 
           
-",weigel-in-dr-awril-gschickt,9,1,0.426066672788339,0.1111111111111111
+",80,weigel-in-dr-awril-gschickt,9,1,0.426066672788339,0.1111111111111111
 81,comedy,Irène,F,,,,"
             
 Irène:
@@ -698,7 +698,7 @@ Hole mr a Wecker, — mir sin d’Bei igschlofa,
  ujeh, ujeh, i halt’s nem üs.
 
           
-",weigel-in-dr-awril-gschickt,25,2,0.4867573674093195,0.08
+",81,weigel-in-dr-awril-gschickt,25,2,0.4867573674093195,0.08
 82,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -707,7 +707,7 @@ Juliette:
 Ich bin schier verplatzt vor lacha.
 
           
-",weigel-in-dr-awril-gschickt,7,1,0.5837032431941391,0.14285714285714285
+",82,weigel-in-dr-awril-gschickt,7,1,0.5837032431941391,0.14285714285714285
 83,comedy,Jeanne,F,,,,"
             
 Jeanne :
@@ -719,7 +719,7 @@ Jeanne :
 Kinder, lüega nur was ich fertig brocht han.
 
           
-",weigel-in-dr-awril-gschickt,15,1,0.4730366448298597,0.06666666666666667
+",83,weigel-in-dr-awril-gschickt,15,1,0.4730366448298597,0.06666666666666667
 84,comedy,Suzanne,F,,,,"
             
 Suzanne :
@@ -731,7 +731,7 @@ Suzanne :
 Nit so lüt Kinder, wenn i’s d’tante Florentine hert. Meine, wenn Se das dat wisse, aß mr do hinta züe g’lost han. Dü liewer Himmel, do gab’s ebbis. Wissen ihr, s’isch doch nit schen gsi vun is, mi Lawa lang mach i das nimi. Die Angscht wu ich üsgstanda han.
 
           
-",weigel-in-dr-awril-gschickt,62,10,0.5668926317553773,0.16129032258064516
+",84,weigel-in-dr-awril-gschickt,62,10,0.5668926317553773,0.16129032258064516
 85,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -740,7 +740,7 @@ Lucie:
 Jo dü Hasafüeß, scham di, fir was denn Angscht z’ha, mr han jo nur üs Notwehr so g’handelt.
 
           
-",weigel-in-dr-awril-gschickt,20,2,0.7263758835094073,0.1
+",85,weigel-in-dr-awril-gschickt,20,2,0.7263758835094073,0.1
 87,comedy,Marthe,F,,,,"
             
 Marthe:
@@ -749,7 +749,7 @@ Marthe:
 Keschtlig isch’s doch gsi, a so ebbs han i noch nie erlabt.
 
           
-",weigel-in-dr-awril-gschickt,14,1,0.6398218879917469,0.07142857142857142
+",87,weigel-in-dr-awril-gschickt,14,1,0.6398218879917469,0.07142857142857142
 88,comedy,Jeanne,F,,,,"
             
 Jeanne:
@@ -758,7 +758,7 @@ Jeanne:
 Ich bin schier umg’falla vor Lacha, wo se n'is so schen ihr Alter g’sait hat.
 
           
-",weigel-in-dr-awril-gschickt,17,3,0.4354254886032291,0.17647058823529413
+",88,weigel-in-dr-awril-gschickt,17,3,0.4354254886032291,0.17647058823529413
 89,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -767,7 +767,7 @@ Juliette:
 Grad wie wenn mr das nit schu lang g’wißt hatta.
 
           
-",weigel-in-dr-awril-gschickt,11,2,0.42059007890111777,0.18181818181818182
+",89,weigel-in-dr-awril-gschickt,11,2,0.42059007890111777,0.18181818181818182
 91,comedy,Irène,F,,,,"
             
 Irène :
@@ -779,7 +779,7 @@ Irène :
 Kinder, mir kunt a Idee, a famosa Idee. Ich spring g’schwind furt, dr Mamselle Florentine a G’schank geh käuifa.
 
           
-",weigel-in-dr-awril-gschickt,29,2,0.6140183224149299,0.06896551724137931
+",91,weigel-in-dr-awril-gschickt,29,2,0.6140183224149299,0.06896551724137931
 93,comedy,Irène,F,,,,"
             
 Irène :
@@ -791,7 +791,7 @@ Irène :
 Grand secret, mes- demoiselles.
 
           
-",weigel-in-dr-awril-gschickt,14,1,0.3939913356554207,0.07142857142857142
+",93,weigel-in-dr-awril-gschickt,14,1,0.3939913356554207,0.07142857142857142
 94,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -800,7 +800,7 @@ Suzanne:
 Ums Himmels Wille Irène blib do, mach’s nit; as isch iwerhäuipt Zitt zum Tee.
 
           
-",weigel-in-dr-awril-gschickt,16,1,0.3075056509901578,0.0625
+",94,weigel-in-dr-awril-gschickt,16,1,0.3075056509901578,0.0625
 95,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -809,7 +809,7 @@ Lucie:
 Ja, ja, her nur, was mir in dr Sinn ku isch waga mim Awrilscharz.
 
           
-",weigel-in-dr-awril-gschickt,15,3,0.5683888064389508,0.2
+",95,weigel-in-dr-awril-gschickt,15,3,0.5683888064389508,0.2
 96,comedy,Irène,F,,,,"
             
 Irène:
@@ -819,7 +819,7 @@ Ich bin gli z’ruck, ihr kenne mir’s nochher am Tisch saga.
 (Rechts ab.)
 
           
-",weigel-in-dr-awril-gschickt,18,1,0.7486041358863109,0.05555555555555555
+",96,weigel-in-dr-awril-gschickt,18,1,0.7486041358863109,0.05555555555555555
 97,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -828,7 +828,7 @@ Juliette:
 Ich han a Wüet uf dina Tanta, Suzi, daß Se die Fräui Sophie a so abkanzelt hat. Un sie nennt sich nit difficile.
 
           
-",weigel-in-dr-awril-gschickt,24,2,0.6441806629116288,0.08333333333333333
+",97,weigel-in-dr-awril-gschickt,24,2,0.6441806629116288,0.08333333333333333
 98,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -837,7 +837,7 @@ Lucie:
 Nur still Kinder, ich garantier eich, daß d’Mamselle Florentine vor ebbs Nacht isch, d’Sophie als Kecha engagiert hat.
 
           
-",weigel-in-dr-awril-gschickt,21,4,0.4543511231012741,0.19047619047619047
+",98,weigel-in-dr-awril-gschickt,21,4,0.4543511231012741,0.19047619047619047
 100,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -846,7 +846,7 @@ Lucie:
 Ja, das isch mini ingeniose Idee.
 
           
-",weigel-in-dr-awril-gschickt,7,1,0.6402102505617395,0.14285714285714285
+",100,weigel-in-dr-awril-gschickt,7,1,0.6402102505617395,0.14285714285714285
 102,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -857,7 +857,7 @@ Was kenn ich se nit? Han ihr a Ahnung! Ihre Schweschter, wu hie wohnt, das isch 
  Awer dir z’liab, Süzi, setz i alles in Bewegung, ich garantier eich, morna kocht d’Sophie.
 
           
-",weigel-in-dr-awril-gschickt,95,13,0.5939027959953923,0.1368421052631579
+",102,weigel-in-dr-awril-gschickt,95,13,0.5939027959953923,0.1368421052631579
 104,comedy,Suzanne,F,,,,"
             
 Suzanne :
@@ -869,7 +869,7 @@ Suzanne :
 Ja, sag mr nur was de im Schild fiehrsch. Ihr han alli güet lacha, awer ich müeß nochher dr Buckel anahewa.
 
           
-",weigel-in-dr-awril-gschickt,26,4,0.5494874316991338,0.15384615384615385
+",104,weigel-in-dr-awril-gschickt,26,4,0.5494874316991338,0.15384615384615385
 105,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -878,7 +878,7 @@ Lucie:
 Hasch nur ke Angscht, das wird ganz harmlos, awer ihr mien mr alla derbi halfa un d’Mamselle Amelie un s’Elise ware o in s’G’heimnis ig’weiht.
 
           
-",weigel-in-dr-awril-gschickt,29,4,0.5380085848047564,0.13793103448275862
+",105,weigel-in-dr-awril-gschickt,29,4,0.5380085848047564,0.13793103448275862
 106,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -887,7 +887,7 @@ Juliette:
 Jetz isch’s üs mit minre Geduld, schieß mol los un verrot is di Faldzugsplan.
 
           
-",weigel-in-dr-awril-gschickt,16,3,0.7498139315686824,0.1875
+",106,weigel-in-dr-awril-gschickt,16,3,0.7498139315686824,0.1875
 107,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -896,7 +896,7 @@ Lucie:
 Also hera. Noch’m Tee tien mr uns alla als Kecha verkleida un stelle uns dr Mamselle Florentine vor. Mr stelle re awer Bedingunge, daß sie-n-is alle zum Kückück schickt un ihr wara g’sah, daß se hit noch d’Sophie auf de Knie bittet, fir züen re als Kecha z'ku. —
 
           
-",weigel-in-dr-awril-gschickt,55,5,0.5015847854312152,0.09090909090909091
+",107,weigel-in-dr-awril-gschickt,55,5,0.5015847854312152,0.09090909090909091
 108,comedy,Jeanne,F,,,,"
             
 Jeanne:
@@ -905,7 +905,7 @@ Jeanne:
 Sag die Idee isch einzig großartig.
 
           
-",weigel-in-dr-awril-gschickt,7,2,0.5639837926554054,0.2857142857142857
+",108,weigel-in-dr-awril-gschickt,7,2,0.5639837926554054,0.2857142857142857
 109,comedy,Marthe,F,,,,"
             
 Marthe:
@@ -914,7 +914,7 @@ Marthe:
 A epatanter Witz.
 
           
-",weigel-in-dr-awril-gschickt,4,1,0.5624288227962848,0.25
+",109,weigel-in-dr-awril-gschickt,4,1,0.5624288227962848,0.25
 110,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -923,7 +923,7 @@ Juliette:
 Das isch herrlig, ich mach mit, awer — —
 
           
-",weigel-in-dr-awril-gschickt,10,1,0.6638618669647519,0.1
+",110,weigel-in-dr-awril-gschickt,10,1,0.6638618669647519,0.1
 111,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -932,7 +932,7 @@ Suzanne:
 Ja, awer, awer, wenn d’Tanta derhinter kunnt, was no, hein?
 
           
-",weigel-in-dr-awril-gschickt,12,1,0.6402102505617395,0.08333333333333333
+",111,weigel-in-dr-awril-gschickt,12,1,0.6402102505617395,0.08333333333333333
 112,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -941,7 +941,7 @@ Lucie:
 Bekimmer di doch nit um ung’legte Eier, ich nim s'ganza Risiko uf mich, ich wir schu fertig mit dinre Tanta.
 
           
-",weigel-in-dr-awril-gschickt,22,3,0.5610222242627797,0.13636363636363635
+",112,weigel-in-dr-awril-gschickt,22,3,0.5610222242627797,0.13636363636363635
 113,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -953,7 +953,7 @@ Elise :
 Die Mamsella mechta so güet si un inna kumma, dr Tee isch g’serviert.
 
           
-",weigel-in-dr-awril-gschickt,19,2,0.461089320653882,0.10526315789473684
+",113,weigel-in-dr-awril-gschickt,19,2,0.461089320653882,0.10526315789473684
 114,comedy,Irène,F,,,,"
             
 Irène :
@@ -965,7 +965,7 @@ Irène :
 So, do war i weder, ich kumm gläuib grad racht.
 
           
-",weigel-in-dr-awril-gschickt,16,4,0.39680473697583496,0.25
+",114,weigel-in-dr-awril-gschickt,16,4,0.39680473697583496,0.25
 116,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise:
@@ -975,7 +975,7 @@ Ja, ja, Mamselle, un s’git noch ebbis fins derzüe.
 (Ab.)
 
           
-",weigel-in-dr-awril-gschickt,14,2,0.6402102505617395,0.14285714285714285
+",116,weigel-in-dr-awril-gschickt,14,2,0.6402102505617395,0.14285714285714285
 117,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -985,7 +985,7 @@ Eh bien, so wan mr denn. Ich bin g’spanna wie a nasser parapluie, wie nochher 
 (Ab.)
 
           
-",weigel-in-dr-awril-gschickt,22,2,0.6152996242716263,0.09090909090909091
+",117,weigel-in-dr-awril-gschickt,22,2,0.6152996242716263,0.09090909090909091
 118,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -997,7 +997,7 @@ Kumm Irène, ich müeß dr noch instruction gah, daß de B’scheid weisch.
 (Rideau.)
 
           
-",weigel-in-dr-awril-gschickt,20,2,0.40197765913807426,0.1
+",118,weigel-in-dr-awril-gschickt,20,2,0.40197765913807426,0.1
 119,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1011,7 +1011,7 @@ S’isch mr tatsachlig verleide, jetz müeß i weder nodanka, was i hit will z�
  Hat i am End nit doch d’letschta sotta b’halta? — — Awer nei, was dankt denn mi Harz, sa o ne Person. Nei, liawer abwarte, s’'maldet sich viellicht noch eine oder d’andere.
 
           
-",weigel-in-dr-awril-gschickt,106,9,0.45169266157615773,0.08490566037735849
+",119,weigel-in-dr-awril-gschickt,106,9,0.45169266157615773,0.08490566037735849
 120,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -1023,7 +1023,7 @@ Elise :
 Mademoiselle, grad hat a portefaix das Pakla fir Sie abga.
 
           
-",weigel-in-dr-awril-gschickt,20,2,0.5521579974479889,0.1
+",120,weigel-in-dr-awril-gschickt,20,2,0.5521579974479889,0.1
 121,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1038,7 +1038,7 @@ Fir mich, zeig gib mol har, do bin i o wunderfitzig, ich han doch nieme nix b’
  — Crème Tokalon, pour garder un teint d'un merveilleux éclat. — — — Poudre Floréine. — — — — — Les batons rouges Corday embellissent les Ièvres. — — — Ja,
 
           
-",weigel-in-dr-awril-gschickt,109,9,0.5373468571959198,0.08256880733944955
+",121,weigel-in-dr-awril-gschickt,109,9,0.5373468571959198,0.08256880733944955
 123,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -1056,7 +1056,7 @@ S’isch schu weder so a Person ku, wie hit z’mittag, a so ne Kecha, ich han s
 : Buschur madame!
 
           
-",weigel-in-dr-awril-gschickt,60,5,0.4466939771786153,0.08333333333333333
+",123,weigel-in-dr-awril-gschickt,60,5,0.4466939771786153,0.08333333333333333
 124,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1065,7 +1065,7 @@ Mlle Florentine:
 Ich heiß nit madame, sondra made- moiselle, mademoiselle Blind.
 
           
-",weigel-in-dr-awril-gschickt,12,2,0.5670916620429919,0.16666666666666666
+",124,weigel-in-dr-awril-gschickt,12,2,0.5670916620429919,0.16666666666666666
 125,comedy,Lucie,F,,,,"
             
 Lucie :
@@ -1077,7 +1077,7 @@ Lucie :
 So so, Blind heißt Sie un isch Sie gläuib o noch halwer, waga dam hebt Se immer so ne G’stell vor d’Auiga.
 
           
-",weigel-in-dr-awril-gschickt,28,1,0.3561173479361921,0.03571428571428571
+",125,weigel-in-dr-awril-gschickt,28,1,0.3561173479361921,0.03571428571428571
 126,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1086,7 +1086,7 @@ Mlle Florentine:
 Was verzehlt Se do, kunnt Se amol ganz noch.
 
           
-",weigel-in-dr-awril-gschickt,11,1,0.426066672788339,0.09090909090909091
+",126,weigel-in-dr-awril-gschickt,11,1,0.426066672788339,0.09090909090909091
 127,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1095,7 +1095,7 @@ Lucie:
 Ich ha grad g’sait, daß sie o im gliche Fall isch wie ich, un ha so Bedüres mit re, daß Sie o nit güet g’sieht. Awer lüegt Se, ich han’s erscht sitter minre Kranket, drgega Sie hat’s viellicht schu lang, s’isch wohrschienlig s’Alter wu das macht.
 
           
-",weigel-in-dr-awril-gschickt,51,8,0.47915773444356335,0.1568627450980392
+",127,weigel-in-dr-awril-gschickt,51,8,0.47915773444356335,0.1568627450980392
 128,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1104,7 +1104,7 @@ Mlle Florentine:
 Ja, sagt Se, Sie, was fallt denn Ihre i, mir so ebbis z’saga, ich wu erscht drißig gsi bin.
 
           
-",weigel-in-dr-awril-gschickt,22,1,0.6402102505617395,0.045454545454545456
+",128,weigel-in-dr-awril-gschickt,22,1,0.6402102505617395,0.045454545454545456
 129,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1113,7 +1113,7 @@ Lucie:
 Was? eh das dat mr jetz nit meina, awer do sin allei mini Auiga dra Schuld, wu so ebbs nim kenna unterscheida. Ja, so ne Kranket nimmt eim z’wag.
 
           
-",weigel-in-dr-awril-gschickt,31,6,0.5179843176721509,0.1935483870967742
+",129,weigel-in-dr-awril-gschickt,31,6,0.5179843176721509,0.1935483870967742
 130,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1122,7 +1122,7 @@ Mlle Florentine:
 Ja. was isch denn das fir a Kranket gsi?
 
           
-",weigel-in-dr-awril-gschickt,11,3,0.6658113332863337,0.2727272727272727
+",130,weigel-in-dr-awril-gschickt,11,3,0.6658113332863337,0.2727272727272727
 131,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1133,7 +1133,7 @@ Meint si nur Mamselle, in unserm Dorf sin dana Winter Ziginer gsi un die han die
  Ich han d'schwarze Pocke g'ha.
 
           
-",weigel-in-dr-awril-gschickt,43,6,0.4371092600609217,0.13953488372093023
+",131,weigel-in-dr-awril-gschickt,43,6,0.4371092600609217,0.13953488372093023
 132,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1145,7 +1145,7 @@ Mlle Florentine :
 Was? Was? d’Pocke? macht Se sofort, aß Se üsa kunnt, schunscht kei i Se üsa. Sie steckt mi a, am End han is schu g’erbt.
 
           
-",weigel-in-dr-awril-gschickt,33,1,0.6199716662985846,0.030303030303030304
+",132,weigel-in-dr-awril-gschickt,33,1,0.6199716662985846,0.030303030303030304
 133,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1155,7 +1155,7 @@ Awer mamselle, das isch doch nit meglig, d’Kran- ket isch jo umme, as sin mr n
 (Bei den letzten Worten nähert sie sich ihr wieder.)
 
           
-",weigel-in-dr-awril-gschickt,39,2,0.56,0.05128205128205128
+",133,weigel-in-dr-awril-gschickt,39,2,0.56,0.05128205128205128
 134,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1164,7 +1164,7 @@ Mlle Florentine:
 Z’ruck, un ke Schritt me witerscht, ich riaf sofort im a Polizei.
 
           
-",weigel-in-dr-awril-gschickt,15,1,0.7486041358863109,0.06666666666666667
+",134,weigel-in-dr-awril-gschickt,15,1,0.7486041358863109,0.06666666666666667
 135,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1173,7 +1173,7 @@ Lucie:
 Was? Polizei? was fallt Ihre i, ich bin a ehrbara Person un han nit mit dr Polizei z’schaffa. Un Sie isch a ganz g’meina, nedertrachtiga alta Schachtla, wu a armer Mensch verachtet, will er s’Unglick g’ha hat, a so a Kranket z’erwa.
 
           
-",weigel-in-dr-awril-gschickt,46,7,0.5545098807681604,0.15217391304347827
+",135,weigel-in-dr-awril-gschickt,46,7,0.5545098807681604,0.15217391304347827
 136,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1182,7 +1182,7 @@ Mlle Florentine:
 Jetz still un ke Wort me, üs mina Auiga, sofort, schunscht riaf i um Hilf.
 
           
-",weigel-in-dr-awril-gschickt,17,2,0.4202346965008311,0.11764705882352941
+",136,weigel-in-dr-awril-gschickt,17,2,0.4202346965008311,0.11764705882352941
 137,comedy,Lucie,F,,,,"
             
 Lucie:
@@ -1195,7 +1195,7 @@ Se brücht si nit so ufrega, ich gang allei, denn mit so re Vogelschiecha will i
 : Nei, das isch doch züe arg, ich, d’Mademoiselle Blind, rentiere, müeß mir so ebbs g’falla lo, un die Uesdrick, wu die frache Person agwanda hat. Vogelschiecha, alta Schachtla, ver- molta Fratz. Wer hat denn dara g’sait, daß ich mich a wenig schmink, das weißt doch ke Mensch. Nei, do isch doch d’Fräui Sophie ebber anderschs gsi. A so eifach un a so astandig im Benama. Wer weiß, ob i je ebbs bessers bekum. Wenn das a so witerscht geht, bekum i noch d’Galsucht vor Aerger.
 
           
-",weigel-in-dr-awril-gschickt,161,17,0.4479795206196184,0.10559006211180125
+",137,weigel-in-dr-awril-gschickt,161,17,0.4479795206196184,0.10559006211180125
 138,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -1207,7 +1207,7 @@ Elise :
 Mamselle, grad isch wider eini ku froga fir Kecha.
 
           
-",weigel-in-dr-awril-gschickt,15,4,0.5678972720688937,0.26666666666666666
+",138,weigel-in-dr-awril-gschickt,15,4,0.5678972720688937,0.26666666666666666
 139,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1216,7 +1216,7 @@ Mlle Florentine:
 Awer hoffentlig ke so frache wie die letschta.
 
           
-",weigel-in-dr-awril-gschickt,10,1,0.6163138193340594,0.1
+",139,weigel-in-dr-awril-gschickt,10,1,0.6163138193340594,0.1
 140,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise:
@@ -1225,7 +1225,7 @@ Elise:
 Se schient mr ganz astandig z’si, isch nowel aglegt, trait a Zwicker un hat a Velo.
 
           
-",weigel-in-dr-awril-gschickt,18,2,0.40904012576167326,0.1111111111111111
+",140,weigel-in-dr-awril-gschickt,18,2,0.40904012576167326,0.1111111111111111
 141,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1236,7 +1236,7 @@ Was? a Velo? Jetz wird’s Tag, zeig hol se amol do ana
  S’wird immer besser, d’nachschte kunnt sicher im a Auto, un d’ewer- nachschte in’re Flugmaschine. Ja, ja, das mol han i mr eini g’langt, hat i doch liewer d’Fräui Sophie engagiert. Zwanzig Johr isch se bi dara marquise gsi, das isch zum vorneri schu a güet Zeicha.
 
           
-",weigel-in-dr-awril-gschickt,70,8,0.5269363294541568,0.11428571428571428
+",141,weigel-in-dr-awril-gschickt,70,8,0.5269363294541568,0.11428571428571428
 144,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1245,7 +1245,7 @@ Mlle Florentine:
 Was geht doch das Sie a, das toupet vu Ihre. — — Isch Sie iwerhäuipt ku fir die Stell als Kecha ?
 
           
-",weigel-in-dr-awril-gschickt,23,3,0.4986352891116777,0.13043478260869565
+",144,weigel-in-dr-awril-gschickt,23,3,0.4986352891116777,0.13043478260869565
 145,comedy,Irène,F,,,,"
             
 Irène:
@@ -1254,7 +1254,7 @@ Irène:
 Mais bien sûr, Mademoiselle, wundert Sie das a so, will ich so chic aglegt bin.
 
           
-",weigel-in-dr-awril-gschickt,16,1,0.6013744404398871,0.0625
+",145,weigel-in-dr-awril-gschickt,16,1,0.6013744404398871,0.0625
 146,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1263,7 +1263,7 @@ Mlle Florentine:
 Ja, un wie Se mit em a Vélo kunnt ge fahra.
 
           
-",weigel-in-dr-awril-gschickt,13,1,0.6402102505617395,0.07692307692307693
+",146,weigel-in-dr-awril-gschickt,13,1,0.6402102505617395,0.07692307692307693
 147,comedy,Irène,F,,,,"
             
 Irène:
@@ -1273,7 +1273,7 @@ O jeh, das isch doch nit aparts, ich betrieb noch andre Sport, im Winter läuif 
 (Packt einen Bogen Papier aus, und will ihn Mlle Florentine zeigen.)
 
           
-",weigel-in-dr-awril-gschickt,67,8,0.5736649884655031,0.11940298507462686
+",147,weigel-in-dr-awril-gschickt,67,8,0.5736649884655031,0.11940298507462686
 148,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1282,7 +1282,7 @@ Mlle Florentine:
 Ja, un Sie maldet sich fir Kecha un betriebt alla megliga Sport.
 
           
-",weigel-in-dr-awril-gschickt,14,2,0.6745374587431543,0.14285714285714285
+",148,weigel-in-dr-awril-gschickt,14,2,0.6745374587431543,0.14285714285714285
 149,comedy,Irène,F,,,,"
             
 Irène:
@@ -1291,7 +1291,7 @@ Irène:
 Wurum nit, do geht ein’s s’andera gar nit a. In dr Wucha bin ich Kecha, awer dr Sunntig g’hert im Sport. So han is bis jetz in alla mine Stella g’macht. Sieht Se, das isch’s jo grad, wu im Mensch Not tüet, wu ne gsund un jung erhaltet, hert se, jung.
 
           
-",weigel-in-dr-awril-gschickt,55,8,0.4117774110672159,0.14545454545454545
+",149,weigel-in-dr-awril-gschickt,55,8,0.4117774110672159,0.14545454545454545
 150,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1300,7 +1300,7 @@ Mlle Florentine:
 Ja, meint Se ebba, am a Sunntig stand ich salwer in d’Kucha, fir daß d’Kecha kat geh schwim- me un vélofahre.
 
           
-",weigel-in-dr-awril-gschickt,26,2,0.6745374587431543,0.07692307692307693
+",150,weigel-in-dr-awril-gschickt,26,2,0.6745374587431543,0.07692307692307693
 151,comedy,Irène,F,,,,"
             
 Irène:
@@ -1309,7 +1309,7 @@ Irène:
 Do kat Se jo macha, wie Sie meint, Se kat jo a Ueshilf astella. Dr Sunntig isch mi. Lüegt Sie, unser Herrgott hat’s im Paradies schu so igrechta. «Am siebten Tage ruhte er.» Un fir mich isch das Er- holung.
 
           
-",weigel-in-dr-awril-gschickt,45,2,0.5611728437803642,0.044444444444444446
+",151,weigel-in-dr-awril-gschickt,45,2,0.5611728437803642,0.044444444444444446
 153,comedy,Irène,F,,,,"
             
 Irène:
@@ -1318,7 +1318,7 @@ Irène:
 O doch, ich kann noch güet franzesch, a wenig anglisch un verstand o ebbs vu dr Müsik.
 
           
-",weigel-in-dr-awril-gschickt,18,3,0.46691996225211146,0.16666666666666666
+",153,weigel-in-dr-awril-gschickt,18,3,0.46691996225211146,0.16666666666666666
 154,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1329,7 +1329,7 @@ Vu dam allem will ich nit wissa, wie steht’s denn mit em Kocha? Zeigt Se mr am
  Was? g’sehn i racht? Sie hat do in eim Johr nin Mol d’Stella g’wachselt.
 
           
-",weigel-in-dr-awril-gschickt,48,4,0.508799909004864,0.08333333333333333
+",154,weigel-in-dr-awril-gschickt,48,4,0.508799909004864,0.08333333333333333
 155,comedy,Irène,F,,,,"
             
 Irène:
@@ -1338,7 +1338,7 @@ Irène:
 Wundert Sie das, mich nit, mr findet jo hit zu tags ke astandiga Herrschaft meh, wu mr’s o a Zitt- lang kat üshalta.
 
           
-",weigel-in-dr-awril-gschickt,26,4,0.4606204986932625,0.15384615384615385
+",155,weigel-in-dr-awril-gschickt,26,4,0.4606204986932625,0.15384615384615385
 156,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1347,7 +1347,7 @@ Mlle Florentine:
 S’isch güet, mr wann witerscht ke Worta meh verliere, Sie isch entlassa.
 
           
-",weigel-in-dr-awril-gschickt,15,4,0.5610119068095367,0.26666666666666666
+",156,weigel-in-dr-awril-gschickt,15,4,0.5610119068095367,0.26666666666666666
 157,comedy,Irène,F,,,,"
             
 Irène:
@@ -1357,7 +1357,7 @@ C’est bien, mademoiselle, also nix fir ungüet, wenn Se wider amol ebbis brüc
 (Ab.)
 
           
-",weigel-in-dr-awril-gschickt,17,1,0.7088646669245691,0.058823529411764705
+",157,weigel-in-dr-awril-gschickt,17,1,0.7088646669245691,0.058823529411764705
 158,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1371,7 +1371,7 @@ Wu han ich. das verdient? — — Findet mr denn hit ke astandige Persona meh. W
  O wie isch’s mir verleida, ich bin schu ganz krank.. Am End bekumm i doch die Pocka.
 
           
-",weigel-in-dr-awril-gschickt,84,12,0.5509558833086398,0.14285714285714285
+",158,weigel-in-dr-awril-gschickt,84,12,0.5509558833086398,0.14285714285714285
 160,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1380,7 +1380,7 @@ Juliette:
 Güeta Nowa, madame oder mamselle. Ich kum waga dam Platz als Kecha, wu hit morga in dr Zittung gstanda hat.
 
           
-",weigel-in-dr-awril-gschickt,21,3,0.44340770148483727,0.14285714285714285
+",160,weigel-in-dr-awril-gschickt,21,3,0.44340770148483727,0.14285714285714285
 161,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1393,7 +1393,7 @@ Scheen, doch zeigt Sie mr glich Ihre Zeignis.
  Es schient, daß Sie öfters Verkehr mit junga Manner hat, wu o züe re uf B’süech ku sin.
 
           
-",weigel-in-dr-awril-gschickt,65,9,0.4657683732980538,0.13846153846153847
+",161,weigel-in-dr-awril-gschickt,65,9,0.4657683732980538,0.13846153846153847
 162,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1402,7 +1402,7 @@ Juliette:
 Ja was isch do schlachts derbi, ich bin jo noch jung, folglig brüch i nit mit alta z’geh. Un derno, s’isch jo immer nur mi Hochzitter gsi; meint Sie ebba, ich will als alta Jungfre starwe, nei nur alles als das nit.
 
           
-",weigel-in-dr-awril-gschickt,45,4,0.5307150697576302,0.08888888888888889
+",162,weigel-in-dr-awril-gschickt,45,4,0.5307150697576302,0.08888888888888889
 163,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1411,7 +1411,7 @@ Mlle Florentine:
 Das sin Ihra Sache; awer das kat Se si merka, daß, falls Sie züe mir als Kecha kunnt, ich Ihra Hochzitter nie in dr Kucha will gash. Mit einere vu mina letschta Kecha han i scho so-n-a Gschichta g’ha. Vierzeh Tag noch ihrem Itritt kumm ich züe- fallig in d’Kucha un mach a Kaschta uff, steht do e Mannskarl drin. Hat dia frach Person o noch s’toupet fer z’saga: da g’hert net züe mir, da hat wohrschienlig die andera Kecha vor mir do drina steh lo. Jetz frog ich Sie, e Mannskarl esch doch ke parapluie, aß m'r ne so steh loßt. Awer die han i g’schasst.
 
           
-",weigel-in-dr-awril-gschickt,115,6,0.4903020947926306,0.05217391304347826
+",163,weigel-in-dr-awril-gschickt,115,6,0.4903020947926306,0.05217391304347826
 164,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1420,7 +1420,7 @@ Juliette:
 Wenn’s nur sal isch, dam isch abz’halfa, ich kan jo mi Hochzitter im salon empfanga.
 
           
-",weigel-in-dr-awril-gschickt,17,3,0.4746213282085014,0.17647058823529413
+",164,weigel-in-dr-awril-gschickt,17,3,0.4746213282085014,0.17647058823529413
 165,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1429,7 +1429,7 @@ Mlle Florentine:
 Eh jo, das fahlt noch. Ich will noch ditliger reda, Sie derf Ihre Hochzitter weder do im Garta, noch weniger im Hüs empfanga. Mina friahare: Kecha han sich o alli güet verhirota, un es hat nit amol keine a Bekanntschaft g'ha.
 
           
-",weigel-in-dr-awril-gschickt,43,8,0.53864335931807,0.18604651162790697
+",165,weigel-in-dr-awril-gschickt,43,8,0.53864335931807,0.18604651162790697
 166,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1439,7 +1439,7 @@ Do bin i o wunderfitzig wie das ganga hat. Die han sich wohrschienlig par T. S. 
 (Springt nach rechts, während Mlle Florentine ihr nachruft.)
 
           
-",weigel-in-dr-awril-gschickt,86,12,0.4798672823790797,0.13953488372093023
+",166,weigel-in-dr-awril-gschickt,86,12,0.4798672823790797,0.13953488372093023
 167,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1450,7 +1450,7 @@ Blibt Se do, hat Se g’hert, bringt Se nen jo nit do ahna. O jeh, o jeh, ich gl
  I mein i her ebber reda, — — ums Himmels Willa, do kumme se gläuib.
 
           
-",weigel-in-dr-awril-gschickt,56,6,0.4474889521693222,0.10714285714285714
+",167,weigel-in-dr-awril-gschickt,56,6,0.4474889521693222,0.10714285714285714
 168,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1463,7 +1463,7 @@ Voilà madame, do isch jetz mi Franz, isch er nit a g’fitzter Burscht.
  Galla madam, jetz han Ihr Eich anderscht b’sunna.
 
           
-",weigel-in-dr-awril-gschickt,60,9,0.4510954098200033,0.15
+",168,weigel-in-dr-awril-gschickt,60,9,0.4510954098200033,0.15
 169,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1475,7 +1475,7 @@ Mlle Florentine :
 Sofort mache-n- Ihr, aß Ihr üssa kumma, sunscht telephonier i uf d’Wacht; un Sie, monsieur, zeig ich a bi Ihrem chef.
 
           
-",weigel-in-dr-awril-gschickt,30,4,0.49392213267115787,0.13333333333333333
+",169,weigel-in-dr-awril-gschickt,30,4,0.49392213267115787,0.13333333333333333
 170,comedy,Marthe,F,,,,"
             
 Marthe :
@@ -1488,7 +1488,7 @@ Ja, sag Catherine, was soll denn das heißa, zu so-n-re alte Schatulle witt dü 
 (Beide ab.)
 
           
-",weigel-in-dr-awril-gschickt,42,5,0.4357230020381718,0.11904761904761904
+",170,weigel-in-dr-awril-gschickt,42,5,0.4357230020381718,0.11904761904761904
 171,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1502,7 +1502,7 @@ Dü liawer Gott, ich bin halb tot. Das iwerlab ich nim. Daß mir so ebbs passier
  Hat ich doch numme d'Sophie nit furt g’schickt, uf de Hand wott i se traga Alla ihre Winsch an de Auiga absah.
 
           
-",weigel-in-dr-awril-gschickt,64,7,0.48643302997990556,0.109375
+",171,weigel-in-dr-awril-gschickt,64,7,0.48643302997990556,0.109375
 172,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise :
@@ -1514,7 +1514,7 @@ Elise :
 Mamselle, meint Sie, die Fräui, wu hit mittag do gsi isch, kunnt grad noch amol ku froga, ebb se d’Mamselle nit doch als Kecha dat nah?
 
           
-",weigel-in-dr-awril-gschickt,31,2,0.41009862308239103,0.06451612903225806
+",172,weigel-in-dr-awril-gschickt,31,2,0.41009862308239103,0.06451612903225806
 173,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1526,7 +1526,7 @@ Mlle Florentine :
 Was? d'Sophie isch wider do? ja hasch di o nit trumpiert, Elise, isch se se wirklig?
 
           
-",weigel-in-dr-awril-gschickt,25,4,0.6165054340221696,0.16
+",173,weigel-in-dr-awril-gschickt,25,4,0.6165054340221696,0.16
 174,comedy,Elise,F,domestic_worker,elementary_professions,lower_class,"
             
 Elise:
@@ -1535,7 +1535,7 @@ Elise:
 Ja, ja, s’isch se, ich ha se glich wider kennt
 
           
-",weigel-in-dr-awril-gschickt,12,2,0.6402102505617395,0.16666666666666666
+",174,weigel-in-dr-awril-gschickt,12,2,0.6402102505617395,0.16666666666666666
 175,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1546,7 +1546,7 @@ Gott sei Dank! O, wie bin ich so froh. Gang hol se g’schnall do ahna, Elise! E
 : Kumma, madame, d’Mamselle will mit i reda.
 
           
-",weigel-in-dr-awril-gschickt,39,8,0.505453160645343,0.20512820512820512
+",175,weigel-in-dr-awril-gschickt,39,8,0.505453160645343,0.20512820512820512
 176,comedy,Sophie,F,,,,"
             
 Sophie :
@@ -1560,7 +1560,7 @@ Bonjour, Made- moiselle. Mlle Florentine
  Sie güete Seel, ja, isch Sie’s tatsachlig. Sie isch noch amol ku. Galt Se, Se verzeiht mr, aß i hit mittag so komisch mit re gsi bin. Lüegt Se, s'tüet mr vu Harza leid, ich han’s jo nit so bes g’meint ka. Also galt Se, Sie kunnt als Kecha züe mr?
 
           
-",weigel-in-dr-awril-gschickt,79,10,0.5029870722180095,0.12658227848101267
+",176,weigel-in-dr-awril-gschickt,79,10,0.5029870722180095,0.12658227848101267
 177,comedy,Sophie,F,,,,"
             
 Sophie:
@@ -1569,7 +1569,7 @@ Sophie:
 Ja, Mamselle, unter dr Bedingung, daß i alla Morga — — —
 
           
-",weigel-in-dr-awril-gschickt,13,3,0.43331579202266407,0.23076923076923078
+",177,weigel-in-dr-awril-gschickt,13,3,0.43331579202266407,0.23076923076923078
 178,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1581,7 +1581,7 @@ Mlle Florentine :
 Natierlig derf Se alla Morga in d’Kercha un waga mir noch z’owa. Un 200 Franka gib i re alla Monet ohne d’Gschanker. Un güet soll Sie's ha bi mir, wie wenn Se mi eiga Schweschter war.
 
           
-",weigel-in-dr-awril-gschickt,46,3,0.5447483516493942,0.06521739130434782
+",178,weigel-in-dr-awril-gschickt,46,3,0.5447483516493942,0.06521739130434782
 179,comedy,Sophie,F,,,,"
             
 Sophie :
@@ -1593,7 +1593,7 @@ Sophie :
 Merci, o merci viel- mol. I will mr o g’wiß Miahi ga, daß Se z’frede isch mit mr. Ich bin a so glicklig, daß Se mi jetz doch gnu hat, kann i doch als am a Sunntig z’owa a wenig zu mim Schweschter, un derno bin i froh, daß ke Kinder un Mannslitt im Hüs sin.
 
           
-",weigel-in-dr-awril-gschickt,67,5,0.5247231963449412,0.07462686567164178
+",179,weigel-in-dr-awril-gschickt,67,5,0.5247231963449412,0.07462686567164178
 180,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie :
@@ -1605,7 +1605,7 @@ Mlle Amélie :
 Pardon, mademoiselle, ich han nur wella froga, was mr fir’s Nachtassa rischta müeß.
 
           
-",weigel-in-dr-awril-gschickt,22,2,0.6254323334622846,0.09090909090909091
+",180,weigel-in-dr-awril-gschickt,22,2,0.6254323334622846,0.09090909090909091
 181,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine :
@@ -1617,7 +1617,7 @@ Mlle Florentine :
 Do mache mr is ke große Arwet, es git kalta Platta, un vu morn ab sin mr dam corvée enthowa, lüegt Sie, do stell i re unsere neia Kecha vor.
 
           
-",weigel-in-dr-awril-gschickt,36,5,0.42611273928553633,0.1388888888888889
+",181,weigel-in-dr-awril-gschickt,36,5,0.42611273928553633,0.1388888888888889
 182,comedy,Mlle Amélie,F,,,,"
             
 Mlle Amélie :
@@ -1631,7 +1631,7 @@ So, so, das frait mi awer vu Harza.
  Ich bin jo froh, daß die Kocherei a End hat, denn mir zwei han doch nit verninftigs ferig brocht.
 
           
-",weigel-in-dr-awril-gschickt,40,3,0.6657840566961962,0.075
+",182,weigel-in-dr-awril-gschickt,40,3,0.6657840566961962,0.075
 183,comedy,Mlle Florentine Blind,F,,,,"
             
 Mlle Florentine:
@@ -1645,7 +1645,7 @@ Sal isch wohr, un mi Kochbüech, wu doch nur s’Halwa drin steht, wirf i ins Fi
 (Alle ab.)
 
           
-",weigel-in-dr-awril-gschickt,69,4,0.6033690180547939,0.057971014492753624
+",183,weigel-in-dr-awril-gschickt,69,4,0.6033690180547939,0.057971014492753624
 184,comedy,Suzanne,F,,,,"
             
 Suzanne :
@@ -1662,7 +1662,7 @@ Nei, awer a so ebbs. Jetz stand i sitter do hinter me Bäum versteckt un lüeg d
 (Es erscheinen Lucie, Irène und Juliette als Köchinnen, Marthe als Eisenbahner und Jeanne in ihrem früheren Kleid.)
 
           
-",weigel-in-dr-awril-gschickt,132,14,0.486440523926762,0.10606060606060606
+",184,weigel-in-dr-awril-gschickt,132,14,0.486440523926762,0.10606060606060606
 185,comedy,Lucie,F,,,,"
             
 Lucie :
@@ -1674,7 +1674,7 @@ Lucie :
 Ja, wu stacksch dü denn, im ganza Hüs han mr di g’süecht.
 
           
-",weigel-in-dr-awril-gschickt,17,3,0.4474749919604753,0.17647058823529413
+",185,weigel-in-dr-awril-gschickt,17,3,0.4474749919604753,0.17647058823529413
 186,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -1683,7 +1683,7 @@ Suzanne:
 Ich han doch dam Ding wella züelüega un han mi dert hinta versteckt g’ha. Meina numma, d’Sophie isch weder ku, un d’Tanta hat se engagiert.
 
           
-",weigel-in-dr-awril-gschickt,28,4,0.5138360915656754,0.14285714285714285
+",186,weigel-in-dr-awril-gschickt,28,4,0.5138360915656754,0.14285714285714285
 187,comedy,Irène,F,,,,"
             
 Irène:
@@ -1692,7 +1692,7 @@ Irène:
 Wisse mr alles schu. S’Jeanne isch se jo gsi geh hola, fir sich noch amol vorz’stella.
 
           
-",weigel-in-dr-awril-gschickt,18,1,0.7088646669245691,0.05555555555555555
+",187,weigel-in-dr-awril-gschickt,18,1,0.7088646669245691,0.05555555555555555
 188,comedy,Jeanne,F,,,,"
             
 Jeanne:
@@ -1701,7 +1701,7 @@ Jeanne:
 Un grad vorig sin dina Tanta, d’Mamselle Amélie un d’Sophie d’Staga ufa kumma, doch wu mr se g’sah han, han mr is versteckt un wu se dura gsi sin, heidapritsch awa in dr Garta.
 
           
-",weigel-in-dr-awril-gschickt,38,3,0.44846347602319264,0.07894736842105263
+",188,weigel-in-dr-awril-gschickt,38,3,0.44846347602319264,0.07894736842105263
 189,comedy,Suzanne,F,,,,"
             
 Suzanne :
@@ -1713,7 +1713,7 @@ Suzanne :
 Ja, worum han ihr eich derno nit umzoga?
 
           
-",weigel-in-dr-awril-gschickt,12,2,0.7576051252808698,0.16666666666666666
+",189,weigel-in-dr-awril-gschickt,12,2,0.7576051252808698,0.16666666666666666
 190,comedy,Juliette,F,,,,"
             
 Juliette:
@@ -1722,7 +1722,7 @@ Juliette:
 Dü müesch g’schwind unser portrait macha, waga dam han mi di iwerall g’süecht, gang hol die Apparat, mr warta dr sitter im Gartahisla.
 
           
-",weigel-in-dr-awril-gschickt,24,2,0.43002047548775874,0.08333333333333333
+",190,weigel-in-dr-awril-gschickt,24,2,0.43002047548775874,0.08333333333333333
 191,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -1731,7 +1731,7 @@ Suzanne:
 Güet, awer nochhar fix ins Hüs un eiri Reck ag’legt.
 
           
-",weigel-in-dr-awril-gschickt,11,2,0.386790387822869,0.18181818181818182
+",191,weigel-in-dr-awril-gschickt,11,2,0.386790387822869,0.18181818181818182
 192,comedy,Marthe,F,,,,"
             
 Marthe :
@@ -1743,7 +1743,7 @@ Marthe :
 Weisch, luschtig isch da Witz doch gsi.
 
           
-",weigel-in-dr-awril-gschickt,12,2,0.6065047241506614,0.16666666666666666
+",192,weigel-in-dr-awril-gschickt,12,2,0.6065047241506614,0.16666666666666666
 194,comedy,Suzanne,F,,,,"
             
 Suzanne:
@@ -1752,7 +1752,7 @@ Suzanne:
 Das isch einzig gsi, de hasch’s awer o noch so güet verrota.
 
           
-",weigel-in-dr-awril-gschickt,14,3,0.4871851649416213,0.21428571428571427
+",194,weigel-in-dr-awril-gschickt,14,3,0.4871851649416213,0.21428571428571427
 195,comedy,Lucie,F,,,,"
             
 Lucie :
@@ -1764,7 +1764,7 @@ Lucie :
 Was meinsch jetz zu mim Awril- scharz, isch er nit g’réussiert, was han i gsait, morna kocht d’Sophie; isch’s ebba nit so ku?
 
           
-",weigel-in-dr-awril-gschickt,31,3,0.5467972013950387,0.0967741935483871
+",195,weigel-in-dr-awril-gschickt,31,3,0.5467972013950387,0.0967741935483871
 196,comedy,Mlle Amélie,F,,,,"
             
 Alle :
@@ -1776,4 +1776,4 @@ Alle :
 Ja, ja, s’Lucie soll lawa!
 
           
-",weigel-in-dr-awril-gschickt,10,4,0.5874397336286108,0.4
+",196,weigel-in-dr-awril-gschickt,10,4,0.5874397336286108,0.4

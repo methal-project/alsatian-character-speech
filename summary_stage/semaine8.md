@@ -3,6 +3,7 @@
 2. fix the bug (pas pouvoir parcourir tous le texte)
 3. seaborn to plot graphs of evaluations of sentiments
 
+*2 modes, mode single et mode group*
 #### graphic chaque piece
 
 lineplot by seaborn
@@ -55,3 +56,9 @@ python3 graphic.py group
 ```
 sample image:
 ![sample image](../ed_analyse_pieces/sample_group.png)
+
+
+
+*scatterplot* (emotion oppo)
+% tokens or tour de parole
+for progress

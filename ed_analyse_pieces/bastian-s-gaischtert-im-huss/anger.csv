@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -10,7 +10,7 @@ Winkel :
 Kumme Sie, Herr Architekt.
 
       
-",bastian-s-gaischtert-im-huss,12,2,0.038,0.16666666666666666
+",0,bastian-s-gaischtert-im-huss,12,2,0.038,0.16666666666666666
 2,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -19,7 +19,7 @@ Winkel:
 Deschto besser. Un? Han Sie min Hüs genau unter- suecht?
 
       
-",bastian-s-gaischtert-im-huss,12,3,0.09266666666666667,0.25
+",2,bastian-s-gaischtert-im-huss,12,3,0.09266666666666667,0.25
 3,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -28,7 +28,7 @@ Meter:
 Gewissehaft, ja.
 
       
-",bastian-s-gaischtert-im-huss,3,2,0.0,0.6666666666666666
+",3,bastian-s-gaischtert-im-huss,3,2,0.0,0.6666666666666666
 4,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -37,7 +37,7 @@ Winkel:
 Un ’s Resultat?
 
       
-",bastian-s-gaischtert-im-huss,4,1,0.0,0.25
+",4,bastian-s-gaischtert-im-huss,4,1,0.0,0.25
 10,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -46,7 +46,7 @@ Winkel:
 Sin Sie im Keller gsin, uff d'r Büehn?
 
       
-",bastian-s-gaischtert-im-huss,9,1,0.0,0.1111111111111111
+",10,bastian-s-gaischtert-im-huss,9,1,0.0,0.1111111111111111
 12,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -55,7 +55,7 @@ Winkel:
 Hm! E unheimlichi Gschicht... wo mich e Vermöje koscht... noch meh! Ja, wo mich rüiniert.
 
       
-",bastian-s-gaischtert-im-huss,16,4,0.13625,0.25
+",12,bastian-s-gaischtert-im-huss,16,4,0.13625,0.25
 14,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -64,7 +64,7 @@ Winkel:
 Guet ze verstehn. Bedenke Sie, e füenfstöckigs Hüss, modern yngericht, mit grossem Garte vorne un hinte, d’rzue noch in e’re freie, herrliche Gejed; e füenfstöckigs Hüss wo ken Mensch meh nynzeije will, wo verruefe isch! Bedenke Sie der Zinsverluscht!
 
       
-",bastian-s-gaischtert-im-huss,41,5,0.0,0.12195121951219512
+",14,bastian-s-gaischtert-im-huss,41,5,0.0,0.12195121951219512
 15,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -73,7 +73,7 @@ Meter:
 Rächt han sie.
 
       
-",bastian-s-gaischtert-im-huss,4,1,0.0,0.25
+",15,bastian-s-gaischtert-im-huss,4,1,0.0,0.25
 16,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -82,7 +82,7 @@ Winkel:
 Ganz abgsehne vun d'r Ambediererei vun de Jour- naliste, wo aane Daa un Nacht üss lütter Wunderfitz ken Ruehj lonn. Gott, was sin schun Artikel üewer des Hüss lanciert worre. Un photographiert! Meh als e Minischter.
 
       
-",bastian-s-gaischtert-im-huss,38,7,0.07959223025972954,0.18421052631578946
+",16,bastian-s-gaischtert-im-huss,38,7,0.07959223025972954,0.18421052631578946
 17,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -91,7 +91,7 @@ Meter:
 Ich hab e Idee. Verkaufe Sie diss Hüss.
 
       
-",bastian-s-gaischtert-im-huss,9,1,0.0,0.1111111111111111
+",17,bastian-s-gaischtert-im-huss,9,1,0.0,0.1111111111111111
 18,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -100,7 +100,7 @@ Winkel:
 Glich, glich, wenn’s numme Jemes wott. Alli An- nonce han bis dato nix genutzt. Im Gejedail... Stromswies komme Fremdi for diss Hüss ze betrachte. Jede Sunndaa sieht mer hunderti vun Automobil im Städtel. Wisse Sie, M. Meter, wer d' beschte Gschäfte do d’rbie macht?
 
       
-",bastian-s-gaischtert-im-huss,48,5,0.0,0.10416666666666667
+",18,bastian-s-gaischtert-im-huss,48,5,0.0,0.10416666666666667
 20,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -109,7 +109,7 @@ Winkel:
 Die Herre Wirt, d' Hôtelier, d' Beck, d'r Metzjer, d'r Patissier. So ebbs zuesehn ze müehn, diss geht aam an d' Niere.
 
       
-",bastian-s-gaischtert-im-huss,23,2,0.32699999999999996,0.08695652173913043
+",20,bastian-s-gaischtert-im-huss,23,2,0.32699999999999996,0.08695652173913043
 21,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -119,7 +119,7 @@ Kann mer’s denke.
 (Kleini Paus.)
 
       
-",bastian-s-gaischtert-im-huss,9,2,0.0,0.2222222222222222
+",21,bastian-s-gaischtert-im-huss,9,2,0.0,0.2222222222222222
 22,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -128,7 +128,7 @@ Winkel:
 E Fröij, M. Meter. Han Sie selwer schun emol denne Spektakel in dem Hüss zueg’hoert?
 
       
-",bastian-s-gaischtert-im-huss,16,2,0.2425,0.125
+",22,bastian-s-gaischtert-im-huss,16,2,0.2425,0.125
 24,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -137,7 +137,7 @@ Winkel:
 Han Sie schwachi Nerve?
 
       
-",bastian-s-gaischtert-im-huss,5,2,0.4613633284318736,0.4
+",24,bastian-s-gaischtert-im-huss,5,2,0.4613633284318736,0.4
 25,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -146,7 +146,7 @@ Meter:
 Nit dass ich wuesst. Unseraaner muess jo uff de höchschte Gerüschter erumgaise.
 
       
-",bastian-s-gaischtert-im-huss,13,1,0.0,0.07692307692307693
+",25,bastian-s-gaischtert-im-huss,13,1,0.0,0.07692307692307693
 26,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -157,7 +157,7 @@ Guet. Mache Sie mir denne Gfalle un gehn Sie jetzt mit mir vun aam Stock zuem an
 		
 
       
-",bastian-s-gaischtert-im-huss,18,3,0.08333333333333333,0.16666666666666666
+",26,bastian-s-gaischtert-im-huss,18,3,0.08333333333333333,0.16666666666666666
 27,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -166,7 +166,7 @@ Meter:
 Ihne ze gfalle, gewiss, un um Ihne ze zaje, dass ich Nerve hab.
 
       
-",bastian-s-gaischtert-im-huss,14,2,0.26,0.14285714285714285
+",27,bastian-s-gaischtert-im-huss,14,2,0.26,0.14285714285714285
 28,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -175,7 +175,7 @@ Winkel:
 Es isch jetzerte juste dreiviertel uff Zwölf.
 
       
-",bastian-s-gaischtert-im-huss,8,1,0.0,0.125
+",28,bastian-s-gaischtert-im-huss,8,1,0.0,0.125
 29,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -184,7 +184,7 @@ Meter:
 Werum han Sie denn e Velolamp, un ken Revolver?
 
       
-",bastian-s-gaischtert-im-huss,10,1,0.578,0.1
+",29,bastian-s-gaischtert-im-huss,10,1,0.578,0.1
 30,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -193,7 +193,7 @@ Winkel:
 Im Hüss isch alles abgstellt. Elektrizität, Gas, Was- serleitung. Gescht isch d'r letscht Lokatär üssgezöje.
 
       
-",bastian-s-gaischtert-im-huss,17,2,0.0,0.11764705882352941
+",30,bastian-s-gaischtert-im-huss,17,2,0.0,0.11764705882352941
 31,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -202,7 +202,7 @@ Meter:
 kumme Sie, ich hebb ’ne d' Velolamp. Ich glaab Sie riedere, M. Winkel?
 
       
-",bastian-s-gaischtert-im-huss,14,1,0.0,0.07142857142857142
+",31,bastian-s-gaischtert-im-huss,14,1,0.0,0.07142857142857142
 36,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -211,7 +211,7 @@ Winkel:
 M. Meter... es wurd glich zwölf schlaaue.
 
       
-",bastian-s-gaischtert-im-huss,8,1,0.469,0.125
+",36,bastian-s-gaischtert-im-huss,8,1,0.469,0.125
 38,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -220,7 +220,7 @@ Winkel:
 Nadierlich, wenn’s ganz Hüss leer isch.
 
       
-",bastian-s-gaischtert-im-huss,8,3,0.0,0.375
+",38,bastian-s-gaischtert-im-huss,8,3,0.0,0.375
 39,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -229,7 +229,7 @@ Meter:
 Brrr! un kalt isch’s. Tiens, do het e Lokatär e Blech- kann vergesse mitzenäme.
 
       
-",bastian-s-gaischtert-im-huss,17,3,0.2683333333333333,0.17647058823529413
+",39,bastian-s-gaischtert-im-huss,17,3,0.2683333333333333,0.17647058823529413
 42,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -238,7 +238,7 @@ Winkel:
 Jo, je noochdem. Ich glaab Sie klebbere mit de Zähn?
 
       
-",bastian-s-gaischtert-im-huss,11,1,0.8029999999999999,0.09090909090909091
+",42,bastian-s-gaischtert-im-huss,11,1,0.8029999999999999,0.09090909090909091
 43,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -247,7 +247,7 @@ Meter:
 Jo, allewäj. Kalt isch’s, kalt hab ich.
 
       
-",bastian-s-gaischtert-im-huss,9,2,0.477,0.2222222222222222
+",43,bastian-s-gaischtert-im-huss,9,2,0.477,0.2222222222222222
 47,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -256,7 +256,7 @@ Meter:
 Jaja, g...ganz d... dittlich.
 
       
-",bastian-s-gaischtert-im-huss,6,1,0.0,0.16666666666666666
+",47,bastian-s-gaischtert-im-huss,6,1,0.0,0.16666666666666666
 48,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -265,7 +265,7 @@ Meter:
 Jaja, g...ganz d...
 
       
-",bastian-s-gaischtert-im-huss,5,1,0.0,0.2
+",48,bastian-s-gaischtert-im-huss,5,1,0.0,0.2
 49,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -274,7 +274,7 @@ Winkel:
 Basse Sie uff, was jetzt gschieht.
 
       
-",bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
+",49,bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
 51,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm :
@@ -287,7 +287,7 @@ Hm! Hm! St! St! ...Ssss!
 (Mer hört kratze un scherre.)
 
       
-",bastian-s-gaischtert-im-huss,16,1,0.0,0.0625
+",51,bastian-s-gaischtert-im-huss,16,1,0.0,0.0625
 53,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -296,7 +296,7 @@ Meter:
 Ja, sch-schabt, schabt.
 
       
-",bastian-s-gaischtert-im-huss,4,1,0.0,0.25
+",53,bastian-s-gaischtert-im-huss,4,1,0.0,0.25
 54,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm :
@@ -308,7 +308,7 @@ Stimm :
 Oweh! Oweh! Oweh!
 
       
-",bastian-s-gaischtert-im-huss,8,1,0.0,0.125
+",54,bastian-s-gaischtert-im-huss,8,1,0.0,0.125
 55,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -317,7 +317,7 @@ Winkel:
 Höre Sie, wie ebber jomert? Grad wie e armi ver- loreni Seel.
 
       
-",bastian-s-gaischtert-im-huss,14,3,0.0,0.21428571428571427
+",55,bastian-s-gaischtert-im-huss,14,3,0.0,0.21428571428571427
 56,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -326,7 +326,7 @@ Meter:
 Unheimlich, unheimlich.
 
       
-",bastian-s-gaischtert-im-huss,3,2,0.0,0.6666666666666666
+",56,bastian-s-gaischtert-im-huss,3,2,0.0,0.6666666666666666
 58,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -335,7 +335,7 @@ Meter:
 Gewiss, gewiss. Nit umesunscht. Guet, g...guet Nacht M. W...Winkel.
 
       
-",bastian-s-gaischtert-im-huss,12,3,0.0,0.25
+",58,bastian-s-gaischtert-im-huss,12,3,0.0,0.25
 61,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -344,7 +344,7 @@ Winkel:
 Wo bliewe denn Ihri Nerve?
 
       
-",bastian-s-gaischtert-im-huss,6,1,0.52,0.16666666666666666
+",61,bastian-s-gaischtert-im-huss,6,1,0.52,0.16666666666666666
 62,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -354,7 +354,7 @@ M...merci, die, die verliert mer bie so Momente.
 (E stariker Schlaa wie Zinkedeckel.)
 
       
-",bastian-s-gaischtert-im-huss,17,2,0.2345,0.11764705882352941
+",62,bastian-s-gaischtert-im-huss,17,2,0.2345,0.11764705882352941
 64,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -364,7 +364,7 @@ Jesses!
 (Schriller Pfiff.)
 
       
-",bastian-s-gaischtert-im-huss,6,2,0.0,0.3333333333333333
+",64,bastian-s-gaischtert-im-huss,6,2,0.0,0.3333333333333333
 65,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -373,7 +373,7 @@ Meter:
 Jesses! Lonn Sie mich nüss, M. Winkel.
 
       
-",bastian-s-gaischtert-im-huss,8,2,0.1720728059090534,0.25
+",65,bastian-s-gaischtert-im-huss,8,2,0.1720728059090534,0.25
 66,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -382,7 +382,7 @@ Winkel:
 Nix do. Sie sin miner Architekt un zeglich miner Zeje biem Gericht.
 
       
-",bastian-s-gaischtert-im-huss,13,3,0.0,0.23076923076923078
+",66,bastian-s-gaischtert-im-huss,13,3,0.0,0.23076923076923078
 67,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -392,7 +392,7 @@ Gericht? Liewer dorte, a-als do.
 (Es pfifft lang, rasselt mit Kette.)
 
       
-",bastian-s-gaischtert-im-huss,14,3,0.11333333333333334,0.21428571428571427
+",67,bastian-s-gaischtert-im-huss,14,3,0.11333333333333334,0.21428571428571427
 69,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -401,7 +401,7 @@ Meter:
 Herr, Herr Winkel, dorte, dorte!
 
       
-",bastian-s-gaischtert-im-huss,6,2,0.076,0.3333333333333333
+",69,bastian-s-gaischtert-im-huss,6,2,0.076,0.3333333333333333
 71,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -410,7 +410,7 @@ Meter:
 He-herr Wi-winkel, dorte, dorte!
 
       
-",bastian-s-gaischtert-im-huss,5,1,0.076,0.2
+",71,bastian-s-gaischtert-im-huss,5,1,0.076,0.2
 75,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -419,7 +419,7 @@ Meter:
 Ah! — Ah! Jetzt, je-jetzt schun widder. E Gaischt het ge-gückt.
 
       
-",bastian-s-gaischtert-im-huss,12,1,0.0,0.08333333333333333
+",75,bastian-s-gaischtert-im-huss,12,1,0.0,0.08333333333333333
 76,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -430,7 +430,7 @@ Was, e Gaischt?
 		
 
       
-",bastian-s-gaischtert-im-huss,4,1,0.0,0.25
+",76,bastian-s-gaischtert-im-huss,4,1,0.0,0.25
 77,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -439,7 +439,7 @@ Meter:
 Ja, e wahrhaftiger Gaischt. Oh, ich muess mich setze.
 
       
-",bastian-s-gaischtert-im-huss,10,2,0.0,0.2
+",77,bastian-s-gaischtert-im-huss,10,2,0.0,0.2
 78,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -448,7 +448,7 @@ Winkel:
 Nit uff die Blechkann, nit!
 
       
-",bastian-s-gaischtert-im-huss,6,1,0.0,0.16666666666666666
+",78,bastian-s-gaischtert-im-huss,6,1,0.0,0.16666666666666666
 80,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -460,7 +460,7 @@ Winkel :
 Sie isch mit Dynamit gfüellt.
 
       
-",bastian-s-gaischtert-im-huss,10,1,0.0,0.1
+",80,bastian-s-gaischtert-im-huss,10,1,0.0,0.1
 82,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -469,7 +469,7 @@ Winkel:
 Nit so lütt! Die Blechkann iseh mini letscht Rettung.
 
       
-",bastian-s-gaischtert-im-huss,10,2,0.0,0.2
+",82,bastian-s-gaischtert-im-huss,10,2,0.0,0.2
 84,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -479,7 +479,7 @@ Wenn ich alles verliere soll, no...
 (Grosser Grambol, wie wenn Staan plumpse.)
 
       
-",bastian-s-gaischtert-im-huss,15,2,0.34950000000000003,0.13333333333333333
+",84,bastian-s-gaischtert-im-huss,15,2,0.34950000000000003,0.13333333333333333
 86,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -491,7 +491,7 @@ Winkel :
 Wenn ich doch alles verliere muess, no spreng ich ’s ganz Hüss in d' Luft... mit Dynamit!!
 
       
-",bastian-s-gaischtert-im-huss,25,3,0.147,0.12
+",86,bastian-s-gaischtert-im-huss,25,3,0.147,0.12
 87,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm:
@@ -501,7 +501,7 @@ Stimm:
 .
 
       
-",bastian-s-gaischtert-im-huss,5,1,0.5692490155873186,0.2
+",87,bastian-s-gaischtert-im-huss,5,1,0.5692490155873186,0.2
 88,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -510,7 +510,7 @@ Winkel:
 Han Sie denne Schrei g’hört, M. Meter?
 
       
-",bastian-s-gaischtert-im-huss,8,1,0.5692490155873186,0.125
+",88,bastian-s-gaischtert-im-huss,8,1,0.5692490155873186,0.125
 89,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -519,7 +519,7 @@ Meter:
 Ja, ich spring zuem Fenschter nüss.
 
       
-",bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
+",89,bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
 90,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -528,7 +528,7 @@ Winkel:
 Nix do. Jetzt isch’s Rätsel gelöst.
 
       
-",bastian-s-gaischtert-im-huss,8,1,0.0,0.125
+",90,bastian-s-gaischtert-im-huss,8,1,0.0,0.125
 92,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -541,7 +541,7 @@ Still! Sie verderwe mer noch die ganz Gschicht.
  Herr Architekt, züende Sie d' Züendschnuer aan. So! ‘Stimm: Halte! Halte!
 
       
-",bastian-s-gaischtert-im-huss,39,9,0.10911111111111109,0.23076923076923078
+",92,bastian-s-gaischtert-im-huss,39,9,0.10911111111111109,0.23076923076923078
 93,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -553,7 +553,7 @@ Winkel :
 Noch e Minüt un alles kracht in d' Luft. M. Meter, kumme Sie schnell, laufe mer, laufe mer!
 
       
-",bastian-s-gaischtert-im-huss,22,3,0.0,0.13636363636363635
+",93,bastian-s-gaischtert-im-huss,22,3,0.0,0.13636363636363635
 94,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm:
@@ -562,7 +562,7 @@ Stimm:
 Halte! Erbarme! Erbarme!
 
       
-",bastian-s-gaischtert-im-huss,4,1,0.4529999999999999,0.25
+",94,bastian-s-gaischtert-im-huss,4,1,0.4529999999999999,0.25
 95,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -574,7 +574,7 @@ Winkel :
 Wer redd do?
 
       
-",bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
+",95,bastian-s-gaischtert-im-huss,7,1,0.0,0.14285714285714285
 97,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -586,7 +586,7 @@ Winkel :
 Wer isch der ich? Schnell, ebb dass-es kracht!
 
       
-",bastian-s-gaischtert-im-huss,12,2,0.0,0.16666666666666666
+",97,bastian-s-gaischtert-im-huss,12,2,0.0,0.16666666666666666
 98,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm:
@@ -595,7 +595,7 @@ Stimm:
 Ich bin d'r Hiesermackler Michel. Halte! Halte!
 
       
-",bastian-s-gaischtert-im-huss,8,2,0.4529999999999999,0.25
+",98,bastian-s-gaischtert-im-huss,8,2,0.4529999999999999,0.25
 99,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -604,7 +604,7 @@ Winkel:
 Wo stecke Sie denn, Herr Hiesermackler?
 
       
-",bastian-s-gaischtert-im-huss,7,1,0.076,0.14285714285714285
+",99,bastian-s-gaischtert-im-huss,7,1,0.076,0.14285714285714285
 101,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel:
@@ -613,7 +613,7 @@ Winkel:
 Gelle Sie, Sie han min Hüss zuem Abbruchsprys wölle kaufe?
 
       
-",bastian-s-gaischtert-im-huss,11,1,0.0,0.09090909090909091
+",101,bastian-s-gaischtert-im-huss,11,1,0.0,0.09090909090909091
 102,horreur,E Stimm,M,real_estate_agent,service_and_sales,upper_middle_class,"
         
 Stimm:
@@ -623,7 +623,7 @@ Ich gschteh alles! Mache um d'r Gottswille d' Züendschnuer üss! Winkel, Meter:
 (lache unbändig.)
 
       
-",bastian-s-gaischtert-im-huss,17,1,0.0,0.058823529411764705
+",102,bastian-s-gaischtert-im-huss,17,1,0.0,0.058823529411764705
 103,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Winkel :
@@ -637,7 +637,7 @@ Kumme Sie doch erüss, dass mer d' Ehr han Sie kenne ze lehre.
  M. Meter, der Gaischt het e Denkzettel verdient.
 
       
-",bastian-s-gaischtert-im-huss,28,5,0.0,0.17857142857142858
+",103,bastian-s-gaischtert-im-huss,28,5,0.0,0.17857142857142858
 104,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -646,7 +646,7 @@ Meter:
 Un nit ze knapp!
 
       
-",bastian-s-gaischtert-im-huss,5,1,0.0,0.2
+",104,bastian-s-gaischtert-im-huss,5,1,0.0,0.2
 105,horreur,M. Winkel,M,landlord,rentiers,upper_middle_class,"
         
 Michel:
@@ -658,7 +658,7 @@ Michel:
 Ihr Herre, ich versprech... Winkel,
 
       
-",bastian-s-gaischtert-im-huss,14,6,0.11866666666666666,0.42857142857142855
+",105,bastian-s-gaischtert-im-huss,14,6,0.11866666666666666,0.42857142857142855
 106,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -668,7 +668,7 @@ Un mir halte’s!
 (Packe Michel un verprejele 'ne)
 
       
-",bastian-s-gaischtert-im-huss,12,1,0.4529999999999999,0.08333333333333333
+",106,bastian-s-gaischtert-im-huss,12,1,0.4529999999999999,0.08333333333333333
 107,horreur,M. Meter,M,architect,professionals_scientific_technical,upper_middle_class,"
         
 Meter:
@@ -678,4 +678,4 @@ Michel: Halte! Halte!
 (Rideau.)
 
       
-",bastian-s-gaischtert-im-huss,7,2,0.4529999999999999,0.2857142857142857
+",107,bastian-s-gaischtert-im-huss,7,2,0.4529999999999999,0.2857142857142857

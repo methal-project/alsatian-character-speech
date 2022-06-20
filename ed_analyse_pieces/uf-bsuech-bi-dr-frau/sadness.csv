@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -17,7 +17,7 @@ Mine Hànschig, mi Eventail... ich ha glaüb alles... jà
                         Tschobe!... Herr Tschobe!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,56,9,0.05888888888888889,0.16071428571428573
+",0,lustig-uf-bsuech-bi-dr-frau,56,9,0.05888888888888889,0.16071428571428573
 1,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -29,7 +29,7 @@ Dr Portner
 Was b'liebt, Madame Türk?
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
+",0,lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
 2,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -40,7 +40,7 @@ Sin Se doch so güet un nàmme Se mi Schlissel un hole Se
                         Tisch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,27,3,0.0,0.1111111111111111
+",0,lustig-uf-bsuech-bi-dr-frau,27,3,0.0,0.1111111111111111
 3,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -53,7 +53,7 @@ Glich, Madame Türk... ich will nur noch dr Katz d'Milch
                         blose...
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,3,0.0,0.17647058823529413
+",1,lustig-uf-bsuech-bi-dr-frau,17,3,0.0,0.17647058823529413
 4,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -128,7 +128,7 @@ Awer dà Portner kunnt jo gar nitt... wenn nur dr
 kämme Se bol, Herr Tschobe?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,296,49,0.07364618186815167,0.16554054054054054
+",1,lustig-uf-bsuech-bi-dr-frau,296,49,0.07364618186815167,0.16554054054054054
 5,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -140,7 +140,7 @@ Dr Portner
 Do, Madame Türk.
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",1,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 6,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -155,7 +155,7 @@ Endlig!
                         sàhn, ass ich üsgang...
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,3,0.0,0.125
+",2,lustig-uf-bsuech-bi-dr-frau,24,3,0.0,0.125
 7,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -167,7 +167,7 @@ Dr Portner
 Müess me-n-uf Se warte?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
+",2,lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
 8,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -177,7 +177,7 @@ Madame Türk.
                         wohrschinlig spot heim...
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,3,0.10401970226078176,0.2
+",2,lustig-uf-bsuech-bi-dr-frau,15,3,0.10401970226078176,0.2
 9,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner.
@@ -188,7 +188,7 @@ Ich wünsch viel Plaisier, Madame Türk
                         züe).
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,5,0.11879999999999999,0.3333333333333333
+",3,lustig-uf-bsuech-bi-dr-frau,15,5,0.11879999999999999,0.3333333333333333
 10,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -205,7 +205,7 @@ Merci, Herr Tschobe!
                         no de Madame Türk kunnt ku froge...
 
         
-",lustig-uf-bsuech-bi-dr-frau,55,7,0.0,0.12727272727272726
+",3,lustig-uf-bsuech-bi-dr-frau,55,7,0.0,0.12727272727272726
 11,comedy,Dr Portner vom Hotel,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -218,7 +218,7 @@ Güet, güet... ich weiss es scho... ich schick alle
                         züe-n-Ihrer Cüsine ufe.
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,3,0.0,0.15789473684210525
+",3,lustig-uf-bsuech-bi-dr-frau,19,3,0.0,0.15789473684210525
 12,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -259,7 +259,7 @@ känne-n-üshalte... Tag un Nacht ha-n-i se
                         poursuiviert).
 
         
-",lustig-uf-bsuech-bi-dr-frau,262,27,0.0352962962962963,0.10305343511450382
+",4,lustig-uf-bsuech-bi-dr-frau,262,27,0.0352962962962963,0.10305343511450382
 13,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -268,7 +268,7 @@ Herr Türk.
 Ah! ne Dame... die will ich glich froge...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",4,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 14,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -281,7 +281,7 @@ Madame Dampf
 Endlig... bisch Dü's, mi Liewer...
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,6,0.2316666666666667,0.2608695652173913
+",4,lustig-uf-bsuech-bi-dr-frau,23,6,0.2316666666666667,0.2608695652173913
 15,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -290,7 +290,7 @@ Herr Türk.
 Verzeiht Se...
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",5,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 16,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -299,7 +299,7 @@ Madame Dampf.
 Dü hasch mich erwartet... ich ha mr's denkt...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",5,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 17,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -308,7 +308,7 @@ Herr Türk.
 Bàh!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",5,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 18,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -318,7 +318,7 @@ Thüe doch dem Herr dert danke, wo durchüs mich hat welle
                         heim begleite.
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,5,0.1,0.3333333333333333
+",6,lustig-uf-bsuech-bi-dr-frau,15,5,0.1,0.3333333333333333
 19,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -327,7 +327,7 @@ Herr Türk.
 Ah! so!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",6,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 20,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -339,7 +339,7 @@ Madame Dampf
 Dà Herr isch mi Mann.
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,5,0.1,0.4166666666666667
+",6,lustig-uf-bsuech-bi-dr-frau,12,5,0.1,0.4166666666666667
 21,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -350,7 +350,7 @@ Hein!
  ich bi ihr...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",7,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 22,comedy,Ne junger Mensch,U,,,,"
           
 Dr junge Mensch
@@ -363,7 +363,7 @@ Madame... ich salütier Se
 (er laüft dervo rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
+",7,lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
 23,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -375,7 +375,7 @@ Herr Türk
 Was dr Kückücks isch jetz das fir Eine?
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,3,0.0,0.21428571428571427
+",7,lustig-uf-bsuech-bi-dr-frau,14,3,0.0,0.21428571428571427
 24,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -388,7 +388,7 @@ Madame Dampf
 Ah! 's wird mr glaüb weh!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,6,0.27230999970940667,0.2727272727272727
+",8,lustig-uf-bsuech-bi-dr-frau,22,6,0.27230999970940667,0.2727272727272727
 25,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -399,7 +399,7 @@ Was laüft mr in dr Nàcke?... ah, 's isch dr Parepli, wo
                         ass ich d'Ehr ha, ne so ig'spretzt z'werde?
 
         
-",lustig-uf-bsuech-bi-dr-frau,34,3,0.0,0.08823529411764706
+",8,lustig-uf-bsuech-bi-dr-frau,34,3,0.0,0.08823529411764706
 26,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -408,7 +408,7 @@ Madame Dampf.
 Awer, was werde Sie denke vo mr, nitt wohr?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",8,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 27,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -418,7 +418,7 @@ Eh, eh, eh!... losst Se mich z'erst emol dà Riflard
                         hewe... das Ding geht jo wie ne Kànel in mi Hals awe...
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,4,0.0,0.16
+",9,lustig-uf-bsuech-bi-dr-frau,25,4,0.0,0.16
 28,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -428,7 +428,7 @@ Verfolgt vo dem unverschàmte Mensch, ha-n-ich halt 's
                         nächste beste Mittel ergriffe, fir en abz'biku...
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,6,0.15366666666666665,0.3157894736842105
+",9,lustig-uf-bsuech-bi-dr-frau,19,6,0.15366666666666665,0.3157894736842105
 29,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -439,7 +439,7 @@ Sie hat mi Arm unter dr Hand g'ha, un...
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.2966666666666667,0.2727272727272727
+",9,lustig-uf-bsuech-bi-dr-frau,11,3,0.2966666666666667,0.2727272727272727
 30,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -448,7 +448,7 @@ Madame Dampf.
 Un ich möcht Sie bitte, mich vielmol z'excüsiere...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.328,0.2727272727272727
+",10,lustig-uf-bsuech-bi-dr-frau,11,3,0.328,0.2727272727272727
 31,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -465,7 +465,7 @@ Worum denn, worum denn
                         un b'haltet en in dr Hand).
 
         
-",lustig-uf-bsuech-bi-dr-frau,45,6,0.0,0.13333333333333333
+",10,lustig-uf-bsuech-bi-dr-frau,45,6,0.0,0.13333333333333333
 32,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -475,7 +475,7 @@ Ich bi g'wiss froh, ass ich mich an e galanter Herr
                         adressiert ha.
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,4,0.125,0.26666666666666666
+",10,lustig-uf-bsuech-bi-dr-frau,15,4,0.125,0.26666666666666666
 33,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -486,7 +486,7 @@ Oh! galant... nur am e Sunntig... in dr Wuche ha-n-ich
                         wo dr Kitterle wachst.
 
         
-",lustig-uf-bsuech-bi-dr-frau,28,3,0.2261715318245718,0.10714285714285714
+",11,lustig-uf-bsuech-bi-dr-frau,28,3,0.2261715318245718,0.10714285714285714
 34,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -502,7 +502,7 @@ Thüet er güet mich dunke.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,3,0.16666666666666666,0.23076923076923078
+",11,lustig-uf-bsuech-bi-dr-frau,13,3,0.16666666666666666,0.23076923076923078
 35,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -518,7 +518,7 @@ Ich bi Fir un Funke.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,4,0.002249999999999975,0.3333333333333333
+",11,lustig-uf-bsuech-bi-dr-frau,12,4,0.002249999999999975,0.3333333333333333
 36,comedy,Herr TÜRK,M,,,,"
             
 Er.
@@ -540,7 +540,7 @@ Un g'wiss, derno gieng's anderscht her.
             
 
           
-",lustig-uf-bsuech-bi-dr-frau,28,4,0.0,0.14285714285714285
+",12,lustig-uf-bsuech-bi-dr-frau,28,4,0.0,0.14285714285714285
 37,comedy,Madame DAMPF,F,,,,"
             
 Sie.
@@ -562,7 +562,7 @@ Un g'wiss, derno gieng's anderscht her.
             
 
           
-",lustig-uf-bsuech-bi-dr-frau,30,6,0.08333333333333333,0.2
+",12,lustig-uf-bsuech-bi-dr-frau,30,6,0.08333333333333333,0.2
 38,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -578,7 +578,7 @@ Aha! ich erkenn mi jetz... ich bi-n-an Ort un Stell ku,
                         scho Zehne!
 
         
-",lustig-uf-bsuech-bi-dr-frau,36,6,0.08333333333333333,0.16666666666666666
+",12,lustig-uf-bsuech-bi-dr-frau,36,6,0.08333333333333333,0.16666666666666666
 39,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -588,7 +588,7 @@ Ah bah!... dr Zug isch schint's z'spot gsi... ich hätt
                         jo am Achte scho solle-n-aku.
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,2,0.15602955339117264,0.09523809523809523
+",13,lustig-uf-bsuech-bi-dr-frau,21,2,0.15602955339117264,0.09523809523809523
 40,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -602,7 +602,7 @@ Un dr Herr Zitelpost, wo-n-ich hätt solle-n-atreffe do
                         warte-n-un isch halt furt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,34,7,0.12794087280481187,0.20588235294117646
+",13,lustig-uf-bsuech-bi-dr-frau,34,7,0.12794087280481187,0.20588235294117646
 41,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -611,7 +611,7 @@ Herr Türk.
 Geht Ihre Ziwele güet?
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
+",13,lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
 42,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -624,7 +624,7 @@ Desto besser... ich ha-n-Unrecht g'ha, ihm das erste
                         Rendez-vous z'gà.
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
+",14,lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
 43,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -637,7 +637,7 @@ Herr Türk
                         Gàwiller... die laüfe schint's hinte no?
 
         
-",lustig-uf-bsuech-bi-dr-frau,27,2,0.0,0.07407407407407407
+",14,lustig-uf-bsuech-bi-dr-frau,27,2,0.0,0.07407407407407407
 44,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -651,7 +651,7 @@ Ich ha-n-in dr Magd g'sàit, wo-n-i furt bi, ich gieng
                         Visite geh mache.
 
         
-",lustig-uf-bsuech-bi-dr-frau,34,5,0.1,0.14705882352941177
+",14,lustig-uf-bsuech-bi-dr-frau,34,5,0.1,0.14705882352941177
 45,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -664,7 +664,7 @@ Wenn Se will, ass ich Se heimbegleit, so derf Se's nur
                         sage...
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,1,0.0,0.05555555555555555
+",15,lustig-uf-bsuech-bi-dr-frau,18,1,0.0,0.05555555555555555
 46,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -679,7 +679,7 @@ Ich dank Ene vielmol... awer ich ha ne Visite z'mache
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,28,5,0.1,0.17857142857142858
+",15,lustig-uf-bsuech-bi-dr-frau,28,5,0.1,0.17857142857142858
 47,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -692,7 +692,7 @@ Das macht nit... ich wart uf Se.... ich möcht nitt, ass
  im e Fiacre.
 
         
-",lustig-uf-bsuech-bi-dr-frau,33,6,0.0,0.18181818181818182
+",15,lustig-uf-bsuech-bi-dr-frau,33,6,0.0,0.18181818181818182
 48,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -705,7 +705,7 @@ Madame Dampf
 (se salütiert un geht ine).
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,5,0.24899879697507848,0.20833333333333334
+",16,lustig-uf-bsuech-bi-dr-frau,24,5,0.24899879697507848,0.20833333333333334
 49,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -730,7 +730,7 @@ Se sàit mr Adie!... das macht awer mi Affaire nitt...
                         verwitsch... das wàr embetant!
 
         
-",lustig-uf-bsuech-bi-dr-frau,142,13,0.13776876806733787,0.09154929577464789
+",16,lustig-uf-bsuech-bi-dr-frau,142,13,0.13776876806733787,0.09154929577464789
 50,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -746,7 +746,7 @@ Aha!... jetz bin i glaüb am Ort, wo se mr g'sàit hat
                         do isch er... ich will noch emol lüege...
 
         
-",lustig-uf-bsuech-bi-dr-frau,44,3,0.0,0.06818181818181818
+",16,lustig-uf-bsuech-bi-dr-frau,44,3,0.0,0.06818181818181818
 51,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -759,7 +759,7 @@ Mi Nase g'friert mr alleweg noch ab...
 (er niesst).
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
+",17,lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
 52,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -773,7 +773,7 @@ Herr Zitelpost
                         Nàiere z'geh, wo-n-am Ecke vo dr Schnokegasse wohnt. »
 
         
-",lustig-uf-bsuech-bi-dr-frau,40,7,0.0,0.175
+",17,lustig-uf-bsuech-bi-dr-frau,40,7,0.0,0.175
 53,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -786,7 +786,7 @@ Ah! das macht mr güet, das...
 (er geht uf un awe).
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,4,0.0,0.2222222222222222
+",17,lustig-uf-bsuech-bi-dr-frau,18,4,0.0,0.2222222222222222
 54,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -797,7 +797,7 @@ Das isch do... endlig hat se mr emol das erste
 (er geht o spaziere).
 
         
-",lustig-uf-bsuech-bi-dr-frau,20,2,0.0,0.1
+",18,lustig-uf-bsuech-bi-dr-frau,20,2,0.0,0.1
 55,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -809,7 +809,7 @@ Herr Türk
 Geht's jetz eigentlig eso furt!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
+",18,lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
 56,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -821,7 +821,7 @@ Herr Zitelpost
 Se hat e wiescht Quartier g'choisiert.
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",18,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 57,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -833,7 +833,7 @@ Herr Türk
 Das ich emol e Faction, wo zählt!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
+",19,lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
 58,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -846,7 +846,7 @@ Wenn ich e Cigarettle thàt raüche ?... awer nei... am
                         erste Rendez-vous...
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,1,0.0,0.058823529411764705
+",19,lustig-uf-bsuech-bi-dr-frau,17,1,0.0,0.058823529411764705
 59,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -864,7 +864,7 @@ Tiens, tiens, do isch jo ne Herr, wo schint's o Faction
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,37,5,0.0,0.13513513513513514
+",19,lustig-uf-bsuech-bi-dr-frau,37,5,0.0,0.13513513513513514
 60,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -876,7 +876,7 @@ Herr Zitelpost
 Tiens, was isch jetz das fir Einer .. was macht dà do?
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,3,0.0,0.17647058823529413
+",20,lustig-uf-bsuech-bi-dr-frau,17,3,0.0,0.17647058823529413
 61,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -888,7 +888,7 @@ Herr Türk
 Will er eigentlig do bliwe?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",20,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 62,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -900,7 +900,7 @@ Herr Zitelpost
 Wenn se jetz kàm!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",20,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 63,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -914,7 +914,7 @@ Er thüet mich
  geniere.
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",21,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 64,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -927,7 +927,7 @@ G'sundheit!... das isch kei güet Wetter fir eso duss
                         z'bliwe, güeter Frind!
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,7,0.0,0.3888888888888889
+",21,lustig-uf-bsuech-bi-dr-frau,18,7,0.0,0.3888888888888889
 65,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -939,7 +939,7 @@ Herr Türk.
                         wàr viel besser d'heim.
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
+",21,lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
 66,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -948,7 +948,7 @@ Herr Zitelpost.
 Sie thien wohrschinlig uf ebber warte?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,3,0.0,0.375
+",22,lustig-uf-bsuech-bi-dr-frau,8,3,0.0,0.375
 67,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -957,7 +957,7 @@ Herr Türk.
 Jà, jà... un Sie?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",22,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 68,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -966,7 +966,7 @@ Herr Zitelpost.
 Ich o.
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",22,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 69,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -975,7 +975,7 @@ Herr Türk.
 Ne Dame viellicht?
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,3,0.0,0.6
+",23,lustig-uf-bsuech-bi-dr-frau,5,3,0.0,0.6
 70,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -984,7 +984,7 @@ Herr Zitelpost.
 Ne Dame, jà... un Sie?
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",23,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 71,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -993,7 +993,7 @@ Herr Türk.
 Ich o.
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",23,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 72,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1002,7 +1002,7 @@ Herr Zitelpost.
 Wo do in dem Quartier wohnt?
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",24,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 73,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1011,7 +1011,7 @@ Herr Türk.
 In dem Hüs do... un Ihre Dame?
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,3,0.0,0.3333333333333333
+",24,lustig-uf-bsuech-bi-dr-frau,9,3,0.0,0.3333333333333333
 74,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1020,7 +1020,7 @@ Herr Zitelpost.
 Soll o in das Hüs do ku... das isch sunderbar!
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,4,0.047,0.3333333333333333
+",24,lustig-uf-bsuech-bi-dr-frau,12,4,0.047,0.3333333333333333
 75,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1029,7 +1029,7 @@ Herr Türk.
 's isch possig... un Sie wànn do bliwe?
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
+",25,lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
 76,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1038,7 +1038,7 @@ Herr Zitelpost.
 Bis ass se kunnt... un Sie?
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",25,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 77,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1047,7 +1047,7 @@ Herr Türk.
 Bis ass se furt geht.
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
+",25,lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
 78,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1057,7 +1057,7 @@ Sie verstehn awer doch wohl, ass, we me sich erwartet,
                         nur ei Person z'finde...
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,4,0.0,0.23529411764705882
+",26,lustig-uf-bsuech-bi-dr-frau,17,4,0.0,0.23529411764705882
 79,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1066,7 +1066,7 @@ Herr Türk.
 Un findet zwei, ass das geniert...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",26,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 80,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1076,7 +1076,7 @@ B'sunders, wenn e Dame sich müess in Acht nàh vor ihrem
                         Mann.
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,3,0.0,0.21428571428571427
+",26,lustig-uf-bsuech-bi-dr-frau,14,3,0.0,0.21428571428571427
 81,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1085,7 +1085,7 @@ Herr Türk.
 's isch ganz das...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
+",27,lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
 82,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1095,7 +1095,7 @@ Ne Fraü in dàre Situation isch misstraüisch, un wenn Sie
                         do bliwe...
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,1,0.0,0.07142857142857142
+",27,lustig-uf-bsuech-bi-dr-frau,14,1,0.0,0.07142857142857142
 83,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1104,7 +1104,7 @@ Herr Türk.
 So traüt se nitt üse ku!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
+",27,lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
 84,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1113,7 +1113,7 @@ Herr Zitelpost.
 Sie wàre g'wiss recht ordlig...
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",28,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 85,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1122,7 +1122,7 @@ Herr Türk.
 Sie thàte mr Freid mache...
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",28,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 86,comedy,Herr TÜRK,M,,,,"
           
 Beide mitnander.
@@ -1131,7 +1131,7 @@ Beide mitnander.
 Wenn Sie furt giengte!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",28,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 87,comedy,Herr ZITELPOST,M,,,,"
           
 Beide mitnander.
@@ -1140,7 +1140,7 @@ Beide mitnander.
 Wenn Sie furt giengte!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",29,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 88,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1151,7 +1151,7 @@ Ich wich nitt vom Fleck!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",29,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 89,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1160,7 +1160,7 @@ Herr Zitelpost.
 Sin Se nitt so stättig... un lehn Se mi allei do.
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,2,0.2944960077342793,0.15384615384615385
+",29,lustig-uf-bsuech-bi-dr-frau,13,2,0.2944960077342793,0.15384615384615385
 90,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1170,7 +1170,7 @@ Die Gasse isch in alle Lit... 's ka sich drin ufhalte,
                         wer will...
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
+",30,lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
 91,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1179,7 +1179,7 @@ Herr Zitelpost.
 Bringe Se mi nitt in d'Hitze!
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
+",30,lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
 92,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1189,7 +1189,7 @@ Wenn Sie kalt hätte wie-n-ich, so wàr das höchstens güet
                         fir Se.
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,4,0.09774999999999998,0.25
+",30,lustig-uf-bsuech-bi-dr-frau,16,4,0.09774999999999998,0.25
 93,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1198,7 +1198,7 @@ Herr Zitelpost.
 Ich bi vif, ass Sie's wisse!
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,1,0.0,0.1111111111111111
+",31,lustig-uf-bsuech-bi-dr-frau,9,1,0.0,0.1111111111111111
 94,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1207,7 +1207,7 @@ Herr Türk.
 's Pulver isch nur e Narr gege mir...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,3,0.12266666666666666,0.3
+",31,lustig-uf-bsuech-bi-dr-frau,10,3,0.12266666666666666,0.3
 95,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -1222,7 +1222,7 @@ Se kunnt jetz alleweg glich
                         jetz, mache Sie sich dervo oder ich...
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,3,0.0,0.125
+",31,lustig-uf-bsuech-bi-dr-frau,24,3,0.0,0.125
 96,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1234,7 +1234,7 @@ Herr Türk
 Halt! oder i schiess!
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
+",32,lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
 97,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -1246,7 +1246,7 @@ Herr Zitelpost
 Was isch das! ich kenn 'n, dà Parepli!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
+",32,lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
 98,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1258,7 +1258,7 @@ Herr Türk
 Wann Se mr g'schwind das Ding geh lo.
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,3,0.18735382505551892,0.1875
+",32,lustig-uf-bsuech-bi-dr-frau,16,3,0.18735382505551892,0.1875
 99,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -1273,7 +1273,7 @@ Eh alleweg... 's isch ihrer!
                         un sie hat ne Ihne gà?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,5,0.13589080139125803,0.2
+",33,lustig-uf-bsuech-bi-dr-frau,25,5,0.13589080139125803,0.2
 100,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1282,7 +1282,7 @@ Herr Türk.
 Die Dame?... nei, nur g'lehnt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",33,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 101,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1291,7 +1291,7 @@ Herr Zitelpost.
 Sie isch's also, wo dert ine-n-isch?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
+",33,lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
 102,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1300,7 +1300,7 @@ Herr Türk.
 Jà.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",34,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 103,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1309,7 +1309,7 @@ Herr Zitelpost.
 In das Hüs?
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
+",34,lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
 104,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1318,7 +1318,7 @@ Herr Türk.
 Jà.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",34,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 105,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1327,7 +1327,7 @@ Herr Zitelpost.
 s' isch uf sie, wo Se warte?
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,3,0.0,0.3333333333333333
+",35,lustig-uf-bsuech-bi-dr-frau,9,3,0.0,0.3333333333333333
 106,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1336,7 +1336,7 @@ Herr Türk.
 Jà.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",35,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 107,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1345,7 +1345,7 @@ Herr Zitelpost.
 Fir se heimz'begleite?
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
+",35,lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
 108,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1354,7 +1354,7 @@ Herr Türk.
 Jà.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",36,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 109,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1363,7 +1363,7 @@ Herr Zitelpost.
 Das g'schieht nitt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",36,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 110,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1372,7 +1372,7 @@ Herr Türk.
 Was b'liebt?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",36,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 111,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1381,7 +1381,7 @@ Herr Zitelpost.
 Ich verbiet's Ene!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
+",37,lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
 112,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1392,7 +1392,7 @@ Ah! bah!
  dà g'fallt mr jetzt noch!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
+",37,lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
 113,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -1432,7 +1432,7 @@ Hat's mit mir z'thüe!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,68,9,0.12789483229279058,0.1323529411764706
+",37,lustig-uf-bsuech-bi-dr-frau,68,9,0.12789483229279058,0.1323529411764706
 114,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1454,7 +1454,7 @@ Grad wie's mir g'fallt!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,26,4,0.1405153687916392,0.15384615384615385
+",38,lustig-uf-bsuech-bi-dr-frau,26,4,0.1405153687916392,0.15384615384615385
 115,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1463,7 +1463,7 @@ Herr Zitelpost.
 Eh bien... ich forder Sie üse!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,3,0.0,0.375
+",38,lustig-uf-bsuech-bi-dr-frau,8,3,0.0,0.375
 116,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1476,7 +1476,7 @@ Uf d'Pistole... awer glich jetz
                         nitt vielmol g'sàh!
 
         
-",lustig-uf-bsuech-bi-dr-frau,30,5,0.0,0.16666666666666666
+",38,lustig-uf-bsuech-bi-dr-frau,30,5,0.0,0.16666666666666666
 117,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1486,7 +1486,7 @@ Güet... ich hol Pistole un e Zige... süeche Sie sich o
                         einer... in zeh Minüte bin i wieder do.
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,5,0.0,0.23809523809523808
+",39,lustig-uf-bsuech-bi-dr-frau,21,5,0.0,0.23809523809523808
 118,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1495,7 +1495,7 @@ Herr Türk.
 Ich gib Ene drizehne, ohne Secunde!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",39,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 119,comedy,Herr ZITELPOST,M,,,,"
           
 Beide mitnander.
@@ -1520,7 +1520,7 @@ Fir das sorg ich!
 (Herr Zitelpost geht furt rechts)
 
         
-",lustig-uf-bsuech-bi-dr-frau,32,7,0.0,0.21875
+",39,lustig-uf-bsuech-bi-dr-frau,32,7,0.0,0.21875
 120,comedy,Herr TÜRK,M,,,,"
           
 Beide mitnander.
@@ -1545,7 +1545,7 @@ Fir das sorg ich!
 (Herr Zitelpost geht furt rechts)
 
         
-",lustig-uf-bsuech-bi-dr-frau,32,7,0.0,0.21875
+",40,lustig-uf-bsuech-bi-dr-frau,32,7,0.0,0.21875
 121,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1561,7 +1561,7 @@ Armer Tropf! er meint, er macht mir Angst... ich, wo als
                         awer wo einer finde um die Zit?
 
         
-",lustig-uf-bsuech-bi-dr-frau,53,10,0.11509920154685586,0.18867924528301888
+",40,lustig-uf-bsuech-bi-dr-frau,53,10,0.11509920154685586,0.18867924528301888
 122,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1576,7 +1576,7 @@ Ne Summervogel isch nitt besser ufg'legt, as ich hit
                         vorg'richte ha im versteckte...
 
         
-",lustig-uf-bsuech-bi-dr-frau,45,8,0.0625,0.17777777777777778
+",40,lustig-uf-bsuech-bi-dr-frau,45,8,0.0625,0.17777777777777778
 123,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1588,7 +1588,7 @@ Herr Türk
 Jà, Jà, wo isch awer jetz einer z'finde?
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,3,0.0,0.2
+",41,lustig-uf-bsuech-bi-dr-frau,15,3,0.0,0.2
 124,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1601,7 +1601,7 @@ Ich hätt sunscht nie känne mine G'schàfte ferig mache un
                         am Nine do si...
 
         
-",lustig-uf-bsuech-bi-dr-frau,20,4,0.125,0.2
+",41,lustig-uf-bsuech-bi-dr-frau,20,4,0.125,0.2
 125,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1613,7 +1613,7 @@ Herr Türk
 Ah... still! dà kunnt jetz wie g'rüete...
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,5,0.1,0.29411764705882354
+",41,lustig-uf-bsuech-bi-dr-frau,17,5,0.1,0.29411764705882354
 126,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1627,7 +1627,7 @@ Wenn mi Fraü wisse thàt, ass ich, anstatt Zahle z'àmme
                         z'geh!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,29,6,0.08333333333333333,0.20689655172413793
+",42,lustig-uf-bsuech-bi-dr-frau,29,6,0.08333333333333333,0.20689655172413793
 127,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1636,7 +1636,7 @@ Herr Türk.
 Wie will ich's eigentlig aschicke, fir ne az'rede?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",42,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 128,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1649,7 +1649,7 @@ Voyons, do bin i jetz emol in dr Gasse... dr Nümero
                         müess do e-n-àime si...
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,3,0.16666666666666666,0.13043478260869565
+",42,lustig-uf-bsuech-bi-dr-frau,23,3,0.16666666666666666,0.13043478260869565
 129,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1664,7 +1664,7 @@ Aha, ich 'weiss jetz wie!
                         Se mir sage, wel Zit as es isch!
 
         
-",lustig-uf-bsuech-bi-dr-frau,28,5,0.11790727845630337,0.17857142857142858
+",43,lustig-uf-bsuech-bi-dr-frau,28,5,0.11790727845630337,0.17857142857142858
 130,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1679,7 +1679,7 @@ Herr Dampf
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,27,7,0.2439141879100373,0.25925925925925924
+",43,lustig-uf-bsuech-bi-dr-frau,27,7,0.2439141879100373,0.25925925925925924
 131,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1692,7 +1692,7 @@ Pardon... 's isch d'Zit un nitt d'Ühre, wo-n-ich Ihne
                         g'heische ha...
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
+",43,lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
 132,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1708,7 +1708,7 @@ Verzeihe Se... awer Sie verstehn wohl, we me d'Lit nitt
                         un fünf Minüte...
 
         
-",lustig-uf-bsuech-bi-dr-frau,32,6,0.08333333333333333,0.1875
+",44,lustig-uf-bsuech-bi-dr-frau,32,6,0.08333333333333333,0.1875
 133,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1717,7 +1717,7 @@ Herr Türk.
 Sie gehn z'spot...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.15602955339117264,0.3333333333333333
+",44,lustig-uf-bsuech-bi-dr-frau,6,2,0.15602955339117264,0.3333333333333333
 134,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1726,7 +1726,7 @@ Herr Dampf.
 Ich gang as wie d'Finanze...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.25,0.25
+",44,lustig-uf-bsuech-bi-dr-frau,8,2,0.25,0.25
 135,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1737,7 +1737,7 @@ Enfin, das hat nit z'sage... Sie sin in dr Ordnung
                         was ich brüch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,2,0.0,0.08
+",45,lustig-uf-bsuech-bi-dr-frau,25,2,0.0,0.08
 136,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1746,7 +1746,7 @@ Herr Dampf.
 Jà un derno... was hàn Se-n-eigentlig im Sinn?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.25,0.16666666666666666
+",45,lustig-uf-bsuech-bi-dr-frau,12,2,0.25,0.16666666666666666
 137,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1756,7 +1756,7 @@ Berüehige Sie sich... ich möcht Se nur bitte, mir als
                         Zige z'diene im e Duell...
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.16133333333333333,0.16666666666666666
+",45,lustig-uf-bsuech-bi-dr-frau,18,3,0.16133333333333333,0.16666666666666666
 138,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1765,7 +1765,7 @@ Herr Dampf.
 Ne Duell!... un worum?
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,3,0.16666666666666666,0.5
+",46,lustig-uf-bsuech-bi-dr-frau,6,3,0.16666666666666666,0.5
 139,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1774,7 +1774,7 @@ Herr Türk.
 Ich weiss es nitt recht...
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",46,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 140,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1783,7 +1783,7 @@ Herr Dampf.
 Mit wem?
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
+",46,lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
 141,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1793,7 +1793,7 @@ Sàll weiss i gar nitt! jetz wisse Se so viel as ich...
                         un das Ding soll do statt ha unter dr Laterne...
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,3,0.10933333333333334,0.125
+",47,lustig-uf-bsuech-bi-dr-frau,24,3,0.10933333333333334,0.125
 142,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1802,7 +1802,7 @@ Herr Dampf.
 Uf dr Gasse!
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
+",47,lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
 143,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1811,7 +1811,7 @@ Herr Türk.
 Un dà, wo Meister wird, dem isch se si Eigethum...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",47,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 144,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -1829,7 +1829,7 @@ Dà Mensch isch e Narr oder er macht mich z'posiere
                         b'stellt im Hotel...
 
         
-",lustig-uf-bsuech-bi-dr-frau,53,11,0.12637712837127804,0.20754716981132076
+",48,lustig-uf-bsuech-bi-dr-frau,53,11,0.12637712837127804,0.20754716981132076
 145,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1838,7 +1838,7 @@ Herr Türk.
 Aha... zwei Couverts...
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",48,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 146,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1852,7 +1852,7 @@ Ne so ne Unschuld e-n-àime üs dr Umgegend, wo meint, ich
 (er will geh).
 
         
-",lustig-uf-bsuech-bi-dr-frau,59,10,0.05,0.1694915254237288
+",48,lustig-uf-bsuech-bi-dr-frau,59,10,0.05,0.1694915254237288
 147,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1865,7 +1865,7 @@ Herr Türk
                         g'ha...
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,3,0.0,0.15789473684210525
+",49,lustig-uf-bsuech-bi-dr-frau,19,3,0.0,0.15789473684210525
 148,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1874,7 +1874,7 @@ Herr Dampf.
 's isch mr Leid... ich ka rundüs nitt...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,3,0.3407161373613528,0.3
+",49,lustig-uf-bsuech-bi-dr-frau,10,3,0.3407161373613528,0.3
 149,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -1887,7 +1887,7 @@ Allons... ich bi g'rischtet... ein vo mine güete Frind
                         wartet uf is mit Pistole un isch mi Zige...
 
         
-",lustig-uf-bsuech-bi-dr-frau,27,7,0.0,0.25925925925925924
+",49,lustig-uf-bsuech-bi-dr-frau,27,7,0.0,0.25925925925925924
 150,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1901,7 +1901,7 @@ Un do isch miner!..
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,4,0.125,0.3333333333333333
+",50,lustig-uf-bsuech-bi-dr-frau,12,4,0.125,0.3333333333333333
 151,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1910,7 +1910,7 @@ Herr Dampf.
 Nei, nei, 's ka nitt si!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.25,0.25
+",50,lustig-uf-bsuech-bi-dr-frau,8,2,0.25,0.25
 152,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost un Herr Dampf
@@ -1922,7 +1922,7 @@ Herr Zitelpost un Herr Dampf
 Ah!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",50,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 153,comedy,Herr DAMPF,M,,,,"
           
 Herr Zitelpost un Herr Dampf
@@ -1934,7 +1934,7 @@ Herr Zitelpost un Herr Dampf
 Ah!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",51,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 154,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1943,7 +1943,7 @@ Herr Zitelpost.
 Dr Herr Dampf!
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
+",51,lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
 155,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1952,7 +1952,7 @@ Herr Dampf.
 Dr Herr Zitelpost!
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
+",51,lustig-uf-bsuech-bi-dr-frau,5,3,0.16666666666666666,0.6
 156,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -1961,7 +1961,7 @@ Herr Türk.
 Tiens!... se kenne sich!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",52,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 157,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -1971,7 +1971,7 @@ Was... Sie, Herr Zitelpost... Sie wànn sich
                         schlage?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,4,0.125,0.4
+",52,lustig-uf-bsuech-bi-dr-frau,10,4,0.125,0.4
 158,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -1980,7 +1980,7 @@ Herr Zitelpost.
 Dà Herr hat mich beleidigt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
+",52,lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
 159,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -1993,7 +1993,7 @@ Was! Sie, im Gegetheil, hàn mich versàgt... embetiert
                         sogar...
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
+",53,lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
 160,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2005,7 +2005,7 @@ Herr Dampf
 Worum eigentlig, wànn ihr eüch schlage?
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
+",53,lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
 161,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2014,7 +2014,7 @@ Herr Türk.
 Ich will's Ene ufrichtig sage...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
+",53,lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
 162,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2026,7 +2026,7 @@ Herr Zitelpost
 Sage Se nit... 's isch dr Mann!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,3,0.0,0.2
+",54,lustig-uf-bsuech-bi-dr-frau,15,3,0.0,0.2
 163,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2038,7 +2038,7 @@ Herr Türk
 Dr Mann vo dàre junge Dame mit em Parepli?.. ah! bah!
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,4,0.0,0.25
+",54,lustig-uf-bsuech-bi-dr-frau,16,4,0.0,0.25
 164,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2052,7 +2052,7 @@ Jà!
                         si Ricke).
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
+",54,lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
 165,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2068,7 +2068,7 @@ Ah... ah... eh bien, wart... ich will in dem eine
                         handelt... denke Sie sich, Herr Krampf...
 
         
-",lustig-uf-bsuech-bi-dr-frau,34,6,0.0,0.17647058823529413
+",55,lustig-uf-bsuech-bi-dr-frau,34,6,0.0,0.17647058823529413
 166,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2077,7 +2077,7 @@ Herr Dampf.
 Dampf.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,3,0.3333333333333333,1.0
+",55,lustig-uf-bsuech-bi-dr-frau,3,3,0.3333333333333333,1.0
 167,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2089,7 +2089,7 @@ Herr Zitelpost
 Was wànn Se-n-ihm sage?
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",55,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 168,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2104,7 +2104,7 @@ Ich weiss es no nitt.
                         sich, nitt wohr?
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,3,0.0,0.14285714285714285
+",56,lustig-uf-bsuech-bi-dr-frau,21,3,0.0,0.14285714285714285
 169,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2113,7 +2113,7 @@ Herr Dampf.
 Ich mach mi möglig's.
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.25,0.2857142857142857
+",56,lustig-uf-bsuech-bi-dr-frau,7,2,0.25,0.2857142857142857
 170,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2122,7 +2122,7 @@ Herr Türk.
 Also, ka-n-ich furtfahre... 's handelt sich...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",56,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 171,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2131,7 +2131,7 @@ Herr Dampf.
 Um was?
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
+",57,lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
 172,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2140,7 +2140,7 @@ Herr Türk.
 Um e Verfiehrung...
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",57,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 173,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2152,7 +2152,7 @@ Herr Zitelpost
 Gàn Se-n-Achtung!
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
+",57,lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
 174,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2167,7 +2167,7 @@ Scho güet
                         Sie...
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
+",58,lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
 175,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2180,7 +2180,7 @@ Gàn Se-n-Achtung... dr Herr Zitelpost isch g'frindet mit
                         minere Fraü!
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,4,0.125,0.23529411764705882
+",58,lustig-uf-bsuech-bi-dr-frau,17,4,0.125,0.23529411764705882
 176,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2189,7 +2189,7 @@ Herr Türk.
 Mit dr Madame Krampf...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
+",58,lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
 177,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf un Herr Zitelpost
@@ -2203,7 +2203,7 @@ Still!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,5,0.1,0.3125
+",59,lustig-uf-bsuech-bi-dr-frau,16,5,0.1,0.3125
 178,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Dampf un Herr Zitelpost
@@ -2217,7 +2217,7 @@ Still!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,5,0.1,0.3125
+",59,lustig-uf-bsuech-bi-dr-frau,16,5,0.1,0.3125
 179,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2229,7 +2229,7 @@ Herr Türk
 Die mach ich z'schwitze!
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",59,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 180,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2242,7 +2242,7 @@ Jà, un derno... die Verfiehrung... wer hàn Se
                         verfiehrt?
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,3,0.16666666666666666,0.21428571428571427
+",60,lustig-uf-bsuech-bi-dr-frau,14,3,0.16666666666666666,0.21428571428571427
 181,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2254,7 +2254,7 @@ Herr Türk
 Hàn Se viellicht e Verwandte?
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,3,0.0,0.23076923076923078
+",60,lustig-uf-bsuech-bi-dr-frau,13,3,0.0,0.23076923076923078
 182,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2266,7 +2266,7 @@ Herr Zitelpost
 Ne Stiefschwester in Amerika.
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,1,0.0,0.1111111111111111
+",60,lustig-uf-bsuech-bi-dr-frau,9,1,0.0,0.1111111111111111
 183,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2281,7 +2281,7 @@ Güet!
                         Herr Zitelpost si... Stiefschwester!
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
+",61,lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
 184,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2291,7 +2291,7 @@ Tiens!... ich ha nitt g'wisst, ass er e Stiefschwester
                         hat.
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.25,0.16666666666666666
+",61,lustig-uf-bsuech-bi-dr-frau,12,2,0.25,0.16666666666666666
 185,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2301,7 +2301,7 @@ Das isch kei Wunder... ich ha o nitt g'wisst, ass die
                         güete Jumpfer... Kà-kà-o ne Stiefbrüeder hat.
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,4,0.0,0.21052631578947367
+",61,lustig-uf-bsuech-bi-dr-frau,19,4,0.0,0.21052631578947367
 186,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2310,7 +2310,7 @@ Herr Dampf.
 Kà-kà-o!... was dr Kückücks isch das fir e Name?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",62,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 187,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2319,7 +2319,7 @@ Herr Türk.
 's isch e Negresse.
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",62,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 188,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2331,7 +2331,7 @@ Herr Zitelpost
 Was will er em eigentlig abinde?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",62,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 189,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2340,7 +2340,7 @@ Herr Dampf.
 Was!... Sie hàn e Schwarze verfiehrt?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,3,0.2916666666666667,0.375
+",63,lustig-uf-bsuech-bi-dr-frau,8,3,0.2916666666666667,0.375
 190,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2385,7 +2385,7 @@ Das müess d'Schuld si.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,45,7,0.10742857142857143,0.15555555555555556
+",63,lustig-uf-bsuech-bi-dr-frau,45,7,0.10742857142857143,0.15555555555555556
 191,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2395,7 +2395,7 @@ Ne ganz schwarze Fraü... oh pfui! un jetz wànn Sie se
                         nitt hirothe?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,4,0.21875,0.26666666666666666
+",63,lustig-uf-bsuech-bi-dr-frau,15,4,0.21875,0.26666666666666666
 192,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2405,7 +2405,7 @@ Ich müess g'steh, ass ich Angst ha... vor de kleine
                         Neger!
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,3,0.0,0.23076923076923078
+",64,lustig-uf-bsuech-bi-dr-frau,13,3,0.0,0.23076923076923078
 193,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2419,7 +2419,7 @@ Herr Zitelpost
                         scho üsmache mitnander.
 
         
-",lustig-uf-bsuech-bi-dr-frau,29,6,0.08333333333333333,0.20689655172413793
+",64,lustig-uf-bsuech-bi-dr-frau,29,6,0.08333333333333333,0.20689655172413793
 194,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2433,7 +2433,7 @@ Ich ka doch awer nitt lide, ass Sie sich schlage
                         was vorgeht).
 
         
-",lustig-uf-bsuech-bi-dr-frau,43,10,0.18439999999999998,0.23255813953488372
+",64,lustig-uf-bsuech-bi-dr-frau,43,10,0.18439999999999998,0.23255813953488372
 195,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2450,7 +2450,7 @@ Herr je! d'Madame Dampf!
                         z'ruck).
 
         
-",lustig-uf-bsuech-bi-dr-frau,41,10,0.1,0.24390243902439024
+",65,lustig-uf-bsuech-bi-dr-frau,41,10,0.1,0.24390243902439024
 196,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -2466,7 +2466,7 @@ Madame Dampf
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,3,0.16666666666666666,0.13636363636363635
+",65,lustig-uf-bsuech-bi-dr-frau,22,3,0.16666666666666666,0.13636363636363635
 197,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2481,7 +2481,7 @@ Er isch im Fehler, 's isch wohr... er sott halt vo
                         tiens, wo isch er jetz ane ku?
 
         
-",lustig-uf-bsuech-bi-dr-frau,46,9,0.10909363208215411,0.1956521739130435
+",65,lustig-uf-bsuech-bi-dr-frau,46,9,0.10909363208215411,0.1956521739130435
 198,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2490,7 +2490,7 @@ Herr Zitelpost.
 Was git's?
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",66,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 199,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2499,7 +2499,7 @@ Herr Dampf.
 Er isch jo nimmig do!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.25,0.2857142857142857
+",66,lustig-uf-bsuech-bi-dr-frau,7,2,0.25,0.2857142857142857
 200,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2508,7 +2508,7 @@ Herr Zitelpost.
 Er isch verschwunde!
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
+",66,lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
 201,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2517,7 +2517,7 @@ Herr Dampf.
 Wo mag er jetz ane ku si?
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,3,0.16666666666666666,0.3333333333333333
+",67,lustig-uf-bsuech-bi-dr-frau,9,3,0.16666666666666666,0.3333333333333333
 202,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2526,7 +2526,7 @@ Herr Zitelpost.
 Ich merk's scho, wo-n-er ane ku isch!
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",67,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 203,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2535,7 +2535,7 @@ Herr Dampf.
 Meine Se?
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,3,0.16666666666666666,0.75
+",67,lustig-uf-bsuech-bi-dr-frau,4,3,0.16666666666666666,0.75
 204,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2545,7 +2545,7 @@ Jo, jo... er isch geh si Dulcinée ufsüeche... er isch in
                         dem Hüs do.
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
+",68,lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
 205,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2558,7 +2558,7 @@ Sapristi... un mi Rendez-vous... die güete Fraü wird
                         lange Zit biku!
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,6,0.15883333333333335,0.35294117647058826
+",68,lustig-uf-bsuech-bi-dr-frau,17,6,0.15883333333333335,0.35294117647058826
 206,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2571,7 +2571,7 @@ Awer nur Geduld... Se mien emol üsekumme... ich wart uf
                         se un verwitsch ich se binander... derno...
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,5,0.0,0.21739130434782608
+",68,lustig-uf-bsuech-bi-dr-frau,23,5,0.0,0.21739130434782608
 207,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2584,7 +2584,7 @@ Ich ka doch nitt dert ine geh, wenn dr Herr Zitelpost do
                         isch... sunscht miesst ich ihm sage worum?
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,4,0.125,0.16
+",69,lustig-uf-bsuech-bi-dr-frau,25,4,0.125,0.16
 208,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2597,7 +2597,7 @@ Awer ich ka doch kei Explication mit ihre ha vor
                         ihm...
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,2,0.0,0.11764705882352941
+",69,lustig-uf-bsuech-bi-dr-frau,17,2,0.0,0.11764705882352941
 209,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2609,7 +2609,7 @@ Herr Dampf
 Wenn ich ne nur ab hätt...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
+",69,lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
 210,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2621,7 +2621,7 @@ Herr Zitelpost
 Ich müess ne süeche abz'schifle...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
+",70,lustig-uf-bsuech-bi-dr-frau,11,3,0.0,0.2727272727272727
 211,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2633,7 +2633,7 @@ Herr Dampf
 Ich glaüb eher, ass er dert dure-n-isch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.16666666666666666,0.16666666666666666
+",70,lustig-uf-bsuech-bi-dr-frau,18,3,0.16666666666666666,0.16666666666666666
 212,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2643,7 +2643,7 @@ Oh! ich find en scho... awer, ich ha g'meint, Sie hàn
                         eso viel z'thüe hit z'Owe uf em Büreau?
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,3,0.0,0.13043478260869565
+",70,lustig-uf-bsuech-bi-dr-frau,23,3,0.0,0.13043478260869565
 213,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2656,7 +2656,7 @@ Aha... jà... 's isch güet, ass Sie mich dra mahne, ich
                         bi recht pressiert...
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
+",71,lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
 214,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2665,7 +2665,7 @@ Herr Zitelpost.
 Un ich o.
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",71,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 215,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2674,7 +2674,7 @@ Herr Dampf.
 Adie!
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,3,0.30566466162513073,1.0
+",71,lustig-uf-bsuech-bi-dr-frau,3,3,0.30566466162513073,1.0
 216,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -2686,7 +2686,7 @@ Adie!
  Was! er blibt do!
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,5,0.08339879697507843,0.22727272727272727
+",72,lustig-uf-bsuech-bi-dr-frau,22,5,0.08339879697507843,0.22727272727272727
 217,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2698,7 +2698,7 @@ Herr Dampf
 Ich ha g'meint, er isch furt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
+",72,lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
 218,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2710,7 +2710,7 @@ Herr Zitelpost
 Merkt er ebbe-n-ebbes?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",72,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 219,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2722,7 +2722,7 @@ Herr Dampf
 Er wird doch ebbe nitt soupçonniere...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
+",73,lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
 220,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2736,7 +2736,7 @@ Ich will ne scho verwitsche!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",73,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 221,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -2748,7 +2748,7 @@ Herr Dampf
 Ich müess es halt noch emol prawiere...
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
+",73,lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
 222,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2761,7 +2761,7 @@ Au revoir denn!
 (er geht furt, rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",74,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 223,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -2771,7 +2771,7 @@ Au revoir!
 (er geht furt, links).
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.25,0.2
+",74,lustig-uf-bsuech-bi-dr-frau,10,2,0.25,0.2
 224,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2790,7 +2790,7 @@ Se sin furt
                         Kütschner!
 
         
-",lustig-uf-bsuech-bi-dr-frau,47,8,0.0,0.1702127659574468
+",74,lustig-uf-bsuech-bi-dr-frau,47,8,0.0,0.1702127659574468
 226,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2801,7 +2801,7 @@ Kämme ne wenig nàcher mit Eürer Citàdine... so...
                         hört ne halte rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,2,0.0,0.11764705882352941
+",75,lustig-uf-bsuech-bi-dr-frau,17,2,0.0,0.11764705882352941
 227,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -2817,7 +2817,7 @@ Hoo, Schimmel!
                         fiehre?
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
+",75,lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
 228,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2829,7 +2829,7 @@ Herr Türk
 Ich weiss es nitt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
+",76,lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
 229,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -2839,7 +2839,7 @@ Kütschner.
 Jà... wo halte mr denn drno?
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
+",76,lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
 230,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2848,7 +2848,7 @@ Herr Türk.
 's isch mr eis... wo Eüer Pferd will...
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
+",76,lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
 231,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -2866,7 +2866,7 @@ Kütschner
 (er verschwindet).
 
         
-",lustig-uf-bsuech-bi-dr-frau,39,7,0.08029449645236526,0.1794871794871795
+",77,lustig-uf-bsuech-bi-dr-frau,39,7,0.08029449645236526,0.1794871794871795
 232,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2878,7 +2878,7 @@ Un jetz vorwärts!... ich fahr mit ere-n-ab, vor dr Nase
 (er geht ins Hüs).
 
         
-",lustig-uf-bsuech-bi-dr-frau,34,5,0.0,0.14705882352941177
+",77,lustig-uf-bsuech-bi-dr-frau,34,5,0.0,0.14705882352941177
 233,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2895,7 +2895,7 @@ Endlig isch dr Herr Dampf jetz furt! tiens... ne
 (er versteckt si am Ecke vom Hüs links).
 
         
-",lustig-uf-bsuech-bi-dr-frau,40,8,0.0625,0.2
+",77,lustig-uf-bsuech-bi-dr-frau,40,8,0.0625,0.2
 234,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -2907,7 +2907,7 @@ Herr Türk
 Ich versicher Se, ass kei G'fohr meh isch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,4,0.125,0.2222222222222222
+",78,lustig-uf-bsuech-bi-dr-frau,18,4,0.125,0.2222222222222222
 235,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2919,7 +2919,7 @@ Herr Zitelpost
 's isch ne!
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
+",78,lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
 236,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -2928,7 +2928,7 @@ Madame Dampf.
 Sin Se sicher, ass Nieme meh...
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,3,0.16666666666666666,0.375
+",78,lustig-uf-bsuech-bi-dr-frau,8,3,0.16666666666666666,0.375
 237,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -2940,7 +2940,7 @@ Herr Zitelpost
 's isch se!... ich brüch nimmig zwifle.
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
+",79,lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
 238,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2949,7 +2949,7 @@ Herr Türk.
 Ganz sicher... 's isch nit meh z'riskiere.
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,4,0.0,0.4
+",79,lustig-uf-bsuech-bi-dr-frau,10,4,0.0,0.4
 239,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -2960,7 +2960,7 @@ Oh! dà gràsslige-n-Owe!... mi ganz Lewe denk i dra!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
+",79,lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
 240,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2972,7 +2972,7 @@ Stigt Se nur i jetz
                         isch's an mir.
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
+",80,lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
 241,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf.
@@ -2981,7 +2981,7 @@ Madame Dampf.
 Herr je! un mi Parepli!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
+",80,lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
 242,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -2992,7 +2992,7 @@ Tiens, dà ha-n-i jetz vergesse bim Portner... ich will
 (er laüft ins Hüs z'ruck).
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,5,0.10600000000000001,0.2
+",80,lustig-uf-bsuech-bi-dr-frau,25,5,0.10600000000000001,0.2
 243,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3009,7 +3009,7 @@ Un ich sott se-n-eso furt lo fahre, ganz riehig
                         im Galopp dervo fahre.
 
         
-",lustig-uf-bsuech-bi-dr-frau,39,5,0.11241229503331136,0.1282051282051282
+",81,lustig-uf-bsuech-bi-dr-frau,39,5,0.11241229503331136,0.1282051282051282
 244,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3024,7 +3024,7 @@ Dr Kütschner
 (er verschwindet rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,28,4,0.0,0.14285714285714285
+",81,lustig-uf-bsuech-bi-dr-frau,28,4,0.0,0.14285714285714285
 245,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -3037,7 +3037,7 @@ Allewil!...
 (er verschwindet rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,4,0.0,0.17391304347826086
+",81,lustig-uf-bsuech-bi-dr-frau,23,4,0.0,0.17391304347826086
 246,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -3049,7 +3049,7 @@ Madame Dampf
 Ah! dr Herr Zitelpost!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,4,0.26728916907408007,0.26666666666666666
+",82,lustig-uf-bsuech-bi-dr-frau,15,4,0.26728916907408007,0.26666666666666666
 247,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3060,7 +3060,7 @@ Allez, hü Schimmel!
 (me hört ne dervo fahre).
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
+",82,lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
 248,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3079,7 +3079,7 @@ Dà Portner g'fallt mr noch, wo mr hat welle siner gà,
                         rechts).
 
         
-",lustig-uf-bsuech-bi-dr-frau,66,9,0.05888888888888889,0.13636363636363635
+",82,lustig-uf-bsuech-bi-dr-frau,66,9,0.05888888888888889,0.13636363636363635
 249,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3094,7 +3094,7 @@ Endlig isch er jetz furt, dr Herr Zitelpost... wenn mich
                         jalouse!... un hat mich eso gern... also wàr's denn do.
 
         
-",lustig-uf-bsuech-bi-dr-frau,51,7,0.07142857142857142,0.13725490196078433
+",83,lustig-uf-bsuech-bi-dr-frau,51,7,0.07142857142857142,0.13725490196078433
 250,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3107,7 +3107,7 @@ Ich ha ne nitt känne verwitsche... dà Schimmel laüft as
                         wie dr Deihànker!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
+",83,lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
 251,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3117,7 +3117,7 @@ Ich will mi doch versichere, eb das dr rechte Nümero
                         isch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
+",83,lustig-uf-bsuech-bi-dr-frau,13,4,0.125,0.3076923076923077
 252,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3130,7 +3130,7 @@ Ich bi glaüb efange ne wenig abkiehlt jetz mit dere
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
+",84,lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
 253,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3142,7 +3142,7 @@ Herr Dampf
 's isch glaüb kei Glocke an dr Thüre,
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,4,0.125,0.2857142857142857
+",84,lustig-uf-bsuech-bi-dr-frau,14,4,0.125,0.2857142857142857
 254,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3158,7 +3158,7 @@ Still! do isch grad ebber, wo heim geht... dà wà mr
                         tiens... 's isch dr Herr Krampf!
 
         
-",lustig-uf-bsuech-bi-dr-frau,33,6,0.0,0.18181818181818182
+",84,lustig-uf-bsuech-bi-dr-frau,33,6,0.0,0.18181818181818182
 255,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3169,7 +3169,7 @@ Tiens!... dà wo d'Negresse... ah çà... wo sin Se denn uf
                         Unrecht hàn... sicher...Sie sotte se hirothe.
 
         
-",lustig-uf-bsuech-bi-dr-frau,32,6,0.138,0.1875
+",85,lustig-uf-bsuech-bi-dr-frau,32,6,0.138,0.1875
 256,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3179,7 +3179,7 @@ Wer das?... aha... güet... d'Schnokegasse, wenn's I
                         b'liebt?
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",85,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 257,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3188,7 +3188,7 @@ Herr Dampf.
 Sie sin jo drin.
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
+",85,lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
 258,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3197,7 +3197,7 @@ Herr Türk.
 Ah bah... un 's Hotel Billig?
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",86,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 259,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3209,7 +3209,7 @@ Herr Dampf
 Se stehn dervor.
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.25,0.2
+",86,lustig-uf-bsuech-bi-dr-frau,10,2,0.25,0.2
 260,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3219,7 +3219,7 @@ Dert?... o sapristi... ich ha d'Nase druf g'ha un find's
                         nitt... merci, Herr Stampf.
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
+",86,lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
 261,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3235,7 +3235,7 @@ Herr Dampf
                         wie sin Se denn züe dàre Negresse ku?...
 
         
-",lustig-uf-bsuech-bi-dr-frau,40,6,0.08333333333333333,0.15
+",87,lustig-uf-bsuech-bi-dr-frau,40,6,0.08333333333333333,0.15
 262,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3247,7 +3247,7 @@ Herr Türk
 Hein?
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",87,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 263,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3260,7 +3260,7 @@ Dr Herr Zitelpost isch in sim Recht... an Ihrem Platz
                         thàt ich die Jumpfer Kà-kà-o hirothe.
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,6,0.08333333333333333,0.25
+",87,lustig-uf-bsuech-bi-dr-frau,24,6,0.08333333333333333,0.25
 264,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3272,7 +3272,7 @@ Herr Türk
 Isch denn eigentlig dà Portner taüb?
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",88,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 265,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3282,7 +3282,7 @@ Miner schint mr o nitt d'ganz beste-n-Ohre z'ha... se
                         klopfe beide; d'Thüre gehn uf) Endlig!
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,6,0.16506642571085411,0.2608695652173913
+",88,lustig-uf-bsuech-bi-dr-frau,23,6,0.16506642571085411,0.2608695652173913
 266,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3291,7 +3291,7 @@ Herr Türk.
 's isch nimmig z'frieih!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
+",88,lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
 267,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3300,7 +3300,7 @@ Herr Dampf.
 Adie.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,3,0.30566466162513073,1.0
+",89,lustig-uf-bsuech-bi-dr-frau,3,3,0.30566466162513073,1.0
 268,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3309,7 +3309,7 @@ Herr Türk.
 Güetnacht.
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
+",89,lustig-uf-bsuech-bi-dr-frau,3,1,0.0,0.3333333333333333
 269,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3321,7 +3321,7 @@ Herr Dampf
 D'Madame Türk, wenn's I b'liebt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
+",89,lustig-uf-bsuech-bi-dr-frau,12,3,0.16666666666666666,0.25
 270,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -3333,7 +3333,7 @@ Dr Portner
 Se-n-isch d'heim... gehn Se nur d'Stege-n-ufe.
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,1,0.0,0.058823529411764705
+",90,lustig-uf-bsuech-bi-dr-frau,17,1,0.0,0.058823529411764705
 271,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3345,7 +3345,7 @@ Herr Türk
 D'Madame Türk, wenn's I b'liebt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,3,0.10933333333333334,0.21428571428571427
+",90,lustig-uf-bsuech-bi-dr-frau,14,3,0.10933333333333334,0.21428571428571427
 272,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -3357,7 +3357,7 @@ Dr Portner
 Se-n-isch nitt d'heim.
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
+",90,lustig-uf-bsuech-bi-dr-frau,11,1,0.0,0.09090909090909091
 273,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3369,7 +3369,7 @@ Herr Türk
 Was!... se-n-isch nitt in ihrem Zimmer?
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,2,0.164,0.13333333333333333
+",91,lustig-uf-bsuech-bi-dr-frau,15,2,0.164,0.13333333333333333
 274,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -3382,7 +3382,7 @@ Se-n-isch dà-n-Owe üsgange un hat g'sàit, se kàm erst
                         spot heim, un viellicht gar nitt.
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,4,0.07801477669558632,0.16666666666666666
+",91,lustig-uf-bsuech-bi-dr-frau,24,4,0.07801477669558632,0.16666666666666666
 275,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3402,7 +3402,7 @@ Gar nitt!...
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,66,7,0.1841309247828514,0.10606060606060606
+",91,lustig-uf-bsuech-bi-dr-frau,66,7,0.1841309247828514,0.10606060606060606
 276,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner
@@ -3414,7 +3414,7 @@ Dr Portner
 Das geht nitt... 's isch d'Gwohnet nitt vom Hüs.
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
+",92,lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
 277,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3423,7 +3423,7 @@ Herr Türk.
 Ich bi jo awer ihre Mann.
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
+",92,lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
 278,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner.
@@ -3432,7 +3432,7 @@ Dr Portner.
 Jo doch!... die Dame-n-isch jo ne Wittfraü.
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",92,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 279,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3442,7 +3442,7 @@ Hein!... ich bi ganz sicher vom Gegetheil!... So gàn Se
                         mr e-n-ander Zimmer, bis ass mi Fräü z'ruckkunnt....
 
         
-",lustig-uf-bsuech-bi-dr-frau,23,3,0.0,0.13043478260869565
+",93,lustig-uf-bsuech-bi-dr-frau,23,3,0.0,0.13043478260869565
 280,comedy,Dr Portner vom Hüs,M,doorman,elementary_professions,,"
           
 Dr Portner.
@@ -3453,7 +3453,7 @@ Ich ha keins meh... 's sin alle b'setzt...
                         d'Thüre vor dr Nase züe).
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,2,0.0,0.09523809523809523
+",93,lustig-uf-bsuech-bi-dr-frau,21,2,0.0,0.09523809523809523
 281,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3471,7 +3471,7 @@ Dà isch jetz noch emol höflig... er g'schbliesst mich
  awer 's isch halt niene keiner.
 
         
-",lustig-uf-bsuech-bi-dr-frau,83,11,0.0,0.13253012048192772
+",93,lustig-uf-bsuech-bi-dr-frau,83,11,0.0,0.13253012048192772
 282,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3488,7 +3488,7 @@ Stirt Se sich nur herzhaft uf mi Arm, mi liewer Engel...
                         mr nàmme derno ne Citadine, fir züe dàne Herre z'fahre.
 
         
-",lustig-uf-bsuech-bi-dr-frau,57,13,0.0816923076923077,0.22807017543859648
+",94,lustig-uf-bsuech-bi-dr-frau,57,13,0.0816923076923077,0.22807017543859648
 283,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -3501,7 +3501,7 @@ Gar nitt... gar nitt... 's isch ganz unnöthig, ass mr e
                         Citadine nàmme!
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
+",94,lustig-uf-bsuech-bi-dr-frau,18,3,0.0,0.16666666666666666
 284,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3510,7 +3510,7 @@ Herr Dampf.
 's isch ewe wit... Sie kännt mied werde.
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,3,0.29852870321122765,0.3
+",94,lustig-uf-bsuech-bi-dr-frau,10,3,0.29852870321122765,0.3
 285,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3524,7 +3524,7 @@ Aha! do kunnt einer
  he! Kütschner!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
+",95,lustig-uf-bsuech-bi-dr-frau,15,1,0.0,0.06666666666666667
 286,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3536,7 +3536,7 @@ Herr Dampf
 Do kunnt grad eine ku z'fahre.
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,5,0.1,0.4166666666666667
+",95,lustig-uf-bsuech-bi-dr-frau,12,5,0.1,0.4166666666666667
 287,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3548,7 +3548,7 @@ Herr Türk
 G'schwind denn e wenig... das geht e Länge!
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
+",95,lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
 288,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -3560,7 +3560,7 @@ Madame Türk
 Ich kenn die Stimm... un doch...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
+",96,lustig-uf-bsuech-bi-dr-frau,12,2,0.0,0.16666666666666666
 289,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3573,7 +3573,7 @@ Dr Kütschner
 Ho! Schimmel! ho!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
+",96,lustig-uf-bsuech-bi-dr-frau,8,1,0.0,0.125
 290,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3585,7 +3585,7 @@ Herr Dampf
 Ich nimm se!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.25,0.2222222222222222
+",96,lustig-uf-bsuech-bi-dr-frau,9,2,0.25,0.2222222222222222
 291,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3597,7 +3597,7 @@ Herr Türk
 Nix do... ich ha se z'erst gnu!
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
+",97,lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
 292,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3610,7 +3610,7 @@ Dr Kütschner
 Ah çà! lehn doch nur z'erst mine Lit üsstige.
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,2,0.0,0.09090909090909091
+",97,lustig-uf-bsuech-bi-dr-frau,22,2,0.0,0.09090909090909091
 293,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -3622,7 +3622,7 @@ Madame Türk
 Ich zwifel nimmig... 's isch ne... 's isch mi Mann!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
+",97,lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
 294,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3634,7 +3634,7 @@ Herr Dampf
 Ich bi mit ere Dame... lehn Se mir die Citadine.
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,4,0.125,0.19047619047619047
+",98,lustig-uf-bsuech-bi-dr-frau,21,4,0.125,0.19047619047619047
 295,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3650,7 +3650,7 @@ Tiens, scho wieder dr Herr Krampf... isch er denn
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,6,0.0,0.25
+",98,lustig-uf-bsuech-bi-dr-frau,24,6,0.0,0.25
 296,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3664,7 +3664,7 @@ Dr Negresse-Verfiehrer!... laüft er denn noch allewil
 (er geht hintere).
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
+",98,lustig-uf-bsuech-bi-dr-frau,19,4,0.125,0.21052631578947367
 297,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3678,7 +3678,7 @@ Wenn mine Lit üsg'stige sin, so arrangiere-n-ihr eüch
                         mitnander.
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
+",99,lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
 298,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3690,7 +3690,7 @@ Herr Zitelpost
 Was isch eigentlig das fir e G'schrei?
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
+",99,lustig-uf-bsuech-bi-dr-frau,16,2,0.0,0.125
 299,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3702,7 +3702,7 @@ Herr Dampf
 Dr Herr Zitelpost !
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,3,0.16666666666666666,0.375
+",99,lustig-uf-bsuech-bi-dr-frau,8,3,0.16666666666666666,0.375
 300,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3714,7 +3714,7 @@ Herr Zitelpost
 Oh! sapristi!... dr Herr Dampf.
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,4,0.125,0.36363636363636365
+",100,lustig-uf-bsuech-bi-dr-frau,11,4,0.125,0.36363636363636365
 301,comedy,Madame DAMPF,F,,,,"
           
 Madame Dampf
@@ -3726,7 +3726,7 @@ Madame Dampf
 Herr je!
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,5,0.1,0.3333333333333333
+",100,lustig-uf-bsuech-bi-dr-frau,15,5,0.1,0.3333333333333333
 302,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3735,7 +3735,7 @@ Herr Türk.
 Tiens! tiens!
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",100,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 303,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3748,7 +3748,7 @@ Aïe, aïe! wenn mich dr Herr Zitelpost mit dàre Dame
                         sieht!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
+",101,lustig-uf-bsuech-bi-dr-frau,21,6,0.08333333333333333,0.2857142857142857
 304,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3761,7 +3761,7 @@ Sin Ihr eigentlig g'schosse, ass Ihr mich wieder do ane
                         fiehre!
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
+",101,lustig-uf-bsuech-bi-dr-frau,19,2,0.0,0.10526315789473684
 305,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3771,7 +3771,7 @@ Dr Kütschner.
 Eh... Sie hàn mir jo g'sàit: wo Eüer Pferd ane will.
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
+",101,lustig-uf-bsuech-bi-dr-frau,13,1,0.0,0.07692307692307693
 306,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3785,7 +3785,7 @@ Ich bitt Se drum... nàmme Se doch die Dame an Arm un
                         sage Se, se seig mit Ihne.
 
         
-",lustig-uf-bsuech-bi-dr-frau,35,9,0.27066666666666667,0.2571428571428571
+",102,lustig-uf-bsuech-bi-dr-frau,35,9,0.27066666666666667,0.2571428571428571
 307,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3797,7 +3797,7 @@ Herr Türk
 Hein? was kunnt Ihne-n-i?
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,3,0.18733333333333335,0.17647058823529413
+",102,lustig-uf-bsuech-bi-dr-frau,17,3,0.18733333333333335,0.17647058823529413
 308,comedy,"Ne Kütschner
                     ",M,coachman,service_and_sales,,"
           
@@ -3810,7 +3810,7 @@ Dr Kütschner
 Ah ça... thüet Ihre Dame nitt bol üsstige?
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
+",102,lustig-uf-bsuech-bi-dr-frau,15,2,0.0,0.13333333333333333
 309,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3823,7 +3823,7 @@ Ne Dame?... ah, ah! Herr Zitelpost, Sie sin mit ere
                         Dame?
 
         
-",lustig-uf-bsuech-bi-dr-frau,20,6,0.08333333333333333,0.3
+",103,lustig-uf-bsuech-bi-dr-frau,20,6,0.08333333333333333,0.3
 310,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3835,7 +3835,7 @@ Herr Zitelpost
 Ich, mit ere Dame... z'er Làbtig nitt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
+",103,lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
 311,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3845,7 +3845,7 @@ Eh!... ich erkenn jo mi Kütschner!... die Dame wàr denn
                         derno d'Madame...
 
         
-",lustig-uf-bsuech-bi-dr-frau,15,4,0.0,0.26666666666666666
+",103,lustig-uf-bsuech-bi-dr-frau,15,4,0.0,0.26666666666666666
 312,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3857,7 +3857,7 @@ Herr Zitelpost
 Um 's Himmelswille, verrothe Se-n-is nitt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
+",104,lustig-uf-bsuech-bi-dr-frau,18,2,0.0,0.1111111111111111
 313,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3869,7 +3869,7 @@ Herr Türk
 's isch se!
 
         
-",lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
+",104,lustig-uf-bsuech-bi-dr-frau,9,2,0.0,0.2222222222222222
 314,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3878,7 +3878,7 @@ Herr Dampf.
 Isch die Dame viellicht...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,4,0.125,0.6666666666666666
+",104,lustig-uf-bsuech-bi-dr-frau,6,4,0.125,0.6666666666666666
 315,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3887,7 +3887,7 @@ Herr Türk.
 Grad...
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,2,0.0,0.6666666666666666
+",105,lustig-uf-bsuech-bi-dr-frau,3,2,0.0,0.6666666666666666
 316,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3896,7 +3896,7 @@ Herr Dampf.
 Jà wer?
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
+",105,lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
 317,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -3905,7 +3905,7 @@ Herr Türk.
 Sie hàn's errothe...
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",105,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 318,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3914,7 +3914,7 @@ Herr Dampf.
 Wer denn?
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
+",106,lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
 319,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -3928,7 +3928,7 @@ Sage Se nit!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
+",106,lustig-uf-bsuech-bi-dr-frau,11,2,0.0,0.18181818181818182
 320,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -3943,7 +3943,7 @@ Herr Türk
  mi... Negresse isch's!
 
         
-",lustig-uf-bsuech-bi-dr-frau,31,6,0.08333333333333333,0.1935483870967742
+",106,lustig-uf-bsuech-bi-dr-frau,31,6,0.08333333333333333,0.1935483870967742
 321,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -3952,7 +3952,7 @@ Herr Dampf.
 D'Jumpfer Kà-kà-o!... ich ha mr's ibildet!
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,3,0.16666666666666666,0.3
+",107,lustig-uf-bsuech-bi-dr-frau,10,3,0.16666666666666666,0.3
 322,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -3961,7 +3961,7 @@ Herr Zitelpost.
 Oh!... 's wird mr lichter!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
+",107,lustig-uf-bsuech-bi-dr-frau,7,2,0.0,0.2857142857142857
 323,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -3973,7 +3973,7 @@ Madame Türk
 Was isch jetz das fir e Jumpfer Kà-kà-o?
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,4,0.0,0.2857142857142857
+",107,lustig-uf-bsuech-bi-dr-frau,14,4,0.0,0.2857142857142857
 324,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -3989,7 +3989,7 @@ Güet, güet!... ich verstand's jetz... dasmol känne Sie
                         hole...
 
         
-",lustig-uf-bsuech-bi-dr-frau,29,8,0.0625,0.27586206896551724
+",108,lustig-uf-bsuech-bi-dr-frau,29,8,0.0625,0.27586206896551724
 325,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -3998,7 +3998,7 @@ Herr Zitelpost.
 Jà... jà... 's isch ganz das!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
+",108,lustig-uf-bsuech-bi-dr-frau,8,2,0.0,0.25
 326,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4008,7 +4008,7 @@ Fir ass ihre Thràne-n-ihn bewege, ihre d'Ehr wieder
                         z'ruck z'gà?
 
         
-",lustig-uf-bsuech-bi-dr-frau,17,6,0.08333333333333333,0.35294117647058826
+",108,lustig-uf-bsuech-bi-dr-frau,17,6,0.08333333333333333,0.35294117647058826
 327,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost.
@@ -4017,7 +4017,7 @@ Herr Zitelpost.
 Sie hàn dr Finger druf.
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
+",109,lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
 328,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4029,7 +4029,7 @@ Herr Türk
 Er hat ne druf!
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",109,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 329,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4039,7 +4039,7 @@ Das isch jo abscheülig!
 (se pfatzt dr Herr Türk).
 
         
-",lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
+",109,lustig-uf-bsuech-bi-dr-frau,13,2,0.0,0.15384615384615385
 330,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4050,7 +4050,7 @@ Aïe!
  die Dame pfàtzt mi!
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.0,0.25
+",110,lustig-uf-bsuech-bi-dr-frau,12,3,0.0,0.25
 331,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4060,7 +4060,7 @@ Ich lad mich i an d'Hochzit... das müess g'wiss possig
                         si, ne Brüt vo so-n-ere Farb.
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,3,0.16666666666666666,0.14285714285714285
+",110,lustig-uf-bsuech-bi-dr-frau,21,3,0.16666666666666666,0.14285714285714285
 332,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4070,7 +4070,7 @@ Herr Türk.
                         hiroth ich se.
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",110,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 333,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -4083,7 +4083,7 @@ Ah so!... Dü hirothsch se... Dü Zittel!... un was witt
                         mit Dinere Fraü afange?
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,3,0.22648466898543007,0.13636363636363635
+",111,lustig-uf-bsuech-bi-dr-frau,22,3,0.22648466898543007,0.13636363636363635
 334,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Zitelpost un Herr Dampf.
@@ -4092,7 +4092,7 @@ Herr Zitelpost un Herr Dampf.
 Si Fraü!
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
+",111,lustig-uf-bsuech-bi-dr-frau,7,3,0.16666666666666666,0.42857142857142855
 335,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4101,7 +4101,7 @@ Herr Türk.
 's Sàlmele!
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
+",111,lustig-uf-bsuech-bi-dr-frau,4,1,0.0,0.25
 336,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4111,7 +4111,7 @@ Madame Türk.
                         hasch... awer ich will mich ràche!
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
+",112,lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
 337,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4123,7 +4123,7 @@ Herr Türk
 Jà halt!... das Ding isch ganz anderscht!
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,4,0.0,0.3333333333333333
+",112,lustig-uf-bsuech-bi-dr-frau,12,4,0.0,0.3333333333333333
 338,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4132,7 +4132,7 @@ Madame Türk.
 Un die Junpfer Kà-kà-o?
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",112,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 339,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4141,7 +4141,7 @@ Herr Türk.
 Die existiert nitt emol!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",113,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 340,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -4153,7 +4153,7 @@ Herr Dampf
 Hein!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
+",113,lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
 341,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4162,7 +4162,7 @@ Madame Türk.
 Un die Hirothsg'schichte?
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
+",113,lustig-uf-bsuech-bi-dr-frau,5,1,0.0,0.2
 342,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4171,7 +4171,7 @@ Herr Türk.
 Das isch alles erfunde!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
+",114,lustig-uf-bsuech-bi-dr-frau,6,1,0.0,0.16666666666666666
 343,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4180,7 +4180,7 @@ Herr Dampf.
 Ah! bah!
 
         
-",lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
+",114,lustig-uf-bsuech-bi-dr-frau,4,2,0.25,0.5
 344,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -4192,7 +4192,7 @@ Herr Zitelpost
 Wànn Se mich denn verrothe?
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
+",114,lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
 345,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4207,7 +4207,7 @@ Nei... ich will Se rette un mich o...
                         einer do, wo schuldig isch, un das isch dr Herr Dampf!
 
         
-",lustig-uf-bsuech-bi-dr-frau,30,5,0.1,0.16666666666666666
+",115,lustig-uf-bsuech-bi-dr-frau,30,5,0.1,0.16666666666666666
 346,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4218,7 +4218,7 @@ Ich!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,3,2,0.25,0.6666666666666666
+",115,lustig-uf-bsuech-bi-dr-frau,3,2,0.25,0.6666666666666666
 347,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4232,7 +4232,7 @@ Jà Sie
                         nogeh un ufpasse...
 
         
-",lustig-uf-bsuech-bi-dr-frau,39,6,0.0,0.15384615384615385
+",115,lustig-uf-bsuech-bi-dr-frau,39,6,0.0,0.15384615384615385
 348,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4241,7 +4241,7 @@ Herr Dampf.
 Was hör i!...
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,2,0.25,0.4
+",116,lustig-uf-bsuech-bi-dr-frau,5,2,0.25,0.4
 349,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4251,7 +4251,7 @@ Hàn Sie jetz endlig verstande, Sie alter Sünder, ass es
                         Ihre Fraü isch, wo dert in dr Citadine isch?
 
         
-",lustig-uf-bsuech-bi-dr-frau,21,4,0.15225,0.19047619047619047
+",116,lustig-uf-bsuech-bi-dr-frau,21,4,0.15225,0.19047619047619047
 350,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4260,7 +4260,7 @@ Herr Dampf.
 Mi Fraü im e Fiacre... mit em Herr Zitelpost!
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
+",116,lustig-uf-bsuech-bi-dr-frau,11,3,0.16666666666666666,0.2727272727272727
 351,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4272,7 +4272,7 @@ Jà... dr Herr Zitelpost... Ihr güeter Frind Zitelpost...
                         nitt allei känne lo geh, fir Sie z'süeche.
 
         
-",lustig-uf-bsuech-bi-dr-frau,39,10,0.11510534906351153,0.2564102564102564
+",117,lustig-uf-bsuech-bi-dr-frau,39,10,0.11510534906351153,0.2564102564102564
 352,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4281,7 +4281,7 @@ Herr Dampf.
 Mi Fraü im e Fiacre!... ich will ere zeige...
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,2,0.25,0.18181818181818182
+",117,lustig-uf-bsuech-bi-dr-frau,11,2,0.25,0.18181818181818182
 353,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4295,7 +4295,7 @@ Se weisst alles, diè güete Fraü... Ihre-n-Üsred fir
                         Dame.
 
         
-",lustig-uf-bsuech-bi-dr-frau,29,6,0.0,0.20689655172413793
+",117,lustig-uf-bsuech-bi-dr-frau,29,6,0.0,0.20689655172413793
 354,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4304,7 +4304,7 @@ Herr Dampf.
 Ich bi im Dunkes!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
+",118,lustig-uf-bsuech-bi-dr-frau,6,2,0.25,0.3333333333333333
 355,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -4316,7 +4316,7 @@ Madame Türk
 Was verzählt er do?
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
+",118,lustig-uf-bsuech-bi-dr-frau,10,2,0.0,0.2
 356,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4330,7 +4330,7 @@ Un ass Sie hàn welle geh z'Nacht esse mit ere...
                         jetz emol e süfere G'schichte gsi.
 
         
-",lustig-uf-bsuech-bi-dr-frau,47,5,0.11383133525926403,0.10638297872340426
+",118,lustig-uf-bsuech-bi-dr-frau,47,5,0.11383133525926403,0.10638297872340426
 357,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4339,7 +4339,7 @@ Madame Türk.
 Ich schwör Dr, liewer Mann, ass ich nit g'wisst ha...
 
         
-",lustig-uf-bsuech-bi-dr-frau,12,3,0.0,0.25
+",119,lustig-uf-bsuech-bi-dr-frau,12,3,0.0,0.25
 358,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4351,7 +4351,7 @@ Vo dem Nachtesse... ich weiss es... er hat mr's g'sàit,
  Alter Süeri!
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,5,0.1,0.20833333333333334
+",119,lustig-uf-bsuech-bi-dr-frau,24,5,0.1,0.20833333333333334
 359,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4360,7 +4360,7 @@ Herr Dampf.
 Nàmme Se's nitt so bös uf... Herr Pascha !
 
         
-",lustig-uf-bsuech-bi-dr-frau,11,5,0.20663742627963072,0.45454545454545453
+",119,lustig-uf-bsuech-bi-dr-frau,11,5,0.20663742627963072,0.45454545454545453
 360,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4369,7 +4369,7 @@ Herr Türk.
 Türk, un nitt Pascha... Sie sin e Pascha!
 
         
-",lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
+",120,lustig-uf-bsuech-bi-dr-frau,10,1,0.0,0.1
 361,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4381,7 +4381,7 @@ Ich ha in dàre junge Dame nur welle Ihre Nomination als
 (er presentiert em's Brevet).
 
         
-",lustig-uf-bsuech-bi-dr-frau,32,5,0.1,0.15625
+",120,lustig-uf-bsuech-bi-dr-frau,32,5,0.1,0.15625
 362,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4394,7 +4394,7 @@ Mi Nomination!
 (er lipft d'Achsle).
 
         
-",lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
+",120,lustig-uf-bsuech-bi-dr-frau,14,2,0.0,0.14285714285714285
 363,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk.
@@ -4403,7 +4403,7 @@ Madame Türk.
 Di Brevet... nimm's doch.
 
         
-",lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
+",121,lustig-uf-bsuech-bi-dr-frau,7,1,0.0,0.14285714285714285
 364,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4416,7 +4416,7 @@ Er hat mr glaüb zwei welle ahànke; awer ich glaüb, er ka
                         's zweite fir sich b'halte.
 
         
-",lustig-uf-bsuech-bi-dr-frau,25,5,0.0,0.2
+",121,lustig-uf-bsuech-bi-dr-frau,25,5,0.0,0.2
 365,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -4431,7 +4431,7 @@ Dà güete Herr Zittelpost
                         mi Fraü?
 
         
-",lustig-uf-bsuech-bi-dr-frau,24,6,0.08333333333333333,0.25
+",121,lustig-uf-bsuech-bi-dr-frau,24,6,0.08333333333333333,0.25
 366,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4444,7 +4444,7 @@ Ich bi sicher, ass se güetherzig genüeg isch un stigt üs
                         Dampf zeigt si).
 
         
-",lustig-uf-bsuech-bi-dr-frau,39,8,0.12875,0.20512820512820512
+",122,lustig-uf-bsuech-bi-dr-frau,39,8,0.12875,0.20512820512820512
 367,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf
@@ -4456,7 +4456,7 @@ Herr Dampf
 Oh! 's isch mr also verzeiht!
 
         
-",lustig-uf-bsuech-bi-dr-frau,19,3,0.16666666666666666,0.15789473684210525
+",122,lustig-uf-bsuech-bi-dr-frau,19,3,0.16666666666666666,0.15789473684210525
 368,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4465,7 +4465,7 @@ Herr Türk.
 Sie verdiene's nitt!
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
+",122,lustig-uf-bsuech-bi-dr-frau,6,2,0.0,0.3333333333333333
 369,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4476,7 +4476,7 @@ Mi liewer Herr Pascha!
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,6,4,0.125,0.6666666666666666
+",123,lustig-uf-bsuech-bi-dr-frau,6,4,0.125,0.6666666666666666
 370,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4485,7 +4485,7 @@ Herr Türk.
 Türk... Herr Krampf...
 
         
-",lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
+",123,lustig-uf-bsuech-bi-dr-frau,5,2,0.0,0.4
 371,comedy,Herr DAMPF,M,,,,"
           
 Herr Dampf.
@@ -4499,7 +4499,7 @@ Dampf... Herr Pascha... ich lüeg Sie fir mi güeter Frind
                         Kütschner, uf dr Bock un abg'fahre!
 
         
-",lustig-uf-bsuech-bi-dr-frau,41,9,0.1111111111111111,0.21951219512195122
+",123,lustig-uf-bsuech-bi-dr-frau,41,9,0.1111111111111111,0.21951219512195122
 372,comedy,Herr ZITELPOST,M,,,,"
           
 Herr Zitelpost
@@ -4512,7 +4512,7 @@ Ich will Ene ewig dankbar si!
 (er geht hintere).
 
         
-",lustig-uf-bsuech-bi-dr-frau,18,4,0.0625,0.2222222222222222
+",124,lustig-uf-bsuech-bi-dr-frau,18,4,0.0625,0.2222222222222222
 373,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk.
@@ -4521,7 +4521,7 @@ Herr Türk.
 Schön... schön, 's wird mi freie!
 
         
-",lustig-uf-bsuech-bi-dr-frau,8,4,0.00449999999999995,0.5
+",124,lustig-uf-bsuech-bi-dr-frau,8,4,0.00449999999999995,0.5
 374,comedy,Madame TÜRK,F,,,,"
           
 Madame Türk
@@ -4534,7 +4534,7 @@ De wirsch mr awer doch ufs wenigst sage, was De bisch ku
                         mache z'Milhüse...
 
         
-",lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
+",124,lustig-uf-bsuech-bi-dr-frau,22,3,0.0,0.13636363636363635
 375,comedy,Herr TÜRK,M,,,,"
           
 Herr Türk
@@ -4564,7 +4564,7 @@ Wie-n-ich pressiere, fir ins Bett.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,54,8,0.04887499999999999,0.14814814814814814
+",125,lustig-uf-bsuech-bi-dr-frau,54,8,0.04887499999999999,0.14814814814814814
 376,comedy,Herr TÜRK,M,,,,"
           
 Alle mitnander.
@@ -4583,7 +4583,7 @@ Ne jeder ka geh 's gliche thüe.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
+",125,lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
 377,comedy,Madame TÜRK,F,,,,"
           
 Alle mitnander.
@@ -4602,7 +4602,7 @@ Ne jeder ka geh 's gliche thüe.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
+",125,lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
 378,comedy,Herr ZITELPOST,M,,,,"
           
 Alle mitnander.
@@ -4621,7 +4621,7 @@ Ne jeder ka geh 's gliche thüe.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
+",126,lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
 379,comedy,Madame DAMPF,F,,,,"
           
 Alle mitnander.
@@ -4640,4 +4640,4 @@ Ne jeder ka geh 's gliche thüe.
           
 
         
-",lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625
+",126,lustig-uf-bsuech-bi-dr-frau,16,1,0.0,0.0625

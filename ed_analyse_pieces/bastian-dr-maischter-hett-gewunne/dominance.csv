@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 3,comedy,Addes,M,,,,"
             
 ADDES:
@@ -7,7 +7,7 @@ ADDES:
 Nit zuem Beschte. Sie het starik gebrenzelt.
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.7890194688811565,0.125
+",1,bastian-dr-maischter-hett-gewunne,8,1,0.7890194688811565,0.125
 5,comedy,Addes,M,,,,"
             
 ADDES:
@@ -16,7 +16,7 @@ ADDES:
 Dis hab ich nit gschbanne. Pfüi Deifel.
 
           
-",bastian-dr-maischter-hett-gewunne,8,2,0.5650740169404893,0.25
+",2,bastian-dr-maischter-hett-gewunne,8,2,0.5650740169404893,0.25
 6,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -26,7 +26,7 @@ D'r Maischter hett sichs gemüetlich uff d'r Deller g'schöpft. No maant'r annoc
             dü hesch Gänsgries kocht? Haha, ich hab dich jo gschtupft mit-em Fuess, awer...
 
           
-",bastian-dr-maischter-hett-gewunne,29,4,0.7087830749973593,0.13793103448275862
+",3,bastian-dr-maischter-hett-gewunne,29,4,0.7087830749973593,0.13793103448275862
 7,comedy,Addes,M,,,,"
             
 ADDES:
@@ -36,7 +36,7 @@ Wenn's an's Esse geht, kenn ich nix. Ja zuem Dunder, d' Maischtere isch doch als
             gsin uff 'me grosse Herrschaftsguet.
 
           
-",bastian-dr-maischter-hett-gewunne,25,2,0.5475625204661209,0.08
+",3,bastian-dr-maischter-hett-gewunne,25,2,0.5475625204661209,0.08
 8,comedy,Eddes,M,,,,"
             
 EDDES
@@ -48,7 +48,7 @@ EDDES
 Jo siewe Johr hett sie de Söüi kocht, awer nit in d'r Herrschaft.
 
           
-",bastian-dr-maischter-hett-gewunne,20,2,0.6217640615528288,0.1
+",4,bastian-dr-maischter-hett-gewunne,20,2,0.6217640615528288,0.1
 10,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -57,7 +57,7 @@ EDDES:
 Jo, d'r Maischter isch e patentierter Simpel.
 
           
-",bastian-dr-maischter-hett-gewunne,8,2,0.5680778279077418,0.25
+",5,bastian-dr-maischter-hett-gewunne,8,2,0.5680778279077418,0.25
 12,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -67,7 +67,7 @@ Allez, am heilige Mondaa! Do macht er e Bierreisel, Commissiönle, kauft Loterie
             gewinne könnte, waisch so Loos mit 3, 5, 7, 9. Der verspielt noch d' ganz Büdik.
 
           
-",bastian-dr-maischter-hett-gewunne,32,7,0.6918176992701229,0.21875
+",6,bastian-dr-maischter-hett-gewunne,32,7,0.6918176992701229,0.21875
 13,comedy,Addes,M,,,,"
             
 ADDES:
@@ -76,7 +76,7 @@ ADDES:
 Wenn'r nume sini Alt zerscht verspiele dät, diss alt Rabbyse. Zaj loss mich au e bissel fümme.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.3003378041080027,0.05555555555555555
+",6,bastian-dr-maischter-hett-gewunne,18,1,0.3003378041080027,0.05555555555555555
 14,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -93,7 +93,7 @@ Wart noch e Schluck — dä. Dü, Addes, gescht bin ich uff-em Messti gsin un ha
 (Hält sich die Seiten.)
 
           
-",bastian-dr-maischter-hett-gewunne,83,9,0.5642867107207851,0.10843373493975904
+",7,bastian-dr-maischter-hett-gewunne,83,9,0.5642867107207851,0.10843373493975904
 16,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -103,7 +103,7 @@ Un wie mir so im siewete Himmel erumbamble, stellt mir so e Canaille d'r Fuess, 
             ich schlaa d'r Schmecker uff d'r Bodde, dass ich d'r Himmel for e Laischte angsehne hab.
 
           
-",bastian-dr-maischter-hett-gewunne,35,6,0.5506065202313065,0.17142857142857143
+",8,bastian-dr-maischter-hett-gewunne,35,6,0.5506065202313065,0.17142857142857143
 17,comedy,Addes,M,,,,"
             
 ADDES:
@@ -112,7 +112,7 @@ ADDES:
 Haha, gelunge. Do hesch awer gelinzt, hä?
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.938,0.125
+",8,bastian-dr-maischter-hett-gewunne,8,1,0.938,0.125
 18,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -124,7 +124,7 @@ Un uewerdäm plumpse noch drej Päärle uff uns. D'r Seilschbanner wo grad kummt
             versoffe, wenn sie ken so gueter Zugg hätt ghett.
 
           
-",bastian-dr-maischter-hett-gewunne,58,5,0.5523728633270857,0.08620689655172414
+",9,bastian-dr-maischter-hett-gewunne,58,5,0.5523728633270857,0.08620689655172414
 20,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -135,7 +135,7 @@ Annoch! Wie der Klumpe luefti isch worre, hab ich mini Dänzere uff d' Baan gsch
             ihri wiss Blouse: betracht, muess ich noch meh lache.
 
           
-",bastian-dr-maischter-hett-gewunne,45,9,0.5192681297252744,0.2
+",10,bastian-dr-maischter-hett-gewunne,45,9,0.5192681297252744,0.2
 21,comedy,Addes,M,,,,"
             
 ADDES:
@@ -146,7 +146,7 @@ Worum? — Pfüi isch der bout räs.
 (Wirft die Zigarette fort.)
 
           
-",bastian-dr-maischter-hett-gewunne,14,1,0.214,0.07142857142857142
+",10,bastian-dr-maischter-hett-gewunne,14,1,0.214,0.07142857142857142
 22,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -165,7 +165,7 @@ paschtete, Tritt, Tüer uff — üewer d' Stross gflöüje saa ich dir, mit-em. 
             kene Danz meh.
 
           
-",bastian-dr-maischter-hett-gewunne,122,14,0.5885272261954159,0.11475409836065574
+",11,bastian-dr-maischter-hett-gewunne,122,14,0.5885272261954159,0.11475409836065574
 24,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -174,7 +174,7 @@ EDDES:
 Zipfel, was lachsch so dumm?
 
           
-",bastian-dr-maischter-hett-gewunne,6,1,0.1975361692273941,0.16666666666666666
+",12,bastian-dr-maischter-hett-gewunne,6,1,0.1975361692273941,0.16666666666666666
 25,comedy,Addes,M,,,,"
             
 ADDES:
@@ -183,7 +183,7 @@ ADDES:
 Bie so e're Fuehr hielt mer nit.
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.5636114544772409,0.125
+",12,bastian-dr-maischter-hett-gewunne,8,1,0.5636114544772409,0.125
 26,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -192,7 +192,7 @@ EDDES:
 Dü üewerzweriger Stuehlhooger, ich find nix lächerlichs d'rbie.
 
           
-",bastian-dr-maischter-hett-gewunne,10,2,0.40781238223562766,0.2
+",13,bastian-dr-maischter-hett-gewunne,10,2,0.40781238223562766,0.2
 27,comedy,Addes,M,,,,"
             
 ADDES:
@@ -202,7 +202,7 @@ Dich han sie doppelt gsohlt, gerüeschtert un vorgschueht in aam Düür. Jaja, E
             die Liebe hat manches schon getan ». Haha.
 
           
-",bastian-dr-maischter-hett-gewunne,25,2,0.6884765652666166,0.08
+",13,bastian-dr-maischter-hett-gewunne,25,2,0.6884765652666166,0.08
 29,comedy,Addes,M,,,,"
             
 ADDES:
@@ -211,7 +211,7 @@ ADDES:
 Geh, mit dir nämm ich's noch uff.
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.657,0.1111111111111111
+",14,bastian-dr-maischter-hett-gewunne,9,1,0.657,0.1111111111111111
 30,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -220,7 +220,7 @@ EDDES:
 Was, dü Häriseel. Dich pack ich wie e Pfund Lumpe.
 
           
-",bastian-dr-maischter-hett-gewunne,11,1,0.443,0.09090909090909091
+",15,bastian-dr-maischter-hett-gewunne,11,1,0.443,0.09090909090909091
 31,comedy,Addes,M,,,,"
             
 ADDES
@@ -234,7 +234,7 @@ Kumm here, kumm, box, caune, chauson.
 (Packt ihn.)
 
           
-",bastian-dr-maischter-hett-gewunne,15,3,0.5140139428408247,0.2
+",15,bastian-dr-maischter-hett-gewunne,15,3,0.5140139428408247,0.2
 32,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -243,7 +243,7 @@ EDDES:
 Au, halt!
 
           
-",bastian-dr-maischter-hett-gewunne,3,1,0.3607767117547636,0.3333333333333333
+",16,bastian-dr-maischter-hett-gewunne,3,1,0.3607767117547636,0.3333333333333333
 33,comedy,Addes,M,,,,"
             
 ADDES:
@@ -253,7 +253,7 @@ Gell Männel! Was Güxels, was hesch, haha, het der Mensch e Kisse hinte angebun
             — es isch wäje dere Glanzwichs.
 
           
-",bastian-dr-maischter-hett-gewunne,24,1,0.7390711215592133,0.041666666666666664
+",16,bastian-dr-maischter-hett-gewunne,24,1,0.7390711215592133,0.041666666666666664
 35,comedy,Addes,M,,,,"
             
 ADDES:
@@ -264,7 +264,7 @@ Bscht! Es kummt ebber.
 (Beide arbeiten schnell weiter.)
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.6963045152051457,0.18181818181818182
+",17,bastian-dr-maischter-hett-gewunne,11,2,0.6963045152051457,0.18181818181818182
 36,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -273,7 +273,7 @@ SCHAKOB:
 Buschur biesamme. Schaköbel wie sööt mer?
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.6075298914266405,0.2857142857142857
+",18,bastian-dr-maischter-hett-gewunne,7,2,0.6075298914266405,0.2857142857142857
 37,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -282,7 +282,7 @@ SCHAKOEBEL:
 Buschur ihr Härre.
 
           
-",bastian-dr-maischter-hett-gewunne,4,2,0.5897319982983243,0.5
+",18,bastian-dr-maischter-hett-gewunne,4,2,0.5897319982983243,0.5
 40,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -291,7 +291,7 @@ EDDES:
 Brüche mir e Maischter wenn mir gsund sin?
 
           
-",bastian-dr-maischter-hett-gewunne,9,2,0.8275132506805893,0.2222222222222222
+",20,bastian-dr-maischter-hett-gewunne,9,2,0.8275132506805893,0.2222222222222222
 41,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -301,7 +301,7 @@ Do hab ech miner Bueä. D' Miaädder isch om Zischdi schun dogewänn. Er will pa
             Schuehmachermäischter wäre.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.6835986364388508,0.05555555555555555
+",20,bastian-dr-maischter-hett-gewunne,18,1,0.6835986364388508,0.05555555555555555
 42,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -310,7 +310,7 @@ EDDES:
 Soso! Na, diss kan'r bie uns wäre. Wie haisch denn Männel?
 
           
-",bastian-dr-maischter-hett-gewunne,12,1,0.7390711215592133,0.08333333333333333
+",21,bastian-dr-maischter-hett-gewunne,12,1,0.7390711215592133,0.08333333333333333
 44,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -319,7 +319,7 @@ EDDES:
 So isch erächt. Nume nit verschrocke.
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.4823038285522263,0.14285714285714285
+",22,bastian-dr-maischter-hett-gewunne,7,1,0.4823038285522263,0.14285714285714285
 46,comedy,Addes,M,,,,"
             
 ADDES:
@@ -328,7 +328,7 @@ ADDES:
 Mer sieht's-em aan, dass'r e gscheider Vadder het.
 
           
-",bastian-dr-maischter-hett-gewunne,11,1,0.7925175470585678,0.09090909090909091
+",23,bastian-dr-maischter-hett-gewunne,11,1,0.7925175470585678,0.09090909090909091
 47,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -337,7 +337,7 @@ SCHAKOB:
 Diss will ich määne. Ech bin in d'r Schuel allewiel in d'r erschte Bank gsässe.
 
           
-",bastian-dr-maischter-hett-gewunne,16,2,0.5536348419694832,0.125
+",23,bastian-dr-maischter-hett-gewunne,16,2,0.5536348419694832,0.125
 51,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -346,7 +346,7 @@ SCHAKOB:
 Zäll will ich määne.
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.4478410214282049,0.2
+",25,bastian-dr-maischter-hett-gewunne,5,1,0.4478410214282049,0.2
 52,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -356,7 +356,7 @@ Vadder Schakob, Ihr könne Euch druff verlonn, Euerer Schaköbel wurd e Schuehk�
             pfiff.
 
           
-",bastian-dr-maischter-hett-gewunne,15,3,0.5088401462889249,0.2
+",26,bastian-dr-maischter-hett-gewunne,15,3,0.5088401462889249,0.2
 54,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -366,7 +366,7 @@ EDDES:
             e're Söüi — e Schambingel, odder e Köjelhupf, verstehn'r?
 
           
-",bastian-dr-maischter-hett-gewunne,27,2,0.3446207106380401,0.07407407407407407
+",27,bastian-dr-maischter-hett-gewunne,27,2,0.3446207106380401,0.07407407407407407
 56,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -378,7 +378,7 @@ Ich garantier Euch d'rfor, er wurd guet. — Noch ebbs. Sehn'r, so e Ding wie ic
 (Stiehlt Aepfel aus dem Korb.)
 
           
-",bastian-dr-maischter-hett-gewunne,38,2,0.7534396422214542,0.05263157894736842
+",28,bastian-dr-maischter-hett-gewunne,38,2,0.7534396422214542,0.05263157894736842
 58,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -387,7 +387,7 @@ SCHAKOB:
 Stille! Was galt so e Sitz?
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.3722729864020823,0.14285714285714285
+",29,bastian-dr-maischter-hett-gewunne,7,1,0.3722729864020823,0.14285714285714285
 61,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -396,7 +396,7 @@ SCHAKOB:
 Sei nit so vorwitzig. Was galt so e Sitz?
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.4394123873156368,0.1
+",30,bastian-dr-maischter-hett-gewunne,10,1,0.4394123873156368,0.1
 62,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -406,7 +406,7 @@ Ho, 's isch unterschiedlich. Der kummt direkt vun Paris. Awer wil Ihr's sin, na 
             Franke.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.5865105805932753,0.05555555555555555
+",31,bastian-dr-maischter-hett-gewunne,18,1,0.5865105805932753,0.05555555555555555
 63,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -415,7 +415,7 @@ SCHAKOB:
 Könne Ihr's nit billiger gänn?
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.6433193632821606,0.14285714285714285
+",31,bastian-dr-maischter-hett-gewunne,7,1,0.6433193632821606,0.14285714285714285
 64,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -424,7 +424,7 @@ EDDES:
 Leider nit min Liewer. Prix fixe!
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.4479278914624306,0.2857142857142857
+",32,bastian-dr-maischter-hett-gewunne,7,2,0.4479278914624306,0.2857142857142857
 65,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -434,7 +434,7 @@ Ech mään d'r Schaköbel bringt's ellään ferdig mit sim Sitzlädder. Ja, ech 
             brov, Schaköbel, am nächschte Friddi kumm ech widder.
 
           
-",bastian-dr-maischter-hett-gewunne,26,3,0.4163046323909418,0.11538461538461539
+",32,bastian-dr-maischter-hett-gewunne,26,3,0.4163046323909418,0.11538461538461539
 66,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL
@@ -446,7 +446,7 @@ SCHAKOEBEL
 Jo Vodder, d' Mieäder sell ö mitkumme, galle.
 
           
-",bastian-dr-maischter-hett-gewunne,12,2,0.38589844610098123,0.16666666666666666
+",33,bastian-dr-maischter-hett-gewunne,12,2,0.38589844610098123,0.16666666666666666
 67,comedy,Schakob,M,,,,"
             
 SCHAKOB:
@@ -457,7 +457,7 @@ Jo dänn. Adje Schaköbel. Adje Ihr Harre.
 (Mitteltüre ab.)
 
           
-",bastian-dr-maischter-hett-gewunne,12,3,0.539732323196489,0.25
+",33,bastian-dr-maischter-hett-gewunne,12,3,0.539732323196489,0.25
 68,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -466,7 +466,7 @@ EDDES:
 Was hesch ze suttere? Diner Vadder geht zue d'r Mieädder. — Dü, Addes, er het nit angebisse.
 
           
-",bastian-dr-maischter-hett-gewunne,18,2,0.6981572196302651,0.1111111111111111
+",34,bastian-dr-maischter-hett-gewunne,18,2,0.6981572196302651,0.1111111111111111
 69,comedy,Addes,M,,,,"
             
 ADDES:
@@ -475,7 +475,7 @@ ADDES:
 Schad! Der Büür schient nit vun Dummkirich ze sin. Awer sini Aepfel han mer-em geraant.
 
           
-",bastian-dr-maischter-hett-gewunne,16,1,0.364317050164718,0.0625
+",34,bastian-dr-maischter-hett-gewunne,16,1,0.364317050164718,0.0625
 70,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -485,7 +485,7 @@ Schaköbel, setz dich do here un klopf mer diss Rossledder waich. Siehsch so wur
             Kannsch au Kartes spiele?
 
           
-",bastian-dr-maischter-hett-gewunne,22,4,0.5123747860876195,0.18181818181818182
+",35,bastian-dr-maischter-hett-gewunne,22,4,0.5123747860876195,0.18181818181818182
 72,comedy,Addes,M,,,,"
             
 ADDES:
@@ -498,7 +498,7 @@ Ha, saftigi Renette. — Schaköbel, klopf, klopf!
  Saftigi Renette.
 
           
-",bastian-dr-maischter-hett-gewunne,27,6,0.60957810482153,0.2222222222222222
+",36,bastian-dr-maischter-hett-gewunne,27,6,0.60957810482153,0.2222222222222222
 74,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -511,7 +511,7 @@ Werum lachsch denn so dumm?
             saa dir's in Güetem.
 
           
-",bastian-dr-maischter-hett-gewunne,28,1,0.1975361692273941,0.03571428571428571
+",37,bastian-dr-maischter-hett-gewunne,28,1,0.1975361692273941,0.03571428571428571
 77,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -522,7 +522,7 @@ Na wart, dich box ich zamme, das dir Höre un Sehn vergeht.
 (Schlüpft mit den Händen in ein Paar alte Schuhe.)
 
           
-",bastian-dr-maischter-hett-gewunne,24,5,0.5569744290185265,0.20833333333333334
+",38,bastian-dr-maischter-hett-gewunne,24,5,0.5569744290185265,0.20833333333333334
 78,comedy,Addes,M,,,,"
             
 ADDES:
@@ -534,7 +534,7 @@ Ah, dü witt mich zammeboxe!
  Kumm here, ich bin gerüescht.
 
           
-",bastian-dr-maischter-hett-gewunne,17,2,0.7003153610362428,0.11764705882352941
+",39,bastian-dr-maischter-hett-gewunne,17,2,0.7003153610362428,0.11764705882352941
 79,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -544,7 +544,7 @@ Schaköbel bass uff, do kannsch ebbs lehre. Wenn d'r Addes bluetig uff-em Bodde 
             langsam bis uff zehn, un wenn'r nimmi uffsteht, ischr knock-out.
 
           
-",bastian-dr-maischter-hett-gewunne,27,4,0.6278766792355543,0.14814814814814814
+",39,bastian-dr-maischter-hett-gewunne,27,4,0.6278766792355543,0.14814814814814814
 80,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -553,7 +553,7 @@ SCHAKOEBEL:
 Ja isch'r derno füddi?
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.4381250409322417,0.2
+",40,bastian-dr-maischter-hett-gewunne,5,1,0.4381250409322417,0.2
 81,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -562,7 +562,7 @@ EDDES:
 Numme halwer. Er hat 's Nasebaan gebroche, sechs Zähn fehle n'em, un het e verheiti Kinnlad.
 
           
-",bastian-dr-maischter-hett-gewunne,18,2,0.3925024823715756,0.1111111111111111
+",40,bastian-dr-maischter-hett-gewunne,18,2,0.3925024823715756,0.1111111111111111
 83,comedy,Addes,M,,,,"
             
 ADDES:
@@ -573,7 +573,7 @@ Kumm numme her dü Grossmüül, dich will ich kinnlade.
 (Beide beginnen einen kurzen Boxkampf.)
 
           
-",bastian-dr-maischter-hett-gewunne,17,2,0.5340881769148185,0.11764705882352941
+",41,bastian-dr-maischter-hett-gewunne,17,2,0.5340881769148185,0.11764705882352941
 87,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -585,7 +585,7 @@ Un die saftig Renette schlucksch. Bing!
             stille ».)
 
           
-",bastian-dr-maischter-hett-gewunne,30,5,0.5819996776179681,0.16666666666666666
+",43,bastian-dr-maischter-hett-gewunne,30,5,0.5819996776179681,0.16666666666666666
 88,comedy,Mirliton,M,,,,"
             
 MIRLITON:
@@ -596,7 +596,7 @@ Bonjour Messieurs,
 (Kleine Pause.)
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.323397705248552,0.2857142857142857
+",44,bastian-dr-maischter-hett-gewunne,7,2,0.323397705248552,0.2857142857142857
 90,comedy,Addes,M,,,,"
             
 ADDES:
@@ -605,7 +605,7 @@ ADDES:
 Loss 'ne stehn.
 
           
-",bastian-dr-maischter-hett-gewunne,4,1,0.3003378041080027,0.25
+",45,bastian-dr-maischter-hett-gewunne,4,1,0.3003378041080027,0.25
 92,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -618,7 +618,7 @@ A, bonjour im Herre. Mit was könnt mer Ihne diene? MIRLITON
             gschafft wurd.
 
           
-",bastian-dr-maischter-hett-gewunne,29,2,0.6062548655845662,0.06896551724137931
+",46,bastian-dr-maischter-hett-gewunne,29,2,0.6062548655845662,0.06896551724137931
 93,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -627,7 +627,7 @@ EDDES:
 Hors concour, Monsieur. Sechs goldigi Medaille.
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.7271556328833099,0.14285714285714285
+",46,bastian-dr-maischter-hett-gewunne,7,1,0.7271556328833099,0.14285714285714285
 97,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -638,7 +638,7 @@ Schaköbel, lang e Stuehl here. Hucke Sie do anne, Monsieur Dürlüdü. Ich will
             Bodin üss, awer sachte. Schick dich e bissele, leste.
 
           
-",bastian-dr-maischter-hett-gewunne,44,5,0.5207885725602666,0.11363636363636363
+",48,bastian-dr-maischter-hett-gewunne,44,5,0.5207885725602666,0.11363636363636363
 98,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -649,7 +649,7 @@ Eju dann.
 (Hält den Fuss hoch.)
 
           
-",bastian-dr-maischter-hett-gewunne,9,2,0.49440059515915646,0.2222222222222222
+",49,bastian-dr-maischter-hett-gewunne,9,2,0.49440059515915646,0.2222222222222222
 99,comedy,Mirliton,M,,,,"
             
 MIRLITON:
@@ -658,7 +658,7 @@ MIRLITON:
 Gänn Sie doch acht jeune homme, ich bin arig dificile.
 
           
-",bastian-dr-maischter-hett-gewunne,11,1,0.6433193632821606,0.09090909090909091
+",49,bastian-dr-maischter-hett-gewunne,11,1,0.6433193632821606,0.09090909090909091
 100,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -667,7 +667,7 @@ EDDES:
 Dü maansch glab hebsch e 'n Ochs am Hinterfüess, dü Dollweck.
 
           
-",bastian-dr-maischter-hett-gewunne,12,1,0.7427254757342471,0.08333333333333333
+",50,bastian-dr-maischter-hett-gewunne,12,1,0.7427254757342471,0.08333333333333333
 102,comedy,Eddes,M,,,,"
             
 EDDES
@@ -687,7 +687,7 @@ Pack dich. Denne Dirmel kann mer for nix brüche.
             13. So, Monsieur, 's isch g'schehne.
 
           
-",bastian-dr-maischter-hett-gewunne,78,5,0.5078410543076411,0.0641025641025641
+",51,bastian-dr-maischter-hett-gewunne,78,5,0.5078410543076411,0.0641025641025641
 103,comedy,Mirliton,M,,,,"
             
 MIRLITON:
@@ -696,7 +696,7 @@ MIRLITON:
 Wenn kann ich uff d' Lifferung zähle?
 
           
-",bastian-dr-maischter-hett-gewunne,8,3,0.6281185281673648,0.375
+",51,bastian-dr-maischter-hett-gewunne,8,3,0.6281185281673648,0.375
 104,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -705,7 +705,7 @@ EDDES:
 So ball wie möjlich. Schaköbel, helf dem Herr d'r Schueh anduehn.
 
           
-",bastian-dr-maischter-hett-gewunne,12,2,0.6282319982983243,0.16666666666666666
+",52,bastian-dr-maischter-hett-gewunne,12,2,0.6282319982983243,0.16666666666666666
 105,comedy,Mirliton,M,,,,"
             
 MIRLITON:
@@ -714,7 +714,7 @@ MIRLITON:
 Merci, 's geht besser ellaan. Eh bien, in acht Daa denk ich.
 
           
-",bastian-dr-maischter-hett-gewunne,13,1,0.7271041919753396,0.07692307692307693
+",52,bastian-dr-maischter-hett-gewunne,13,1,0.7271041919753396,0.07692307692307693
 110,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -724,7 +724,7 @@ Schaköbel, diss Büechel here. — Wie, ja — dich solle d' Ente vertrette, d�
             gschriewe! Hab ich dir nit gsaat dü — e fitzekapores! Ja kannsch denn dü nit schriewe?
 
           
-",bastian-dr-maischter-hett-gewunne,35,3,0.46058845615987337,0.08571428571428572
+",55,bastian-dr-maischter-hett-gewunne,35,3,0.46058845615987337,0.08571428571428572
 114,comedy,Addes,M,,,,"
             
 ADDES:
@@ -733,7 +733,7 @@ ADDES:
 Haha, der isch sicher d' Schuld, dass d' Frösch ken Wäddel han.
 
           
-",bastian-dr-maischter-hett-gewunne,13,2,0.60128427931806,0.15384615384615385
+",57,bastian-dr-maischter-hett-gewunne,13,2,0.60128427931806,0.15384615384615385
 115,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -743,7 +743,7 @@ Witt dü schnell dem Herrn noochlaufe! Saasch er het ebbs vergesse. — Dü lauf
             noch nit drüsse? Zaj Addes, lang mer d'r Knejrieme. Witt dü mache dass...
 
           
-",bastian-dr-maischter-hett-gewunne,32,3,0.4779238799204921,0.09375
+",57,bastian-dr-maischter-hett-gewunne,32,3,0.4779238799204921,0.09375
 116,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -755,7 +755,7 @@ O liever Harr Schuehmochersgsell, ech, ech — Harr Düderlüdu
  horche, horche!
 
           
-",bastian-dr-maischter-hett-gewunne,16,1,0.6576320434448562,0.0625
+",58,bastian-dr-maischter-hett-gewunne,16,1,0.6576320434448562,0.0625
 117,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -764,7 +764,7 @@ EDDES:
 So e Rejementsdirmel! Wart dü wursch noch dressiert.
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.4973560580946268,0.1111111111111111
+",58,bastian-dr-maischter-hett-gewunne,9,1,0.4973560580946268,0.1111111111111111
 118,comedy,Addes,M,,,,"
             
 ADDES:
@@ -773,7 +773,7 @@ ADDES:
 D'r Deifel het alles wölle wäre nume nit Lehrbue.
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.5501480338809785,0.1
+",59,bastian-dr-maischter-hett-gewunne,10,1,0.5501480338809785,0.1
 119,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -782,7 +782,7 @@ EDDES:
 Drum isch'r au glich Maischter worre. Enfin...
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.9010265013611788,0.125
+",59,bastian-dr-maischter-hett-gewunne,8,1,0.9010265013611788,0.125
 120,comedy,Addes,M,,,,"
             
 ADDES:
@@ -792,7 +792,7 @@ Sin ken Bäre. Jetz kummt mer ebbs yn. Han mer nit im Dorel, im Liebschter vun d
             Bodinmachermaischtersdoochter, uff hit sini gsohlte Schueh versproche?
 
           
-",bastian-dr-maischter-hett-gewunne,25,4,0.6142816735672699,0.16
+",60,bastian-dr-maischter-hett-gewunne,25,4,0.6142816735672699,0.16
 121,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -804,7 +804,7 @@ Minsex! Awer jetz kummt mir au ebbs yn,
  Ich maan als, ich maan — morje, morje...
 
           
-",bastian-dr-maischter-hett-gewunne,20,3,0.448032666873464,0.15
+",60,bastian-dr-maischter-hett-gewunne,20,3,0.448032666873464,0.15
 122,comedy,Addes,M,,,,"
             
 ADDES:
@@ -813,7 +813,7 @@ ADDES:
 Was morje?
 
           
-",bastian-dr-maischter-hett-gewunne,3,1,0.4085490003101959,0.3333333333333333
+",61,bastian-dr-maischter-hett-gewunne,3,1,0.4085490003101959,0.3333333333333333
 123,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -826,7 +826,7 @@ Grad rechel ich nooch.
             Gsell! Addes Gsell!
 
           
-",bastian-dr-maischter-hett-gewunne,24,3,0.5724906564858875,0.125
+",61,bastian-dr-maischter-hett-gewunne,24,3,0.5724906564858875,0.125
 124,comedy,Addes,M,,,,"
             
 ADDES:
@@ -836,7 +836,7 @@ Was? E Nundebuckel, un diss kummt dir jetz ererscht yn? Dü sollsch blöuj wäre
             Gsell wurd yngewaicht.
 
           
-",bastian-dr-maischter-hett-gewunne,21,1,0.5621130435573397,0.047619047619047616
+",62,bastian-dr-maischter-hett-gewunne,21,1,0.5621130435573397,0.047619047619047616
 125,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -846,7 +846,7 @@ Gsell! Ich möcht mir fasch d' Hand drucke for Gruenz. Haha, was koscht 's Elsas
             Dörfer? Addes, denne Owe trinke mer küewelswies.
 
           
-",bastian-dr-maischter-hett-gewunne,27,1,0.5930513998498103,0.037037037037037035
+",62,bastian-dr-maischter-hett-gewunne,27,1,0.5930513998498103,0.037037037037037035
 126,comedy,Addes,M,,,,"
             
 ADDES:
@@ -859,7 +859,7 @@ Bravo, diss isch e Mannswort. Vive Eddes. Hoch soll'r läwe, drej Käs hoch, viv
             mit mir uff d'r Polka gehn. Hopsa Lissele, danz e bissele...
 
           
-",bastian-dr-maischter-hett-gewunne,41,10,0.588844025373965,0.24390243902439024
+",63,bastian-dr-maischter-hett-gewunne,41,10,0.588844025373965,0.24390243902439024
 127,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -869,7 +869,7 @@ Was isch denn diss for e Spektakel? Danze die Lüüser gemüetlich e Polonaise �
             diss amend gschafft? Was mache mini Schueh?
 
           
-",bastian-dr-maischter-hett-gewunne,25,3,0.4168357103020674,0.12
+",63,bastian-dr-maischter-hett-gewunne,25,3,0.4168357103020674,0.12
 128,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -878,7 +878,7 @@ EDDES:
 Herr Dorel, mir sin grad dran.
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.6396934828720576,0.2857142857142857
+",64,bastian-dr-maischter-hett-gewunne,7,2,0.6396934828720576,0.2857142857142857
 129,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -888,7 +888,7 @@ Ich sieh's. Awer horche, saaue emol, was isch denn mit minere Hochzittere Petron
             zuekuenftige Schwejeres los?
 
           
-",bastian-dr-maischter-hett-gewunne,20,2,0.7571414590773792,0.1
+",64,bastian-dr-maischter-hett-gewunne,20,2,0.7571414590773792,0.1
 131,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -898,7 +898,7 @@ Halt din daub Müül. Treff ich die zwei Wiebszimmer im Magmod aan, un wie sie m
             sie d' Nase hoch, un mache so als ob sie mich noch nie gekennt hätte.
 
           
-",bastian-dr-maischter-hett-gewunne,34,5,0.4805951401202061,0.14705882352941177
+",65,bastian-dr-maischter-hett-gewunne,34,5,0.4805951401202061,0.14705882352941177
 134,comedy,Addes,M,,,,"
             
 ADDES:
@@ -907,7 +907,7 @@ ADDES:
 Ei, Herr Dorel, Sie könne's jo noch noochhole.
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.6274639965966486,0.1
+",67,bastian-dr-maischter-hett-gewunne,10,1,0.6274639965966486,0.1
 135,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -916,7 +916,7 @@ DOREL:
 Wurr ich au, un nit ze knapp.
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.3830570040520596,0.125
+",67,bastian-dr-maischter-hett-gewunne,8,1,0.3830570040520596,0.125
 136,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -925,7 +925,7 @@ EDDES:
 Awer saftig. Herr Hochzitter, je saftiger, deschto besser.
 
           
-",bastian-dr-maischter-hett-gewunne,9,3,0.6181564898591702,0.3333333333333333
+",68,bastian-dr-maischter-hett-gewunne,9,3,0.6181564898591702,0.3333333333333333
 140,comedy,Addes,M,,,,"
             
 ADDES:
@@ -934,7 +934,7 @@ ADDES:
 Luej do miner Kolleg.
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.6835986364388508,0.2
+",70,bastian-dr-maischter-hett-gewunne,5,1,0.6835986364388508,0.2
 141,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -944,7 +944,7 @@ Wo bisch denn so lang gschteckt? Ich hab gemaant dü bisch zue dinere Mieädder 
             denn 's Mess?
 
           
-",bastian-dr-maischter-hett-gewunne,22,3,0.5584359167554368,0.13636363636363635
+",70,bastian-dr-maischter-hett-gewunne,22,3,0.5584359167554368,0.13636363636363635
 143,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -953,7 +953,7 @@ EDDES:
 Addes, lang d'r Tröschter. Dich will ich messe lehre.
 
           
-",bastian-dr-maischter-hett-gewunne,10,4,0.5514710855752589,0.4
+",71,bastian-dr-maischter-hett-gewunne,10,4,0.5514710855752589,0.4
 144,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -965,7 +965,7 @@ Ojemer, ojemer. Ech will brov sin.
  Edwar! Adolph! Diuhe! Diuhu!
 
           
-",bastian-dr-maischter-hett-gewunne,19,1,0.7983463353755945,0.05263157894736842
+",72,bastian-dr-maischter-hett-gewunne,19,1,0.7983463353755945,0.05263157894736842
 145,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -974,7 +974,7 @@ EDDES:
 E Glüeck fer dich, dass d'r Alt kummt, sunscht hätt's Fetze gänn.
 
           
-",bastian-dr-maischter-hett-gewunne,14,2,0.6039183672537377,0.14285714285714285
+",72,bastian-dr-maischter-hett-gewunne,14,2,0.6039183672537377,0.14285714285714285
 146,comedy,Addes,M,,,,"
             
 ADDES:
@@ -983,7 +983,7 @@ ADDES:
 Ich glaab d'r Maischter het e g'hörige Well.
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.9010265013611788,0.1111111111111111
+",73,bastian-dr-maischter-hett-gewunne,9,1,0.9010265013611788,0.1111111111111111
 149,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -995,7 +995,7 @@ Wenn ich saa, es wurd nimi gschafft, wurd nimmi gschafft.
  Ich hab drei Millione gewunne.
 
           
-",bastian-dr-maischter-hett-gewunne,25,3,0.6285654533063681,0.12
+",74,bastian-dr-maischter-hett-gewunne,25,3,0.6285654533063681,0.12
 150,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1004,7 +1004,7 @@ ADDES:
 D'r Maischter het gewunne!
 
           
-",bastian-dr-maischter-hett-gewunne,5,2,0.8229272800153006,0.4
+",75,bastian-dr-maischter-hett-gewunne,5,2,0.8229272800153006,0.4
 151,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1013,7 +1013,7 @@ EDDES:
 Jo Plän vun Paris.
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.7745995041244451,0.2
+",75,bastian-dr-maischter-hett-gewunne,5,1,0.7745995041244451,0.2
 152,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1024,7 +1024,7 @@ So wohr ich Drohtspitz haiss. Drei Millione! D' Frau un Doochter hab ich unterw�
             sin stehn gebliewe, un han Müül un Nas uffgschberrt.
 
           
-",bastian-dr-maischter-hett-gewunne,41,4,0.5245548201382546,0.0975609756097561
+",76,bastian-dr-maischter-hett-gewunne,41,4,0.5245548201382546,0.0975609756097561
 154,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1034,7 +1034,7 @@ Millione un 's Wetter. Addes, d' Karte her, dass mer e Tournee erüssklopfe, uff
             Addes, dü gibsch.
 
           
-",bastian-dr-maischter-hett-gewunne,20,2,0.5655384005318079,0.1
+",77,bastian-dr-maischter-hett-gewunne,20,2,0.5655384005318079,0.1
 155,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1043,7 +1043,7 @@ DROHTSPITZ:
 Ja ihr Buewe, Numero 128.697 isch e Glückszahl, un die isch uff mich gfalle.
 
           
-",bastian-dr-maischter-hett-gewunne,16,3,0.49345336393951,0.1875
+",77,bastian-dr-maischter-hett-gewunne,16,3,0.49345336393951,0.1875
 156,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1055,7 +1055,7 @@ Mäischter, ich gratülier zue dem söuimässige Glück. ADDES
  Un ich au, dunderwischbel.
 
           
-",bastian-dr-maischter-hett-gewunne,19,1,0.5645173712253149,0.05263157894736842
+",78,bastian-dr-maischter-hett-gewunne,19,1,0.5645173712253149,0.05263157894736842
 160,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1068,7 +1068,7 @@ Ah dü bisch d'r Schaköbel! — Na, kannsch dich vun dim Vadder widder hole lon
 (Wirft alles durcheinander.)
 
           
-",bastian-dr-maischter-hett-gewunne,49,5,0.48749052296965917,0.10204081632653061
+",80,bastian-dr-maischter-hett-gewunne,49,5,0.48749052296965917,0.10204081632653061
 162,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1078,7 +1078,7 @@ Naan, noch nit. Hitt fyre mir e grosses Fescht. Un wenn dü mir nochemol Maischt
             ich dir aani, dass dü erumsurrsch wie e Propeller.
 
           
-",bastian-dr-maischter-hett-gewunne,27,2,0.8201629150104368,0.07407407407407407
+",81,bastian-dr-maischter-hett-gewunne,27,2,0.8201629150104368,0.07407407407407407
 163,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1087,7 +1087,7 @@ EDDES:
 Schübbe isch Trumpf. Addes, hopp, e Kart odder e Stück Holz.
 
           
-",bastian-dr-maischter-hett-gewunne,12,1,0.898,0.08333333333333333
+",81,bastian-dr-maischter-hett-gewunne,12,1,0.898,0.08333333333333333
 165,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1097,7 +1097,7 @@ He, was hab ich gsaat? Do hinne wurd nimmi gschafft. Adolph, hol mir im Schlofzi
             Fodell.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.2479680081403359,0.05555555555555555
+",82,bastian-dr-maischter-hett-gewunne,18,1,0.2479680081403359,0.05555555555555555
 166,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1108,7 +1108,7 @@ Ja Maischler — ä Herr Millionär.
 (Ab links.)
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.5327945187644452,0.18181818181818182
+",83,bastian-dr-maischter-hett-gewunne,11,2,0.5327945187644452,0.18181818181818182
 167,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1117,7 +1117,7 @@ DROHTSPITZ:
 Voilà. Diss isch 's richtig Wort.
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.633728450843718,0.2857142857142857
+",83,bastian-dr-maischter-hett-gewunne,7,2,0.633728450843718,0.2857142857142857
 168,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1126,7 +1126,7 @@ EDDES:
 Was ich noch saaue will, Maischter, ä Herr von Drohtspitz, vun morje ab bin ich Gsell.
 
           
-",bastian-dr-maischter-hett-gewunne,17,3,0.6456798327560078,0.17647058823529413
+",84,bastian-dr-maischter-hett-gewunne,17,3,0.6456798327560078,0.17647058823529413
 169,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1135,7 +1135,7 @@ DROHTSPITZ:
 Armer Wurm. He, wo bliebt miner Fodell?
 
           
-",bastian-dr-maischter-hett-gewunne,8,3,0.3602600661168389,0.375
+",84,bastian-dr-maischter-hett-gewunne,8,3,0.3602600661168389,0.375
 170,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1144,7 +1144,7 @@ ADDES:
 Do isch'r. Ich hab noch schnell e paar Spinnhuddle abgschtaibt. Voilà, Herr.
 
           
-",bastian-dr-maischter-hett-gewunne,13,2,0.6582344846996082,0.15384615384615385
+",85,bastian-dr-maischter-hett-gewunne,13,2,0.6582344846996082,0.15384615384615385
 171,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -1156,7 +1156,7 @@ DROHTSPITZ
 Merci.
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.5124082890051118,0.1111111111111111
+",85,bastian-dr-maischter-hett-gewunne,9,1,0.5124082890051118,0.1111111111111111
 172,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1168,7 +1168,7 @@ Bie de nächschte Wahle kenn ich aaner wo im Gemaanrot sitzt. No haisst's: Monsi
             d'r stolz Stadtvadder? D'r Kirichrot bliebt au nit üss, d'r Armeinspektertitel kummt vun aase.
 
           
-",bastian-dr-maischter-hett-gewunne,67,9,0.6929859879156796,0.13432835820895522
+",86,bastian-dr-maischter-hett-gewunne,67,9,0.6929859879156796,0.13432835820895522
 174,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1178,7 +1178,7 @@ D'r Herr Drohtspitz verkehrt nume mit vornehme Herrschafte. Par exemple mit-em P
             Sénateurs, Minischter.
 
           
-",bastian-dr-maischter-hett-gewunne,16,3,0.725700266940977,0.1875
+",87,bastian-dr-maischter-hett-gewunne,16,3,0.725700266940977,0.1875
 175,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1187,7 +1187,7 @@ DROHTSPITZ:
 Wills starik hoffe.
 
           
-",bastian-dr-maischter-hett-gewunne,4,2,0.6499523588497604,0.5
+",87,bastian-dr-maischter-hett-gewunne,4,2,0.6499523588497604,0.5
 177,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1196,7 +1196,7 @@ DROHTSPITZ:
 Un nit weni Männel.
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.7390711215592133,0.2
+",88,bastian-dr-maischter-hett-gewunne,5,1,0.7390711215592133,0.2
 178,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1206,7 +1206,7 @@ D'r chevalier de la Landwirtschaft isch sicher. Un d' Bankier laufe Ihne nooch, 
             nooch-em Speck.
 
           
-",bastian-dr-maischter-hett-gewunne,19,2,0.6322269926446319,0.10526315789473684
+",89,bastian-dr-maischter-hett-gewunne,19,2,0.6322269926446319,0.10526315789473684
 179,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1216,7 +1216,7 @@ Wo numme mini Frau bliebt un d' Petronelle? Ah, die kaufe jo yn. No fahre sie im
             Zahnarzt. Sie wölle sich goldeni Zähn mache lonn.
 
           
-",bastian-dr-maischter-hett-gewunne,28,1,0.3003378041080027,0.03571428571428571
+",89,bastian-dr-maischter-hett-gewunne,28,1,0.3003378041080027,0.03571428571428571
 180,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1225,7 +1225,7 @@ ADDES:
 Wenn's grad emol an Muenz fehle dät, könnte die Dame jo e Zahn uff d'r Tisch laje.
 
           
-",bastian-dr-maischter-hett-gewunne,19,4,0.5487514923717047,0.21052631578947367
+",90,bastian-dr-maischter-hett-gewunne,19,4,0.5487514923717047,0.21052631578947367
 181,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -1238,7 +1238,7 @@ Kaiwe Bue. E gueter Witz, haha! Dü, Edwar, wie dü morje doch üssgelehrt hesch
             wittersch rauche.
 
           
-",bastian-dr-maischter-hett-gewunne,23,4,0.5439857028611721,0.17391304347826086
+",90,bastian-dr-maischter-hett-gewunne,23,4,0.5439857028611721,0.17391304347826086
 182,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1247,7 +1247,7 @@ EDDES:
 Merci, Herr.
 
           
-",bastian-dr-maischter-hett-gewunne,3,1,0.6274639965966486,0.3333333333333333
+",91,bastian-dr-maischter-hett-gewunne,3,1,0.6274639965966486,0.3333333333333333
 183,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1257,7 +1257,7 @@ Un derno kannsch miner ganz Grümbel han, mit zamt d'r Pratik. Sogar 's Todedrä
             au ab.
 
           
-",bastian-dr-maischter-hett-gewunne,20,2,0.6733292096460659,0.1
+",91,bastian-dr-maischter-hett-gewunne,20,2,0.6733292096460659,0.1
 184,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1268,7 +1268,7 @@ Merci, Herr. Könnte Sie mir sunscht noch so e bissel, Sie wisse jo wie ich's ma
 (Mimik vom Geldzählen.)
 
           
-",bastian-dr-maischter-hett-gewunne,23,1,0.6274639965966486,0.043478260869565216
+",92,bastian-dr-maischter-hett-gewunne,23,1,0.6274639965966486,0.043478260869565216
 185,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1277,7 +1277,7 @@ DROHTSPITZ:
 Aha, dü winksch mit-em Holzschläjel. Na, es kummt mer minsex uff e paar Döusig nit aan.
 
           
-",bastian-dr-maischter-hett-gewunne,17,1,0.657,0.058823529411764705
+",92,bastian-dr-maischter-hett-gewunne,17,1,0.657,0.058823529411764705
 186,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1286,7 +1286,7 @@ EDDES:
 Könnt ich's nit schriftlich han? E rächter Gschäftsmann geht hitt am Daa numme uff Schriewes.
 
           
-",bastian-dr-maischter-hett-gewunne,17,2,0.6964270512104367,0.11764705882352941
+",93,bastian-dr-maischter-hett-gewunne,17,2,0.6964270512104367,0.11764705882352941
 187,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1295,7 +1295,7 @@ ADDES:
 Guet gänn.
 
           
-",bastian-dr-maischter-hett-gewunne,3,2,0.6621303553850615,0.6666666666666666
+",93,bastian-dr-maischter-hett-gewunne,3,2,0.6621303553850615,0.6666666666666666
 188,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1304,7 +1304,7 @@ DROHTSPITZ:
 Oho, e Mann, e Wort! Sollsch zehndöusig Liwerle han. Pah! Ja 's Geld macht d'r Mann. Haha!
 
           
-",bastian-dr-maischter-hett-gewunne,18,6,0.6207906653150564,0.3333333333333333
+",94,bastian-dr-maischter-hett-gewunne,18,6,0.6207906653150564,0.3333333333333333
 189,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1317,7 +1317,7 @@ Merci, Herr Millionär.
             fundamentiert isch.
 
           
-",bastian-dr-maischter-hett-gewunne,20,3,0.6280919846563165,0.15
+",94,bastian-dr-maischter-hett-gewunne,20,3,0.6280919846563165,0.15
 191,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1326,7 +1326,7 @@ EDDES:
 Diss Gschäft wurd in drei Spezialitäte yngedailt.
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.5998119573723012,0.125
+",95,bastian-dr-maischter-hett-gewunne,8,1,0.5998119573723012,0.125
 193,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1336,7 +1336,7 @@ Erschtens in e orthopädischi Abteilung for verkrüppelti Fuess. Zwaitens in e P
             drittens in e Kinderschueh-Klinik.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.2497176879113997,0.05555555555555555
+",96,bastian-dr-maischter-hett-gewunne,18,1,0.2497176879113997,0.05555555555555555
 194,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1345,7 +1345,7 @@ ADDES:
 Guet gänn. Kohl wittersch.
 
           
-",bastian-dr-maischter-hett-gewunne,5,2,0.6621303553850615,0.4
+",97,bastian-dr-maischter-hett-gewunne,5,2,0.6621303553850615,0.4
 196,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1355,7 +1355,7 @@ No schaff ich mir e amerikanischi Maschin aan, wo ich in e're Uesstellung gsehne
             die in kurzer Zitt e Vermöje abwerft.
 
           
-",bastian-dr-maischter-hett-gewunne,25,2,0.6989444532869802,0.08
+",98,bastian-dr-maischter-hett-gewunne,25,2,0.6989444532869802,0.08
 197,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1364,7 +1364,7 @@ DROHTSPITZ:
 Edwar, Edwar, dü machsch jo e Möwelwaaue lache.
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.5531539959162745,0.1111111111111111
+",98,bastian-dr-maischter-hett-gewunne,9,1,0.5531539959162745,0.1111111111111111
 199,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1374,7 +1374,7 @@ Dere Maschin wurd vun vorne Rossledder nynspediert, un hinte kumme Bodin in box-
             erüss.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.4697888562405837,0.05555555555555555
+",99,bastian-dr-maischter-hett-gewunne,18,1,0.4697888562405837,0.05555555555555555
 200,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1383,7 +1383,7 @@ ADDES:
 Grossartig!
 
           
-",bastian-dr-maischter-hett-gewunne,2,1,0.8710951092748214,0.5
+",100,bastian-dr-maischter-hett-gewunne,2,1,0.8710951092748214,0.5
 201,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1393,7 +1393,7 @@ Horich Edwar, als gewöhnlicher Schuehmacher dät ich mich verzüerne. Awer als 
             nowel. Verstehsch, dü Lüüser!
 
           
-",bastian-dr-maischter-hett-gewunne,20,1,0.1670100965945528,0.05
+",100,bastian-dr-maischter-hett-gewunne,20,1,0.1670100965945528,0.05
 202,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1402,7 +1402,7 @@ ADDES:
 Nowel geht d' Welt zegrund. Ja Herr Millionär, was ich fröuje möcht, was mach ich denn?
 
           
-",bastian-dr-maischter-hett-gewunne,17,2,0.5327945187644452,0.11764705882352941
+",101,bastian-dr-maischter-hett-gewunne,17,2,0.5327945187644452,0.11764705882352941
 203,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1412,7 +1412,7 @@ Dü, dü schnüüfsch dass d' nit verschticksch. Awer halt! Ich schaff mer e Vie
             Arawerhengscht, odder englisch Vollbluet, un derno kannsch Kütscher bie mir wäre.
 
           
-",bastian-dr-maischter-hett-gewunne,28,1,0.3607767117547636,0.03571428571428571
+",101,bastian-dr-maischter-hett-gewunne,28,1,0.3607767117547636,0.03571428571428571
 204,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1429,7 +1429,7 @@ Bravo! Diss dät mer basse.
 (Sie reiten um Drohtspitz herum.)
 
           
-",bastian-dr-maischter-hett-gewunne,37,2,0.810920932915951,0.05405405405405406
+",102,bastian-dr-maischter-hett-gewunne,37,2,0.810920932915951,0.05405405405405406
 205,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL
@@ -1441,7 +1441,7 @@ SCHAKOEBEL
 Hohü, hischterum, öööh Schimmel.
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.2619992180575732,0.1
+",102,bastian-dr-maischter-hett-gewunne,10,1,0.2619992180575732,0.1
 206,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -1450,7 +1450,7 @@ DROHTSPITZ
 (lacht unbändig, schlägt sich aufs Knie).
 
           
-",bastian-dr-maischter-hett-gewunne,9,1,0.425,0.1111111111111111
+",103,bastian-dr-maischter-hett-gewunne,9,1,0.425,0.1111111111111111
 207,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1462,7 +1462,7 @@ Oho!
  Was isch denn los?
 
           
-",bastian-dr-maischter-hett-gewunne,13,1,0.8361174887404478,0.07692307692307693
+",103,bastian-dr-maischter-hett-gewunne,13,1,0.8361174887404478,0.07692307692307693
 208,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -1471,7 +1471,7 @@ DROHTSPITZ
 (steht auf, kehrt Dorel den Rücken, geht dann aufgeblasen hin und her).
 
           
-",bastian-dr-maischter-hett-gewunne,15,1,0.2928683012496821,0.06666666666666667
+",104,bastian-dr-maischter-hett-gewunne,15,1,0.2928683012496821,0.06666666666666667
 209,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1481,7 +1481,7 @@ Was Deifels, bisch bös, Schwejerbabbe? Sin mini Schuch gsohlt? Guete Daa Schwej
             's Petronelle, dis lieb Schätzel? — Ken Antwort.
 
           
-",bastian-dr-maischter-hett-gewunne,24,3,0.6048135720187847,0.125
+",104,bastian-dr-maischter-hett-gewunne,24,3,0.6048135720187847,0.125
 210,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1490,7 +1490,7 @@ EDDES:
 Er het drei Millione gewunne. Sie muehn-em Herr Millionär saawe.
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.6861460276330356,0.18181818181818182
+",105,bastian-dr-maischter-hett-gewunne,11,2,0.6861460276330356,0.18181818181818182
 213,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1499,7 +1499,7 @@ DROHTSPITZ:
 Edwar, dü gehsch nab zuem Photograph am Eck, er soll glich kumme.
 
           
-",bastian-dr-maischter-hett-gewunne,13,1,0.4697888562405837,0.07692307692307693
+",106,bastian-dr-maischter-hett-gewunne,13,1,0.4697888562405837,0.07692307692307693
 214,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1508,7 +1508,7 @@ EDDES:
 Wäre mir photographiert, Herr Drohtspitz?
 
           
-",bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
+",107,bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
 215,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1517,7 +1517,7 @@ DROHTSPITZ:
 Ja, in Läwesgrösse.
 
           
-",bastian-dr-maischter-hett-gewunne,4,1,0.4381250409322417,0.25
+",107,bastian-dr-maischter-hett-gewunne,4,1,0.4381250409322417,0.25
 218,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1526,7 +1526,7 @@ DROHTSPITZ:
 Awer d' beschte wo'r hett. Saasch er soll e 'n Andenke gänn.
 
           
-",bastian-dr-maischter-hett-gewunne,13,2,0.6126615649500771,0.15384615384615385
+",109,bastian-dr-maischter-hett-gewunne,13,2,0.6126615649500771,0.15384615384615385
 220,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1535,7 +1535,7 @@ DROHTSPITZ:
 Un dü, Adolph, bschtellsch mer glich e Fass Champagner, verschtande?
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.5897110092198898,0.18181818181818182
+",110,bastian-dr-maischter-hett-gewunne,11,2,0.5897110092198898,0.18181818181818182
 221,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1544,7 +1544,7 @@ DOREL:
 Haha, e Fass Champagner. Dem isch 's Pech in de Kopf gschtöje.
 
           
-",bastian-dr-maischter-hett-gewunne,13,1,0.5693167412852054,0.07692307692307693
+",110,bastian-dr-maischter-hett-gewunne,13,1,0.5693167412852054,0.07692307692307693
 222,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1556,7 +1556,7 @@ Halt, Adolph! Z'erscht gehsch in de Keller, an de Gänsstall, nämsch d'r Knibbe
 nimi notwendig Gäns ze stopfe, diss isch guet for Proletarier.
 
           
-",bastian-dr-maischter-hett-gewunne,38,3,0.5398941568223866,0.07894736842105263
+",111,bastian-dr-maischter-hett-gewunne,38,3,0.5398941568223866,0.07894736842105263
 223,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1565,7 +1565,7 @@ ADDES:
 Gibts hitt noch e Fricot, Herr Drohtspitz?
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.6274639965966486,0.125
+",111,bastian-dr-maischter-hett-gewunne,8,1,0.6274639965966486,0.125
 225,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1576,7 +1576,7 @@ Ha, ich frai mich jetz schun druff. Herr Dorl, vergesse Sie Ihri Redd nit. Schak
 (Beide Mitteltüre ab.)
 
           
-",bastian-dr-maischter-hett-gewunne,22,3,0.43367708530881255,0.13636363636363635
+",112,bastian-dr-maischter-hett-gewunne,22,3,0.43367708530881255,0.13636363636363635
 226,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1585,7 +1585,7 @@ DOREL:
 Herr Drohtspitz! Herr Schwejeres, ich möcht...
 
           
-",bastian-dr-maischter-hett-gewunne,7,2,0.6274639965966486,0.2857142857142857
+",113,bastian-dr-maischter-hett-gewunne,7,2,0.6274639965966486,0.2857142857142857
 227,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1594,7 +1594,7 @@ DROHTSPITZ:
 Ja sin denn Sie als noch do?
 
           
-",bastian-dr-maischter-hett-gewunne,8,1,0.4381250409322417,0.125
+",113,bastian-dr-maischter-hett-gewunne,8,1,0.4381250409322417,0.125
 229,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1603,7 +1603,7 @@ DROHTSPITZ:
 Los, üss-em Staub, Sunscht hebb ich d' Tüer üss.
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.8361174887404478,0.1
+",114,bastian-dr-maischter-hett-gewunne,10,1,0.8361174887404478,0.1
 230,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1612,7 +1612,7 @@ DOREL:
 Soll mich e Esel trette. Ja, was glauwe denn...
 
           
-",bastian-dr-maischter-hett-gewunne,10,3,0.5636168388888296,0.3
+",115,bastian-dr-maischter-hett-gewunne,10,3,0.5636168388888296,0.3
 231,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1622,7 +1622,7 @@ Jaja, 's isch Ernscht, Herr Bäbbkessel. Gehn Sie numme. Ich verbiet Ihne ein fo
             Villa ze kumme.
 
           
-",bastian-dr-maischter-hett-gewunne,21,4,0.5288456569080253,0.19047619047619047
+",115,bastian-dr-maischter-hett-gewunne,21,4,0.5288456569080253,0.19047619047619047
 233,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1631,7 +1631,7 @@ DROHTSPITZ:
 Dabbezierersknecht, wurr nit frech, sunscht könntsch 's Fliehje lehre.
 
           
-",bastian-dr-maischter-hett-gewunne,10,2,0.5765660044470183,0.2
+",116,bastian-dr-maischter-hett-gewunne,10,2,0.5765660044470183,0.2
 234,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1641,7 +1641,7 @@ Jetz krej ich doch ball e Wuet. Saa mol, was isch denn in dich nyngfahre, dass d
             mit mir schbielsch?
 
           
-",bastian-dr-maischter-hett-gewunne,23,2,0.6468166002196576,0.08695652173913043
+",117,bastian-dr-maischter-hett-gewunne,23,2,0.6468166002196576,0.08695652173913043
 237,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1653,7 +1653,7 @@ Bin ich au, sogar e dreifacher. 's Nümero 128.697 het Glüeck gebrocht. Mit min
             süüfer mache.
 
           
-",bastian-dr-maischter-hett-gewunne,55,11,0.5599456724807648,0.2
+",118,bastian-dr-maischter-hett-gewunne,55,11,0.5599456724807648,0.2
 238,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1667,7 +1667,7 @@ denn eueri Wendelmatratze nej üewerzöüje un euere Flohzirik üssgeraichert? �
             Pecheschores.
 
           
-",bastian-dr-maischter-hett-gewunne,51,7,0.5340442093946428,0.13725490196078433
+",119,bastian-dr-maischter-hett-gewunne,51,7,0.5340442093946428,0.13725490196078433
 239,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -1681,7 +1681,7 @@ Herr Prolet, han Sie gsehne, wie Ihri Proletarierskabb nüssgflöüje isch? Na, 
             awer Kopf unte un d' Baan owe.
 
           
-",bastian-dr-maischter-hett-gewunne,44,3,0.4845492550254747,0.06818181818181818
+",119,bastian-dr-maischter-hett-gewunne,44,3,0.4845492550254747,0.06818181818181818
 240,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1693,7 +1693,7 @@ Ich geh vun ase, Herr Millionär. D'r Dorel bliebt d'r Dorel, un d'r Dorel pfiff
 (Ab.)
 
           
-",bastian-dr-maischter-hett-gewunne,36,2,0.6422319982983243,0.05555555555555555
+",120,bastian-dr-maischter-hett-gewunne,36,2,0.6422319982983243,0.05555555555555555
 241,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1704,7 +1704,7 @@ Armer Windbittel, düürsch mich.
 (Man hôrt weitlos Gänsegeschrei.)
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.4085598268534288,0.18181818181818182
+",120,bastian-dr-maischter-hett-gewunne,11,2,0.4085598268534288,0.18181818181818182
 244,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1715,7 +1715,7 @@ Bonjour, Herr Drohtspitz. Sie wüensche in corpore uffgenumme ze wäre. Grossart
             viel Glüeck zu dem enorme Geld. Drei Milliönle wie ich ghört hab. Ken Klaanigkeit.
 
           
-",bastian-dr-maischter-hett-gewunne,45,7,0.6478371001114204,0.15555555555555556
+",122,bastian-dr-maischter-hett-gewunne,45,7,0.6478371001114204,0.15555555555555556
 246,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1725,7 +1725,7 @@ So, d'r Apparat het glich die gross Ehr in Funktion ze trette. — Awer vorersch
             Herrschafte bitte 's Gsicht un d' Händ ze wäsche, denn mini Platte sin arig empfindlich.
 
           
-",bastian-dr-maischter-hett-gewunne,35,7,0.5644088943646671,0.2
+",123,bastian-dr-maischter-hett-gewunne,35,7,0.5644088943646671,0.2
 247,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1736,7 +1736,7 @@ Zell isch awer num. Sie sotte vor lütter Gruenz nit wisse, was Sie mache wölle
             uff-em Pechstuehl sitze sehn.
 
           
-",bastian-dr-maischter-hett-gewunne,37,3,0.5075707406869472,0.08108108108108109
+",123,bastian-dr-maischter-hett-gewunne,37,3,0.5075707406869472,0.08108108108108109
 248,comedy,Addes,M,,,,"
             
 ADDES
@@ -1748,7 +1748,7 @@ ADDES
 Ja, ja. D'r Schaköbel hielt wäje de
 
           
-",bastian-dr-maischter-hett-gewunne,12,2,0.4381250409322417,0.16666666666666666
+",124,bastian-dr-maischter-hett-gewunne,12,2,0.4381250409322417,0.16666666666666666
 249,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1757,7 +1757,7 @@ EDDES:
 Hä, do linse Sie, Herr Linser.
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.6274639965966486,0.14285714285714285
+",124,bastian-dr-maischter-hett-gewunne,7,1,0.6274639965966486,0.14285714285714285
 250,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1766,7 +1766,7 @@ LINSER:
 Wie Sie wüensche, Herr Drohtspitz. Also verehrti Herrschafte...
 
           
-",bastian-dr-maischter-hett-gewunne,9,3,0.732748657948008,0.3333333333333333
+",125,bastian-dr-maischter-hett-gewunne,9,3,0.732748657948008,0.3333333333333333
 251,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1775,7 +1775,7 @@ EDDES:
 Halt! D'r Addes un dr Schaköbel fehle noch.
 
           
-",bastian-dr-maischter-hett-gewunne,9,2,0.36184756116671024,0.2222222222222222
+",125,bastian-dr-maischter-hett-gewunne,9,2,0.36184756116671024,0.2222222222222222
 253,comedy,Eddes,M,,,,"
             
 EDDES
@@ -1787,7 +1787,7 @@ EDDES
 Addes, Schaköbel, ihr solle kumme! Gäns. Mir kumme! Mir kumme!
 
           
-",bastian-dr-maischter-hett-gewunne,14,3,0.4697888562405837,0.21428571428571427
+",126,bastian-dr-maischter-hett-gewunne,14,3,0.4697888562405837,0.21428571428571427
 254,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1796,7 +1796,7 @@ LINSER:
 So, jetz kann's losgehn.
 
           
-",bastian-dr-maischter-hett-gewunne,6,1,0.5243653018121652,0.16666666666666666
+",127,bastian-dr-maischter-hett-gewunne,6,1,0.5243653018121652,0.16666666666666666
 255,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1806,7 +1806,7 @@ Haha, luej die zwei. Mer maant sie han e Bataille mitgemacht. Betrachte die Gän
             drinsehn.
 
           
-",bastian-dr-maischter-hett-gewunne,18,1,0.7160517479530744,0.05555555555555555
+",127,bastian-dr-maischter-hett-gewunne,18,1,0.7160517479530744,0.05555555555555555
 256,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1816,7 +1816,7 @@ Also mini Herrschafte, bilde Sie e schöni Grupp. D'r Herr Drohtspitz in d' Mitt
             rächts un links.
 
           
-",bastian-dr-maischter-hett-gewunne,21,7,0.5730510028058646,0.3333333333333333
+",128,bastian-dr-maischter-hett-gewunne,21,7,0.5730510028058646,0.3333333333333333
 260,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1825,7 +1825,7 @@ ADDES:
 Maischter, ich will links...
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.9010265013611788,0.2
+",130,bastian-dr-maischter-hett-gewunne,5,1,0.9010265013611788,0.2
 261,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1836,7 +1836,7 @@ Maischter!? Do hesch links.
 (Gibt ihm eine Ohrfeige.)
 
           
-",bastian-dr-maischter-hett-gewunne,11,2,0.6650132506805894,0.18181818181818182
+",130,bastian-dr-maischter-hett-gewunne,11,2,0.6650132506805894,0.18181818181818182
 262,comedy,Eddes,M,,,,"
             
 EDDES:
@@ -1845,7 +1845,7 @@ EDDES:
 Bisch jetz zefridde?
 
           
-",bastian-dr-maischter-hett-gewunne,4,1,0.7347943350099368,0.25
+",131,bastian-dr-maischter-hett-gewunne,4,1,0.7347943350099368,0.25
 263,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1856,7 +1856,7 @@ So. D'r Klaan do, der setzt sich vor d'r Herr Drohtspitz uff dr Bodde, C'est ça
             e Maiedaa mit sim Früehjrot druffgezunde un es dät Knackwuerscht räje.
 
           
-",bastian-dr-maischter-hett-gewunne,48,10,0.5538183615946451,0.20833333333333334
+",131,bastian-dr-maischter-hett-gewunne,48,10,0.5538183615946451,0.20833333333333334
 264,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1865,7 +1865,7 @@ DROHTSPITZ:
 Was Knackwuerscht? Paschtete, wenn's beliebt.
 
           
-",bastian-dr-maischter-hett-gewunne,7,1,0.6626295133489543,0.14285714285714285
+",132,bastian-dr-maischter-hett-gewunne,7,1,0.6626295133489543,0.14285714285714285
 266,comedy,Addes,M,,,,"
             
 ADDES:
@@ -1874,7 +1874,7 @@ ADDES:
 Guet gänn, hahaha.
 
           
-",bastian-dr-maischter-hett-gewunne,4,2,0.6621303553850615,0.5
+",133,bastian-dr-maischter-hett-gewunne,4,2,0.6621303553850615,0.5
 267,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1887,7 +1887,7 @@ So isch erächt, ja. Herr Drohtspitz, e bissel süesser lächle, noch süesser, 
  Sie, junger Herr, lonn Sie d' Finger üss d'r Nas.
 
           
-",bastian-dr-maischter-hett-gewunne,38,8,0.5311041652018598,0.21052631578947367
+",133,bastian-dr-maischter-hett-gewunne,38,8,0.5311041652018598,0.21052631578947367
 269,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1896,7 +1896,7 @@ DROHTSPITZ:
 Herrschaft düürt dis e Ewigkeit. Aa — Herr Linser, han Sie au die neje Strahle mitgebrocht?
 
           
-",bastian-dr-maischter-hett-gewunne,17,4,0.7056806167514043,0.23529411764705882
+",134,bastian-dr-maischter-hett-gewunne,17,4,0.7056806167514043,0.23529411764705882
 270,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1905,7 +1905,7 @@ LINSER:
 Bedüür arig. Sie sin uff Schuehmacher nit verwendbar.
 
           
-",bastian-dr-maischter-hett-gewunne,9,2,0.515,0.2222222222222222
+",135,bastian-dr-maischter-hett-gewunne,9,2,0.515,0.2222222222222222
 271,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ:
@@ -1914,7 +1914,7 @@ DROHTSPITZ:
 Au Schwindel.
 
           
-",bastian-dr-maischter-hett-gewunne,3,1,0.4302878527562311,0.3333333333333333
+",135,bastian-dr-maischter-hett-gewunne,3,1,0.4302878527562311,0.3333333333333333
 272,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1925,7 +1925,7 @@ Jetz uffgebasst. Silence!
 (Schlüpft unter das Tuch.)
 
           
-",bastian-dr-maischter-hett-gewunne,10,1,0.2707187055735737,0.1
+",136,bastian-dr-maischter-hett-gewunne,10,1,0.2707187055735737,0.1
 275,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1935,7 +1935,7 @@ Ganz ruehig wenn's beliebt. He, der ganz klaan Herr do vorne, der macht jo e Buc
             wenn's blitzt.
 
           
-",bastian-dr-maischter-hett-gewunne,24,6,0.6708795584126258,0.25
+",137,bastian-dr-maischter-hett-gewunne,24,6,0.6708795584126258,0.25
 276,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -1944,7 +1944,7 @@ SCHAKOEBEL:
 Harr Telegraph, ech mään — ech mään as düat weh.
 
           
-",bastian-dr-maischter-hett-gewunne,11,1,0.290536673339361,0.09090909090909091
+",138,bastian-dr-maischter-hett-gewunne,11,1,0.290536673339361,0.09090909090909091
 277,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -1953,7 +1953,7 @@ LINSER:
 Dummer Bue.
 
           
-",bastian-dr-maischter-hett-gewunne,3,1,0.1975361692273941,0.3333333333333333
+",138,bastian-dr-maischter-hett-gewunne,3,1,0.1975361692273941,0.3333333333333333
 280,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1962,7 +1962,7 @@ DOREL:
 Herr Drohtspitz, wisse Sie schun?
 
           
-",bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
+",140,bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
 282,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1971,7 +1971,7 @@ DOREL:
 Herr Millionär, wisse Sie schun?
 
           
-",bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
+",141,bastian-dr-maischter-hett-gewunne,6,1,0.6274639965966486,0.16666666666666666
 284,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -1986,7 +1986,7 @@ Dass Sie nix gewunne han? Do steht's in der Zittung. E Druckfehler het sich yngs
 (Stellt den Zeigefinger.)
 
           
-",bastian-dr-maischter-hett-gewunne,41,2,0.7448280586694224,0.04878048780487805
+",142,bastian-dr-maischter-hett-gewunne,41,2,0.7448280586694224,0.04878048780487805
 285,comedy,Drohtspitz,M,,,,"
             
 DROHTSPITZ
@@ -2000,7 +2000,7 @@ Nix gewunne! Nix ge... Jesses, jetz, jetz...
 (Alle stürzen vor Schrecken zu Boden.)
 
           
-",bastian-dr-maischter-hett-gewunne,25,5,0.46867058289797,0.2
+",142,bastian-dr-maischter-hett-gewunne,25,5,0.46867058289797,0.2
 286,comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
             
 LINSER:
@@ -2012,7 +2012,7 @@ Oho, die ganz Gsellschaft isch jo verschwunde. Do soll doch glich
  Do hett's e Erdbewe gänn.
 
           
-",bastian-dr-maischter-hett-gewunne,24,5,0.5337245625367991,0.20833333333333334
+",143,bastian-dr-maischter-hett-gewunne,24,5,0.5337245625367991,0.20833333333333334
 289,comedy,Addes,M,,,,"
             
 ADDES:
@@ -2021,7 +2021,7 @@ ADDES:
 Der guet Fricot!
 
           
-",bastian-dr-maischter-hett-gewunne,4,1,0.6809413474879623,0.25
+",144,bastian-dr-maischter-hett-gewunne,4,1,0.6809413474879623,0.25
 290,comedy,Schaköbel,M,,,,"
             
 SCHAKOEBEL:
@@ -2030,7 +2030,7 @@ SCHAKOEBEL:
 Oo, Mieädder, hole mich!
 
           
-",bastian-dr-maischter-hett-gewunne,5,1,0.6037968922019624,0.2
+",145,bastian-dr-maischter-hett-gewunne,5,1,0.6037968922019624,0.2
 291,comedy,Dorel,M,,,,"
             
 DOREL:
@@ -2045,4 +2045,4 @@ Do, Herr Drohtspitz, hesch dini Millionärskabb.
             
 
           
-",bastian-dr-maischter-hett-gewunne,21,2,0.5903089962564616,0.09523809523809523
+",145,bastian-dr-maischter-hett-gewunne,21,2,0.5903089962564616,0.09523809523809523

@@ -1,4 +1,4 @@
-Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
+Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio
 0,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -153,7 +153,7 @@ Do isch emol e Knopf... un do ne franzescher Sü... mit eme Käfig un e Parepli 
 n-ich efange ag'mustert bi!.... 's isch jo ne Schand fir Sie, wenn Ebber frogt, wer mich alegt un ass es heisst, 's isch dr Herr Knopfloch... Ihre Kleid isch jo ganz üs dr Mode... un wisse Sie, ass Sie mir do schlecht Tüech g'liefert g'ha hàn, Herr Knopfloch?...
 
         
-",lustig-im-gretele-sine-kunstler,908,82,0.5907678871977323,0.09030837004405286
+",0,lustig-im-gretele-sine-kunstler,908,82,0.5907678871977323,0.09030837004405286
 1,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -162,7 +162,7 @@ Herr Knopfloch.
 's nimmt mich gar nitt Wunder, Herr Fisselboge, wenn Ihr' Kleid nimmig Mode-n-isch un wenn's nimmig anander hebt!... 's isch ebbe scho lang g'nüe, ass Sie's hàn, un desto schlechter isch's, ass Sie's no nitt zahlt hàn... ich bi jetz scho meh as zeh mol do gsi un allemol thien Sie mich üseschiewe...
 
         
-",lustig-im-gretele-sine-kunstler,61,5,0.5310197249486459,0.08196721311475409
+",1,lustig-im-gretele-sine-kunstler,61,5,0.5310197249486459,0.08196721311475409
 2,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -178,7 +178,7 @@ Ich Sie üseschiewe, Herr Knopfloch?... niemols!
                     
 
         
-",lustig-im-gretele-sine-kunstler,45,5,0.5657087772561034,0.1111111111111111
+",2,lustig-im-gretele-sine-kunstler,45,5,0.5657087772561034,0.1111111111111111
 3,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -218,7 +218,7 @@ Ass mr werde rechne hit.
           
 
         
-",lustig-im-gretele-sine-kunstler,65,11,0.6041448957269698,0.16923076923076924
+",3,lustig-im-gretele-sine-kunstler,65,11,0.6041448957269698,0.16923076923076924
 4,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
             
 
@@ -229,7 +229,7 @@ Ass mr werde rechne hit
             
 
           
-",lustig-im-gretele-sine-kunstler,8,1,0.4876938207664026,0.125
+",4,lustig-im-gretele-sine-kunstler,8,1,0.4876938207664026,0.125
 5,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
             
 Herr Fisselboge
@@ -246,7 +246,7 @@ Herr Fisselboge
             
 
           
-",lustig-im-gretele-sine-kunstler,18,3,0.45784174436247804,0.16666666666666666
+",5,lustig-im-gretele-sine-kunstler,18,3,0.45784174436247804,0.16666666666666666
 6,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -267,7 +267,7 @@ Doch bi mir isch hit nit z'hole,
 Wenn er noch so schrecklig thüet.
 
         
-",lustig-im-gretele-sine-kunstler,37,7,0.45964124978202336,0.1891891891891892
+",6,lustig-im-gretele-sine-kunstler,37,7,0.45964124978202336,0.1891891891891892
 7,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
             
 Herr Fisselboge.
@@ -281,7 +281,7 @@ Wenn er noch so schrecklig thüet.
             
 
           
-",lustig-im-gretele-sine-kunstler,11,2,0.3895407153613948,0.18181818181818182
+",7,lustig-im-gretele-sine-kunstler,11,2,0.3895407153613948,0.18181818181818182
 8,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
             
 Herr Knopfloch.
@@ -295,7 +295,7 @@ Ich will, ass er zahle thüet. '
             
 
           
-",lustig-im-gretele-sine-kunstler,12,2,0.6143478278375771,0.16666666666666666
+",8,lustig-im-gretele-sine-kunstler,12,2,0.6143478278375771,0.16666666666666666
 9,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -305,7 +305,7 @@ Ihre Note, Herr Knopfloch, die ha-n-i hait nimmig...
                             ich ha se verlegt...
 
         
-",lustig-im-gretele-sine-kunstler,16,2,0.578708951845571,0.125
+",9,lustig-im-gretele-sine-kunstler,16,2,0.578708951845571,0.125
 10,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -315,7 +315,7 @@ Ich ha mr's wohl ibildet.. . do isch e frische
 (er nimmt se üs em 'Sack un git se im Herr Fisselboge)
 
         
-",lustig-im-gretele-sine-kunstler,26,4,0.6675415223604213,0.15384615384615385
+",10,lustig-im-gretele-sine-kunstler,26,4,0.6675415223604213,0.15384615384615385
 11,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -329,7 +329,7 @@ Ich begriff, ass er keine Stunde will nàh bi mr...
 (lüt)
 
         
-",lustig-im-gretele-sine-kunstler,30,5,0.49129272388574147,0.16666666666666666
+",11,lustig-im-gretele-sine-kunstler,30,5,0.49129272388574147,0.16666666666666666
 12,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -344,7 +344,7 @@ Un mine Interesse, meint er ich ka vergewes eso lang
 Sie hàn mir jo g'sàit, ich soll nitt spare...
 
         
-",lustig-im-gretele-sine-kunstler,31,7,0.5830244850482439,0.22580645161290322
+",12,lustig-im-gretele-sine-kunstler,31,7,0.5830244850482439,0.22580645161290322
 13,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -363,7 +363,7 @@ ich ha denkt, 's geht in eim züe, Herr Knopfloch.
           
 
         
-",lustig-im-gretele-sine-kunstler,49,8,0.5581123339387652,0.16326530612244897
+",13,lustig-im-gretele-sine-kunstler,49,8,0.5581123339387652,0.16326530612244897
 14,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -372,7 +372,7 @@ Herr Knopfloch.
 Jo, nitt wohr, Se hàn denkt, Se zahle's doch nitt?
 
         
-",lustig-im-gretele-sine-kunstler,13,3,0.6840835937943247,0.23076923076923078
+",14,lustig-im-gretele-sine-kunstler,13,3,0.6840835937943247,0.23076923076923078
 15,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -387,7 +387,7 @@ sapristi!... jetz spuckts!...
  wieviel isch's wieder gsi?...
 
         
-",lustig-im-gretele-sine-kunstler,38,7,0.5825257315639555,0.18421052631578946
+",15,lustig-im-gretele-sine-kunstler,38,7,0.5825257315639555,0.18421052631578946
 16,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -397,7 +397,7 @@ Zweihundert Franke, Herr Fisselboge, Sie hàn jo
                             d'Note dert.
 
         
-",lustig-im-gretele-sine-kunstler,12,2,0.578708951845571,0.16666666666666666
+",16,lustig-im-gretele-sine-kunstler,12,2,0.578708951845571,0.16666666666666666
 17,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -406,7 +406,7 @@ Herr Fisselboge.
 Aha, jà, i b'sinn mi... eh bien, Herr Knopfloch...
 
         
-",lustig-im-gretele-sine-kunstler,11,3,0.6604434592767844,0.2727272727272727
+",17,lustig-im-gretele-sine-kunstler,11,3,0.6604434592767844,0.2727272727272727
 18,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -418,7 +418,7 @@ Herr Knopfloch
 Eh bien?....
 
         
-",lustig-im-gretele-sine-kunstler,7,3,0.5082071419949274,0.42857142857142855
+",18,lustig-im-gretele-sine-kunstler,7,3,0.5082071419949274,0.42857142857142855
 19,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -427,7 +427,7 @@ Herr Fisselboge.
 Eh bien, ich will nitt màrte...
 
         
-",lustig-im-gretele-sine-kunstler,8,2,0.7013107129923911,0.25
+",19,lustig-im-gretele-sine-kunstler,8,2,0.7013107129923911,0.25
 20,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -439,7 +439,7 @@ Herr Knopfloch
 Endlig...
 
         
-",lustig-im-gretele-sine-kunstler,7,2,0.5002597037294592,0.2857142857142857
+",20,lustig-im-gretele-sine-kunstler,7,2,0.5002597037294592,0.2857142857142857
 21,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -449,7 +449,7 @@ Kämme Se hit z'Owe dure un do bekämme Se Ihr'
                             Geld...
 
         
-",lustig-im-gretele-sine-kunstler,14,2,0.6143479131260554,0.14285714285714285
+",21,lustig-im-gretele-sine-kunstler,14,2,0.6143479131260554,0.14285714285714285
 22,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -459,7 +459,7 @@ Das hàn Se mr scho gar vielmol g'sàit, Herr
                             Fisselboge, Se ha mi o hit heisse ku...
 
         
-",lustig-im-gretele-sine-kunstler,19,4,0.5436367844844527,0.21052631578947367
+",22,lustig-im-gretele-sine-kunstler,19,4,0.5436367844844527,0.21052631578947367
 23,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -475,7 +475,7 @@ Eh bien jo, hit z'Owe... Sie begriffe doch wohl, ass
                             wo jetz efange-n-alt ùn krank isch...
 
         
-",lustig-im-gretele-sine-kunstler,55,10,0.5453582151544838,0.18181818181818182
+",23,lustig-im-gretele-sine-kunstler,55,10,0.5453582151544838,0.18181818181818182
 24,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -488,7 +488,7 @@ Lose Se, Hen Fisselboge, ich ka jetz nimmig
                             warte..
 
         
-",lustig-im-gretele-sine-kunstler,15,3,0.4554193879728985,0.2
+",24,lustig-im-gretele-sine-kunstler,15,3,0.4554193879728985,0.2
 25,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -501,7 +501,7 @@ Was hàn Se z'pressiere, Herr Knoptloch, 's isch jo
                             no nitt emoi Elfe!...
 
         
-",lustig-im-gretele-sine-kunstler,20,3,0.48038963417193975,0.15
+",25,lustig-im-gretele-sine-kunstler,20,3,0.48038963417193975,0.15
 26,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -520,7 +520,7 @@ Ich will denn jetz noch emol dure ku hit z'Owe, awer
 (er geht furt)
 
         
-",lustig-im-gretele-sine-kunstler,60,12,0.4997837112858605,0.2
+",26,lustig-im-gretele-sine-kunstler,60,12,0.4997837112858605,0.2
 27,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -627,7 +627,7 @@ Wo wott i's na?
           
 
         
-",lustig-im-gretele-sine-kunstler,175,17,0.6826789075227812,0.09714285714285714
+",27,lustig-im-gretele-sine-kunstler,175,17,0.6826789075227812,0.09714285714285714
 28,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -643,7 +643,7 @@ Allons, bon, jetz kunnt dr Hüsmeister noch... dasmol isch's en... jetz wird's m
  Eh, tiens! 's isch dr Hüsmeister! wie geht's, Herr Gitzkrage, hàn Se güet g'schlofe? ich ha grad welle züe Ihne ku!...
 
         
-",lustig-im-gretele-sine-kunstler,69,9,0.6920968520540877,0.13043478260869565
+",28,lustig-im-gretele-sine-kunstler,69,9,0.6920968520540877,0.13043478260869565
 29,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -659,7 +659,7 @@ Güete Tag, Herr Fisselboge, ich ha mr's eso halwer
 (er nimmt e Papier üs em Sack)
 
         
-",lustig-im-gretele-sine-kunstler,47,6,0.6641996897697326,0.1276595744680851
+",29,lustig-im-gretele-sine-kunstler,47,6,0.6641996897697326,0.1276595744680851
 30,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -675,7 +675,7 @@ wotte Se nitt e Kleinigkeit ebbes nàh, fir dr Mage z'stärke?... ich ha do ne Z
  Allons, züegriffe Hüsmeister! das hilft eim e wenig uf d'Bei am Morge frieih!...
 
         
-",lustig-im-gretele-sine-kunstler,73,9,0.5546333743527895,0.1232876712328767
+",30,lustig-im-gretele-sine-kunstler,73,9,0.5546333743527895,0.1232876712328767
 31,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -691,7 +691,7 @@ ich ha ewe nitt gross dr Zit... ich müess geh dr Zins izieh... drum, wenn Sie v
 (er nimmt si Papier wieder üse).
 
         
-",lustig-im-gretele-sine-kunstler,54,8,0.5575814510984497,0.14814814814814814
+",31,lustig-im-gretele-sine-kunstler,54,8,0.5575814510984497,0.14814814814814814
 32,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -706,7 +706,7 @@ Wisse Sie, ass Sie ne richer Mann sin, Herr
                             nitt fir Depütierter g'wählt hat...
 
         
-",lustig-im-gretele-sine-kunstler,39,7,0.5475426544752661,0.1794871794871795
+",32,lustig-im-gretele-sine-kunstler,39,7,0.5475426544752661,0.1794871794871795
 33,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -724,7 +724,7 @@ He, he... ich ka's o nitt begriffe... se hàn höchst
 (er hebt em d'Note ane)
 
         
-",lustig-im-gretele-sine-kunstler,60,6,0.6066116998375563,0.1
+",33,lustig-im-gretele-sine-kunstler,60,6,0.6066116998375563,0.1
 34,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -739,7 +739,7 @@ Aha, jà, jà... ich weiss scho... das isch e
                             wohr?...
 
         
-",lustig-im-gretele-sine-kunstler,32,4,0.6737432573497406,0.125
+",34,lustig-im-gretele-sine-kunstler,32,4,0.6737432573497406,0.125
 35,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -751,7 +751,7 @@ Herr Gitzkrage
 Nur drei Monet, Herr Fisselboge, nur drei Monet...
 
         
-",lustig-im-gretele-sine-kunstler,13,2,0.578708951845571,0.15384615384615385
+",35,lustig-im-gretele-sine-kunstler,13,2,0.578708951845571,0.15384615384615385
 36,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -762,7 +762,7 @@ Aha! nur drei Monet?...
 Arme Tarnte!... Denke Se jetz, Herr Gritzkrage, mi Tante... wisse Se, die riche, wo-n-ich Ihne schon emol dervo g'redt ha un wo-n-ich dr einzige Erb' vo-n-ere bi?... eh bien, scho drei Monet, siter ass ich bi Ihne im Zimmer bi, ligt se jetz am End un ka gar nitt sterwe, die güete Fraü!
 
         
-",lustig-im-gretele-sine-kunstler,68,6,0.6121636003437133,0.08823529411764706
+",36,lustig-im-gretele-sine-kunstler,68,6,0.6121636003437133,0.08823529411764706
 37,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Gritzkrage
@@ -779,7 +779,7 @@ Jà, jà... Sie' hà mr das dr erste Monet scho
           
 
         
-",lustig-im-gretele-sine-kunstler,28,2,0.6463544759227855,0.07142857142857142
+",37,lustig-im-gretele-sine-kunstler,28,2,0.6463544759227855,0.07142857142857142
 38,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -798,7 +798,7 @@ Nitt wohr, ich ha's Ihne scho g'sàit g'ha?.. do sàhn
 (er süecht si Gige)
 
         
-",lustig-im-gretele-sine-kunstler,76,11,0.5429757721827524,0.14473684210526316
+",38,lustig-im-gretele-sine-kunstler,76,11,0.5429757721827524,0.14473684210526316
 39,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -813,7 +813,7 @@ Ich zwifel nitt an Ihrem Talent, Herr Fisselboge,
                             wàr mr liewer...
 
         
-",lustig-im-gretele-sine-kunstler,40,6,0.5610554350882093,0.15
+",39,lustig-im-gretele-sine-kunstler,40,6,0.5610554350882093,0.15
 40,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -827,7 +827,7 @@ O wie schad!... jetz hàn Se Ihre Schnaps verschitte,
 (er nimmt d'Note un wischt dr Tisch mit ab)
 
         
-",lustig-im-gretele-sine-kunstler,29,4,0.39961802142468095,0.13793103448275862
+",40,lustig-im-gretele-sine-kunstler,29,4,0.39961802142468095,0.13793103448275862
 41,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -841,7 +841,7 @@ Was mache Se
 ,'s isch jo d'Rechnung!...
 
         
-",lustig-im-gretele-sine-kunstler,20,4,0.4880551779114033,0.2
+",41,lustig-im-gretele-sine-kunstler,20,4,0.4880551779114033,0.2
 42,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -850,7 +850,7 @@ Herr Fisselboge.
 Was fir e Rechnung?...
 
         
-",lustig-im-gretele-sine-kunstler,6,3,0.496071076075107,0.5
+",42,lustig-im-gretele-sine-kunstler,6,3,0.496071076075107,0.5
 43,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -865,7 +865,7 @@ D'Rechnung vo dàne drei Monet, wo Se mr schuldig
                             sicher nitt ufhalte, Herr Fisselboge...
 
         
-",lustig-im-gretele-sine-kunstler,42,7,0.6318235578056992,0.16666666666666666
+",43,lustig-im-gretele-sine-kunstler,42,7,0.6318235578056992,0.16666666666666666
 44,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -879,7 +879,7 @@ décidément, ich bring ne nitt los
  finde Se nitt, ass es noch e wenig frieih isch. Herr Gitzkrage?...
 
         
-",lustig-im-gretele-sine-kunstler,43,7,0.5656922569479159,0.16279069767441862
+",44,lustig-im-gretele-sine-kunstler,43,7,0.5656922569479159,0.16279069767441862
 45,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -889,7 +889,7 @@ Se hàn doch vor ere halb Stund scho g'sàit, Se hewe
                             welle züe mir ku... isch's denn nitt g'si, fir...
 
         
-",lustig-im-gretele-sine-kunstler,23,3,0.5027610099015137,0.13043478260869565
+",45,lustig-im-gretele-sine-kunstler,23,3,0.5027610099015137,0.13043478260869565
 46,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -914,7 +914,7 @@ Fir z'reclamiere! Herr Gitzkrage, fir z'reclamiere!.
                             hätt...
 
         
-",lustig-im-gretele-sine-kunstler,123,16,0.5179229825515046,0.13008130081300814
+",46,lustig-im-gretele-sine-kunstler,123,16,0.5179229825515046,0.13008130081300814
 47,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -929,7 +929,7 @@ Ah so! am End vom Lied, we me recht' lüegt, so bin
 ich ha jetz emol satt an dem Dings!... wànn Sie mr jetz mine drei Monet zahle, jo oder nei?...
 
         
-",lustig-im-gretele-sine-kunstler,47,9,0.5413528100584226,0.19148936170212766
+",47,lustig-im-gretele-sine-kunstler,47,9,0.5413528100584226,0.19148936170212766
 48,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Hert Fisselboge.
@@ -942,7 +942,7 @@ Wenn mi Tante stirbt, Herr Gitzkrage, so bekämme Sie
                             ere!...
 
         
-",lustig-im-gretele-sine-kunstler,42,2,0.44490775575320585,0.047619047619047616
+",48,lustig-im-gretele-sine-kunstler,42,2,0.44490775575320585,0.047619047619047616
 49,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -963,7 +963,7 @@ Ich loss mich jetz nimmig mit eso Münz üszahle!..
           
 
         
-",lustig-im-gretele-sine-kunstler,100,9,0.5589511094522917,0.09
+",49,lustig-im-gretele-sine-kunstler,100,9,0.5589511094522917,0.09
 50,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -1081,7 +1081,7 @@ Nacht geht's wohl... un züedem isch's nitt das, wo mich am meischte tourmentier
 . O, sapristi!... awer Herr Gitzkrage, Sie hàn doch e-n-erschrecklig härter Kopf!... er isch gläub noch härter as Ihre Herz!...
 
         
-",lustig-im-gretele-sine-kunstler,521,71,0.5854714303879809,0.1362763915547025
+",50,lustig-im-gretele-sine-kunstler,521,71,0.5854714303879809,0.1362763915547025
 51,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1096,7 +1096,7 @@ Mache Se jetz, ass Se-n-emol furtkämme... un ich
           
 
         
-",lustig-im-gretele-sine-kunstler,24,2,0.34680319678865584,0.08333333333333333
+",51,lustig-im-gretele-sine-kunstler,24,2,0.34680319678865584,0.08333333333333333
 52,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1110,7 +1110,7 @@ Herr Fisselboge
                             wenn mi Tante-n-emol stirbt, so...
 
         
-",lustig-im-gretele-sine-kunstler,31,5,0.47297642243272336,0.16129032258064516
+",52,lustig-im-gretele-sine-kunstler,31,5,0.47297642243272336,0.16129032258064516
 53,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1119,7 +1119,7 @@ Herr Gitzkrage.
 Gehn Se züem Kückück mit ihrer Tante!...
 
         
-",lustig-im-gretele-sine-kunstler,9,1,0.578708951845571,0.1111111111111111
+",53,lustig-im-gretele-sine-kunstler,9,1,0.578708951845571,0.1111111111111111
 54,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -1130,7 +1130,7 @@ Nu, so Adie denn, Herr Gitzkrage, Se brüche kei
 (er macht d'Türe züe)
 
         
-",lustig-im-gretele-sine-kunstler,25,5,0.4473298930142716,0.2
+",54,lustig-im-gretele-sine-kunstler,25,5,0.4473298930142716,0.2
 55,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1224,7 +1224,7 @@ das isch alles nitt emol e Grosche werth... si Gige ha-n-ich em nitt känne zruc
 (er streckt d'Arm in d'Höche, in einer Hand 's Käfig, in dr and're dr Parepli, un geht üse. Küm isch er duss, so hört me ne dispetiere im Hüsgang).
 
         
-",lustig-im-gretele-sine-kunstler,406,43,0.5702217986758211,0.10591133004926108
+",55,lustig-im-gretele-sine-kunstler,406,43,0.5702217986758211,0.10591133004926108
 56,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -1239,7 +1239,7 @@ Aha, endlig bin i jetz amol aku... ich ha g'meint,
                             ich ka's nitt erlewe!...
 
         
-",lustig-im-gretele-sine-kunstler,48,7,0.49478020313528,0.14583333333333334
+",56,lustig-im-gretele-sine-kunstler,48,7,0.49478020313528,0.14583333333333334
 57,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1254,7 +1254,7 @@ Ich ha's Ihne doch adunge, ass Se mr keine
           
 
         
-",lustig-im-gretele-sine-kunstler,29,3,0.4545849967320521,0.10344827586206896
+",57,lustig-im-gretele-sine-kunstler,29,3,0.4545849967320521,0.10344827586206896
 58,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -1267,7 +1267,7 @@ Güet, güet!... ich ha's nitt vergesse... das sin jo
                             keine Bekanntschafte... 's isch mi Modell...
 
         
-",lustig-im-gretele-sine-kunstler,21,5,0.6726694581027275,0.23809523809523808
+",58,lustig-im-gretele-sine-kunstler,21,5,0.6726694581027275,0.23809523809523808
 59,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1278,7 +1278,7 @@ Was, Modell... 's isch keine kei Modell... e schön
                             nàh!...
 
         
-",lustig-im-gretele-sine-kunstler,22,4,0.49444830782154187,0.18181818181818182
+",59,lustig-im-gretele-sine-kunstler,22,4,0.49444830782154187,0.18181818181818182
 60,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1293,7 +1293,7 @@ Ouf!... Ich ha denkt, ich will mine Möwle gli alle z'amme mitnander bringe, ass
 (er steht uf un rischtet si Chevalet un e Sach, vorne-n-uf dr Scene rechts).
 
         
-",lustig-im-gretele-sine-kunstler,122,13,0.528252238544358,0.10655737704918032
+",60,lustig-im-gretele-sine-kunstler,122,13,0.528252238544358,0.10655737704918032
 61,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1307,7 +1307,7 @@ Ich traü dem Ding nur halwer... enfin, mr wànn emol
                             so mach ich Dr Holla!...
 
         
-",lustig-im-gretele-sine-kunstler,38,1,0.578708951845571,0.02631578947368421
+",61,lustig-im-gretele-sine-kunstler,38,1,0.578708951845571,0.02631578947368421
 62,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -1367,7 +1367,7 @@ Denn jalouse isch se nitt.
           
 
         
-",lustig-im-gretele-sine-kunstler,81,11,0.655948655919069,0.13580246913580246
+",62,lustig-im-gretele-sine-kunstler,81,11,0.655948655919069,0.13580246913580246
 63,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
             
 Herr Heiterwiss.
@@ -1389,7 +1389,7 @@ Nitt z'dispetiere.
             
 
           
-",lustig-im-gretele-sine-kunstler,17,4,0.6919705304586636,0.23529411764705882
+",63,lustig-im-gretele-sine-kunstler,17,4,0.6919705304586636,0.23529411764705882
 64,comedy,Herr GITZKRAGE,M,,,,"
             
 Herr Gitzkrage.
@@ -1411,7 +1411,7 @@ Nitt z'dispetiere.
             
 
           
-",lustig-im-gretele-sine-kunstler,17,4,0.6919705304586636,0.23529411764705882
+",64,lustig-im-gretele-sine-kunstler,17,4,0.6919705304586636,0.23529411764705882
 65,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Gritzkrage
@@ -1426,7 +1426,7 @@ Jà un mi Portrait, Herr Heiterwiss, wenn mache Se mi
                             wohlfeiler...
 
         
-",lustig-im-gretele-sine-kunstler,41,4,0.6096499884504631,0.0975609756097561
+",65,lustig-im-gretele-sine-kunstler,41,4,0.6096499884504631,0.0975609756097561
 66,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -1441,7 +1441,7 @@ Mir schint's, ass dr Herr Gitzkrage ne famoser Rüech
 Aha, Ihr Portrait, Herr Gitzkrag.. tiens, ha-n-ich Ihne Ihr Portrait versproche?...
 
         
-",lustig-im-gretele-sine-kunstler,44,6,0.5731865602101286,0.13636363636363635
+",66,lustig-im-gretele-sine-kunstler,44,6,0.5731865602101286,0.13636363636363635
 67,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1451,7 +1451,7 @@ Eh, jo... un noch derzüe in Oel... b'sinne Sie sich
                             denn nimmig, Herr Heiterwiss?...
 
         
-",lustig-im-gretele-sine-kunstler,16,3,0.6604434592767844,0.1875
+",67,lustig-im-gretele-sine-kunstler,16,3,0.6604434592767844,0.1875
 68,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -1467,7 +1467,7 @@ doch doch, Herr Gitz-
 krage, ich b'sinn mi jetz... glich, wie das do fertig isch, wo-n-i in Arwet ha, so fange mr's a...
 
         
-",lustig-im-gretele-sine-kunstler,51,8,0.5476515816300107,0.1568627450980392
+",68,lustig-im-gretele-sine-kunstler,51,8,0.5476515816300107,0.1568627450980392
 69,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1480,7 +1480,7 @@ Ich wird doch g'wiss schön, nitt wohr, Herr
 tiens, do hàn Se ne schöne Farb... die blaüe do...
 
         
-",lustig-im-gretele-sine-kunstler,44,7,0.6730372725742674,0.1590909090909091
+",69,lustig-im-gretele-sine-kunstler,44,7,0.6730372725742674,0.1590909090909091
 70,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1489,7 +1489,7 @@ Herr Heiterwiss.
 Das isch e g'fàhrlige Farb, Herr Gitzkrage...
 
         
-",lustig-im-gretele-sine-kunstler,9,2,0.578708951845571,0.2222222222222222
+",70,lustig-im-gretele-sine-kunstler,9,2,0.578708951845571,0.2222222222222222
 71,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1501,7 +1501,7 @@ Herr Gitzkrage
 Worum, isch's Gift?...
 
         
-",lustig-im-gretele-sine-kunstler,13,3,0.32944113209770304,0.23076923076923078
+",71,lustig-im-gretele-sine-kunstler,13,3,0.32944113209770304,0.23076923076923078
 72,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1511,7 +1511,7 @@ Eh, nei... 's isch kei Gift... awer se schiesst
                             ab!...
 
         
-",lustig-im-gretele-sine-kunstler,12,3,0.5017044699856199,0.25
+",72,lustig-im-gretele-sine-kunstler,12,3,0.5017044699856199,0.25
 73,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1523,7 +1523,7 @@ Sie wànn spàsse, Herr Heiterwiss!... Doch, ich will
                             Se nit, Herr Heiterwiss...
 
         
-",lustig-im-gretele-sine-kunstler,33,5,0.5215849544943568,0.15151515151515152
+",73,lustig-im-gretele-sine-kunstler,33,5,0.5215849544943568,0.15151515151515152
 74,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1532,7 +1532,7 @@ Herr Heiterwiss.
 Gar nitt, Herr Gitzkrage.
 
         
-",lustig-im-gretele-sine-kunstler,6,2,0.578708951845571,0.3333333333333333
+",74,lustig-im-gretele-sine-kunstler,6,2,0.578708951845571,0.3333333333333333
 75,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1545,7 +1545,7 @@ Herr Gitzkrage
 Awer in Oel, Herr Heiterwiss!...
 
         
-",lustig-im-gretele-sine-kunstler,20,4,0.6388040408015381,0.2
+",75,lustig-im-gretele-sine-kunstler,20,4,0.6388040408015381,0.2
 76,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1554,7 +1554,7 @@ Herr Heiterwiss.
 Wie Sie wànn, Herr Gitzkrage.
 
         
-",lustig-im-gretele-sine-kunstler,7,2,0.578708951845571,0.2857142857142857
+",76,lustig-im-gretele-sine-kunstler,7,2,0.578708951845571,0.2857142857142857
 77,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1566,7 +1566,7 @@ Herr Gitzkrage
 Un mit di Ühre-n-in dr Hand?...
 
         
-",lustig-im-gretele-sine-kunstler,22,4,0.6448049822645155,0.18181818181818182
+",77,lustig-im-gretele-sine-kunstler,22,4,0.6448049822645155,0.18181818181818182
 78,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1586,7 +1586,7 @@ Ouf! das isch emol e Sàge!...
  's isch sunderbar, hit isch's mr denn gar nitt um's schaffe... ich bi glaüb noch mied vo dem Wandle!... mr wànn's geh lo fir hit, eb jetz dr Herr Falschmünzer e Tag länger wartet oder nitt... Morn gecht's derno wieder besser.
 
         
-",lustig-im-gretele-sine-kunstler,181,29,0.5829712113343922,0.16022099447513813
+",78,lustig-im-gretele-sine-kunstler,181,29,0.5829712113343922,0.16022099447513813
 79,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1601,7 +1601,7 @@ Verzeihe Se, Herr Heiterwiss, ich ha Se nur noch
                             isch ewe gar e güet Thier, wo-n-ich züe gern ha...
 
         
-",lustig-im-gretele-sine-kunstler,54,10,0.6245335600652158,0.18518518518518517
+",79,lustig-im-gretele-sine-kunstler,54,10,0.6245335600652158,0.18518518518518517
 80,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1614,7 +1614,7 @@ décidément, ich müess en e wenig in d'kür nàh, ass er mich emol in Rüeih l
  kämme Se nur ine... posiere Se gern, Herr Gitzkrage?
 
         
-",lustig-im-gretele-sine-kunstler,41,6,0.6093557616886017,0.14634146341463414
+",80,lustig-im-gretele-sine-kunstler,41,6,0.6093557616886017,0.14634146341463414
 81,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1624,7 +1624,7 @@ Wie känne Sie froge... das isch jo mi grösster
                             Wunsch gsi vo jehàr, Herr Heiterwiss!...
 
         
-",lustig-im-gretele-sine-kunstler,17,3,0.6289653235898652,0.17647058823529413
+",81,lustig-im-gretele-sine-kunstler,17,3,0.6289653235898652,0.17647058823529413
 82,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1641,7 +1641,7 @@ Eh bien, lose Se... ich ha do-n-emol e Tableau
           
 
         
-",lustig-im-gretele-sine-kunstler,71,10,0.6543291785815518,0.14084507042253522
+",82,lustig-im-gretele-sine-kunstler,71,10,0.6543291785815518,0.14084507042253522
 83,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -1652,7 +1652,7 @@ Malbrough... Malbrough
 Malbrough s'en va-t-en guerre...
 
         
-",lustig-im-gretele-sine-kunstler,15,1,0.578708951845571,0.06666666666666667
+",83,lustig-im-gretele-sine-kunstler,15,1,0.578708951845571,0.06666666666666667
 84,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1662,7 +1662,7 @@ C'est ça... dr Malbrough isch e famoser Krieger
                             gsi...
 
         
-",lustig-im-gretele-sine-kunstler,11,2,0.4948498003091607,0.18181818181818182
+",84,lustig-im-gretele-sine-kunstler,11,2,0.4948498003091607,0.18181818181818182
 85,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1676,7 +1676,7 @@ Ich will scho, Herr Heiterwiss, ich will scho...
                             eso ag'legt gsi?...
 
         
-",lustig-im-gretele-sine-kunstler,25,2,0.578708951845571,0.08
+",85,lustig-im-gretele-sine-kunstler,25,2,0.578708951845571,0.08
 86,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -1695,7 +1695,7 @@ So, Herr Gitzkrage, das do
 (Er nimmt si Hüet un schlicht züer Thüre-n-üse un losst dr Herr Gitzkrage kneie. Uf dr Schwelle kehrt er si noch emol um un kittert un hebt si dr Büch un geht furt.)
 
         
-",lustig-im-gretele-sine-kunstler,164,15,0.5632712483334134,0.09146341463414634
+",86,lustig-im-gretele-sine-kunstler,164,15,0.5632712483334134,0.09146341463414634
 87,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1715,7 +1715,7 @@ Geth's vora, Herr Heiterwiss?...
 (er geht üse).
 
         
-",lustig-im-gretele-sine-kunstler,107,11,0.6307566990931776,0.102803738317757
+",87,lustig-im-gretele-sine-kunstler,107,11,0.6307566990931776,0.102803738317757
 88,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1764,7 +1764,7 @@ Tiens!... 's Gretele isch jo scho do... un ich, wo's ha mache z'warte!...
 (er kneit hinte-n-an se).
 
         
-",lustig-im-gretele-sine-kunstler,230,17,0.47646841624615244,0.07391304347826087
+",88,lustig-im-gretele-sine-kunstler,230,17,0.47646841624615244,0.07391304347826087
 89,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -1778,7 +1778,7 @@ Ah so, Herr Fisselboge!... e-n-Andere in Ihrem
                             intressant, das Ding...
 
         
-",lustig-im-gretele-sine-kunstler,27,6,0.5265905993935497,0.2222222222222222
+",89,lustig-im-gretele-sine-kunstler,27,6,0.5265905993935497,0.2222222222222222
 90,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1792,7 +1792,7 @@ Herr Fisselboge
           
 
         
-",lustig-im-gretele-sine-kunstler,15,1,0.578708951845571,0.06666666666666667
+",90,lustig-im-gretele-sine-kunstler,15,1,0.578708951845571,0.06666666666666667
 91,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -1805,7 +1805,7 @@ Ich ha mr's doch allewil eso halwer ibildet, ass Sie
 fir eso ne stolze Creatür, wo's Ihre jo nitt emol dr Werth isch, Sie az'lüege un Antwort z'gà... 's g'schieht Ihne-n-awer ganz recht...
 
         
-",lustig-im-gretele-sine-kunstler,64,11,0.509285369830359,0.171875
+",91,lustig-im-gretele-sine-kunstler,64,11,0.509285369830359,0.171875
 92,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1824,7 +1824,7 @@ ich glaüb emol, ich wohn nimmig do!
  was isch nur vorgange... ich ka mich gar nitt recht b'sinne... mi Kopf isch so schwer!...
 
         
-",lustig-im-gretele-sine-kunstler,68,6,0.523877924333623,0.08823529411764706
+",92,lustig-im-gretele-sine-kunstler,68,6,0.523877924333623,0.08823529411764706
 93,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -1840,7 +1840,7 @@ Oho!... das sin jetz Schnàcketànz, Herr Fisselboge,
 (se geht üse un schlat zornig d'Thüre züe)
 
         
-",lustig-im-gretele-sine-kunstler,63,6,0.5108304531627178,0.09523809523809523
+",93,lustig-im-gretele-sine-kunstler,63,6,0.5108304531627178,0.09523809523809523
 94,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1861,7 +1861,7 @@ O sapristi!... ich glaüb, i hör dr Hüsmeister dunte?... jetz thàt's mi Wunde
 (er versteckt si unterem Tisch).
 
         
-",lustig-im-gretele-sine-kunstler,130,14,0.5571776182178682,0.1076923076923077
+",94,lustig-im-gretele-sine-kunstler,130,14,0.5571776182178682,0.1076923076923077
 95,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -1877,7 +1877,7 @@ Tiens, dr Herr Fisselboge isch schint's no nitt
 er isch nitt do!...
 
         
-",lustig-im-gretele-sine-kunstler,39,4,0.5863710010872705,0.10256410256410256
+",95,lustig-im-gretele-sine-kunstler,39,4,0.5863710010872705,0.10256410256410256
 96,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1890,7 +1890,7 @@ Ich ha ne g'scheide Nase g'ha, ass i mi versteckt
                             ha.
 
         
-",lustig-im-gretele-sine-kunstler,18,3,0.42637214050313155,0.16666666666666666
+",96,lustig-im-gretele-sine-kunstler,18,3,0.42637214050313155,0.16666666666666666
 97,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -1902,7 +1902,7 @@ Wenn er mich nur nitt lang macht z'warte... ich sott
                             will...
 
         
-",lustig-im-gretele-sine-kunstler,35,6,0.6097167302469172,0.17142857142857143
+",97,lustig-im-gretele-sine-kunstler,35,6,0.6097167302469172,0.17142857142857143
 98,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1914,7 +1914,7 @@ Herr Fisselboge
 Kunnsch morn dure!...
 
         
-",lustig-im-gretele-sine-kunstler,10,3,0.5437156940964539,0.3
+",98,lustig-im-gretele-sine-kunstler,10,3,0.5437156940964539,0.3
 99,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch.
@@ -1936,7 +1936,7 @@ Ah çà, hat denn dà Herr Fisselboge ne ganzer Serail?... 's hat mi scho Eine s
 (er geht in d'Schlofstuwe).
 
         
-",lustig-im-gretele-sine-kunstler,191,24,0.6443169343319978,0.1256544502617801
+",99,lustig-im-gretele-sine-kunstler,191,24,0.6443169343319978,0.1256544502617801
 100,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -1956,7 +1956,7 @@ Ich ha'a Ene doch adunge, ass Se mr keine
 Tiens!... er isch jo nitt do, dr Moler....
 
         
-",lustig-im-gretele-sine-kunstler,64,6,0.661136489371367,0.09375
+",100,lustig-im-gretele-sine-kunstler,64,6,0.661136489371367,0.09375
 101,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -1969,7 +1969,7 @@ Herr Knopfloch
 (er macht wieder züe)
 
         
-",lustig-im-gretele-sine-kunstler,19,4,0.6650763677188978,0.21052631578947367
+",101,lustig-im-gretele-sine-kunstler,19,4,0.6650763677188978,0.21052631578947367
 102,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -1991,7 +1991,7 @@ Dü müesch mr o noch üs em Hüs, ich ha mi Zimmer nur in Eim verlehnt!
  un ganz allei noch!.. ich weiss nitt... awer siter as dà Moler do isch, sa geht's nitt ganz süfer derher... me meint, 's seig ebbes nitt recht im Hüs...
 
         
-",lustig-im-gretele-sine-kunstler,188,23,0.6416855502404083,0.12234042553191489
+",102,lustig-im-gretele-sine-kunstler,188,23,0.6416855502404083,0.12234042553191489
 103,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2005,7 +2005,7 @@ Blibt jetz dà Particulier noch lang do... isch's
 (er macht züe)
 
         
-",lustig-im-gretele-sine-kunstler,30,6,0.639716737958011,0.2
+",103,lustig-im-gretele-sine-kunstler,30,6,0.639716737958011,0.2
 104,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -2018,7 +2018,7 @@ Herr Gitzkrage.
                             z'wisse, was es vorstelle soll!
 
         
-",lustig-im-gretele-sine-kunstler,46,6,0.5507163158527101,0.13043478260869565
+",104,lustig-im-gretele-sine-kunstler,46,6,0.5507163158527101,0.13043478260869565
 105,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2033,7 +2033,7 @@ Worum nitt gar bis uf's Didemer Bàrgle!
 (er schloft i; bol hört me ne schnarchle)
 
         
-",lustig-im-gretele-sine-kunstler,25,3,0.5573618365433884,0.12
+",105,lustig-im-gretele-sine-kunstler,25,3,0.5573618365433884,0.12
 106,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -2119,7 +2119,7 @@ Was isch das?... Wenn's awer nur güet wird... in Oel, mein i, sott me-n-allewil
 (er hebt sich dr Büch vor Lache).
 
         
-",lustig-im-gretele-sine-kunstler,209,26,0.6366239472389054,0.12440191387559808
+",106,lustig-im-gretele-sine-kunstler,209,26,0.6366239472389054,0.12440191387559808
 107,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2131,7 +2131,7 @@ Herr Fisselboge
 Üseg'stellt... mich...
 
         
-",lustig-im-gretele-sine-kunstler,12,1,0.578708951845571,0.08333333333333333
+",107,lustig-im-gretele-sine-kunstler,12,1,0.578708951845571,0.08333333333333333
 108,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -2146,7 +2146,7 @@ Tiens, ich ha grad g'meint, ich hör dr Herr
           
 
         
-",lustig-im-gretele-sine-kunstler,19,3,0.6189276832466541,0.15789473684210525
+",108,lustig-im-gretele-sine-kunstler,19,3,0.6189276832466541,0.15789473684210525
 109,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2161,7 +2161,7 @@ Ich ha grad g'meint, ich hör ne rede
 (er macht wieder züe)
 
         
-",lustig-im-gretele-sine-kunstler,24,5,0.6719341233848823,0.20833333333333334
+",109,lustig-im-gretele-sine-kunstler,24,5,0.6719341233848823,0.20833333333333334
 110,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -2174,7 +2174,7 @@ Ich ha gar kei Rüeih meh, siter as ich ne
                             g'storwe un...
 
         
-",lustig-im-gretele-sine-kunstler,45,4,0.4544020699803828,0.08888888888888889
+",110,lustig-im-gretele-sine-kunstler,45,4,0.4544020699803828,0.08888888888888889
 111,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2189,7 +2189,7 @@ Millionär ich... Millionär:
 (dr Herr Gitzkrage zittert allewil mehr, uf eimol losst er e Schrei üs un laüft voll Schrecke dervo).
 
         
-",lustig-im-gretele-sine-kunstler,34,8,0.4734723237390433,0.23529411764705882
+",111,lustig-im-gretele-sine-kunstler,34,8,0.4734723237390433,0.23529411764705882
 112,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2201,7 +2201,7 @@ Herr Fisselboge
 Isch Sie's, Gretele?...
 
         
-",lustig-im-gretele-sine-kunstler,10,1,0.578708951845571,0.1
+",112,lustig-im-gretele-sine-kunstler,10,1,0.578708951845571,0.1
 113,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2350,7 +2350,7 @@ Still... awer jetz kunnt er...
 (er zeigt uf's Schlofzimmer, springt ine un macht d'Thure züe.
 
         
-",lustig-im-gretele-sine-kunstler,205,21,0.5222522378507093,0.1024390243902439
+",113,lustig-im-gretele-sine-kunstler,205,21,0.5222522378507093,0.1024390243902439
 114,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2363,7 +2363,7 @@ Gretele
 Un Sie sage, Sie wohne do siter dà Morge?...
 
         
-",lustig-im-gretele-sine-kunstler,25,3,0.47706986227988235,0.12
+",114,lustig-im-gretele-sine-kunstler,25,3,0.47706986227988235,0.12
 115,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -2377,7 +2377,7 @@ i müess doch e Licht azünde,
 (er zundet 's Liecht a, wo-u-of em Tisch steh bliwe-n-isch. 's wird heiter uf dr Scene).
 
         
-",lustig-im-gretele-sine-kunstler,50,7,0.6755596448981466,0.14
+",115,lustig-im-gretele-sine-kunstler,50,7,0.6755596448981466,0.14
 116,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -2390,7 +2390,7 @@ das isch sunderbar, was hat denn dr Herr Fisselboge erst noch do g'macht, wenn e
  Aha!... wege dere-n-isch er ku... jetz wird's mr klar!...
 
         
-",lustig-im-gretele-sine-kunstler,48,7,0.5316244446068421,0.14583333333333334
+",116,lustig-im-gretele-sine-kunstler,48,7,0.5316244446068421,0.14583333333333334
 117,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -2399,7 +2399,7 @@ Herr Heiterwiss.
 Kam Se nur emol ine, Gretele...
 
         
-",lustig-im-gretele-sine-kunstler,8,1,0.578708951845571,0.125
+",117,lustig-im-gretele-sine-kunstler,8,1,0.578708951845571,0.125
 118,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2412,7 +2412,7 @@ Nitt vor ebb Se mr sage, was das fir e Person isch
                             dert!...
 
         
-",lustig-im-gretele-sine-kunstler,20,2,0.5679052278066736,0.1
+",118,lustig-im-gretele-sine-kunstler,20,2,0.5679052278066736,0.1
 119,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2426,7 +2426,7 @@ Was! Sie o thüet sich dra ufhalte, Gretele?... die
                             umme...
 
         
-",lustig-im-gretele-sine-kunstler,24,6,0.6905295371567776,0.25
+",119,lustig-im-gretele-sine-kunstler,24,6,0.6905295371567776,0.25
 120,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2441,7 +2441,7 @@ Gretele
 armer Herr Fisselboge!... un ich, wo ihm e Scene g'macht ha dèrwege!...
 
         
-",lustig-im-gretele-sine-kunstler,38,6,0.593893770912007,0.15789473684210525
+",120,lustig-im-gretele-sine-kunstler,38,6,0.593893770912007,0.15789473684210525
 121,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2454,7 +2454,7 @@ Was Geld!... was Geld!...
 (er schnarchelt).
 
         
-",lustig-im-gretele-sine-kunstler,14,3,0.6262275668862168,0.21428571428571427
+",121,lustig-im-gretele-sine-kunstler,14,3,0.6262275668862168,0.21428571428571427
 122,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2468,7 +2468,7 @@ Hat sich eigentlig d'ganze Stadt Rendez-vous gà bim
 (er macht züe)
 
         
-",lustig-im-gretele-sine-kunstler,29,9,0.6424951426863911,0.3103448275862069
+",122,lustig-im-gretele-sine-kunstler,29,9,0.6424951426863911,0.3103448275862069
 123,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -2479,7 +2479,7 @@ Ich bi ewe jalouse, Herr Heiterwiss... Se
                             mitnander...
 
         
-",lustig-im-gretele-sine-kunstler,19,2,0.6895944791207735,0.10526315789473684
+",123,lustig-im-gretele-sine-kunstler,19,2,0.6895944791207735,0.10526315789473684
 124,comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
           
 Herr Heiterwlss.
@@ -2490,7 +2490,7 @@ Jo, wo Sie mich verlo hàn fir eso ne Müsikant,
 e Giger!... er hat Glick, ass ich ne nitt kenne thüe, sunscht...
 
         
-",lustig-im-gretele-sine-kunstler,28,4,0.4816398815827948,0.14285714285714285
+",124,lustig-im-gretele-sine-kunstler,28,4,0.4816398815827948,0.14285714285714285
 125,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2532,7 +2532,7 @@ Wo mr g'fallt.
           
 
         
-",lustig-im-gretele-sine-kunstler,84,14,0.547836080670417,0.16666666666666666
+",125,lustig-im-gretele-sine-kunstler,84,14,0.547836080670417,0.16666666666666666
 126,comedy,GRETELE,M,,,,"
             
 Gretele.
@@ -2549,7 +2549,7 @@ Ihr' Talent isch's, wo mr g'fallt.
             
 
           
-",lustig-im-gretele-sine-kunstler,16,1,0.3111065596608406,0.0625
+",126,lustig-im-gretele-sine-kunstler,16,1,0.3111065596608406,0.0625
 127,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
             
 Herr Heiterwiss.
@@ -2566,7 +2566,7 @@ Mi Talent isch's, wo-n-ihr' g'fallt.
             
 
           
-",lustig-im-gretele-sine-kunstler,18,2,0.44490775575320585,0.1111111111111111
+",127,lustig-im-gretele-sine-kunstler,18,2,0.44490775575320585,0.1111111111111111
 128,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2591,7 +2591,7 @@ D'Müsikante gern ahöre,
 Wo mir gehn...
 
         
-",lustig-im-gretele-sine-kunstler,27,7,0.5737450764982696,0.25925925925925924
+",128,lustig-im-gretele-sine-kunstler,27,7,0.5737450764982696,0.25925925925925924
 129,comedy,GRETELE,M,,,,"
             
 Gretele.
@@ -2608,7 +2608,7 @@ Ihre Tön sin's, wo mir gehn.
             
 
           
-",lustig-im-gretele-sine-kunstler,16,1,0.3111065596608406,0.0625
+",129,lustig-im-gretele-sine-kunstler,16,1,0.3111065596608406,0.0625
 130,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
             
 Herr Heiterwiss.
@@ -2625,7 +2625,7 @@ Ihre Tön sin's, wo-n-ihr' gehn.
             
 
           
-",lustig-im-gretele-sine-kunstler,18,2,0.44490775575320585,0.1111111111111111
+",130,lustig-im-gretele-sine-kunstler,18,2,0.44490775575320585,0.1111111111111111
 131,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -2635,7 +2635,7 @@ G'wiss... ich ha nie recht g'wisst, was i liewer ha,
                             eb's d'Molerei isch oder d'Müsik!...
 
         
-",lustig-im-gretele-sine-kunstler,19,3,0.7952040311355725,0.15789473684210525
+",131,lustig-im-gretele-sine-kunstler,19,3,0.7952040311355725,0.15789473684210525
 132,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -2648,7 +2648,7 @@ Mr wànn hoffe, ass es d'Molerei isch, Gretele, nitt
                             Durespringe wirft se-n-em d'Puppe in d'Arme)
 
         
-",lustig-im-gretele-sine-kunstler,48,3,0.6635887848324143,0.0625
+",132,lustig-im-gretele-sine-kunstler,48,3,0.6635887848324143,0.0625
 133,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2662,7 +2662,7 @@ Do geht's schön züe!... wenn se nur nit do ine
 (er macht züe).
 
         
-",lustig-im-gretele-sine-kunstler,27,5,0.684547338497713,0.18518518518518517
+",133,lustig-im-gretele-sine-kunstler,27,5,0.684547338497713,0.18518518518518517
 134,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2680,7 +2680,7 @@ Ha-n-i nitt traümt, dr Herr Gitzkrage heb mr ufkündet un ich heb in ere Jumpfe
  Tiens, 's Gretele mit eme-n- Andre in mim Zimmer!...
 
         
-",lustig-im-gretele-sine-kunstler,98,11,0.4723230811334842,0.11224489795918367
+",134,lustig-im-gretele-sine-kunstler,98,11,0.4723230811334842,0.11224489795918367
 135,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2694,7 +2694,7 @@ Aha!... dr Herr Fisselboge isch heim ku... wenn jetz
 (er macht züe)
 
         
-",lustig-im-gretele-sine-kunstler,28,6,0.6244630074944642,0.21428571428571427
+",135,lustig-im-gretele-sine-kunstler,28,6,0.6244630074944642,0.21428571428571427
 136,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -2705,7 +2705,7 @@ In mim Zimmer, wenn's I b'liebt, in mim Zimmer.. was
                             triwe do?...
 
         
-",lustig-im-gretele-sine-kunstler,23,3,0.4976449429918695,0.13043478260869565
+",136,lustig-im-gretele-sine-kunstler,23,3,0.4976449429918695,0.13043478260869565
 137,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2718,7 +2718,7 @@ Was verzahlt jetz dà Herr do?... ich kenn en jo gar
                             nitt!...
 
         
-",lustig-im-gretele-sine-kunstler,18,1,0.578708951845571,0.05555555555555555
+",137,lustig-im-gretele-sine-kunstler,18,1,0.578708951845571,0.05555555555555555
 138,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2732,7 +2732,7 @@ Oh!... 's isch jo kei Traüm!...
 wie ka' Sie nur eso ebbes sage, Gretele... zürnt Sie mir denn noch allewil... g'wiss, ich ha g'meint, Sie isch's... ich ka jetz no nit versteh...
 
         
-",lustig-im-gretele-sine-kunstler,44,2,0.5986486545402424,0.045454545454545456
+",138,lustig-im-gretele-sine-kunstler,44,2,0.5986486545402424,0.045454545454545456
 139,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2747,7 +2747,7 @@ Ich glaüb, Sie träume jetz noch, güeter Frind...
 oder isch er viellicht krank, dà Mensch?... Ich kumm nitt do drüs..
 
         
-",lustig-im-gretele-sine-kunstler,35,9,0.5926643086563437,0.2571428571428571
+",139,lustig-im-gretele-sine-kunstler,35,9,0.5926643086563437,0.2571428571428571
 140,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2760,7 +2760,7 @@ Was krank... isch's ebbe nitt wohr, ass 's Gretele
                             do gsi isch bi mr... ich wott mi Gige wette...
 
         
-",lustig-im-gretele-sine-kunstler,25,4,0.4058562502420576,0.16
+",140,lustig-im-gretele-sine-kunstler,25,4,0.4058562502420576,0.16
 141,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2772,7 +2772,7 @@ Herr Heiterwiss
 Oh!.. im Gretele si Giger...
 
         
-",lustig-im-gretele-sine-kunstler,11,2,0.5002597037294592,0.18181818181818182
+",141,lustig-im-gretele-sine-kunstler,11,2,0.5002597037294592,0.18181818181818182
 142,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2785,7 +2785,7 @@ Glaüwe Sie's em nitt, Herr Heiterwiss, er sàit's nur
                             üs Zorn, wil ich nit meh vo-n-em wisse will...
 
         
-",lustig-im-gretele-sine-kunstler,28,4,0.4615427793928005,0.14285714285714285
+",142,lustig-im-gretele-sine-kunstler,28,4,0.4615427793928005,0.14285714285714285
 143,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss.
@@ -2799,7 +2799,7 @@ Scho güet... scho güet... ah so! ich fang a heiter
 ass Sie's wisse, einer vo uns isch z'viel uf dr Welt!...
 
         
-",lustig-im-gretele-sine-kunstler,61,9,0.6679853791280463,0.14754098360655737
+",143,lustig-im-gretele-sine-kunstler,61,9,0.6679853791280463,0.14754098360655737
 144,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2812,7 +2812,7 @@ Bigr!!!... wenn ich nur mi Geld hätt!...
 (er macht züe)
 
         
-",lustig-im-gretele-sine-kunstler,22,5,0.6620584690564263,0.22727272727272727
+",144,lustig-im-gretele-sine-kunstler,22,5,0.6620584690564263,0.22727272727272727
 145,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -2825,7 +2825,7 @@ Ich emol nitt... ich müess d'Lit lehre gige... wenn
           
 
         
-",lustig-im-gretele-sine-kunstler,27,3,0.4598771467461615,0.1111111111111111
+",145,lustig-im-gretele-sine-kunstler,27,3,0.4598771467461615,0.1111111111111111
 146,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2838,7 +2838,7 @@ Keine Üsrede... 's giltet Ernst... ich forder Sie uf
                             dr Sawel!...
 
         
-",lustig-im-gretele-sine-kunstler,16,4,0.5601515983943279,0.25
+",146,lustig-im-gretele-sine-kunstler,16,4,0.5601515983943279,0.25
 147,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2851,7 +2851,7 @@ Oh!... lànge mr Weh, 's wird mr Essig...
 (se losst sich uf e Stüehl sinke)
 
         
-",lustig-im-gretele-sine-kunstler,25,3,0.41621818039718,0.12
+",147,lustig-im-gretele-sine-kunstler,25,3,0.41621818039718,0.12
 148,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2865,7 +2865,7 @@ Un mi Geld, wo soll ich derno mi Geld hernàh, wenn
 (er macht wieder züe)
 
         
-",lustig-im-gretele-sine-kunstler,29,6,0.6600465366147784,0.20689655172413793
+",148,lustig-im-gretele-sine-kunstler,29,6,0.6600465366147784,0.20689655172413793
 149,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage
@@ -2888,7 +2888,7 @@ Ah so!... 's geht güet, wie-n-i sieh... isch das jetz dà «brave, stille junge
 (er nimmt e Brief üs em Sack un git en im Herr Fisselboge).
 
         
-",lustig-im-gretele-sine-kunstler,187,25,0.5815468918661294,0.13368983957219252
+",149,lustig-im-gretele-sine-kunstler,187,25,0.5815468918661294,0.13368983957219252
 150,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge
@@ -2905,7 +2905,7 @@ Herr Fisselboge
 's isch, wie-n-i g'sàit ha... se-n-isch g'storwe, die güete Tante un hinterlosst mr hunderttaüsend Franke.
 
         
-",lustig-im-gretele-sine-kunstler,60,7,0.5880622646607158,0.11666666666666667
+",150,lustig-im-gretele-sine-kunstler,60,7,0.5880622646607158,0.11666666666666667
 151,comedy,alle,B,,,,"
           
 Alle mitnander.
@@ -2914,7 +2914,7 @@ Alle mitnander.
 Hunderttaüsend Franke!!!...
 
         
-",lustig-im-gretele-sine-kunstler,4,1,0.8004800063959762,0.25
+",151,lustig-im-gretele-sine-kunstler,4,1,0.8004800063959762,0.25
 152,comedy,Herr KNOPFLOCH,M,taylor,crafts,,"
           
 Herr Knopfloch
@@ -2929,7 +2929,7 @@ Herr Fisselboge, ich ha jetz scho mehr as e Stund uf
                             amesse?...
 
         
-",lustig-im-gretele-sine-kunstler,38,5,0.5358335476708963,0.13157894736842105
+",152,lustig-im-gretele-sine-kunstler,38,5,0.5358335476708963,0.13157894736842105
 153,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2943,7 +2943,7 @@ Ah ça... ha-n-i eigentlig e Zimmer g'lehnt fir mich
                             Einer?...
 
         
-",lustig-im-gretele-sine-kunstler,26,4,0.4610350796714032,0.15384615384615385
+",153,lustig-im-gretele-sine-kunstler,26,4,0.4610350796714032,0.15384615384615385
 154,comedy,Herr GITZKRAGE,M,,,,"
           
 Herr Gitzkrage.
@@ -2955,7 +2955,7 @@ Herr Gitzkrage.
 (er hebt em 's Käfig un dr Parepli ane)
 
         
-",lustig-im-gretele-sine-kunstler,39,6,0.5337502652980072,0.15384615384615385
+",154,lustig-im-gretele-sine-kunstler,39,6,0.5337502652980072,0.15384615384615385
 155,comedy,GRETELE,M,,,,"
           
 Gretele
@@ -2968,7 +2968,7 @@ Verzeihe Se mr, Herr Fisselboge, awer ich ha g'wiss
                             doch nur Sie allewil am liebste g'ha!...
 
         
-",lustig-im-gretele-sine-kunstler,27,4,0.6308186321386586,0.14814814814814814
+",155,lustig-im-gretele-sine-kunstler,27,4,0.6308186321386586,0.14814814814814814
 156,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -2981,7 +2981,7 @@ Bàh! - wenn's eso isch, so zieh-n-ich mi Sawel
                             z'ruck... 's isch si nitt derwerth...
 
         
-",lustig-im-gretele-sine-kunstler,24,2,0.4429157061605158,0.08333333333333333
+",156,lustig-im-gretele-sine-kunstler,24,2,0.4429157061605158,0.08333333333333333
 157,comedy,Herr FISSELBOGE,M,violin_teacher,professionals_scientific_technical,,"
           
 Herr Fisselboge.
@@ -3015,7 +3015,7 @@ Hit thüe-n-ich schwimme im Gold.
           
 
         
-",lustig-im-gretele-sine-kunstler,47,9,0.541938188481083,0.19148936170212766
+",157,lustig-im-gretele-sine-kunstler,47,9,0.541938188481083,0.19148936170212766
 158,comedy,GRETELE,M,,,,"
           
 Gretele.
@@ -3037,7 +3037,7 @@ D'Müsik allei zieh-n-ich vor!...
           
 
         
-",lustig-im-gretele-sine-kunstler,34,6,0.6085148657278016,0.17647058823529413
+",158,lustig-im-gretele-sine-kunstler,34,6,0.6085148657278016,0.17647058823529413
 159,comedy,Herr HEITERWISS,M,painter_(artist),professionals_scientific_technical,,"
           
 Herr Heiterwiss
@@ -3062,4 +3062,4 @@ D'Liewe fir uns, das 'isch d'Kunst.
           
 
         
-",lustig-im-gretele-sine-kunstler,42,9,0.7634035910550847,0.21428571428571427
+",159,lustig-im-gretele-sine-kunstler,42,9,0.7634035910550847,0.21428571428571427

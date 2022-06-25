@@ -1,6 +1,14 @@
 #### tasks
-1. Use R to make moving average
-2. Intergrate R with python interface
-3. add comments to functions I made
+1. moving average (réalisé par R)
+2. intégrer la partie R
+3. changer graphic.py pour afficher les résultats avec moving average
+4. ajouter les commentaires pour les fonctions
+5. comparer les emotions contraire par moving average
 
-In python terminal, we can choose to smooth the result
+```schell
+# change argv[1] à mv_average pour afficher les résultats de moving average
+python3 graphic.py mv_average arnold-der-pfingstmontag sadness,joy
+```
+**comparaison entre moving average et sans average**
+*moving average: image à gauche*
+![comparaison](../ed_analyse_pieces/comparaison.png)

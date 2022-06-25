@@ -4,36 +4,6 @@ import matplotlib.pyplot as plt
 import sys, os
 import csv
 
-def plot_emotion(file_paths, emotion_list, filters):
-    for i in range(len(file_paths)):
-        df = pd.read_csv(file_paths[i], index_col = False)
-        if (filters != []):
-            my_hue = df[filters].apply(tuple, axis=1)
-        emotion_label = emotion_list[i]
-
-        '''num_rows = df.shape[0]
-        x_ticks = []
-        if (num_rows > 300): # S'il y a pas mal de tournes de paroles
-            step = num_rows // 100
-            x_ticks = [index for index in range(0, num_rows, step)]'''
-    #df = df.query("speaker == 'Ne Pierrot'")
-        if (filters and emotion_list):
-            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, hue = my_hue, err_style = None)
-            graph.set_ylim(0,1)
-            '''if (x_ticks):
-                graph.set_xticks(x_ticks)'''
-            graph.set_xlabel("progress of drama")
-            graph.set_ylabel(emotion_label)
-            plt.show()
-        else:
-            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, label = emotion_label, err_style = None)
-    graph.set_ylim(0,1)
-    graph.set_xlabel("progress of drama")
-    '''if (x_ticks):
-        graph.set_xticks(x_ticks)'''
-    graph.set_ylabel("emotion level")
-    plt.show()
-
 def get_moyennes():
     all_moyen = []
     piece_moyen = []
@@ -74,16 +44,63 @@ def write_csv(all_moyen):
 def group_info():
     all_moyen = get_moyennes()
     write_csv(all_moyen)
-    
 
-def single_piece():
+# ------------------------------------------- make plots -----------------------------------------------
+
+def plot_only_one_piece(file_paths, emotion_list, filters):
+    for i in range(len(file_paths)):
+        df = pd.read_csv(file_paths[i], index_col = False)
+        if (filters != []):
+            my_hue = df[filters].apply(tuple, axis=1)
+        emotion_label = emotion_list[i]
+
+    #df = df.query("speaker == 'Ne Pierrot'")
+        if (filters and emotion_list):
+            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, hue = my_hue, err_style = None)
+            graph.set_ylim(0,1)
+            '''if (x_ticks):
+                graph.set_xticks(x_ticks)'''
+            graph.set_xlabel("progress of drama")
+            graph.set_ylabel(emotion_label)
+            plt.show()
+        else:
+            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, label = emotion_label, err_style = None)
+    graph.set_ylim(0,1)
+    graph.set_xlabel("progress of drama")
+    '''if (x_ticks):
+        graph.set_xticks(x_ticks)'''
+    graph.set_ylabel("emotion level")
+    plt.show()
+
+def plot_mv_avg(filename, emotion_list, filters):
+    df = pd.read_csv(filename, index_col=False)
+    if (filters != []):
+        my_hue = df[filters].apply(tuple, axis=1)
+    for i in range(len(emotion_list)):
+        emotion_label = emotion_list[i]
+        if (filters and emotion_list):
+            graph = sb.lineplot(y=emotion_label, x="progress", data=df, hue = my_hue, err_style = None)
+            graph.set_ylim(-1,1)
+            '''if (x_ticks):
+                graph.set_xticks(x_ticks)'''
+            graph.set_xlabel("progress of drama")
+            graph.set_ylabel(emotion_label)
+            plt.show()
+        else:
+            graph = sb.lineplot(y=emotion_label, x="progress", data=df, label = emotion_label, err_style = None)
+    graph.set_ylim(-1,1)
+    graph.set_xlabel("progress of drama")
+    graph.set_ylabel("emotion level")
+    plt.show()
+
+def single_piece(mv_average):
     arg_len = len(sys.argv)
     filters = []
-    if (arg_len == 4): # si y'a deux args
+    if (arg_len == 4): # if we check emotions only
         folder = sys.argv[2]
         emotion_list = sys.argv[3].split(",") # it's a list
         
-    elif(arg_len == 5):
+    elif(arg_len == 5): # if we check emotions + filters (col name of csv files)
         folder = sys.argv[2]
         emotion_list = sys.argv[3].split(",")
         filters = sys.argv[4].split(",")
@@ -91,11 +108,14 @@ def single_piece():
     else:
         print("Input error\n")
         sys.exit(0)
-    
-    filepath = []
-    for filename in emotion_list:
-        filepath.append(folder + "/" + filename + ".csv")
-    plot_emotion(filepath, emotion_list, filters)
+    if (mv_average == False):
+        filepath = []
+        for filename in emotion_list:
+            filepath.append(folder + "/" + filename + ".csv")
+        plot_only_one_piece(filepath, emotion_list, filters)
+    else:
+        filepath = folder + "/" + "all_emo.csv"
+        plot_mv_avg(filepath, emotion_list, filters)
 
 def more_pieces():
     query = ""
@@ -163,8 +183,10 @@ def more_pieces():
 
 if __name__ == "__main__":
     if (sys.argv[1] == "single"):
-        single_piece()
+        single_piece(mv_average = False)
     elif(sys.argv[1] == "group"):
         more_pieces()
+    elif(sys.argv[1] == "mv_average"):
+        single_piece(mv_average = True)
     # df = df.query("shortName == 'am-letzte-maskebal' or shortName == 'arnold-der-pfingstmontag'")
     # group_info()

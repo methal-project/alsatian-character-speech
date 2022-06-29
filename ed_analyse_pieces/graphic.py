@@ -6,11 +6,11 @@ import csv
 
 def get_moyennes():
     all_moyen = []
-    piece_moyen = []
-    li_files = os.listdir(".")
+    piece_moyen = [] # une liste de toutes les informations d'une piece
+    li_files = os.listdir(".") # nom des repetoires
     for name in li_files:
         if os.path.isdir(name): # Si c'est un repertoire de piece de theatre
-            drama_type = False
+            drama_type = False # lock pour ajouter qu'une fois le type de drama
             piece_moyen.append(name)
             folder_path = name + "/"
             csv_files = os.listdir(folder_path)
@@ -24,7 +24,7 @@ def get_moyennes():
                     num_rows = df.shape[0]
                     if (num_rows // 10 == 0):
                         num_largest_coeffs = 1
-                    else:
+                    else: # s'il y a moins de 10 lignes dans csv, alors prend toutes les lignes
                         num_largest_coeffs = num_rows // 10
                     df_largest = df.nlargest(num_largest_coeffs, "avgLexVal")
                     piece_moyen.append(df_largest["avgLexVal"].mean())
@@ -50,39 +50,33 @@ def group_info():
 def plot_only_one_piece(file_paths, emotion_list, filters):
     for i in range(len(file_paths)):
         df = pd.read_csv(file_paths[i], index_col = False)
-        if (filters != []):
+        if (filters != []): # faire filtres
             my_hue = df[filters].apply(tuple, axis=1)
         emotion_label = emotion_list[i]
 
-    #df = df.query("speaker == 'Ne Pierrot'")
-        if (filters and emotion_list):
+        if (filters and emotion_list): # S'il y a emotions et filtres:
             graph = sb.lineplot(y="avgLexVal", x="progress", data=df, hue = my_hue, err_style = None)
             graph.set_ylim(0,1)
-            '''if (x_ticks):
-                graph.set_xticks(x_ticks)'''
             graph.set_xlabel("progress of drama")
             graph.set_ylabel(emotion_label)
             plt.show()
-        else:
+        else: # s'il n'y a pas de filtres:
             graph = sb.lineplot(y="avgLexVal", x="progress", data=df, label = emotion_label, err_style = None)
     graph.set_ylim(0,1)
     graph.set_xlabel("progress of drama")
-    '''if (x_ticks):
-        graph.set_xticks(x_ticks)'''
     graph.set_ylabel("emotion level")
     plt.show()
 
 def plot_mv_avg(filename, emotion_list, filters):
+    # filename est le fichier csv fait par R
     df = pd.read_csv(filename, index_col=False)
     if (filters != []):
         my_hue = df[filters].apply(tuple, axis=1)
     for i in range(len(emotion_list)):
-        emotion_label = emotion_list[i]
+        emotion_label = emotion_list[i] # nom d'emotion
         if (filters and emotion_list):
             graph = sb.lineplot(y=emotion_label, x="progress", data=df, hue = my_hue, err_style = None)
             graph.set_ylim(-1,1)
-            '''if (x_ticks):
-                graph.set_xticks(x_ticks)'''
             graph.set_xlabel("progress of drama")
             graph.set_ylabel(emotion_label)
             plt.show()
@@ -96,42 +90,42 @@ def plot_mv_avg(filename, emotion_list, filters):
 def single_piece(mv_average):
     arg_len = len(sys.argv)
     filters = []
-    if (arg_len == 4): # if we check emotions only
+    if (arg_len == 4): # si on verifie emotions seulement
         folder = sys.argv[2]
         emotion_list = sys.argv[3].split(",") # it's a list
         
-    elif(arg_len == 5): # if we check emotions + filters (col name of csv files)
+    elif(arg_len == 5): # si on verifie emotions + filters (nom des colonnes des fichiers csv)
         folder = sys.argv[2]
         emotion_list = sys.argv[3].split(",")
         filters = sys.argv[4].split(",")
-        print(emotion_list, filters)
+        # print(emotion_list, filters)
     else:
         print("Input error\n")
         sys.exit(0)
-    if (mv_average == False):
+    if (mv_average == False): # pour verifier s'il faut utiliser moving average
         filepath = []
         for filename in emotion_list:
             filepath.append(folder + "/" + filename + ".csv")
         plot_only_one_piece(filepath, emotion_list, filters)
     else:
-        filepath = folder + "/" + "all_emo.csv"
+        filepath = folder + "/" + "all_emo.csv" # nom du fichier fait par R
         plot_mv_avg(filepath, emotion_list, filters)
 
 def more_pieces():
     query = ""
     df = pd.read_csv("all_pieces_info.csv")
-    if (len(sys.argv) >= 4): # emotion or shortName seulement || emotion + drama_type
+    if (len(sys.argv) >= 4): # emotion ou shortName seulement || emotion + drama_type
         handle = sys.argv[2]     
         if (handle == "--emotion"):
             emotion = sys.argv[3]
             emotion = emotion.split(",")
-            print(emotion)
-            if (len(sys.argv) == 4):
+            # print(emotion)
+            if (len(sys.argv) == 4): # plot une seule emotion avec differents types de dramas (barplot)
                 if (len(emotion) == 1):
                     graph = sb.barplot(data = df, x = "shortName", y = emotion[0], hue="drama_type")
                     graph.set_ylim(0,1)
                     plt.show()
-                elif (len(emotion) == 2):
+                elif (len(emotion) == 2): # plot deux emotions avec differents types de dramas (scatterplot)
                     graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="drama_type")
                     graph.set_ylim(0,1)
                     graph.set_xlim(0,1)
@@ -139,15 +133,15 @@ def more_pieces():
                 else:
                     print("Can only compare two emotions\n")
                     sys.exit(1)
-            else: # emotion + drama type
+            else: # plot emotion + drama type
                 drama_type = sys.argv[4]
                 query = "drama_type == '" + drama_type + "'"
                 df = df.query(query)
-                if (len(emotion) == 1):
+                if (len(emotion) == 1): # barplot pour une seule emotion
                     graph = sb.barplot(data = df, x = "shortName", y = emotion[0], hue="drama_type")
                     graph.set_ylim(0,1)
                     plt.show()
-                elif (len(emotion) == 2):
+                elif (len(emotion) == 2): # scatterplot pour 2 emotions
                     graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="drama_type")
                     graph.set_ylim(0,1)
                     graph.set_xlim(0,1)
@@ -155,7 +149,7 @@ def more_pieces():
                 else:
                     print("Can only compare two emotions\n")
                     sys.exit(1)
-        elif(handle == "--shortName"):
+        elif(handle == "--shortName"): # plot tous les emotions d'une seule piece
             shortName = sys.argv[3]
             query = "shortName == '" + shortName + "'"
             df = df.query(query)
@@ -186,7 +180,6 @@ if __name__ == "__main__":
         single_piece(mv_average = False)
     elif(sys.argv[1] == "group"):
         more_pieces()
-    elif(sys.argv[1] == "mv_average"):
+    elif(sys.argv[1] == "mv_average"): # pour moving avg
         single_piece(mv_average = True)
-    # df = df.query("shortName == 'am-letzte-maskebal' or shortName == 'arnold-der-pfingstmontag'")
-    # group_info()
+    

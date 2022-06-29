@@ -13,6 +13,10 @@ dir_path = "./pieces_more_info/treated_files"
 xml_in = ""
 
 def main():
+    '''
+    argv[1] = nom du repertoire (tei/tei-lustig/tei2)
+    argv[2] = nom du piece de theatre
+    '''
     
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
@@ -20,13 +24,13 @@ def main():
     xml_out = dir_path + "/" + sys.argv[1] + "/" + sys.argv[2][:-3] + "out.csv"
 
     file_personography = "./pieces_more_info/methal-personography.xml"
-    tree_person = ET.parse(file_personography)
+    tree_person = ET.parse(file_personography) # faire une arbre xml pour les infos de personnage
     root_person = tree_person.getroot()
     
-    tree = ET.parse(xml_in)
+    tree = ET.parse(xml_in) # faire une arbre xml pour la piece de theatre
     root = tree.getroot()
     piece_id = root.find(".//{http://www.tei-c.org/ns/1.0}idno[@type='methal']")
-    piece_id = "#" + piece_id.attrib["{http://www.w3.org/XML/1998/namespace}id"]
+    piece_id = "#" + piece_id.attrib["{http://www.w3.org/XML/1998/namespace}id"] # obtenir l'id de la piece
     print(piece_id)
 
     dic_person = person_info(root)
@@ -64,12 +68,14 @@ def main():
 
 
 def person_info(root):
-    dic_person = {}
-    dic_line = {}
+    dic_person = {} # infos pour toutes les personnages
+    dic_line = {} # infos pour une seule personnage
     
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}personGrp"):
+        # chercher toutes les nodes sous l'etiquette: "personGrp"
         if (kids):
             if (kids.attrib):
+                # obtenir les attributes des enfants et les ajouter dans dictionnaire dic_line
                 sex = kids.attrib["sex"]
                 id = kids.attrib["{http://www.w3.org/XML/1998/namespace}id"]
                 dic_line["name"] = id
@@ -77,13 +83,16 @@ def person_info(root):
                 dic_line["job"] = ""
                 dic_line["job_category"] = ""
                 dic_line["social_class"] = ""
-                dic_person["#" + id] = dic_line
-                dic_line = {}
+                dic_person["#" + id] = dic_line # ajouter dic_line dans dic_persion
+                dic_line = {} # reinitialiser dic_line
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}person"):
+        # chercher toutes les nodes sous l'etiquette: "person"
         sex = kids.attrib["sex"]
         id = kids.attrib["{http://www.w3.org/XML/1998/namespace}id"]
         name = kids.find("{http://www.tei-c.org/ns/1.0}persName")
         realname = ""
+        # ------------------------------ to be changed ----------------------------
+        # tous ca pour obtenir les noms du personnages
         if (len(name.findall("{http://www.tei-c.org/ns/1.0}emph")) == 0):
             realname = name.text
         else:
@@ -93,6 +102,7 @@ def person_info(root):
                         realname = name.text.strip() + " " + kid_name.text.strip()
                     else:
                         realname = kid_name.text.strip()
+        # --------------------------------------------------------------------------
         dic_line["name"] = realname
         dic_line["sex"] = sex
         dic_line["job"] = ""
@@ -103,11 +113,12 @@ def person_info(root):
     return dic_person
 
 def add_person_info(root, piece_id):
-    flag = False
+    # pour obtenir les infos supplementaires des personnages
+    flag = False # flag pour verifier si les personnage trouve sont dans la meme piece de theatre
     dic = {}
     for kid in root.iter(tag="{http://www.tei-c.org/ns/1.0}person"):
         for sub_kid in kid.iter():
-            if (sub_kid.get("corresp") == piece_id):
+            if (sub_kid.get("corresp") == piece_id): # si c'est la piece qu'on cherche
                 flag = True
             if(flag == True):
                 persname = kid.find("{http://www.tei-c.org/ns/1.0}persName")
@@ -119,7 +130,7 @@ def add_person_info(root, piece_id):
                 job = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='occupation']")
                 job_category = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='professional_category']")
                 social_class = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='social_class']")
-                dic[persname] = ["","",""]
+                dic[persname] = ["","",""] # liste qui contient job, categorie de job et social_class
                 if (job):
                     job = job.find("{http://www.tei-c.org/ns/1.0}symbol")
                     job_title = job.attrib["value"]
@@ -136,10 +147,11 @@ def add_person_info(root, piece_id):
     return dic
 
 def merge_dic(dic, dic_person):
-    for key in dic.keys():
+    for key in dic.keys(): # noms des personnages dans dic avec infos supplementaires
         for key_p in dic_person.keys():
             key1 = key.split(" ")
             realname = dic_person[key_p]["name"].split(" ")
+            # en bas sont des processus pour ajouter les infos supplementaires
             if (len(key1) > 1 and len(realname) > 1):
                 if (key1[0] in realname[0] and key1[1] in realname[1]):
                     dic_person[key_p]["job"] = dic[key][0]
@@ -159,15 +171,16 @@ def merge_dic(dic, dic_person):
 def get_speaker_text(root, dic_person):
     #count = 0
     list_who = []
-    list_sp_text = []
+    list_sp_text = [] # toutes les infos pour une tourne de parole
     list_piece = []
     text = ""
+    # ------------------------------------- supprimer? -----------------------
     piece_type = root.find(".//{http://www.tei-c.org/ns/1.0}term")
     if(piece_type == None):
         piece_type = "unknown"
     else:
         piece_type = piece_type.text
-
+    # ------------------------------------------------------------------------
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}sp"):
         #count += 1
         if (kids.attrib):

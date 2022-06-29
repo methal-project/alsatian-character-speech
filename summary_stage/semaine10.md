@@ -12,3 +12,7 @@ python3 graphic.py mv_average arnold-der-pfingstmontag sadness,joy
 **comparaison entre moving average et sans average**
 *moving average: image à gauche*
 ![comparaison](../ed_analyse_pieces/comparaison.png)
+
+sous chaque repetoire de piece de theatre, un fichier **all_emo.csv** est ajoute, 
+le fichier est fait par R avec les moving averages de chaque emotions
+

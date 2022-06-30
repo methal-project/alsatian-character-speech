@@ -32,6 +32,30 @@ def get_moyennes():
             piece_moyen = []
     return all_moyen
 
+def add_rolling_mean():
+    li_files = os.listdir(".") # nom des repetoires
+    df_final = pd.DataFrame()
+    for name in li_files:
+        if os.path.isdir(name): # Si c'est un repertoire de piece de theatre
+            folder_path = name + "/"
+            csv_files = os.listdir(folder_path)
+         
+            for i in range(1,len(csv_files)): # csv files dans chaque repertoire de piece
+                if (".csv" in csv_files[i] and "rolling_mean" not in csv_files[i]):
+                    # initialiser df_final -------------------------------
+                    if (i == 1):
+                        df_final = pd.read_csv(folder_path + csv_files[1])
+                        roll_mean = df_final["avgLexVal"].rolling(5).mean()
+                        col_name = csv_files[i][:-4] # nom du sentiment
+                        df_final[col_name + "_roll_mean"] = roll_mean
+                    # ----------------------------------------------------
+                    df = pd.read_csv(folder_path + csv_files[i])
+                    roll_mean = df["avgLexVal"].rolling(5).mean()
+                    col_name = csv_files[i][:-4] # nom du sentiment
+                    df_final[col_name + "_roll_mean"] = roll_mean # ajouter un nouvel col pour noter rolling mean
+            df_final.drop("avgLexVal", axis=1, inplace=True)
+            df_final.to_csv(folder_path + "rolling_mean.csv")
+
 def write_csv(all_moyen):
     header = ["shortName", "drama_type", "anger", "anticipation", "arousal", 
     "disgust", "dominance", "fear", "joy", "sadness", "surprise", "trust", "valence"
@@ -176,6 +200,8 @@ def more_pieces():
 
 
 if __name__ == "__main__":
+    add_rolling_mean()
+
     if (sys.argv[1] == "single"):
         single_piece(mv_average = False)
     elif(sys.argv[1] == "group"):

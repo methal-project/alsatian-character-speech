@@ -1,36 +1,49 @@
+from numpy import NaN
 import seaborn as sb
 import pandas as pd
 import matplotlib.pyplot as plt
 import sys, os
 import csv
 
+emotion_list = [
+    "anger"
+    , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
+]
+
+vad_list = ["valence", "arousal", "dominance"]
+
 def get_moyennes():
     all_moyen = []
-    piece_moyen = [] # une liste de toutes les informations d'une piece
-    li_files = os.listdir(".") # nom des repetoires
+    li_files = os.listdir(".")
     for name in li_files:
-        if os.path.isdir(name): # Si c'est un repertoire de piece de theatre
-            drama_type = False # lock pour ajouter qu'une fois le type de drama
+        if (os.path.isdir(name) and "drizehne" not in name): # Si c'est un repertoire de piece de theatre
+            df = pd.read_csv(name+"/rolling_mean.csv")
+            drama_type = pd.read_csv(name+"/joy.csv")["drama_type"].values[0]
+            sum = 0
+            sum_vad = 0
+            portion = []
+            portion_vad = []
+            piece_moyen = [] # les infos pour chaque pièce
             piece_moyen.append(name)
-            folder_path = name + "/"
-            csv_files = os.listdir(folder_path)
-            for csv_file in csv_files: # csv files dans chaque repertoire de piece
-                if (".csv" in csv_file):
-                    df = pd.read_csv(folder_path + csv_file)
-                    if (drama_type == False):
-                        piece_moyen.append(df["drama_type"].values[0])
-                        drama_type = True
-                    # get first 10% largest values, and then their mean
-                    num_rows = df.shape[0]
-                    if (num_rows // 10 == 0):
-                        num_largest_coeffs = 1
-                    else: # s'il y a moins de 10 lignes dans csv, alors prend toutes les lignes
-                        num_largest_coeffs = num_rows // 10
-                    df_largest = df.nlargest(num_largest_coeffs, "avgLexVal")
-                    piece_moyen.append(df_largest["avgLexVal"].mean())
+            piece_moyen.append(drama_type)
+            for emo in emotion_list:
+                sum += df[emo+"_roll_mean"].sum()
+                portion.append(df[emo+"_roll_mean"].sum())
+            for vad in vad_list:
+                sum_vad += df[vad+"_roll_mean"].sum()
+                portion_vad.append(df[vad+"_roll_mean"].sum())
+
+            for v in portion_vad:
+                v_portion = v/sum_vad
+                piece_moyen.append(v_portion)
+            for p in portion:
+                emo_portion = p/sum
+                piece_moyen.append(emo_portion)
+            if (piece_moyen[3] == NaN):
+                print(name)
             all_moyen.append(piece_moyen)
-            piece_moyen = []
     return all_moyen
+
 
 def add_rolling_mean():
     li_files = os.listdir(".") # nom des repetoires
@@ -49,16 +62,17 @@ def add_rolling_mean():
                         col_name = csv_files[i][:-4] # nom du sentiment
                         df_final[col_name + "_roll_mean"] = roll_mean
                     # ----------------------------------------------------
-                    df = pd.read_csv(folder_path + csv_files[i])
-                    roll_mean = df["avgLexVal"].rolling(5).mean()
-                    col_name = csv_files[i][:-4] # nom du sentiment
-                    df_final[col_name + "_roll_mean"] = roll_mean # ajouter un nouvel col pour noter rolling mean
+                    else:
+                        df = pd.read_csv(folder_path + csv_files[i])
+                        roll_mean = df["avgLexVal"].rolling(5).mean()
+                        col_name = csv_files[i][:-4] # nom du sentiment
+                        df_final[col_name + "_roll_mean"] = roll_mean # ajouter un nouvel col pour noter rolling mean
             df_final.drop("avgLexVal", axis=1, inplace=True)
             df_final.to_csv(folder_path + "rolling_mean.csv")
 
 def write_csv(all_moyen):
-    header = ["shortName", "drama_type", "anger", "anticipation", "arousal", 
-    "disgust", "dominance", "fear", "joy", "sadness", "surprise", "trust", "valence"
+    header = ["shortName", "drama_type", "valence", "arousal", "dominance", "anger"
+    , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
     with open("all_pieces_info.csv", "w", encoding="utf-8") as out:
         writer = csv.writer(out)
@@ -71,22 +85,27 @@ def group_info():
 
 # ------------------------------------------- make plots -----------------------------------------------
 
-def plot_only_one_piece(file_paths, emotion_list, filters):
-    for i in range(len(file_paths)):
-        df = pd.read_csv(file_paths[i], index_col = False)
-        if (filters != []): # faire filtres
-            my_hue = df[filters].apply(tuple, axis=1)
-        emotion_label = emotion_list[i]
+def plot_only_one_piece(file_path, emotion_list, filters):
+    
+    df = pd.read_csv(file_path, index_col = False)
+    if (filters != []): # faire filtres
+        my_hue = df[filters].apply(tuple, axis=1)
+    emotion_label = emotion_list[0]
 
-        if (filters and emotion_list): # S'il y a emotions et filtres:
-            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, hue = my_hue, err_style = None)
-            graph.set_ylim(0,1)
-            graph.set_xlabel("progress of drama")
-            graph.set_ylabel(emotion_label)
-            plt.show()
-        else: # s'il n'y a pas de filtres:
-            graph = sb.lineplot(y="avgLexVal", x="progress", data=df, label = emotion_label, err_style = None)
+    if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
+        graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue)
+        graph.set_ylim(0,1)
+        graph.set_xlim(0,1)
+        graph.set_xlabel(emotion_list[0])
+        graph.set_ylabel(emotion_list[1])
+        plt.show()
+    elif (len(emotion_list)>1): # Si y'a que deux emotions:
+        for i in range(len(emotion_list)):
+            graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
+    else: # s'il n'y a pas de filtres:
+        graph = sb.lineplot(y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
     graph.set_ylim(0,1)
+
     graph.set_xlabel("progress of drama")
     graph.set_ylabel("emotion level")
     plt.show()
@@ -127,9 +146,7 @@ def single_piece(mv_average):
         print("Input error\n")
         sys.exit(0)
     if (mv_average == False): # pour verifier s'il faut utiliser moving average
-        filepath = []
-        for filename in emotion_list:
-            filepath.append(folder + "/" + filename + ".csv")
+        filepath = folder + "/" + "rolling_mean.csv"
         plot_only_one_piece(filepath, emotion_list, filters)
     else:
         filepath = folder + "/" + "all_emo.csv" # nom du fichier fait par R
@@ -137,7 +154,7 @@ def single_piece(mv_average):
 
 def more_pieces():
     query = ""
-    df = pd.read_csv("all_pieces_info.csv")
+    df = pd.read_csv("all_pieces_info_try.csv")
     if (len(sys.argv) >= 4): # emotion ou shortName seulement || emotion + drama_type
         handle = sys.argv[2]     
         if (handle == "--emotion"):
@@ -151,8 +168,8 @@ def more_pieces():
                     plt.show()
                 elif (len(emotion) == 2): # plot deux emotions avec differents types de dramas (scatterplot)
                     graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="drama_type")
-                    graph.set_ylim(0,1)
-                    graph.set_xlim(0,1)
+                    graph.set_ylim(0,0.5)
+                    graph.set_xlim(0,0.5)
                     plt.show()
                 else:
                     print("Can only compare two emotions\n")
@@ -200,7 +217,8 @@ def more_pieces():
 
 
 if __name__ == "__main__":
-    add_rolling_mean()
+    #add_rolling_mean()
+    group_info()
 
     if (sys.argv[1] == "single"):
         single_piece(mv_average = False)

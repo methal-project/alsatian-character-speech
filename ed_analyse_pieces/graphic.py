@@ -12,7 +12,7 @@ emotion_list = [
 
 vad_list = ["valence", "arousal", "dominance"]
 
-def get_moyennes():
+def get_percentage():
     all_moyen = []
     li_files = os.listdir(".")
     for name in li_files:

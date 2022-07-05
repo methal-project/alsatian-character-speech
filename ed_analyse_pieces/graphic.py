@@ -81,7 +81,7 @@ def write_csv(all_moyen):
         writer.writerows(all_moyen)
     
 def group_info():
-    all_moyen = get_moyennes()
+    all_moyen = get_percentage()
     write_csv(all_moyen)
 
 # ------------------------------------------- make plots -----------------------------------------------

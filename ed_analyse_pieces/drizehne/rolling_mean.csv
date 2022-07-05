@@ -1,5 +1,5 @@
-,Unnamed: 0,drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
-0,0,comedy,Edi,M,,,,"
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,avgLexVal,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Edi,M,,,,"
           
 Edi
 
@@ -379,4 +379,4 @@ Eh... ich ha jo erst dreiviertel!... un doch ha-n-i alle beide mitnander g'richt
 (er springt ins Schlofzimmer).
 
         
-",0,lustig-drizehne,1445,162,0.1121107266435986,,,,,,,,,,,
+",0,lustig-drizehne,1445,162,0.0818807429558082,0.1121107266435986,,,,,,,,,,,

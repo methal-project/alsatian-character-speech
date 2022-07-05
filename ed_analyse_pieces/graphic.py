@@ -67,8 +67,9 @@ def add_rolling_mean():
                         roll_mean = df["avgLexVal"].rolling(5).mean()
                         col_name = csv_files[i][:-4] # nom du sentiment
                         df_final[col_name + "_roll_mean"] = roll_mean # ajouter un nouvel col pour noter rolling mean
-            df_final.drop("avgLexVal", axis=1, inplace=True)
-            df_final.to_csv(folder_path + "rolling_mean.csv")
+            if ("Unnamed: 0" in df_final.columns):
+                df_final.drop("Unnamed: 0", axis=1, inplace=True)
+            df_final.to_csv(folder_path + "rolling_mean.csv", index=False)
 
 def write_csv(all_moyen):
     header = ["shortName", "drama_type", "valence", "arousal", "dominance", "anger"
@@ -154,7 +155,7 @@ def single_piece(mv_average):
 
 def more_pieces():
     query = ""
-    df = pd.read_csv("all_pieces_info_try.csv")
+    df = pd.read_csv("all_pieces_info.csv")
     if (len(sys.argv) >= 4): # emotion ou shortName seulement || emotion + drama_type
         handle = sys.argv[2]     
         if (handle == "--emotion"):
@@ -198,9 +199,7 @@ def more_pieces():
             graph.set_title(shortName)
             plt.show()
     elif (len(sys.argv) == 2): # sans argument, plot tous
-        graph = sb.scatterplot(data = df)
-        graph.set_ylabel("emotion_coeffs")
-        graph.set_ylim(0,1)
+        graph = sb.pairplot(df, kind="reg", diag_kind="kde")
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]
@@ -217,8 +216,8 @@ def more_pieces():
 
 
 if __name__ == "__main__":
-    #add_rolling_mean()
-    group_info()
+    add_rolling_mean()
+    #group_info()
 
     if (sys.argv[1] == "single"):
         single_piece(mv_average = False)

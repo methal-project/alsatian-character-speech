@@ -31,3 +31,13 @@ python3 graphic.py group
 Pour regarder le pairplot de toutes les emotions
 ![pairplot](../graphics/pairplot.png)
 
+4. most_positive / most_negative
+
+```
+python3 graphic.py most_positive
+python3 graphic.py most_negative
+```
+La polarite est calcule selon valence, la regle de calcul:
+
+Si valence >= moyennes de valence, alors polarite += 1
+Sinon, polarite -= 1

@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sys, os
 import csv
+from scipy.stats import percentileofscore
 
 emotion_list = [
     "anger"
@@ -20,9 +21,7 @@ def get_percentage():
             df = pd.read_csv(name+"/rolling_mean.csv")
             drama_type = pd.read_csv(name+"/joy.csv")["drama_type"].values[0]
             sum = 0
-            sum_vad = 0
             portion = []
-            portion_vad = []
             piece_moyen = [] # les infos pour chaque pièce
             piece_moyen.append(name)
             piece_moyen.append(drama_type)
@@ -30,12 +29,18 @@ def get_percentage():
                 sum += df[emo+"_roll_mean"].sum()
                 portion.append(df[emo+"_roll_mean"].sum())
             for vad in vad_list:
-                sum_vad += df[vad+"_roll_mean"].sum()
-                portion_vad.append(df[vad+"_roll_mean"].sum())
+                if (vad == "valence"):
+                    polarity = 0
+                    mean = df["valence_roll_mean"].mean()
+                    for val in df["valence_roll_mean"]:
+                        if val >= mean:
+                            polarity += 1
+                        else:
+                            polarity -= 1
+                    piece_moyen.append(polarity)
+                else:
+                    piece_moyen.append(df[vad+"_roll_mean"].sum())
 
-            for v in portion_vad:
-                v_portion = v/sum_vad
-                piece_moyen.append(v_portion)
             for p in portion:
                 emo_portion = p/sum
                 piece_moyen.append(emo_portion)
@@ -196,6 +201,7 @@ def more_pieces():
             query = "shortName == '" + shortName + "'"
             df = df.query(query)
             graph = sb.barplot(data = df)
+            graph.set_ylim(0,1)
             graph.set_title(shortName)
             plt.show()
     elif (len(sys.argv) == 2): # sans argument, plot tous
@@ -214,10 +220,29 @@ def more_pieces():
         print("Input error\n")
         sys.exit(1)
 
+def most_positive(pos):
+    df = pd.read_csv("all_pieces_info.csv")
+    if (pos):
+        index = df['valence'].idxmax()
+    else:
+        index = df['valence'].idxmin()
+
+    print('Document:', df.loc[index]['shortName'])
+    polarity = 'positive' if df.loc[index]['valence'] > 0 else 'negative'
+    print('Polarity:', polarity)
+    emotions = {}
+    for label in emotion_list:
+        emotions[label] = percentileofscore(df[label], df.loc[index][label])
+    
+    # Sort by values (highest value first)
+    emotions = pd.Series(emotions)#.sort_values()
+    emotions.plot(kind='barh', xlim=(0, 100), title=df.loc[index]['shortName'])
+    plt.show()
+
 
 if __name__ == "__main__":
-    add_rolling_mean()
-    #group_info()
+    #add_rolling_mean()
+    group_info()
 
     if (sys.argv[1] == "single"):
         single_piece(mv_average = False)
@@ -225,4 +250,7 @@ if __name__ == "__main__":
         more_pieces()
     elif(sys.argv[1] == "mv_average"): # pour moving avg
         single_piece(mv_average = True)
-    
+    elif(sys.argv[1] == "most_positive"):
+        most_positive(True)
+    elif(sys.argv[1] == "most_negative"):
+        most_positive(False)

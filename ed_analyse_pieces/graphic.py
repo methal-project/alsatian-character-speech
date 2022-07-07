@@ -38,8 +38,7 @@ def get_percentage():
                         else:
                             polarity -= 1
                     piece_moyen.append(polarity)
-                else:
-                    piece_moyen.append(df[vad+"_roll_mean"].sum())
+                piece_moyen.append(df[vad+"_roll_mean"].mean())
 
             for p in portion:
                 emo_portion = p/sum
@@ -77,7 +76,7 @@ def add_rolling_mean():
             df_final.to_csv(folder_path + "rolling_mean.csv", index=False)
 
 def write_csv(all_moyen):
-    header = ["shortName", "drama_type", "valence", "arousal", "dominance", "anger"
+    header = ["shortName", "drama_type", "polarity", "valence", "arousal", "dominance", "anger"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
     with open("all_pieces_info.csv", "w", encoding="utf-8") as out:
@@ -205,7 +204,9 @@ def more_pieces():
             graph.set_title(shortName)
             plt.show()
     elif (len(sys.argv) == 2): # sans argument, plot tous
+        df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
+        graph.set(xlim=(0,0.45), ylim = (0,0.45))
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]
@@ -223,12 +224,12 @@ def more_pieces():
 def most_positive(pos):
     df = pd.read_csv("all_pieces_info.csv")
     if (pos):
-        index = df['valence'].idxmax()
+        index = df['polarity'].idxmax()
     else:
-        index = df['valence'].idxmin()
+        index = df['polarity'].idxmin()
 
     print('Document:', df.loc[index]['shortName'])
-    polarity = 'positive' if df.loc[index]['valence'] > 0 else 'negative'
+    polarity = 'positive' if df.loc[index]['polarity'] > 0 else 'negative'
     print('Polarity:', polarity)
     emotions = {}
     for label in emotion_list:

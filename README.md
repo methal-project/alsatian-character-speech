@@ -23,10 +23,12 @@ Chaque dossier contient les ressources suivantes :
 - **code**
 	- Code d'analyse du corps par @hyang1 ainsi que des résultats d'analyse et corpus reformaté par lui (p. ex. des dataframes avec le contenu du corpus et avec les métadonnées déjà intégrées)
 	- Contenu de ce dossier et sous-dossiers sont encore à documenter
-- **ed_analyse_pieces**
+- **emo_analyse**
 	- Résultats des analyses d'émotions pour chaque pièce de théâtre.
 	- *avgEmoValues.py*, script ecrit par [EmotionDynamics](https://github.com/Priya22/EmotionDynamics/tree/master/code), pour calculer les coefficients des emotions selon un lexicon
 	- *graphic.py*, script pour réaliser des analyses sur les émotions et visualiser les résultats pour les pièces théâtres
+- **emo_idf_analyse**
+	- Même chose avec emo_analyse mais avec coefficient idf
 - **graphics**
 	- Les résultats d'analyse sauvegardé en images
 - **lexicon_analyse**
@@ -57,6 +59,10 @@ Chaque dossier contient les ressources suivantes :
 
 - **summary_stage**
 	Chaque semaine un fichier md pour conclure ce que j'ai fait 
+- **command_list.txt**
+	liste des commandes pour convertir les fichiers xml aux fichiers csv avec les informations supplémentaires
+- **command_list_ed_analyse.txt**
+	liste des commandes pour calculer les coefficients des emotions pour chaque pièce de théâtre
 
 ## Métadonnées pour les pièces
 

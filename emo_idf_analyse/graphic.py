@@ -56,12 +56,14 @@ def add_rolling_mean():
         if os.path.isdir(name): # Si c'est un repertoire de piece de theatre
             folder_path = name + "/"
             csv_files = os.listdir(folder_path)
-         
-            for i in range(1,len(csv_files)): # csv files dans chaque repertoire de piece
+            if ("all_emo.csv" in csv_files):
+                id = csv_files.index("all_emo.csv")
+                csv_files.pop(id)
+            for i in range(len(csv_files)): # csv files dans chaque repertoire de piece
                 if (".csv" in csv_files[i] and "rolling_mean" not in csv_files[i]):
                     # initialiser df_final -------------------------------
-                    if (i == 1):
-                        df_final = pd.read_csv(folder_path + csv_files[1])
+                    if (i == 0):
+                        df_final = pd.read_csv(folder_path + csv_files[0])
                         roll_mean = df_final["avgLexVal"].rolling(5).mean()
                         col_name = csv_files[i][:-4] # nom du sentiment
                         df_final[col_name + "_roll_mean"] = roll_mean
@@ -73,6 +75,8 @@ def add_rolling_mean():
                         df_final[col_name + "_roll_mean"] = roll_mean # ajouter un nouvel col pour noter rolling mean
             if ("Unnamed: 0" in df_final.columns):
                 df_final.drop("Unnamed: 0", axis=1, inplace=True)
+            if ("avgLexVal" in df_final.columns):
+                df_final.drop("avgLexVal", axis = 1, inplace=True)
             df_final.to_csv(folder_path + "rolling_mean.csv", index=False)
 
 def write_csv(all_moyen):
@@ -206,7 +210,7 @@ def more_pieces():
     elif (len(sys.argv) == 2): # sans argument, plot tous
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
-        graph.set(xlim=(0,0.45), ylim = (0,0.45))
+        graph.set(xlim=(-0.2,0.6), ylim = (-0.2,0.6))
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]

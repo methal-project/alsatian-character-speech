@@ -1,20 +1,20 @@
-import os, re, csv, json, sys, string
+import os, re #, csv, json, sys, string
 import numpy as np
 import pandas as pd
-import spacy as sp
-from collections import defaultdict, Counter
+#import spacy as sp
+#from collections import defaultdict, Counter
 
-import gzip
+#import gzip
 
 from tqdm import tqdm
 
-import pickle as pkl
+#import pickle as pkl
 from argparse import ArgumentParser
 import logging
 import alsatian_tokeniser as als_t
 
 tqdm.pandas()
-nlp_fr = sp.load("fr_core_news_sm")
+#nlp_fr = sp.load("fr_core_news_sm")
 
 parser = ArgumentParser()
 parser.add_argument('--dataPath', help='path to CSV data file with texts')
@@ -43,7 +43,7 @@ def get_alpha(token):
     return token.isalpha()
 
 
-def get_vals(twt, lexdf):
+def get_vals(twt, lexdf, idf_coeff):
     ret = als_t.RegExpTokeniser()
     phrase = (ret.tokenise(twt.lower())).get_contents()
     tt = re.split("[,|.| |?|!|\n|\"|…|;|:]", phrase)
@@ -51,8 +51,12 @@ def get_vals(twt, lexdf):
     #tt = twt.lower().split(" ") # maybe use spacy to tokenize here
     at = [w for w in tt if w != ""] # compter num de tokens
 
-    pw = [x for x in tt if x in lexdf.index]
-    pv = [lexdf.loc[w]['val'] for w in pw]
+    pw = [x for x in tt if x in lexdf.index] # contient tous les mots parcourus
+    pv_ori = [lexdf.loc[w]['val'] for w in pw]
+    pv = [lexdf.loc[w]['val']*idf_coeff[w]*10 for w in pw if w in idf_coeff] # contient coeffs de chaque mots
+    #print(pv_ori)
+    #print(pv)
+
 
     numTokens = len(at)
     numLexTokens = len(pw)
@@ -62,10 +66,11 @@ def get_vals(twt, lexdf):
     return [numTokens, numLexTokens, avgLexVal]
 
 
-def process_df(df, lexdf):
+def process_df(df, lexdf, idf_coeff):
     logging.info("Number of rows: " + str(len(df)))
 
-    resrows = [get_vals(x, lexdf) for x in df['text']] # tokenisation
+    
+    resrows = [get_vals(x, lexdf, idf_coeff) for x in df['text']] # tokenisation
     resrows = [x + y for x,y in zip(df.values.tolist(), resrows)]
 
     resdf = pd.DataFrame(resrows, columns=df.columns.tolist() + ['numTokens', 'numLexTokens', 'avgLexVal'])
@@ -86,11 +91,15 @@ def main(dataPath, LEXICON, LEXNAMES, savePath):
     
     df = pd.read_csv(dataPath)
 
+    idf_df = pd.read_csv("idf_info.csv", index_col=0, encoding="utf-8")
+    idf_coeff = idf_df.loc[savePath+".txt"][:]
+    #print(idf_coeff.loc['uff'])
+
     for LEXNAME in LEXNAMES:
 
         lexdf = prep_dim_lexicon(LEXICON, LEXNAME)
         logging.info(LEXNAME + " lexicon length: " + str(len(lexdf)))
-        resdf = process_df(df, lexdf)
+        resdf = process_df(df, lexdf, idf_coeff)
     
         resdf.to_csv(os.path.join(savePath, LEXNAME+'.csv'), index=False)
 

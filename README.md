@@ -53,9 +53,11 @@ Chaque dossier contient les ressources suivantes :
 	- *main.py*: réaliser les analyses avec les fonctions dans outils.py et statistiques.py
 - **pieces_more_info**
 	- script: 
-	Script pour analyser les fichiers de théâtre en XML, et sortir des fichiers en CSV avec des informations supplémentaires de personnages, type de théâtre etc.
+		Script pour analyser les fichiers de théâtre en XML, et sortir des fichiers en CSV avec des informations supplémentaires de personnages, type de théâtre etc.
+	- tei, tei2, tei-lustig:
+		Pièces de théâtre en xml sans aucun traitement
 	- treated_files:
-		Contien les fichiers CSV traités avec des informations supplémentaires
+		Contien les fichiers CSV (pièces de théâtre en format .csv) traités avec des informations supplémentaires
 
 - **summary_stage**
 	Chaque semaine un fichier md pour conclure ce que j'ai fait 

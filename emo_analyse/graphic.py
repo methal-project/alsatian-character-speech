@@ -98,7 +98,11 @@ def plot_only_one_piece(file_path, emotion_list, filters):
     emotion_label = emotion_list[0]
 
     if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
-        graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue)
+        if ("speaker" not in filters):
+            graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue)
+        else:
+            df = df.groupby(['speaker']).mean()
+            graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = "speaker")
         graph.set_ylim(0,1)
         graph.set_xlim(0,1)
         graph.set_xlabel(emotion_list[0])
@@ -206,7 +210,7 @@ def more_pieces():
     elif (len(sys.argv) == 2): # sans argument, plot tous
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
-        graph.set(xlim=(0,0.45), ylim = (0,0.45))
+        graph.set(xlim=(0,0.45), ylim = (0,0.45)) # configurer les limites d'axes
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]

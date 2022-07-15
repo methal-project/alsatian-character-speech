@@ -73,3 +73,5 @@ Chaque dossier contient les ressources suivantes :
 		- En attendant, le dossier [autres/md](./autres/md) contient un export récent du classeur
 	- La colonne `shortName` de l'onglet `pieces` correspond aux noms de fichiers utilisés dans les différents dossiers de ce dépôt. Pour les documents où l'ID de la pièce n'est pas mentionné (c.à.d. les HTML et les tei-lustig), cette colonne devrait servir à obtenir les métadonnées pour le document en croisant avec le nom du fichier. Autrement, avec l'ID de la pièce on peut croiser avec la colonne `id` de l'onglet `pieces`
 	- C'est à partir de ce classeur que la BD Django est générée. Des scripts créent des "fixtures" pour import dans la BD
+
+## Toturiel

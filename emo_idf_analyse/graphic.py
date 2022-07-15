@@ -2,7 +2,7 @@ from numpy import NaN
 import seaborn as sb
 import pandas as pd
 import matplotlib.pyplot as plt
-import sys, os
+import sys, os, glob
 import csv
 from scipy.stats import percentileofscore
 
@@ -17,7 +17,7 @@ def get_percentage():
     all_moyen = []
     li_files = os.listdir(".")
     for name in li_files:
-        if (os.path.isdir(name) and "drizehne" not in name): # Si c'est un repertoire de piece de theatre
+        if (os.path.isdir(name) and "drizehne" not in name and "group_pieces" not in name): # Si c'est un repertoire de piece de theatre
             df = pd.read_csv(name+"/rolling_mean.csv")
             drama_type = pd.read_csv(name+"/joy.csv")["drama_type"].values[0]
             sum = 0
@@ -53,7 +53,7 @@ def add_rolling_mean():
     li_files = os.listdir(".") # nom des repetoires
     df_final = pd.DataFrame()
     for name in li_files:
-        if os.path.isdir(name): # Si c'est un repertoire de piece de theatre
+        if os.path.isdir(name) and name != "group_pieces": # Si c'est un repertoire de piece de theatre
             folder_path = name + "/"
             csv_files = os.listdir(folder_path)
             if ("all_emo.csv" in csv_files):
@@ -94,33 +94,36 @@ def group_info():
 
 # ------------------------------------------- make plots -----------------------------------------------
 
-def plot_only_one_piece(file_path, emotion_list, filters):
-    
-    df = pd.read_csv(file_path, index_col = False)
-    if (filters != []): # faire filtres
-        my_hue = df[filters].apply(tuple, axis=1)
-    emotion_label = emotion_list[0]
+def plot_only_one_piece(file_paths, emotion_list, filters):
+    fig, axes = plt.subplots(1, len(file_paths))
+    figure_num = 0
+    for file_path in file_paths:
+        df = pd.read_csv(file_path, index_col = False)
+        if (filters != []): # faire filtres
+            my_hue = df[filters].apply(tuple, axis=1)
+        emotion_label = emotion_list[0]
 
-    if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
-        if ("speaker" not in filters):
-            graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue)
-        else:
-            df = df.groupby(['speaker']).mean()
-            graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = "speaker")
-        graph.set_ylim(0,1)
-        graph.set_xlim(0,1)
-        graph.set_xlabel(emotion_list[0])
-        graph.set_ylabel(emotion_list[1])
-        plt.show()
-    elif (len(emotion_list)>1): # Si y'a que deux emotions:
-        for i in range(len(emotion_list)):
-            graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
-    else: # s'il n'y a pas de filtres:
-        graph = sb.lineplot(y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
-    graph.set_ylim(0,1)
-
-    graph.set_xlabel("progress of drama")
-    graph.set_ylabel("emotion level")
+        if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
+            if (len(filters) == 1): # s'il y a qu'une filtre
+                df = df.groupby([filters[0]]).mean()
+                graph = sb.scatterplot(ax = axes[figure_num], y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = filters[0], label = file_path[:-17])
+                figure_num += 1
+            else:
+                graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue, label = file_path[:-17])
+            graph.set_ylim(0,1)
+            graph.set_xlim(0,1)
+            graph.set_xlabel(emotion_list[0])
+            graph.set_ylabel(emotion_list[1])
+            #plt.show()
+        elif (len(emotion_list)>1): # Si y'a que deux emotions:
+            for i in range(len(emotion_list)):
+                graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
+        else: # s'il n'y a pas de filtres, alors lineplot:
+            graph = sb.lineplot(y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
+            graph.set_ylim(0,1)
+            graph.set_xlabel("progress of drama")
+            graph.set_ylabel("emotion level")
+            plt.show()
     plt.show()
 
 def plot_mv_avg(filename, emotion_list, filters):
@@ -146,24 +149,39 @@ def plot_mv_avg(filename, emotion_list, filters):
 def single_piece(mv_average):
     arg_len = len(sys.argv)
     filters = []
-    if (arg_len == 4): # si on verifie emotions seulement
-        folder = sys.argv[2]
-        emotion_list = sys.argv[3].split(",") # it's a list
-        
-    elif(arg_len == 5): # si on verifie emotions + filters (nom des colonnes des fichiers csv)
-        folder = sys.argv[2]
-        emotion_list = sys.argv[3].split(",")
+    pieces = []
+    filepath = []
+
+    # l'argument 2 peut etre un repetoire ou pieces separe par ","
+    folder = sys.argv[2]
+    if ("," in folder):
+        # Si c'est pieces separ par ",", alors:
+        pieces = folder.split(",")
+        # sinon, folder contient le nom du repetoire
+    emotion_list = sys.argv[3].split(",")    
+
+    if(arg_len == 5): # si on verifie emotions + filters (nom des colonnes des fichiers csv)
         filters = sys.argv[4].split(",")
         # print(emotion_list, filters)
-    else:
+    if (arg_len != 5 and arg_len != 4):
         print("Input error\n")
         sys.exit(0)
     if (mv_average == False): # pour verifier s'il faut utiliser moving average
-        filepath = folder + "/" + "rolling_mean.csv"
+        if (pieces != []): # Si les pieces sont separe par ","
+            for piece_name in pieces:
+                filepath.append(piece_name + "/" + "rolling_mean.csv")
+        elif ("group_pieces" in folder): # si les pieces sont dans le repetoire "group_pieces"
+            filepath = glob.glob(f"{'group_pieces/'}/*/rolling_mean.csv")
+            print(filepath)
+        else:
+            filepath.append(folder + "/" + "rolling_mean.csv")
         plot_only_one_piece(filepath, emotion_list, filters)
+    
+    '''
     else:
         filepath = folder + "/" + "all_emo.csv" # nom du fichier fait par R
         plot_mv_avg(filepath, emotion_list, filters)
+    '''
 
 def more_pieces():
     query = ""
@@ -211,6 +229,16 @@ def more_pieces():
             graph.set_ylim(0,1)
             graph.set_title(shortName)
             plt.show()
+        else: # Sinon, soit c'est un nom de repetoire, soit noms des piesces separe par ","
+            if ("," in handle):
+                list_pieces = handle.split(",")
+                df = df[df["shortName"].isin(list_pieces)]
+                emotion = sys.argv[3]
+                emotion = emotion.split(",")
+                graph = sb.scatterplot(data = df, x = emotion[0], y = emotion[1], hue="shortName")
+                graph.set_ylim(0,1)
+                graph.set_xlim(0,1)
+                plt.show()
     elif (len(sys.argv) == 2): # sans argument, plot tous
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
@@ -220,7 +248,7 @@ def more_pieces():
         drama_type = sys.argv[2]
         query = "drama_type == '" + drama_type + "'"
         df = df.query(query)
-        graph = sb.scatterplot(data = df)
+        graph = sb.scatterplot(data = df, hue="shortName")
         graph.set_ylim(0,1)
         graph.set_ylabel("emotion_coeffs")
         graph.set_title(drama_type)

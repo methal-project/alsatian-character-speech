@@ -7,25 +7,10 @@ corpus-methal-all
 ## Contenu
 
 Chaque dossier contient les ressources suivantes :
-- **pieces**
-	- **html** : Pièces pour lesquelles l'OCR a été corrigé à la main par une personne, mais pour lesquelles aucun document TEI n'a été publié (des fichiers TEI existent, dans le dossier *tei2* décrit ci-dessous, mais ils n'ont pas encore été publiés)
-	- **tei** : les pièces encodées en TEI qui ont été publiées sur [GitLab](https://git.unistra.fr/methal/methal-sources) Unistra et sur [Nakala](https://nakala.fr/collection/10.34847/nkl.feb4r8j9). La source première est une numérisation en mode image de ressources sur [Numistral](https://www.numistral.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=false&collapsing=true&version=1.2&query=(colnum%20adj%20%22BNUStr058%22)&suggest=10&keywords=), pour lesquelles nous avons effectué l'OCR, sa correction et l'encodage TEI
-	- **tei-lustig** : pièces en TEI dont la source est des documents sur [Wikisource](https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2), en format wiki-markup. Il s'agit des œuvres complètes d'August Lustig. Elles ont été transformées en TEI par script lors d'un stage en 2021
-	- **tei2** : pièces en TEI pas encore publiées par le projet. Utilisables sachant que :
-	  - Il y a eu moins de validation que pour les pièces publiées
-	  - Il y aura donc plus d'erreurs que dans ces dernières
-	  - Il manque de gérer les traits d'union en fin de ligne (donne un pourcentage de mots mal découpés)
-- **autres**
-	- **db** : Base de données sqlite pour Django, pour l'application sur https://methal.eu/ui/ Pas certain si ça peut être utile pour ce projet
-	- **md** : Export du classeur en ligne qui contient les métadonnées
-	- **personography** : personographie en TEI pour les pièces du corpus pour lesquelles les personnages ont été transcrits. Pas certain si utile pour le projet
 
-- **code**
-	- Code d'analyse du corps par @hyang1 ainsi que des résultats d'analyse et corpus reformaté par lui (p. ex. des dataframes avec le contenu du corpus et avec les métadonnées déjà intégrées)
-	- Contenu de ce dossier et sous-dossiers sont encore à documenter
 - **emo_analyse**
 	- Résultats des analyses d'émotions pour chaque pièce de théâtre.
-	- *avgEmoValues.py*, script ecrit par [EmotionDynamics](https://github.com/Priya22/EmotionDynamics/tree/master/code), pour calculer les coefficients des emotions selon un lexicon
+	- *avgEmoValues.py*, script ecrit par [EmotionDynamics](https://github.com/Priya22/EmotionDynamics/tree/master/code), pour calculer les coefficients des émotions selon un lexicon
 	- *graphic.py*, script pour réaliser des analyses sur les émotions et visualiser les résultats pour les pièces théâtres
 - **emo_idf_analyse**
 	- Même chose avec emo_analyse mais avec coefficient idf
@@ -64,14 +49,72 @@ Chaque dossier contient les ressources suivantes :
 - **command_list.txt**
 	liste des commandes pour convertir les fichiers xml aux fichiers csv avec les informations supplémentaires
 - **command_list_ed_analyse.txt**
-	liste des commandes pour calculer les coefficients des emotions pour chaque pièce de théâtre
+	liste des commandes pour calculer les coefficients des émotions pour chaque pièce de théâtre
 
-## Métadonnées pour les pièces
+## Tutoriel
 
-- Ce [classeur](https://docs.google.com/spreadsheets/d/1_xUK1uP209UCjJ9agqr_Zik65u08A8rOAVo53PTtj8Y/edit#gid=731925022) google docs contient les infos originales
-	- Si pas accès, svp demander l'ajout avec son adresse gmail à pruizf
-		- En attendant, le dossier [autres/md](./autres/md) contient un export récent du classeur
-	- La colonne `shortName` de l'onglet `pieces` correspond aux noms de fichiers utilisés dans les différents dossiers de ce dépôt. Pour les documents où l'ID de la pièce n'est pas mentionné (c.à.d. les HTML et les tei-lustig), cette colonne devrait servir à obtenir les métadonnées pour le document en croisant avec le nom du fichier. Autrement, avec l'ID de la pièce on peut croiser avec la colonne `id` de l'onglet `pieces`
-	- C'est à partir de ce classeur que la BD Django est générée. Des scripts créent des "fixtures" pour import dans la BD
+#### Visualisation pour les émotions
 
-## Toturiel
+Dans repetoire "emo_analyse" et "emo_idf_analyse", il y a un fichier *graphic.py*, qui gère les résultats d'analyse des pièces de théâtre.
+
+*demonstration:*
+
+``` shell
+python3 graphic.py arg1 arg2 arg3 arg4
+```
+**arg1**: 
+Les valeurs possible: single / group / most_positive / most_negative
+	**single**: 
+	analyser des pièces détaillées. Dans ce mode, **arg2** c'est nom de pièce. S'il y a plusieurs pièces à analyser, il faut séparer les noms par ",". **arg3** c'est émotions, séparé par "," aussi. **arg4** c'est filtre(noms des cotonnes dans fichiers csv). il est possible d'analyser
+	1. la progression des émotions dans plusieurs pièces
+	*exemple*
+	```
+	python3 graphic.py single weber-yo-yo,greber-lucie joy,sadness
+	```
+	![emo_progress](graphics/demonstration/emo_progress.png)
+	2. Les émotions des personnages, genres, travails, classe-sociale etc.
+	*exemple*
+	```
+	python3 graphic.py single weber-yo-yo,greber-lucie joy,sadness speaker
+	```
+	![with-filters](graphics/demonstration/with-filters.png)
+**group**: analyses des pièces au niveau macro. **arg2** peut être soit noms des pièces de théâtre séparé par ",", (dans cette situation, il analyse des émotions que pour les pièces indiqués) soit "--émotion", soit "--shortName".
+**arg3** sera des émotions séparés par "," si arg2 est "--émotion" ou noms des pièces, sinon, arg3 sera nom de la pièce. **arg4** est type de drama (comedy, drama, tale, horror), et cet argument n'est pas obligatoire pour réaliser un plot.
+*exemple*
+1. analyser des émotions pour les pièces indiquées:
+```
+python3 graphic.py group weber-yo-yo,greber-lucie,am-letzte-maskebal,arnold-der-pfingstmontag joy,sadness
+```
+![pieces_indicated_group_plot](graphics/demonstration/pieces_indicated_group_plot.png)
+2. analyser des émotions pour toutes les pièces:
+```
+python3 graphic.py group --émotion joy,sadness
+```
+![joy_sadness_percentage](graphics/demonstration/joy_sadness_percentage.png)
+3. analyser des émotions pour toutes les pièces dans un même type:
+```
+python3 graphic.py group --émotion joy,sadness comedy
+```
+![comedy](graphics/demonstration/comedy.png)
+4. pairplot pour obtenir toutes les informations sur toutes les émotions
+```
+python3 graphic.py group
+```
+![pairplot_same_scale](graphics/demonstration/pairplot_same_scale.png)
+5. barplot pour obtenir toutes les informations des émotions sur une seule pièce
+```
+python3 graphic.py group --shortName am-letzte-maskebal
+```
+![barplot](graphics/demonstration/barplot.png)
+**most_positive**
+trouver la pièce la plus positive et afficher les émotions dans cette pièce par barplot
+```
+python3 graphic.py most_positive
+```
+![most_positive](graphics/demonstration/most_positive.png)
+**most_negative**
+trouver la pièce la plus negative et afficher les émotions dans cette pièce par barplot
+```
+python3 graphic.py most_negative
+```
+![most_negative](graphics/demonstration/most_negative.png)

@@ -144,6 +144,7 @@ def add_person_info(root, piece_id):
                     s_class = social_class.attrib["value"]
                     dic[persname][2] = s_class
                 flag = False
+    #print(dic)
     return dic
 
 def merge_dic(dic, dic_person):
@@ -151,6 +152,7 @@ def merge_dic(dic, dic_person):
         for key_p in dic_person.keys():
             key1 = key.split(" ")
             realname = dic_person[key_p]["name"].split(" ")
+            
             # en bas sont des processus pour ajouter les infos supplementaires
             if (len(key1) > 1 and len(realname) > 1):
                 if (key1[0] in realname[0] and key1[1] in realname[1]):
@@ -162,10 +164,11 @@ def merge_dic(dic, dic_person):
                     dic_person[key_p]["job"] = dic[key][0]
                     dic_person[key_p]["job_category"] = dic[key][1]
                     dic_person[key_p]["social_class"] = dic[key][2]
-                else:
+                '''else:
                     dic_person[key_p]["job"] = ""
                     dic_person[key_p]["job_category"] = ""
-                    dic_person[key_p]["social_class"] = ""
+                    dic_person[key_p]["social_class"] = ""'''
+    #print(dic_person)
     return dic_person
 
 def get_speaker_text(root, dic_person):

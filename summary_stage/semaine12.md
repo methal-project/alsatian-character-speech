@@ -26,3 +26,18 @@ python3 graphic.py group
 ```shell
 python3 graphic.py single arnold-der-pfingstmontag sadness,joy speaker
 ```
+
+#### raison pour manque de job-category:
+
+Dans emo_xml_treat.py, y'a une faute de logique
+```python
+if (key in dic_person[key_p]["name"]):
+                    dic_person[key_p]["job"] = dic[key][0]
+                    dic_person[key_p]["job_category"] = dic[key][1]
+                    dic_person[key_p]["social_class"] = dic[key][2]
+                '''else:
+                    dic_person[key_p]["job"] = ""
+                    dic_person[key_p]["job_category"] = ""
+                    dic_person[key_p]["social_class"] = ""'''
+```
+, avec le else, il va eraser les infos deja entree...

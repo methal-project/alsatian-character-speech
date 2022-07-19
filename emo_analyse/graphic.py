@@ -292,8 +292,8 @@ def most_positive(pos):
 
 
 if __name__ == "__main__":
-    add_rolling_mean()
-    group_info()
+    #add_rolling_mean()
+    #group_info()
 
     if (sys.argv[1] == "single"):
         single_piece(mv_average = False)

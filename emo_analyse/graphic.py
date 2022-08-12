@@ -292,7 +292,7 @@ def most_positive(pos):
 
 
 if __name__ == "__main__":
-    #add_rolling_mean()
+    add_rolling_mean()
     #group_info()
 
     if (sys.argv[1] == "single"):

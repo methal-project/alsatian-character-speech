@@ -95,7 +95,10 @@ def group_info():
 # ------------------------------------------- make plots -----------------------------------------------
 
 def plot_only_one_piece(file_paths, emotion_list, filters):
-    fig, axes = plt.subplots(1, len(file_paths))
+    subplot_flag = False
+    if len(file_paths) > 1:
+        fig, axes = plt.subplots(1,len(file_paths))
+        subplot_flag = True # pour verifier si on a besoins de subplot
     figure_num = 0
     for file_path in file_paths:
         df = pd.read_csv(file_path, index_col = False)
@@ -106,25 +109,41 @@ def plot_only_one_piece(file_paths, emotion_list, filters):
         if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
             if (len(filters) == 1): # s'il y a qu'une filtre
                 df = df.groupby([filters[0]]).mean()
-                graph = sb.scatterplot(ax = axes[figure_num], y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = filters[0], label = file_path[:-17])
-                figure_num += 1
+                if (subplot_flag):
+                    graph = sb.scatterplot(ax = axes[figure_num], y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = filters[0], label = file_path[:-17])
+                else:
+                    graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = filters[0], label = file_path[:-17])
             else:
-                graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue, label = file_path[:-17])
+                if (subplot_flag):
+                    graph = sb.scatterplot(ax = axes[figure_num], y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue, label = file_path[:-17])
+                else:
+                    graph = sb.scatterplot(y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = my_hue, label = file_path[:-17])                   
             graph.set_ylim(0,1)
             graph.set_xlim(0,1)
             graph.set_xlabel(emotion_list[0])
             graph.set_ylabel(emotion_list[1])
             #plt.show()
+            # Save img --------------------------------
+            pair_img = graph.get_figure()
+            pair_img.savefig("figure.png")
+            # --------------------------------------------
         elif (len(emotion_list)>1): # Si y'a que deux emotions:
             for i in range(len(emotion_list)):
-                graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
-        else: # s'il n'y a pas de filtres, alors lineplot:
-            graph = sb.lineplot(y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = emotion_label, err_style = None)
+                if (subplot_flag):
+                    graph = sb.lineplot(ax = axes[figure_num], y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
+                else:
+                    graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
+        else: # s'il n'y a pas de filtres, et qu'une emotion, alors lineplot:
+            if(subplot_flag):
+                graph = sb.lineplot(ax = axes[figure_num], y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = file_path[:-17], err_style = None)
+            else:
+                graph = sb.lineplot(y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = file_path[:-17], err_style = None)
             graph.set_ylim(0,1)
             graph.set_xlabel("progress of drama")
             graph.set_ylabel("emotion level")
-            plt.show()
+        figure_num += 1
     plt.show()
+
 
 def plot_mv_avg(filename, emotion_list, filters):
     # filename est le fichier csv fait par R
@@ -243,6 +262,7 @@ def more_pieces():
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
         graph.set(xlim=(-0.2,0.6), ylim = (-0.2,0.6)) # configurer les limites d'axes
+        
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]

@@ -56,7 +56,13 @@ def get_vals(twt, lexdf, idf_df):
     pw = [x for x in tt if x in lexdf.index] # contient tous les mots parcourus
     #pv_ori = [lexdf.loc[w]['val'] for w in pw]
     pv = []
-    dict_tourne_mots = {} # pour preciser tf-idf des mots de chaque tourne de parole
+    for w in pw:
+        if w in idf_df.index:
+            pv.append(lexdf.loc[w]['val']*idf_df.loc[w,"idf"]*10)
+        else:
+            pv.append(0)
+
+    '''dict_tourne_mots = {} # pour preciser tf-idf des mots de chaque tourne de parole
     for w in pw:
         if w in idf_df.columns:
             if w not in dict_tourne_mots.keys():
@@ -75,7 +81,7 @@ def get_vals(twt, lexdf, idf_df):
             else:
                 pv.append( lexdf.loc[w]['val'] * idf_w[dict_tourne_mots[w]] * 10)
         else: # Si tf-idf non trouve, on utilise la valeur original
-            pv.append(lexdf.loc[w]['val'])
+            pv.append(lexdf.loc[w]['val'])'''
     #pv = [lexdf.loc[w]['val'] for w in pw]
     #pv = [lexdf.loc[w]['val']*idf_df[w].max()*10 for w in pw if w in idf_df] # contient coeffs de chaque mots
     #print(pv_ori)

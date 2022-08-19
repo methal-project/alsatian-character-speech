@@ -262,7 +262,7 @@ def more_pieces():
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
         graph.set(xlim=(-0.2,0.6), ylim = (-0.2,0.6)) # configurer les limites d'axes
-        
+        plt.savefig("pp.png")
         plt.show()
     elif(len(sys.argv) == 3): # tous les theatres dans une meme categorie
         drama_type = sys.argv[2]

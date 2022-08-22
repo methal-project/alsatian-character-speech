@@ -1,0 +1,973 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+(hett e Zyttung in d'r Hand unn geht uffgerejt uff  unn ab)
+
+          
+Nein, diss iwerläw ich nitt ! Myn ganz Vermeje haw ich verlore! E ganzi Million isch füddi, wo ich in Aktie vun d'r « Australisch Auschterebank » g’steckt habb, unn jetzt isch diss ganz Unternemme iwer Nacht verkracht ! Do steht’s im Blättel !
+
+        
+",1,jost-e-dienschtbott-wurd-gsuecht,65,9,0.1384615384615384,,,,,,,,,,,
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Unn do bisch numme dü dran schuld, Jean !
+
+        
+",2,jost-e-dienschtbott-wurd-gsuecht,12,1,0.0833333333333333,,,,,,,,,,,
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Na ja, Patron, ich will jo gern zuegänn, ass ich denne Morje Ihri Café-Schissel verhejt habb, awer ...
+
+        
+",2,jost-e-dienschtbott-wurd-gsuecht,24,4,0.1666666666666666,,,,,,,,,,,
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ach was, die mein ich nitt! Vun mir üss hättsch d'ganz G’schirrabteilung vum « Magmod » kapütt dengle kenne! Ich mein d’« Australisch Auschterebank»!
+
+        
+",3,jost-e-dienschtbott-wurd-gsuecht,33,4,0.1212121212121212,,,,,,,,,,,
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Ah! Isch s’e üss’m Lym gange? Unn ich soll schuld sinn ? Ich habb mich nitt druff g’setzt, Monsieur Meyer !
+
+        
+",4,jost-e-dienschtbott-wurd-gsuecht,28,1,0.0357142857142857,0.0011479793051562,0.6056609639588053,2.539137974002868,0.0,4.20597892018931,0.0013650216377604,1.196544931699118,0.0015704310891466,0.4399621773985897,2.229819140766635,3.6039941682439696
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Babbel kein Mischt, Jean! Ass s'e schiewes isch gange, isch nitt dyni Schuld, awer ass ich myn ganz Geld nyng’steckt habb !
+
+        
+",5,jost-e-dienschtbott-wurd-gsuecht,29,4,0.1379310344827586,1.448484366850803,0.0027978071478003,2.5626912234883834,2.034056838578699,2.5269726340800918,0.0013650216377604,0.0172478311814776,0.0015704310891466,0.0015997905100999,1.2637701071779075,1.576162988743441
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Jetzt wurd’s Daa! Ja, Patron, saawe emool: Sinn Sie d'r Herr odder ich? Kenne Sie nitt mache, was Sie welle ?
+
+        
+",6,jost-e-dienschtbott-wurd-gsuecht,30,3,0.1,1.6282348827695057,0.0027978071478003,4.773914618120278,2.4787028516407537,6.410838263093856,0.3348495314343012,0.019307933975471,0.0015704310891466,0.0015997905100999,2.9427807588451427,4.554289858666877
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Doch, awer wo ich dich angaschiert habb, hesch dü mir versichert, ass dü dich uff alles verstehsch.
+
+        
+",7,jost-e-dienschtbott-wurd-gsuecht,23,2,0.0869565217391304,1.6282348827695057,0.0,6.066528322867659,2.4787028516407537,7.930137239761903,0.3348495314343012,2.777093399542883,0.0015704310891466,0.0,1.6825384344520138,6.953538580425937
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Sell isch wohr, wenn sich's um ’s Koche, Butze, Nähje unn so wyddersch handelt : ass ich awer au noch Ihre Finanzrat soll sinn, diss isch nitt im Kontrakt vor- g’sähn !
+
+          
+        
+		
+",8,jost-e-dienschtbott-wurd-gsuecht,40,3,0.075,1.6270869034643494,0.0,6.058582784043887,2.4787028516407537,7.9193678958825,0.3334845097965407,2.771239934392642,0.0,0.0,1.6825384344520138,6.941190875209648
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Egal, dü hesch mir awer geroote, ass ich’s riskiere kennt, myn Vermeje in dem Unternemme anzeleije.
+
+        
+",9,jost-e-dienschtbott-wurd-gsuecht,23,3,0.1304347826086956,1.6270869034643494,1.8085894704330148,8.015877962319909,2.4787028516407537,10.216092118953576,0.3334845097965407,4.467382203851689,0.0,1.3150871606654695,2.738467957585923,9.345121130470009
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Unn ich dhät’s noch emool mache, Monsieur Meyer ! Ich bin in dem Dings guet renseigniert ..... myner bescht Frind hett jo e Liebschti, wo d’Schweschter vun d'r Butzfrau vum Gouverneur vun d'r Banque de France isch ! Non, non, ich loss mir ’s nitt üssredde ..... die Ba- bierle sinn so sicher wie Zuchthüssmüre !
+
+        
+",10,jost-e-dienschtbott-wurd-gsuecht,65,7,0.1076923076923077,0.180305519788339,1.8111144992687496,6.40105540392278,0.4451811215065905,9.506539163883076,0.334391181310319,4.463151427896859,0.0009064369353508,1.315616390692847,2.7400946737946947,8.996476413178721
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Ich habb jo ’s Konträr devun schwarz uff wyss ! Füddi isch füddi! Unn fur ass ich an die unglieckselig Affär gar nimm ze denke brüch, ze will ich mir die Aktie-Babierer do üss de Aue schaffe ! 
+(Er langt e En- veloppe üss'm Sack, wo e paar Babierer drine sinn unn leijt s’e uff de Disch)
+: Wo sinn denn Schwäwehelzle ..... ich will s’e verbrenne! 
+(Er suecht im Zimmer nooch 's Schwäwehelzle)
+. JEAN 
+(nemmt g’schwind, unn ohne ass ’s d'r Meyer sieht, d'Babierer üss d'r Enveloppe, steckt s’e yn unn ersetzt s'e durich e Stick Zyttung, wo uff'm Disch lejt ; fur sich)
+: Ich glaub als noch nitt an denne Bankkrach unn waje dem will ich die Babierle do in Sicherheit bringe ..... nutzt’s nix, ze schad’s nix !
+
+        
+",11,jost-e-dienschtbott-wurd-gsuecht,160,7,0.04375,0.0005550038696361,2.330174801360407,6.638051742604143,0.0005351084445361,9.50610673343377,0.0009066715137782,6.829656782058644,0.0009064369353508,1.315616390692847,1.8321502045071971,10.055384967528427
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ah, do sinn jo Schwäwes! 
+(Er zind eins an unn verbrennt d’Enveloppe)
+ : Diss isch, ma foi, e dyer’s Fyer- werik, wo mich e bari Million koschte dhuet! Ich Ar- mer !
+
+        
+",12,jost-e-dienschtbott-wurd-gsuecht,46,1,0.0217391304347826,5.152464844751286,5.738629535344714,10.185616577924549,4.939991975270131,9.273750262033344,6.39938691382703,4.066330415610236,5.836164913451496,1.315616390692847,1.828622421722418,7.63047581644945
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Wenn diss numme kein Dummheit isch, Patron!
+
+        
+",13,jost-e-dienschtbott-wurd-gsuecht,11,2,0.1818181818181818,5.152464844751286,5.738629535344714,12.050724469308596,4.939991975270131,12.871630229891707,6.39938691382703,4.066330415610236,5.836164913451496,1.315616390692847,4.347138399223271,10.041468944336144
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Was, Dummheit ? Was erlaubsch dü dir iwerhaupt, mich dumm zu heisse! Dü kummseh mir iwerhaupt in letschter Zytt allewyll so frech !
+
+        
+",13,jost-e-dienschtbott-wurd-gsuecht,28,4,0.1428571428571428,5.152464844751286,3.9300400649117,10.093429291032574,4.939991975270131,10.57490600682063,6.39938691382703,2.3701881461511896,5.836164913451496,0.0005292300273775,3.291208876089361,7.637538689075785
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Uff jede Fall, ich hätt’s nitt gemacht.
+
+        
+",14,jost-e-dienschtbott-wurd-gsuecht,12,3,0.25,5.1519098408816495,3.927515036075964,11.575800132606137,4.939456866825596,12.78491713001857,6.398480242313251,4.21078303458805,5.835258476516144,0.0,3.289582159880589,10.039699318222848
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ich will einfach nimmi an denne Fehlschlaa ge- mahnt wäre, unn waje dem kannsch au dü sofort dyne Ranze packe unn dich um e neje Platz umsähn, denn wenn ich nitt uff dich g’horicht hätt, ze wär ich hytt nitt am Bettelstab !
+
+        
+",15,jost-e-dienschtbott-wurd-gsuecht,49,2,0.0408163265306122,5.1519098408816495,3.408454733984307,11.355417561274136,4.939456866825596,12.220506642160885,6.398480242313251,4.605543944080679,5.835258476516144,0.0,2.518515977500852,9.609638346681267
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Oh, nitt numme waje dem ! Dü bisch mir in letsch- ter Zytt au viel ze viel iwer de Kopf gewachse! Dü hesch gemacht, was de witt, unn ich habb d’Roll vum e Dienschtbott kenne spiele.
+
+        
+",16,jost-e-dienschtbott-wurd-gsuecht,45,2,0.0444444444444444,0.0,0.0,5.578169828019475,0.0,9.12958448570298,0.0,4.605543944080679,0.0,0.0,2.518515977500852,8.422617215772627
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Wie wenn ich’s nitt allewyll guet mit Ihnne gemeint hätt ! E Fröj, ob Sie e bessere Noochfoljer fur mich be- kumme ? Sie sinn numme noch nitt im Rächte in d’Fin- ger g’falle !
+
+        
+",17,jost-e-dienschtbott-wurd-gsuecht,42,6,0.1428571428571428,0.0,0.9054308351269096,4.473076854868772,0.0,6.420516318864175,0.0,5.758182263841923,0.0,0.7493481005908236,0.9076373622886604,7.172503774167515
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Egal! Dü kannsch gehn ... ich habb schun e An- nonce in d’Zyttung gemacht unn wart alle Moment uff e nejer Dienschtbott.
+
+        
+",18,jost-e-dienschtbott-wurd-gsuecht,28,3,0.1071428571428571,0.0,0.9054308351269096,5.9583016295229445,0.0,8.633198126002023,0.0,7.600399841474196,0.0,0.7493481005908236,0.9076373622886604,9.57715340932189
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Na, ze will ich nitt noch lang by Ihnne anhalte, unn ich winsch, ass ’s Ihnne nie leid dhuet, mir de Laufbass gänn ze hann !
+
+        
+",19,jost-e-dienschtbott-wurd-gsuecht,32,4,0.125,0.0,0.9054308351269096,4.473076854868772,0.0,6.420516318864175,0.0,5.758182263841924,0.0,0.7493481005908236,0.9076373622886604,7.172503774167515
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Mir leid dhuen! Im Läwe nie! Unn jetzt ver- schwind ! 
+(Kehrt'm de Buckel anne.)
+
+        
+",20,jost-e-dienschtbott-wurd-gsuecht,24,4,0.1666666666666666,0.0,1.97640755817664,3.7418046953446384,0.0,4.786269703836434,0.0,3.9536143830814687,0.0009037735437252,0.7493481005908236,2.070893724591772,5.593560333519454
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(fur sich)
+
+          
+Halt, ich habb e gueti Idee, denn ich habb myne Herr viel ze lieb, als dass ich’ne so einfach uffgibb ! 
+(Rächts ab)
+.
+
+        
+",21,jost-e-dienschtbott-wurd-gsuecht,35,5,0.1428571428571428,0.8976354729757181,1.977854795786267,5.072988303123867,0.7566984928753864,6.3072456371801096,0.2000907058779245,3.955553816945229,0.0009037735437252,0.7493481005908236,2.070893724591772,6.959226991504816
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Gott sej Dank, ass’r furt isch ! Diss wär doch gelacht, wenn’s kein bessere Ersatz fur’ne sott gänn ! Denne will ich awer no dressiere ! Du reste, haw ich mir do e Photographie-Apperat angeschafft, fur myn däjlich’s Brot mit ze verdiene, denn nooch dem Millioneverluscht kann ich mir’s nimm leischte, mich uff d’füll Hütt ze leije. 
+(Er stellt de Apperat by d'r Dier rächts uff unn macht sich dran ze schaffe.)
+ Awer ich muess erscht noch e bis- sel lehre unn stüdiere, wie die Photographiererej funk- tioniert, unn wenn ich’s no kann, ze geh ich nüss uff’s Land unn photographier d’Büre unn ihre Vieh unn ihri Fraue.... do isch noch Geld mit ze verdiene ! 
+(’s klopft.)
+ Wer kummt denn jetzt ? Entrez!
+
+          
+
+        
+",22,jost-e-dienschtbott-wurd-gsuecht,153,14,0.0915032679738562,0.8976354729757181,1.4217188056217576,5.949766026703239,0.7573347033021728,8.012903191814539,0.2679289608912832,4.38051576802656,0.0013296218553414,0.0,2.0270540802171864,8.394590215652695
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL :
+
+          
+(e groteski Figür)
+
+          
+Wohnt do d'r Monsieur Meyer ?
+
+        
+",23,jost-e-dienschtbott-wurd-gsuecht,13,1,0.0769230769230769,0.8976354729757181,1.4217188056217576,4.472229571520485,0.7651125204732604,5.804911145954443,0.2679289608912832,2.538298190394288,0.0013296218553414,0.0,2.0270540802171864,5.992389346513024
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ja; der bin ich sälwer !
+
+        
+",23,jost-e-dienschtbott-wurd-gsuecht,9,1,0.1111111111111111,0.8976354729757181,1.4217188056217576,4.47766459456688,0.7651125204732604,5.808630579831956,0.2679289608912832,2.544478498776268,0.0013296218553414,0.0,2.0270540802171864,5.998603463891001
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL :
+
+          
+(fur sich )
+
+          
+Na, dem will ich’s stecke! Myner Frind, d’r Jean, hett mich g’schickt ! 
+(Lütt)
+: Ich kumm waje dere Annonce, wo in d'r Zyttung isch unn .....
+
+        
+",24,jost-e-dienschtbott-wurd-gsuecht,41,4,0.0975609756097561,0.8976354729757181,0.3507420825720275,4.332930646427862,0.7651125204732604,5.774632810279926,0.2679289608912832,1.5857200130883151,0.0004258483116161,0.0,2.025871592590166,5.474422768707777
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ah, guet! Awer ein Moment... ich habb grad myne Photographie-Apperat yng’stellt unn will gschwind e Prowe-Uffnahm mache, wyll d’Sunn im Mo- ment so ginschtig isch. Stelle Ejch do anne ! 
+(Er stellt de Emil e paar Schritt vor’m Apperat uff.)
+
+        
+",25,jost-e-dienschtbott-wurd-gsuecht,53,6,0.1132075471698113,0.0,0.3492948449623999,3.7443594259757194,0.008414027597874,5.359997780505175,0.0678382550133586,2.504889368040691,0.0004258483116161,0.0,2.025871592590166,5.311080928299603
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL:
+
+          
+Hoffetlich gitt’s kein Uffnahm fur ins Verbrecher- Album !
+
+        
+",26,jost-e-dienschtbott-wurd-gsuecht,13,1,0.0769230769230769,0.0,0.0,6.1481125515334725,0.0077778171710876,8.227768179319433,0.0,0.9272890971981164,0.0,0.0,6.76955516673776,9.316755238658905
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Unn jetzt lueje e bissel frindlich dryn !
+
+        
+",27,jost-e-dienschtbott-wurd-gsuecht,10,1,0.1,0.0,0.0,6.140424232062056,0.0,8.22307841804168,0.0,0.9272890971981164,0.0,0.0,6.76955516673776,9.3143064726442
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL :
+
+          
+Ich habb schun lang nix Guet’s meh g’hett mit Üss- nahm vum e saftige Styerzettel !
+
+        
+",27,jost-e-dienschtbott-wurd-gsuecht,20,3,0.15,0.0,0.0031261951661778,6.13887349990772,0.0,8.223157995535852,0.0,0.9257542977286104,0.0,0.0030802418304124,6.773286066393024,9.313983438921138
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Also ze denke emool an e zart’s, saftig’s Kalbs- schnitzel ! EMIL 
+(lacht e bissel)
+.
+
+        
+",28,jost-e-dienschtbott-wurd-gsuecht,24,3,0.125,0.0,0.0031261951661778,4.788354762840765,0.0021749956795756,6.5735105629751045,0.001881484151882,0.9257542977286104,0.0,0.0030802418304124,5.611212191716933,7.811988347012469
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+..... so gross, ass’s uff alle Sytte vum Deller erab- hängt... EMIL 
+(lächelt stärker)
+.
+
+        
+",29,jost-e-dienschtbott-wurd-gsuecht,23,4,0.1739130434782608,0.0018168215354125,0.0044625234051143,6.692152627187125,0.0033939511914992,8.661655935875492,0.0034268190126889,3.321825305892477,0.0019149216873066,0.004910145511745,5.612335437755606,10.667872678039869
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+..... unn e Platt voll pommes frites mit Salat ..... EMIL 
+(grinst unn’s Wasser lauft'm üss’m Müll uff de Bodde ; er butzt sich mit’m Nasduech ab.)
+
+        
+",30,jost-e-dienschtbott-wurd-gsuecht,36,3,0.0833333333333333,0.0018168215354125,0.0044625234051143,4.136831634470829,0.0033939511914992,5.412097988545099,0.0034268190126889,5.164042883524749,0.0019149216873066,0.004910145511745,0.0048541456939371,6.470605092405478
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL :
+
+          
+(strahlt)
+
+          
+Herr, here uff, odder ich lauf üss wie e voller Eimer, wo e Loch hett! Geje Sie isch jo d’Folter im Middelalter ’s reinscht G’sellschaftsspiel !
+
+        
+",31,jost-e-dienschtbott-wurd-gsuecht,36,5,0.1388888888888889,1.793393256523125,0.9683430914459848,7.382732578695737,1.9433327337411868,8.752509991348147,2.1919000803459947,6.269373430104112,1.5497818296942394,0.004910145511745,0.0048541456939371,8.967696110363573
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+So isch’s guet ..... blyewe so... ich will g’schwind scharf ynstelle ! 
+(Er stellt sich hinter de Apperat, nemmt’s schwarz Duech iwer de Kopf unn de Apperat unn gückt durich.)
+ So! Ja, ’s geht! 
+(Allewyll noch unter'm Duech)
+: Unn jetzt gücke in de Apperat nyn !
+
+		  
+
+		
+",32,jost-e-dienschtbott-wurd-gsuecht,62,5,0.0806451612903225,1.793393256523125,0.965216896279807,7.381786759116456,1.9433327337411868,8.750720551844244,2.1919000803459947,6.265963982868035,1.5497818296942394,0.0034171237118602,0.0011232460386735,8.96372230743037
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(werft vergelschtert ’s Duech furt)
+
+          
+Herrjeh, was isch denn diss fur e Riese-Ochse-Au in mym Apperat ? 
+(Sieht de Emil vorm Apperat.)
+ Ah, denne Wäj! Na, Ihr schynne mir d’Dummheit au mit’m Leffel gesse ze hann ! Also lonn m'r ’s sinn mit dere Uffnahm ..... ich habb Angscht, d’Platt kennt m'r verspringe, wenn ich’re zuemuete dhät, Ejeri iwerzwerich Visasch ze verewige ! Also zuer Sach..... Ihr hann also myni Annonce ge- läse ? 
+(Emil nickt.)
+ Wie stehts: Kenne Ihr koche ?
+
+        
+",33,jost-e-dienschtbott-wurd-gsuecht,105,6,0.0571428571428571,1.7955134981426577,0.969547998602039,8.056823119285653,1.9432019746104712,9.66181329743307,2.1934822885824508,6.265963982868035,1.5532446259393755,0.0054389033637531,0.9369541210855756,10.063898222134595
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Butze?
+
+        
+",34,jost-e-dienschtbott-wurd-gsuecht,4,1,0.25,1.7936966766072449,0.9682116703631024,5.410412867612205,1.9419830190985472,6.467327020963758,2.191936953721644,2.948784185888032,1.5513297042520693,0.0036089996824204,0.935830875046902,6.0056890735300135
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ja, was welle Ihr denn no eijetlich do ?
+
+        
+",34,jost-e-dienschtbott-wurd-gsuecht,12,1,0.0833333333333333,1.7936966766072449,0.9682116703631024,3.930623116004431,1.9419830190985472,4.258364647703422,2.191936953721644,1.11274691663774,1.5513297042520693,0.0036089996824204,0.935830875046902,3.607253555753618
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL:
+
+          
+Ei, ich habb Ihnne numme welle saawe, ass ich die Stell nitt annemme kann !
+
+        
+",34,jost-e-dienschtbott-wurd-gsuecht,19,2,0.1052631578947368,0.0021202416195324,0.0043311023222319,2.3680619293727405,0.0020442365488597,3.35386651497069,0.0034636923883383,0.0074163700583769,0.0034627962451365,0.0036089996824204,3.914121892291487,3.74911852003894
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Jetzt hett’s awer g’schellt ! Nein, so e Frechheit ! Nüss !, saaw ich, nix als wie nüss! Ihr hann mir grad noch g’fählt !
+
+        
+",35,jost-e-dienschtbott-wurd-gsuecht,32,1,0.03125,0.0021202416195324,0.0043311023222319,2.3651234580599625,0.0020442365488597,3.3518569431029093,0.0034636923883383,0.0061803083819809,0.0034627962451365,0.0020217796518928,3.914121892291488,3.747201239317228
+comedy,Emil,M,valet,elementary_professions,lower_class,"
+          
+EMIL :
+
+          
+(lacht)
+
+          
+So? No kenne Sie mich jo au angaschiere !
+
+        
+",36,jost-e-dienschtbott-wurd-gsuecht,15,1,0.0666666666666666,0.0,0.0,1.688774780639615,0.0,2.4396333039478284,0.0,0.0061803083819809,0.0,0.0,2.978291017244585,2.645170099621395
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Nix als wie verzirne kamm’r sich! Oh, ’s isch e Elend mit denne Dienschtbotte vun hyttzedaas ..... frech sinn s’e wie e Spatz unn s’e welle liewer meh Lohn 
+ unn defur e bissel wenjer Arweit! Na, ich will liewer noch e bissel photographiere, denn ich muess’s partout lehre ; ’s isch, du reste, au e ganz g’fitzter Sport... scheener wie jeder ander. So haw ich mich, par exemple, au schun mit d'r Fischerej abgänn ..... d’an- dere hann d’Fisch g’fange un ich habb alti Schlappe, Häfe unn ein Protokoll um’s ander odder gar de Sunne- stich verwitscht! No bin ich uff d’Jachd gange, unn was habb ich gedroffe ? Myne Hund odder gar de garde- chasse !... Oh, ich därf gar nitt an alles denke ! Hoffet- lich klappt’s mit'm Photographiere besser! Eins macht mir deby allerdings jetzt schun Kummer, unn diss isch, ass alli myni Bilder so arich verschwumme sinn... unn diss kummt dohere, wyll sich alli Lytt, wo ich bis jetzt photographiert habb, bewejt hann. Waje dem mach ich’s jetzt fur de Anfang andersch.... ich photographier einfach die Statüt do, wo sich wohrschynnlich nitt so ball beweje wurd ! 
+(Er stellt d’Statüt mit’m G’stell links vun d'r Scène e paar Schritt vorm Apperat uff.)
+ So, unn jetzt welle mir ynstelle ! 
+(Er schlupft unter’s Duech unn schafft am Apperat erum )
+ er kann deby allerhand Kapriole mache, so ass d’r Apperat wackelt unn als schier umfalle will.
+
+        
+",37,jost-e-dienschtbott-wurd-gsuecht,291,20,0.0687285223367697,0.0,0.0,2.77195369566226,0.2803740646030834,3.943212047058768,0.0,0.7340358727997726,0.0,0.0,3.618817092913841,4.194240345362827
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(ohne ass d'r Meyer, wo am Apperat erumschafft, druff acht gitt)
+
+          
+So, do bin ich widder! Jetzt will d'r Jean emool sym liewe Monsieur Meyer zeije, was fur e Unterschied zwische mir unn andere Dienschtbotte kann sinn ! Waje dem haw ich mich g’schwind verkleid, fur ass’r mich nitt kennt. Zuedem weiss ich jo gar ze guet, ass’r nitt ohne mich exischtiere kann ! Ah, do isch’r jo! Wie’r numme mit dem Apperat umgeht... wie wenn’r’ne knock out boxe wott !
+
+          
+
+		
+",38,jost-e-dienschtbott-wurd-gsuecht,96,4,0.0416666666666666,0.0011119571337622,0.0,2.7703413791720397,0.2818726667300574,3.942297062724872,0.0015860911400365,0.7278555644177923,0.0019416916447422,0.0,3.618817092913841,4.190221067099272
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(als noch unter'm Duech)
+
+          
+So, d’Statüt wär exakt yng’stellt! Jetzt kummt d’Platt nyn. 
+(Nemmt üss’m Fracksack e Kassett, wo’r in de Apperat schiebt. Er kummt unter'm Duech vor unn bedracht numme noch de Apperat, so ass’r de Jean, wo in d'r Nähde vun d'r Statüt steht, nitt sieht.)
+
+        
+",39,jost-e-dienschtbott-wurd-gsuecht,68,4,0.0588235294117647,0.0011119571337622,0.0,1.8141518307196631,0.2818726667300574,2.538650214594365,0.0015860911400365,2.1221482100115043,0.0019416916447422,0.0,2.456642764404544,3.322158116034424
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(stellt sich g’schwind vor d’Statüt ; fur sich)
+
+          
+Ich bin doch schun lang nimm abkonterfeit worre !
+
+        
+",40,jost-e-dienschtbott-wurd-gsuecht,22,1,0.0454545454545454,0.0011119571337622,0.0,1.8141518307196631,0.2818726667300574,2.538650214594365,0.0015860911400365,2.1221482100115048,0.0019416916447422,0.0,2.456642764404544,3.322158116034424
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(wo nix devun sieht, nemmt de Knipser vum Apperat in d'Hand)
+
+          
+Unn jetzt nimm geriehrt ..... rächt fryndlieh, s’il vous plait!... Eins-zwei-drej ! 
+(Er zählt mit de Finger.)
+ So! Diss wär g’schähn ! 
+(Nemmt d’Kassett üss’m Apperat.)
+ Jetzt will ich die Platt g’schwind ent- wickle gehn ! 
+(Ab nooch rächts mit d'r Kassett.)
+
+        
+",41,jost-e-dienschtbott-wurd-gsuecht,76,3,0.0394736842105263,0.0011119571337622,0.0017347283880352,1.815478264990092,0.2818726667300574,2.5405336704787524,0.0015860911400365,2.1241717097884902,0.0019416916447422,0.0,2.4587011080667027,3.3253459430570578
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(in d'r Hand e Glasplatt)
+
+          
+Was isch mir denn nitt diss ! Myner Napoléon hett sich jo in e Bür verwan- delt... unn e Däschelskapp hett’r au noch uff! 
+(Er sieht jetzt de Jean)
+: Ah, do steht der Sindebock ! Was han Ihr denn in mynere Menasch unn gar noch in mym Photographie-Apperat ze sueche ?
+
+        
+",42,jost-e-dienschtbott-wurd-gsuecht,67,3,0.044776119402985,1.1057689323867517,0.0017347283880352,4.524505917451795,0.001498602126974,4.869575774434587,0.8435502491072541,3.2385337230029707,0.0019416916447422,0.0,1.818175032397447,4.80061095273387
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Ich habb in d'r Zyttung Ihri Annonce geläse unn bin kumme waje dem Platz, wo by Ihnne frej isch.
+
+        
+",43,jost-e-dienschtbott-wurd-gsuecht,23,2,0.0869565217391304,1.1046569752529891,0.0157143836574909,4.530063624029035,0.0,4.877146500656649,0.8419641579672176,3.2385337230029707,0.0,0.0,1.818175032397447,4.809629953109754
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Diss isch nitt grad wenni, wenn’s wohr isch ! Unn was wär diss par exemple ?
+
+          
+
+		
+",44,jost-e-dienschtbott-wurd-gsuecht,20,2,0.1,1.1046569752529891,0.0157143836574909,3.802913414888193,0.0,3.84487947871684,0.8419641579672176,1.8442410774092584,0.0,0.0,0.0020583436621592,3.0387369219311853
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(fur sich)
+
+          
+Na, wart, ich will dirs schun koche! 
+(Lütt)
+: Ich kann e Ochs anspanne... also wurr ich Ihnne wohl au d’Kleider anzehje kenne !
+
+        
+",45,jost-e-dienschtbott-wurd-gsuecht,37,4,0.1081081081081081,1.1046569752529891,0.0157143836574909,5.154744469206297,0.0,5.495657804843843,0.8419641579672176,1.8442410774092584,0.0,0.0,1.1641322183382503,4.5425872388314605
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ihr schynne um Verglych nitt grad arich verläje ze sinn!
+
+        
+",46,jost-e-dienschtbott-wurd-gsuecht,13,3,0.2307692307692307,1.1046569752529891,0.0139796552694557,5.153418034935868,0.0,5.493774348959455,0.8419641579672176,1.842217577632273,0.0,0.0,1.1620738746760917,4.539399411808827
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+No kann ich Gras mähje ..... also wurr ich wohl au Ihre Bart rasiere kenne !
+
+        
+",46,jost-e-dienschtbott-wurd-gsuecht,18,1,0.0555555555555555,0.0,0.0139796552694557,1.3612114674515206,0.0,1.661153501892682,0.0,7.105427357601002e-16,0.0,0.0,1.1620738746760917,1.5150641563905818
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Unn wie steht’s mit d'r Kiche ? JEAN ch Oh, ieh bin e grosser Frind vun’re gueti Kiche! Unn no au vum e guete Gläsel Wyn... ich syberel fur myn Läwe gern !
+
+        
+",47,jost-e-dienschtbott-wurd-gsuecht,39,5,0.1282051282051282,0.0,0.8590196241580241,2.5498947851461478,0.0,3.0006519426164777,0.0,0.7702034475787632,0.0,0.0012798324080799,2.094947537357105,3.12939050615792
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ah, Ihr syberle gern! 
+(Fur sich)
+: Er isch noch jung unn unerfahre, awer mit d'r Zytt kann’r sich so mache, wie ich’ne hann will! 
+(Lütt)
+: Unn was hann Ihr fur e Charakter ?
+
+        
+",48,jost-e-dienschtbott-wurd-gsuecht,46,3,0.0652173913043478,0.0,0.8627500336884244,4.356544846547957,0.0,5.207169455841443,0.0,0.7755312126260976,0.0,0.0034128864215465,3.650395528161869,5.142032884612577
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Oh, ich habb de bescht Charakter vun d'r Welt! Ich mach alles, was m'r will... unn sogar diss, was m'r nitt will! Kurz, e Lämmele isch geje mich e Wolf !
+
+        
+",49,jost-e-dienschtbott-wurd-gsuecht,40,2,0.05,0.0011784520710735,0.8676195845371776,3.0144616352909086,0.0,3.566251172594682,0.0,0.7812106248100378,0.0,0.0034128864215465,2.4928693363679817,3.647033664858987
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Unn wie heisse Ihr ?
+
+        
+",50,jost-e-dienschtbott-wurd-gsuecht,7,1,0.1428571428571428,0.0011784520710735,0.8676195845371776,3.0144616352909086,0.0,3.566251172594682,0.0,0.7812106248100378,0.0,0.0034128864215465,2.492869336367982,3.6470336648589865
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Ich heiss ganz kurz: Charles Auguste Leon Pierre Georges Louis Alfred Jean Dippeldappel !
+
+        
+",51,jost-e-dienschtbott-wurd-gsuecht,17,2,0.1176470588235294,0.0011784520710735,0.8676195845371776,3.027121363315506,0.0,3.585952681891423,0.0,0.7929175551105196,0.0,0.0034128864215465,2.492869336367982,3.670818344152913
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Unn diss heisse Ihr kurz! So e Schlang vum e Namme kann jo kein Mensch b’halte !
+
+        
+",51,jost-e-dienschtbott-wurd-gsuecht,20,2,0.1,0.0011784520710735,0.0085999603791535,1.829057632487464,0.0,2.236079065401948,0.0,0.022714107531757,0.0,0.0021330540134665,1.5599956736869685,2.0452781548952688
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Diss wär noch scheener, wenn Ihr Ejere eije Namme nit b’halte kennte ! Bref, ich ruef Ejch noch einfacher : Alfred !
+
+        
+",52,jost-e-dienschtbott-wurd-gsuecht,26,2,0.0769230769230769,0.0011784520710735,0.004869550848753,0.022407571085655,0.0,0.029561552176982,0.0,0.0173863424844227,0.0,0.0,0.0045476828822047,0.0326357764406119
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Ich blyeh by Jean ! Unn wenn Sie mich noch länger säje, ze dhue ich Ihnne d’Fenschterläde blöj poliere ! 
+(Er wurd als frecher.)
+
+        
+",53,jost-e-dienschtbott-wurd-gsuecht,31,3,0.0967741935483871,0.0,0.0,0.0126597280245979,0.0,0.0197015092967411,0.0,0.0117069303004825,0.0,0.0,3.552713678800501e-16,0.0237846792939263
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(baff)
+
+          
+Unn der will e Lämmeles-Charakter hann ! Nein, myn Liewer, in dem Fall verzieht ich uff Ejeri Dienscht ..... do isch mir d'r Jean, diss heisst d’r Wolf, doch noch liewer als wie d'r Wolf im Schoofsbelz ! Ich nemm sogar noch liewer e Maidel fur alles !
+
+          
+
+        
+",54,jost-e-dienschtbott-wurd-gsuecht,57,6,0.1052631578947368,0.0,0.0,0.7552721153516837,0.0,1.126042412865665,0.0,0.9328157191166184,0.0,0.0,3.552713678800501e-16,1.2261094968711128
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Wo sich awer nitt alles g’falle losst wie par exemple so e stilli, verträjlichi Nadür als ich eini habb! Wisse Sie, was Sie sinn ? E Gyzhals sinn Sie! E Gro- bian ! E Lyttschinder ! E alter, yngebilder Zipfel ! 
+(D’r Meyer hüpst by jedem Wort vergelschtert in d’Heeche.)
+ So Lytt wie Sie hett m'r friehjer uff d’Läbkueche ge- bäbbt! Sie uffgewärmter Leichnam ! Ich habb d’Nas voll vun Ihnne... ich geh... wäre selig ohne mich! 
+(Er nemmt syni Kapp unn wärft s'e im Meyer ins G’sicht ; fur sich)
+: Diss wurd hoffetlich lange, fur ass’r ynsieht, was’r an sym alte, guete Jean verlore hett! 
+(Ab nooch hinte.)
+
+        
+",55,jost-e-dienschtbott-wurd-gsuecht,139,13,0.0935251798561151,0.0,0.0,1.0855480167098528,0.0,1.6172830555503146,0.0,1.3466188765055749,0.0,0.0,3.552713678800501e-16,1.7577514316745089
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Hett m'r jetzt schun emool so e boddelosi Unver- schämtheit erläbt! Er hett wajer Zytt g’hett, ass’r sich üss’'m Staub gemacht hett, der grobb Flejel, denn schunscht hätt ich'm au emool myne Charakter gezeijt ! So wytt sinn mir also hytt kumme, ass d'r Herr Angscht muess hann vor de Dienschtsocke ! So leije sich also die fülle Herrschafte de Begriff « Egalité» üss... die meine, sie därfe grad eso frech unn grobb sinn als wie unsereins! Do isch d'r Jean doch noch e anderer Burscht g’sinn ! Er hett zwar alles nooch sym Schäddel gemacht, awer er hett mich doch als schliesslich ze iwer- zeje gewisst, ass eijetlich ich’s bin g’sinn, wo’s vun vorneryn eso gewellt hett ! Hätt ich’ne numme nitt furt- g’schickt... grad jetzt, wo ich im Elend bin, hätt ich e stariker Halt an’m g’hett! Wenn ich numme wisst, wo’r sich uffhalte dhuet... nein, ’s gängt jo doch nitt, ass ich mich als Herr eso dief erabbloss, fur ihm nooch- zelaufe unn’m gueti Wertle ze gänn ! Schad... arich schad! G’schähn isch g’schähn, was hyllsch ! Ze will ich liewer noch e bissel photographiere unn g’schwind e anderi Platt hole ! 
+(Rächts ab.)
+
+          
+        
+		
+",56,jost-e-dienschtbott-wurd-gsuecht,236,29,0.1228813559322034,0.1733596176770586,0.0009641141565141,1.415662931553061,0.1764631208125205,2.0337199420961847,0.0689967951303188,1.3466188765055749,0.0,0.0,0.0002343420950554,2.135445711603075
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+So, jetzt will ich emool sähn, ob d'r Monsieur Meyer sich e Lehr genumme hett ! Ich habb’m jo vorig d'Hell heiss genue gemacht !
+
+        
+",57,jost-e-dienschtbott-wurd-gsuecht,31,4,0.1290322580645161,0.1733596176770586,0.0009641141565141,2.402427164472242,0.1764631208125205,3.741402744470796,0.0689967951303188,1.3466188765055749,0.0,0.0,1.3430207757669508,3.750586943425524
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(macht sich am Apperat ze schaffe)
+
+          
+Unn jetzt die nej Platt in de Apperat !
+
+        
+",58,jost-e-dienschtbott-wurd-gsuecht,19,1,0.0526315789473684,0.1733596176770586,0.0009641141565141,2.4205426857192798,0.1764631208125205,3.768601867454569,0.0689967951303188,1.3466188765055749,0.0,0.0,1.3624228013140989,3.770567472492098
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(stellt sich widder vor d’Statüt ; fur sich)
+
+          
+Wie der spanne wurd, wenn’r d’Platt entwickelt !
+
+        
+",59,jost-e-dienschtbott-wurd-gsuecht,23,1,0.0434782608695652,0.1770623784879624,0.0009641141565141,1.6836030141427445,0.1764631208125205,2.6693449847707287,0.0689967951303188,0.4255100876894387,0.0,0.0,1.3624228013140989,2.572526097704467
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Kein Bewejung meh! Rächt frindlich, s’il vous plaît ! Eins-zwei-drej ! 
+(Er nemmt d’Kassett üss’m Apperat.)
+ Hoffetlich isch’s diss Mool besser gange! 
+(Rächts ab.)
+
+        
+",60,jost-e-dienschtbott-wurd-gsuecht,39,2,0.0512820512820512,0.1770623784879624,0.0009641141565141,1.340667384759978,0.1764631208125205,2.1584028327893385,0.0689967951303188,7.105427357601002e-16,0.0,0.0,1.3624228013140989,2.0170994836071445
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Er hett mich als noch nitt g’sähn ! Wenn’r wisse dhät, was fur e gueti Nuwell ass ich fur’ne habb, er dhät sich mit dem Gückkaschte gewiss nimm abschinde !
+
+        
+",61,jost-e-dienschtbott-wurd-gsuecht,34,1,0.0294117647058823,0.0037027608109038,0.0,1.0105524699167694,0.0,1.741965946243468,0.0,7.105427357601002e-16,0.0,0.0,1.3621884592190436,1.639405203678578
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Jetzt heert sich doch alles uff ! Myner Napoléon hett sich diss Zugg gar in de Jean verwandelt! Wie isch diss mejlich ? 
+(Er sieht de Jean. )
+ Ah, do steht’r jo! 
+(Fur sich)
+: Er kummt mir wie geruefe ! Awer ich muess’ne e bissel zawle lonn ! 
+(Lütt, streng)
+: Was welle Sie do, Monsieur ? Wisse Sie nitt, ass myni Hüssdier fur Sie fermé isch ?
+
+          
+
+		
+",62,jost-e-dienschtbott-wurd-gsuecht,83,4,0.0481927710843373,0.0068831232402025,0.0064966534833479,2.4939244465942267,0.0030663548232896,3.3473483454648063,0.0051955385825075,1.3816631832242046,0.0051941943677047,0.0030326694778392,1.1833518897781752,3.3341689194687434
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Ich habb s’e awer offe g’funde, Monsieur Meyer ! Unn wenn e Dier offe isch, ze isch diss e Zeiche, ass m'r nyn kann unn ...
+
+        
+",63,jost-e-dienschtbott-wurd-gsuecht,32,2,0.0625,0.0068831232402025,0.0064966534833479,2.4758089253471893,0.0030663548232896,3.320149222481033,0.0051955385825075,1.3816631832242046,0.0051941943677047,0.0030326694778392,1.163949864231027,3.314188390402169
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Ich bin au gar nitt kumme, fur Ejer scheen’s G’sicht ze sähn ..... ich will numme d’Kapp hole, wo myn Ka- merad vorig do hett leje lonn... ich soll se’m bringe! 
+(Er setzt d’Kapp uff, wo noch uff'm Bodde lejt.)
+
+        
+",64,jost-e-dienschtbott-wurd-gsuecht,56,7,0.125,0.0055438738659293,0.0142032141222483,3.749438523599333,0.0056044479928332,5.214739793530471,0.0081644177725118,2.960706821194723,0.0091057353454083,0.0047656234651759,1.1652863411774832,5.376010853945556
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+(baff)
+
+          
+Im Himmel !
+
+        
+",65,jost-e-dienschtbott-wurd-gsuecht,8,1,0.125,0.0055438738659293,0.0142032141222483,6.823881048919745,0.0056044479928332,10.569262653466524,0.0081644177725118,10.16212351634555,0.0091057353454083,0.0047656234651759,6.099678010933723,13.175505175004748
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Nein, nitt in de Himmel, awer in d'Wirtschaft vis-à- vis... er wart dort uff mich !: à
+
+        
+",65,jost-e-dienschtbott-wurd-gsuecht,25,3,0.12,0.0055438738659293,0.0142032141222483,9.333919998680718,0.0056044479928332,14.566785413916392,0.0081644177725118,14.404813325694764,0.0091057353454083,0.0047656234651759,7.744475234185802,18.179986250512183
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Was sieh ich ? Die Kapp ! Diss G’sicht ! Diss isch jo ’s nämlich G’sicht wie diss vum Alfred, vun dem un- g’schliffene Holwel, wo sich vorig by mir vorg’stellt hett! Wo haw ich denn numme myni Aue g’hett !
+
+        
+",66,jost-e-dienschtbott-wurd-gsuecht,47,2,0.0425531914893617,0.0023635114366306,0.0077065606389004,6.863783789084081,0.0025380931695435,11.253720212320442,0.0029688791900043,13.02315014247056,0.0039115409777035,0.0017329539873367,6.580525369954776,14.87008130289957
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Kein Wunder, ass ich'm glych ! Ich bin üss’m nämliche Ort wie er !
+
+        
+",67,jost-e-dienschtbott-wurd-gsuecht,19,1,0.0526315789473684,0.0023635114366306,0.0077065606389004,13.989554923963787,0.0025380931695435,19.50191423606437,0.0029688791900043,20.833209671774465,0.0039115409777035,7.811792483291247,6.580525369954776,23.47920480187072
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Er hett de nämlich Vadder wie ich.
+
+        
+",68,jost-e-dienschtbott-wurd-gsuecht,10,1,0.1,0.0,0.0,16.18979346571387,0.0,25.60749607433079,0.0,19.254166033803948,0.0,7.810059529303909,12.499880851833792,29.52094492981597
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN:
+
+          
+Unn ich bin’s einzig Kind vun mym Babbe !
+
+        
+",68,jost-e-dienschtbott-wurd-gsuecht,12,3,0.25,0.0,1.761389018467419,14.7084705418007,0.0,21.574189230445604,0.0,13.6996840448892,0.0,7.810059529303909,7.565489182077553,24.43910487620164
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Haw ich dich verwitscht, dü üssgekochter Spitz- bue ..... dü farceur ! Jetzt sieh ich hell: Dü hesch denne ung'howelt unn gewalttätig Alfred g’spielt, fur ass mir d’Luscht uff e anderer valet-de-chambre vergehn soll ?
+
+        
+",69,jost-e-dienschtbott-wurd-gsuecht,42,6,0.1428571428571428,0.0013527871052031,1.761389018467419,15.029482631506166,0.9598391400826278,20.52162751576887,0.0015578688777583,11.778418975387392,0.0,7.810059529303909,5.920691958825473,22.345042332556737
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Ich kann’s nitt leigle, Herr !
+
+        
+",70,jost-e-dienschtbott-wurd-gsuecht,10,1,0.1,0.5406043348613119,1.761389018467419,17.927502009587364,2.2937771792687918,24.973745033215927,1.0020113982673808,11.778418975387392,0.0,7.810059529303909,5.920691958825473,26.451222569175677
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Ja, Jean, haltsch denn dü so arich an mir ?
+
+        
+",71,jost-e-dienschtbott-wurd-gsuecht,14,1,0.0714285714285714,0.5406043348613119,1.761389018467419,10.807165897754054,2.2937771792687918,16.729270443349513,1.0020113982673808,3.974539754465464,0.0,0.0,5.920691958825473,17.8483131875825
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Unn wie, Herr!
+
+        
+",71,jost-e-dienschtbott-wurd-gsuecht,7,1,0.1428571428571428,1.0798558826174205,1.761389018467419,10.225644420082476,3.627715218454955,13.174131530595634,2.0024649276570035,3.974539754465464,0.0,0.0,0.0,13.846647389923248
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Unn au in mym Elend witt de mich nitt im Stich lonn ?
+
+        
+",71,jost-e-dienschtbott-wurd-gsuecht,15,2,0.1333333333333333,1.0862166074760178,0.0129933069666958,8.641297967251042,3.6338479281015337,11.858466554775884,2.0128560048220185,2.327605048229388,0.0103883887354095,0.0060653389556784,0.0037519791098709,11.134127931171513
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Was, Elend ? Herr, mir sinn jo rych ! Do steht’s in d'r Zyttung! 
+(Er gitt im Meyer d’Zyttung, wo uff'm Disch lejt.)
+ D’« Australisch Auschterebank » isch jo gar nitt verkracht !
+
+        
+",72,jost-e-dienschtbott-wurd-gsuecht,46,3,0.0652173913043478,1.2646143362895177,0.0129933069666958,8.261478161799172,3.1186548010809605,12.610226488622953,2.3447826457408008,1.8483978860142525,0.0103883887354095,0.0060653389556784,0.0037519791098709,11.997085780002996
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER :
+
+          
+Was saasch de do, Jean ! 
+(Läst)
+: « Unsere gestrige Mitteilung über den Zusammenbruch der « Australischen Austernbank » beruht auf einer Falschmeldung. Im 
+ Gegenteil, ihre Aktien sind sogar seit gestern um den doppelten Wert gestiegen.» 
+(Er fallt uff e Stuehl.)
+ Oh, ich g’schlaawener Mann ! Jetzt haw ich myn Vermeje erscht erächt verlore ! Diss verwind ich nitt! Ich habb jo myni Aktie verbrennt !
+
+		
+",73,jost-e-dienschtbott-wurd-gsuecht,81,10,0.1234567901234567,1.2409274353741375,0.896415621495031,8.391747897190148,2.7057036591236865,11.60387009876408,2.6950033583508635,2.909905840141648,1.0684591588000716,0.4005914871553193,1.3256191765623744,10.913954147051417
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(lacht)
+
+          
+Diss wär allerdings jetzt d'r Fall, wenn ich so e dummer Diener wär, wie Sie vun rächtswäje eine verdiene dhäte! 
+(Er langt d’Aktie üss’m Sack unn gitt s’e im Meyer.)
+ Ich habb s’e nämlich noch rächtzyttig in Sicherheit gebroocht ! Was Sie verbrennt hann, sinn alti Zyttunge g’sinn !
+
+        
+",74,jost-e-dienschtbott-wurd-gsuecht,65,7,0.1076923076923077,1.976914555500088,1.902398028441589,10.31657908492175,3.4113403543844862,14.209776130828317,3.609071964395613,2.9037255317596675,1.902067512588092,0.4005914871553193,2.886207177927371,13.005624540891707
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Isch’s mejlich, Jean ! Dü bisch e Prachtsmensch, e Goldmensch ! Durch dich haw ich nitt numme myn Geld prima plaziert, nein, dü hesch mir sogar noch myn ganz Vermeje gerett! Diss vergess ich dir nitt ! Hytt noch lej ich uff d'r Bank fur dich 100 000 Franke vun denne Aktie do an! 
+(Er umarmt’ne.)
+
+        
+",75,jost-e-dienschtbott-wurd-gsuecht,68,7,0.1029411764705882,1.4376630077439791,2.678225453296528,9.46460213111756,2.0774023151983227,12.826801818512234,2.608618435005991,4.424669835260544,1.902067512588092,0.9642002702976632,4.129139466791047,11.951607354378726
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+Merci, Patron ! Unn wie steht’s mit d'r Kindigung ?
+
+        
+",76,jost-e-dienschtbott-wurd-gsuecht,14,2,0.1428571428571428,1.431302282885382,2.665232146329832,13.70537936928896,2.071269605551743,19.17235354269228,2.598227357840976,4.424669835260544,5.129873275394601,0.9581349313419848,6.643903465182028,16.095279695616643
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Na, guet, ich b’halt dich in dem Fall nadierlich widder ..... ich habb mich zuedem so scheen an dich gewehnt, unn dyner Verstand .....
+
+        
+",77,jost-e-dienschtbott-wurd-gsuecht,29,4,0.1379310344827586,1.251551766966679,2.665232146329832,11.254148135274388,1.6266235924896886,15.475632563072075,2.264742848044436,2.582452257628272,5.129873275394601,0.9581349313419848,6.643903465182028,12.321903314922622
+comedy,Meyer,M,businessman,service_and_sales,lower_middle_class,"
+          
+MEYER:
+
+          
+Awer au eins merik dir fur in Zuekunft unn nemm’s ze Härze : Ich bin d'r Herr do hinne unn dü dr Ang’stellt! ’s gält also numme dyner Wille ..... äh, ich will saawe: nitt myner Wille ..... ei, nein, ich mein... ’s gält also numme dyner Wille ..... äh, ich na, kurz, dü weisch jo schun, wie ich’s mein ! ’s G’sicht vum Alfred kannsch de mynntwäje b’halte, awer syner Charakter blyet mir zuem Hüss drüsse !
+
+        
+",78,jost-e-dienschtbott-wurd-gsuecht,93,6,0.064516129032258,0.8258623780853014,1.7818098318014968,9.4731408613186,0.9279597017918266,13.95116576107336,1.0808108609430207,2.4420530923170127,4.07180250532994,0.563608783142344,5.3220362677295245,11.340838428313509
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+JEAN :
+
+          
+(setzt im Meyer d’Däschelskapp bis iwer d’Ohre uff de  Kopf)
+
+          
+Odder kurz g’saat : Mir bringe drej Kepf unter ein Kapp ! No wäre mir schun besser mitnand härmoniere ! 
+(D'r Vorhang fallt g’schwind.)
+ 
+ Schluss. 
+
+        
+",79,jost-e-dienschtbott-wurd-gsuecht,45,2,0.0444444444444444,0.0898752579593514,0.7758274248549386,9.770711812521862,0.2223230065310272,14.660563005838384,0.1667422548982704,5.20537945876542,3.2381941515419186,0.563608783142344,3.761448266364528,12.849928369826795

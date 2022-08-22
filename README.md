@@ -134,3 +134,18 @@ trouver la pièce la plus negative et afficher les émotions dans cette pièce p
 python3 graphic.py most_negative
 ```
 ![most_negative](graphics/demonstration/most_negative.png)
+
+```
+python3 pre_treatment/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
+cd intermediate
+python3 variant_als.py => csv_replaced/ + idf_info/
+python3 idf_calculate.py => text_brut/ + idf_info.csv
+cd results
+python3 avgEmoValues.py --dataPath ../pre_treatment/treated_files/babette-mach-s-fenster-zue.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath babette-mach-s-fenster-zue --mode tf_idf_phrases
+python3 pre-graphic.py
+python3 split_plays.py
+
+python3 graphic.py --mode single --pieces arnold-der-pfingstmontag,am-letzte-maskebal --emotions joy,sadness --filters sex,job_category --savepath ../graphics/savefig
+
+python3 graphic.py --mode group --pieces weber-yo-yo,greber-lucie,am-letzte-maskebal,arnold-der-pfingstmontag --emotions joy,sadness
+```

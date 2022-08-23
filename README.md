@@ -24,7 +24,7 @@ Cela va remplacer les variants et créer les nouveaux fichiers CSV dans réperto
 
 Pour calculer tf-idf des mots par unité des fichiers, il faut exécuter :
 ```
-python3 idf_calculate.py => text_brut/ + idf_info.csv
+python3 idf_calculate.py
 ```
 Cette commande peut gérer les textes bruts de chaque pièce de théâtre dans répertoire /text_brut, et aussi un fichier *idf_info.csv* qui contient tf-idf des mots dans chaque pièce de théâtre.
 

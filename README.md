@@ -155,7 +155,7 @@ python3 graphic.py --mode group --émotion joy,sadness
 ```
 ![joy_sadness_percentage](graphics/demonstration/joy_sadness_percentage.png)
 
-Dans cette image, on peut voir que pour comedy, les emotions sadness et joy ont une corrélation negative. 
+Dans cette image, on peut voir que pour comedy, les emotions sadness et joy ont une corrélation negative. Chaque point représente une pièce de théâtre, les coefficient des émotions sont calculé par le pourcentage.
 
 5. Analyser des émotions pour toutes les pièces dans un même type:
 

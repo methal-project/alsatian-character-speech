@@ -63,3 +63,9 @@ Une parole de Domino a ete coupe
 
 Quand il n'y a pas de mots dans lexique trouve, alors il coupe la parole
 
+
+#### Final To do 
+
+1. Commenter les fonctions etc.
+
+2. Structure de depo

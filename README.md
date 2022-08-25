@@ -1,3 +1,56 @@
+Analyse_emotion
+-----------------
+
+- Sources pour stages analyse d'émotions pour les pièces théâtres alsaciennes
+- Les sources étaient originalement dans plusieurs dépôts dépendamment de leur origine et elles ont été collectées ici pour faciliter la manipulation
+
+## Contenu
+
+Chaque dossier contient les ressources suivantes :
+
+- **emotions**
+	- Résultats des analyses d'émotions en CSV pour chaque pièce de théâtre, et aussi les scripts pour analyse et visualisation.
+	- *avgEmoValues.py*:
+	script ecrit par [EmotionDynamics](https://github.com/Priya22/EmotionDynamics/tree/master/code), pour calculer les coefficients des émotions selon un lexicon
+	- *alsatian_tokeniser.py*:
+	script pour tokeniser textes alsaciennes, écrit par madame Bernhard
+	- *pre-graphic.py*:
+	script pour calculer rolling-means, et regrouper les emotions des pièces dans le fichier all_pieces_info.csv.
+	- *split_plays.py*:
+	traitement pour séparer progrès de pièce de théâtre.
+	- *graphic.py*:
+	script pour réaliser des analyses sur les émotions et visualiser les résultats pour les pièces théâtres
+- **graphics**
+	- Les résultats d'analyse sauvegardé en images
+
+- **intermediate**
+	- *csv_replaced*:
+	un répertoire contenant les fichiers CSV de pièce de théâtre avec variants alsaciens remplacés par une forme normale.
+	- *idf_info*:
+	un répertoire contenant pour chaque pièce de théâtre les idf de chaque mots calculé par tourne de parole.
+	- *text_brut*:
+	un répertoire contenant pour chaque pièce de théâtre une version texte brute.
+	- *alsatian_tokeniser.py*, script pour tokeniser textes alsaciennes, écrit par madame Bernhard
+	- *idf_files.py*:
+	gérer les textes brutes de chaque pièce de théâtre dans répertoire /text_brut, et aussi un fichier *idf_info.csv* qui contient tf-idf des mots dans chaque pièce de théâtre calculé par fichier.
+	- *variant_idf_phrases.py*:
+	remplacer les variants et créer les nouveaux fichiers CSV dans répertoire /csv_replaced, et aussi cela va calculer idf de chaque mot dans chaque piece par paroles, et les sauvegarder dans répertoire /idf_info.
+- **pre_treatment**
+	- script: 
+		Script pour analyser les fichiers de théâtre en XML, et sortir des fichiers en CSV avec des informations supplémentaires de personnages, type de théâtre etc.
+	- tei, tei2, tei-lustig:
+		Pièces de théâtre en xml sans aucun traitement
+	- treated_files:
+		Contien les fichiers CSV (pièces de théâtre en format .csv) traités avec des informations supplémentaires
+
+- **summary_stage**
+	Chaque semaine un fichier md pour conclure ce que j'ai fait 
+- **commands**
+	- *command_list.txt*
+		liste des commandes pour convertir les fichiers xml aux fichiers csv avec les informations supplémentaires
+	- *command_list_ed_analyse.txt*
+		liste des commandes pour calculer les coefficients des émotions pour chaque pièce de théâtre
+
 ## Tutoriel
 
 #### pre_treatment
@@ -18,13 +71,13 @@ Maintenant dans le *pre_treatment / treated_files*, il doit contient un fichier 
 
 Après, on bouge dans le répertoire intermediate par ```cd intermediate```, on va d'abord remplacer les variants Alsacien dans les paroles par une forme normale, on peut exécuter:
 ```
-python3 variant_als.py
+python3 variant_idf_phrases.py
 ``` 
 Cela va remplacer les variants et créer les nouveaux fichiers CSV dans répertoire /csv_replaced, et aussi cela va calculer les idf des mots dans chaque piece par l'unité des paroles, et les sauvegarder dans répertoire /idf_info.
 
 Pour calculer tf-idf des mots par unité des fichiers, il faut exécuter :
 ```
-python3 idf_calculate.py
+python3 idf_files.py
 ```
 Cette commande peut gérer les textes bruts de chaque pièce de théâtre dans répertoire /text_brut, et aussi un fichier *idf_info.csv* qui contient tf-idf des mots dans chaque pièce de théâtre.
 

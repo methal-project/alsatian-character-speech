@@ -20,9 +20,6 @@ for word in list_als:
                 dict_replace[vari] = forme_ori
 
 
-
-#all_tourne_parole = [] # liste qui contient toutes les paroles
-
 # -------------------------------------- lire fichiers csv et remplacer les variantes ------------------
 
 ret = alsatian_tokeniser.RegExpTokeniser()
@@ -31,7 +28,6 @@ path = "../pre_treatment/treated_files/"
 list_treated_files = os.listdir(path)
 
 for file in list_treated_files:
-    dict_tf = {} # compter nombre de fois qu'un token apparitre dans une tourne de parole
     single_piece_tourne_parole = []
     df = pd.read_csv(path + file)
     text = ""
@@ -48,16 +44,7 @@ for file in list_treated_files:
             if (tok in dict_replace.keys()):
                 #replaced = True
                 # Si c'est un mot qui sera remplace:
-                if (dict_replace[tok] not in dict_tf.keys()):
-                    dict_tf[dict_replace[tok]] = 1
-                else:
-                    dict_tf[dict_replace[tok]] = dict_tf[dict_replace[tok]] + 1
                 rep_text = rep_text.replace(tok, dict_replace[tok])
-            else:
-                if (tok not in dict_tf.keys()):
-                    dict_tf[tok] = 1
-                else:
-                    dict_tf[tok] = dict_tf[tok] + 1
                 #print (tok + " => " + dict_replace[tok] + "\n")
         '''if (replaced == True):
             print(text + " => " + rep_text)
@@ -70,13 +57,6 @@ for file in list_treated_files:
 
 # ----------------------------------------- mtn calculate idfs ---------------------------------------- 
     
-    #df_replaced = pd.read_csv("../csv_replaced/" + file)
-    '''group_progress = df_replaced.groupby("progress")
-
-    for group_name,data in group_progress:
-        df_progress = group_progress.get_group(group_name)["text"].values[:]
-        single_piece_tourne_parole.append(df_progress[0])'''
-        #all_tourne_parole.append(df_progress[0])
     # calculate tf-idf pour une seule piece:
 
     idf_vectorizer = TfidfVectorizer(input="content", encoding="utf-8")
@@ -88,11 +68,6 @@ for file in list_treated_files:
 
     # on fait idf fois tf
     # formula tf: numbre qu'un tok apparaitre / nombre total de toks
-'''    
-for i in range(len(words)):
-        if words[i] in dict_tf:
-            idf[i] = idf[i] * dict_tf[words[i]] / len(words) # idf * tf
-'''
     
 
 

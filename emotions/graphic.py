@@ -104,6 +104,7 @@ def more_pieces(pieces, emotions, dramatype, savepath):
         graph.set_ylim(0,0.5)
         graph.set_xlim(0,0.5)
         if (savepath != None):
+            pieces = pieces.replace(",", "_")
             savepath = savepath + "/" + pieces + "_" + emotions[0] + "_" + emotions[1] + ".png"
             plt.savefig(savepath)
         plt.show()
@@ -133,6 +134,7 @@ def more_pieces(pieces, emotions, dramatype, savepath):
         graph = sb.barplot(data = df)
         graph.set_ylim(0,1)
         graph.set_title(pieces)
+        pieces = pieces.replace(",","_")
         if (savepath != None):
                 savepath = savepath + "/" + pieces + ".png"
                 plt.savefig(savepath)
@@ -150,10 +152,23 @@ def single_piece(pieces, emotions, filters, savepath):
     if (emotions == None):
         print("input error, no emotions\n")
         sys.exit(1)
+    
+    # In order not to have "," in filename:
+    if ("," in emotions):
+        emotions_name = emotions.replace(",","_")
+    else:
+        emotions_name = emotions
+    if (filters != None and "," in filters):
+        filters_name = filters.replace(",","_")
+    elif(filters != None):
+        filters_name = filters
+    pieces_name = pieces.replace(",","_")
+
     if (savepath != None and filters != None):
-        savepath = savepath + "/" + pieces + "_" + emotions + "_" + filters + ".png"
+        savepath = savepath + "/" + pieces_name + "_" + emotions_name + "_" + filters_name + ".png"
     elif (savepath != None and filters == None):
-        savepath = savepath + "/" + pieces + "_" + emotions + "_" + ".png"
+        pieces_name = pieces.replace(",","_")
+        savepath = savepath + "/" + pieces_name + "_" + emotions_name + "_" + ".png"
     
     # convertir les string into list
     if ("," in pieces):

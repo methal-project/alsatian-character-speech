@@ -1,9 +1,3 @@
-'''
-python3 pre_treatment/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
-
-'''
-
-
 import csv
 import xml.etree.ElementTree as ET
 import os, sys
@@ -13,21 +7,27 @@ dir_path = "./pre_treatment/treated_files"
 xml_in = ""
 
 def main():
-    '''
-    argv[1] = nom du repertoire (tei/tei-lustig/tei2)
-    argv[2] = nom du piece de theatre
-    '''
+    """main funtion to execute codes
+
+    Args:
+        param1: The directory of the xml file.
+        param2: The filename.
+
+    Returns:
+        Creates a csv file extracted from the previous xml file
+
+    """
     
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
     xml_in = "./pre_treatment/" + sys.argv[1] + "/" + sys.argv[2]
-    xml_out = dir_path + "/" + sys.argv[2][:-3] + "out.csv"
+    csv_out = dir_path + "/" + sys.argv[2][:-3] + "out.csv"
 
     file_personography = "./pre_treatment/methal-personography.xml"
-    tree_person = ET.parse(file_personography) # faire une arbre xml pour les infos de personnage
+    tree_person = ET.parse(file_personography)# make a xml tree of extra personal information
     root_person = tree_person.getroot()
     
-    tree = ET.parse(xml_in) # faire une arbre xml pour la piece de theatre
+    tree = ET.parse(xml_in) # make a xml tree of basic personal information
     root = tree.getroot()
     piece_id = root.find(".//{http://www.tei-c.org/ns/1.0}idno[@type='methal']")
     piece_id = "#" + piece_id.attrib["{http://www.w3.org/XML/1998/namespace}id"] # obtenir l'id de la piece
@@ -38,15 +38,14 @@ def main():
     dic_person = merge_dic(dic, dic_person)
 
     list_piece = get_speaker_text(root, dic_person)
-    write_csv(list_piece, xml_out)
+    write_csv(list_piece, csv_out)
     short_name = sys.argv[2][:-4]
     if ("lustig" in sys.argv[1]):
         short_name = "lustig-" + short_name
-    df = pd.read_csv(xml_out, index_col = False)
+    df = pd.read_csv(csv_out, index_col = False)
     # ------------------------------- slice the piece -------------------------------------
     num_rows = df.shape[0]
     x_ticks = []
-    #if (num_rows > 300): # S'il y a pas mal de tournes de paroles
     step = num_rows // 100
     if (step == 0):
         step = 1
@@ -62,20 +61,27 @@ def main():
     info_df = pd.read_csv("./pre_treatment/personnages-pieces.csv")
     print(short_name)
     genre = info_df.loc[short_name == info_df["shortName"]]
-
     df["drama_type"] = genre["genre"].values[0]
-    df.to_csv(xml_out)
+    df.to_csv(csv_out)
 
 
 def person_info(root):
-    dic_person = {} # infos pour toutes les personnages
-    dic_line = {} # infos pour une seule personnage
-    
+    """Function to grab basic personal information of each character
+
+    Args:
+        param1: The root of the xml file made by ElementTree.
+
+    Returns:
+        A dictionary containing basic information of characters
+
+    """
+    dic_person = {} # information of all the characters
+    dic_line = {} # information of only one character
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}personGrp"):
-        # chercher toutes les nodes sous l'etiquette: "personGrp"
+        # look for all the nodes with a label "personGrp"
         if (kids):
             if (kids.attrib):
-                # obtenir les attributes des enfants et les ajouter dans dictionnaire dic_line
+                # get attributes of child nodes and add them to the dictionary dic_line
                 sex = kids.attrib["sex"]
                 id = kids.attrib["{http://www.w3.org/XML/1998/namespace}id"]
                 dic_line["name"] = id
@@ -83,16 +89,15 @@ def person_info(root):
                 dic_line["job"] = ""
                 dic_line["job_category"] = ""
                 dic_line["social_class"] = ""
-                dic_person["#" + id] = dic_line # ajouter dic_line dans dic_persion
-                dic_line = {} # reinitialiser dic_line
+                dic_person["#" + id] = dic_line
+                dic_line = {} # reinitialise dic_line
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}person"):
-        # chercher toutes les nodes sous l'etiquette: "person"
+        # look for all the nodes with a label "person"
         sex = kids.attrib["sex"]
         id = kids.attrib["{http://www.w3.org/XML/1998/namespace}id"]
         name = kids.find("{http://www.tei-c.org/ns/1.0}persName")
         realname = ""
-        # ------------------------------ to be changed ----------------------------
-        # tous ca pour obtenir les noms du personnages
+        # get the names of characters
         if (len(name.findall("{http://www.tei-c.org/ns/1.0}emph")) == 0):
             realname = name.text
         else:
@@ -102,7 +107,6 @@ def person_info(root):
                         realname = name.text.strip() + " " + kid_name.text.strip()
                     else:
                         realname = kid_name.text.strip()
-        # --------------------------------------------------------------------------
         dic_line["name"] = realname
         dic_line["sex"] = sex
         dic_line["job"] = ""
@@ -113,12 +117,21 @@ def person_info(root):
     return dic_person
 
 def add_person_info(root, piece_id):
-    # pour obtenir les infos supplementaires des personnages
-    flag = False # flag pour verifier si les personnage trouve sont dans la meme piece de theatre
+    """Function to grab extra personal information of each character
+
+    Args:
+        param1: The root of the xml file made by ElementTree.
+        param2: The id of the theater piece
+
+    Returns:
+        A dictionary containing extra information of characters
+
+    """
+    flag = False # a flag to check if the characters are in the same piece.
     dic = {}
     for kid in root.iter(tag="{http://www.tei-c.org/ns/1.0}person"):
         for sub_kid in kid.iter():
-            if (sub_kid.get("corresp") == piece_id): # si c'est la piece qu'on cherche
+            if (sub_kid.get("corresp") == piece_id):
                 flag = True
             if(flag == True):
                 persname = kid.find("{http://www.tei-c.org/ns/1.0}persName")
@@ -130,7 +143,7 @@ def add_person_info(root, piece_id):
                 job = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='occupation']")
                 job_category = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='professional_category']")
                 social_class = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='social_class']")
-                dic[persname] = ["","",""] # liste qui contient job, categorie de job et social_class
+                dic[persname] = ["","",""] # array which contains job, job_category and social_class
                 if (job):
                     job = job.find("{http://www.tei-c.org/ns/1.0}symbol")
                     job_title = job.attrib["value"]
@@ -144,16 +157,25 @@ def add_person_info(root, piece_id):
                     s_class = social_class.attrib["value"]
                     dic[persname][2] = s_class
                 flag = False
-    #print(dic)
     return dic
 
 def merge_dic(dic, dic_person):
-    for key in dic.keys(): # noms des personnages dans dic avec infos supplementaires
+    """Function to merge two dicitonaries
+
+    Args:
+        param1: The dictionary with extra personal information (dict)
+        param2: The dictionary with basic personal information (dict)
+
+    Returns:
+        A dictionary containing basic + extra information of characters
+
+    """
+    for key in dic.keys(): # iterate in the dictionary with extra personal information
         for key_p in dic_person.keys():
             key1 = key.split(" ")
             realname = dic_person[key_p]["name"].split(" ")
-            
-            # en bas sont des processus pour ajouter les infos supplementaires
+
+            # add extra personal information to the dictionary of basic personal information
             if (len(key1) > 1 and len(realname) > 1):
                 if (key1[0] in realname[0] and key1[1] in realname[1]):
                     dic_person[key_p]["job"] = dic[key][0]
@@ -164,14 +186,19 @@ def merge_dic(dic, dic_person):
                     dic_person[key_p]["job"] = dic[key][0]
                     dic_person[key_p]["job_category"] = dic[key][1]
                     dic_person[key_p]["social_class"] = dic[key][2]
-                '''else:
-                    dic_person[key_p]["job"] = ""
-                    dic_person[key_p]["job_category"] = ""
-                    dic_person[key_p]["social_class"] = ""'''
-    #print(dic_person)
     return dic_person
 
 def get_speaker_text(root, dic_person):
+    """Function to grab words + all personal information of the piece
+
+    Args:
+        param1: The root of the xml file made by ElementTree.
+        param2: The merged dictionary made by function merge_dic.
+
+    Returns:
+        An array which contains words + all personal information of the piece
+
+    """
     #count = 0
     list_who = []
     list_sp_text = [] # toutes les infos pour une tourne de parole
@@ -216,9 +243,19 @@ def get_speaker_text(root, dic_person):
 
     return list_piece
     
-def write_csv(list_piece, xml_out):
+def write_csv(list_piece, csv_out):
+    """Function to write all information to csv files
+
+    Args:
+        param1: An array which contains words + all personal information of the piece.
+        param2: Path to the csv file 
+
+    Returns:
+        None
+
+    """
     header = ["drama_type", "speaker", "sex", "job", "job_category", "social_class","text"]
-    with open(xml_out, "w", encoding="utf-8") as out:
+    with open(csv_out, "w", encoding="utf-8") as out:
         writer = csv.writer(out)
         writer.writerow(header)
         writer.writerows(list_piece)

@@ -24,19 +24,30 @@ parser.add_argument("--dramatype", help= 'a type of drama')
 # ------------------------------------------- make plots -----------------------------------------------
 
 def plot_only_one_piece(file_paths, emotion_list, filters, savepath):
+    """Function to do the visualization for single mode plot
+
+    Args:
+        param1: An array containing paths to files to be visualized.
+        param2: An array containing names of emotions.
+        param3: An array containing names of filters.
+        param4: A String, path of directory to save figures.
+
+    Returns:
+        None
+
+    """
     subplot_flag = False
     if len(file_paths) > 1:
         fig, axes = plt.subplots(1,len(file_paths))
-        subplot_flag = True # pour verifier si on a besoins de subplot
+        subplot_flag = True # to verify if we need to de sub-plot or not
     figure_num = 0
     for file_path in file_paths:
         df = pd.read_csv(file_path, index_col = False)
-        if (filters != None and len(filters) > 1): # faire filtres
+        if (filters != None and len(filters) > 1): # make filters
             my_hue = df[filters].apply(tuple, axis=1)
-        emotion_label = emotion_list[0]
 
-        if (filters and len(emotion_list)>1): # S'il y a emotions et filtres:
-            if (len(filters) == 1): # s'il y a qu'une filtre
+        if (filters and len(emotion_list)>1):
+            if (len(filters) == 1):
                 df = df.groupby([filters[0]]).mean()
                 if (subplot_flag):
                     graph = sb.scatterplot(ax = axes[figure_num], y = emotion_list[1] + "_roll_mean", x = emotion_list[0]+"_roll_mean", data=df, hue = filters[0], label = file_path[:-17])
@@ -51,14 +62,13 @@ def plot_only_one_piece(file_paths, emotion_list, filters, savepath):
             graph.set_xlim(0,8)
             graph.set_xlabel(emotion_list[0])
             graph.set_ylabel(emotion_list[1])
-            #plt.show()
-        elif (len(emotion_list)>1): # Si y'a que deux emotions:
+        elif (len(emotion_list)>1):
             for i in range(len(emotion_list)):
                 if (subplot_flag):
                     graph = sb.lineplot(ax = axes[figure_num], y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
                 else:
                     graph = sb.lineplot(y = emotion_list[i] + "_roll_mean", x="progress", data=df, label = file_path[:-17] + "-" + emotion_list[i], err_style = None)
-        else: # s'il n'y a pas de filtres, et qu'une emotion, alors lineplot:
+        else: # If there's only one emotion and no filters, lineplot:
             if(subplot_flag):
                 graph = sb.lineplot(ax = axes[figure_num], y = emotion_list[0] + "_roll_mean", x="progress", data=df, label = file_path[:-17], err_style = None)
             else:
@@ -73,6 +83,18 @@ def plot_only_one_piece(file_paths, emotion_list, filters, savepath):
 
 
 def more_pieces(pieces, emotions, dramatype, savepath):
+    """Function to do the visualization for group mode plot
+
+    Args:
+        param1: An array containing filenames.
+        param2: An array containing names of emotions.
+        param3: A String containing dramatype.
+        param4: A String, path of directory to save figures.
+
+    Returns:
+        None
+
+    """
     query = ""
     df = pd.read_csv("all_pieces_info.csv")
 
@@ -80,7 +102,7 @@ def more_pieces(pieces, emotions, dramatype, savepath):
         # pairplot for all pieces
         df = df.iloc[:,6:15]
         graph = sb.pairplot(df, kind="reg", diag_kind="kde")
-        graph.set(xlim=(0,0.45), ylim = (0,0.45)) # configurer les limites d'axes
+        graph.set(xlim=(0,0.45), ylim = (0,0.45))
         if (savepath != None):
             savepath = savepath + "/pairplot.png"
             plt.savefig(savepath)
@@ -113,14 +135,14 @@ def more_pieces(pieces, emotions, dramatype, savepath):
         query = "drama_type == '" + dramatype + "'"
         emotions = emotions.split(",")
         df = df.query(query)
-        if (len(emotions) == 1): # barplot pour une seule emotion
+        if (len(emotions) == 1): # barplot for a single emotion
             graph = sb.barplot(data = df, x = "shortName", y = emotions[0], hue="drama_type")
             graph.set_ylim(0,1)
             if (savepath != None):
                 savepath = savepath + "/" + dramatype + "_" + emotions[0] + ".png"
                 plt.savefig(savepath)
             plt.show()
-        elif (len(emotions) == 2): # scatterplot pour 2 emotions
+        elif (len(emotions) == 2): # scatterplot for 2 emotions
             graph = sb.scatterplot(data = df, x = emotions[0], y = emotions[1], hue="drama_type")
             graph.set_ylim(0,1)
             graph.set_xlim(0,1)
@@ -144,6 +166,18 @@ def more_pieces(pieces, emotions, dramatype, savepath):
         sys.exit(1)
 
 def single_piece(pieces, emotions, filters, savepath):
+    """Function for treating arguments for the funtion plot_only_one_piece()
+
+    Args:
+        param1: A String containing filenames seperated by ",".
+        param2: A String containing names of emotions seperated by ",".
+        param3: A String containing names of filters seperated by ",".
+        param4: A String, path of directory to save figures.
+
+    Returns:
+        None
+
+    """
     filepath = []
     pieces_sep = []
     if (pieces == None):
@@ -170,20 +204,18 @@ def single_piece(pieces, emotions, filters, savepath):
         pieces_name = pieces.replace(",","_")
         savepath = savepath + "/" + pieces_name + "_" + emotions_name + "_" + ".png"
     
-    # convertir les string into list
+    # convert String into list
     if ("," in pieces):
-        # Si c'est pieces separ par ",", alors:
         pieces_sep = pieces.split(",")
-        # sinon, folder contient le nom du repetoire
+
     emotion_list = emotions.split(",")    
 
-    if(filters != None): # si on verifie emotions + filters (nom des colonnes des fichiers csv)
+    if(filters != None):
         filters = filters.split(",")
-        # print(emotion_list, filters)
     if (filters == None and emotions == None):
         print("Input error\n")
         sys.exit(0)
-    if (pieces_sep != []): # Si les pieces sont separe par ","
+    if (pieces_sep != []):
         for piece_name in pieces_sep:
             filepath.append(piece_name + "/" + "rolling_mean.csv")
     else:
@@ -192,6 +224,16 @@ def single_piece(pieces, emotions, filters, savepath):
 
 
 def most_positive(pos, savepath):
+    """Function to visualize the most positive or negative file
+
+    Args:
+        param1: A  boolean which define negative(False) or positive(True).
+        param2: A String, path of directory to save figures.
+
+    Returns:
+        None
+
+    """
     df = pd.read_csv("all_pieces_info.csv")
     if (pos):
         index = df['polarity'].idxmax()
@@ -205,8 +247,7 @@ def most_positive(pos, savepath):
     for label in emotion_list:
         emotions[label] = percentileofscore(df[label], df.loc[index][label])
     
-    # Sort by values (highest value first)
-    emotions = pd.Series(emotions)#.sort_values()
+    emotions = pd.Series(emotions)
     emotions.plot(kind='barh', xlim=(0, 100), title=df.loc[index]['shortName'])
     if (savepath != None):
         print ("figure saved in " + savepath)

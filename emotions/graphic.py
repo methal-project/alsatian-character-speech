@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   graphic.py
+@Create on :   2022/07
+@Author    :   Qinyue Liu
+@Version   :   1.0
+@Contact   :   qinyue.liu@etu.univ-grenoble-alpes.fr
+@Desc      :   None
+'''
+
+# Requirements: seaborn, pandas, matplotlib, sys, scipy, argparse
+
 import seaborn as sb
 import pandas as pd
 import matplotlib.pyplot as plt

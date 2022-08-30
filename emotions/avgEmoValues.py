@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+Made by Priya22, https://github.com/Priya22/EmotionDynamics/tree/master/code
+'''
+
 
 import os #, csv, json, sys, string
 import pandas as pd

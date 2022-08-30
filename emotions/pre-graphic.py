@@ -1,4 +1,16 @@
-from numpy import NaN
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   pre-graphic.py
+@Create on :   2022/08
+@Author    :   Qinyue Liu
+@Version   :   1.0
+@Contact   :   qinyue.liu@etu.univ-grenoble-alpes.fr
+@Desc      :   None
+'''
+
+# Requirements: os, csv, pandas
+
 import pandas as pd
 import os
 import csv

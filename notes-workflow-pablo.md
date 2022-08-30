@@ -2,6 +2,8 @@
 
 Notes i took while testing the workflow
 
+In my tests I added a "2" to the normal output directories (and some file) just to have a different output (so `csv_replaced2` would normally be `csv_replaced` and so on)
+
 ## Preprocessing
 
  - from app root directory

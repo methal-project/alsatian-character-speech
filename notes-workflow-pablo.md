@@ -63,13 +63,6 @@ python pre-graphic.py
 python split_plays.py 
 python3 graphic.py --mode single --pieces results2/weber-yo-yo,results2/greber-lucie --emotions joy,sadness
 ls results2/
-python3 graphic.py --mode single --pieces results2/weber-yo-yo,results2/bastian-dr-hans-im-schnockeloch --emotions joy,sadness
-ls results2/bastian-dr-hans-im-schnokeloch/
-python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnockeloch --emotions joy,sadness
-less results2/bastian-dr-hans-im-schnockeloch/rolling_mean.csv
-less results2/bastian-dr-hans-im-schnokeloch/rolling_mean.csv
-less results2/bastian-dr-hans-im-schnockeloch/rolling_mean.csv
-less results2/bastian-dr-hans-im-schnokeloch/rolling_mean.csv
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness --savepath results2
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness --filters speaker --save

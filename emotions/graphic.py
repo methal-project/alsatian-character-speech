@@ -55,7 +55,7 @@ def plot_only_one_piece(file_paths, emotion_list, filters, savepath):
         subplot_flag = True # to verify if we need to de sub-plot or not
     figure_num = 0
     for file_path in file_paths:
-        df = pd.read_csv(file_path, index_col = False)
+        df = pd.read_csv("results2/"+file_path, index_col = False)
         if (filters != None and len(filters) > 1): # make filters
             my_hue = df[filters].apply(tuple, axis=1)
 
@@ -109,7 +109,7 @@ def more_pieces(pieces, emotions, dramatype, savepath):
 
     """
     query = ""
-    df = pd.read_csv("all_pieces_info.csv")
+    df = pd.read_csv("all_pieces_info2.csv")
 
     if (pieces == "all"): 
         # pairplot for all pieces
@@ -247,7 +247,7 @@ def most_positive(pos, savepath):
         None
 
     """
-    df = pd.read_csv("all_pieces_info.csv")
+    df = pd.read_csv("all_pieces_info2.csv")
     if (pos):
         index = df['polarity'].idxmax()
     else:

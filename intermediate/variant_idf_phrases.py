@@ -22,7 +22,7 @@ for word in list_als:
 
 # read csv files and replace variants
 ret = alsatian_tokeniser.RegExpTokeniser()
-path = "../pre_treatment/treated_files/"
+path = "../pre_treatment/treated_files2/"
 list_treated_files = os.listdir(path)
 
 for file in list_treated_files:
@@ -44,7 +44,7 @@ for file in list_treated_files:
 
     # to create csv corpus files
         df = df.replace(text, rep_text)
-    df.to_csv("csv_replaced/" + file, index = False)
+    df.to_csv("csv_replaced2/" + file, index = False)
     
     # calculate tf-idf for each theater piece:
     idf_vectorizer = TfidfVectorizer(input="content", encoding="utf-8")
@@ -52,4 +52,4 @@ for file in list_treated_files:
     idf = idf_vector.idf_                           # array de idf de tous les mots
     words = idf_vectorizer.get_feature_names_out()  # tous les mots dans la piece
     idf_df = pd.DataFrame(idf, index = words, columns=["idf"])
-    idf_df.to_csv("idf_info/" + file[:-8] + ".csv", index_label="words")
+    idf_df.to_csv("idf_info2/" + file[:-8] + ".csv", index_label="words")

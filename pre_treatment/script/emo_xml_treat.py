@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import os, sys
 import pandas as pd
 
-dir_path = "./pre_treatment/treated_files"
+dir_path = "./pre_treatment/treated_files2"
 xml_in = ""
 
 def main():

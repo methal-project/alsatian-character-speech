@@ -104,6 +104,9 @@ def process_df(df, lexdf, idf_df, analyse_mode):
 
 def main(dataPath, LEXICON, LEXNAMES, savePath, analyse_mode):
 
+    # ok so issue is that if there's a parent folder, you may need to hard-code it here
+    # because savePath has to match the file-name for the stuff in csv_replaced and idf_info
+    # that was precomputed for the
     os.makedirs(savePath, exist_ok=True)
 
     logfile = os.path.join(savePath, 'log.txt')
@@ -116,9 +119,9 @@ def main(dataPath, LEXICON, LEXNAMES, savePath, analyse_mode):
 
     # idf de ce fichier
     if (analyse_mode == "tf_idf_phrases"):
-        idf_df = pd.read_csv("../intermediate/idf_info/" + savePath + ".csv", index_col=0, encoding="utf-8")
+        idf_df = pd.read_csv("../intermediate/idf_info2/" + savePath + ".csv", index_col=0, encoding="utf-8")
     elif ( analyse_mode == "tf_idf_files"):
-        idf_df = pd.read_csv("../intermediate/idf_info.csv", index_col=0, encoding="utf-8")
+        idf_df = pd.read_csv("../intermediate/idf_info2.csv", index_col=0, encoding="utf-8")
         idf_df = idf_df.loc[savePath + ".txt"][:]
     else:
         idf_df = None
@@ -132,7 +135,7 @@ def main(dataPath, LEXICON, LEXNAMES, savePath, analyse_mode):
         logging.info(LEXNAME + " lexicon length: " + str(len(lexdf)))
         resdf = process_df(df, lexdf, idf_df, analyse_mode)
     
-        resdf.to_csv(os.path.join(savePath, LEXNAME+'.csv'), index=False)
+        resdf.to_csv(os.path.join("results2/" + savePath, LEXNAME+'.csv'), index=False)
 
 if __name__=='__main__':
     args = parser.parse_args()

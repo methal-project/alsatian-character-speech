@@ -29,12 +29,12 @@ def add_rolling_mean():
         None, but create csv files called rolling_mean.csv for each theater piece
 
     """
-    li_files = os.listdir(".") # directory name
+    li_files = os.listdir("results2") # directory name
     df_final = pd.DataFrame()
     for name in li_files:
         if os.path.isdir(name) and name != "__pycache__":
             folder_path = name + "/"
-            csv_files = os.listdir(folder_path)
+            csv_files = os.listdir("results2/"+folder_path)
             if ("all_emo.csv" in csv_files):
                 id = csv_files.index("all_emo.csv")
                 csv_files.pop(id)
@@ -65,7 +65,7 @@ def add_rolling_mean():
                 df_final.drop("Unnamed: 0", axis=1, inplace=True)
             if ("avgLexVal" in df_final.columns):
                 df_final.drop("avgLexVal", axis = 1, inplace=True)
-            df_final.to_csv(folder_path + "rolling_mean.csv", index=False)
+            df_final.to_csv("results2/"+folder_path + "rolling_mean.csv", index=False)
 
 
 def get_percentage():
@@ -75,11 +75,11 @@ def get_percentage():
         An array which contains all the rolling-means
     """
     all_moyen = []
-    li_files = os.listdir(".")
+    li_files = os.listdir("results2")
     for name in li_files:
-        if (os.path.isdir(name) and "pycache" not in name):
-            df = pd.read_csv(name+"/rolling_mean.csv")
-            drama_type = pd.read_csv(name+"/joy.csv")["drama_type"].values[0]
+        if (os.path.isdir("results2/"+name) and "pycache" not in name):
+            df = pd.read_csv("results2/"+name+"/rolling_mean.csv")
+            drama_type = pd.read_csv("results2/"+name+"/joy.csv")["drama_type"].values[0]
             sum = 0
             portion = []
             piece_moyen = [] # information for each piece
@@ -117,7 +117,7 @@ def write_csv(all_moyen):
     header = ["shortName", "drama_type", "polarity", "valence", "arousal", "dominance", "anger"
     , "disgust", "fear", "joy", "sadness", "surprise", "trust", "anticipation"
     ]
-    with open("all_pieces_info.csv", "w", encoding="utf-8") as out:
+    with open("all_pieces_info2.csv", "w", encoding="utf-8") as out:
         writer = csv.writer(out)
         writer.writerow(header)
         writer.writerows(all_moyen)

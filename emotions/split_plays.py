@@ -8,7 +8,7 @@ Made by madame Bernhard, reference: https://arxiv.org/abs/2005.01653
 
 import pandas as pd
 import os
-
+import shutil
 
 def preprocess(values):
     sums_array = [0]
@@ -53,10 +53,13 @@ def optimal_equal_part(values, sums_array, k):
 
 
 if __name__ == '__main__':
-    li_dir = os.listdir(".")
+    suffix = "/results2/"
+    prefix = "results2/"
+    li_dir = os.listdir("."+suffix)
     for dir in li_dir:
         if os.path.isdir(dir):
-            file_path = dir + "/rolling_mean.csv"
+            file_path = prefix + dir + "/rolling_mean.csv"
+            shutil.copy(file_path, file_path+".old")
             df = pd.read_csv(file_path)
             token_lens = list(df.numTokens)
             sums = preprocess(token_lens)

@@ -53,6 +53,13 @@ I had this warning once in a while `/home/ruizfabo/anaconda3/envs/ajout/lib/pyth
 
 ## Graphics
 
+REmember that first you got to pre-process for the graphics too (once):
+
+```
+python pre-graphic.py 
+python split_plays.py
+```
+
 Input path is hard-coded (it's the current directory)
 I changed it to `results2` just to see
 
@@ -61,10 +68,10 @@ All worked fine
 Here's the commands I tried, from history
 
 ```
-python pre-graphic.py 
-python split_plays.py 
+# the following one didn't work; instead, hard-coded "results2" in the script and gave the file names only (and then it all worked) 
 python3 graphic.py --mode single --pieces results2/weber-yo-yo,results2/greber-lucie --emotions joy,sadness
 ls results2/
+# from here on all works
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness --savepath results2
 python3 graphic.py --mode single --pieces weber-yo-yo,bastian-dr-hans-im-schnokeloch --emotions joy,sadness --filters speaker --save

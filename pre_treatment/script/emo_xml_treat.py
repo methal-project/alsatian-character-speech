@@ -1,10 +1,14 @@
 import csv
-import xml.etree.ElementTree as ET
+#import xml.etree.ElementTree as ET
+from lxml import etree as ET
 import os, sys
 import pandas as pd
+import re
 
-dir_path = "./pre_treatment/treated_files2"
+dir_path = "./pre_treatment/treated_files_df7"
 xml_in = ""
+
+NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}
 
 def main():
     """main funtion to execute codes
@@ -25,6 +29,7 @@ def main():
 
     file_personography = "./pre_treatment/methal-personography.xml"
     tree_person = ET.parse(file_personography)# make a xml tree of extra personal information
+    #tree_person = etree.parse(file_personography)# make a xml tree of extra personal information
     root_person = tree_person.getroot()
     
     tree = ET.parse(xml_in) # make a xml tree of basic personal information
@@ -118,6 +123,7 @@ def person_info(root):
 
 def add_person_info(root, piece_id):
     """Function to grab extra personal information of each character
+       from the feature-structures prosopography
 
     Args:
         param1: The root of the xml file made by ElementTree.
@@ -136,7 +142,12 @@ def add_person_info(root, piece_id):
             if(flag == True):
                 persname = kid.find("{http://www.tei-c.org/ns/1.0}persName")
                 persname = persname.text.split(" ")
+                #TODO may need to revise here to get more cases (try to create an ID
+                # using the same conventions as for manual transformation
+                # or merge, additionnally, based on exact match of persName value
                 if (len(persname) > 1):
+                    # this makes sense given the way person names are compared later when
+                    # merging both dictionaries in the merge_dic() function below
                     persname = persname[0][0] + " " + persname[1] # Herr Miaou -> H Miaou
                 else:
                     persname = persname[0]
@@ -188,6 +199,25 @@ def merge_dic(dic, dic_person):
                     dic_person[key_p]["social_class"] = dic[key][2]
     return dic_person
 
+
+def clean_up_text(text_part):
+    """
+    Strip whitespace and other normalizations to character speech
+    so that can output to dataframe.
+
+    Args:
+        text_part (str): The text to normalize
+
+    Returns:
+        Normalized text
+    """
+    text_norm = text_part
+    if text_norm is not None and len(text_norm) > 0:
+        text_norm = text_norm.strip()
+        text_norm = re.sub(r"\s{2,}", " ", text_norm)
+    return text_norm
+
+
 def get_speaker_text(root, dic_person):
     """Function to grab words + all personal information of the piece
 
@@ -231,18 +261,31 @@ def get_speaker_text(root, dic_person):
                     list_sp_text.append("job_unknown")
                     list_sp_text.append("job_category_unknown")
                     list_sp_text.append("social_class_unknown")
-                for subkids in kids.itertext():
-                    if (subkids):
-                        text += subkids + "\n"
-                    else:
-                        text += ""
-                list_sp_text.append(text)
+                # this was ok for emotion detection but bad for character distinctiveness task,
+                # because this is accepting stage directions and speaker names into the text
+                # kept in the dataframe. So instead will run XPath with lxml to keep child text
+                # from the p elements only
+                if False:
+                    for subkids in kids.itertext():
+                        if (subkids):
+                            #text += clean_up_text(subkids) + "\n"
+                            text += clean_up_text(subkids) + "|||"
+                        else:
+                            text += ""
+                #breakpoint()
+                # ok to do this here but note that if the speech has two IDs
+                # in @who, the speech will be repeated in the dataframe,
+                # once for each character
+                for subkids in kids.xpath(".//tei:p/text()", namespaces=NSMAP):
+                    if subkids:
+                        text += clean_up_text(subkids) + "|||"
+                list_sp_text.append(text.rstrip("|"))
                 text = ""
                 list_piece.append(list_sp_text)
                 list_sp_text = []
-
     return list_piece
-    
+
+
 def write_csv(list_piece, csv_out):
     """Function to write all information to csv files
 

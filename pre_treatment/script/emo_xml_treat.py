@@ -5,10 +5,11 @@ import os, sys
 import pandas as pd
 import re
 
-dir_path = "./pre_treatment/treated_files_df7"
+dir_path = "./pre_treatment/treated_files_df12"
 xml_in = ""
 
 NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}
+
 
 def main():
     """main funtion to execute codes
@@ -67,7 +68,7 @@ def main():
     print(short_name)
     genre = info_df.loc[short_name == info_df["shortName"]]
     df["drama_type"] = genre["genre"].values[0]
-    df.to_csv(csv_out)
+    df.to_csv(csv_out, sep="\t", index=False)
 
 
 def person_info(root):
@@ -144,7 +145,7 @@ def add_person_info(root, piece_id):
                 persname = persname.text.split(" ")
                 #TODO may need to revise here to get more cases (try to create an ID
                 # using the same conventions as for manual transformation
-                # or merge, additionnally, based on exact match of persName value
+                # or merge, additionnally, based on exact match of persName value)
                 if (len(persname) > 1):
                     # this makes sense given the way person names are compared later when
                     # merging both dictionaries in the merge_dic() function below
@@ -273,12 +274,19 @@ def get_speaker_text(root, dic_person):
                         else:
                             text += ""
                 #breakpoint()
-                # ok to do this here but note that if the speech has two IDs
+                # ok to collect text here but note that if the speech has two IDs
                 # in @who, the speech will be repeated in the dataframe,
                 # once for each character
-                for subkids in kids.xpath(".//tei:p/text()", namespaces=NSMAP):
+
+                # avoid stage and sp but keep p and l
+                for subkids in kids.xpath(".//text()", namespaces=NSMAP):
                     if subkids:
+                        #breakpoint()
+                        if subkids.getparent().tag not in ("{http://www.tei-c.org/ns/1.0}p",
+                                                           "{http://www.tei-c.org/ns/1.0}l"):
+                            continue
                         text += clean_up_text(subkids) + "|||"
+                text = re.sub(r"\|{3,}", "|||", text)
                 list_sp_text.append(text.rstrip("|"))
                 text = ""
                 list_piece.append(list_sp_text)

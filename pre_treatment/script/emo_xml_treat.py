@@ -112,8 +112,8 @@ def person_info(root):
             for kid_name in name:
                 if (kid_name.text):
                     if(name.text):
-                        # realname = name.text.strip() + " " + kid_name.text.strip()
-                        realname = name.text.strip().strip(":,;") + " " + kid_name.text.strip().strip(":,;")
+                        realname = name.text.strip() + " " + kid_name.text.strip()
+                        #realname = name.text.strip().strip(":,;") + " " + kid_name.text.strip().strip(":,;")
                     else:
                         realname = kid_name.text.strip()
         dic_line["name"] = realname
@@ -149,6 +149,8 @@ def add_person_info(root, piece_id):
                 #TODO may need to revise here to get more cases (try to create an ID
                 # using the same conventions as for manual transformation
                 # or merge, additionnally, based on exact match of persName value)
+                # OR MAYBE NOT AS MOST ERRORS SO FAR WERE DUE TO THE DATA (@who not matched
+                # in listPerson)
                 if (len(persname) > 1):
                     # this makes sense given the way person names are compared later when
                     # merging both dictionaries in the merge_dic() function below

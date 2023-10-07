@@ -5,7 +5,7 @@ import os, sys
 import pandas as pd
 import re
 
-dir_path = "./pre_treatment/treated_files_df15"
+dir_path = "./pre_treatment/treated_files_df18"
 xml_in = ""
 
 NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}
@@ -41,6 +41,7 @@ def main():
 
     dic_person = person_info(root)
     dic = add_person_info(root_person, piece_id)
+    #breakpoint()
     dic_person = merge_dic(dic, dic_person)
 
     list_piece = get_speaker_text(root, dic_person)
@@ -111,7 +112,8 @@ def person_info(root):
             for kid_name in name:
                 if (kid_name.text):
                     if(name.text):
-                        realname = name.text.strip() + " " + kid_name.text.strip()
+                        # realname = name.text.strip() + " " + kid_name.text.strip()
+                        realname = name.text.strip().strip(":,;") + " " + kid_name.text.strip().strip(":,;")
                     else:
                         realname = kid_name.text.strip()
         dic_line["name"] = realname
@@ -187,7 +189,6 @@ def merge_dic(dic, dic_person):
         for key_p in dic_person.keys():
             key1 = key.split(" ")
             realname = dic_person[key_p]["name"].split(" ")
-
             # add extra personal information to the dictionary of basic personal information
             if (len(key1) > 1 and len(realname) > 1):
                 if (key1[0] in realname[0] and key1[1] in realname[1]):
@@ -274,10 +275,12 @@ def get_speaker_text(root, dic_person):
                             text += clean_up_text(subkids) + "|||"
                         else:
                             text += ""
-                #breakpoint()
-                # ok to collect text here but note that if the speech has two IDs
-                # in @who, the speech will be repeated in the dataframe,
-                # once for each character
+
+                # ok to collect text here but note that under some conditions,
+                # if the speech has two IDs in @who, this could result in
+                # speech being repeated in the dataframe, once for each character
+                # not the case now cos <sp> where @who has > 1 value are ignored
+                # before crossing metadata, so they're ignored for the analyses
 
                 # avoid stage and sp but keep p and l
                 for subkids in kids.xpath(".//tei:p/text()|.//tei:l/text()", namespaces=NSMAP):

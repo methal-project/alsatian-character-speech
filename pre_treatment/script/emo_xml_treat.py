@@ -5,7 +5,7 @@ import os, sys
 import pandas as pd
 import re
 
-dir_path = "./pre_treatment/treated_files_df12"
+dir_path = "./pre_treatment/treated_files_df15"
 xml_in = ""
 
 NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}
@@ -68,7 +68,8 @@ def main():
     print(short_name)
     genre = info_df.loc[short_name == info_df["shortName"]]
     df["drama_type"] = genre["genre"].values[0]
-    df.to_csv(csv_out, sep="\t", index=False)
+    #df.to_csv(csv_out, sep="\t", index=False)
+    df.to_csv(csv_out, index=False)
 
 
 def person_info(root):
@@ -279,14 +280,11 @@ def get_speaker_text(root, dic_person):
                 # once for each character
 
                 # avoid stage and sp but keep p and l
-                for subkids in kids.xpath(".//text()", namespaces=NSMAP):
+                for subkids in kids.xpath(".//tei:p/text()|.//tei:l/text()", namespaces=NSMAP):
                     if subkids:
-                        #breakpoint()
-                        if subkids.getparent().tag not in ("{http://www.tei-c.org/ns/1.0}p",
-                                                           "{http://www.tei-c.org/ns/1.0}l"):
-                            continue
                         text += clean_up_text(subkids) + "|||"
-                text = re.sub(r"\|{3,}", "|||", text)
+
+                text = re.sub(r"\|{4,}", "|||", text)
                 list_sp_text.append(text.rstrip("|"))
                 text = ""
                 list_piece.append(list_sp_text)
@@ -313,10 +311,3 @@ def write_csv(list_piece, csv_out):
 
 if __name__ == "__main__":
     main()
-    
-    
-
-    
-    
-
-            

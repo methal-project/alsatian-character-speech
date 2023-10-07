@@ -56,7 +56,7 @@
           <person sex="M" xml:id="schang">
             <persName>Schang</persName>
           </person>
-          <person sex="M" xml:id="d_r_lehrer">
+          <person sex="M" xml:id="dr_lehrer">
             <persName>D'r Lehrer</persName>
           </person>
           <person sex="F" xml:id="frau_maykuechel">
@@ -65,7 +65,7 @@
           <person sex="F" xml:id="frau_biereschnitz">
             <persName>Frau Biereschnitz</persName>
           </person>
-          <person sex="M" xml:id="d_r_kaminfajer">
+          <person sex="M" xml:id="dr_kaminfajer">
             <persName>D'r Kaminfäjer</persName>
           </person>
           <person sex="M" xml:id="acavoyons">
@@ -95,7 +95,7 @@
           <person sex="M" xml:id="martin">
             <persName>Martin</persName>
           </person>
-          <person sex="M" xml:id="d_r_ochsewirt">
+          <person sex="M" xml:id="dr_ochsewirt">
             <persName>D'r Ochsewirt</persName>
           </person>
           <person sex="F" xml:id="frau_mehlstaub_1">
@@ -128,7 +128,7 @@
           <person sex="F" xml:id="waldfee">
             <persName>Waldfee</persName>
           </person>
-          <person sex="U" xml:id="d_r_diefel">
+          <person sex="U" xml:id="dr_diefel">
             <persName>D'r Diefel</persName>
           </person>
           <person sex="U" xml:id="sini_grossel">
@@ -203,10 +203,10 @@
           <person sex="U" xml:id="bibi-coco">
             <persName>Bibi-Coco</persName>
           </person>
-          <person sex="U" xml:id="d_r_esel_schakob">
+          <person sex="U" xml:id="dr_esel_schakob">
             <persName>D'r Esel Schakob</persName>
           </person>
-          <person sex="U" xml:id="d_r_bar_chocolat">
+          <person sex="U" xml:id="dr_bar_chocolat">
             <persName>D'r Bär Chocolat</persName>
           </person>
           <person sex="U" xml:id="ali-baba">
@@ -240,10 +240,10 @@
         <castItem corresp="#frau_mehlstaub"><role><persName>Frau Mehlstaub</persName></role>, <roleDesc>Eltere vum Strüwelpeter</roleDesc>.</castItem>
         <castItem corresp="#natz"><role><persName>Natz</persName></role>, <roleDesc>Müllersknecht</roleDesc>.</castItem>
         <castItem corresp="#schang"><role><persName>Schang</persName></role>, <roleDesc>Müllersknecht</roleDesc>.</castItem>
-        <castItem corresp="#d_r_lehrer"><role><persName>D'r Lehrer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_lehrer"><role><persName>D'r Lehrer</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#frau_maykuechel"><role><persName>Frau Mayküechel</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#frau_biereschnitz"><role><persName>Frau Biereschnitz</persName></role>, <roleDesc/>.</castItem>
-        <castItem corresp="#d_r_kaminfajer"><role><persName>D'r Kaminfäjer</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_kaminfajer"><role><persName>D'r Kaminfäjer</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#acavoyons"><role><persName>Açavoyons</persName></role>, <roleDesc>Gendarm</roleDesc>.</castItem>
         <castItem corresp="#maykuechel"><role><persName>Mayküechel</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#biereschnitz"><role><persName>Biereschnitz</persName></role>, <roleDesc/>.</castItem>
@@ -253,7 +253,7 @@
         <castItem corresp="#spitznas"><role><persName>Spitznas</persName></role>, <roleDesc>e verhexti Waldfee</roleDesc>.</castItem>
         <castItem corresp="#kath"><role><persName>Käth</persName></role>, <roleDesc>e Büürefrau</roleDesc>.</castItem>
         <castItem corresp="#martin"><role><persName>Martin</persName></role>, <roleDesc>e Blinder</roleDesc>.</castItem>
-        <castItem corresp="#d_r_ochsewirt"><role><persName>D'r Ochsewirt</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_ochsewirt"><role><persName>D'r Ochsewirt</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#frau_mehlstaub"><role><persName>Frau Mehlstaub</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#mullersknecht"><role><persName>Müllersknecht</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#moppel"><role><persName>Moppel</persName></role>, <roleDesc>Gfängiswärter</roleDesc>.</castItem>
@@ -264,7 +264,7 @@
         <castItem corresp="#wetterwiewel"><role><persName>Wetterwiewel</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#margrittel"><role><persName>Margrittel</persName></role>, <roleDesc>e Waldfee</roleDesc>.</castItem>
         <castItem corresp="#waldfee"><role><persName>Waldfee</persName></role>, <roleDesc/>.</castItem>
-        <castItem corresp="#d_r_diefel"><role><persName>D'r Diefel</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_diefel"><role><persName>D'r Diefel</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#sini_grossel"><role><persName>Sini Grossel</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#lojebittel"><role><persName>Löjebittel</persName></role>, <roleDesc>im Diefel siner Sekretär</roleDesc>.</castItem>
         <castItem corresp="#springdeifel"><role><persName>Springdeifel</persName></role>, <roleDesc/>.</castItem>
@@ -289,8 +289,8 @@
         <castItem corresp="#fricatelli_marius"><role><persName>Fricatelli Marius</persName></role>, <roleDesc>Müsikclowe</roleDesc>.</castItem>
         <castItem corresp="#fricatelli_jean"><role><persName>Fricatelli Jean</persName></role>, <roleDesc>Müsikclowe</roleDesc>.</castItem>
         <castItem corresp="#bibi-coco"><role><persName>Bibi-Coco</persName></role>, <roleDesc>e Elephant</roleDesc>.</castItem>
-        <castItem corresp="#d_r_esel_schakob"><role><persName>D'r Esel Schakob</persName></role>, <roleDesc/>.</castItem>
-        <castItem corresp="#d_r_bar_chocolat"><role><persName>D'r Bär Chocolat</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_esel_schakob"><role><persName>D'r Esel Schakob</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_bar_chocolat"><role><persName>D'r Bär Chocolat</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#ali-baba"><role><persName>Ali-Baba</persName></role>, <roleDesc>e Ries</roleDesc>.</castItem>
         <castItem corresp="#zirikdiener_in_gala"><role><persName>Zirikdiener in Gala</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#vier_klaani_matrose_clairon"><role><persName>vier klaani Matrose (Clairon)</persName></role>, <roleDesc/>.</castItem>

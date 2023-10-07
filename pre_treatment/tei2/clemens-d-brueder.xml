@@ -47,6 +47,9 @@
           <person sex="M" xml:id="francois">
             <persName>François</persName>
           </person>
+          <person sex="M" xml:id="lucien">
+            <persName>Lücien</persName>
+          </person>
           <person sex="M" xml:id="doni">
             <persName>Doni</persName>
           </person>
@@ -56,7 +59,7 @@
           <person sex="M" xml:id="kohler">
             <persName>Kohler</persName>
           </person>
-          <person sex="M" xml:id="rppel">
+          <person sex="M" xml:id="rappel">
             <persName>Ræppel</persName>
           </person>
           <person sex="M" xml:id="zipfel">
@@ -107,7 +110,7 @@
         <castItem corresp="#doni"><role><persName>Doni</persName></role>, <roleDesc>Knecht biem Kuenz</roleDesc>.</castItem>
         <castItem corresp="#sauvinger"><role><persName>Sauvinger</persName></role>, <roleDesc>Sæsselmacher</roleDesc>.</castItem>
         <castItem corresp="#kohler"><role><persName>Kohler</persName></role>, <roleDesc>gen. Roter garde-chasse</roleDesc>.</castItem>
-        <castItem corresp="#rppel"><role><persName>Ræppel</persName></role>, <roleDesc>Vizepresident vun dr Gymnastique</roleDesc>.</castItem>
+        <castItem corresp="#rappel"><role><persName>Ræppel</persName></role>, <roleDesc>Vizepresident vun dr Gymnastique</roleDesc>.</castItem>
         <castItem corresp="#zipfel"><role><persName>Zipfel</persName></role>, <roleDesc>Polizeigard</roleDesc>.</castItem>
         <castItem corresp="#pimpe"><role><persName>Pimpe</persName></role>, <roleDesc>Postmeister</roleDesc>.</castItem>
         <castItem corresp="#e_mann_uss_der_stadt"><role><persName>E Mann üss der Stadt</persName></role>, <roleDesc/>.</castItem>
@@ -516,7 +519,7 @@
           <stage>(brüelt im Räppel ins Ohr)</stage>
           <p>Räppel, fange jetz an mit de Redd — Silance — hohoho — jetz wurd ge- redt un nimm gemüsikt.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p><stage>(nimmt de Stuehl un steht druff, — Zipfel steht hinter-ne un soufliert-em)</stage> Monsieur Vincenz Kuenz! Mir — diss häisst ich un d'membres vun dr Gymnas gratüliere Ejch vun Harze zuem 50. Geburts- däüj. Sisch nitt wäje dam ass-es ebs ze drinke gitt — näin — as isch wäje de Verdienschte, wie Ihr Ejch um d’ Societät erworwe hann — —!</p>
         </sp>
@@ -528,7 +531,7 @@
           <speaker>Zipfel:</speaker>
           <p>Ach, ich bin e Zipfel — hohoho — <stage>(schmisst’s Papier uf de Bodde)</stage>.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Was hann-er ze lache, ich kanns jo — Als Pre- sident hann Ihr Ejch grossi mérite um d’ Gymnas gemacht, un drum kann mr denne Däuj nitt verbie lonn gehn, ohne Ejch vun Harze Glüeck ze wünsche un vor alle Litte ze säue, wie Ihr immer zuem Wohl vun ünsere Societät gschafft hann.</p>
         </sp>
@@ -537,7 +540,7 @@
           <stage>(hett's Papier widder ufghebbt un soufliert)</stage>
           <p>Wann mr — hohoho!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Bisch schun widder do, dü Pfohl!</p>
         </sp>
@@ -545,7 +548,7 @@
           <speaker>Zipfel:</speaker>
           <p>A, ich bin e, hohoho, Pfohl! <stage>(schmisst’s Papier widder eweck)</stage>.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Wann mr’s bedankt, vor 50 Johr sinn-r noch i de Windle gelaje un hitt sinn-r President vun-ere Societät, wo 50 Mann starik isch. Un erscht ’s Reck wie Ihr uns angschafft hann.</p>
         </sp>
@@ -554,7 +557,7 @@
           <stage>(rueft)</stage>
           <p>’s Pfard nitt vergasse!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Diss kummt jo noch, s’Asse.</p>
           <pb n= '15' />
@@ -564,7 +567,7 @@
           <stage>(brüelt)</stage>
           <p>'s Pfard nitt vergasse !</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Grad haw-is welle säue. Un erscht de letschte Monet hett-r 's Pfard frisch üewerzeje lonn un vier neji Füess dran mache lonn. Ja, sahn-r, Ihr membres, diss sinn Date, die duet mr nie vergasse. Un drum soll’s galte wie’s im Versel heisst. So viel — so viel — Zipfel — redd doch —</p>
         </sp>
@@ -572,7 +575,7 @@
           <speaker>Zipfel:</speaker>
           <p><stage>(hebbt’s Papier uf, soufliert)</stage> So viel Dorne —</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Näin — nitt von vorne. — Uewerhäubt halt’s Müll, ich kanns. — Zäj gib mr de Zettel. <stage>(Zipfel gibt's — lest ab)</stage>: So viel Dorne e Rosestock, So viel Hoor e Zottelbock, So viel Flöe e Püdelhünd, So viel Johr sollsch lawe gsünd ! Un jetz noch e drejfachs Vive — vive — vive ! <stage>(dr Stuehl bricht in, Räppel stäckt drinne. — Grosses Gelächter.)</stage></p>
         </sp>
@@ -584,11 +587,11 @@
           <speaker>Kuenz:</speaker>
           <p>Ihr liewi membres! Alle zamme viel mols merçi füer die gross Ehr, wie Ihr mir do erwiese. Was ich bis jetz in dr Societät gemacht hab, isch garn gschahn, es hett mr Fraid gemacht, un ich wills äu wittersch so halte. <stage>(Allgemeines Bravo !)</stage> Ihr liewi Litt — ich bin kenn grosser Redner, awer numme so- viel sää i Ejch, halte immer zamme, bliewe äinich — l’Union fait la force! Im Üewerrescht verstehn mr uns — also noch emol merçi, un äu dir Räppel min Cumplement füer dini Redd — hesch dü die uf- gsetzt?</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Mich hett nieme ufghetzt. Kuenz: <stage>(lütt)</stage> Ob dü die Redd gemacht hesch?</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>As hett Hitz koscht — dr Zipfel hett mir dran gholfe. Wäisch jo, ich hab in dr Schuel schun nitt gare gelehrt.</p>
           <pb n= '16' />
@@ -629,11 +632,11 @@
           <speaker>Sauv.:</speaker>
           <p>Vingt-eing Pfiffedeckel — bie Ejch mues mr awer äu dran halte, wann mr züe sim Sach kumme will. <stage>(brüelt :)</stage> Ich soll als Grumbeeresalad esse un Ihr packe d’ Würscht, ’s isch wohr!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Wie isch e Hoor? Sauv.: Ihr selle nitt alli Würscht asse.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Ihr brüeche nitt so ze brüele, ich hab jo erscht ebbene acht.</p>
         </sp>
@@ -647,7 +650,7 @@
           <stage>(ützt)</stage>
           <p>Isch wohr, Räppel, sinn-r Hochzitter ?</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(wüeti)</stage>
           <p>War säit diss! Dene nimi vor de Maire. Sauv.: Ah, quelle bonne nouvelle. — Alt genüej wärde nr jo.</p>
@@ -661,7 +664,7 @@
           <speaker>Doni:</speaker>
           <p>Ja — awer ohne Luft kann mr nitt läwe. <stage>(Grosses Gelächter.)</stage></p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p><stage>(wurd als wüeticher)</stage> A Ihr lache mich üss, mich, de Vizepresidänt. Ihr wisse, ass ich d’ Wibs- litt nitt schmecke kann. <stage>(Alles lacht ne üss.)</stage> Guet — ich geh — ich blie nimi im Veräin —Ich gieb mini Demänsion als Vzepresidänt. <stage>(wüeti ab d'. d. M.)</stage></p>
         </sp>
@@ -670,7 +673,7 @@
           <stage>(rueft)</stage>
           <p>Alle, Räppel, ’s isch jo numme Gschpass, blie doch do.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(bäeffzt zue dr Düer erin)</stage>
           <p>Nix ze moche — ich kumm nimi.</p>
@@ -858,7 +861,7 @@
           <speaker>Kuenz:</speaker>
           <p>Gewiss, gewiss, Herr Poschtmäischter.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Waje was steh ich dann do? Mit mir redd kenn Mansch — bin ich dann Essi?</p>
         </sp>
@@ -870,7 +873,7 @@
           <speaker>Zipfel:</speaker>
           <p>Ich redd ganz gare mit ejch — awer wann-r glich wüeti ware — mr kann doch äu mit-em Vieh redde. Jetz awer säue emol — Hohoho — worum welle-n-Ihr dann nitt hirote?</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(wüeti)</stage>
           <p>Ich will elläin am Disch sitze, ich will nitt ambediert sinn iüewerem Asse — gar wann’s Lawerknepfle gitt.</p>
@@ -879,7 +882,7 @@
           <speaker>Pimpe:</speaker>
           <p>Aber einer unserer grössten deutschen Dichter hat schon gesagt: „Es ist nicht gut, dass der Mensch allein sei.“ Also auf das Wohl Ihrer Zukünftigen leere ich mein Glas.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(lachend)</stage>
           <p>Ganz mini Mäinung, Harr Poscht- mäischter. <stage>(zuem Zipfel)</stage> Was hett-r gsäit?</p>
@@ -889,7 +892,7 @@
           <p>Jo — dene alte Stachhedes will jo kenni! <stage>(Ge- lächter.)</stage></p>
           <pb n= '23' />
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Ah, Ihr lache mi schun widder üss? Jetz isch awer ferdi. — Jetz hann-r mi gsähn. — Ihr Gemües- köepf, Ihr Süürmilichhäfe! <stage>(wüeti ab d. d. M. — Gelächter)</stage>.</p>
         </sp>
@@ -950,7 +953,7 @@
           <speaker>Zipfel:</speaker>
           <p>Hohoho — ja ünseri Häimet — so gitt’s kenn Ländel meh.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(kummt erin)</stage>
           <p>Was isch dann füer e Spack- dackel do hinne.</p>
@@ -960,7 +963,7 @@
           <speaker>Alli:</speaker>
           <p>Ah dr Räppel — so isch racht — <stage>(d’ Burscht mache-ne Kreis un danze um ne rum, singe:)</stage> „Dr Hans im Schnokeloch hett alles wass-r will, Un wass-r hett, dis will-r nitt, Un wass-r will, diss hett-r nitt. Dr Hans im Schnokeloch hett alles wass-r will.“</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(lacht)</stage>
           <p>Mer kann halt nitt böes sinn mit ejch Wackebum.</p>
@@ -1778,7 +1781,7 @@
           <speaker>Doni:</speaker>
           <p>Dar hett e Schleppet — er isch belade wie e Essel.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(kummt, 4 Kinder, à Buewe un 1 Maidel; vun rächts rin, Zipfel kummt au)</stage>
           <p>Kumme erin, ihr King, jetz bekummener ’s Chrischkindel — Guete-n-Owe biesamme. Do bin i un do bring ich die King von den membre, wie gfalle sinn, hesch alles gericht, Kuenz, für d’ Bschärung?</p>
@@ -1846,7 +1849,7 @@
           <speaker>Zipfel:</speaker>
           <p>Hohoho, do kumm ganz vieri, ass mrs guet höert. Finnele: <stage>(steht vor un saat e „Wihnachtsgedicht“ uf. Wenn’s ferti isch, ruefe alli „Bravo! — diss isch natt gewann usw.)</stage></p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Diss isch e schöen Liedel gewann, ass hett awer so tief gsunge. <stage>(zuem Kleinschte)</stage> Zäj du Kläi- ner, wie häisch dann dü?</p>
         </sp>
@@ -1854,7 +1857,7 @@
           <speaker>Sebastian:</speaker>
           <p>Ich häiss Sebastian, d’ Mueter säit mr awer numme „Basche“.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Wie häiss-r?</p>
         </sp>
@@ -1863,7 +1866,7 @@
           <stage>(brüele)</stage>
           <p>Sebastian!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Hhm — diss isch e schöener Name — zäj Se- bastian! höer emol, kannsch dü äu e Wihnachtsliedel singe?</p>
         </sp>
@@ -1872,7 +1875,7 @@
           <stage>(lütt)</stage>
           <p>Ja, ich kann schun singe, min-r Brue- der hett mich ebs natt’s gelehrt. <stage>(singt)</stage> Oooh Sü- sanna, wie ist das Leben doch so schön! <stage>(Grosses Gelächter, üsser Räppel.)</stage></p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Was isch dann do ze lache, diss isch doch e fromm’s Lied: „Hosanna in der Höh“, diss isch natt vun dir, Kläiner, do hesch 5 Mk. füer’s Chrischtkindel vun mir. <stage>(Lachen)</stage> Lache numme, ihr gottlosi Mansche ass-r sinn — eso Lieder gfalle mir besser, ass wie die Lumpeliedle — hesch dinn Sach guet ge- macht, Männel.</p>
           <pb n= '51' />
@@ -1905,7 +1908,7 @@
           <speaker>Zipfel:</speaker>
           <p>Hohoho — jetz awer ufgepackt, ihr Trawante un häime — gann im Harr Kuenz noch d’ Hand un säue schöen „Guet Nacht“ — no häime zue dr Mueter. <stage>(d’ Kinder gänn im Kuenz d’ Hand, saue „Guet Nacht biesamme“ un gehn no mit-em Zipfel r. a.)</stage></p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Ich blie noch do biem Sässelmacher, mr trinke noch äins mit-nand bis zitt isch füer in d’ Mette. Kumme ihr äu un sitze dezü — lange Nusse un Brot hare, ass mr ebs ze triewe hann.</p>
         </sp>
@@ -1913,11 +1916,11 @@
           <speaker>Sauv.:</speaker>
           <p>C’est-ça — mir asse se un dti kannsch se uf- knacke.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Awer sicher, welle mr äins packe — e Schoppe Win! Alli sitze zamme an de Disch, François bringt d'Nüsse, Brot un Win — stellt sich no an’s Comptoir.)</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(schänkt in)</stage>
           <p>Gsündhäit — François, wann muesch dü dann furt zue de Prejse.</p>
@@ -1926,7 +1929,7 @@
           <speaker>Franç.:</speaker>
           <p>Mit dem erschte morje früej.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Diss gläuwi, diss macht äim jo Müehj. Ich mäin mit wellem Zugg?</p>
           <pb n= '52' />
@@ -2028,7 +2031,7 @@
           <stage>(zuem Räppel)</stage>
           <p>Adje Räppel — <stage>(lütt)</stage> mache, ass-r jetz ball hirote!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Hirote? Wie d’ Franzose kumme — no nim i e Barisere — un wann de als schriebsch, ze schriebsch mr als äu e Gruess ning, as koscht jo nix, as geht jo mit dr Faldposcht.</p>
         </sp>
@@ -2058,7 +2061,7 @@
           <stage>(üsser Räppel)</stage>
           <p>Sasselmacher, sej still, fang nitt an mit dare Litanej!</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Was willr? E Liter Nejer? Ich drink kenn Nejer.</p>
         </sp>
@@ -2156,7 +2159,7 @@
           <speaker>Doni:</speaker>
           <p>War wäis — viellicht erfahre-ne ebs Nej’s die Däj.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(kummt ganz verdaddert erin)</stage>
           <p>A Pfaffermüenz!</p>
@@ -2169,7 +2172,7 @@
           <speaker>Doni:</speaker>
           <p>Ihr mache jo e Gsicht wie e Hafe voll gschwellti Ardäpfel.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Ardäpfel? Ich hab noch genuej, ich hab se guet versteckelt ghett.</p>
         </sp>
@@ -2178,7 +2181,7 @@
           <stage>(lütt)</stage>
           <p>Ich mäin, ob Ihr Ejch nitt fräje, ass d’ Franzose kumme.</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Näin, näin, ich fräj mi nitt.</p>
         </sp>
@@ -2187,7 +2190,7 @@
           <stage>(lütt)</stage>
           <p>Oho — dü bisch mir noch e natter El- sässer, dü?</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <p>Nit eso — awer ich hab doch vor-em Johr do hinne versproche, ass wie d’ Franzose kumme, no due i hirote — un jetz sell i hirote — näin. <stage>(hebt de Büch)</stage>. Uuh, miner Büch! Noch e Pfaffermüenz!</p>
         </sp>
@@ -2195,7 +2198,7 @@
           <speaker>Doni:</speaker>
           <p>Ja, was-r versproche hann, diss müen-r äu halte, do batt kenn Fleischbrüehj. Awer sahn’r wänn-r jetz e Wiewele hatte, diss kennt Ejch jetz Tee koche un e häisser Deckel mache, un —</p>
         </sp>
-        <sp who="#rppel">
+        <sp who="#rappel">
           <speaker>Räppel:</speaker>
           <stage>(hebt d’ Ohre zü)</stage>
           <p>Lonn mi mit Fridde. — Uuh! <stage>(hebt de Büch un lauft nüss d. d. M. — d’ Kinder lache-ne üss.)</stage></p>

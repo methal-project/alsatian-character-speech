@@ -77,19 +77,19 @@
           <person sex="F" xml:id="lenel">
             <persName>Lenel</persName>
           </person>
-          <person sex="M" xml:id="d_r_unkel_franz">
+          <person sex="M" xml:id="dr_unkel_franz">
             <persName>D'r Unkel Franz</persName>
           </person>
           <person sex="M" xml:id="fritzel">
             <persName>Fritzel</persName>
           </person>
-          <person sex="M" xml:id="d_r_bassgej">
+          <person sex="M" xml:id="dr_bassgej">
             <persName>D'r Bassgej</persName>
           </person>
-          <person sex="M" xml:id="d_r_fisselbloje">
+          <person sex="M" xml:id="dr_fisselbloje">
             <persName>D'r Fisselblöje</persName>
           </person>
-          <person sex="M" xml:id="d_r_bangelschlacker">
+          <person sex="M" xml:id="dr_bangelschlacker">
             <persName>D'r Bangelschlacker</persName>
           </person>
           <person sex="M" xml:id="_s_drumbohn">
@@ -190,22 +190,22 @@
           </castItem>
           <roleDesc>Kamerädle vom Gredel</roleDesc>
         </castGroup>
-        <castItem corresp="#d_r_unkel_franz"><role><persName>D'r Unkel Franz</persName></role>, <roleDesc/>.</castItem>
+        <castItem corresp="#dr_unkel_franz"><role><persName>D'r Unkel Franz</persName></role>, <roleDesc/>.</castItem>
         <castItem corresp="#fritzel"><role><persName>Fritzel</persName></role>, <roleDesc>Stüdiefriend vom Jean</roleDesc>.</castItem>
         <castGroup>
-          <castItem corresp="#d_r_bassgej">
+          <castItem corresp="#dr_bassgej">
             <role>
               <persName>D'r Bassgej</persName>
             </role>
             <roleDesc>Dorfmüsikante</roleDesc>
           </castItem>
-          <castItem corresp="#d_r_fisselbloje">
+          <castItem corresp="#dr_fisselbloje">
             <role>
               <persName>D'r Fisselblöje</persName>
             </role>
             <roleDesc/>
           </castItem>
-          <castItem corresp="#d_r_bangelschlacker">
+          <castItem corresp="#dr_bangelschlacker">
             <role>
               <persName>D'r Bangelschlacker</persName>
             </role>

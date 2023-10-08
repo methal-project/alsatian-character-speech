@@ -1,4 +1,4 @@
-Character speech analysis
+Character speech extraction
 =========================
 
 Data and code to extract character speech to plays in the Methal corpus and add character metadata from the Methal prosopography, besides plays' basic bibliographic metadata. Output format is delimited (exported pandas dataframe).
@@ -18,7 +18,7 @@ The program is organized as follows :
 ## Output
 
 - **The output to use for further analyses is [`overall-per-character-speech-postpro.tsv`](./overall-per-character-speech-postpro.tsv)**
-
+- A [notebook](./metadata_analysis.ipynb) describes the **metadata distribution**
 - The main script outputs two dataframes called `overall-per-character-speeech.tsv` and `overall-per-character-speech-postpro.tsv`.
 - The second one, with `postpro` in its name is the one to use, as it contains some improvements (recoding etc) over the one originally output
 

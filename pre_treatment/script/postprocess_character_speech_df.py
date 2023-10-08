@@ -18,7 +18,7 @@ except AssertionError:
   assert(indf_path.exists())
 print(f"- Input at {indf_path.absolute()}")
 
-outdf_path = indf_path.with_stem(indf_path.stem + "-postpro6")
+outdf_path = indf_path.with_stem(indf_path.stem + "-postpro7")
 print(f"- Output at {outdf_path.absolute()}")
 
 try:
@@ -123,6 +123,11 @@ insert_at = outdf.columns.to_list().index("gender")
 outdf.insert(loc=insert_at+1, column="author", value=authors)
 outdf.insert(loc=insert_at+2, column="date", value=chosen_dates)
 outdf.insert(loc=insert_at+3, column="date_type", value=date_types)
+
+# other cleanups
+
+# some speaker names had trailing whitespace
+outdf['speaker'] = outdf.speaker.apply(lambda x:x.strip())
 
 # write out
 outdf.to_csv(outdf_path, index=False)

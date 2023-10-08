@@ -1,4 +1,4 @@
-Analyse_emotion
+Character speech analysis
 -----------------
 
 - Sources pour stages analyse d'émotions pour les pièces théâtres alsaciennes

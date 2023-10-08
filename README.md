@@ -55,7 +55,7 @@ Possible values for this category are:
 |M|Male|
 |B|Both (group character with a speech turn, there are both male and female characters in it)|
 |U|Was not possible to tell by looking at the *dramatis personæ*|
-|grp_char/gdr_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
+|grp_char/gdr_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 0.6% of speech turns are affected|
 
 #### Social class
 
@@ -117,5 +117,7 @@ The extraction is based on a subset of [Qinyue Liu's program](https://git.unistr
   - A main bash script runs the extraction per play, then collects all results into a single dataframe per corpus and does some postprocessing (renaming some fields, recoding some values etc.)
   - Some data were corrected (e.g. some mismatched IDs across `@who` and `listPerson` children in the TEI) in order to prevent losing some character's metadata.
   - Some field names were renamed (e.g. `drama_type` renamed as `genre`)
-  - The category values for speech turns where no metadata was found (given annotation errors or group characters that cannot be annotated with a single value) were changed. Before, the speaker name was *group* and the category value was *{category-name}_unknown* (e.g. *job_unknown*). Now speaker name is *grp_char/err* and category value is *grp_char/{category-abbreviation}_err* (e.g. *grp_char/jcat_err*) for professional category errors).
+  - The category values for speech turns where no metadata was found (given annotation errors or group characters that cannot be annotated with a single value) were changed. Before, the speaker name was *group* and the category value followed the pattern *{category-name}_unknown* (e.g. *job_unknown*). Now speaker name is *grp_char/err* and category value follows the pattern *grp_char/{category-abbreviation}_err* (e.g. *grp_char/jcat_err*) for professional category errors).
   - A notebook was added with descriptive statistics on the metadata collected
+
+Created by Pablo Ruiz Fabo ([contact](https://lilpa.unistra.fr/theme-1-lexiques-discours-et-transpositions/membres/enseignants-chercheurs/ruiz-fabo-pablo/)).

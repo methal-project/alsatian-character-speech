@@ -40,7 +40,7 @@ if [[ $COLLECT == 1 ]]; then
     # avoid forgetting postprocess
     POSTPROCESS=1
     echo "Collect to single dataframe"
-    outdir=$(grep dir_path pre_treatment/script/emo_xml_treat.py | \
+    outdir=$(grep dir_path pre_treatment/script/extract_character_speech.py | \
              head -n1 | grep -Po '".+?"' | sed 's/"//g')
     echo $outdir
 

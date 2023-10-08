@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@Author    :   Qinyue Liu version 1 (named emo_xml_treat.py), Pablo Ruiz Fabo version 2 with
+               modifications to extract character speech only (no stage directions)
+@Version   :   2.0
+@Desc      :   In README.md
+'''
+
 import csv
 #import xml.etree.ElementTree as ET
 from lxml import etree as ET
@@ -6,7 +15,7 @@ import pandas as pd
 import re
 import warnings
 
-dir_path = "./pre_treatment/treated_files_df20"
+dir_path = "./pre_treatment/treated_files_df"
 xml_in = ""
 
 NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}

@@ -18,7 +18,7 @@ except AssertionError:
   assert(indf_path.exists())
 print(f"- Input at {indf_path.absolute()}")
 
-outdf_path = indf_path.with_stem(indf_path.stem + "-postpro10")
+outdf_path = indf_path.with_stem(indf_path.stem + "-postpro")
 print(f"- Output at {outdf_path.absolute()}")
 
 try:

@@ -1,262 +1,121 @@
 Character speech analysis
------------------
-
-- Sources pour stages analyse d'émotions pour les pièces théâtres alsaciennes
-- Les sources étaient originalement dans plusieurs dépôts dépendamment de leur origine et elles ont été collectées ici pour faciliter la manipulation
-
-## Contenu
-
-Chaque dossier contient les ressources suivantes :
-
-- **emotions**
-	- Résultats des analyses d'émotions en CSV pour chaque pièce de théâtre, et aussi les scripts pour analyse et visualisation.
-	- *avgEmoValues.py*:
-	script ecrit par [EmotionDynamics](https://github.com/Priya22/EmotionDynamics/tree/master/code), pour calculer les coefficients des émotions selon un lexicon
-	- *alsatian_tokeniser.py*:
-	script pour tokeniser textes alsaciennes, écrit par madame Bernhard
-	- *pre-graphic.py*:
-	script pour calculer rolling-means, et regrouper les emotions des pièces dans le fichier all_pieces_info.csv.
-	- *split_plays.py*:
-	traitement pour séparer progrès de pièce de théâtre.
-	- *graphic.py*:
-	script pour réaliser des analyses sur les émotions et visualiser les résultats pour les pièces théâtres
-- **graphics**
-	- Les résultats d'analyse sauvegardé en images
-
-- **intermediate**
-	- *csv_replaced*:
-	un répertoire contenant les fichiers CSV de pièce de théâtre avec variants alsaciens remplacés par une forme normale.
-	- *idf_info*:
-	un répertoire contenant pour chaque pièce de théâtre les idf de chaque mots calculé par tourne de parole.
-	- *text_brut*:
-	un répertoire contenant pour chaque pièce de théâtre une version texte brute.
-	- *alsatian_tokeniser.py*, script pour tokeniser textes alsaciennes, écrit par madame Bernhard
-	- *idf_files.py*:
-	gérer les textes brutes de chaque pièce de théâtre dans répertoire /text_brut, et aussi un fichier *idf_info.csv* qui contient tf-idf des mots dans chaque pièce de théâtre calculé par fichier.
-	- *variant_idf_phrases.py*:
-	remplacer les variants et créer les nouveaux fichiers CSV dans répertoire /csv_replaced, et aussi cela va calculer idf de chaque mot dans chaque piece par paroles, et les sauvegarder dans répertoire /idf_info.
-- **pre_treatment**
-	- script: 
-		Script pour analyser les fichiers de théâtre en XML, et sortir des fichiers en CSV avec des informations supplémentaires de personnages, type de théâtre etc.
-	- tei, tei2, tei-lustig:
-		Pièces de théâtre en xml sans aucun traitement
-	- treated_files:
-		Contien les fichiers CSV (pièces de théâtre en format .csv) traités avec des informations supplémentaires
-
-- **summary_stage**
-	Chaque semaine un fichier md pour conclure ce que j'ai fait 
-- **commands**
-	- *command_list.txt*
-		liste des commandes pour convertir les fichiers xml aux fichiers csv avec les informations supplémentaires
-	- *command_list_ed_analyse.txt*
-		liste des commandes pour calculer les coefficients des émotions pour chaque pièce de théâtre
-
-## Tutoriel
-
-#### pre_treatment
-
-Pour analyser les emotions dans les pièces de théâtre,  il faut d'abord extraire les informations utiles dans les fichiers XML, et les convertir en fichiers CSV. Les fichiers XML se trouvent dans *pre_treatment / tei, tei-lustig et tei2*.
-
-Il faut ouvrir un terminal dans le répertoire racine, et faire:
-
-```
-python3 pre_treatment/script/emo_xml_treat.py nom-du-repertoire nom-du-fichier-xml
-```
-
-*Par exemple:*
-```
-python3 pre_treatment/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
-```
-Maintenant dans le *pre_treatment / treated_files*, il doit contient un fichier *am-letzte-maskebal.out.csv*
-
-Après, on bouge dans le répertoire intermediate par ```cd intermediate```, on va d'abord remplacer les variants Alsacien dans les paroles par une forme normale, on peut exécuter:
-```
-python3 variant_idf_phrases.py
-``` 
-Cela va remplacer les variants et créer les nouveaux fichiers CSV dans répertoire /csv_replaced, et aussi cela va calculer les idf des mots dans chaque piece par l'unité des paroles, et les sauvegarder dans répertoire /idf_info.
-
-Pour calculer tf-idf des mots par unité des fichiers, il faut exécuter :
-```
-python3 idf_files.py
-```
-Cette commande peut gérer les textes bruts de chaque pièce de théâtre dans répertoire /text_brut, et aussi un fichier *idf_info.csv* qui contient tf-idf des mots dans chaque pièce de théâtre.
-
-Les étapes finales:
-D'abord aller dans le repertoire results, et ouvrir un terminal dans ce repertoire.
-```cd results```
-Utiliser la bibliothèque faite par https://github.com/Priya22/EmotionDynamics , la commande sera par exemple:
-
-```
-python3 avgEmoValues.py --dataPath ../pre_treatment/treated_files/am-letzte-maskebal.out.csv --lexPath ELAL-als-lexicon.csv --lexNames valence dominance arousal anger anticipation disgust fear joy sadness surprise trust --savePath am-letzte-maskebal --mode tf_idf_phrases
-```
---dataPath est le chemin vers le fichier original, cela peut être ../pre_treatment/treated_files/ ou ../intermediate/csv_replaced/ (sans variants)
-
---lexPath est le chemin vers lexique.
-
---lexNames est les noms des emotions.
-
---savePath est le chemin (un répertoire) pour sauvegarder les résultats d'analyse.
-
---mode peut être "tf_idf_phrases", "tf_idf_files", "no_idf" ou justement rien.
-Avec tf_idf_phrases, tf-idf des mots seront calculés par l'unité de tourne de parole.
-Avec tf_idf_files, tf-idf des mots seront calculés par l'unité de fichier.
-Avec no_idf ou rien, tf-idf sera pas calculé.
+=========================
 
-Avant de faire la visualisation, exécuter ces deux commandes pour préparer:
-```
-python3 pre-graphic.py
-python3 split_plays.py
-```
-pregraphic.py va calculer les rolling_means des emotions pour chaque pièce de théâtre, et aussi ajouter un fichier all_pieces_info.csv qui contiennent toutes les informations de chaque pièce. Ce fichier gère les images avec --mode group.
+Data and code to extract character speech to plays in the Methal corpus and add character metadata from the Methal prosopography, besides plays' basic bibliographic metadata. Output format is delimited (exported pandas dataframe).
 
-split_plays.py va calculer et grouper les progrès des pièces de théâtre. Pour les pièce très longue, les progrès seront toujours commencent par 0 et terminent par 100.
+Given a TEI corpus (in one or several directories), it extracts a dataframe for the whole corpus, with each character's speech turns and the character's metadata, following speech-turn order in each play. 
 
-#### Visualisation pour les émotions
+# Program Structure
 
-Dans repetoire "results", il y a un fichier *graphic.py*, qui gère les résultats d'analyse des pièces de théâtre.
+The program is organized as follows :
 
-*demonstration:*
+## Main scripts
 
-``` shell
-python3 graphic.py --mode --pieces --emotions --filters --dramatype --savepath
-```
-**--mode**: 
-Mode d'analyse. Valeurs possibles : single / group / most_positive / most_negative
+- `extract_speech_main.sh`: Runs the extraction. Run without options to see the usage notes. Paths to run are hard-coded here and in the scripts it calls (it runs with the directory structure as in this repo).
+- `metadata_analysis.ipynb`: After running extraction, this notebook can be run to get descriptive statistics on the metadata. 
 
-*single*: 
-Analyser des pièces détaillées, une visualisation micro pour faire les comparaison entre les pièces.
 
-*group*:
-Une visualisation macro pour voir les informations entre différentes emotions, types de théâtres etc.
+## Output
 
-*most_positive*:
-Visualiser les emotions de la pièce la plus positive.
+- **The output to use for further analyses is [`overall-per-character-speech-postpro.tsv`](./overall-per-character-speech-postpro.tsv)**
 
-*most_negative*:
-Visualiser les emotions de la pièce la plus negative.
+- The main script outputs two dataframes called `overall-per-character-speeech.tsv` and `overall-per-character-speech-postpro.tsv`.
+- The second one, with `postpro` in its name is the one to use, as it contains some improvements (recoding etc) over the one originally output
 
-**--pieces**:
-Noms des pièces à analyser. Valeurs possibles:
-nom(s) de(s) pièce(s) séparés par "," / all, séparés par ","
-(*l'option "all" c'est que pour la --mode group*)
+### Annotations and content in the output
 
-**--emotions**:
-Noms des emotions. Valeurs possibles:
-"anger" / "disgust" / "fear" / "joy" / "sadness" / "surprise" / "trust" / "anticipation"
-(*Il faut toujours deux emotions séparés par "," pour la --mode group*)
+The dataframe has the fields below. Besides the description, details about possible metadata values are given below.
 
-**--filters**:
-Noms des filtres, il faut que l'utiliser dans la --mode **single**. Valeurs possibles:
-speaker / sex / job / job_category / social_class, 
-séparés par ","
+For the **metadata distribution**, see the [notebook](./metadata_analysis.ipynb).
 
-**--dramatype**:
-Noms des types de pièces de théâtres, il faut que l'utiliser dans la --mode **group**. Valeurs possibles:
-comedy / drama / horror / tale
+For more details about the categorization, see [our paper](https://univoak.eu/islandora/object/islandora%3A157880) at the Quantitative Drama Analyis workshop.
 
-**--savepath**:
-Un chemin pour sauvegarder des images. Le chemin doit être un répertoire, le nom de fichier sera généré automatiquement selon l'analyse.
+| position | field name | description | 
+| ---- | ---- | --- | 
+| 0 | speaker | Character name | 
+| 1 | gender | Character gender | 
+| 2 | author | author name | 
+| 3 | date | A date for the play | 
+| 4 | date_type | When it was written, first printed, or print date for the edition we used | 
+| 5 | social_class | Character social class, we estimated this based on information in the *dramatis personæ* | 
+| 6 | job | Character's profession as in the *dramatis personæ* | 
+| 7 | job_category | Professional category using our own taxonomy | 
+| 8 | segment_number | For emotion analysis, the plays get divided into homogeneous segments. This field can be ignored for other purposes. | 
+| 9 | play_short_name | Corresponds to the play's filename in the TEI directories (without *.xml*) | 
+| 10 | genre | We have comedy, drama, volksstueck, tale (*Märel*) | 
+| 11 | text | Each character's text. Line-breaks or interruptions are indicated with a triple pipe &#124;&#124;&#124;. These interruptions can happen e.g. if a stage direction was inserted within character speech, or in verse sections (the &#124;&#124;&#124; will separate each verse)  | 
 
+#### Gender
 
-1. La progression des émotions dans une ou plusieurs pièces.
+Possible values for this category are:
 
-*exemple:*
-```
-python3 graphic.py --mode single --pieces weber-yo-yo,greber-lucie --emotions joy,sadness
-```
-![emo_progress](graphics/demonstration/emo_progress.png)
-Le progress représente le progrès de la pièce. 0 c'est le début du théâtre, 100 c'est vers la fin du théâtre.
+|gender value| description|
+|---|---|
+|F|Female|
+|M|Male|
+|B|Both (group character with a speech turn, there are both male and female characters in it)|
+|U|Was not possible to tell by looking at the *dramatis personæ*|
+|grp_char/gdr_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
 
-2. Les émotions des personnages, genres, travails, classe-sociale etc.
-*exemple:*
+#### Social class
 
-```
-python3 graphic.py --mode single --pieces weber-yo-yo,greber-lucie --emotions joy,sadness --filters speaker
-```
-![with-filters](graphics/demonstration/with-filters.png)
-Dans cette image, on peut voir les différents niveaux de sentiments (joy et sadness) des personnages. Les coefficients de chaque point sont calculés par la valeur moyenne des emotions dans paroles de la personnage.
-**Par exemple,** Dans weber-yo-yo, le point rouge (Jules Kleitz) a le plus grand valeur de joy, cela veut dire que les paroles de Jules Kleitz ont la moyenne de joy la plus élevée.
+Possible values for this category are:
 
-3. Analyser des émotions pour les pièces indiquées:
+|social class value| comments|
+|---|---|
+|upper_class||
+|upper_middle_class||
+|middle_class|very little used|
+|lower_middle_class||
+|lower_class||
+|grp_char/sclass_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
 
-*exemple:*
-```
-python3 graphic.py --mode group --pieces weber-yo-yo,greber-lucie,am-letzte-maskebal,arnold-der-pfingstmontag --emotions joy,sadness
-```
-![pieces_indicated_group_plot](graphics/demonstration/pieces_indicated_group_plot.png)
 
-Dans le mode group, les coefficient des émotions sont calculé par le pourcentage.
+#### Professional category
 
-le *pourcentage* implique la portion d'une emotion dans une pièce de théâtre.
+Possible values for this category are below.
 
-D'abord, les émotions dans une pièce de théâtre ont été découpées en 2 groupes:
+The professions that were assigned to each category are in the [supplemental materials](https://docs.google.com/spreadsheets/d/1ulj81Zi-EFU2mh1mqRNbXUPXKh2_QbvAe3Ij3jwbI6I/edit#gid=1929982385) to our paper. There may be some differences between those data and the [input data](./pre_treatment/methal-personography.xml) used here.
 
-groupe1 : Valence, Arousal, Dominence
-groupe2 : Anger, anticipation, ... trust
+|professional category value| comments|
+|---|---|
+|agriculture||
+|associative world||
+|clergy|very little used|
+|crafts||
+|elementary_professions||
+|government_executive_officials||
+|industry_and_transportation||
+|intermediate_professionals||
+|military||
+|professional_scientific_technical||
+|rentiers||
+|service_and_sales||
+|grp_char/jcat_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
 
-Le pourcentage est calculé par:
-    sum de rolling-means d'une emotion / sum de rolling-means de toutes les emotions dans le groupe
+## Input data and other material
 
-**Par exemple,** le point bleu représente la portion de Joy et sadness dans am-letzte-maskebal. selon l'image, il y a presque 10% de sadness et 18% de joy dans cette pièce de théâtre. Cela sera calculée par:
-rolling-mean Joy / (rolling-mean Anger + rolling-mean Anticipation + ... + rolling-mean trust)
+- **`commands`** subdirectory
+	- `command_list.sh`
+		List of commands to apply the `extract_character_speech.py` script from the `script` directory, per play
 
-4. Analyser des émotions pour toutes les pièces:
-
-*exemple:*
-```
-python3 graphic.py --mode group --émotion joy,sadness
-```
-![joy_sadness_percentage](graphics/demonstration/joy_sadness_percentage.png)
-
-Dans cette image, on peut voir que pour comedy, les emotions sadness et joy ont une corrélation negative. Chaque point représente une pièce de théâtre, les coefficient des émotions sont calculé par le pourcentage.
-
-5. Analyser des émotions pour toutes les pièces dans un même type:
-
-*exemple:*
-```
-python3 graphic.py --mode group --émotion joy,sadness --dramatype comedy
-```
-![comedy](graphics/demonstration/comedy.png)
-6. Pairplot pour obtenir toutes les informations sur toutes les émotions
-
-*exemple:*
-```
-python3 graphic.py --mode group --pieces all
-```
-![pairplot_same_scale](graphics/demonstration/pairplot_same_scale.png)
-
-7. barplot pour obtenir toutes les informations des émotions sur une seule pièce
-
-*exemple:*
-```
-python3 graphic.py --mode group --pieces am-letzte-maskebal
-```
-![barplot](graphics/demonstration/barplot.png)
-
-**most_positive**
-Trouver la pièce la plus positive et afficher les émotions dans cette pièce par barplot
-
-*exemple:*
-```
-python3 graphic.py --mode most_positive
-```
-![most_positive](graphics/demonstration/most_positive.png)
-
-**most_negative**
-Trouver la pièce la plus negative et afficher les émotions dans cette pièce par barplot
-
-*exemple:*
-```
-python3 graphic.py --mode most_negative
-```
-![most_negative](graphics/demonstration/most_negative.png)
-
-#### Sauvegarder les images:
-
-par exemple:
-
-```
-python3 graphic.py --mode single --pieces arnold-der-pfingstmontag,am-letzte-maskebal --emotions joy,sadness --filters sex,job_category --savepath ../graphics/savefig
-```
-Il faut simplement utiliser --savepath avec chemin vers le  répertoire pour sauvegarder les images. (le répertoire doit existe déjà)
-
+- **`pre_treatment`** subdirectory
+	- `script` subdirectory:
+	  - `extract_character_speech.py`:  
+		Extracts speech turns (ignoring stage directions) and basic metadata for characters from the TEI plays. It crosses the information with the TEI prosopography to get character's social variables.
+	  - `post_process_character_speech_df.py`: Carries out a postprocessing on the whole-corpus dataframe obtaiend with `extract_speech_main.sh`, providing the final extraction results.
+	- `tei`, `tei2`, `tei-lustig`: **Input data.** TEI plays for the Methal corpus
+	- `methal-personography.xml`: Part of the **input data**. Prosopography with social variable annotations for characters (gender, social class, professional category etc.)
+	- `personnages-pieces.csv`:  Part of the **input data**. Methal corpus plays' bibliographic metadata. Used here to get the author's name and a date for the play.
+	- `treated_files_df`:
+		Dataframes output by `extract_character_speech.py`, per play
+
+# About
+
+The extraction is based on a subset of [Qinyue Liu's program](https://git.unistra.fr/methal/edytha) for lexicon-based emotion analysis in Alsatian plays. All parts unrelated to character speech extraction were removed. The directory structure and the script to extract text from the TEI plays and cross it with the prosopography was kept, with some modifications:
+  - Stage directions are not part of the output text
+  - A main bash script runs the extraction per play, then collects all results into a single dataframe per corpus and does some postprocessing (renaming some fields, recoding some values etc.)
+  - Some data were corrected (e.g. some mismatched IDs across `@who` and `listPerson` children in the TEI) in order to prevent losing some character's metadata.
+  - Some field names were renamed (e.g. `drama_type` renamed as `genre`)
+  - The category values for speech turns where no metadata was found (given annotation errors or group characters that cannot be annotated with a single value) were changed. Before, the speaker name was *group* and the category value was *{category-name}_unknown* (e.g. *job_unknown*). Now speaker name is *grp_char/err* and category value is *grp_char/{category-abbreviation}_err* (e.g. *grp_char/jcat_err*) for professional category errors).
+  - A notebook was added with descriptive statistics on the metadata collected

@@ -4,8 +4,9 @@ from lxml import etree as ET
 import os, sys
 import pandas as pd
 import re
+import warnings
 
-dir_path = "./pre_treatment/treated_files_df18"
+dir_path = "./pre_treatment/treated_files_df20"
 xml_in = ""
 
 NSMAP = {"tei": "http://www.tei-c.org/ns/1.0"}
@@ -87,7 +88,7 @@ def person_info(root):
     dic_line = {} # information of only one character
     for kids in root.iter(tag="{http://www.tei-c.org/ns/1.0}personGrp"):
         # look for all the nodes with a label "personGrp"
-        if (kids):
+        if len(kids):
             if (kids.attrib):
                 # get attributes of child nodes and add them to the dictionary dic_line
                 sex = kids.attrib["sex"]
@@ -161,18 +162,20 @@ def add_person_info(root, piece_id):
                 job_category = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='professional_category']")
                 social_class = kid.find(".//{http://www.tei-c.org/ns/1.0}f[@name='social_class']")
                 dic[persname] = ["","",""] # array which contains job, job_category and social_class
-                if (job):
-                    job = job.find("{http://www.tei-c.org/ns/1.0}symbol")
-                    job_title = job.attrib["value"]
-                    dic[persname][0] = job_title
-                if (job_category):
-                    job_category = job_category.find("{http://www.tei-c.org/ns/1.0}symbol")
-                    cate_title = job_category.attrib["value"]
-                    dic[persname][1] = cate_title
-                if (social_class):
-                    social_class =social_class.find("{http://www.tei-c.org/ns/1.0}symbol")
-                    s_class = social_class.attrib["value"]
-                    dic[persname][2] = s_class
+                with warnings.catch_warnings():
+                    warnings.simplefilter(action='ignore', category=FutureWarning)
+                    if (job):
+                        job = job.find("{http://www.tei-c.org/ns/1.0}symbol")
+                        job_title = job.attrib["value"]
+                        dic[persname][0] = job_title
+                    if (job_category):
+                        job_category = job_category.find("{http://www.tei-c.org/ns/1.0}symbol")
+                        cate_title = job_category.attrib["value"]
+                        dic[persname][1] = cate_title
+                    if (social_class):
+                        social_class =social_class.find("{http://www.tei-c.org/ns/1.0}symbol")
+                        s_class = social_class.attrib["value"]
+                        dic[persname][2] = s_class
                 flag = False
     return dic
 
@@ -261,11 +264,18 @@ def get_speaker_text(root, dic_person):
                     list_sp_text.append(dic_person[who]["social_class"])
                 else:
                     list_sp_text.append(piece_type)
-                    list_sp_text.append("group")
-                    list_sp_text.append("sex_unknown")
-                    list_sp_text.append("job_unknown")
-                    list_sp_text.append("job_category_unknown")
-                    list_sp_text.append("social_class_unknown")
+                    # list_sp_text.append("group")
+                    # list_sp_text.append("sex_unknown")
+                    # list_sp_text.append("job_unknown")
+                    # list_sp_text.append("job_category_unknown")
+                    # list_sp_text.append("social_class_unknown")
+                    # as per tests, seen that source of no match not always group characters
+                    # sometimes data errors result in no match across plays / personography
+                    list_sp_text.append("grp_char/err")
+                    list_sp_text.append("grp_char/gdr_err")
+                    list_sp_text.append("grp_char/job_err")
+                    list_sp_text.append("grp_char/jcat_err")
+                    list_sp_text.append("grp_char/sclass_err")
                 # this was ok for emotion detection but bad for character distinctiveness task,
                 # because this is accepting stage directions and speaker names into the text
                 # kept in the dataframe. So instead will run XPath with lxml to keep child text

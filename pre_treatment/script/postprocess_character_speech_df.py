@@ -18,7 +18,7 @@ except AssertionError:
   assert(indf_path.exists())
 print(f"- Input at {indf_path.absolute()}")
 
-outdf_path = indf_path.with_stem(indf_path.stem + "-postpro7")
+outdf_path = indf_path.with_stem(indf_path.stem + "-postpro10")
 print(f"- Output at {outdf_path.absolute()}")
 
 try:
@@ -60,6 +60,8 @@ volksstuecke = ["bastian-dr-hans-im-schnokeloch",
 
 outdf.loc[outdf["play_short_name"].isin(volksstuecke), "genre"] = "volksstueck"
 outdf.loc[outdf["genre"] == "horreur", "genre"] = "comedy"
+
+outdf.loc[outdf["job_category"].isin(["unknown"]), "job_category"] = "grp_char/jcat_err"
 
 # add play metadata from the play metadata sheet
 # cols to add: author, written, print, thisEdition

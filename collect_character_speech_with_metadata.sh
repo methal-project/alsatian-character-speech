@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
 
+usage(){
+  echo "Usage: $0 [-x|-c|-p]"
+  echo ""
+  echo " -x   Extract speech turns (without stage directions), basic character"
+  echo "      metadata from TEI header and more social metadata from personography"
+  echo "      (one dataframe per play)."
+  echo " -c   Collect the per-play dataframes into a single dataframe for the corpus"
+  echo "      This also triggers a postprocessing (recoding etc.) in the whole-corpus df."
+  echo " -p   Postprocess the whole-corpus df (some recoding and corrections)"
+  echo ""
+}
+
 while getopts "xcp" opt; do
   case "$opt" in
     x) EXTRACT=1
@@ -8,12 +20,14 @@ while getopts "xcp" opt; do
     ;;
     p) POSTPROCESS=1
     ;;
-    *)
-    echo "Incorrect options"
-    exit 1
+    *) usage
     ;;
   esac
 done
+
+#https://unix.stackexchange.com/a/50648
+#echo $OPTIND
+[[ $OPTIND -eq 1 ]] && usage
 
 # run per-play extraction if needed
 if [[ $EXTRACT == 1 ]]; then

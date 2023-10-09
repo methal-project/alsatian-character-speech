@@ -34,12 +34,12 @@ For more details about the categorization, see [our paper](https://univoak.eu/is
 | ---- | ---- | --- | 
 | 0 | speaker | Character name | 
 | 1 | gender | Character gender | 
-| 2 | author | author name | 
-| 3 | date | A date for the play | 
-| 4 | date_type | When it was written, first printed, or print date for the edition we used | 
-| 5 | social_class | Character social class, we estimated this based on information in the *dramatis personæ* | 
-| 6 | job | Character's profession as in the *dramatis personæ* | 
-| 7 | job_category | Professional category using our own taxonomy | 
+| 2 | social_class | Character social class, we estimated this based on information in the *dramatis personæ* | 
+| 3 | job | Character's profession as in the *dramatis personæ* | 
+| 4 | job_category | Professional category using our own taxonomy | 
+| 5 | author | author name | 
+| 6 | date | A date for the play | 
+| 7 | date_type | When it was written, first printed, or print date for the edition we used | 
 | 8 | segment_number | For emotion analysis, the plays get divided into homogeneous segments. This field can be ignored for other purposes. | 
 | 9 | play_short_name | Corresponds to the play's filename in the TEI directories (without *.xml*) | 
 | 10 | genre | We have comedy, drama, volksstueck, tale (*Märel*) | 

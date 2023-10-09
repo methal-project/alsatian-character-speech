@@ -130,7 +130,6 @@ outdf.insert(loc=insert_at+3, column="date_type", value=date_types)
 
 # some speaker names had trailing whitespace
 outdf['speaker'] = outdf.speaker.apply(lambda x:x.strip())
-#outdf['date'] = outdf.date.astype(int)
 
 # write out
 outdf.to_csv(outdf_path, index=False)

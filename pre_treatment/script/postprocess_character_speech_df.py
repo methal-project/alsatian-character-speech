@@ -121,7 +121,7 @@ for idx, row in outdf.iterrows():
 print(f"  - Number of speech turns with date errors: {date_errors} out of {len(outdf)}")
 
 # add the new columns
-insert_at = outdf.columns.to_list().index("gender")
+insert_at = outdf.columns.to_list().index("job_category")
 outdf.insert(loc=insert_at+1, column="author", value=authors)
 outdf.insert(loc=insert_at+2, column="date", value=chosen_dates)
 outdf.insert(loc=insert_at+3, column="date_type", value=date_types)
@@ -130,6 +130,7 @@ outdf.insert(loc=insert_at+3, column="date_type", value=date_types)
 
 # some speaker names had trailing whitespace
 outdf['speaker'] = outdf.speaker.apply(lambda x:x.strip())
+#outdf['date'] = outdf.date.astype(int)
 
 # write out
 outdf.to_csv(outdf_path, index=False)

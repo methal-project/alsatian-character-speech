@@ -68,7 +68,7 @@ Possible values for this category are:
 |middle_class|very little used|
 |lower_middle_class||
 |lower_class||
-|grp_char/sclass_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
+|grp_char/sclass_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 0.6% of speech turns are affected|
 
 
 #### Professional category
@@ -91,7 +91,7 @@ The professions that were assigned to each category are in the [supplemental mat
 |professional_scientific_technical||
 |rentiers||
 |service_and_sales||
-|grp_char/jcat_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 1% of speech turns are affected|
+|grp_char/jcat_err|Group character we did not have a value for, or due to an error which prevents metadata assignment to this character (e.g. missing character ID). Less than 0.6% of speech turns are affected|
 
 ## Input data and other material
 

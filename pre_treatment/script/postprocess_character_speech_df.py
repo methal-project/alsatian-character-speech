@@ -132,4 +132,4 @@ outdf.insert(loc=insert_at+3, column="date_type", value=date_types)
 outdf['speaker'] = outdf.speaker.apply(lambda x:x.strip())
 
 # write out
-outdf.to_csv(outdf_path, index=False)
+outdf.to_csv(outdf_path, index=False, sep="\t")

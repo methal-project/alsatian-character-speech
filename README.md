@@ -1,5 +1,6 @@
 Character speech extraction
 =========================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10613198.svg)](https://doi.org/10.5281/zenodo.10613198)
 
 Data and code to extract character speech to plays in the Methal corpus and add character metadata from the Methal prosopography, besides plays' basic bibliographic metadata. Output format is delimited (exported pandas dataframe).
 
